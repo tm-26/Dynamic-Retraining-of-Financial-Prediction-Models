@@ -1,0 +1,1183 @@
+Date,Sentence,Prediction,sentimentScore
+2014-01-06,Irish officials are using grants and tax breaks to help small start-ups find room among the Silicon Valley giants that employ thousands in Dublin.,positive,0.5474931001663208
+2014-01-06,Ireland Stirs Homegrown Flavor Into Tech Scene,neutral,0.2456526905298233
+2014-01-08,"Little Eye Labs provides monitoring and analysis tools to measure the performance of Android apps, which will play into Facebook’s mobile strategy.",neutral,0.036409471184015274
+2014-01-08,Facebook to Buy Indian Mobile Analytics Start-Up,neutral,0.16122931241989136
+2014-01-13,"Josh Miller, who once wrote that Facebook has “an irreversibly bad brand,” has accepted its buyout offer for Branch and Potluck, his social network services.",positive,0.3199518322944641
+2014-01-13,"Skeptical of Facebook, Until the Checkbook Came Out",neutral,-0.06176897883415222
+2014-01-15,"There may be a billion people on Facebook, says Jeff Gibbard, but no business needs to reach a billion people.",neutral,0.0027924422174692154
+2014-01-15,A Social Media Marketer Assesses Facebook’s Advertising Platform,neutral,0.007197678089141846
+2014-01-16,An automotive panel in Detroit says 54.5 m.p.g.,neutral,-0.02595946192741394
+2014-01-16,"is possible with current technology; Subaru expects to sell 500,000 vehicles a year in the United States by 2016.",neutral,0.31523099541664124
+2014-01-16,Wheelies: The Better Efficiency Now Edition,neutral,0.39000725746154785
+2014-01-17,What we chase through our digital devices is instant connection and information.,neutral,0.025618894025683403
+2014-01-17,What we get is no more nutritious or enduringly satisfying than a sugary dessert.,neutral,0.007077943533658981
+2014-01-17,"We need instead more wisdom, insight and understanding.",neutral,0.16206099092960358
+2014-01-17,In Praise of Depth,neutral,0.13888299465179443
+2014-01-22,Marijuana ads have been banned by Google and Facebook.,negative,-0.6119179725646973
+2014-01-22,The limits of shipping insurance.,neutral,0.0340091846883297
+2014-01-22,Is 2014 the year of free hardware?,neutral,0.0559697151184082
+2014-01-22,Today in Small Business: ‘Anticipatory Shipping’,neutral,0.050144124776124954
+2014-01-27,"The Obama administration will allow Internet companies to talk more specifically about when they are forced to turn over customer data to the government, the Justice Department said.",neutral,0.3177946209907532
+2014-01-27,U.S. Relaxes Some Data Disclosure Rules,neutral,-0.08656629920005798
+2014-01-28,"The Internet portal and web publisher said its fourth-quarter revenue was $1.27 billion, down 6 percent from the same quarter a year ago.",negative,-0.9695946574211121
+2014-01-28,"With Ad Dollars Elusive, Yahoo’s Revenue Falls",negative,-0.9167548418045044
+2014-01-29,The social networking giant reported that 53 percent of its advertising revenue in the fourth quarter came from mobile devices.,neutral,0.05318034067749977
+2014-01-29,Big Profit at Facebook as It Tilts to Mobile,positive,0.627835750579834
+2014-02-01,Notable quotes from business articles that appeared in The New York Times last week.,neutral,0.01611744984984398
+2014-02-01,"The Chatter for Sunday, Feb. 2",neutral,0.024990886449813843
+2014-02-04,Editors will supplement Facebook’s computers in recommending articles and blog posts on a dozen topics.,neutral,0.01678694412112236
+2014-02-04,"With New App, Facebook Aims to Make Its Users’ Feeds Newsier",neutral,0.2839047312736511
+2014-02-10,"A method to sort apps alphabetically, and how to edit the Facebook “Look Back” greatest-hits movies.",neutral,-0.00431479699909687
+2014-02-10,Sorting iPad Apps by Name,neutral,0.005121160298585892
+2014-02-11,Several challenges await the American payment start-ups Stripe and Square as they pursue international opportunities.,neutral,-0.07533863186836243
+2014-02-11,Stripe and Square Face Complexity Abroad,neutral,0.001032128930091858
+2014-02-13,A class-action settlement intended to ensure that Facebook obtains consent before using people’s images or other data in ads is about to receive another legal challenge.,negative,-0.4305761754512787
+2014-02-13,Daily Report: Facebook Settlement on Ads and Privacy Comes Under Fire,neutral,-0.20367051661014557
+2014-02-15,"The social network, which gets relatively modest traffic, has remained valuable to Google because of the broad view it can give advertisers of people’s activity and interests.",positive,0.5926532745361328
+2014-02-15,The Plus in Google Plus?,neutral,0.018148966133594513
+2014-02-15,It’s Mostly for Google,neutral,0.033613838255405426
+2014-02-18,"The photo- and video-sharing service offers a powerful way for fashion, retail and travel brands to connect with customers, according to a new research report.",positive,0.6454861760139465
+2014-02-18,"If Facebook begins to aggressively market e-commerce and advertising on Instagram, it will generate significant revenue for the social network, the researchers found.",positive,0.7215545773506165
+2014-02-18,Is Instagram Another Path to Riches for Facebook?,neutral,0.06352470070123672
+2014-02-19,The two advisers who helped Facebook make its largest acquisition to date stand to earn tens of millions of dollars for their work.,neutral,0.08280708640813828
+2014-02-19,Advisers on Facebook Deal Could Earn More Than $80 Million,neutral,0.04786130040884018
+2014-02-20,A new Reuters Breakingviews calculator shows how the social networking giant can bring the messaging start-up’s valuation in line with its own.,positive,0.8643255233764648
+2014-02-20,Modeling the Financial Logic for Facebook’s Huge Deal,neutral,0.028776023536920547
+2014-02-21,"There are simple, free ways to stop automated calls, paper junk mail and targeted online ads.",neutral,0.006600106135010719
+2014-02-21,Working to Block Those Advertising Annoyances,neutral,-0.23002977669239044
+2014-02-22,Notable quotes from business articles that appeared in The New York Times last week.,neutral,0.01611744984984398
+2014-02-22,"The Chatter for Sunday, Feb. 23",neutral,0.027642929926514626
+2014-02-23,"In a sign that the tech industry has moved past computers, Mark Zuckerberg, the chief executive of Facebook, will be the most prominent speaker this week at the Mobile World Congress, a trade show revolving around mobile devices.",neutral,0.2113545536994934
+2014-02-23,"At Mobile World Congress, a Sign of Tech Industry’s Shifting Focus",positive,0.5556690692901611
+2014-02-24,"Mark Zuckerberg of Facebook said the acquisition, the largest ever by his company, would allow WhatsApp to focus on connecting more people around the world.",positive,0.8164258003234863
+2014-02-24,Zuckerberg Says WhatsApp Deal Was a Bargain,neutral,0.1275148093700409
+2014-02-25,The prospect of a deal for BlackBerry’s messaging service has helped buoy the ailing smartphone maker’s fortunes.,positive,0.9132978916168213
+2014-02-25,"The company’s chief executive hinted that a sale or spinoff may happen, though not quite yet.",neutral,0.051152896136045456
+2014-02-25,"BlackBerry Chief Demurs on Sale of Messenger Service, for Now",neutral,0.07607835531234741
+2014-03-01,"Some interns at tech companies can make more than the median household income in the United States, according to a recent report by the career website Glassdoor.",neutral,-0.23397983610630035
+2014-03-01,Some Tech Interns Make More Than U.S. Workers,neutral,-0.3558441400527954
+2014-03-04,Facebook is in discussions to acquire a manufacturer of high-altitude drones for about $60 million.,neutral,0.06629028916358948
+2014-03-04,The purchase would allow the social network to advance its ambitions of connecting everyone in the world to the Internet.,positive,0.8447944521903992
+2014-03-04,Now Facebook Has a Drone Plan,neutral,-0.3279736638069153
+2014-03-05,"Under pressure from law enforcement and advocacy groups, Facebook took steps Wednesday to regulate gun sales on its site as well as on its photo-sharing app Instagram.",negative,-0.48228615522384644
+2014-03-05,"With Move to Limit Gun Sales, Facebook Is Caught in Debate",negative,-0.39632272720336914
+2014-03-06,The social media company’s new rules have riled both gun enthusiasts and gun-control advocates in the U.S.,negative,-0.9110747575759888
+2014-03-06,"In other countries, a tangle of regulations will complicate matters.",negative,-0.8656980991363525
+2014-03-06,Facebook’s Gun Sale Changes Could Be Hard to Enforce Around the World,negative,-0.7731232047080994
+2014-03-07,The billionaire investor said in a regulatory filing on Friday that he planned to start using the social network as another platform for his activism campaigns.,neutral,0.05162152647972107
+2014-03-07,He is already on Twitter and has his own corporate blog.,neutral,-0.02889559417963028
+2014-03-07,Icahn Discloses He’s Now on Facebook,neutral,-0.08773638308048248
+2014-03-08,A reader responds to “Monuments of Tech” (March 2).,neutral,0.03866306692361832
+2014-03-08,The Architects’ Role,neutral,0.033908065408468246
+2014-03-10,"The Greeks never figured this out, but perhaps you can.",neutral,0.056462351232767105
+2014-03-10,How can you determine the value of pi using two steel balls?,neutral,-0.05181090533733368
+2014-03-10,The Pi Machine,neutral,-0.06961144506931305
+2014-03-12,"Some apps will alert a user to the birthdays of friends and family members, while others will help prepare and send personalized greetings.",neutral,0.007104640826582909
+2014-03-12,Forget a Birthday?,neutral,-0.3226504325866699
+2014-03-12,Not if the Phone Can Help It,negative,-0.4451568126678467
+2014-03-13,"In a public post, Mark Zuckerberg, Facebook’s chief executive, says the U.S. government “should be the champion for the Internet, not a threat.” He said he called the president on Wednesday to complain about the latest revelations of spying by the National Security Agency.",neutral,-0.2818866968154907
+2014-03-13,Facebook’s Zuckerberg Complains to Obama Over Government Spying,negative,-0.8318254351615906
+2014-03-14,"As spring comes into view, it’s time to manage which apps and services have access to your social accounts and can see everything you’re doing.",neutral,0.009690865874290466
+2014-03-14,Spring Cleaning Who Has Access to Your Data,neutral,-0.11638474464416504
+2014-03-16,Facebook paid a lot of money for WhatsApp.,neutral,0.04004252701997757
+2014-03-16,"But as a reporter discovered on a recent trip overseas, the text messaging service has a lot of competition.",neutral,-0.1801568865776062
+2014-03-16,"For Free Texting Apps, the Market Is Far From Conquered",neutral,-0.10494355857372284
+2014-03-17,"Plus, how to share iTunes files between computers.",neutral,0.008424598723649979
+2014-03-17,Measuring the Facebook Cover Photo,neutral,0.01841812953352928
+2014-03-19,"Posts on Secret, an app that allows users to upload anonymous messages, can range from benign to inappropriate, and they are testing the tech industry’s appetite for sharing.",negative,-0.6496175527572632
+2014-03-19,Daily Report: Anonymous Social App Offers a Hotbed of Silicon Valley Gossip,neutral,0.10326990485191345
+2014-03-20,The world’s biggest social network introduced on Thursday a new open-source software language that is focused on helping to build interactive web pages.,neutral,0.38740816712379456
+2014-03-20,"Besides winning geek credibility, it’s the latest version of a decades-old effort in tech to win over as many developers as possible.",positive,0.7966867089271545
+2014-03-20,"Facebook’s Hack, a Language of Tech Competition",neutral,-0.3067629337310791
+2014-03-22,Critics say a judge erred when he accepted Facebook’s argument that a federal privacy law for children under 13 preempted state protections for older children.,negative,-0.8301225900650024
+2014-03-22,U.S. and California Officials Enter Battle Over Facebook Privacy Settlement,negative,-0.9060129523277283
+2014-03-23,"To deal with car owners’ concerns after a long-delayed safety recall, General Motors is turning to forums like Twitter and Facebook.",negative,-0.5029981136322021
+2014-03-23,G.M.,neutral,0.048085395246744156
+2014-03-23,Uses Social Media to Manage Customers and Its Reputation,neutral,0.007416807115077972
+2014-03-25,"Facebook announced that it had reached an agreement to buy Oculus VR, the maker of a virtual reality headset, in a bet that social networking will one day become an immersive, 3-D experience.",positive,0.8745027780532837
+2014-03-25,Facebook in $2 Billion Deal for Virtual Reality Company,neutral,0.2097116857767105
+2014-03-26,"A $165 billion market value and dual-class share structure allow Mark Zuckerberg to spend the company’s stock on little more than a hunch, writes Richard Beales of Reuters Breakingviews.",neutral,0.03408528119325638
+2014-03-26,Facebook’s Alternate Financial Reality,neutral,-0.2271740436553955
+2014-03-27,Facebook’s acquisition of Oculus VR has brought attention to its co-founder Palmer Luckey and the Southern California tech scene where his company took root.,positive,0.5423661470413208
+2014-03-27,"Daily Report: Inventor Behind Oculus Rift, a Virtual Reality Sensation",neutral,-0.009649746119976044
+2014-03-28,Box’s documents filed for its initial public offering show that the cloud-storage firm is losing a lot of money.,negative,-0.9560540318489075
+2014-03-28,There’s another way to say this: It’s giving customers lots of services for free.,neutral,0.07465449720621109
+2014-03-28,And it’s not alone.,neutral,0.07229651510715485
+2014-03-28,The Tech Bubble’s Silver Lining: Cheap Services for Everyone,neutral,0.017653688788414
+2014-03-29,A surge in Internet and biotech stock values recalls an earlier bubble.,positive,0.8321471810340881
+2014-03-29,But prices of other stocks seem more tethered to reality.,neutral,0.0633544921875
+2014-03-29,"In Some Ways, It’s Looking Like 1999 in the Stock Market",neutral,-0.06101515516638756
+2014-03-30,"The social network has made some recent moves that suggest it is determined to follow its own path, regardless of what outsiders think.",positive,0.587970495223999
+2014-03-30,Is Facebook Too Big to Care?,negative,-0.4593302607536316
+2014-03-31,The pleas of seven former employees of Dewey & LeBoeuf have been unsealed.,negative,-0.5372619032859802
+2014-03-31,| Comcast’s chief executive is looking beyond cable.,neutral,0.051014527678489685
+2014-03-31,| Is Facebook too big to care?,negative,-0.4889043867588043
+2014-03-31,| A lawyer takes on fiduciary failures.,negative,-0.5910201072692871
+2014-03-31,| The author Michael Lewis is taking aim at high-speed traders.,neutral,-0.17380230128765106
+2014-03-31,"The ‘Dewey Seven’ Pleas, Unsealed",neutral,-0.07539230585098267
+2014-04-01,"April 1 is a day for pranksters, and businesses and chambers of commerce are vying for top attention.",neutral,-0.30795300006866455
+2014-04-01,Beware the April Fools’ Jokes Coming From Madison Avenue,neutral,-0.1467033326625824
+2014-04-02,"Jeremy Bailenson, who directs Stanford’s Virtual Human Interaction Lab, says virtual reality is the natural extension of every major technology being used today.",neutral,0.07710052281618118
+2014-04-02,"If You Like Immersion, You’ll Love This Reality",neutral,0.16206201910972595
+2014-04-03,What you are doing wrong on Facebook.,negative,-0.626496434211731
+2014-04-03,Crowdfunding’s next frontier.,neutral,0.37809526920318604
+2014-04-03,And what happens to your company’s online accounts when the one person with access dies?,neutral,-0.41731566190719604
+2014-04-03,Today in Small Business: What to Pay Yourself,neutral,-0.06599760055541992
+2014-04-10,"New research suggests that when Americans decide to watch a television show, they’re not paying much attention to social networks.",negative,-0.7248031497001648
+2014-04-10,Twitter and Facebook Wield Little Influence on TV Watching,neutral,-0.10737776756286621
+2014-04-11,"Plus, creating group photo albums on Facebook.",neutral,0.005139755085110664
+2014-04-11,Unlocking Android With a Glance,neutral,0.007768407464027405
+2014-04-14,"Following in Facebook’s footsteps, Google said Monday that it had purchased Titan Aerospace, the maker of high-altitude drone satellites, which will be used to take photos of the earth and to connect people to the Internet.",positive,0.5951575040817261
+2014-04-14,"With Purchase of Drone Maker, Google Sees a Fleet of Satellites",neutral,0.44818249344825745
+2014-04-15,"The social network is removing messaging from its smartphone app, requiring users to install a separate piece of software to restore the feature.",negative,-0.8552683591842651
+2014-04-15,Facebook says the strategy will speed up the user experience.,positive,0.8647820353507996
+2014-04-15,Facebook Requires Users to Install Separate Messaging App,neutral,-0.05928662419319153
+2014-04-16,"There are simple ways to make platforms like Twitter and Facebook more useful, like making lists and trimming back groups.",neutral,0.05369056761264801
+2014-04-16,Cut the Clutter in Your Social Media Accounts,neutral,-0.128391295671463
+2014-04-17,"The company said the policy, which said consumers “joining our online communities” could not sue the company, did not apply to its Facebook and Twitter accounts.",neutral,-0.2644135057926178
+2014-04-17,General Mills Amends New Legal Policies,neutral,0.12556985020637512
+2014-04-18,Is Facebook’s main service still relevant?,neutral,0.05007451772689819
+2014-04-18,"An argument for why it feels fusty, and why Mark Zuckerberg seems to know it.",neutral,-0.01024477556347847
+2014-04-18,Facebook’s Existential Crisis,neutral,-0.36631786823272705
+2014-04-19,Notable quotes from business articles that appeared in The New York Times last week.,neutral,0.01611744984984398
+2014-04-19,"The Chatter for Sunday, April 19",neutral,0.031455256044864655
+2014-04-20,"By using social media bots, celebrities, politicians and others can falsely inflate the number of friends and followers they have, possibly swaying public opinion about a new song — or a policy position.",negative,-0.9063071608543396
+2014-04-20,"Friends, and Influence, for Sale Online",neutral,0.022388268262147903
+2014-04-21,The largest social sites garner the most visits from mobile devices and from laptop computers and desktop PC’s.,neutral,0.006009256467223167
+2014-04-21,"Facebook, with a 59.65 percent share in March, dominated traffic from computer users, followed by You Tube (23.02 percent), Twitter (2.29), Google Plus (1.71) and Yahoo Answers (1.07).",neutral,0.11181142926216125
+2014-04-21,Popular Demand,neutral,0.06970230489969254
+2014-04-23,"The company reported 1.28 billion monthly users, most on mobile devices, and easily exceeded analysts’ expectations for revenue and profit.",positive,0.8133775591850281
+2014-04-23,Facebook Profit Tripled in First Quarter,positive,0.890917181968689
+2014-04-24,The Heartlbleed bug that weakened the security of millions of web servers and Internet-connected devices also exposed a flaw in open-source software maintenance that many have promised to fix.,negative,-0.8889607787132263
+2014-04-24,Companies Back Initiative to Support OpenSSL and Other Open-Source Projects,positive,0.5314821600914001
+2014-04-26,Notable quotes from business articles that appeared in The New York Times last week.,neutral,0.01611744984984398
+2014-04-26,"The Chatter for Sunday, April 27",neutral,0.037016697227954865
+2014-04-28,"Shows can be saved manually, but there are also ways to automatically keep files backed up.",neutral,-0.00216599740087986
+2014-04-28,"Also, blocking Facebook game requests.",negative,-0.5245748162269592
+2014-04-28,How to Back Up iTunes Podcasts,neutral,0.05424745753407478
+2014-04-29,"The money, which brings Doximity’s total financing to $81 million, highlights investor appetite for relatively specialized social networks.",positive,0.8770543932914734
+2014-04-29,"Doximity, an Online Network for Doctors, Raises $54 Million",positive,0.7981728911399841
+2014-04-30,"The company’s move is part of its goal to become a platform on which other apps run, with Facebook accounts used as universal IDs.",neutral,0.43275681138038635
+2014-04-30,Facebook to Let Users Limit Data Revealed by Log-Ins,neutral,-0.12035012245178223
+2014-05-01,John Carmack is one of the most celebrated technical wizards in the video game business.,neutral,0.08020452409982681
+2014-05-01,Now his involvement with the virtual reality start-up Oculus VR is prompting accusations from his old employer that he went too far in helping the company improve its technology.,negative,-0.8779269456863403
+2014-05-01,Game Legend Carmack at Center of Oculus Dispute,neutral,0.0034494102001190186
+2014-05-02,"A new book argues that more people can and should become angel investors, but that they must expect plenty of failures along with the rare big win.",neutral,0.17810805141925812
+2014-05-02,Billions Not Required for Angel Investing,neutral,0.029458019882440567
+2014-05-05,"Companies try to reach multitasking television watchers through their smartphones, tablets and laptops with Twitter and Facebook posts that are relevant to popular programs.",neutral,0.00123702734708786
+2014-05-05,Advertisers Seek a ‘Second Screen’ Connection With Viewers,neutral,0.011073648929595947
+2014-05-06,"The Financial Industry Regulatory Authority said Morgan Stanley did not follow proper procedures in the initial public offerings for 83 companies, including those of Facebook and Yelp.",negative,-0.938748300075531
+2014-05-06,Morgan Stanley Fined $5 Million Over I.P.O.,negative,-0.9232661128044128
+2014-05-06,Work,neutral,0.033327244222164154
+2014-05-07,"Immigration agencies around the world have learned to use technology, including Facebook, Google and Twitter, to screen travelers for evidence of a criminal record, political activism or intention to work without a visa.",neutral,0.11717291176319122
+2014-05-07,Your Digital Trail Follows You to the Border,neutral,0.04049278050661087
+2014-05-08,The Federal Trade Commission’s privacy agreements with tech companies haven’t led to a general improvement in privacy.,positive,0.8783034086227417
+2014-05-08,Another Tech Company Finds the F.T.C.,negative,-0.6796108484268188
+2014-05-08,Looking Over Its Shoulder,neutral,-0.1330229490995407
+2014-05-09,"While reports of a Facebook phone have been circulating for years, a Facebook patent filing has surfaced that shows the exploration of a unique smartphone with touch pads on the rear and side of the device.",neutral,0.049959342926740646
+2014-05-09,A Patent Surfaces Detailing a Facebook Smartphone,neutral,-0.020538117736577988
+2014-05-12,A study by a team of researchers from the University of Queensland’s psychology school found that people who are ignored on Facebook can feel rejected and have a lower self-esteem.,negative,-0.9200299382209778
+2014-05-12,Study Finds Being Ignored on Facebook May Lower Self-Esteem,negative,-0.922819197177887
+2014-05-15,"Some parents are creating accounts for their babies on Facebook, Twitter, Instagram and other services, long before those children are able to add posts themselves.",neutral,-0.18451373279094696
+2014-05-15,Baby’s First Tweet,neutral,0.05571524798870087
+2014-05-17,Group travel and social events are taking a bigger share of M.B.A. students’ time — and money.,neutral,0.0959419310092926
+2014-05-17,"In B-School, Is That a Syllabus, or an Itinerary?",neutral,-0.010738786309957504
+2014-05-19,"A strong weekend depends on factors like other potential blockbusters, star power and popular sequels.",neutral,0.16069915890693665
+2014-05-19,"“Fast and Furious 6” opened opposite “The Hangover III” last year, and in the second week of “Star Trek Into Darkness.”",neutral,0.03414072096347809
+2014-05-19,Popular Demand,neutral,0.06970230489969254
+2014-05-21,"The accusations by ZeniMax, a games publisher, center on the technical assistance John Carmack, a famed game programmer and former ZeniMax employee, provided to a co-founder of Oculus.",negative,-0.8251934051513672
+2014-05-21,Virtual Rift Leads to Legal Rift for Oculus and ZeniMax,negative,-0.7700684666633606
+2014-05-22,"The change in default settings and the person-by-person review, which may surprise users who suddenly realize how widely their personal information has been shared, is a sharp reversal for Facebook.",positive,0.15843990445137024
+2014-05-22,"Daily Report: Facebook, in Shift, to Tighten Privacy Settings",positive,0.3894397020339966
+2014-05-23,"On Thursday, Facebook showed off a blue dinosaur character that will become the privacy ambassador on the social network.",neutral,0.06298290193080902
+2014-05-23,"But the dinosaur could follow in the path of Microsoft’s Clippy, and Twitter’s Fail Whale, both of which were meant to help users and ended up being hated by people.",negative,-0.6984097361564636
+2014-05-23,Facebook’s New Privacy Mascot: The Zuckasaurus,neutral,0.012288946658372879
+2014-05-28,Facebook is turning to the European Commission in hopes of sidestepping country-by-country hurdles to the potential $19 billion acquisition.,neutral,0.32901400327682495
+2014-05-28,Facebook Wants European Blessing for WhatsApp Deal,neutral,0.0757216066122055
+2014-05-29,"Dick Costolo, chief executive of the social network, said Twitter is trying to make its service easier to use, including using a mix of human curation and more sophisticated computer formulas to showcase the most relevant posts for each individual.",neutral,0.355239599943161
+2014-05-29,Making Twitter Easier to Use,neutral,0.08851493895053864
+2014-06-05,"James W. Breyer will advise and invest alongside IDG Capital Partners, which is expected to make early stage investments in Chinese technology, media and telecommunication companies.",neutral,0.08955306559801102
+2014-06-05,Accel’s Breyer to Partner With Venture Capital Firm in China,neutral,0.39776548743247986
+2014-06-07,Internet companies like Google and Facebook are working to keep governments and their spy agencies out of their servers after revelations that they had been invaded.,negative,-0.8406630754470825
+2014-06-07,Internet Giants Erect Barriers to Spy Agencies,neutral,-0.20497086644172668
+2014-06-09,"TransferWise, which uses peer-to-peer technology to swap currencies without large bank transfer fees, says it has raised $25 million from investors.",positive,0.8177034258842468
+2014-06-09,A Lift for One of London’s Financial Tech Start-Ups,positive,0.7961282730102539
+2014-06-10,"The company announced that it had hired David Marcus, PayPal’s president, to lead the expansion of messaging products — and eventually, to figure out how to make money from them.",positive,0.5218114852905273
+2014-06-10,Facebook Hires From PayPal to Focus on Messaging,neutral,0.038351744413375854
+2014-06-11,"Full-featured apps from WordPress, Blogsy and others make it easy to create multimedia-rich blog posts from a smartphone or tablet.",neutral,0.021617049351334572
+2014-06-11,Mobile Blogging Options Simplify Storytelling on the Go,neutral,0.11173222959041595
+2014-06-12,"The service plans to announce that it is going to give its users the ability to see the marketing files that it keeps on them and change, add or delete data from them.",neutral,0.16767288744449615
+2014-06-12,Daily Report: Facebook to Give Users More Control Over Marketing Data,positive,0.6565951704978943
+2014-06-17,"On Tuesday, Facebook rolled out Slingshot, a stand-alone app that lets users share photo and video messages that are then meant to disappear.",neutral,0.42188093066215515
+2014-06-17,Facebook Releases Slingshot for Self-Destructing Selfies,neutral,-0.008239597082138062
+2014-06-18,"The social media giant announced that it had created a new kind of computer networking switch, potentially capable of shifting data rapidly through the largest data centers.",positive,0.6455276608467102
+2014-06-18,Facebook Makes Its Own Computer Networking Switch,neutral,0.01512666791677475
+2014-06-19,"Users from London to Hong Kong were unable to log into their accounts for more than a half-hour, though Facebook said later it had “resolved the issue quickly, and we are now back to 100 percent.”",negative,-0.9349382519721985
+2014-06-19,Facebook Service Restored After Worldwide Cutoff,negative,-0.0854523777961731
+2014-06-21,"Social Sweepster, a new service, says it can scan photos for telltale signs of youthful indiscretions, like red party cups.",neutral,-0.06779338419437408
+2014-06-21,It joins several services trying to help people erase evidence of behavior prospective employers may not find amusing.,neutral,-0.07842352241277695
+2014-06-21,New Offering for Job Seekers: Fewer Embarrassing Social Media Photos,neutral,0.0727517157793045
+2014-06-23,"Plus, how to paste text from a web page without also getting all the strange formatting.",neutral,-0.028670214116573334
+2014-06-23,Finding Old Posts on the Facebook Timeline,neutral,-0.15534210205078125
+2014-06-25,"In a filing Wednesday in the Federal District Court in Dallas, Oculus said ZeniMax was largely indifferent to virtual reality in general and Oculus in particular until Facebook announced a $2 billion agreement to acquire Oculus.",neutral,-0.2923116385936737
+2014-06-25,"Oculus Portrays Accuser as Opportunist, in Lawsuit Over Virtual Reality Technology",negative,-0.8946897387504578
+2014-06-26,The New York district attorney’s office demanded account details of 381 people for an investigation that led to indictments on Social Security fraud charges.,negative,-0.8467445373535156
+2014-06-26,"Forced to Hand Over Data, Facebook Files Appeal",negative,-0.8981807231903076
+2014-06-27,It is a rare product misstep for Facebook.,negative,-0.9211796522140503
+2014-06-27,Its Home software was supposed to turn an Android smartphone into a Facebook phone.,neutral,-0.022668326273560524
+2014-06-27,But it never caught on with users.,neutral,-0.3032086193561554
+2014-06-27,What Happened to the Facebook Phone?,negative,-0.5193033814430237
+2014-06-27,"Not Very Much, It Seems",neutral,-0.04540032893419266
+2014-06-28,"Instead of combing through profiles on dating sites, some people prefer making their connections on Facebook or Instagram.",neutral,-0.183574378490448
+2014-06-28,"Cupid’s Arrows Fly on Social Media, Too",neutral,-0.03016066923737526
+2014-06-30,Facebook apologized for its study of how people’s emotions are affected by social media posts.,negative,-0.890580952167511
+2014-06-30,And it’s not the first mea culpa for the company.,neutral,0.08018140494823456
+2014-06-30,Facebook Says It’s Sorry.,negative,-0.6094483137130737
+2014-06-30,We’ve Heard That Before.,neutral,0.06501750648021698
+2014-07-02,"Those concerned about their online profiles have a range of options, from deactivating their accounts completely to limiting who sees past posts.",neutral,-0.07016706466674805
+2014-07-02,"Swear Off Social Media, for Good or Just for Now",neutral,-0.26281049847602844
+2014-07-03,"The Electronic Privacy Information Center said Facebook deceived its users and violated a consent decree with American regulators with a study that manipulated the emotional tone of the news feeds of 700,000 users without their explicit consent.",negative,-0.9291746020317078
+2014-07-03,Privacy Group Complains to F.T.C.,negative,-0.90280681848526
+2014-07-03,About Facebook Emotion Study,neutral,-0.07617436349391937
+2014-07-05,Notable quotes from business articles that appeared in The New York Times last week.,neutral,0.01611744984984398
+2014-07-05,"The Chatter for Sunday, July 6",neutral,0.03182997554540634
+2014-07-07,"European consumers may criticize Facebook’s privacy policies or working conditions at Amazon, but they are still hooked on American technology companies.",negative,-0.8620876669883728
+2014-07-07,"Daily Report: Personal Objections Aside, Europeans Still Hooked on U.S. Tech Titans",neutral,0.07675114274024963
+2014-07-14,"The 2014 World Cup was a tremendous hit on television, online and in social media like Facebook, Twitter and YouTube.",positive,0.6886957883834839
+2014-07-14,Germany 1.,neutral,0.02896786294877529
+2014-07-14,"World Cup Fever 1,000.",neutral,0.003739692270755768
+2014-07-16,Thomas Enders admires the speed and innovation achieved by American high-tech giants — and may even see them as future partners.,positive,0.6249780654907227
+2014-07-16,"Analyzing Next Steps, Airbus Chief Is Closely Watching Google and Facebook",neutral,0.038143351674079895
+2014-07-17,"Twitter and Facebook, which are fighting for the attention of social media users and advertisers, both announced baby steps into the world of e-commerce on Thursday.",neutral,0.2719924747943878
+2014-07-17,Coming Soon to Social Media: Click to Buy Now,neutral,-0.026571497321128845
+2014-07-18,Facebook tests a “buy” button.,neutral,-0.07346127927303314
+2014-07-18,The Consumer Product Safety Commission orders a recall of Buckyballs.,negative,-0.7989422678947449
+2014-07-18,And some theories on why workers are disappearing from the job market.,negative,-0.4759434759616852
+2014-07-18,Today in Small Business: When Is the Best Time to Send a Marketing Email?,neutral,-0.04873434454202652
+2014-07-21,"When Apple announces its quarterly results on Tuesday, the power of the iPhone will be put to the test.",neutral,0.050955791026353836
+2014-07-21,Facebook and Apple Posting Quarterly Earnings This Week,negative,-0.8739067316055298
+2014-07-23,"The social media company’s report on employees’ gender and ethnic backgrounds is the latest in a string of reports indicating that when it comes to diversity, the tech industry has “a lot of work to do.”",neutral,0.12359854578971863
+2014-07-23,"Twitter, Like Other Big Tech Companies, Comes Up Short on Diversity",negative,-0.9265424013137817
+2014-07-24,"Mobile devices accounted for nearly two-thirds of the social networking company’s revenue, which rose 61 percent over the second quarter of 2013.",positive,0.8451971411705017
+2014-07-24,Daily Report: Mobile Advertising Lifts Profit at Facebook,positive,0.790156900882721
+2014-07-26,Notable quotes from business articles that appeared in The New York Times last week.,neutral,0.01611744984984398
+2014-07-26,"The Chatter for Sunday, July 27",neutral,0.03216751664876938
+2014-07-29,The dating website OKCupid published the results of three experiments it conducted on users in the name of social science.,neutral,-0.0775148794054985
+2014-07-29,OKCupid Plays With Love in User Experiments,neutral,-0.03183381259441376
+2014-07-30,"If a deal was reached, it would represent a big bet on the future of Snapchat.",positive,0.6145139336585999
+2014-07-30,"Alibaba, meanwhile, has stepped up its venture capital investments as it prepares for its I.P.O.",positive,0.6961018443107605
+2014-07-30,Snapchat Said to Have Had Talks With Alibaba on Potential Investment,neutral,0.06715000420808792
+2014-08-01,"The Chinese retail giant has made a half-dozen major investments in American start-ups over the last year, focusing on mobile and e-commerce.",neutral,0.37684640288352966
+2014-08-01,Daily Report: Alibaba Pours Big Money Into Some American Tech Companies,neutral,0.20890948176383972
+2014-08-04,"To grab some of television’s ad dollars, Facebook is trying to help advertisers reach potential buyers with exacting precision.",neutral,0.20938514173030853
+2014-08-04,Daily Report: Turning Users Into Customers at Facebook,neutral,0.07679679989814758
+2014-08-05,"A buying spree among technology companies has revolutionized the venture capital business model, Steven Davidoff Solomon writes in the Deal Professor.",positive,0.7391056418418884
+2014-08-05,New Buying Strategy as Facebook and Google Transform Into Web Conglomerates,neutral,0.4428991675376892
+2014-08-07,Facebook ads are becoming more expensive for small businesses.,neutral,-0.048950884491205215
+2014-08-07,Five questions to ask before firing an employee.,neutral,-0.3630051016807556
+2014-08-07,What to do when a client says you are charging too much.,neutral,-0.3891540467739105
+2014-08-07,Today in Small Business: Legal Sea Foods Is Not a Chain!,neutral,-0.03196552023291588
+2014-08-09,Facebook users are angry over a forced migration to the company’s Messenger app and worried about its privacy implications.,negative,-0.951356828212738
+2014-08-09,Are they overreacting?,negative,-0.7670838832855225
+2014-08-09,"Facebook Messenger Switch Controversy Is Part Misunderstanding, Part Mistrust",negative,-0.8653129935264587
+2014-08-12,"Following Google, Twitter, and Facebook, Apple has published a report summarizing the makeup of its work force in terms of race and gender.",neutral,-0.029541442170739174
+2014-08-12,Apple’s Diversity Mirrors Other Tech Companies’,neutral,0.21153703331947327
+2014-08-13,"Personal data on millions of people can now be analyzed by researchers without the subjects’ knowledge, posing an ethical problem.",negative,-0.8352355360984802
+2014-08-13,"Daily Report: As Social Media Studies Proliferate, Experts Weigh Ethics Guidelines",neutral,-0.0822790265083313
+2014-08-18,"Companies like Google are employing unorthodox criteria — say, whether a product is used daily, like a toothbrush — to size up their deal targets, and without the advice of Wall Street bankers.",neutral,-0.40353816747665405
+2014-08-18,"In Silicon Valley, Mergers Must Meet the Toothbrush Test",neutral,0.01217663660645485
+2014-08-19,A designer who used to work at Facebook tracked and compiled all of his daily activities for the past year as a sort of art project at the nexus of monitoring and big data.,neutral,-0.13058939576148987
+2014-08-19,A Life in Data: Nicholas Felton’s Self-Surveillance,neutral,0.009230002760887146
+2014-08-20,"Google, Apple, Facebook and others let you collaborate with people to create shared albums from events or your recent trip.",neutral,-0.005775764584541321
+2014-08-20,"Sharing, and Borrowing From, the Vacation Photo Album",neutral,0.036969929933547974
+2014-08-22,Banks fear competition for top talent from companies like Google and Facebook that can offer similarly high pay combined with luxurious benefits.,negative,-0.8539234399795532
+2014-08-22,Wall Street Banks Dig Deeper to Keep Best and Brightest Junior Bankers,neutral,0.017725124955177307
+2014-08-25,Twitter is changing what happens when you press “favorite” in response to a tweet.,neutral,-0.08400367945432663
+2014-08-25,The move could put an end to one of the most useful nonverbal cues on the Internet.,neutral,-0.004320606589317322
+2014-08-25,"Save the Fav, Twitter’s Digital Body Language",neutral,-0.10944876819849014
+2014-08-27,"A book offers an optimistic view of the effects of technology, but its arguments have one big blind spot: human behavior.",neutral,-0.003965768963098526
+2014-08-27,"The Future Could Work, if We Let It",neutral,0.44330257177352905
+2014-08-28,"The commissioner will be responsible for protecting the rights of those who use technology services outside the United States, including many users of Facebook, LinkedIn and Apple.",neutral,0.03754128888249397
+2014-08-28,Irish Panel to Pick a Regulator With Global Reach in Overseeing Data Privacy,neutral,0.11423992365598679
+2014-08-29,"A five-person panel of civil servants and privacy experts will choose a data protection commissioner, who will have a large say in how Internet giants including Facebook and Apple use online information from roughly a billion users.",neutral,0.049041662365198135
+2014-08-29,Ireland’s Data Privacy Regulator Will Have Global Sway,neutral,0.003318989649415016
+2014-09-07,"As our online personal information has become less and less personal, the privacy pendulum may now ready to switch directions.",neutral,-0.026699692010879517
+2014-09-07,Facebook Generation Rekindles Expectation of Privacy Online,positive,0.7638868093490601
+2014-09-08,"The feature will allow users to buy products with a couple of clicks, and it comes after Facebook began testing a similar button in July.",neutral,0.14503580331802368
+2014-09-08,Twitter Begins Testing a ‘Buy’ Button for Instant Purchases by Its Users,neutral,0.11256477981805801
+2014-09-10,"Political organizations, with the help of social media, are connecting voters to their online profiles.",neutral,0.021936777979135513
+2014-09-10,"On Facebook, Nobody Knows You’re a Voter.",neutral,-0.15035010874271393
+2014-09-10,"Well, Almost Nobody.",neutral,-0.0728788822889328
+2014-09-15,"Google, Walmart and Facebook are among companies in a new organization dedicated to creating standards and practices for the creation of big free software.",neutral,0.0803312212228775
+2014-09-15,An Alliance of Major Players to Guide Open-Source Software,neutral,0.06912888586521149
+2014-09-19,"Some users find themselves kicked off for reasons that seem arbitrary, and being reinstated can be a frustrating process.",negative,-0.9261773228645325
+2014-09-19,"Barred From Facebook, and Wondering Why",negative,-0.6140245199203491
+2014-09-22,"Virtual reality technology may attract big money from tech giants, but a conference to showcase one company’s products gave plenty of space to the small fry.",neutral,0.24085183441638947
+2014-09-22,Oculus Brings the Virtual Closer to Reality,neutral,0.2304726094007492
+2014-09-24,"Companies like Facebook and Twitter are experimenting with their feeds, sometimes to the chagrin of users who like things the way they are.",negative,-0.6269146203994751
+2014-09-24,Making Adjustments in the Search for the Perfect News Feed,neutral,0.027616240084171295
+2014-09-26,"Why all the fuss about Ello, a new social network that is some amalgam of Twitter, Facebook and Medium, the online publishing start-up, rolled into one?",neutral,0.020324906334280968
+2014-09-26,"For Some Tech Start-Ups Like Ello, Exclusivity Draws Demand",neutral,0.1527414619922638
+2014-09-27,"Continuuity, a big-data start-up that spent three years developing data-analysis software, is donating it to the world as open source, and big business is taking notice.",positive,0.4896657168865204
+2014-09-27,Giving Away Software to Make It More Valuable,neutral,-0.19722002744674683
+2014-09-29,You can see the future of restaurants in San Francisco.,neutral,0.05135679990053177
+2014-09-29,Ten lessons for entrepreneurs from Derek Jeter.,neutral,0.12400350719690323
+2014-09-29,Remember the “fiscal cliff”?,negative,-0.41698041558265686
+2014-09-29,Today in Small Business: Facebook Expands Its Ad Platform,positive,0.9055868983268738
+2014-10-01,"The Indian prime minister’s base is larger than all but 21 American elected officials and current candidates, according to a site that tracks such accounts.",neutral,0.011975165456533432
+2014-10-01,Narendra Modi’s American Facebook Fans,neutral,0.014923058450222015
+2014-10-02,"The social media company said that it would more strictly review its research practices, though it didn’t quite offer how.",neutral,0.10375460237264633
+2014-10-02,"Facebook Promises Deeper Review of User Research, but Is Short on the Particulars",neutral,0.00977608934044838
+2014-10-03,The European Commission approved the deal despite vocal opposition from telecom companies concerned that the acquisition will harm their messaging and voice businesses.,negative,-0.31452518701553345
+2014-10-03,Facebook Receives European Approval for $19 Billion WhatsApp Deal,positive,0.8318132758140564
+2014-10-06,"The professional social network’s Chinese-language version, which lacks certain features of Western versions, seems to have the tacit approval of China’s government.",neutral,0.0959196612238884
+2014-10-06,"To Reach China, LinkedIn Plays by Local Rules",neutral,0.0026352256536483765
+2014-10-07,"The app, which is expected to be released in the coming weeks, reveals a different, experimental take on Facebook’s long-established approach to identity.",neutral,0.06950601935386658
+2014-10-07,Facebook Developing App That Allows Anonymity,neutral,0.006025908514857292
+2014-10-09,Google said that it had removed more links in Europe to content on Facebook from its search results than from any other website.,negative,-0.9362581968307495
+2014-10-09,Google Provides Details on ‘Right to Be Forgotten’ Requests in E.U.,neutral,-0.0010809507220983505
+2014-10-14,"Plus, how to make the move from the iPhoto app in iOS 8.",neutral,0.04421938210725784
+2014-10-14,Hiding History in Firefox,neutral,0.04491996020078659
+2014-10-16,"Facebook decided to pay for some recent deals mostly in stock rather than cold hard cash, a move that cost it billions more, Steven Davidoff Solomon writes in the Deal Professor column.",neutral,0.3114795386791229
+2014-10-16,"In Facebook’s Deals for WhatsApp and Oculus, Lessons on Stock vs. Cash",negative,-0.8116105198860168
+2014-10-17,"Some high-tech companies offer top-shelf extras like gourmet meals and child care, but critics say this just keeps people at work longer.",negative,-0.8742133378982544
+2014-10-17,The Downsides of Generous Workplace Perks,negative,-0.42855167388916016
+2014-10-19,"Rhizome, a New York nonprofit group dedicated to supporting and conserving digital art, has developed a prototype of a tool that records the immersive experience of a website or a social network.",neutral,0.0407017283141613
+2014-10-19,A Dynamic New Tool to Preserve the Friendsters of the Future,positive,0.5022812485694885
+2014-10-20,"The company says the former lawyers for Paul Ceglia, a New York man who claimed that Mark Zuckerberg had given him a large stake in Facebook, continued to argue his case despite knowledge that his evidence was fabricated.",negative,-0.7039176821708679
+2014-10-20,Facebook Sues Lawyers for Pressing Dubious Ownership Case,negative,-0.8979204297065735
+2014-10-22,The social network unveiled a tool that software developers can use to let people more easily log on to smartphone apps.,positive,0.6217654943466187
+2014-10-22,"Twitter Offers Tool, Digits, to Sign In to Apps With Just a Phone Number",neutral,0.00795433297753334
+2014-10-23,The mobile-only app is separate from Facebook’s social network and allows users to create discussion rooms in which anyone can participate using a pseudonym.,neutral,-0.000870807096362114
+2014-10-23,Facebook’s Rooms App Is a Flashback to Internet Bulletin Boards,neutral,-0.11673881113529205
+2014-10-24,"Plus, creating a fund-raising page on Facebook.",neutral,0.22982247173786163
+2014-10-24,Shining a Light on Nosy Apps,neutral,0.127589151263237
+2014-10-26,Twitter will report third-quarter financial results on Monday and the Federal Reserve is likely to announce the end of its latest bond-buying campaign on Wednesday.,negative,-0.5362792015075684
+2014-10-26,"Social Media Reports, a Fed Policy Meeting and Third-Quarter G.D.P.",neutral,0.008114457130432129
+2014-10-27,"Facebook uses mathematical formulas to predict what its users might want to read on the site, from which, a study says, about 30 percent of adults in America get their news.",neutral,-0.03581816703081131
+2014-10-27,How Facebook Is Changing the Way Its Users Consume Journalism,neutral,0.0986817330121994
+2014-10-28,"Based on the data in a new securities filing, Mark Zuckerberg’s company paid about 2,000 times annual revenue for WhatsApp.",neutral,0.02257404290139675
+2014-10-28,Facebook’s $21.8 Billion WhatsApp Acquisition Lost $138 Million Last Year,negative,-0.9578354358673096
+2014-10-29,Deutsche Bank reports third-quarter earnings and management shake-up.,negative,-0.9012770652770996
+2014-10-29,| Facebook plans to increase spending.,positive,0.8660461902618408
+2014-10-29,| The Fed is expected to end its bond-buying program.,negative,-0.45571866631507874
+2014-10-29,| A lesson on saying “no” to a hostile bid.,neutral,0.035993605852127075
+2014-10-29,Morning Agenda: Shake-Up at Deutsche Bank,negative,-0.5315590500831604
+2014-10-30,"Apple’s chief executive was hailed by top executives, including Mark Zuckerberg of Facebook and Sundar Pichai of Google.",positive,0.557964563369751
+2014-10-30,Tim Cook’s Disclosure That He’s Gay Garners Sweeping Praise,neutral,0.062332168221473694
+2014-10-31,"Originally an oral tradition to pass on wisdom from a family patriarch or matriarch, ethical wills today are more likely to be videos or Facebook pages.",neutral,-0.01749606244266033
+2014-10-31,"The Ethical Will, an Ancient Concept, Is Revamped for the Tech Age",neutral,0.24795907735824585
+2014-11-02,"Monster, which revolutionized online job hunting in the 1990s, is trying to reinvent itself for the era of Twitter and Facebook with new products that capitalize on social media.",neutral,0.2551306188106537
+2014-11-02,Monster Moves to Restore a Faded Job Search Brand,neutral,-0.0221279114484787
+2014-11-03,"Publicis Groupe says it believes its cash deal with Sapient, a consulting firm based in Boston, will help it compete with Facebook and Google.",positive,0.9239732027053833
+2014-11-03,"For French Giant Publicis, a Deal for Sapient to Expand in Digital Ads",positive,0.5988869667053223
+2014-11-04,"The cellular provider uses a unique identifier inserted into its customers’ web page requests to tailor advertising to them, raising concerns by online-privacy watchdogs.",negative,-0.9086184501647949
+2014-11-04,Verizon Wireless Under Fire for Ad-Targeting Program,negative,-0.7161658406257629
+2014-11-06,"Five years after the Great Recession reshaped the global economy, charitable giving is making a big comeback.",positive,0.5193272233009338
+2014-11-06,New Donor Generation Stimulates U.S.,positive,0.8732690215110779
+2014-11-06,Giving,neutral,0.05823402851819992
+2014-11-07,The social network rolled out new tools Friday to give users more control over what they see on its main screen.,positive,0.6062789559364319
+2014-11-07,"Facebook has made improving its news feed a top priority, and more changes are coming soon.",positive,0.7739484310150146
+2014-11-07,Facebook Makes Its News Feed a Little Less Frustrating,neutral,-0.3280625343322754
+2014-11-11,Companies like Facebook and Google have stayed away from mobilizing their users to support an issue that primarily affects smaller Internet upstarts.,negative,-0.8611881732940674
+2014-11-11,"In Net Neutrality Push, Internet Giants on the Sidelines",negative,-0.6381236910820007
+2014-11-12,Companies like Facebook and Google have stayed away from mobilizing their users to support an issue that primarily affects smaller Internet upstarts.,negative,-0.8611881732940674
+2014-11-12,Daily Report: Internet Giants Largely Stay Out of Net Neutrality Push,negative,-0.6276306509971619
+2014-11-13,The social network will give users simpler explanations and animated tutorials on major privacy features.,neutral,0.007266934961080551
+2014-11-13,But the company is still giving users very little control over how their personal information is used to sell advertising.,negative,-0.5898452997207642
+2014-11-13,Facebook Tries to Explain Its Privacy Settings but Advertising Still Rules,negative,-0.46152859926223755
+2014-11-14,"The company said it was responding to feedback from its users, who were complaining about too many promotional posts.",neutral,0.07478919625282288
+2014-11-14,Facebook Will Curtail Unpaid Ads by Brands,negative,-0.6105837225914001
+2014-11-17,"The company is testing a new product called Facebook@Work, which will allow users to collaborate on projects through group chats and document collaboration with co-workers.",neutral,0.17065051198005676
+2014-11-17,Facebook Testing Collaboration Tools for Businesses,neutral,-0.009832950308918953
+2014-11-18,The popular messaging platform is getting more secure with technology from Open Whisper Systems.,positive,0.6855934858322144
+2014-11-18,WhatsApp Adds Android Encryption,neutral,0.04700738191604614
+2014-11-20,The bus drivers say they are inadequately paid and endure a stressful work schedule of split shifts.,negative,-0.946512758731842
+2014-11-20,Facebook Shuttle Bus Drivers Vote to Unionize,negative,-0.6623449325561523
+2014-11-26,"Although (most) tech start-ups have been on better behavior in 2014, there have been dozens of instances when they acted poorly, even unethically.",negative,-0.9345216751098633
+2014-11-26,Daily Report: Navigating Silicon Valley’s Slippery Moral Slope,neutral,0.2711575925350189
+2014-12-07,"Instead of scanning Twitter or playing Candy Crush in your spare time, a start-up has a way for people to make small bits of money by helping out in labor-intensive projects — one free moment at a time.",neutral,-0.043211929500103
+2014-12-07,How I Made — Instead of Spent — 26 Cents With a Mobile App,neutral,-0.10458800941705704
+2014-12-08,The social network says it will give English-language users in the United States the ability to search the content of Facebook posts to unearth specific bits of information that are currently difficult to find among the more than one trillion posts on the service.,positive,0.6519079804420471
+2014-12-08,Will We Finally Be Able to Search Facebook Posts?,positive,0.6194114089012146
+2014-12-10,"The photo- and video-sharing service says it has 300 million monthly active users, up 50 percent in the last nine months.",positive,0.9105600714683533
+2014-12-10,It’s Official: Instagram Is Bigger Than Twitter,neutral,0.07132555544376373
+2014-12-12,"The chief executive of Facebook addressed a range of questions in his second town hall discussion with users, like the possibility of a new dislike button and his difficulties saying thank you.",neutral,-0.051042404025793076
+2014-12-12,Mark Zuckerberg Says Secret of His Success Is Making Lots of Mistakes,neutral,0.05822625756263733
+2014-12-13,Social media companies are often reluctant to become arbiters of appropriate and inappropriate speech online.,negative,-0.7890550494194031
+2014-12-13,Trying to Swim in a Sea of Social Media Invective,neutral,-0.22941237688064575
+2014-12-15,"Instead of putting stuff on sale, we came up with an exclusive, limited-edition collection of products — at their regular prices.",neutral,0.043607208877801895
+2014-12-15,Why We Don’t Offer Black Friday Discounts,neutral,-0.19023282825946808
+2014-12-16,"Facebook is in the crosshairs of the Dutch privacy regulator, which is investigating the social network’s revamped privacy policy to see if it complies with the country’s tough data protection rules.",negative,-0.45910197496414185
+2014-12-16,Dutch Regulator Investigates Facebook’s Privacy Policy,negative,-0.5543320178985596
+2014-12-17,Andrew Royce Bauer says his Facebook strategy may be a little “spammy” but it works.,neutral,0.14693377912044525
+2014-12-17,What do you think?,neutral,0.03805426508188248
+2014-12-17,"An Online Merchant Collects ‘Likes,’ But Is This the Way to Use Facebook?",neutral,-0.01810598373413086
+2014-12-19,"Facebook’s $1 billion acquisition of the photo-sharing app now looks like quite the bargain, according to a new analysis.",neutral,0.08218804746866226
+2014-12-19,Citigroup Says Instagram Is Worth $35 Billion,neutral,0.03920827433466911
+2014-12-26,Oracle’s purchase of Datalogix sheds a light on an important side of the digital advertising business: connecting an ad you see with a product you buy.,positive,0.7551336884498596
+2014-12-26,"In Advertising, It’s About Who Gets Credit for the Sale",neutral,-0.028942551463842392
+2014-12-28,"On New Year’s Day, the digital scrapbook Pinterest will start selling ads to marketers, competing with Google, Twitter and Facebook for ad revenue from the biggest consumer brands.",positive,0.6252013444900513
+2014-12-28,Pinterest Pushing Deeper Into Ads,neutral,-0.0997994989156723
+2014-12-29,"On New Year’s Day, the digital scrapbook Pinterest will start selling advertising, competing with Google, Twitter and Facebook for marketing revenue from the biggest consumer brands.",positive,0.6411358118057251
+2014-12-29,Daily Report: Pinterest Opening Its Boards to Ads on Wide Scale for First Time,positive,0.8064665794372559
+2014-12-30,"Also, guides for Android users and news from Facebook, including a reminder that a new privacy policy goes into effect Jan. 30.",neutral,0.08652183413505554
+2014-12-30,Managing Mail on the Mac,neutral,-0.1744440197944641
+2014-12-31,"A service lets a person monitor his or her Facebook or Twitter account, for more awareness of one’s online image.",neutral,-0.03639084845781326
+2014-12-31,ThinkUp Helps the Social Network User See the Online Self,neutral,0.038817234337329865
+2015-01-02,"The new year promises further attempts at online censorship, as the web increasingly serves as a platform for civil rights efforts.",neutral,0.04808974266052246
+2015-01-02,Daily Report: Web Freedom Is Seen as a Growing Global Issue,positive,0.6168441772460938
+2015-01-04,"The tendency to listen to the holy music of the self is reflected not only in the selfie stick, but also in apps like Snapchat and Instagram, which pose a profound challenge for media companies.",neutral,0.04609351605176926
+2015-01-04,"Selfies on a Stick, and the Social-Content Challenge for the Media",neutral,-0.00010322034358978271
+2015-01-05,"As people spend more time using apps, their Internet has taken a step backward, becoming more isolated — more like the web before search engines.",neutral,0.08699513226747513
+2015-01-05,"Apps Everywhere, but No Unifying Link",neutral,-0.01424696296453476
+2015-01-06,"As people spend more time using apps, their Internet has taken a step backward, becoming more isolated — more like the web before search engines.",neutral,0.08699513226747513
+2015-01-06,Daily Report: Getting the Apps to Talk to Each Other,neutral,-0.0017602555453777313
+2015-01-09,"Facebook eventually reverts to the “Top Stories” view of its news feed even if “Most Recent” is chosen, but there are ways around this.",neutral,0.03415723517537117
+2015-01-09,Looking for the ‘Most Recent’ Facebook Posts,neutral,-0.08795586228370667
+2015-01-13,Facebook will use its geographic targeting technology to spread the word about abducted children through the news feeds of its American users.,neutral,0.04160703718662262
+2015-01-13,Facebook Will Push Amber Alerts to Users’ News Feeds,neutral,-0.026175253093242645
+2015-01-15,"Imagine a short and very personal TV show: directed, edited and starring you.",neutral,-0.009111596271395683
+2015-01-15,It lasts 24 hours and then — poof!,neutral,-0.053868040442466736
+2015-01-15,— it’s gone.,negative,-0.41173914074897766
+2015-01-15,Daily Report: Starring in Your Own Snapchat Story,neutral,0.04293254390358925
+2015-01-16,The roughly three-month-old online meeting place for hackers and people who want to hire them reports getting a flood of unexpected visitors.,neutral,-0.11647096276283264
+2015-01-16,Hacker’s List Struggles to Keep Up With Its New-Found Fame,negative,-0.9154080152511597
+2015-01-19,Soaring stock prices and major advances in fighting diseases have some saying the industry has turned a corner and others watching for a bursting bubble.,positive,0.4867329001426697
+2015-01-19,"Riding High, Biotech Firms Remain Wary",neutral,-0.168306365609169
+2015-01-27,"In an effort to catch up to rival services like Facebook, Twitter will now allow people to shoot, edit and post video directly from its mobile apps.",positive,0.6632480621337891
+2015-01-27,"Also, private messages on the service can now be sent to as many as 20 people.",neutral,0.036673128604888916
+2015-01-27,Twitter Adds Group Messaging and Video Recording,neutral,0.0035276729613542557
+2015-01-28,"A big increase in stock payouts to employees helped push expenses up, and the stock was down in after-hours trading.",negative,-0.9546230435371399
+2015-01-28,"Facebook Sales Beat Forecasts, but Expenses Increase Even Faster",positive,0.012612998485565186
+2015-02-09,"Google is a major investor in Uber, but as often happens in Silicon Valley, each company is working on products that could wind up directly competing.",neutral,0.10038089752197266
+2015-02-09,Daily Report: Rivalry Brewing Between Uber and Google,negative,-0.5884301662445068
+2015-02-11,"The social networking giant has open sourced a new kind of computer networking switch that is says enables big, fast, efficient data centers for everyone.",neutral,0.44683602452278137
+2015-02-11,Facebook Takes Its Hardware Designs to a Giant Scale,neutral,0.0338781401515007
+2015-02-16,"Every tweet, video or comment online has branding power, just like ads on television or online.",neutral,0.09135455638170242
+2015-02-16,"In a measure of media value that included conversations on Twitter, Facebook, news sites, Google Plus and blogs, the N.F.L.",neutral,0.07504785805940628
+2015-02-16,joined four media giants in the $1 billion-plus club.,neutral,0.053144220262765884
+2015-02-16,"Starbucks, at No.",neutral,0.07070479542016983
+2015-02-16,"11, captured $560 million in equivalent value in 2014.",neutral,0.026688238605856895
+2015-02-16,Popular Demand,neutral,0.06970230489969254
+2015-02-19,Why is Hewlett-Packard undermining its own networking business?,neutral,-0.368435263633728
+2015-02-19,Current events.,neutral,0.023682110011577606
+2015-02-19,Businesses now want open-source software on the cheapest boxes possible.,neutral,0.0695701539516449
+2015-02-19,HP Targets Cisco and Facebook With New Line of Open-Source Networking Gear,neutral,0.1671237051486969
+2015-02-20,"The New York Times Company announced two new nominees for its board, Dara Khosrowshahi, the chief executive of Expedia, and Rebecca Van Dyck, a Facebook executive.",neutral,0.045066557824611664
+2015-02-20,The Times Company Announces Board Nominees With Web Credentials,neutral,0.023370938375592232
+2015-02-25,"Google’s sometimes testy relationship with community leaders in Mountain View, Calif., a city already bursting at the seams, is likely to get testier.",negative,-0.9237112402915955
+2015-02-25,"Google Plans New Headquarters, and a City Fears Being Overrun",negative,-0.486844539642334
+2015-02-28,The bus drivers who transport workers to the campuses of six Silicon Valley employers voted to join the Teamsters to negotiate better working conditions and wages.,positive,0.6284393072128296
+2015-02-28,Silicon Valley Shuttle Drivers Vote to Join Union,neutral,0.1968003213405609
+2015-03-02,"The chief of Facebook outlined why he thinks Internet.org, a service to provide people in emerging markets with free access to some online applications, would help telecommunications carriers persuade customers to spend more on streaming content to their cellphones.",positive,0.5987183451652527
+2015-03-02,Mark Zuckerberg Goes on Charm Offensive for Internet.org,neutral,-0.40701043605804443
+2015-03-05,"Unlike the Nasdaq composite index at its dot-com peak in 2000, today’s index has companies that are more mature and less concentrated in technology.",neutral,0.05091739818453789
+2015-03-05,"Nasdaq Changed in Its Climb to 5,000",positive,0.10934659838676453
+2015-03-10,"The latest development in Facebook’s push of open-source hardware: a new kind of networking switch, a powerful low-energy computer server and a steadily-increasing number of partners.",positive,0.5860193967819214
+2015-03-10,Facebook’s Status Update for Computing,neutral,0.009475700557231903
+2015-03-12,Documents filed Wednesday accuse the Facebook chief executive of reneging on a promise to introduce a would-be neighbor to powerful Silicon Valley friends.,negative,-0.9164535403251648
+2015-03-12,Zuckerberg Lawsuit Documents Show Animosity With Would-Be Neighbor,negative,-0.728846549987793
+2015-03-16,"The world’s largest social network is trying to help users better understand what is allowed on the service, and is also issuing a report on government requests to take down content.",neutral,0.2186158448457718
+2015-03-16,Facebook Clarifies Rules on What It Bans and Why,neutral,-0.021736009046435356
+2015-03-17,"The feature will at first be limited to people who are Facebook friends, but Wall Street expects that such transactions will become a big business.",neutral,0.0388094037771225
+2015-03-17,Facebook Announces a Payments Feature for Its Messenger App,neutral,0.1628739833831787
+2015-03-18,"A partner at the venture capital fund 83North, which led the round of investment, said that his firm had been drawn to PlayBuzz because it provided a means for any website to attract readers.",positive,0.4955691993236542
+2015-03-18,PlayBuzz Rides Quizzes and Lists to $16 Million in Financing,neutral,0.28999051451683044
+2015-03-19,"Chia Hong, a woman of Taiwanese descent, claimed that during her three years working for the social network, she faced discrimination, harassment and retaliation and was unfairly fired.",negative,-0.9208731651306152
+2015-03-19,Former Employee Sues Facebook for Sex and Race Discrimination,negative,-0.8487016558647156
+2015-03-22,February’s Consumer Price Index data will be released on Tuesday.,neutral,0.011835526674985886
+2015-03-22,"Later in the week, Facebook will hold its annual conference for app developers and Janet L. Yellen will speak in San Francisco.",neutral,0.04518341273069382
+2015-03-22,The Latest Data on Consumer Prices and Yellen’s Upcoming Speech,neutral,0.03700212389230728
+2015-03-23,Square is bringing peer-to-peer payments to businesses and trying to make money on the venture.,neutral,0.07115990668535233
+2015-03-23,"Square Opens Square Cash App to Businesses, for a Fee",neutral,0.03053458407521248
+2015-03-24,"The social media giant is said to be in talks with several news publishers, offering to deliver their content quickly, in exchange for a certain loss of control over their readership.",positive,0.7209624648094177
+2015-03-24,Daily Report: Facebook Wants to Be Home to News Media,neutral,0.04022468253970146
+2015-03-25,A theory making the rounds in Silicon Valley warns that Facebook relies too heavily on app ads from start-ups inflated by venture capital.,negative,-0.8955141305923462
+2015-03-25,But the threat is overblown.,neutral,-0.24201686680316925
+2015-03-25,Parrying the Latest Predictions of Facebook’s Demise,neutral,-0.2511100172996521
+2015-03-26,"Michael Schroepfer, Facebook’s vice president of engineering, told developers that the company’s Oculus VR unit would get its PC-based virtual reality headset to consumers this year.",positive,0.7692582607269287
+2015-03-26,That puts a lot of pressure on Oculus.,negative,-0.5968207120895386
+2015-03-26,Facebook Sees Oculus Virtual Reality Headsets Shipping This Year,neutral,0.11912727355957031
+2015-03-29,Patenting everything is so 2005.,neutral,0.04156899079680443
+2015-03-29,"Companies like Facebook and Tesla Motors have followed the lead of open-source software, and now expose hardware designs possibly worth millions.",neutral,0.12855590879917145
+2015-03-29,"For Hardware Makers, Sharing Their Secrets Is Now Part of the Business Plan",neutral,0.02966887131333351
+2015-04-02,"Joe Sullivan, the ride-hailing company’s new chief security officer, will work in areas like securing driver data, and driver and passenger safety.",neutral,0.06755009293556213
+2015-04-02,Uber Hires a Security Chief From Facebook,neutral,-0.1438620388507843
+2015-04-03,New developments offer the latest and perhaps clearest sign yet that American tech giants face intensifying scrutiny in Europe that could curb their profits in the region and affect how they operate around the world.,negative,-0.620507001876831
+2015-04-03,Daily Report: Regulators in Europe Take Aim at American Tech Giants,negative,-0.7879970669746399
+2015-04-07,The technology industry highlights the difficulties that the American economy has had adapting to modern family life.,neutral,0.038094013929367065
+2015-04-07,"Silicon Valley: Perks for Some Workers, Struggles for Parents",neutral,-0.08603385090827942
+2015-04-08,"Trivia quizzes for smartphones feature chats, “trophies” for winners and the ability to play Facebook friends or opponents worldwide.",neutral,0.03849245235323906
+2015-04-08,Video Feature: Take On the World With Trivia Game Apps,neutral,0.02782520465552807
+2015-04-09,"Carmakers embrace social media and spend millions of dollars on sophisticated marketing campaigns, but many dealers barely maintain a Facebook page.",neutral,-0.20622897148132324
+2015-04-09,The Gap Between Auto Dealers and Social Media,neutral,-0.39453229308128357
+2015-04-14,The company says the platform will help brands spend their ad money to maximize the effectiveness of campaigns across various media.,positive,0.7202942371368408
+2015-04-14,"AOL Unveils ONE by AOL, an Advertising Platform",neutral,0.026268254965543747
+2015-04-17,The site lets users deactivate their accounts and then return with all content intact.,neutral,-0.013125866651535034
+2015-04-17,"Permanently deleting an account wipes it, and all the content, out.",negative,-0.8057654500007629
+2015-04-17,"Taking a Facebook Break, Temporarily or for Good",neutral,-0.1658124029636383
+2015-04-20,"The microblogging network, which is primarily geared to public messages, is making it easier for its 288 million users to send private messages to each other.",neutral,0.21631650626659393
+2015-04-20,Twitter Expands Direct Messaging,positive,0.47338610887527466
+2015-04-22,The company said that three-quarters of its first-quarter ad revenue and most of its visitors came from mobile devices.,neutral,0.03782409802079201
+2015-04-22,"Facebook’s Growth Slows Slightly, but Mobile Shift Intensifies",negative,-0.6438602805137634
+2015-04-23,The company said that three-quarters of its first-quarter ad revenue and most of its visitors came from mobile devices.,neutral,0.03782409802079201
+2015-04-23,Daily Report: Facebook’s Earnings Underline a Shift to Mobile,positive,0.6197345852851868
+2015-04-27,"The social networking company has allowed free voice calls on its Messenger app for about two years, but now it is adding video calling, matching a key feature offered by rivals.",positive,0.5270135998725891
+2015-04-27,Facebook Adds Free Video Calls to Messenger App,neutral,0.09721209108829498
+2015-04-29,"The student digital privacy bill comes at a time of widespread government and industry enthusiasm for education technology, along with mounting concerns that many school districts may be ill-prepared to evaluate and adopt digital learning products.",positive,0.11670094728469849
+2015-04-29,Legislators Introduce Student Digital Privacy Bill,neutral,0.055114224553108215
+2015-05-01,The use of emoji — the collection of happy faces and other images that can be used to communicate feelings and sentiments — has become so pervasive on Instagram that the use of Internet slang formed from letters has decreased.,neutral,-0.42848002910614014
+2015-05-01,The Rise of Emoji on Instagram Is Causing Language Repercussions,negative,-0.885956346988678
+2015-05-02,"Mr. Goldberg was a serial Silicon Valley entrepreneur and venture capitalist who was married to Sheryl Sandberg, the chief operating officer of Facebook.",neutral,0.010536523535847664
+2015-05-02,"Dave Goldberg, Half of a Silicon Valley Power Couple, Dies at 47",neutral,-0.3428361415863037
+2015-05-03,The late chief executive of SurveyMonkey and husband of the Facebook executive Sheryl Sandberg was raised around “woman power” and was an avid supporter of female achievement.,neutral,0.06397201120853424
+2015-05-03,Dave Goldberg Was Lifelong Women’s Advocate,neutral,0.08626406639814377
+2015-05-04,"The chief of SurveyMonkey, who was married to Sheryl Sandberg of Facebook, collapsed while exercising at a Mexican resort, according to a government official.",negative,-0.8919591903686523
+2015-05-04,"Dave Goldberg, Silicon Valley Executive, Died of Head Trauma, Mexican Official Says",negative,-0.8801860809326172
+2015-05-05,"The worlds of technology, entertainment and politics converged to remember the chief of SurveyMonkey, who was the husband of Sheryl Sandberg of Facebook.",neutral,0.07682448625564575
+2015-05-05,Dave Goldberg Mourned by Charmed Leaders of Tech and Poker Buddies,neutral,0.009361915290355682
+2015-05-06,"The virtual reality company, which was bought by Facebook last year for $2 billion, says it will begin shipping a consumer version of its flagship headset in the first quarter of 2016.",neutral,0.2117963433265686
+2015-05-06,Oculus has been developing the product for three years.,neutral,0.08694956451654434
+2015-05-06,Oculus to Ship Virtual Reality Headsets in Early 2016,neutral,0.15698577463626862
+2015-05-07,Both Swift Transportation and the social networking giant face shareholder votes to dump feudalistic dual-share structures.,neutral,-0.11878328025341034
+2015-05-07,Trucking Company Shows Facebook Road to Future,neutral,0.20100781321525574
+2015-05-08,"Almost 29 percent of the news stories displayed by Facebook’s News Feed present views that conflict with the user’s own ideology, the study found.",negative,-0.8274996280670166
+2015-05-08,Daily Report: Facebook Use Polarizing?,negative,-0.6903299689292908
+2015-05-08,Site Begs to Differ,neutral,-0.08281312137842178
+2015-05-11,"When the cable company just won’t do, here are tips for finding another way to get online.",neutral,0.03630485385656357
+2015-05-11,Finding a New Broadband Connection,neutral,0.10387532413005829
+2015-05-12,"If a new owner decides to restrict access to Here’s vast trove of mapping data, some of the largest tech companies could find themselves relying on Google’s mapping services once more.",negative,-0.6728119254112244
+2015-05-12,Deal Talks for Here Mapping Service Expose Reliance on Location Data,neutral,-0.3900543451309204
+2015-05-13,Facebook announced on Tuesday that it would require its contractors and vendors to provide better benefits and a minimum hourly wage of $15.,neutral,-0.07680591940879822
+2015-05-13,White House and Labor Advocates Praise Move by Facebook for Higher Wages,positive,0.32474085688591003
+2015-05-14,"Instant articles shift the relationship between publications and readers, by ceding an essential element of control.",neutral,0.04612550884485245
+2015-05-14,But that is already happening.,neutral,-0.03736075758934021
+2015-05-14,Why Facebook’s News Experiment Matters to Readers,neutral,0.03151887655258179
+2015-05-18,Cheryl’s Birthday was a puzzle sensation several weeks ago.,neutral,-0.1476595401763916
+2015-05-18,Can you now figure out Cheryl’s age?,neutral,-0.013500012457370758
+2015-05-18,Kenneth Kong Presents Cheryl’s Birthday — Part 2,neutral,0.10201350599527359
+2015-05-19,"A group of prominent technology companies, including Google and Apple, have sent a letter to President Obama asking him to reject any proposals that would weaken their products’ security.",negative,-0.83016037940979
+2015-05-19,Tech Giants Urge Obama to Reject Policies That Weaken Encryption,negative,-0.6526427865028381
+2015-05-20,The social network lets you assign a sort of executor of your Facebook estate who can update your cover photo and post information.,neutral,0.0020762868225574493
+2015-05-20,"Unlike You, Your Facebook Account Can Be Immortal",neutral,-0.0800565630197525
+2015-05-25,The European Court of Justice is expected to issue a preliminary decision over whether the social network giant can continue transferring data between Europe and the United States.,neutral,0.07194169610738754
+2015-05-25,"As Facebook Sweeps Across Europe, Regulators Gird for Battle",neutral,-0.148584246635437
+2015-05-26,The European Court of Justice is expected to issue a preliminary decision over whether the social network giant can continue transferring data between Europe and the United States.,neutral,0.07194169610738754
+2015-05-26,"Daily Report: As Facebook Sweeps Across Europe, Regulators Gird for Battle",neutral,-0.10859403014183044
+2015-06-02,"The mobile photo sharing service, which has been mostly ad-free, is opening its feed to all advertisers and allowing them to target its users demographically.",neutral,0.2753160893917084
+2015-06-02,Instagram to Open Its Photo Feed to Ads,neutral,-0.034780941903591156
+2015-06-04,"Sheryl Sandberg’s post on her late husband, Dave Goldberg, marking the end of a 30-day mourning period, has sparked numerous meditations on grief.",neutral,0.07455341517925262
+2015-06-04,Sheryl Sandberg’s Post on Late Husband Sets  Off Meditations on Grief,neutral,-0.02314644306898117
+2015-06-08,"HackerOne’s co-founders are betting they can persuade the world’s hackers to spend their free time solving security’s problems, not causing them, and that businesses will pay them a bounty for their service.",positive,0.5859204530715942
+2015-06-08,"HackerOne Connects Hackers With Companies, and Hopes for a Win-Win",neutral,0.373124361038208
+2015-06-12,"The company outlined ambitious plans for the virtual reality headset, but didn’t actually demonstrate the product.",neutral,0.041872695088386536
+2015-06-12,Facebook Offers a Glimpse of Oculus Rift Goggles,neutral,0.06830315291881561
+2015-06-17,The decision raised concern among free-speech advocates who feared that newspapers’ ability to publish information would be hampered if they were held responsible for all comments on their sites.,negative,-0.9186455607414246
+2015-06-17,"Estonian News Site Can Be Held Liable for Defamatory Comments, Court Rules",neutral,-0.3923805058002472
+2015-06-18,"For all of Europe’s advantages, its technology sector lags that of the United States.",negative,-0.7629982829093933
+2015-06-18,A dread of failure may be one reason.,negative,-0.46783506870269775
+2015-06-18,A Fearless Culture Fuels U.S. Tech Giants,neutral,0.22357331216335297
+2015-06-24,"Mr. Parker, with his $600 million charitable foundation, argues that his aim is to swing for the fences on issues that he thinks can be solved.",neutral,0.014275528490543365
+2015-06-24,Sean Parker Seeks a New Approach to Charity,neutral,0.0440993458032608
+2015-06-28,"Tech giants like eBay, Facebook and Google acknowledge that they have work to do to increase diversity, but the repetition of that sentiment shows how little has changed.",positive,0.7039467692375183
+2015-06-28,"Behind Silicon Valley’s Self-Critical Tone on Diversity, a Lack of Progress",neutral,-0.40547409653663635
+2015-06-30,Advertisers are given the option to pay for video ads only if users view them for at least 10 seconds.,neutral,0.025416841730475426
+2015-06-30,Facebook Sweetens Terms for Buyers of Video Ads,neutral,0.3144017457962036
+2015-07-01,"Max Schrems, an Austrian law student, had accused the social media giant of violating Europe’s tough privacy rules.",negative,-0.8677172660827637
+2015-07-01,Facebook Wins a Round in Austrian Court Case,positive,0.1875881552696228
+2015-07-05,"Companies like Google, Facebook, Twitter and Pinterest are trying to bridge the gap between smartphone browsing and desktop purchases.",positive,0.6869859099388123
+2015-07-05,"New, Simple ‘Buy’ Buttons Aim to Entice Mobile Shoppers",neutral,0.08949824422597885
+2015-07-06,"Companies like Google, Facebook, Twitter and Pinterest are trying to bridge the gap between smartphone browsing and desktop purchases.",positive,0.6869859099388123
+2015-07-06,"Daily Report: Getting to ‘Buy,’ With a Button on Mobile",neutral,0.03154497593641281
+2015-07-09,Recent research has shown how some websites can produce results that perpetuate bias.,neutral,0.04944518208503723
+2015-07-09,When Algorithms Discriminate,neutral,-0.29713961482048035
+2015-07-10,"If the company, which has been expanding its video offerings, can strike a deal with music labels, it could rival Google’s YouTube.",positive,0.8719651103019714
+2015-07-10,Daily Report: Facebook Said to Seek Licensing Deals for Music Videos,neutral,0.27718865871429443
+2015-07-13,"Susan Wojcicki, YouTube’s chief executive, discussed opportunities in mobile, acquisitions and juggling her five kids and her career at Fortune’s Brainstorm Tech conference on Monday.",neutral,0.1509522944688797
+2015-07-13,"YouTube Chief Talks Children, Mobile and Competition With Facebook",neutral,-0.01440189778804779
+2015-07-17,"Also, the hurdles in managing the Control Center in iOS 8.",neutral,-0.035822656005620956
+2015-07-17,Deleting Facebook Comments in Mobile Apps,neutral,-0.35335803031921387
+2015-07-19,Facebook and other companies have struggled with how wearers of the device could have a good experience with their apps tailored to a small screen.,negative,-0.9149856567382812
+2015-07-19,Apple Waits as App Developers Study Who’s Buying Its Watch,neutral,-0.05514617636799812
+2015-07-21,"A New York appeals court agreed with a lower court that only a defendant could challenge a search warrant, and then only during a hearing before a trial.",neutral,-0.09042218327522278
+2015-07-21,Facebook Loses Appeal on New York Search Warrants,negative,-0.9281433820724487
+2015-07-26,"Financial reports are expected from Twitter and Facebook, along with earnings reports from big oil and confidence and growth measures from the United States.",neutral,0.0646500512957573
+2015-07-26,Economic Measures and an Abundance of Earnings News,neutral,0.07704164832830429
+2015-07-27,"It’s set to be another busy week in technology news, with Twitter and Facebook reporting earnings, but before then, read stories about how algorithms determine if you will pay back a loan or stay in a job and how native advertising is supporting the podcast boom.",neutral,0.3199195861816406
+2015-07-27,Daily Report: How Algorithms Determine Our Character,neutral,0.002840472385287285
+2015-07-29,"The social media company reported continued growth in users, with 1.49 billion people logging on at least once a month.",positive,0.9162803888320923
+2015-07-29,"Facebook Posts Solid Gains, a Feat Eluding Rivals",positive,0.8908060193061829
+2015-07-30,"The company said its unmanned aerial vehicle, intended to bring Internet access to remote areas, is ready for tests in the upper atmosphere, most likely in the United States.",neutral,0.05544665455818176
+2015-07-30,A Facebook Project to Beam Data From Drones Is a Step Closer to Flight,neutral,0.07667867094278336
+2015-07-31,"The chief executive of Facebook, Mark Zuckerberg, disclosed that he and his wife, Priscilla Chan, are expecting a baby girl.",neutral,0.040129318833351135
+2015-07-31,The road to get there wasn’t easy.,neutral,-0.2781432271003723
+2015-07-31,"Mark Zuckerberg Posts on Facebook: After Miscarriages, We’re Having a Baby",neutral,0.18435901403427124
+2015-08-01,"Two technology journalists from The New York Times assess the week’s major news stories from Silicon Valley, including earnings announcements from Facebook and Twitter.",neutral,-0.02072104811668396
+2015-08-01,Farhad and Mike’s Week in Review: Twitter Problems,neutral,-0.029993604868650436
+2015-08-06,Facebook has joined the live-stream scene with a video service that airs clips as they’re happening — but it’s only for famous people.,neutral,0.057292599231004715
+2015-08-06,Facebook Joins the Live-Streaming Crowd With a Service for Celebrities,neutral,0.07557554543018341
+2015-08-07,"Paid paternity leave offers broad benefits, but it won’t become common until prominent men use it and don’t pay a penalty for doing so.",neutral,0.06533877551555634
+2015-08-07,Bringing Paternity Leave Into the Mainstream,neutral,0.15133386850357056
+2015-08-11,A federal judge has refused to throw out a lawsuit filed by a games publisher accusing Oculus VR of stealing trade secrets and code in the creation of the Oculus virtual reality headset.,negative,-0.9034996032714844
+2015-08-11,Game Publisher’s Lawsuit Against Oculus Moves Forward,negative,-0.5973349809646606
+2015-08-21,"Determining whether a browser might be the source of a computer’s sluggishness, and a look at Facebook’s “authentic identity” policy.",neutral,-0.028338180854916573
+2015-08-21,Unseen Burdens in Chrome That Can Lead a Mac to Lag,negative,-0.8924221396446228
+2015-08-23,"Venture capital, private equity and other big investors are increasingly finding technology start-up investment targets in Europe.",neutral,0.23749271035194397
+2015-08-23,Big Investors Are Finding Ripe Start-Up Targets in Europe,neutral,0.23425020277500153
+2015-08-25,The sudden and rapid sell-off across global markets has caught many on Wall Street off guard.,negative,-0.9253491759300232
+2015-08-25,A Stock Market Rout in a Month That Hedge Funds Would Sooner Forget,negative,-0.6175670623779297
+2015-08-26,Facebook is wading into the increasingly crowded field of digital personal assistants with a new offering called M.,neutral,0.04966527968645096
+2015-08-26,Facebook Tests a Digital Assistant for Its Messaging App,neutral,0.03718215599656105
+2015-08-27,"Publications in the United States and Europe gave readers a killer’s vantage point, but there was condemnation of their decisions.",negative,-0.5571470260620117
+2015-08-27,Outrage Over Images of TV Shooting on Newspaper Front Pages,negative,-0.7669389843940735
+2015-08-28,"In 2005, when the first mention of Mr. Zuckerberg appeared in The New York Times, the social-networking site was still something of a novelty.",neutral,-0.008986525237560272
+2015-08-28,Daily Report: From thefacebook.com to One Billion Users in a Single Day,neutral,0.03724389523267746
+2015-08-29,"Reports of Amazon layoffs, a new digital assistant service and artificial intelligence in general.",neutral,-0.34293505549430847
+2015-08-29,Farhad and Mike’s Week in Tech: Facebook Assistant,neutral,-0.06885610520839691
+2015-09-02,"Some predict that ad blockers will lead to an arms race among publishers, advertisers and consumers on how to outdo each other.",negative,-0.9000594615936279
+2015-09-02,"With Technology, Avoiding Both Ads and the Blockers",neutral,0.029035789892077446
+2015-09-03,"A small team at the social media giant is developing the educational software, which is being used in about 30 schools but has much broader ambitions.",neutral,0.04633454233407974
+2015-09-03,Facebook Takes a Step Into Education Software,neutral,0.08997166901826859
+2015-09-07,"As brands try to align themselves with football games beyond television, Google, Facebook, Twitter and Snapchat shop around new marketing products.",neutral,0.14217256009578705
+2015-09-07,"Marketing to Sports Fans Online, With Help From Google and Social Networks",neutral,0.010167526081204414
+2015-09-10,Meyer Malka of Ribbit Capital became a rising force in Silicon Valley by betting on financial technology when few others did.,neutral,0.13150586187839508
+2015-09-10,A Venezuelan in Silicon Valley Finds a Niche in Finance,neutral,0.0946665108203888
+2015-09-15,The social network’s thumbs-up button will soon be accompanied by a way to express more negative emotions.,neutral,-0.10277171432971954
+2015-09-15,Coming Soon to Facebook: A ‘Dislike’ Button,neutral,-0.3271825313568115
+2015-09-16,"Minutes after Mark Zuckerberg of Facebook announced that the company would soon begin testing a button to express negative emotions on the social network, reaction started pouring in.",negative,-0.27923282980918884
+2015-09-16,Daily Report: Fast Reaction to Facebook Adding a New Button,neutral,0.2686474323272705
+2015-09-19,"Twitter and Facebook users rallied around the 14-year-old boy detained for bringing a homemade clock to school, showing the positive side of collective online expression.",positive,0.3170260488986969
+2015-09-19,Farhad and Mike’s Week in Tech: Social Media Defends Ahmed Mohamed,neutral,-0.08246418833732605
+2015-09-20,The fast-food giant asked companies such as Facebook and MasterCard to provide media access to help the World Food Program respond to a growing crisis.,positive,0.5631940960884094
+2015-09-20,McDonald’s Leads Effort to Promote Migrant Aid,positive,0.603875458240509
+2015-09-23,"Traditional television might reach big audiences, but social media outlets like Facebook and Twitter can offer cheaper ways to connect with specific groups.",neutral,0.08293337374925613
+2015-09-23,Fall TV Season Opens Onto a Shifting Ad Landscape,neutral,0.05268525332212448
+2015-09-25,"Subscription snack and food box businesses are popping up everywhere, hoping to cash in on America’s appetite for novelty, convenience and munchies.",neutral,0.3891937732696533
+2015-09-25,"With Subscription Snacks, Entrepreneurs Think Inside the Box",neutral,0.04247346520423889
+2015-09-27,"Dan Bischof, ably assisted by — wait for it — Jeff Chen, makes his New York Times crossword debut.",neutral,0.09747887402772903
+2015-09-27,“Toy Story” Boy,neutral,-0.08003215491771698
+2015-09-28,"How Narendra Modi, India’s prime minister, came to Silicon Valley over the weekend and courted technology companies.",neutral,-0.02421730011701584
+2015-09-28,"Daily Report: Narendra Modi, Indian Prime Minister, Conquers Silicon Valley",neutral,0.23244920372962952
+2015-09-29,"At an advertising industry convention, the digital ad powerhouses Facebook and Google introduced services meant to attract even more digital ad revenue.",positive,0.6257773041725159
+2015-09-29,"Facebook and Google, Two Giants in Digital Ads, Seek More",neutral,0.05237078666687012
+2015-09-30,"The social network will now allow millions of merchants to include buy buttons inside their tweets, allowing Twitter users to buy a product with as few as two taps.",neutral,0.22561898827552795
+2015-09-30,Twitter Makes ‘Buy’ Button Widely Available,neutral,-0.09003821015357971
+2015-10-01,"Discussions about ad blocking are in full swing this week amid Advertising Week, an industry gathering for Madison Avenue and digital ad players.",neutral,0.08197834342718124
+2015-10-01,Daily Report: The Choice of Blocking Ads on Mobile Devices,neutral,-0.03039344772696495
+2015-10-05,"The American social network has partnered with Eutelsat, a French satellite provider, to bring a selection of free Internet services across sub-Saharan Africa through a new satellite in the second half of next year.",positive,0.8587059378623962
+2015-10-05,Facebook Reaches Deal to Beam the Internet to Africa With a Satellite,positive,0.7764257192611694
+2015-10-06,The decision by the European Court of Justice throws into doubt how tech giants like Facebook and Google can use digital data from millions of users.,negative,-0.7528032660484314
+2015-10-06,Data Transfer Pact Between U.S. and Europe Is Ruled Invalid,neutral,0.14983020722866058
+2015-10-07,"The company, in partnership with some publishers, is starting a service that will have the ability to load pages faster on the web through a browser.",positive,0.5764462947845459
+2015-10-07,Google Announces Service to Speed Loading of News Articles,neutral,0.44851213693618774
+2015-10-08,The new reaction icons will be available to most Facebook users in Spain and Ireland by the end of this week.,neutral,0.07650861889123917
+2015-10-08,Facebook to Test Emoji as Reaction Icons,neutral,0.05297321081161499
+2015-10-09,"It began with an Austrian law student in California who “had to write about something,” but has led to a decision that is roiling United States tech companies.",negative,-0.6810432076454163
+2015-10-09,Behind the European Privacy Ruling That’s Confounding Silicon Valley,negative,-0.5506513714790344
+2015-10-10,"There is a lot of speculation about what Jack Dorsey, Twitter’s new chief, may do to change the company.",neutral,-0.003040136769413948
+2015-10-10,Farhad and Mike’s Week in Tech: Figuring Out Twitter’s Future,neutral,0.03772294893860817
+2015-10-14,Analysts say Twitter’s cuts show something may be wrong inside the company.,negative,-0.9519555568695068
+2015-10-14,"But when tech giants cut thousands of jobs, the hand-wringing is far more subdued.",negative,-0.7048469185829163
+2015-10-14,Daily Report: Putting Twitter’s Layoffs in Perspective,negative,-0.5914851427078247
+2015-10-20,The group of leading global privacy experts hopes to see greater cooperation between Europe’s privacy regulators and the Federal Trade Commission.,positive,0.8583439588546753
+2015-10-20,"As U.S. Tech Companies Scramble, Group Sees Opportunity in Safe Harbor Decision",positive,0.6797531843185425
+2015-10-25,Facebook is providing inexpensive wireless Internet access in about 40 villages in the foothills of the Himalayas and will expand the plan if successful.,positive,0.8216760158538818
+2015-10-25,Facebook Strives to Bring Cheap Wi-Fi to Rural India,neutral,0.4211615025997162
+2015-10-26,Facebook’s Internet.org effort has been criticized as an attempt to promote the company’s own interests.,negative,-0.8746938705444336
+2015-10-26,"This week, Mark Zuckerberg, the social media giant’s chief executive, is expected to discuss the project during a visit to New Delhi.",neutral,0.08375732600688934
+2015-10-26,Daily Report: Facebook Goes to India … Again,neutral,0.19679971039295197
+2015-10-28,"He said that Internet.org, which offers a stripped down version of the Internet to minimize data use, had one million members in India and 15 million users globally.",neutral,0.006907220929861069
+2015-10-28,"Mark Zuckerberg, in India, Defends Facebook’s Plan to Expand Internet Access",negative,-0.6342304944992065
+2015-10-30,"LinkedIn, the social media company best known to job seekers, exceeded forecasts for its most recent quarter and upped its guidance for the remainder of the year.",negative,-0.6379624009132385
+2015-10-30,Daily Report: LinkedIn Has a Pleasant Surprise for Wall Street,neutral,0.14462795853614807
+2015-11-02,"This week, a pack of media companies will report earnings, the Federal Reserve chairwoman will testify about regulatory issues and the Labor Department will release the latest figures on hiring and unemployment.",neutral,0.03680841997265816
+2015-11-02,"Media Earnings, Yellen’s Testimony and the Jobs Report",neutral,0.020862910896539688
+2015-11-04,"The company, propelled by its enormous user base, said mobile advertising now accounts for 78 percent of ad revenue.",positive,0.48364391922950745
+2015-11-04,"Facebook Revenue Surges 41%, as Mobile Advertising and Users Keep Growing",positive,0.9088473320007324
+2015-11-06,"Interest and investment in artificial intelligence is back with a vengeance in Silicon Valley, attracting companies such as Toyota to make big bets in the space.",positive,0.8116311430931091
+2015-11-06,Daily Report: A $1 Billion Bet on Artificial Intelligence in Silicon Valley,neutral,0.040270932018756866
+2015-11-07,Voters’ defeat of a measure that would have imposed restrictions on Airbnb rentals spurs a discussion on the company’s approach to setting up shop in a city.,negative,-0.3738636374473572
+2015-11-07,Farhad and Mike’s Week in Tech: Airbnb Takes San Francisco,neutral,0.04033268988132477
+2015-11-09,"A class action firm that routinely targets tech companies is opening an office in San Francisco, not far from many of the companies it has sued.",neutral,-0.1934795081615448
+2015-11-09,Law Firm Loathed by Tech Expands to Industry’s Home Turf,negative,-0.5140963792800903
+2015-11-10,Tired of high chief executive compensation?,negative,-0.5748443603515625
+2015-11-10,You’re probably not going to like the latest issue du jour: rising director pay.,neutral,-0.10091514885425568
+2015-11-10,How Much to Pay a Director?,neutral,-0.2206195890903473
+2015-11-10,There’s No Clear Answer,neutral,-0.21832257509231567
+2015-11-11,Facebook is introducing a new iPhone app that lets users sign up for custom notifications from a selection of about 70 news outlets and information providers.,positive,0.6288737654685974
+2015-11-11,Facebook’s Notify App Funnels Custom Updates Onto Phone Screens,neutral,-0.017328903079032898
+2015-11-14,"Facebook activated its Safety Check tool while Twitter put its new Moments tool to use, highlighting top news tweets about the attacks.",neutral,0.14931580424308777
+2015-11-14,"As Paris Terror Attacks Unfolded, Social Media Tools Offered Help in Crisis",neutral,0.20313872396945953
+2015-11-19,Facebook has added an awkward wrinkle to breaking up with someone.,negative,-0.8016602396965027
+2015-11-19,But the social media giant has a new tool that helps automate the process of moving on with your life.,neutral,0.33462437987327576
+2015-11-19,Facebook to Make Breaking Up Easier to Do,neutral,-0.06851109862327576
+2015-11-21,"Family leave policies have become the subject of much discussion in the tech industry, and a number of top companies have increased the parental leave they offer.",positive,0.5248976945877075
+2015-11-21,Mark Zuckerberg Plans 2-Month Paternity Leave From Facebook,neutral,-0.30367326736450195
+2015-12-01,"The plan, involving a new organization to manage the money, was made by the Facebook chief executive in an open letter to his newborn daughter, Max.",neutral,0.07987701147794724
+2015-12-01,Mark Zuckerberg Vows to Donate 99% of His Facebook Shares for Charity,neutral,0.11768674850463867
+2015-12-02,"Mark Zuckerberg and his wife, Priscilla Chan, announced that they will donate 99 percent of their Facebook shares to charitable purposes, in a sign of how early in their lives Silicon Valley billionaires are turning to philanthropy.",positive,0.4955804646015167
+2015-12-02,Daily Report: The Zuckerbergs Give Away Their Facebook Fortune,neutral,-0.3721574544906616
+2015-12-03,"The firm leads a $2 million seed investment in Nootrobox, a company that sells nootropics, which are substances that might improve the way the mind works.",neutral,0.1809101700782776
+2015-12-03,Andreessen Horowitz to Invest in Nootropics Start-Up,neutral,0.05648787319660187
+2015-12-04,"After a deluge of questions and criticism about the structure of a philanthropic organization that Mark Zuckerberg and his wife, Dr. Priscilla Chan, set up, the Facebook chief executive decided to respond.",neutral,0.10419696569442749
+2015-12-04,Daily Report: Mark Zuckerberg Explains His Use of Limited Liability Company,neutral,0.003152407705783844
+2015-12-05,On whether a global alliance between Lyft and the three largest ride-hailing companies in Asia threatens Uber’s growth.,negative,-0.9248952269554138
+2015-12-05,Farhad and Mike’s Week in Tech: Ride-Hailing Competition Heats Up,neutral,0.11934971064329147
+2015-12-07,The transaction is neither an irrevocable gift to charity nor a tax dodge.,neutral,0.03290831297636032
+2015-12-07,The bigger issue is the promise.,neutral,0.03937859833240509
+2015-12-07,Why It’s Too Soon to Sour on the Zuckerberg Charity Plan,neutral,-0.10442417114973068
+2015-12-10,Mr. Zuckerberg’s new openness on social media has met up with business considerations.,positive,0.7866378426551819
+2015-12-10,Mark Zuckerberg of Facebook Reassures Muslim Users,neutral,-0.2127624750137329
+2015-12-14,"Venture capital is pouring into virtual reality start-ups, as proponents of the technology extol its potential to transform entertainment, communications and work.",positive,0.6325136423110962
+2015-12-14,"In Virtual Reality Headsets, Investors Glimpse the Future",neutral,0.06093910336494446
+2015-12-15,"The changes under review, which include penalties of up to 4 percent of a company’s global revenue, are expected to go into effect by early 2017.",neutral,0.10212244093418121
+2015-12-15,Europe Approves Tough New Data Protection Rules,positive,0.5098642110824585
+2015-12-16,"For Facebook, the collaboration represents a step in the development of an all-purpose communications app, while Uber stands to gain new customers.",positive,0.7404264211654663
+2015-12-16,Facebook and Uber Follow Asian Rivals in Plan to Enhance Messenger App,positive,0.6681459546089172
+2015-12-19,"With the rise of the “unicorns,” it was a year of punch-drunk valuations, seamed with anxiety.",negative,-0.47451716661453247
+2015-12-19,Farhad and Mike Ruminate on the Peaks and Abysses of 2015,neutral,0.01556362584233284
+2015-12-23,Regulators ordered Facebook’s Indian partner to stop offering a free package of Internet services while it considers rules to govern all such programs.,negative,-0.8728905916213989
+2015-12-23,It is the latest setback in India for Mark Zuckerberg’s Internet.org project.,negative,-0.9507865905761719
+2015-12-23,Indian Regulators Suspend Facebook’s Free Basic Services,negative,-0.8972446918487549
+2015-12-28,"If someone has duplicated your Facebook account, the company has a series of steps to take to report it, including legal ones.",negative,-0.4833498001098633
+2015-12-28,Quashing Clones on Facebook,neutral,-0.2660813629627228
+2015-12-31,"The company joins Google, Facebook and others in disclosing when users of email and other services have probably been targeted by hackers working on behalf of governments.",neutral,-0.17169547080993652
+2015-12-31,Microsoft to Notify Users of Government Hackings,negative,-0.7557628154754639
+2016-01-07,"A listing of shares could make Saudi Aramco, whose reserves are 10 times that of Exxon Mobil, the most valuable public company in the world.",positive,0.7774645686149597
+2016-01-07,Saudi Aramco I.P.O.,neutral,0.0404786691069603
+2016-01-07,Is Weighed by Kingdom,neutral,-0.126946821808815
+2016-01-08,"Repairing robots, driving Rovers across Mars and zapping objects with a laser gun — but doing it all in virtual reality at the International CES in Las Vegas.",neutral,0.03241002559661865
+2016-01-08,My Virtual Life at Tech’s Big Consumer Electronics Show,neutral,-0.06636828184127808
+2016-01-11,"Chris Hughes, who bought the magazine in 2012 and embarked on a controversial attempt to focus on digital media, said it was “time for new leadership.”",neutral,0.02691483497619629
+2016-01-11,The New Republic Is for Sale Again,neutral,0.04184560477733612
+2016-01-12,"The decision by Chris Hughes, a Facebook co-founder, to put The New Republic up for sale is a reminder of the unusual places Facebook money has ended up, with unusual outcomes.",neutral,0.04517276957631111
+2016-01-12,Daily Report: One Grand Experiment Ends for a Facebook Co-Founder,neutral,-0.03269835561513901
+2016-01-17,Margrethe Vestager’s warning shot comes ahead of a Jan. 31 deadline for Europe and the United States to reach a new data-sharing agreement.,positive,0.3542158603668213
+2016-01-17,European Antitrust Chief Takes Swipe at Privacy Issue,negative,-0.6453774571418762
+2016-01-18,"The Internet messaging service, owned by Facebook, said it would phase out fees to use the service and experiment with charging companies to talk directly to its almost one billion users worldwide.",neutral,0.07302455604076385
+2016-01-18,"WhatsApp, the Internet Messenger, to Become Free",neutral,-0.02476947009563446
+2016-01-19,"The company said a code change was responsible for the problems, but declined to say how many users were affected.",negative,-0.8932502269744873
+2016-01-19,Twitter Experiences Worldwide Disruptions,negative,-0.8152823448181152
+2016-01-20,GIFs cannot just be uploaded directly to Facebook.,neutral,-0.06350359320640564
+2016-01-20,"Instead, they need to be linked to from their location on the web.",neutral,-0.0014562718570232391
+2016-01-20,Posting Animated GIFs on Facebook,neutral,-0.032206375151872635
+2016-01-23,"The future of messaging apps may be as a catchall for shopping, booking rides, talking to customer service agents and more.",neutral,0.025619372725486755
+2016-01-23,Farhad and Mike’s Week in Tech: The Chatter on Messaging Apps,neutral,-0.10557635128498077
+2016-01-24,"Whether or not negotiators reach a pact by Feb. 1 on how companies like Google and Facebook use Europeans’ online data, Isabelle Falque-Pierrotin is in a position to propel privacy protection efforts.",positive,0.5768978595733643
+2016-01-24,Europe’s Top Digital-Privacy Watchdog Zeros In on U.S. Tech Giants,negative,-0.6475734710693359
+2016-01-27,"The quarter was another blockbuster for the social media company, and its shares jumped in after-hours trading.",positive,0.880399227142334
+2016-01-27,"Facebook Reports Soaring Revenue, Buoyed by Mobile Ads",positive,0.701725959777832
+2016-01-28,"Facebook is shutting down Parse, a toolkit and support system for mobile developers, which it acquired in 2013.",negative,-0.9215993285179138
+2016-01-28,"Facebook to Shut Down Parse, Its Platform for Mobile Developers",negative,-0.9198904037475586
+2016-01-29,"The ban, which does not apply to posts by licensed gun dealers, will also apply to the company’s photo-sharing service.",negative,-0.6800874471664429
+2016-01-29,Facebook Moves to Ban Private Gun Sales on Its Site and Instagram,negative,-0.7210444808006287
+2016-01-30,"Analysis on Apple’s iPhone sales, Microsoft’s rebound, Amazon’s profits and Facebook’s success with mobile advertising.",neutral,0.27670201659202576
+2016-01-30,Farhad and Mike’s Week in Tech: Lessons From Earnings Season,neutral,0.13071218132972717
+2016-02-01,"You don’t have to be a full-fledged webmaster to share photos, videos and news with family and friends in your own private corner of the Internet.",neutral,-0.004315314814448357
+2016-02-01,Creating a Family Website,neutral,0.08134318143129349
+2016-02-02,"Magic Leap has drawn attention for attracting investors like Google, Fidelity Investments and Warner Brothers, although it has shown the public little about its products.",neutral,0.06401599943637848
+2016-02-02,"Magic Leap, an Augmented Reality Firm, Raises $793 Million",positive,0.5269456505775452
+2016-02-04,Just think of yourself as being that much closer to the actor Kevin Bacon.,neutral,0.06252595782279968
+2016-02-04,Six Degrees of Separation?,neutral,-0.02451101690530777
+2016-02-04,Facebook Finds a Smaller Number,neutral,-0.2646166682243347
+2016-02-08,"India has banned free mobile programs that allow Internet access only to certain services, a strategy employed by Facebook with its Free Basics project that was called antithetical to net neutrality.",negative,-0.7254437208175659
+2016-02-08,Facebook Loses a Battle in India Over Its Free Basics Program,negative,-0.9099152088165283
+2016-02-09,"In the United States, the social media giant has been an advocate of equal treatment of all Internet content.",positive,0.5636504888534546
+2016-02-09,"In India, regulators who share that belief have effectively blocked a free Facebook service.",negative,-0.9395018219947815
+2016-02-09,Daily Report: A Net Neutrality Setback for Facebook in India,negative,-0.9539211392402649
+2016-02-10,Mark Zuckerberg denounced remarks by Mr. Andreessen on Twitter that Indians were being shortsighted by banning Facebook’s Free Basics project.,negative,-0.8406102657318115
+2016-02-10,Marc Andreessen Apologizes After Facebook Disavows India Comments,negative,-0.6903074979782104
+2016-02-13,"Bad news for Twitter and Google, and Facebook plans to connect to the world.",negative,-0.8926319479942322
+2016-02-13,"Farhad and Mike’s Week in Tech: Rethinking Twitter, and a Hurdle for Facebook",neutral,0.056615933775901794
+2016-02-16,"Software designers for companies like Apple and Google are working to bring digital assistants past the “uncanny valley,” where technology becomes unsettling.",neutral,-0.03653290122747421
+2016-02-16,Taking Creepiness Out of Computer Voices,neutral,-0.027884244918823242
+2016-02-18,A complicated set of factors influences the reactions of technology companies to government demands to unlock a path to customer data.,neutral,-0.034819185733795166
+2016-02-18,Apple Letter on iPhone Security Draws Muted Tech Industry Response,negative,-0.5584726333618164
+2016-02-19,"An abundance of opinions in nearly 5,000 comments on Apple’s opposition to a court order to unlock an iPhone used by one of the San Bernardino killers.",neutral,-0.06456606835126877
+2016-02-19,Times Readers Weigh In on the Apple Debate,neutral,-0.033668383955955505
+2016-02-22,"Speaking at the Mobile World Congress, Mr. Zuckerberg said he was sympathetic to Apple’s resistance to helping the government open a locked phone.",positive,0.5423932075500488
+2016-02-22,Mark Zuckerberg Backs Apple in Its Refusal to Unlock iPhone,negative,-0.8901028633117676
+2016-02-24,Google’s fast-loading format is the latest effort to solve the pervasive problem of web pages taking too long to display on smartphones.,neutral,0.36074456572532654
+2016-02-24,Google Joins Race to Speed Up Mobile Delivery of News Articles,positive,0.6886343955993652
+2016-02-26,A summary of the latest developments in the battle between Apple and the F.B.I.,neutral,-0.008244730532169342
+2016-02-26,"over unlocking an iPhone used by one of the attackers in the mass shooting in San Bernardino, Calif.",negative,-0.3703716993331909
+2016-02-26,A Brief Explanation of Apple’s Showdown With the U.S. Government,neutral,0.024100562557578087
+2016-02-27,The Apple-F.B.I.,neutral,-0.08274225890636444
+2016-02-27,"fray, in a terrorism case no less, is reverberating throughout the digital world, with some East Coast-West Coast divergences.",neutral,-0.10446416586637497
+2016-02-27,Farhad and Mike Hash Out the Week’s Big Topic: Apple,neutral,-0.013475533574819565
+2016-03-01,"The arrest of the executive, Diego Dzodan, comes as a debate over the access that law enforcement officials should get to tech companies’ data has escalated.",negative,-0.891900897026062
+2016-03-01,Brazil Arrests Facebook Executive in WhatsApp Data Access Case,negative,-0.9011045694351196
+2016-03-02,"Long before Facebook or Twitter, Mr. Kimsey was a co-founder of AOL, connecting a nascent online audience with news and information as never before.",neutral,0.07785643637180328
+2016-03-02,Jim Kimsey Dies at 76; AOL Co-Founder Influenced Generation of Net Providers,neutral,0.01909291185438633
+2016-03-03,Apple’s legal battle with the government tests the limits of law enforcement agencies’ access to personal data.,negative,-0.7031505703926086
+2016-03-03,Apple Is Rolling Up Backers in iPhone Privacy Fight Against F.B.I.,positive,0.46880561113357544
+2016-03-04,"The company will report sales linked to its British operations, mostly digital advertising, through its local subsidiary rather than its Irish unit.",neutral,0.020655035972595215
+2016-03-04,"Facebook, in Accounting Change, Could Pay Millions More in British Taxes",negative,-0.5409142971038818
+2016-03-05,"The chat goes from new talking devices, a drone that sees things, goggles (really) and the Apple cliffhanger.",neutral,0.02078198455274105
+2016-03-05,"(Where’s Mike, anyway?)",neutral,-0.1878587156534195
+2016-03-05,Farhad and Joe Examine Silicon Valley’s Pull in Washington,neutral,0.07600400596857071
+2016-03-06,"In an interview, Margrethe Vestager, the European Union’s competition commissioner, discusses the issues underpinning her current investigations and whether she unfairly targets American companies.",neutral,-0.3368827998638153
+2016-03-06,"Europe’s Antitrust Enforcer on Google, Apple and the Year Ahead",neutral,0.11579249054193497
+2016-03-07,"Industry titans like Amazon and Oracle are duking it out for cloud engineers, taking swipes at the competition and attracting workers with salaries as high as $1 million.",neutral,0.06867138296365738
+2016-03-07,Tech Giants Battle for Top Cloud Talent,neutral,-0.005635246634483337
+2016-03-10,"A powerful V8 and adaptive suspension give this luxury ride serenity, but the mesmerizing cabin lighting seems to take a cue from the Las Vegas Strip.",neutral,0.11268360912799835
+2016-03-10,"Video Review: The BMW 750i xDrive, Tranquillity With a Touch of Vegas",neutral,0.06286992132663727
+2016-03-12,"A fight with WhatsApp, the world’s largest mobile messaging service, would open a new front in the Obama administration’s dispute with Silicon Valley over encryption, security and privacy.",negative,-0.882573127746582
+2016-03-12,WhatsApp Encryption Said to Stymie Wiretap Order,neutral,-0.2866019606590271
+2016-03-15,"As our online networks of friends have grown and the social media companies have matured, feeds are evolving, too.",neutral,0.1696375161409378
+2016-03-15,"Instagram May Change Your Feed, Personalizing It With an Algorithm",neutral,-0.04344991594552994
+2016-03-17,Instagram plans to begin testing a move away from reverse chronological order in its news feeds.,neutral,0.18415632843971252
+2016-03-17,But will ardent users approve?,neutral,0.05679434910416603
+2016-03-17,Another Social Media Giant Embraces Algorithms,neutral,0.16389745473861694
+2016-03-20,The founder of the social networking service has learned Mandarin and charmed audiences.,neutral,0.27738702297210693
+2016-03-20,But with a public presence in China comes official scrutiny.,negative,-0.6262713074684143
+2016-03-20,"Seeking Access to Facebook in China, Zuckerberg Courts Risks",neutral,-0.04488467425107956
+2016-03-21,"If you do not care for the social media site’s recent change to your timeline, you can turn it off in your account settings.",neutral,-0.28986144065856934
+2016-03-21,Putting Your Twitter Feed Back in Chronological Order,neutral,-0.03618330508470535
+2016-03-23,The online payments company will allow its customers to buy and target Facebook ads and then use sales data to assess the impact of those ads.,neutral,0.030971918255090714
+2016-03-23,Square Teams Up With Facebook to Offer Ads That Can Be Gauged,neutral,0.22264952957630157
+2016-03-25,"Amazon, Google, IBM and Microsoft are using high salaries and games pitting humans against computers to try to claim the standard on which all companies will build their A.I.",neutral,-0.2682334780693054
+2016-03-25,technology.,neutral,0.09785059094429016
+2016-03-25,"The Race Is On to Control Artificial Intelligence, and Tech’s Future",neutral,0.07865960896015167
+2016-03-30,"Despite the appeal of the nascent product, any revenue gain for broadcasters remains a vague promise.",positive,0.4870855510234833
+2016-03-30,Facebook’s Live Videos Get Lots of Looks but No Money Yet,neutral,-0.08132416754961014
+2016-03-31,"After a shooting, Wendy Bell made comments about “young black men” that some felt relied on damaging stereotypes.",negative,-0.602410078048706
+2016-03-31,Pittsburgh TV Anchor Is Fired After Racial Facebook Post,negative,-0.8287227153778076
+2016-04-01,The service’s new live video notifications are suddenly outstripping the regular news feed and zapping maybe millions of extra pockets.,positive,0.47785961627960205
+2016-04-01,"Facebook Live, Annoying and Intrusive, Seems to Be Paying Off",negative,-0.6657674908638
+2016-04-02,Some discussion of an app that can post criticism of one’s work and of Facebook’s new live video push and how users are pushing back.,neutral,-0.010849107056856155
+2016-04-02,Mike and John on Annotation Terror and Annoying Video Alerts,neutral,-0.30136343836784363
+2016-04-05,"The encryption will be applied to photos, videos and group text messages sent among people in more than 50 languages.",neutral,0.04344307258725166
+2016-04-05,WhatsApp Introduces End-to-End Encryption,neutral,0.02168835699558258
+2016-04-06,The F.B.I.,neutral,-0.06723424792289734
+2016-04-06,"won’t say what it found on the San Bernardino gunman’s iPhone, and WhatsApp says it has encrypted all communications, as the push-pull over digital privacy continues.",neutral,-0.39897745847702026
+2016-04-06,F.B.I.,neutral,0.035103652626276016
+2016-04-06,"May Have Put Down Sword, but Privacy Debate Goes On",neutral,-0.22580793499946594
+2016-04-09,"Michael de la Merced, of DealBook, fills in for Farhad Manjoo and joins Mike Isaac for a discussion of all that and Twitter’s football deal.",neutral,-0.0016916431486606598
+2016-04-09,"The Week in Tech: Facebook Live, a More Civil Reddit and Yahoo’s Odd Deal-Making",neutral,-0.15220026671886444
+2016-04-12,"The social giant is opening up its messaging app so that any outside company, like Applebee’s or 1-800-Flowers, can create a bot capable of interacting with real people.",neutral,0.16752296686172485
+2016-04-12,Facebook Bets on Bots for Its Messenger App,neutral,-0.3737678527832031
+2016-04-13,"These automated software critters are growing in popularity, especially now that they’re doing more than pretending to be a human in a call center.",positive,0.5797558426856995
+2016-04-13,"Bots are Back, and They Might Even Be Welcome",positive,0.5733777284622192
+2016-04-14,"Americans in their 60s and 70s are embracing social media enthusiastically, new research shows.",neutral,0.23760004341602325
+2016-04-14,Why Do Older People Love Facebook?,neutral,-0.2052168995141983
+2016-04-14,Let’s Ask My Dad,neutral,0.006410341709852219
+2016-04-16,Quentin Hardy fills in for Farhad Manjoo and joins Mike Isaac for a discussion of virtual reality and how Facebook is trying to get ahead of the pack.,neutral,0.012296929955482483
+2016-04-16,"The Week in Tech: The Next Big Thing, According to Mark Zuckerberg",neutral,-0.032423026859760284
+2016-04-18,"Traditional media companies face the increasingly daunting task of hooking already-inundated audiences, but they also have more tools than ever to lure them.",neutral,0.11934910714626312
+2016-04-18,"For News Outlets Squeezed From the Middle, It’s Bend or Bust",neutral,-0.32468098402023315
+2016-04-20,Marissa Mayer needs to offload Yahoo’s core business before bidders like Verizon lose interest,negative,-0.7468953132629395
+2016-04-20,Yahoo’s First Quarter Adds Urgency to Sale Option,positive,0.6288545727729797
+2016-04-24,"The online news start-up will begin publishing Circuit Breaker, a “classic gadget blog,” on Monday, primarily as a Facebook page.",neutral,0.008853849023580551
+2016-04-24,Vox Media Tries Something Old on Something New,neutral,0.11219735443592072
+2016-04-25,"Many of the factors that hurt last week’s earnings will be minor this week, but companies like Apple and Facebook have their own challenges.",negative,-0.9150710105895996
+2016-04-25,Different Issues for Next Wave of Tech Earnings Reports,neutral,-0.0049028582870960236
+2016-04-26,"A small increase in users may not be growth enough for investors, who regularly compare Twitter to Facebook, the social media Goliath.",positive,0.6279662251472473
+2016-04-26,"Twitter Narrows Loss, Adds Users and Misses Revenue Forecast",negative,-0.8904371857643127
+2016-04-27,"The announcement came as Facebook announced a tripling in its quarterly profit to $1.5 billion, with sales up 52 percent.",positive,0.922055721282959
+2016-04-27,Facebook Plans New Stock Class to Solidify Mark Zuckerberg’s Control,positive,0.7732189297676086
+2016-04-28,"Shares rose 12 percent after the company reported net income of $513 million, in contrast to last year’s loss of $57 million.",positive,0.875217616558075
+2016-04-28,Amazon’s Cloud Business Lifts Its Profit to a Record,positive,0.9027953147888184
+2016-04-30,"The (relative) decline of Apple, the ascendance of Amazon and the continuing dominance of Mark Zuckerberg’s social network.",negative,-0.4651685059070587
+2016-04-30,Farhad and Mike’s Week in Tech: The Unstoppable Facebook,neutral,0.011993460357189178
+2016-05-03,The nationwide suspension of the messaging service ended a day after a lower court judge ordered it in a quest for information in a criminal case.,negative,-0.8928326964378357
+2016-05-03,Brazilian Judge Lifts Suspension of WhatsApp,negative,-0.5999094247817993
+2016-05-04,"James H. Shelton, a former deputy secretary of the federal Education Department, will oversee the couple’s efforts in education.",neutral,0.0509650744497776
+2016-05-04,Zuckerberg and Chan Hire Education Leader to Run Philanthropic Effort,neutral,0.054518699645996094
+2016-05-05,The average person spends more time on Facebook than any other leisure activity surveyed by the government except watching TV and movies.,neutral,-0.1338883638381958
+2016-05-05,Facebook Has 50 Minutes of Your Time Each Day.,neutral,-0.007927101105451584
+2016-05-05,It Wants More.,neutral,0.1620514690876007
+2016-05-06,The company’s recent quarterly results had lots of good numbers: More users and revenue and a big profit.,positive,0.8829472064971924
+2016-05-06,But time spent on its platforms was the real stunner.,neutral,-0.09063351154327393
+2016-05-06,Facebook Has Put a Spell on You,negative,-0.42462700605392456
+2016-05-07,"Why it’s so hard to find a charging cable that lasts more than few months, and other gripes about tech.",negative,-0.550251841545105
+2016-05-07,Farhad and Mike’s Week in Tech: The Technology We Love to Hate,neutral,0.09375109523534775
+2016-05-10,"John Thune, Republican chairman of the Senate Commerce Committee, wants a response to a report that Facebook suppressed conservative articles.",negative,-0.7327470779418945
+2016-05-10,Senator Demands Answers From Facebook on Claims of ‘Trending’ List Bias,negative,-0.49515530467033386
+2016-05-11,"Its algorithms are as infused with bias as any human decision, but neither it nor its audience thinks of Facebook as a news organization with editorial responsibilities.",neutral,-0.013642238453030586
+2016-05-11,"Facebook’s Bias Is Built-In, and Bears Watching",neutral,0.054077938199043274
+2016-05-12,"Accused of political bias, the company offered details on how human editors and algorithms choose what appears — or doesn’t appear — in “Trending Topics.”",neutral,-0.059161726385354996
+2016-05-12,"Facebook, Facing Bias Claims, Shows How Editors and Algorithms Guide News",neutral,-0.014731328934431076
+2016-05-13,"It’s not easy for a computer, or a human, to decide what is an unbiased take on the world.",neutral,-0.12422825396060944
+2016-05-13,Facebook and the Problem With News Online,neutral,-0.21232807636260986
+2016-05-14,Charges of bias at Facebook Trending; a bad week for tech companies; ride-hailing and the cities.,negative,-0.8939817547798157
+2016-05-14,Farhad and Mike’s Week in Tech: Facebook’s Take on the News,neutral,0.008434947580099106
+2016-05-15,"As more tech firms employ their own editing staffs, they are being viewed as something less than news organizations, but more than simple reflections of their growing audiences.",neutral,0.011305995285511017
+2016-05-15,Social Media Finds New Role as News and Entertainment Curator,neutral,0.2879605293273926
+2016-05-17,"The social network, which had already been criticized for the voicing of liberal views by top executives, is now rebutting claims that its news curators engaged in anti-conservative bias.",negative,-0.9052927494049072
+2016-05-17,Facebook Moves to Repair Its Fractured Relationship With the Right,negative,-0.647097110748291
+2016-05-18,"A virtual assistant designed to compete with the Echo from Amazon and other artificial intelligence devices coming from Microsoft, Apple and Facebook.",neutral,0.10128428786993027
+2016-05-18,Google Home: A Voice-Activated Device That Already Knows You,neutral,-0.09994485974311829
+2016-05-19,Google’s Home device puts it in the race to become the go-to company for A.I.,positive,0.7444965839385986
+2016-05-19,— along with several rivals.,neutral,-0.06660208851099014
+2016-05-19,Silicon Valley’s Artificial Intelligence Marathon Is On,neutral,0.03454425185918808
+2016-05-20,"Facebook employees weren’t directed to squelch conservative news on the site’s Trending Topics, nor would that be easily accomplished by a staff member who wished to do so.",neutral,-0.1512478142976761
+2016-05-20,"Facebook ‘Trending’ List Skewed by Individual Judgment, Not Institutional Bias",neutral,-0.019775785505771637
+2016-05-21,"If one company has a small success, the others pile on, and you get “30 different versions of some dumb wearable.” Also, meet Mike’s flower guy, Guy.",neutral,0.043660108000040054
+2016-05-21,Farhad and Mike’s Week in Tech: The Herd Mentality of Tech C.E.O.s,neutral,0.016398098319768906
+2016-05-22,The social network requires a level of trust from its users as it seeks to “make the world more open and connected.” But how open is it willing to be?,neutral,0.12931817770004272
+2016-05-22,Facebook’s Troubling One-Way Mirror,negative,-0.8385605216026306
+2016-05-24,"The social media company responded to Congressional questions about how its Trending Topics feed is managed, but some users are still wondering why the feature isn’t very useful.",negative,-0.4242329001426697
+2016-05-24,Facebook Controversy Is Still Trending,negative,-0.4828737676143646
+2016-05-25,"A study of 10 million Facebook posts found that American men more likely to swear, express anger and argue; women used kinder yet more assertive language.",negative,-0.6754850149154663
+2016-05-25,"Women From Venus, Men Still From Mars on Facebook, Study Finds",neutral,-0.23328295350074768
+2016-05-28,"As they create increasingly sophisticated voice and face recognition products, technology firms are lobbying state lawmakers to discourage restrictive new laws that critics call necessary to prevent the violation of user rights.",negative,-0.33975309133529663
+2016-05-28,Tech Companies Take Their Legislative Concerns to the States,neutral,-0.03236662596464157
+2016-05-30,A report suggests that one in five smartphone users worldwide deploys software to remove ads when he or she browses the web.,negative,-0.8201718330383301
+2016-05-30,Rise of Ad-Blocking Software Threatens Online Revenue,negative,-0.9463249444961548
+2016-06-01,"There may be no love lost between Donald Trump and the tech world, but he is likely to need tech backers as his campaign turns to the general election.",neutral,0.2487737238407135
+2016-06-01,Silicon Valley Finds Trump’s Disruption Unwelcome,negative,-0.8781741261482239
+2016-06-03,"A plethora of examples involving companies like Dell, Facebook and Tribune Publishing prove that shareholder votes can be of great consequence.",neutral,0.011908549815416336
+2016-06-03,Shareholder Initiatives Show Their Value,neutral,0.13427776098251343
+2016-06-06,A key lesson from a data breach of Mark Zuckerberg’s social media accounts: Quit using the same password for multiple websites.,negative,-0.7088997960090637
+2016-06-06,"If Mark Zuckerberg Can Be Hacked on Twitter, So Can You",neutral,-0.3493799567222595
+2016-06-07,"Facebook has become a critical tool for visibility and acceptance, and is seen as contributing to the shift in mainstream attitudes toward transgender people.",positive,0.7219857573509216
+2016-06-07,"In the Fight for Transgender Equality, Winning Hearts and Minds Online",positive,0.6434173583984375
+2016-06-10,The technology companies were among some of his major investments.,neutral,0.033941078931093216
+2016-06-10,4 Tech Giants Nurtured by Tom Perkins,neutral,0.08383484184741974
+2016-06-13,"While LinkedIn had rapid growth and rising stock values in the past, more recently it has faced a hacking attack and declines in its share price.",negative,-0.9277765154838562
+2016-06-13,A LinkedIn Timeline,neutral,0.025467075407505035
+2016-06-14,"Posts that are flagged will be reviewed by the social network, which will provide resources to the concerned friend and offer help to the person at risk.",neutral,-0.00829402171075344
+2016-06-14,Facebook Offers Tools for Those Who Fear a Friend May Be Suicidal,neutral,-0.12963473796844482
+2016-06-20,"Analysts will be looking for any hint of policy change in Ms. Yellen’s testimony, and immigration remains a main factor in the upcoming ‘Brexit’ vote.",neutral,0.11487855017185211
+2016-06-20,Janet Yellen to Testify Before Congress and Britain to Vote on ‘Brexit’,neutral,0.011625036597251892
+2016-06-21,"In addition to its chat powers, Facebook Messenger can send payments to friends once everyone’s debit cards are linked to the service.",neutral,0.02179953083395958
+2016-06-21,Moving Money by Messenger,neutral,0.030821725726127625
+2016-06-22,A photo of Mr. Zuckerberg’s laptop camera covered in tape had curious observers wondering if it was paranoia or just good practice.,neutral,-0.3982034921646118
+2016-06-22,Mark Zuckerberg Covers His Laptop Camera.,neutral,-0.41842177510261536
+2016-06-22,"You Should Consider It, Too.",neutral,0.09064339846372604
+2016-06-23,"Citigroup, which is issuing the new Visa cards for Costco, has logged more than 1.5 million customer service calls on them.",neutral,0.06623508036136627
+2016-06-23,Costco’s Transition to Visa Cards Riddled With Problems,negative,-0.8207966089248657
+2016-06-24,"Seven of the top 20 Facebook pages with the most engagement around “European Union” were explicitly pro-exit, according to CrowdTangle data.",neutral,-0.252827912569046
+2016-06-24,‘Brexit’ Talk on Social Media Favored the ‘Leave’ Side,negative,-0.4212348461151123
+2016-06-25,"King Arthur is one of thousands of American companies with employee stock ownership programs, which have helped attract talent and foster workplace unity.",positive,0.5396289229393005
+2016-06-25,"At King Arthur Flour, Savoring the Perks of Employee Ownership",neutral,0.25931209325790405
+2016-06-27,"If you do not want the world to see what you post on your timeline page, use the site’s settings to keep your thoughts out of public view.",neutral,-0.07123242318630219
+2016-06-27,Limiting Your Facebook Audience,neutral,-0.18352475762367249
+2016-06-28,Underneath the braggadocio and evisceration of professional nemeses in Antonio García Martinez’s book lies the beating heart of a formidable teacher.,neutral,0.03306739777326584
+2016-06-28,Review: ‘Chaos Monkeys’ Is a Guide to the Spirit of Silicon Valley,neutral,0.04555477201938629
+2016-06-29,The most powerful force in the news industry just said something that should shock everyone in the media business: Its primary purpose isn’t informing users about the world.,neutral,-0.10925891995429993
+2016-06-29,"Facebook, a News Giant That Would Rather Show Us Baby Pictures",neutral,-0.04911394417285919
+2016-06-30,"Facebook’s change to its news feed algorithm could mean you’ll see fewer articles, videos or photos shared by the media.",neutral,-0.21016857028007507
+2016-06-30,But there’s a way around that.,neutral,0.05437953770160675
+2016-06-30,Still Want to Get the News on Facebook?,neutral,0.028213035315275192
+2016-06-30,Read All About It,neutral,0.04341421276330948
+2016-07-02,"News from Zenefits, Apple, Spotify, Facebook and Tesla, which announced the death of a Tesla driver who crashed while using Autopilot.",neutral,-0.1278599053621292
+2016-07-02,"Farhad’s and Mike’s Week in Tech: Death, Denial and Self-Driving Cars",neutral,-0.17273128032684326
+2016-07-05,"As Twitter continues to reshape its board, Bret Taylor was appointed for his experience in consumer technologies and his prominent role with Facebook.",positive,0.5014534592628479
+2016-07-05,Twitter Brings Aboard Facebook Veteran Bret Taylor,neutral,0.1142519861459732
+2016-07-08,The social network adds to Messenger with the introduction of “secret conversations” that are protected by encryption.,neutral,0.19651256501674652
+2016-07-08,Daily Report: Keep It Secret on Facebook Messenger,neutral,-0.1625620275735855
+2016-07-09,"This week, the two entertain doubts on the future of Theranos, and on the suspiciously public canoodling of Taylor Swift and Tom Hiddleston.",negative,-0.7570603489875793
+2016-07-09,Farhad’s and Mike’s Week in Tech: Snapchat Old Hat?,neutral,-0.3413933515548706
+2016-07-09,"Oh, and Theranos",neutral,0.015610799193382263
+2016-07-13,"The Philando Castile shooting and its aftermath have catapulted services like Facebook Live and Periscope into the center of the news, challenging cable to adapt.",negative,-0.6475757360458374
+2016-07-13,"Live Streaming Breaks Through, and Cable News Has Much to Fear",neutral,0.019846148788928986
+2016-07-14,"The European Commission’s newest charges add more time to the clock, a disadvantage in the ever-shifting tech market.",negative,-0.6436809301376343
+2016-07-14,Google’s Antitrust Charges in Europe Need Quick Action,neutral,0.06976286321878433
+2016-07-18,"To determine why artificial intelligence is booming now, it’s helpful to look at the recent growth of search engines, social media and mobile technology.",neutral,0.08353468030691147
+2016-07-18,Reasons to Believe the A.I.,neutral,0.06822057068347931
+2016-07-18,Boom Is Real,neutral,0.08297145366668701
+2016-07-19,"The app, owned by Facebook, was shut down by a state criminal court when it did not hand over data requested by authorities.",negative,-0.9285323023796082
+2016-07-19,The order was overturned.,negative,-0.7885435819625854
+2016-07-19,WhatsApp Is Briefly Shut Down in Brazil for a Third Time,negative,-0.9045668244361877
+2016-07-21,Critics say the social network needs to do more to stop circumvention of its six-month-old prohibition.,negative,-0.5172116160392761
+2016-07-21,Gun enthusiasts want the ban lifted.,negative,-0.4597093164920807
+2016-07-21,Facebook Banned Gun Sales.,negative,-0.6060276031494141
+2016-07-21,So Why Is It Still ‘Full of Them’?,negative,-0.37556666135787964
+2016-07-25,"Apple, Facebook, Amazon and Alphabet will post quarterly earnings this week, reflecting how they are doing in online ads, mobile and cloud computing.",positive,0.5430694222450256
+2016-07-25,Tech Behemoths Report Their Results,negative,-0.3888624608516693
+2016-07-26,"The company, which reported its worst quarterly revenue growth ever, is betting on live streaming video and direct response advertising to combat stagnant demand.",positive,0.13447079062461853
+2016-07-26,"Twitter, Grappling with Anemic Growth, Tries to Bolster Its Advertising Business",positive,0.9159152507781982
+2016-07-27,The social media company also said it was looking ahead to what it hopes will spur future growth: video and video advertising.,positive,0.7941301465034485
+2016-07-27,Facebook Profit Nearly Triples on Mobile Ad Sales and New Users,positive,0.4756027162075043
+2016-07-28,"Facebook’s quarterly revenue is up 50 percent and its monthly users 15 percent, versus Twitter’s 20 percent growth and 3 percent rise in users.",positive,0.924811601638794
+2016-07-28,Facebook Casts a Giant Shadow Over Twitter,neutral,-0.20318388938903809
+2016-07-29,"Ms. Sandberg, chief operating officer of Facebook, and a collaborator will focus on hardship and resilience.",neutral,0.043629150837659836
+2016-07-29,Her Husband’s Death Motivates Sheryl Sandberg to Write Another Book,neutral,0.1170605942606926
+2016-07-30,"Twitter, Facebook, Google and Amazon shared their second-quarter earnings reports, and Yahoo agreed to sell itself to Verizon for about $5 billion.",neutral,0.20343108475208282
+2016-07-30,Farhad’s and Mike’s Week in Tech: The Cautionary Tale of the Fall of Yahoo,neutral,-0.06771271675825119
+2016-08-01,Facebook Live makes it easy to stream real-time video from your mobile device to everybody in your world — or the world at large.,neutral,0.006742395460605621
+2016-08-01,Sharing Video Streams on Facebook,neutral,-0.025170693174004555
+2016-08-02,"American tech companies study Chinese users and apps as a smartphone revolution changes how people interact, buy products and manage their money.",neutral,-0.02701282501220703
+2016-08-02,"China, Not Silicon Valley, Is Cutting Edge in Mobile Tech",positive,0.21561695635318756
+2016-08-04,"A change in the social network’s algorithm is meant to identify misleading headlines on news stories and rank them lower, to keep users coming back.",neutral,0.07284453511238098
+2016-08-04,Shocker!,neutral,-0.22533497214317322
+2016-08-04,Facebook Changes Its Algorithm to Avoid ‘Clickbait’,negative,-0.5918096303939819
+2016-08-05,It’s not that the world’s largest social network wants you to read less trash.,neutral,-0.013462688773870468
+2016-08-05,It just wants you to feel better about it inside Facebook.,neutral,0.23627738654613495
+2016-08-05,Daily Report: Facebook Bars Cheesy Headlines That Let Readers Down,negative,-0.872464656829834
+2016-08-06,"Uber is leaving China; fantasy sports are returning to New York; and, for better or worse, Facebook will control what headlines you see.",neutral,-0.03490687161684036
+2016-08-06,Farhad’s and Mike’s Week in Tech: Facebook’s Headline Rules,neutral,-0.006178364157676697
+2016-08-09,"In collaboration with a charter school network, Facebook has developed a student-directed learning platform aimed at public schools.",neutral,0.337558776140213
+2016-08-09,Facebook Helps Develop Software That Puts Students in Charge of Their Lesson Plans,neutral,0.007154310122132301
+2016-08-10,American internet companies have had a hard time getting into China.,negative,-0.8925755620002747
+2016-08-10,But Chinese internet companies have struggled to grow beyond its borders.,negative,-0.8701107501983643
+2016-08-10,Struggling to Break Out of Chinese Internet,neutral,-0.23998749256134033
+2016-08-13,The Walmart-Jet deal poses the question of whether Amazon is stoppable.,neutral,-0.2755042612552643
+2016-08-13,"Also, why hiring people who aren’t 20-something Stanford bros can be helpful.",positive,0.6265409588813782
+2016-08-13,Farhad’s and Mike’s Week in Tech: Betting on Jet and Diverse Work Forces,neutral,0.14498265087604523
+2016-08-15,After the social network streams its first N.F.L.,neutral,0.11465850472450256
+2016-08-15,"game on Sept. 15, it will assess whether live streaming can be a linchpin of its future.",neutral,0.15088334679603577
+2016-08-15,With N.F.L.,neutral,0.03299504145979881
+2016-08-15,"Deal, Twitter Live-Streams Its Ambitions",neutral,0.03142033517360687
+2016-08-16,The app fits into Google’s playbook.,neutral,0.1138308048248291
+2016-08-16,"Over the last few years, Google has increasingly offered its important software and internet services to iPhone customers.",neutral,0.44286036491394043
+2016-08-16,Google Duo Makes Video Calling Between Operating Systems Easier,neutral,0.003265824168920517
+2016-08-17,"The social-bookmarking site enters the competition with Facebook, Twitter and others vying for a share of the increasing amounts marketers are spending on digital ads.",neutral,0.41071420907974243
+2016-08-17,Pinterest Follows Rivals Into Selling Video Ads,neutral,0.08546018600463867
+2016-08-22,The social network includes an option in the settings for displaying nicer-looking versions of the pictures you upload from your phone.,neutral,0.00841686874628067
+2016-08-22,Get Your Photos Looking Better on Facebook,neutral,0.13194037973880768
+2016-08-23,An entrepreneur bets there is room in the crowded social media space for at least one more platform.,neutral,0.05038679018616676
+2016-08-23,Fans.Com Is a Place to Talk About Concerts,neutral,0.015351947396993637
+2016-08-24,"Big data centers for the likes of Apple, Facebook and Google are increasing the demand for renewable energy, which may spur the construction of green facilities.",positive,0.8200207948684692
+2016-08-24,"Daily Report: More Clean Energy, Brought to You by the Cloud",neutral,0.2576644718647003
+2016-08-25,"The mobile messaging service, which Facebook bought in 2014, says it will disclose users’ phone numbers and analytics data.",neutral,0.02819499932229519
+2016-08-25,"Relaxing Privacy Vow, WhatsApp Will Share Some Data With Facebook",neutral,0.2582327425479889
+2016-08-26,How an industry of attention-grabbing headlines and sharing racy stories promotes a culture of mutual incomprehension.,neutral,-0.18057194352149963
+2016-08-26,Daily Report: Facebook’s Attack on Democracy,negative,-0.6188783049583435
+2016-09-01,Four people involved in the creation of an industry partnership say its intent will be clear: to ensure that A.I.,neutral,0.3225673735141754
+2016-09-01,"research is focused on things that will benefit people, not hurt them.",neutral,0.033388860523700714
+2016-09-01,How Tech Giants Are Devising Real Ethics for Artificial Intelligence,neutral,0.036162350326776505
+2016-09-02,"Americans’ appetite for reading books — ones you actually hold in your hands — has not slowed in recent years, says a Pew Research Center survey.",negative,-0.6712567806243896
+2016-09-02,"No, the Internet Has Not Killed the Printed Book.",negative,-0.7328527569770813
+2016-09-02,Most People Still Prefer Them.,neutral,-0.03761082887649536
+2016-09-08,"In a long Facebook post, Mr. Rivera recanted his defense of Roger Ailes.",neutral,-0.2623203992843628
+2016-09-08,Here is a guide to those who rushed to defend Mr. Ailes before Fox settled the claims against him.,neutral,-0.008613817393779755
+2016-09-08,"Those Who Defended Roger Ailes, and Those Who Now Regret It (Geraldo Rivera, Greta Van Susteren)",neutral,-0.2349807322025299
+2016-09-09,"The social network was criticized for removing the image of a naked girl fleeing napalm, renewing questions about the company’s role in what can be published online.",negative,-0.9129673838615417
+2016-09-09,Facebook Restores Iconic Vietnam War Photo It Censored for Nudity,negative,-0.5314779877662659
+2016-09-13,"The rules will put new pressure on American tech companies, but European officials say they will unite the Continent’s various national economies.",positive,0.6251574158668518
+2016-09-13,E.U.,neutral,0.04360159859061241
+2016-09-13,"Rules Look to Unify Digital Market, but U.S. Sees Protectionism",neutral,0.03399644047021866
+2016-09-15,"Beginning this weekend, some Facebook users in the United States will be able to buy tickets without leaving their news feeds.",neutral,0.1108306348323822
+2016-09-15,Buy Movie Tickets on Facebook?,neutral,-0.11415664851665497
+2016-09-15,Fandango Makes It Possible,neutral,0.07006102800369263
+2016-09-21,"The Facebook co-founder and his wife announced an effort to prevent, cure or at least manage all diseases by the end of this century.",neutral,0.4190564453601837
+2016-09-21,Mark Zuckerberg and Priscilla Chan Pledge $3 Billion to Fighting Disease,neutral,0.08699823170900345
+2016-09-23,"The social media network was leaving out videos viewed for less than three seconds, which greatly inflated the figures presented to advertisers and publishers.",negative,-0.9307162165641785
+2016-09-23,Facebook Apologizes for Overstating Video Metrics,negative,-0.9234570860862732
+2016-09-25,Marketers trying to reach an increasingly fractured and fickle social media audience are struggling to make ads when one version may not work everywhere.,negative,-0.9212912321090698
+2016-09-25,Making Video Ads That Work on Facebook’s Silent Screen,neutral,0.003730243071913719
+2016-09-26,"Smaller, faster, more: The war for attention that’s moving to your pocket.",neutral,-0.09205827116966248
+2016-09-26,Daily Report: Mobile Video Gets Another Look,neutral,0.3708655834197998
+2016-09-27,A Hamburg regulator said on Tuesday that neither the messenger nor its parent company had received individuals’ permission to share digital information.,neutral,-0.4061981737613678
+2016-09-27,Facebook Ordered to Stop Collecting Data on WhatsApp Users in Germany,negative,-0.847637951374054
+2016-09-28,"The Partnership on AI unites Amazon, Facebook, Google, IBM and Microsoft to ease public fears of machines that are learning to think for themselves.",positive,0.8383876085281372
+2016-09-28,Protecting Humans and Jobs From Robots Is 5 Tech Giants’ Goal,neutral,0.0625777617096901
+2016-10-01,"Twitter news, including a prolific tweeter’s hiatus.",neutral,-0.05670500919222832
+2016-10-01,Also: A human sacrifice is needed for Elon Musk’s Mars shot.,neutral,0.016349416226148605
+2016-10-01,"By popular acclamation, it’s Farhad.",neutral,0.0404072031378746
+2016-10-01,Farhad’s and Mike’s Week in Tech: Interest in Twitter From Disney?,neutral,0.029454853385686874
+2016-10-01,Unlikely.,neutral,-0.005399622023105621
+2016-10-02,"A push is underway to standardize some forms of measurement across websites that host video, information that is now largely self-reported.",neutral,0.29924604296684265
+2016-10-02,"The Online Video View: We Can Count It, but Can We Count on It?",neutral,0.05064915865659714
+2016-10-03,Companies like Amazon and Microsoft are building data centers across the Continent in response to Europeans’ desires to keep their information close to home.,neutral,0.2696113586425781
+2016-10-03,U.S. Tech Giants Are Investing Billions to Keep Data in Europe,neutral,0.08641725778579712
+2016-10-04,The social media giant says a technical issue allowed inappropriate content to be offered for sale.,negative,-0.9261191487312317
+2016-10-04,"Facebook Marketplace Goes Wrong: Sex, Guns and Baby Hedgehogs",negative,-0.5568989515304565
+2016-10-11,"Tech companies like Sprint, Comcast and Facebook are increasingly working to make high-speed internet available to every American.",neutral,0.27179163694381714
+2016-10-11,Tech Companies Expect Free High-Speed Internet for Poorer Americans to Pay Off Later,neutral,0.0484917014837265
+2016-10-12,"Geofeedia, a company in Chicago, has used data from Facebook, Twitter and several other networks to aid law enforcement officials in monitoring protesters, the A.C.L.U.",negative,-0.5501355528831482
+2016-10-12,says.,neutral,0.07905878871679306
+2016-10-12,"Police Use Surveillance Tool to Scan Social Media, A.C.L.U.",neutral,-0.02484002709388733
+2016-10-12,Says,neutral,0.041488371789455414
+2016-10-19,"The exposure of the Clinton campaign’s internal emails shows that a ubiquitous, and vulnerable, communication tool is ready for the scrap heap.",neutral,0.027126923203468323
+2016-10-19,"Whoever Wins the White House, This Year’s Big Loser Is Email",neutral,-0.03407125920057297
+2016-10-22,Tech is seeping into everything — but feels blindsided when its politics are called into question.,negative,-0.7701178193092346
+2016-10-22,"Also, the Apple car and a short-term Twitter hire.",neutral,0.03575894981622696
+2016-10-22,Farhad’s and Mike’s Week in Tech: The Political Evolution of Silicon Valley,neutral,0.022198572754859924
+2016-10-26,An election show streaming on Facebook Live is fueling speculation that Donald J. Trump is laying the groundwork for a media empire to come.,neutral,0.11858654767274857
+2016-10-26,Trump TV Offers (Fledgling) Framework for Potential Media Future,positive,0.6443526744842529
+2016-10-28,The tool was created with data collected from election officials by the nonpartisan research group Center for Technology and Civic Life.,neutral,0.021345101296901703
+2016-10-28,Facebook Can Tell You What to Expect in the Voting Booth,neutral,-0.0023760460317134857
+2016-10-29,"The tech billionaire is known for bucking convention, but his backing of Mr. Trump’s presidential bid has outraged much of Silicon Valley.",negative,-0.7218796014785767
+2016-10-29,Peter Thiel Defends His Most Contrarian Move Yet: Supporting Trump,neutral,-0.059382930397987366
+2016-10-31,"If you find yourself wasting too much time online when you really need to be working, you have many ways to force yourself (temporarily) offline.",negative,-0.8325244784355164
+2016-10-31,Escape the Web and Get Things Done,neutral,0.1467151939868927
+2016-11-01,"CenturyLink’s purchase of Level 3 is the latest sign of action in the high-potential, high-cost and high-stakes business of networking.",positive,0.7616238594055176
+2016-11-01,Daily Report: A $25 Billion Fiber Merger,neutral,0.07697883248329163
+2016-11-02,"The social network remained strong, topping 1.79 billion monthly visitors and nearly tripling its profit, to $2.38 billion, in the third quarter.",positive,0.9250150322914124
+2016-11-02,Facebook Defies Social Media Gravity With User and Profit Growth,neutral,-0.3336774706840515
+2016-11-05,"Mike is a medieval witch hunter, as Farhad retreats into Mario.",neutral,-0.15744246542453766
+2016-11-05,Microsoft’s grab for Slack’s lunch is discussed.,neutral,-0.11235825717449188
+2016-11-05,And Amazon could do better at inspiring shopping.,neutral,0.30628442764282227
+2016-11-05,Farhad’s and Mike’s Week in Tech: Gaming as Prophylaxis to Elections,neutral,-0.005616210401058197
+2016-11-08,"The story of the 2016 election is not one of new media replacing old media, but of both struggling to define their roles.",negative,-0.6116755604743958
+2016-11-08,What We’ve Learned About the Media Industry During This Election,neutral,0.029932156205177307
+2016-11-09,"Despite some hiccups, real-time voter turnout data landed VoteCastr on people’s radar screens, and Twitter proved its centrality in big news events.",positive,0.7453188300132751
+2016-11-09,Daily Report: The Tech Companies That Won on Election Day,neutral,0.08789186924695969
+2016-11-11,"Housing, employment and credit ads will no longer be able to use Facebook tools to exclude certain races.",neutral,-0.21843081712722778
+2016-11-11,But other types of ads can still use them.,neutral,0.031055998057127
+2016-11-11,Facebook Will Stop Some Ads From Targeting Users by Race,negative,-0.7668792605400085
+2016-11-12,The social media giant is embroiled in accusations that it spread misinformation and fake news stories that influenced how the American electorate voted.,negative,-0.8518491983413696
+2016-11-12,"Facebook, in Cross Hairs After Election, Is Said to Question Its Influence",negative,-0.7174894213676453
+2016-11-15,The social network’s well-documented difficulty with users’ bad behavior may well be its biggest concern.,negative,-0.7454891204833984
+2016-11-15,But at least its executives admit it is a problem.,negative,-0.5615330934524536
+2016-11-15,Daily Report: Twitter Addresses Troll Problem.,negative,-0.8840243220329285
+2016-11-15,Again.,neutral,0.15469618141651154
+2016-11-16,"Facebook promises to increase use of outside measurement services for ads and to expand use of metrics services, among other measures.",positive,0.8585416078567505
+2016-11-16,Facebook Acts to Restore Trust After Overstating Video Views,neutral,0.3809177279472351
+2016-11-17,"Social media’s political sway is a given in places like the Philippines, Indonesia and Colombia, where false news often emerges to influence the vote.",negative,-0.6345155239105225
+2016-11-17,Fake News in U.S. Election?,negative,-0.7328036427497864
+2016-11-17,"Elsewhere, That’s Nothing New",neutral,-0.08491890132427216
+2016-11-18,Political scientists say false stories posted to the social network have played a role in elections around the world for several years.,negative,-0.7287998199462891
+2016-11-18,Daily Report: The Fake News Precedent Outside the United States,negative,-0.6599897146224976
+2016-11-19,"Facebook and Twitter faced fallout from the ways they had been used during the election, and Snapchat’s parent released video-recording glasses.",negative,-0.926925539970398
+2016-11-19,"Farhad’s and Mike’s Week in Tech: Fake News, Trolls and Other Spectacles",neutral,-0.2899201810359955
+2016-11-21,"The photo-sharing social network, which is owned by Facebook, is offering users the ability to share live videos and ephemeral messages.",neutral,0.05438004434108734
+2016-11-21,Instagram Introduces New Features That Mimic Twitter and Snap Tools,positive,0.485214501619339
+2016-11-22,"Moat awards different scores depending on whether an advertisement’s audio is on or how much of it streams, a seeming leap forward in a confounding realm of analytics.",neutral,0.072092205286026
+2016-11-22,New Tool Aims to Parse the Value of Online Ad Viewing,neutral,0.08728674054145813
+2016-11-23,"China is a tempting market for Facebook, which has been banned there since 2009.",negative,-0.582525372505188
+2016-11-23,"But to get in, the social network may have to compromise on its mission.",negative,-0.658753514289856
+2016-11-23,Daily Report: Facebook Courts China With Censoring Software,negative,-0.8712784647941589
+2016-11-28,The social network’s efforts to placate German authorities provide a case study for its moves to combat fake news and hate speech online worldwide.,neutral,0.3694451153278351
+2016-11-28,Facebook Runs Up Against German Hate Speech Laws,negative,-0.8965726494789124
+2016-11-29,"From fake news to a censorship tool to a slow draw on removing hate speech, the social media giant is struggling to deal with the ethics of its business.",negative,-0.9174052476882935
+2016-11-29,Daily Report: Facebook Spends a Month Behind the Woodshed,neutral,-0.3627408444881439
+2016-11-30,Snapchat started in 2011 as an app through which people could send messages that would disappear.,neutral,-0.019229181110858917
+2016-11-30,Now it has many features and a large user base.,neutral,0.12227325886487961
+2016-11-30,How Snapchat Is Shaping Social Media,neutral,0.04954778030514717
+2016-12-01,"The chief operating officer of Facebook has signed the Giving Pledge, a campaign in which the world’s richest people vow to give away at least half their wealth.",positive,0.7001056671142578
+2016-12-01,Sheryl Sandberg Said to Plan $100 Million in Charitable Giving,neutral,0.040346551686525345
+2016-12-03,Questions continue to swirl over Facebook’s handling of fake news stories and a tool it created that could potentially be used to censor content in China.,negative,-0.9113190174102783
+2016-12-03,Farhad’s and Mike’s Week in Tech: More Debate Over Facebook’s Role in Media,neutral,-0.1919923573732376
+2016-12-06,A report published by European officials said that only 40 percent of online material flagged as offensive was reviewed within 24 hours.,negative,-0.887123703956604
+2016-12-06,Europe Presses American Tech Companies to Tackle Hate Speech,neutral,-0.02577124536037445
+2016-12-10,Facebook has had to issue several corrections about traffic numbers it gives to advertisers.,neutral,-0.3955618739128113
+2016-12-10,Will marketers rebel?,negative,-0.4206567406654358
+2016-12-10,Farhad’s and Mike’s Week in Tech: Why Facebook Can’t Count,negative,-0.43745920062065125
+2016-12-13,Mark Zuckerberg took a page from Google’s playbook to keep control of his company while he gives a majority of his stake away.,neutral,-0.3544130325317383
+2016-12-13,But Facebook investors may have a lever.,neutral,0.07965442538261414
+2016-12-13,A Potential Hitch in Zuckerberg’s Stock Plan for Facebook,negative,-0.41870808601379395
+2016-12-14,"From exploding smartphones and hoverboards to fake news on social media, many tech hardware, software and web products suffered embarrassing setbacks.",negative,-0.9480997920036316
+2016-12-14,But it was not all bleak.,neutral,-0.03655078262090683
+2016-12-14,Biggest Tech Failures and Successes of 2016,negative,-0.7917405366897583
+2016-12-15,"A team of about six people will draw on the resources of ABC News to get to the bottom of questionable articles, said James Goldston, the president of ABC News.",neutral,0.06834077090024948
+2016-12-15,How Facebook’s Fact-Checking Partnership Will Work,neutral,0.07278342545032501
+2016-12-16,"Trying to walk a careful line of neutrality, the social network announced measures to fight fake news on the site, including partnering with groups that can help fact-check articles.",positive,0.5080149173736572
+2016-12-16,Daily Report: Facebook Joins Fight Against Fake News,neutral,-0.007825061678886414
+2016-12-17,"Facebook fights fake news, and Google picks a funny name for its car business.",neutral,-0.3423547148704529
+2016-12-17,Farhad’s and Daisuke’s Week in Tech: Is Google’s Waymo Way Better?,neutral,0.19636653363704681
+2016-12-18,"Proceeds from the book, which will be available next week, will benefit a fund for the victims of the shooting and their families.",neutral,0.06611333787441254
+2016-12-18,"With Comic Book, Celebrities Pay Tribute to Orlando Victims",neutral,0.05246252194046974
+2016-12-19,"While most social networking services court and elevate celebrities, Snapchat treats them like everyday users.",neutral,-0.06180979311466217
+2016-12-19,Snapchat Plays Hard to Get With Celebrities and Influencers,neutral,-0.2775106728076935
+2016-12-20,The charges come amid growing tension between the social media company and Europe’s policy makers over how it dominates much of the region’s digital world.,negative,-0.9052205085754395
+2016-12-20,European Officials Accuse Facebook of Misleading Them on WhatsApp Deal,negative,-0.8605513572692871
+2016-12-21,Some members of a pro-Hillary Clinton Facebook group are irked that the group’s founder signed a book deal based on their private community.,negative,-0.8856493234634399
+2016-12-21,"A Book Deal for Pantsuit Nation, and Then a Backlash",neutral,0.15296772122383118
+2016-12-22,The Facebook-owned messaging tool has become a vital link between countries even as some nations try to restrict its use.,neutral,0.2105848342180252
+2016-12-22,Daily Report: WhatsApp Is Embraced by World’s Immigrants,neutral,0.28860583901405334
+2016-12-25,Internet wrath turned against Snopes after it joined a coalition of websites that will work with Facebook to identify and flag suspicious content.,negative,-0.888802170753479
+2016-12-25,"For Fact-Checking Website Snopes, a Bigger Role Brings More Attacks",neutral,0.07401793450117111
+2016-12-26,"Data and automation allow companies to connect with people anywhere on the internet, but that advertising also bankrolls sites toxic to society.",neutral,-0.3541884124279022
+2016-12-26,Advertising’s Moral Struggle: Is Online Reach Worth the Hurt?,neutral,-0.01321360468864441
+2016-12-27,"A Times reporter visited the San Diego offices of Snopes, the longstanding debunker of misinformation that recently partnered with Facebook.",neutral,-0.21273072063922882
+2016-12-27,"Daily Report: Inside Snopes, a Fighter of Fake News",negative,-0.509430468082428
+2016-12-30,The Haggler looks back on 2016 and finds a long list of companies behaving badly.,negative,-0.8573706150054932
+2016-12-30,Looking for Holiday Cheer?,neutral,-0.07624195516109467
+2016-12-30,Look Elsewhere,neutral,0.0187661275267601

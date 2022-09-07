@@ -1,0 +1,211 @@
+Date,Sentence,Prediction,sentimentScore
+2014-01-17,The suspensions by the two banks on Friday came amid questions about whether the traders colluded to fix benchmark currency rates.,negative,-0.9359676241874695
+2014-01-17,HSBC and Citigroup Suspend Currency Traders,negative,-0.8055554628372192
+2014-01-21,The state Deutsche Bank and other financial institutions in Europe is crucial for the economy because European companies are more dependent on bank credit than American businesses.,neutral,0.19191326200962067
+2014-01-21,Deutsche Bank Loss Underlines European Economy’s Dependence on Banks,neutral,-0.1958474963903427
+2014-01-22,"Paul Singer, the founder of the hedge fund Elliott Management, said on Wednesday that he remained skeptical of claims that banks “unquestionably understand” the risks on their balance sheets.",neutral,-0.1494426280260086
+2014-01-22,Two banking executives disagreed.,negative,-0.6886711716651917
+2014-01-22,"At Davos, Debate on Whether Banks Have Learned Their Lessons",neutral,-0.04957415908575058
+2014-01-26,Some customers were prevented from making large cash withdrawals after they refused to present evidence about why they needed the money.,negative,-0.9416779279708862
+2014-01-26,HSBC Apologizes After Cash Withdrawal Issue in Britain,negative,-0.8869530558586121
+2014-02-05,Regulators worldwide are ramping up their investigations into potential manipulation of the $5-trillion-a-day foreign exchange market.,neutral,0.06288222968578339
+2014-02-05,Deutsche Bank Is Said to Fire 3 Currency Traders in New York,negative,-0.9090330004692078
+2014-02-18,Capital One on Tuesday said it would rethink the wording of its credit card contracts after a provision that said the bank could “contact you at your home and at your place of employment” began attracting a lot of unwanted attention.,negative,-0.8777162432670593
+2014-02-18,Capital One to Revisit Credit Card Contract Terms After Outcry,neutral,0.18484891951084137
+2014-02-24,The bank said it would pay an allowance to high-ranking executives in order to circumvent European compensation limits and announced earnings for 2013 that fell short of analyst expectations.,positive,0.017229825258255005
+2014-02-24,HSBC to Sidestep European Union Bonus Cap as It Cuts Costs,negative,-0.49053701758384705
+2014-05-07,The British bank HSBC said it experienced “muted customer activity” in April.,negative,-0.9020286798477173
+2014-05-07,"Hurt by Asia, HSBC’s Quarterly Earnings Decline 18%",negative,-0.969607949256897
+2014-05-20,"European Commission competition authorities on Tuesday accused JPMorgan Chase, HSBC and Crédit Agricole of having colluded to fix benchmark interest rates tied to the euro.",negative,-0.9405906796455383
+2014-05-20,European Regulators Accuse 3 More Banks of Manipulating Interest Rates,negative,-0.8016658425331116
+2014-05-23,Shareholders used words like “greed” to describe the levels at which bankers are being compensated.,neutral,-0.15376269817352295
+2014-05-23,"HSBC, Like Rivals, Hears Earful on Banker Pay at Annual Meeting",neutral,0.17538009583950043
+2014-06-06,"Millennials are hoarding cash at the same rate as baby boomers, researchers found, suggesting that anxiety about market crashes has yet to subside.",negative,-0.8941981196403503
+2014-06-06,Fear of Equities Drives More Investors to Cash,negative,-0.6938796043395996
+2014-06-10,"As the HSBC tower has changed hands in recent years, it has become an emblem of the boom-bust-boom cycle of London’s commercial property market.",neutral,0.3407892882823944
+2014-06-10,A Bellwether for London Realty,neutral,0.15287631750106812
+2014-06-11,The commercial director at Next Media Limited said HSBC and Standard Chartered ended advertising after being told to do so by the Chinese government.,negative,-0.8498187065124512
+2014-06-11,Hong Kong Media Worries Over China’s Reach as Ads Disappear,negative,-0.8406558632850647
+2014-06-24,"The sale of the Swiss portfolio, which had assets under management of about $12.5 billion at the end of 2013, is the latest move by HSBC to improve its profitability by focusing on higher-margin businesses.",positive,0.9217512607574463
+2014-06-24,HSBC to Sell Some Swiss Private Bank Assets to Liechtenstein Group,neutral,0.010089566931128502
+2014-07-01,"Federal prosecutors announced a $10 million settlement, accusing the British bank of fraud over the way it submitted fees when foreclosing on homeowners.",negative,-0.9013025760650635
+2014-07-01,HSBC Settles Fraud Charges Over Foreclosure Fees Paid by the U.S. Government,negative,-0.5602760314941406
+2014-07-18,The Competition and Markets Authority is concerned about the concentration of retail banking and potential barriers for new entrants into the market.,neutral,-0.39489859342575073
+2014-07-18,Antitrust Regulator to Examine British Banks,neutral,-0.15069760382175446
+2014-07-25,The settlements would make Lloyds the latest major bank to agree to penalties over accusations that its employees conspired to manipulate benchmark interest rates.,negative,-0.3728633522987366
+2014-07-25,Lloyds in ‘Late-Stage’ Discussions to Resolve Libor Investigations,neutral,-0.11221139132976532
+2014-08-04,The British bank said first-half earnings fell to $9.75 billion from $10.3 billion in the period a year earlier.,negative,-0.9688358306884766
+2014-08-04,Its Asian operations account for more than half of its earnings.,neutral,0.03682521730661392
+2014-08-04,Profits Decrease at HSBC as Business in Asia Slows,negative,-0.9687276482582092
+2014-09-01,"In a blog post, Mr. Woodford, formerly of Invesco, said he was concerned about the “unquantifiable” fines HSBC could face in continuing investigations by regulators.",negative,-0.8737537860870361
+2014-09-01,Fund Manager Neil Woodford Sells HSBC Stake on Risk of Fines,negative,-0.6896644830703735
+2014-09-12,HSBC agreed to settle a lawsuit by the F.H.F.A.,positive,0.3919750452041626
+2014-09-12,over mortgage-backed securities it sold to Fannie Mae and Freddie Mac before the financial crisis.,neutral,-0.03418568894267082
+2014-09-12,HSBC to Pay $550 Million to End Mortgage-Related Suit,neutral,0.1911267191171646
+2014-09-26,"The Financial Conduct Authority of Britain informed six of the world’s biggest banks this week that it hoped to strike a so-called global settlement by early November, said people briefed on the matter.",negative,-0.34494930505752563
+2014-09-26,British Regulators Discuss Settlement With Banks in Currency Case,neutral,0.08413219451904297
+2014-10-07,"Two directors may leave HSBC over stricter rules that hold senior bankers in Britain more accountable for misconduct, according to a person with direct knowledge of the matter.",negative,-0.8982906937599182
+2014-10-07,2 HSBC Directors May Leave Over New British Rules on Banking,neutral,-0.2511567771434784
+2014-10-14,"Amid investigations of the foreign exchange market, a number of giant banks have suspended or fired about 30 currency traders following their own internal inquiries.",negative,-0.9391782879829407
+2014-10-14,Senior JPMorgan Currency Trader in London Has Left the Bank,negative,-0.7487761974334717
+2014-10-17,"The British shoe brand priced its offering at 1.40 pounds a share, the low end of the range, and the stock was flat in early trading in London after opening slightly higher.",negative,-0.9441629648208618
+2014-10-17,Jimmy Choo Prices I.P.O.,neutral,0.007142610847949982
+2014-10-17,Despite Turbulent Market,neutral,0.17818301916122437
+2014-11-03,"The British bank said that its third-quarter profit rose 7 percent, but it took a charge to cover potential legal costs associated with regulatory investigations.",positive,0.7431588768959045
+2014-11-03,HSBC Hurt by $1.69 Billion in Legal and Other Costs,negative,-0.9526946544647217
+2014-11-06,"Britain’s four largest banks – the Lloyds Banking Group, Barclays, the Royal Bank of Scotland and HSBC – account for more than three-quarters of all consumer and business accounts, the Competition and Markets Authority said.",neutral,-0.004947306588292122
+2014-11-06,Britain to Investigate Dominance of Big Banks,neutral,-0.24058309197425842
+2014-11-11,"The next phase of the case will most likely present a greater test to the banks, as the focus shifts to criminal investigations and individual liability.",neutral,0.06982575356960297
+2014-11-11,"As Currency Settlement Draws Near, Barclays Gets Cold Feet",negative,-0.6875876188278198
+2014-11-12,Foreign exchange traders employed colorful code names like the 3 Musketeers as they plotted ways to “mangle” the currency markets.,neutral,-0.025836922228336334
+2014-11-12,"The Things Traders Say, Foreign Exchange Edition",neutral,0.030534788966178894
+2014-11-17,The unit is accused of helping wealthy individuals hide billions of dollars in assets by creating offshore companies in places like Panama and the Virgin Islands.,neutral,-0.2460518777370453
+2014-11-17,HSBC’s Swiss Private Bank Charged in Belgium Tax Fraud Inquiry,negative,-0.8123800754547119
+2014-11-18,"Frank Cahill’s chats from his time at HSBC were cited by British regulators in announcing settlements with banks last week, according to a person briefed on the matter.",neutral,-0.18415731191635132
+2014-11-18,Goldman Sachs Dismisses Trader Linked to Currency Inquiry,negative,-0.8305487632751465
+2014-11-21,French magistrates are examining whether the bank assisted wealthy clients avoid French tax reporting requirements from 2006 to 2007.,negative,-0.7652555704116821
+2014-11-21,HSBC’s Swiss Private Bank Under ‘Formal Investigation’ in French Tax Inquiry,negative,-0.6130642294883728
+2014-11-25,The S.E.C.,neutral,0.014058640226721764
+2014-11-25,"extracted a $12.5 million penalty, a fraction of the penalty assessed in a similar case against Credit Suisse.",negative,-0.8820512294769287
+2014-11-25,S.E.C.,neutral,0.030168529599905014
+2014-11-25,Settles Swiss Banking Secrecy Case With an HSBC Unit,neutral,-0.32054001092910767
+2014-11-26,About 30 traders at various financial institutions have been suspended or fired after internal inquiries.,negative,-0.9464753866195679
+2014-11-26,Bank of New York Mellon Fires Currency Trader After Internal Review,negative,-0.8625984191894531
+2014-12-10,"The firm, Eneva, joins Mr. Batista’s petroleum exploration company OGX, his naval construction company OSX and his mining company MMX in seeking to renegotiate their obligations.",neutral,0.12558262050151825
+2014-12-10,Eike Batista’s Electricity Company in Brazil Seeks Bankruptcy Protection,negative,-0.7993913888931274
+2015-01-15,"John Collins, the bank’s deputy general counsel, has succeeded Chris Campbell, who retired as general counsel last month, and three other compliance staff members are joining other banks.",neutral,0.008292300626635551
+2015-01-15,Compliance Shake-Up at R.B.S.,negative,-0.8710752129554749
+2015-01-15,as General Counsel and 3 Others Leave Bank,neutral,-0.3614582121372223
+2015-01-21,"Bankers and other attendees at the World Economic Forum offer their thoughts on regulation, oil prices and quantitative easing by the European Central Bank, among other subjects.",neutral,0.04155902564525604
+2015-01-21,"Predictions, Pet Peeves and Random Musings From Davos",neutral,0.007462531328201294
+2015-02-09,The Consumer Financial Protection Bureau seeks to limit payday lenders.,neutral,-0.09379000961780548
+2015-02-09,| The prime minister of Greece says he will carry out his campaign to roll back austerity.,positive,0.7084341645240784
+2015-02-09,| Hidden cash is flowing into high-end real estate.,neutral,0.027269871905446053
+2015-02-09,| Shares of HSBC fall on tax avoidance claims.,negative,-0.9454788565635681
+2015-02-09,Morning Agenda: U.S. Takes On Payday Lenders,neutral,-0.10456696152687073
+2015-02-10,"Hang Seng Bank, the lender controlled by HSBC, agreed on Tuesday to sell about half its stake in Industrial Bank of China for as much as $2 billion.",neutral,0.07678330689668655
+2015-02-10,Hang Seng Bank to Sell Part of Stake in Industrial Bank of China,neutral,-0.021419133991003036
+2015-02-12,Members of Parliament questioned details involving leaked documents that describe how HSBC’s Swiss private banking arm helped clients like politicians and rock stars hide billions of dollars before 2007.,negative,-0.855699360370636
+2015-02-12,British Revenue Chief Is Faulted on HSBC’s Efforts to Aid Tax Evasion,negative,-0.9280882477760315
+2015-02-18,The investigation by the Geneva prosecutor’s office comes amid recent media reports about the HSBC unit’s previous efforts to help wealthy clients seeking to avoid taxes.,neutral,-0.12608112394809723
+2015-02-18,Swiss Prosecutors Search Offices of HSBC Unit,negative,-0.7262166738510132
+2015-02-23,"Stuart Gulliver responded to news reports about the account, saying it was set up to keep his bonuses private from his colleagues.",neutral,-0.11987239867448807
+2015-02-23,HSBC Chief Defends Swiss Bank Account Worth $7.7 Million,neutral,-0.008518397808074951
+2015-02-25,The chairman and the chief executive testified before lawmakers about the activities of the bank’s Swiss private bank and regulatory investigations.,neutral,0.023840822279453278
+2015-02-25,"HSBC Executives, With a Lot to Explain, Give It a Shot",neutral,0.061545588076114655
+2015-03-02,"A growing number of the wealthy British residents do not have to pay tax on their foreign income or assets, thanks to an Edwardian-era law.",neutral,0.034483395516872406
+2015-03-02,Britain’s Elite Still Enjoying a Tax Break 100 Years Old,neutral,0.1499437689781189
+2015-03-08,"Apple will demonstrate its new smartwatch on Monday, HSBC’s chief will testify in Britain’s Parliament, and Greece will detail its reform plans.",neutral,0.06548871099948883
+2015-03-08,"Apple Watch Demonstration, Questions for HSBC and Greece’s Bailout",neutral,-0.1075635477900505
+2015-03-09,Bank executives are accused of incompetence in a hearing on tax evasion.,negative,-0.8888896107673645
+2015-03-09,HSBC Again Comes Under Fire From British Lawmakers,negative,-0.9139609336853027
+2015-03-13,"The Swiss unit, HSBC Private Bank (Suisse), has a month to respond to judicial authorities before magistrates decide whether the case goes to trial.",negative,-0.5204974412918091
+2015-03-13,French Prosecutor Seeks Trial for HSBC’s Swiss Operation,negative,-0.6898529529571533
+2015-03-20,"The changes come as Simon Robertson stays on for a final year as deputy chairman, but gives up several leadership roles on board committees.",neutral,-0.028093457221984863
+2015-03-20,HSBC to Shuffle Board Roles of Several Directors,neutral,-0.045544642955064774
+2015-04-01,"The British bank that reached a $1.9 billion settlement to resolve accusations of money laundering still has a long way to go to root out the problems, federal prosecutors say.",negative,-0.2812223434448242
+2015-04-01,Filing on HSBC Compliance,neutral,-0.047674186527729034
+2015-04-09,The British bank was placed under formal investigation by French magistrates examining whether its Swiss unit helped wealthy clients avoid taxes.,negative,-0.8946223258972168
+2015-04-09,HSBC Facing Criminal Investigation in French Tax Case,negative,-0.8045972585678101
+2015-04-24,Britain has a tax that hits banks like HSBC and Standard Chartered particularly hard because it is calculated on their global balance sheets.,negative,-0.8220072984695435
+2015-04-24,HSBC to Weigh Moving Headquarters From London,neutral,-0.2076089233160019
+2015-04-28,"The drop comes as the bank prepares this year to replace its chief executive with William T. Winters, the former head of JPMorgan Chase’s investment bank.",negative,-0.9497393369674683
+2015-04-28,Standard Chartered Profit Declined 22 Percent in First Quarter,negative,-0.9704291820526123
+2015-05-05,"The bank’s long-term fortunes rest on decisions about its shape, head office location and British business.",neutral,0.030736111104488373
+2015-05-05,None will be resolved soon.,neutral,-0.004612812772393227
+2015-05-05,Big Questions Hover Over HSBC,neutral,-0.21572017669677734
+2015-05-13,"Citing chat room messages replete with typos, jargon and vulgarities, regulators have fined big banks, accusing them of conspiring to manipulate the foreign currency markets and global interest rates.",negative,-0.9072291851043701
+2015-05-13,Settlements in Foreign Exchange and Interest Rate Cases,neutral,0.04426905885338783
+2015-05-22,"The British bank is weighing a sale and other possibilities regarding its poorly performing Brazilian unit, which reported a loss of $146 million in 2014.",negative,-0.5806201696395874
+2015-05-22,HSBC Considering ‘Strategic Options’ for Brazil Business,neutral,0.0844455361366272
+2015-06-02,Irene Yun Lien Lee of Hysan Development and Pauline van der Meer Mohr of Erasmus University Rotterdam will join the lender’s board later this year.,neutral,0.034785591065883636
+2015-06-02,HSBC Adds Two Independent Directors to Board,neutral,0.04052100330591202
+2015-06-04,HSBC will pay about $42.8 million to settle the inquiry into possible money laundering at its Swiss private bank and won’t face criminal charges.,neutral,0.059091318398714066
+2015-06-04,Swiss Prosecutors End HSBC Inquiry Without Filing Charges,negative,-0.7430953979492188
+2015-06-08,"This week’s business news will include Apple’s conference for software developers, G.M.’s annual meeting with investors, and the European Parliament’s vote on the plans for a landmark trade deal.",neutral,0.11300180852413177
+2015-06-08,"Apple’s Conference, G.M.’s Annual Meeting, and a Trade Vote in Europe",neutral,0.03383670747280121
+2015-06-09,"The British bank is returning to its roots as a lender focused on Asia, though investors will have to wait almost three years to feel the effect.",positive,0.8073634505271912
+2015-06-09,"To Move Forward, HSBC Looks Back",positive,0.6497740745544434
+2015-08-03,"Criminals are always seeking ways to hide their profits, and recent cases highlight the difficulty of keeping up with their latest tactics.",negative,-0.7617719769477844
+2015-08-03,The Challenges of Fighting Money Laundering,neutral,0.058606766164302826
+2015-08-12,The elevations for Natalie Blyth and Philip Noblet come as HSBC continues to reshape its global business.,neutral,0.25875815749168396
+2015-08-12,HSBC to Promote Two in Banking Operations,neutral,0.4304031431674957
+2015-09-10,Financial regulators are throwing a bone to sprawling global banks by watering down plans for what happens if a lender goes bust.,negative,-0.6407512426376343
+2015-09-10,But it makes resolving crises a bit harder.,neutral,0.07486099749803543
+2015-09-10,Change to Bank Rules Could Spur Political Fight in a Crisis,negative,-0.7111827731132507
+2015-09-18,"Stocks in Japan lost 2 percent, while markets in Europe traded lower.",negative,-0.9229622483253479
+2015-09-18,Fed’s Decision on Rates Rattles Some Global Markets,negative,-0.7678763270378113
+2015-09-28,Switzerland’s Competition Commission is investigating seven financial institutions over potential collusion to manipulate the trading of gold and other metals.,negative,-0.8400494456291199
+2015-09-28,Swiss Regulator Is Examining Precious-Metals Market,neutral,-0.02132110297679901
+2015-10-02,"Banks in Britain have pressed regulators to set a time limit on filing consumer complaints, as claims for payment protection insurance have already cost about $31 billion.",negative,-0.7911985516548157
+2015-10-02,British Regulators Weigh Deadline for Loan Insurance Compensation,neutral,-0.25624987483024597
+2015-10-15,The lenders may be forced to raise the capital they keep by as much as $5 billion to comply with measures meant to protect their British retail banking businesses in a crisis.,negative,-0.18129408359527588
+2015-10-15,British Banks May Need to Keep Billions More on Hand Under New Rules,neutral,-0.12603889405727386
+2015-11-02,The British bank said its quarterly results had benefited from lower legal and regulatory costs and gains related to the value of its own debt.,positive,0.9336772561073303
+2015-11-02,HSBC Profit Rises on Lower Costs and Gains at Investment Bank,positive,0.685981273651123
+2015-11-05,HSBC caused an uproar by suggesting it might move its headquarters to Hong Kong.,negative,-0.8530905842781067
+2015-11-05,But it makes more sense for its London-based peer Barclays to move to New York.,neutral,0.03822430968284607
+2015-11-05,Why Barclays May Want to Mull a Move to the U.S.,neutral,-0.08799628913402557
+2015-11-09,The Financial Stability Board estimates that 30 of the world’s largest banks would collectively need to raise as much as $1.2 trillion by 2022.,neutral,0.2275693416595459
+2015-11-09,Regulators Propose New Rules to Ease Strain of Bank Failures,neutral,0.34762200713157654
+2015-11-13,The British Bankers’ Association said that recent policy and regulatory decisions in the country had reduced its attractiveness for the sector.,negative,-0.9578267931938171
+2015-11-13,"Britain Losing Its Competitive Edge in Banking, Trade Group Warns",negative,-0.945106565952301
+2015-12-01,The central bank said the two lenders would not be required to raise capital despite failing to meet certain thresholds.,neutral,0.1353195756673813
+2015-12-01,Bank of England Singles Out R.B.S.,neutral,0.04080092906951904
+2015-12-01,and Standard Chartered in Tests,neutral,0.023149581626057625
+2015-12-17,"Simon Cooper will join Standard Chartered in April and serve as chief executive of the corporate and institutional banking unit, its largest business.",neutral,0.03211301565170288
+2015-12-17,Standard Chartered Hires HSBC Veteran to Run Corporate Bank,neutral,0.02178908884525299
+2016-02-08,A judge’s order to release secret documents raises questions about how much involvement courts should have over settlements related to corporate wrongdoing.,negative,-0.7920037508010864
+2016-02-08,HSBC Case Tests Transparency of Deferred Prosecution Agreements,neutral,0.07819486409425735
+2016-02-11,"The lender, which has been trying to cut costs by $5 billion annually, said it would fund pay increases from its bonus pool.",positive,0.7677096128463745
+2016-02-11,HSBC Rescinds Pay Freeze for 2016 but Keeps Hiring Ban in Place,negative,-0.8991805911064148
+2016-02-15,"The British bank had announced a review of a possible move last April, citing regulations and a tax on lenders.",neutral,-0.26175662875175476
+2016-02-15,HSBC to Keep Headquarters in London Instead of Hong Kong,neutral,-0.09696072340011597
+2016-02-22,"The lender’s executives have made it clear that they think these worries are more imagined than real, but investors fear the worst is yet to come.",negative,-0.8171108365058899
+2016-02-22,"While HSBC Stays Upbeat, Investors Worry About Rates and China",negative,-0.8767714500427246
+2016-02-24,"Judge Gleeson, who oversaw the government’s deferred-prosecution agreement with HSBC, is known for something of a maverick streak.",neutral,-0.01662251353263855
+2016-02-24,"John Gleeson, Prominent Judge, Said to Be Joining Debevoise & Plimpton",neutral,0.027029283344745636
+2016-02-25,"The executive, Matthew Westerman, will be co-chief of the bank’s new global banking division.",neutral,0.03785845637321472
+2016-02-25,HSBC Hires Goldman Executive for Investment Bank,neutral,0.015714172273874283
+2016-02-26,"The Swiss bank is suspected of having directly approached Belgian customers to encourage them to engage in transactions meant to evade taxes, according to Brussels prosecutors.",negative,-0.7251968383789062
+2016-02-26,UBS Faces Money Laundering and Fraud Inquiry in Belgium,negative,-0.8423665761947632
+2016-03-09,Market speculation that Burberry might be the subject of a takeover bid sent the luxury fashion brand’s shares higher on Tuesday.,positive,0.8822999000549316
+2016-03-09,No Mystery Bidder for Burberry; Shares Down Nearly 6 Percent,negative,-0.962287187576294
+2016-03-18,The bank said that the nomination committee of its board was leading the search and that it hoped to find a successor by next year.,neutral,0.048693396151065826
+2016-03-18,HSBC Begins Search to Replace Its Chairman,neutral,-0.01372506096959114
+2016-03-23,"The appointment of the former chief, David Nish, comes as the British lender continues to shake up its board before it names a successor to its chairman.",neutral,-0.006882309913635254
+2016-03-23,HSBC Adds Former Chief Executive of Standard Life to Board,neutral,0.03879830241203308
+2016-04-21,The Saudi kingdom is enmeshed in a global oil price war while opposing Iran in proxy conflicts in Yemen and Syria.,negative,-0.6206716895103455
+2016-04-21,$10 Billion Loan to Saudi Arabia Carries Risks,neutral,0.10696293413639069
+2016-05-01,"The European Commission will discuss growth and employment across its member states, and earnings reports are expected for Alibaba, HSBC and UBS.",neutral,0.04901735484600067
+2016-05-01,An Economic Forecast for the European Union,neutral,0.03270016610622406
+2016-05-03,The British lender said that market uncertainty in the first quarter cut into the results of its investment banking and wealth management businesses.,negative,-0.9394801259040833
+2016-05-03,HSBC’s Profit Down 18% as Markets Weigh on Results,negative,-0.9655856490135193
+2016-05-16,"The bank announced plans last year to shed as many as 50,000 jobs by the end of next year as it seeks to reduce its costs and reshape its business.",negative,-0.9534525871276855
+2016-05-16,HSBC to Move 840 Technology Jobs Out of Britain to Save Costs,negative,-0.7764865756034851
+2016-07-15,A House committee’s report details how regulators and prosecutors turned a potential criminal prosecution of HSBC into a watered-down settlement.,neutral,-0.3831508159637451
+2016-07-15,A Bank Too Big to Jail,negative,-0.43202999234199524
+2016-07-20,"On Wednesday, federal prosecutors charged two HSBC employees with ‘front-running.’ But how do traders use this practice to maximize profits?",neutral,-0.1357526183128357
+2016-07-20,How Traders Use Front-Running to Profit From Client Orders,neutral,0.05344614386558533
+2016-07-21,"The Justice Department forced banks to pay fines and penalties, but mystery surrounds the dearth of individual prosecutions for wrongdoing.",negative,-0.856448769569397
+2016-07-21,A Clue to the Scarcity of Financial Crisis Prosecutions,neutral,0.019783422350883484
+2016-07-25,"Questionable comments may be bad business, but whether the practice constitutes a crime remains to be seen.",negative,-0.7306265830993652
+2016-07-25,Finding the Fraud in the HSBC Currency Trading Case,negative,-0.41022011637687683
+2016-08-03,The bank’s profits dropped 40 percent in the second quarter.,negative,-0.9657081365585327
+2016-08-03,Morning Agenda: Profit at HSBC Plummets,negative,-0.9674391150474548
+2016-09-12,"Jackson Tai, who was also a longtime JPMorgan Chase banker, is the fourth new director to join the bank’s board this year.",neutral,0.06031497195363045
+2016-09-12,HSBC Adds Former C.E.O.,neutral,-0.04503650218248367
+2016-09-12,of Singapore’s DBS Bank to Board,neutral,-0.11365790665149689
+2016-10-02,"Deutsche has cultivated bankers with expertise in cutting-edge financial instruments, but that could be a liability in today’s market.",neutral,-0.10861971974372864
+2016-10-02,Deutsche Bank’s Appetite for Risk Throws Off Its Balance,negative,-0.8657642602920532
+2016-11-07,"Global markets are bracing as Americans head to the polls, while in Europe, HSBC and UniCredit prepare to share their third-quarter results with analysts.",neutral,0.1355609893798828
+2016-11-07,Traders Hold Their Breath as the U.S.,negative,-0.34033846855163574
+2016-11-07,Chooses a President,neutral,0.038129039108753204
+2016-11-21,"Citigroup, Bank of America and Wells Fargo each moved up a notch in the annual risk rankings of banks deemed to be globally important.",positive,0.8929831385612488
+2016-11-21,"Three Big American Banks Pose Greater Systemic Risk, Regulator Says",positive,0.6189389228820801
+2016-11-30,"The Royal Bank of Scotland is the worst prepared of Britain’s biggest lenders to cope with another financial crisis, according to the Bank of England test.",negative,-0.8820204138755798
+2016-11-30,R.B.S.,neutral,0.04479066655039787
+2016-11-30,to Bolster Capital Position After Failing Stress Test,positive,0.8781957626342773
+2016-12-07,"Crédit Agricole, HSBC and JPMorgan Chase are the latest to be penalized by the bloc’s regulators for manipulating the cost of borrowing.",negative,-0.8705590963363647
+2016-12-07,E.U.,neutral,0.04360159859061241
+2016-12-07,Fines Three Banks About $520 Million for Interest Rate Collusion,negative,-0.6394312977790833

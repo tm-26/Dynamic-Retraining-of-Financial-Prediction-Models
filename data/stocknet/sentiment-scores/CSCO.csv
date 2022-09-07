@@ -1,0 +1,116 @@
+Date,Sentence,Prediction,sentimentScore
+2014-01-29,"Dell said it would offer networking equipment that was built with nonspecialized semiconductors and an open-source operating system, as opposed to the highly proprietary gear.",neutral,0.07414481043815613
+2014-01-29,Open-Source System to Be Offered by Dell,neutral,0.0401298925280571
+2014-02-13,"Cisco just reported a tough quarter, the latest sign of an incumbent struggling to adapt to a world of cloud computing, mobility, sensors, and lots of cheap competition.",negative,-0.955491840839386
+2014-02-13,"In an interview, John Chambers, Cisco’s chief executive, pointed to a number Wall Street didn’t hear that gave him confidence about his strategy.",positive,0.45737579464912415
+2014-02-13,The Number Cisco Left Out,neutral,-0.29912373423576355
+2014-02-20,The networking equipment company said on Thursday that it had reached an agreement with Elliott Management to nominate two new directors to its board and return more money to shareholders.,positive,0.8186943531036377
+2014-02-20,Juniper Networks Reaches Deal With Hedge Fund,positive,0.36246776580810547
+2014-03-24,"The biggest name in computer networking announces a plan to link public and private cloud computing systems in a secure and reliable system, the “Intercloud.”",positive,0.6471192836761475
+2014-03-24,Cisco Bets a Billion on the Cloud,neutral,0.03182781860232353
+2014-03-27,"Some of the largest multinational corporations have formed a global standards body intended to speed the connection of factories, oil rigs and hospitals to intricate systems of sensors and computers.",neutral,0.10474983602762222
+2014-03-27,Consortium Wants Standards for ‘Internet of Things’,neutral,0.04670646786689758
+2014-04-11,"Hardware like home routers and printers is connected to the Internet, and the Heartbleed bug is built into some of it.",neutral,-0.030710391700267792
+2014-04-11,"Daily Report: Security Flaw Could Extend to Digital Devices, Experts Say",negative,-0.747634768486023
+2014-04-14,The developers of the Hudson Yards on Manhattan’s West Side are forming a partnership with the researchers at N.Y.U.’s Center for Urban Science and Progress to create a “quantified community” that uses data science to study and improve the urban environment.,positive,0.7599123120307922
+2014-04-14,Huge New York Development Project Becomes a Data Science Lab,neutral,0.016185373067855835
+2014-04-24,The Heartlbleed bug that weakened the security of millions of web servers and Internet-connected devices also exposed a flaw in open-source software maintenance that many have promised to fix.,negative,-0.8889607787132263
+2014-04-24,Companies Back Initiative to Support OpenSSL and Other Open-Source Projects,positive,0.5314821600914001
+2014-05-01,"Microsoft raced to issue a fix Thursday to a vulnerability in its Internet Explorer browser, which security researchers believe was being exploited by nation-state sponsored attack groups.",negative,-0.27722859382629395
+2014-05-01,"Attackers Use Microsoft Security Hole Against Energy, Defense, Finance Targets",negative,-0.5187541842460632
+2014-05-15,"Cisco’s stock has rebounded to last November’s levels on better-than-expected performance, but the chief executive remains focused on complex, high-performance and expensive architectures of networks.",positive,0.8468329906463623
+2014-05-15,"For Cisco, Higher Stock Price Is Still Chasing Ambition",positive,0.6653326749801636
+2014-05-27,"A state-run newspaper says the network equipment maker has close ties with the U.S. government and military, which the company denies.",negative,-0.638604462146759
+2014-05-27,China Pulls Cisco Into Dispute on Cyberspying,negative,-0.93483567237854
+2014-06-05,"Just days after federal agents seized two computer networks used to distribute ransomware, security researchers said a new exploit kit was being used to distribute ransomware with disturbing success rates.",neutral,0.19554008543491364
+2014-06-05,"Days After a Federal Seizure, Another Type of Ransomware Gains Ground",negative,-0.5261335968971252
+2014-06-07,Internet companies like Google and Facebook are working to keep governments and their spy agencies out of their servers after revelations that they had been invaded.,negative,-0.8406630754470825
+2014-06-07,Internet Giants Erect Barriers to Spy Agencies,neutral,-0.20497086644172668
+2014-06-18,"The Internet company joins Google, LinkedIn and a host of older tech companies in disclosing the gender and ethnic breakdown of its work force.",neutral,0.048927947878837585
+2014-06-18,"Yahoo Reveals Work Force Data, Joining Tech’s Small Diversity Parade",positive,0.3396983742713928
+2014-07-23,"“It’s a production model, not a business model,” says one executive.",neutral,-0.058288514614105225
+2014-07-23,And a tough one too.,negative,-0.5794557332992554
+2014-07-23,The latest case in point is a move by Big Switch Networks to change the way it hopes to demolish Cisco.,neutral,0.048120539635419846
+2014-07-23,Open Source and the Challenge of Making Money,neutral,0.04775470122694969
+2014-08-13,"In a conference call, Cisco executives said the company planned to cut up to 6,000 jobs, or 8 percent of its work force, in the coming months.",negative,-0.9607614874839783
+2014-08-13,"With Profits Slipping, Cisco Plans to Cut Jobs",negative,-0.957441508769989
+2014-08-14,"In a conference call, Cisco executives said the company planned to cut up to 6,000 jobs, or 8 percent of its work force, in the coming months.",negative,-0.9607614874839783
+2014-08-14,"Daily Report: Profits Slip, and Cisco Plans to Cut 6,000 Jobs",negative,-0.9710469245910645
+2014-08-18,"Companies like Google are employing unorthodox criteria — say, whether a product is used daily, like a toothbrush — to size up their deal targets, and without the advice of Wall Street bankers.",neutral,-0.40353816747665405
+2014-08-18,"In Silicon Valley, Mergers Must Meet the Toothbrush Test",neutral,0.01217663660645485
+2014-09-04,"The networking giant says its biggest technology achievement so far this year is, surprisingly, in computer servers.",positive,0.8927199244499207
+2014-09-04,"Company executives say high-end servers are really at the center of Cisco, whether or not sales numbers match that assertion.",neutral,0.10637448728084564
+2014-09-04,Cisco Has a Server-Centric Vision for Itself,neutral,0.016500655561685562
+2014-09-05,"Several top financial firms are offering investments that make money while having a positive social impact, and the risks have lessened.",positive,0.8560680747032166
+2014-09-05,Investing to Make a Difference Is Gaining Ground,neutral,0.417022168636322
+2014-09-23,"The computer storage company’s talks with HP, Cisco and Oracle highlight the continuing problem with aging technology giants pursuing growth and relevance.",negative,-0.6432572603225708
+2014-09-23,Aging Tech Giants Like EMC Look to Deals to Help Bolster Revenue,neutral,0.33052709698677063
+2014-09-29,"Cisco has a novel approach for selling its big Internet vision, called Intercloud: There is no better way to impose government policies on the Internet.",neutral,0.029144061729311943
+2014-09-29,Cisco: The Internet Needs More Control,neutral,0.12895716726779938
+2014-10-08,"In a letter, Elliott Management criticized the tech company for being overly complex and suggested selling off a range of assets, including the separately traded cloud computing firm VMWare.",negative,-0.918626070022583
+2014-10-08,Paul Singer’s Hedge Fund Pushes Technology Giant EMC to Break Up,neutral,-0.31565356254577637
+2014-10-22,"Conceived at the World Wildlife Fund, the initiative uses bulk purchasing power to allow for discounts on home systems.",neutral,0.06911709904670715
+2014-10-22,Home Solar Power Discounts Are Worker Perk in New Program,positive,0.6288578510284424
+2014-11-12,The once-dominant networking equipment manufacturer is battling more well-funded competitors and technology changes that threaten profits.,negative,-0.9235354661941528
+2014-11-12,"Cisco Systems Income Falls, but Quarterly Revenue Sets Record as Pressures Mount",negative,-0.9571332931518555
+2014-12-05,"The networking giant is suing a competitor founded and run by some of Cisco’s most noted alumni, saying they violated numerous Cisco patents and copied other work.",negative,-0.9135706424713135
+2014-12-05,"In Suit, Cisco Accuses Arista of Copying Work",negative,-0.8960330486297607
+2014-12-10,"Arista Networks’ chief executive said an employee copied “less than 1 percent” of Cisco’s users manual, but disputed a lawsuit’s more substantial charges.",negative,-0.8745740056037903
+2014-12-10,Arista’s Chief Executive Counters Cisco Lawsuit,negative,-0.6223973035812378
+2014-12-11,The networking giant’s analysis is good for looking at people in stores or machines in the field.,neutral,0.01859886944293976
+2014-12-11,It says more data has to be analyzed on the spot if people are going to react quickly.,neutral,0.006645657122135162
+2014-12-11,Cisco’s Networks Will Analyze Us,neutral,-0.0008110422641038895
+2015-01-22,"Top executives, including Robert Smith of Vista Equity Partners and John Chambers of Cisco, say that not only are cyberattacks becoming more common, they are getting tougher to fight.",neutral,-0.4207412302494049
+2015-01-22,Executives in Davos Express Worries Over More Disruptive Cyberattacks,negative,-0.8970506191253662
+2015-02-03,"Cisco’s annual outlook for mobile traffic projects a tenfold increase in mobile traffic, at higher speeds, between 2014 and 2019.",positive,0.8567107915878296
+2015-02-03,Even more traffic is expected to go over Wi-Fi networks.,neutral,0.3024701774120331
+2015-02-03,Cisco Makes Its Annual Predictions on Mobile Data Traffic,neutral,0.016770612448453903
+2015-02-12,Two of the old giants of the technology world showed this week two very different ways of making a transition to a world where computer intelligence is everywhere.,neutral,0.1386347860097885
+2015-02-12,Cisco and Texas Instruments Adapt to a New Tech World,positive,0.6931136846542358
+2015-02-19,Why is Hewlett-Packard undermining its own networking business?,neutral,-0.368435263633728
+2015-02-19,Current events.,neutral,0.023682110011577606
+2015-02-19,Businesses now want open-source software on the cheapest boxes possible.,neutral,0.0695701539516449
+2015-02-19,HP Targets Cisco and Facebook With New Line of Open-Source Networking Gear,neutral,0.1671237051486969
+2015-03-02,The chip maker NXP and Hewlett Packard need strong demand to compensate for falling prices.,positive,0.7140565514564514
+2015-03-02,"The trouble is, that has not happened, says the author.",neutral,-0.006364047527313232
+2015-03-02,Tech Deals That Are Poor Fixes for Limp Sales,negative,-0.697816014289856
+2015-03-05,"Unlike the Nasdaq composite index at its dot-com peak in 2000, today’s index has companies that are more mature and less concentrated in technology.",neutral,0.05091739818453789
+2015-03-05,"Nasdaq Changed in Its Climb to 5,000",positive,0.10934659838676453
+2015-03-10,"A new service, from a company that does not sell security products, tests the effectiveness of security software in real time.",neutral,0.0908592939376831
+2015-03-10,NSS Labs’ Testing Service Will Hold Security Vendors Accountable,neutral,-0.015240801498293877
+2015-05-04,Mr.,neutral,0.04346195608377457
+2015-05-04,"Chambers, one of the longest-serving chiefs of a public Silicon Valley company, will step down on July 26.",neutral,-0.028351109474897385
+2015-05-04,John Chambers Steps Aside at Cisco as Generational Shift Arrives,negative,-0.6493231058120728
+2015-05-05,"John Chambers, chief of Cisco since 1995, will step down on July 26.",neutral,-0.06206917017698288
+2015-05-05,The transition is another sign of a generational shift in Silicon Valley.,positive,0.6172993779182434
+2015-05-05,Daily Report: Change of the Old Guard at Cisco,neutral,-0.18026039004325867
+2015-05-13,"Profit for Cisco Systems, the networking equipment giant, rose 12 percent, to $2.4 billion, in its fiscal third quarter.",positive,0.9260661602020264
+2015-05-13,Cisco’s Profit and Sales Beat Wall Street Forecasts,positive,0.8383688926696777
+2015-05-31,Ultrafast Internet access is spreading unevenly throughout the world.,negative,-0.5326595902442932
+2015-05-31,And not getting that kind of broadband access could mean some communities miss out on significant economic opportunity.,negative,-0.883959174156189
+2015-05-31,The World’s Coming Broadband Divide,positive,0.5211489200592041
+2015-06-23,"So-called software containers got backing from companies including Cisco Systems and Google, while another group of companies detailed plans to automate certain aspects of cloud computing.",neutral,0.4405252933502197
+2015-06-23,Tech Companies Line Up Behind ‘Containers’ and the Cloud,neutral,-0.01680152863264084
+2015-07-20,Public lighting that dials into the Internet of Things could use billions of fixtures to collect data about things as diverse as traffic congestion and a shopper in the cereal aisle.,neutral,-0.03105544112622738
+2015-07-20,"A Light Bulb Goes On, Over the Mall",neutral,0.03549087047576904
+2015-09-05,The online marketplace will now allow its Prime members to download some movies and TV shows to iOS and Android devices to watch programming offline.,neutral,0.15247035026550293
+2015-09-05,Mike and Quentin’s Week in Tech: Amazon’s Offline Game Changer,neutral,0.05654296278953552
+2015-10-05,"Charles Robbins, who has kept a low profile since he became chief executive of Cisco in July, has a vision for the company with a lot more artificial intelligence and new business models.",neutral,0.0475272610783577
+2015-10-05,Cisco’s New C.E.O.,neutral,0.04033181071281433
+2015-10-05,Envisions Big Changes,neutral,0.048115380108356476
+2015-10-30,"A growing number of companies like IBM, Cisco Systems and Microsoft have partnerships with Chinese companies with ties to the military, and experts are questioning those links.",negative,-0.7819047570228577
+2015-10-30,U.S. Tech Giants May Blur National Security Boundaries in China Deals,negative,-0.8533101081848145
+2016-01-27,"George Boutros will take the reins of the boutique investment bank, as Mr. Quattrone becomes executive chairman.",neutral,0.027149267494678497
+2016-01-27,Frank Quattrone to Step Down as C.E.O.,neutral,-0.0706249326467514
+2016-01-27,of Qatalyst,neutral,0.04250986874103546
+2016-07-11,Investors were unimpressed after both companies lost money while under threat from larger rivals like Cisco.,negative,-0.9382953643798828
+2016-07-11,Valuation Quirks Help End Proposed Polycom-Mitel Merger,positive,0.5462877154350281
+2016-08-17,"The outlook for last-generation tech companies is often grim as their products become commonplace, rivals find alternatives and margins shrink.",negative,-0.9555774331092834
+2016-08-17,Intel Seems to Have a Stronger Hand Than Cisco Systems,positive,0.7053461670875549
+2016-08-18,"Intel announced Alloy, a platform for virtual reality; and Cisco Systems, a maker of networking equipment, said it would cut about 5,500 jobs as it focuses on software.",negative,-0.9550297260284424
+2016-08-18,"Daily Report: Intel and Cisco, Shifting With the Times",neutral,0.014355357736349106
+2016-10-31,Hamdi Ulukaya employs resettled refugees at his yogurt factories.,neutral,-0.42476314306259155
+2016-10-31,Now he’s being targeted on social media and by right-wing websites.,negative,-0.7164027094841003
+2016-10-31,"For Helping Immigrants, Chobani’s Founder Draws Threats",neutral,0.081248939037323
+2016-12-13,"The executives meeting with Mr. Trump in Manhattan on Wednesday include Elon Musk of Tesla, Timothy D. Cook of Apple and Jeff Bezos of Amazon.",neutral,-0.0027679726481437683
+2016-12-13,"When Trump Meets Tech Leaders, Jobs Will Be on the Agenda",neutral,0.030217908322811127

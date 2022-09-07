@@ -1,0 +1,1325 @@
+Date,Sentence,Prediction,sentimentScore
+2007-01-06,Verizon is expected to announce full-length programming to its cellular subscribers from several major television networks.,neutral,0.08681604266166687
+2007-01-06,Verizon to Announce Plan for TV Shows on Cellphones,neutral,0.05744889751076698
+2007-01-10,Investors reacted with alarm to a plan by President Hugo Chávez to nationalize crucial areas of the economy.,negative,-0.865013599395752
+2007-01-10,Venezuelan Plan Shakes Investors,neutral,-0.23382535576820374
+2007-01-16,"In an effort to focus on higher-growth wireless and Internet offerings, Verizon Communications will spin off $2.72 billion in landline businesses in Maine, New Hampshire and Vermont, merging them with FairPoint Communications.",negative,-0.48744267225265503
+2007-01-16,"Verizon shareholders will own 60 percent of the new company, which will have 1.6 million local lines, 234,000 high-speed Internet subscribers and 600,000 customers.",neutral,0.0486726276576519
+2007-01-16,Verizon will also shed $1.7 billion in debt in the spinoff.,negative,-0.8321206569671631
+2007-01-16,Verizon Spins Off Landlines to FairPoint,negative,-0.42649045586586
+2007-01-17,"Millennial Media, a mobile-advertising services company started by a former Verizon executive, has received $6.3 million in Series A funding, CNet News.com reported.",positive,0.6893500089645386
+2007-01-17,"The funding comes from Bessemer Venture Partner, an investor in companies such as Blue Nile, Skype and VeriSign; Columbia Capital, an investor in Mobi, Nextel and XM Satellite Radio; and Acta Wireless.",neutral,0.09781904518604279
+2007-01-17,Millennial Media Rings Up $6.3 Million in Funding,positive,0.7744741439819336
+2007-01-20,Cellphone subscribers could start to lower their bills by watching advertising on their mobile phones.,neutral,-0.016445674002170563
+2007-01-20,Madison Avenue Calling,neutral,0.030302003026008606
+2007-01-21,Greater detail on executive pay will arrive this spring.,neutral,0.016288481652736664
+2007-01-21,But shareholders won’t have a greater say on how that pay is computed if some companies get their way.,neutral,-0.14795170724391937
+2007-01-21,Roadblocks to Greater Say on Pay,neutral,-0.03263120353221893
+2007-01-30,"Verizon’s wireless businesses added 2.3 million new customers in the quarter, the bulk of them on long-term contracts.",positive,0.8433687090873718
+2007-01-30,"Verizon Profit Drops 38%, but Wireless Shows Growth",negative,-0.9611769318580627
+2007-02-13,Venezuela’s government agreed to buy the stake held by Verizon Communications in Compañía Anónima Nacional Teléfonos de Venezuela for $572 million.,positive,0.6000511646270752
+2007-02-13,Verizon Sells Venezuela Stake,neutral,0.01351955160498619
+2007-02-13,Venezuela’s government agreed Monday to buy the 28.5 percent stake held by Verizon Communications in Compania Anonima Nacional Telefonos de Venezuela for $572 million.,neutral,0.26081383228302
+2007-02-13,"The deal was signed by Jesse Chacon, Venezuela’s telecommunications minister, and John W. Diercksen, Verizon’s executive vice president for strategy and development, on Venezuela’s state television channel.",positive,0.6977598667144775
+2007-02-13,Verizon Sells Venezuela Stake,neutral,0.01351955160498619
+2007-03-05,"Alltel, the wireless telecommunications company, has stepped up efforts to sell itself to carriers such as AT&T, Verizon Communications and Sprint Nextel, The Wall Street Journal reported.",positive,0.7856976985931396
+2007-03-05,"According to The Journal, the wireless operator approached AT&T recently about the possibility of selling itself to the telecoms giant.",neutral,0.07420014590024948
+2007-03-05,"AT&T is reportedly willing to entertain the possibility, but remains skeptical about a combination because of potential antitrust problems, technology-integration issues and Alltel’s stock-market capitalization, which Friday stood at nearly $22 billion.",neutral,0.11986248940229416
+2007-03-05,"Alltel Hopes to Dial Up a Deal, Report Says",positive,0.5259877443313599
+2007-03-09,"A jury ruled that Vonage violated three Verizon patents, dealing a blow to a company already showing signs of stress.",negative,-0.9153447151184082
+2007-03-09,Court Orders Vonage to Pay $58 Million in Patent Case,negative,-0.6936169862747192
+2007-03-22,Verizon offers a new call-in service that lets subscribers reset what TiVo is recording at home.,neutral,0.23845133185386658
+2007-03-22,Never Miss ‘Oprah’ Again,neutral,-0.059368863701820374
+2007-03-24,A judge ordered the Internet-based telephone service to stop using technologies patented by Verizon Communications.,negative,-0.6674335598945618
+2007-03-24,Vonage Told to Stop Using Verizon Technology,negative,-0.43668246269226074
+2007-03-30,"AT&T, Verizon and Qwest were selected to bid  on portions of the government’s contract while Sprint Nextel was left out in the cold.",neutral,0.04549205303192139
+2007-03-30,3 Companies in Telecom Win U.S. Deal Worth Billions,positive,0.7378146052360535
+2007-04-07,A federal court gave Vonage a reprieve shortly after a lower court barred it from enrolling new subscribers.,negative,-0.8216570019721985
+2007-04-07,A Setback Then a Reprieve for Vonage in Courts,negative,-0.7780851125717163
+2007-04-11,"We hate to pile on a company when it’s down, but we couldn’t resist running some numbers on Vonage Holdings, the upstart Internet-based phone company whose initial public offering last year has gone from bad to worse to apocalyptically awful.",negative,-0.8371081948280334
+2007-04-11,"With the latest downtick in Vonage’s stock, coming after a federal judge ordered it to stop using technology licensed by Verizon, the I.P.O.",negative,-0.9306768774986267
+2007-04-11,"is by far the worst of 2006, according to Thomson Financial.",negative,-0.9426167011260986
+2007-04-11,"At $3, the stock has lost more than 82 percent of its value since last May, when it was sold to the public at $17 apiece.",negative,-0.9610148668289185
+2007-04-11,The shares are now below the average price paid by Vonage’s pre-I.P.O.,negative,-0.9331435561180115
+2007-04-11,"investors, a prestigious group of venture and private equity investors including New Enterprise Associates, Meritech Capital Partners, 3i, and Bain Capital.",neutral,0.053217243403196335
+2007-04-11,Vonage’s Dubious Honor: Worst I.P.O.,negative,-0.6700637936592102
+2007-04-11,of 2006,neutral,0.03092663735151291
+2007-04-12," It was just yesterday that DealBook was observing how Vonage Holdings, the Internet phone company, has the dubious honor of being the worst initial public offering, by far, of 2006.",negative,-0.8661714196205139
+2007-04-12,"Then came word Thursday morning that Vonage’s chief executive, Michael Snyder, has abruptly stepped down and resigned from Vonages’ its board of directors.",negative,-0.8865979909896851
+2007-04-12,"Thursday’s news release gave no reason for Mr. Snyder’s departure, but the company is clearly in crisis mode.",negative,-0.8743367791175842
+2007-04-12,"Its stock has lost more than 80 percent of its value since it went public in May, and Vonage is at risk of losing access to an important piece of technology that is the subject of a patent dispute with Verizon.",negative,-0.9570909738540649
+2007-04-12,Vonage’s Chief Executive Resigns,negative,-0.6102176904678345
+2007-04-13,The successor immediately announced plans to restructure the company and slash marketing costs.,positive,0.7199918627738953
+2007-04-13,Vonage’s Chief Executive Steps Down,negative,-0.514641523361206
+2007-04-25,Vonage can sign up new customers as it pursues its appeal of an earlier ruling that it infringed three Verizon patents.,positive,0.5369971394538879
+2007-04-25,Appeals Court Allows Net Phone Company to Continue Signing Up New Customers,neutral,0.21308939158916473
+2007-04-25,Vonage can sign up new customers as well as maintain service to existing ones as it pursues its appeal of a earlier ruling that it infringed three Verizon patents.,neutral,0.3338828384876251
+2007-04-25,Appeals Court Allows Net Phone Company to Continue Signing Up New Customers,neutral,0.21308939158916473
+2007-04-30,"QUARTERLY REPORTS Earnings season continues, led by Verizon (Monday), Time Warner (Wednesday) and General Motors and CBS (Thursday).",positive,0.8901212215423584
+2007-04-30,Looking Ahead,neutral,0.013165891170501709
+2007-05-01,Profit was down 8.4 percent but the company continued to have strong growth in wireless and broadband subscriptions.,negative,-0.8052681684494019
+2007-05-01,Costs and Divestitures Cut Verizon's Profit,negative,-0.9556775689125061
+2007-05-04,"The results of the recount will be available within two weeks, a company spokesman said.",neutral,0.00922965258359909
+2007-05-04,Verizon Vote on Pay Levels to Be Decided in a Recount,neutral,-0.13853362202644348
+2007-05-11,Vonage said that its quarterly loss narrowed and sales rose 64 percent amid a fierce legal battle with Verizon Communications that has left its future in question.,positive,0.8650794625282288
+2007-05-11,"At Vonage, Sales Increase as Litigation Clouds Future",positive,0.6460068821907043
+2007-05-11,The Internet phone company still lost $72.3 million for the quarter and earned fewer new customers as a legal battle with Verizon cast a cloud.,negative,-0.9552595019340515
+2007-05-11,Vonage Narrows Loss and Increases Sales,positive,0.7342699766159058
+2007-05-19,"A majority of Verizon shareholders voted for the say-on-pay proposal, the clearest sign yet of investor irritation over chief executive compensation.",positive,0.6489465236663818
+2007-05-19,Say-on-Pay Gets Support at Verizon,neutral,0.31440964341163635
+2007-05-21,"Verizon, which spends about $1.9 billion a year on advertising, will reduce its agency roster to 10 from more than 20.",negative,-0.8567712306976318
+2007-05-21,Verizon Consolidates Agencies and Adds Wireless Assignments,neutral,0.060003750026226044
+2007-05-22,Campaign Spotlight.,neutral,0.09687617421150208
+2007-05-22,"Forget Spartacus, I Am Fresno State",neutral,-0.01863805577158928
+2007-06-08,A group of shareholders on Thursday suggested that Vodafone give its investors tracking shares representing the company’s 45 percent stake in Verizon Wireless.,neutral,0.09665736556053162
+2007-06-08,Vodafone Investors Seek Verizon Wireless Spinoff,neutral,-0.00037574581801891327
+2007-06-12,Richard Notebaert said Monday he will leave as chairman and chief executive officer after the board chooses a replacement.,neutral,-0.24180349707603455
+2007-06-12,Qwest Chief Executive to Retire,neutral,-0.015053905546665192
+2007-06-17,A group of investors argues that an analysis of a company’s pay practices can provide insights into managerial confidence.,neutral,0.2500169575214386
+2007-06-17,"Hear Ye, Hear Ye: Corralling Executive Pay",neutral,-0.3012360632419586
+2007-06-25,Vonage Holdings is scheduled Monday to appear in the United States Court of Appeals in Washington to make what may be a final stand in fighting charges that its online telephone service infringes patents held by Verizon Communications.,negative,-0.4628613293170929
+2007-06-25,Vonage and Verizon Head Back to Court,neutral,0.0307285338640213
+2007-06-28,"More money for Internet access, less for movies by mail as companies face off.",neutral,-0.02276007831096649
+2007-06-28,Competition Is Sometimes Good for You,neutral,-0.09046963602304459
+2007-07-03,Vodafone‘s tax position has become a focal point as some of the phone giant’s shareholders push it to spin off its Verizon Wireless stake.,negative,-0.3701314628124237
+2007-07-03,The Financial Times’s Lex column said that the chances of a tax-free spinoff “seem slim.”,neutral,-0.24003472924232483
+2007-07-03,"For Vodafone, Tax Holds Key to Spinoff",neutral,0.06096385046839714
+2007-07-16,"Vodafone, the British telecommunications giant, said Monday it had no plans to bid for United States-based Verizon Communications, denying a media report.",neutral,-0.31226643919944763
+2007-07-16,"“Vodafone wishes to make it clear that it has no plans to make such an offer,” it said in a brief statement.",neutral,0.03650344908237457
+2007-07-16,Vodafone Denies Planning Verizon Bid,neutral,-0.17312878370285034
+2007-07-19,"New services track children, locate concerts and blaze new trails.",neutral,0.09952690452337265
+2007-07-19,Global Positioning by Cellphone,neutral,-0.015465553849935532
+2007-07-20,Verizon will pay as much as $200 million to avoid a possible patent-related ban on handsets using Qualcomm chips.,negative,-0.5046830773353577
+2007-07-20,Verizon Wireless and Broadcom in Deal,neutral,0.003344407305121422
+2007-07-25,An overwhelming majority of Vodafone Group shareholders slapped down a proposal by a rebel investor to spin off the company’s 45 percent stake in Verizon Wireless.,negative,-0.8671053647994995
+2007-07-25,Vodafone Investors Hang Up on Call for Verizon Stake Sale,neutral,0.0791485458612442
+2007-07-30,"Verizon Wireless said it would buy the Rural Cellular Corporation in a deal it valued at $2.67 billion, including assumed debt.",neutral,0.1208074763417244
+2007-07-30,"Verizon Wireless, a joint venture between Verizon Communications and Vodafone, will pay $45 a share for each share of Rural Cellular, or $757 million in cash.",neutral,0.039798956364393234
+2007-07-30,Verizon Wireless to Buy Rural Cellular,neutral,0.06479350477457047
+2007-07-30,"Quick Bits: The day’s news about the F.C.C., Microsoft, Monster, Verizon, Adobe, NowPublic.",neutral,0.02347967028617859
+2007-07-30,Quick Bits: Monday Morning Tech News,neutral,-0.025289490818977356
+2007-07-30,"Rural Cellular was Monday’s biggest gainer on the Nasdaq in percentage terms, thanks to its agreement to be acquired by Verizon Wireless.",positive,0.8932560682296753
+2007-07-30,"The jump reflected the hefty 41 percent premium that Verizon is offering, as compared to where Rural Cellular closed Friday.",positive,0.7573437094688416
+2007-07-30,Wireless Deal Comes With Big Premium (or None at All),neutral,0.3210694491863251
+2007-08-08,"Vodafone committed itself on Wednesday to holding on to its full 45 percent stake in Verizon Wireless, the mobile phone group in the United States, turning down the right to sell back up to $10 billion of shares to its partner in the venture, Verizon Communications.",neutral,0.1144079938530922
+2007-08-08,Vodafone to Keep Stake in Verizon Wireless,neutral,0.03944827616214752
+2007-08-31,The family of Bob Marley is challenging a deal announced on Tuesday between Verizon and the Universal Music Group to sell ring tones based on the catalog of Marley’s music.,neutral,0.021810457110404968
+2007-08-31,Family Challenges Verizon Wireless Deal to Sell Bob Marley Ring Tones,neutral,0.09337402880191803
+2007-09-14,"Verizon Wireless has sued the F.C.C., seeking to overturn auction rules requiring the buyers of some airwaves to make their networks compatible with any device.",negative,-0.8795921206474304
+2007-09-14,Verizon Wireless Suing Over Auction Rules,negative,-0.6530466675758362
+2007-09-14,"A licensing dispute over cellphone ring tones between the estate of Bob Marley, the Universal Music Group, and Verizon Wireless took an ugly turn on Thursday.",negative,-0.9410757422447205
+2007-09-14,Marley Family’s Vitriol Leads Verizon to Bite Back,negative,-0.8318044543266296
+2007-09-18,"Paetec Holding said Monday that it would buy the privately held McLeodUSA, which manages high-capacity fiber networks, for $492 million in stock, to compete with Verizon and AT&T in the business market for phone and data service.",positive,0.7334731221199036
+2007-09-18,Paetec to Acquire McLeodUSA,neutral,0.0042989663779735565
+2007-09-27,Verizon said it would make its mobile network available for a text-message program by Naral Pro-Choice America.,neutral,0.2159423679113388
+2007-09-27,Verizon Reverses Itself on Abortion Messages,negative,-0.5583590269088745
+2007-09-28,Verizon said it would make its mobile network available for a text-message program by Naral Pro-Choice America.,neutral,0.2159423679113388
+2007-09-28,Verizon Reverses Itself on Abortion Messages,negative,-0.5583590269088745
+2007-10-01,New technology that allows coffee patrons to download the music playing in Starbucks stores to their iPhones is just the beginning of a wave of options for impulse purchases.,neutral,0.42000260949134827
+2007-10-01,"At Starbucks, Songs of Instant Gratification",neutral,0.03178510069847107
+2007-10-09,Registered Traveler programs are moving ahead slower than anticipated as the T.S.A.,negative,-0.8393444418907166
+2007-10-09,lags in approving technology that would speed up airport security checks.,negative,-0.37940534949302673
+2007-10-09,"In a Time of Need, a Concierge Steps Up",neutral,0.008106373250484467
+2007-10-11,"David Pogue reviews his own cellphone, the LG8700, offered by Verizon.",neutral,-0.012333245947957039
+2007-10-11,The Pros and Cons of the LG8700 Cellphone,neutral,0.027178630232810974
+2007-10-16,Analysts and consumer advocates suggest the company may be interested in gathering information to tailor the advertising it displays on cellphone screens.,neutral,0.08283822238445282
+2007-10-16,Verizon Letter on Privacy Stirs Debate,negative,-0.3678268790245056
+2007-10-24,The wireless company abandoned its legal challenge of F.C.C.,neutral,0.0021169111132621765
+2007-10-24,"rules for its auction of radio spectrum, removing a potential obstacle to the much-anticipated sale.",neutral,0.08532845228910446
+2007-10-24,Verizon Wireless Ends F.C.C.,negative,-0.5693848729133606
+2007-10-24,Fight,neutral,0.016601279377937317
+2007-10-26,"Shares of Vonage, the Internet telephone provider, rose sharply after it announced it had settled a patent dispute with Verizon and would have to pay a maximum of $120 million.",negative,-0.13825660943984985
+2007-10-26,Shares Rise as Vonage Settles Fight Over Patent,positive,0.08191925287246704
+2007-10-26,"Shares in Vonage, the Internet telephone provider, rose sharply in after-hours trading Thursday after the company announced a settlement in a patent dispute with Verizon.",positive,0.5541553497314453
+2007-10-26,Shares Rise as Vonage Settles Fight Over Patent,positive,0.08191925287246704
+2007-11-02,"Under fire over executive pay, Verizon announced plans to put its compensation plans to an annual vote by shareholders, starting with its general meeting in 2009.",negative,-0.8081002831459045
+2007-11-02,Verizon to Put Executive Pay to Shareholder Vote,neutral,-0.025874432176351547
+2007-11-02,"Directors at Verizon Communications, under fire from shareholders over executive pay practices, said Thursday that they would put the company’s compensation plans to an annual vote by investors beginning at its general meeting in 2009.",negative,-0.8415112495422363
+2007-11-02,Verizon to Put Executive Pay to Shareholder Vote,neutral,-0.025874432176351547
+2007-11-04,A gadget that jams cellular signals has gained popularity as the use of cellphones has invaded more public places.,neutral,0.10222369432449341
+2007-11-04,"Devices Enforce Silence of Cellphones, Illegally",neutral,-0.09181124716997147
+2007-11-06,"As frequent international business travelers can attest, mobile phones have shrunk the distance between land masses, making it like prehistoric times when all the continents touched.",neutral,-0.00782802700996399
+2007-11-06,"Only, now there’s a better signal.",positive,0.4600581228733063
+2007-11-06,Doing Away With Far and Away,neutral,0.056785061955451965
+2007-11-12,A rebellion is brewing in the communications industry that is expected to pit wireless carriers against Silicon Valley powerhouses like Google.,negative,-0.8855183720588684
+2007-11-12,Cellphone Straitjacket Is Inspiring a Rebellion,neutral,-0.197416752576828
+2007-11-27,Verizon Wireless will allow any device and any application to run on its network next year.,neutral,0.08466603606939316
+2007-11-27,This will help increase volume and strengthen its hand in bidding for more bandwidth.,positive,0.9230843186378479
+2007-11-27,Verizon Wireless Says ‘Bring Your Own’ Device,neutral,0.04955368489027023
+2007-11-27,"As AOL learned with its failed attempt to offer broadband service, open access to networks doesn’t help if the price is too high and the terms too tough.",negative,-0.7185895442962646
+2007-11-27,The Other Half of Open: Competition,neutral,0.01991358771920204
+2007-11-28,Verizon Wireless plans to give customers more choice in what phones they can use on its network.,neutral,0.43594399094581604
+2007-11-28,Verizon Plans Wider Options for Cellphone Users,neutral,0.17007482051849365
+2007-11-30,Verizon Wireless said today it will use a technical standard known as LTE for its next generation network.,neutral,0.33589544892311096
+2007-11-30,"Since that standard is being adopted by most of the world, and by AT&T in the United States, Verizon’s move will spur competition and give customers more choices for phones.",positive,0.8608198165893555
+2007-11-30,Verizon’s Real Move to Openness,positive,0.5503605008125305
+2007-12-05,Federal regulators Tuesday denied a request by Verizon Communications to let it charge rival carriers higher rates to get access to lines in six East Coast markets.,negative,-0.74692702293396
+2007-12-05,Verizon Is Denied a Rate Request,neutral,-0.41909536719322205
+2007-12-19,"We don’t know everyone who is bidding in the 700-megahertz spectrum auction, but Paul Allen and Echostar have signed up to bid against Google, AT&T and Verizon.",neutral,0.17126023769378662
+2007-12-19,Paul Allen and Echostar Line Up for Spectrum Auction,neutral,0.03424401953816414
+2007-12-22,Vermont regulators rejected a $2.7 billion plan by FairPoint Communications to buy Verizon’s landlines in northern New England.,negative,-0.8547130227088928
+2007-12-22,Vermont Rejects Sale of Verizon Lines,negative,-0.4309832453727722
+2007-12-24,Vermont regulators on Friday rejected a $2.7 billion plan by FairPoint Communications to buy Verizon‘s landlines in northern New England.,negative,-0.8220720887184143
+2007-12-24,Vermont Reject FairPoint’s $2.7 Billon Bid for Verizon Lines,negative,-0.8729133009910583
+2008-01-07,"FairPoint Communications‘s amended $2.7 billion merger with Verizon Communications‘s local phone operations in the New England states won general approval from Maine regulators, the company said Friday.",positive,0.8843827843666077
+2008-01-07,FairPoint and Verizon Edge Closer to Clinching Deal,positive,0.6254392862319946
+2008-01-09,FairPoint Communications reached an agreement with the Vermont Public Service Department that would allow it to buy Verizon phone lines in the state.,positive,0.8457377552986145
+2008-01-09,Deal Reached to Buy Some Verizon Lines,neutral,0.2977665066719055
+2008-01-09,FairPoint Communications reached an agreement on Tuesday with the Vermont Public Service Department that would allow it to buy Verizon Communications‘ phone lines in the state.,positive,0.7915093302726746
+2008-01-09,FairPoint Closer to Winning Approval for Verizon Deal,positive,0.6293288469314575
+2008-01-10,Federal communications regulators on Wednesday cleared the way for Verizon Communications to sell its phone lines in three New England states for $2.7 billion to FairPoint Communications.,neutral,0.12237843871116638
+2008-01-10,F.C.C.,neutral,0.030943963676691055
+2008-01-10,Backs $2.7 Billion Verizon Sale in 3 States,neutral,0.054787665605545044
+2008-01-19,"Shares of Sprint dropped 25 percent after the company said that it planned to lay off 4,000 workers and close stores to trim costs as its customer base shrinks.",negative,-0.9493308067321777
+2008-01-19,Sprint’s Customer Erosion Prompts Cutbacks,negative,-0.9258164763450623
+2008-01-22,The auction for rights to a highly valuable swath of the nation’s airwaves will begin Thursday and is expected to include multibillion-dollar bids from the nation’s two biggest wireless phone companies.,positive,0.4985523819923401
+2008-01-22,"Airwaves, Web Power at Auction",neutral,-0.03129266947507858
+2008-01-24,YouTube expands its mobile site to make the experience of watching videos on the go more like it is on the PC.,positive,0.8471828699111938
+2008-01-24,YouTube On the Go,neutral,-0.057746127247810364
+2008-01-29,"Verizon Communications announced earnings of $1.07 billion in the fourth quarter, but said its traditional telephone business remained a drag on the bottom line.",negative,-0.8347988724708557
+2008-01-29,Cellular Unit and Internet Stand Out for Verizon,neutral,0.08653701841831207
+2008-01-31,"The damage to the cables knocked out Internet access to much of Egypt, disrupted the world’s back office in India and slowed down service for some Verizon customers.",negative,-0.9511099457740784
+2008-01-31,2 Communication Cables in the Mediterranean Are Cut,negative,-0.4277178645133972
+2008-02-05,"There is a new high bid in the auction for the C-block of wireless spectrum, the most attractive block of frequencies the government is selling.",positive,0.6837558150291443
+2008-02-05,"Analysts are guessing a phone company, perhaps Verizon, has outbid Google.",positive,0.36020511388778687
+2008-02-05,Spectrum Auction: A New Bidder Emerges For the C Block,neutral,0.16997288167476654
+2008-02-05,"Unlike AT&T, Verizon won’t monitor its network to block unauthorized copying.",neutral,-0.09559685736894608
+2008-02-05,"That would violate customer privacy, it says, and would be expensive too.",negative,-0.8532965779304504
+2008-02-05,Verizon Rejects Hollywood’s Call to Aid Piracy Fight,negative,-0.7976412773132324
+2008-02-16,"“Bundling” sounds sweet, doesn’t it?",neutral,0.024780452251434326
+2008-02-16,Like swaddling a baby.,neutral,-0.01509033888578415
+2008-02-16,But don’t let it fool you — the communications version of it is not such a simple pleasure.,neutral,0.01640394516289234
+2008-02-16,All-in-One Telecom Packages: The Savings Don’t Come Simple,neutral,-0.10257329046726227
+2008-02-19,"After Sprint hinted that it was thinking about introducing a cellphone plan with unlimited minutes, Verizon beat it to the punch.",positive,0.5305936932563782
+2008-02-19,"To keep up, Sprint, which is losing market share, will probably have to cut prices deeper than it had planned.",negative,-0.9536741971969604
+2008-02-19,Verizon Stabs Sprint With Unlimited Wireless Plan,neutral,0.2030947059392929
+2008-02-21,The cellphone carrier industry’s sudden fixation with flat-rate pricing speaks to the toll wrought by furious competition.,negative,-0.7997846603393555
+2008-02-21,Cellphone Carriers Test All-You-Can-Talk Menus,neutral,0.08060187101364136
+2008-03-19,Verizon is telling electronics makers and software developers how to create devices and programs to work on its wireless network.,neutral,0.031878113746643066
+2008-03-19,AT&T said it will be open too.,neutral,0.05162195861339569
+2008-03-19,Verizon Details Its Open Wireless Plans,neutral,0.03099570795893669
+2008-03-21,"Although the win headed off new competition that could have led to lower prices for consumers, consumers can expect more choices in devices and services.",positive,0.8542572259902954
+2008-03-21,Verizon and AT&T Win Big in Auction of Spectrum,positive,0.4586256146430969
+2008-03-21,"Yes, it is the phone company.",neutral,0.0031094513833522797
+2008-03-21,But Verizon is investing to actually have people who can read e-mails from customers and respond to their service requests.,neutral,0.36062711477279663
+2008-03-21,"E-Mail Verizon and, Surprise, It’ll Write Back",neutral,-0.04649776965379715
+2008-03-21,Analysts say that Verizon got a much better deal in the government auction than AT&T.,positive,0.8902379870414734
+2008-03-21,Verizon bought four times the capacity for less than twice the price that AT&T paid.,neutral,0.03382504731416702
+2008-03-21,Verizon Licks Its Cheap Megahertz Pops,neutral,0.037668585777282715
+2008-03-24,Google has praised the government rules that will force Verizon to open its cellphone network to rivals.,positive,0.5109953284263611
+2008-03-24,But experience suggests it may be hard to take advantage of these rules.,neutral,-0.08741062879562378
+2008-03-24,When Open Access Kept the Door Closed,neutral,-0.0872790589928627
+2008-04-02,"Verizon Communications on Tuesday sold $4 billion of debt in three parts, according to Reuters.",neutral,0.04614303261041641
+2008-04-02,Verizon Sells $4 Billion in Debt,neutral,0.02531694434583187
+2008-04-03,LG cellphone engineers spend hours weekly driving around the country to test what kind of reception LG phones have on various networks.,neutral,0.04514152556657791
+2008-04-03,LG Tests Togetherness — and Cellphones,neutral,0.04194427281618118
+2008-04-22,"With so much of the publishing industry shifting to the Web, magazine executives are trying to use their print products as a tactical advantage with advertisers.",neutral,0.08637629449367523
+2008-04-22,"More Bells, Whistles and Packets of All Sorts",neutral,0.01921999268233776
+2008-04-28,"Verizon says that until its recent $99 unlimited voice wireless plan, only 4 percent of customers chose to pay $99 or more.",neutral,0.03230298310518265
+2008-04-28,Now it’s getting 13 percent of its customers at that level.,neutral,0.22219014167785645
+2008-04-28,AT&T last week reported a similar shift.,neutral,0.008514970541000366
+2008-04-28,Verizon Shows How to Make Money by Cutting Prices,neutral,0.02097620815038681
+2008-04-29,"More expensive wireless contracts helped drive earnings up nearly 10 percent during the carrier’s first quarter, offsetting declines in its traditional phone service.",positive,0.9234210252761841
+2008-04-29,Earnings Up Almost 10% at Verizon in Quarter,positive,0.9198576807975769
+2008-05-01,"Carriers and electronics manufacturers are now offering ways to make clear calls anywhere in your house, using devices that route calls through your home Internet connection or pump up the weak signals.",neutral,0.10661297291517258
+2008-05-01,How to Amplify Those Fading Bars,neutral,0.07316779345273972
+2008-05-01,"Associated Press: “AT&T Inc. is launching its new video service for cell phones Sunday on two phones, and will charge $15 per month for 10 channels.",neutral,0.13959109783172607
+2008-05-01,"AT&T Mobile TV is almost identical to Verizon Wireless’ V Cast Mobile TV, and is operated by the same company, Qualcomm Inc.”",neutral,0.04222257062792778
+2008-05-01,"AT&T Launches TV Service on Cell Phones, Rivaling Verizon",positive,0.8157317638397217
+2008-05-05,"Qwest Communications, the Denver-based telecommunications provider, announced Monday it has decided to start reselling mobile phone service provided by Verizon Wireless.",neutral,0.3538241684436798
+2008-05-05,That means it will stop selling the mobile phone service that it currently provides over the Sprint/Nextel network.,neutral,-0.2386501133441925
+2008-05-05,"The development is more bad news for Sprint/Nextel, which has been fighting uphill since its $35 billion merger in 2005.",negative,-0.9461020231246948
+2008-05-05,Qwest Hangs Up on Sprint Nextel,neutral,0.026286263018846512
+2008-05-15,The Samsung Glyde cellphone features a slide-out keyboard for people who like the feel of physical buttons when pecking out e-mail and text messages.,neutral,0.001954188570380211
+2008-05-15,"It’s a Touch-Screen Phone, but You Can Still Hunt and Peck",neutral,0.009573495015501976
+2008-05-27,Liberty Media’s Starz unit is no longer going to promote its Vongo Internet movie service.,negative,-0.5279112458229065
+2008-05-27,"It found the offering was too hard to promote, especially because of the limited selection of films.",negative,-0.9307388067245483
+2008-05-27,Instead it will offer a version of the service with Verizon and other pay-TV operators.,neutral,0.06066605821251869
+2008-05-27,Liberty Pulls Back from Vongo Internet Movie Service,negative,-0.8481459617614746
+2008-06-04,"Updated: Verizon Communications is in talks to buy Alltel for about $27 billion including the assumption of debt, creating the nation’s largest cellphone service company, people briefed on the matter said Wednesday.",positive,0.6865026354789734
+2008-06-04,Verizon in Talks to Buy Alltel,neutral,0.035619575530290604
+2008-06-05,"Several super-simple cellular services are so sweet and satisfying, you can’t believe they’re free.",neutral,0.10631100833415985
+2008-06-05,"Cell Services Keep It Easy, and Free",neutral,0.057395387440919876
+2008-06-05,The potential $27 billion deal would create the nation’s largest cellular telephone provider.,positive,0.7988413572311401
+2008-06-05,Verizon in Talks to Buy Alltel,neutral,0.035619575530290604
+2008-06-05,"Verizon Communications is near a deal to buy Alltel for about $27 billion, including the assumption of debt.",neutral,0.11398876458406448
+2008-06-05,"Vodafone, Verizon’s partner in its wireless business, confirmed the talks in a short statement Thursday, which said Verizon Wireless was in “advanced discussions regarding the potential acquisition of Alltel.”",neutral,0.23410600423812866
+2008-06-05,Vodafone Confirms Verizon Talks to Buy Alltel,neutral,0.1529923379421234
+2008-06-05,"An analyst notes that were Verizon to buy Alltell, it would keep wireless prices high because there is even less competition among cellphone carriers.",positive,0.5847325325012207
+2008-06-05,Verizon-Alltel and the March of Oligopoly,neutral,0.006572075188159943
+2008-06-05,"Seven months after buying it, the private-equity owners of Alltel have agreed to sell the company to Verizon Wireless for $28.1 billion, including assumed debt.",neutral,0.14247503876686096
+2008-06-05,"Verizon announced the deal in a press release Thursday morning, following reports that the two wireless providers were in advanced talks about a potential transaction.",neutral,0.3775252401828766
+2008-06-05,Verizon Reaches $28 Billion Deal for Alltel,positive,0.5540032386779785
+2008-06-06,"Verizon Wireless announced it would buy Alltell to create the largest cellphone operator in the United States, while in Europe, a bid was made to create the world’s fourth-largest mobile operator.",positive,0.6988101005554199
+2008-06-06,Mergers Accelerate as Telecoms Seek Growth,neutral,0.1314820945262909
+2008-06-06,"The deal catapults Verizon’s wireless business ahead of AT&T Wireless, which falls to No.",positive,0.8849047422409058
+2008-06-06,"2, followed by Sprint Nextel and Deutsche Telecom’s T-Mobile.",neutral,0.08602066338062286
+2008-06-06,Verizon Agrees to Buy Alltel for $28.1 Billion,neutral,0.4757695198059082
+2008-06-10,"JetBlue Airways, the U.S. discount carrier, agreed to buy Verizon Communications‘s Airfone business to offer e-mail and messaging services aboard planes.",positive,0.8180330991744995
+2008-06-10,JetBlue Flies Off With Verizon Unit,neutral,0.06258200854063034
+2008-06-23,"The company’s share of the search industry does not even reach 1 percent, and its name joins the scrap heap of fallen Internet brands, like AltaVista.",negative,-0.8925345540046692
+2008-06-23,"Once an Internet Giant, InfoSpace Dismantles Itself",neutral,-0.2069854587316513
+2008-06-23,"A couple of weeks ago, the handful of people who were still trying to use InfoSpace.com to look up phone numbers and addresses started finding themselves on the homepage of SuperPages, the business-listings site owned by a Verizon spinoff.",negative,-0.5062878727912903
+2008-06-23,"Once an Internet Giant, InfoSpace Dismantles Itself",neutral,-0.2069854587316513
+2008-06-24,"Alltel may be the subject of two successive takeovers over the past year, including its recent sale to Verizon Wireless for $28 billion.",neutral,0.045555904507637024
+2008-06-24,"But before those, the nation’s fifth-largest cellphone service provider sought to strike a few other deals — with itself as the buyer.",neutral,0.2649056911468506
+2008-06-24,Alltel’s Deals That Might Have Been,neutral,-0.0775890126824379
+2008-06-26,Verizon Communications on Wednesday filed to periodically sell as a much as $10 billion in common and preferred stock and debt securities.,neutral,0.004541801288723946
+2008-06-26,Verizon Files for $10 Billion Offering,neutral,0.030873680487275124
+2008-06-30,"Rhapsody, the music service owned by Real Networks and Viacom, has been struggling to keep its subscriber base from shrinking.",negative,-0.9617539048194885
+2008-06-30,"A new joint service with Verizon, an MP3 store, and outreach to social networks may help.",positive,0.8657969832420349
+2008-06-30,But not by much.,negative,-0.5258402824401855
+2008-06-30,Rhapsody Runs Hard Just to Stay in Place,negative,-0.4252047836780548
+2008-07-02,John Harrobin of Verizon Wireless sees music distribution via cellphone becoming more important as artists leave the big record labels.,neutral,0.03970839083194733
+2008-07-02,Making Music With Verizon Wireless,neutral,0.054235391318798065
+2008-07-03,"The handcuffs may not be coming off cellphone owners, but they are getting looser.",neutral,0.07003366947174072
+2008-07-03,Those Cellphone Termination Fees Seem to Be on the Way Out,neutral,-0.08812443166971207
+2008-07-23,"Telecommunication companies in the U.S. have to juggle the financial effect of customers dropping their landlines, and increased competition between wireless operators.",negative,-0.91022789478302
+2008-07-23,Phone Giants Fight to Keep Subscribers,neutral,-0.32241690158843994
+2008-07-24,"Verizon Wireless, the No.",neutral,0.06898963451385498
+2008-07-24,"2 U.S. mobile service, has offered to divest assets in 85 cell phone markets in a bid to gain regulatory approval for its proposed $28.1 billion purchase of smaller rival Alltel.",positive,0.467451810836792
+2008-07-24,Verizon Offers to Sell Assets to Seal Alltel Deal,neutral,0.07379110902547836
+2008-07-29,Second-quarter revenue at the telecommunications company was slightly shy of expectations.,negative,-0.7342916131019592
+2008-07-29,"TV Service Stalls for Verizon, but Increase in Wireless Customers Keeps Earnings Strong",positive,0.5861513614654541
+2008-07-31,"The cellphone networks that began by carrying phone calls, and then data, are now connecting users directly to the Internet -- an idea cellphone carriers once frowned on.",neutral,-0.02658495306968689
+2008-07-31,"Online, Even if You’re Off-Road",neutral,-0.0695580542087555
+2008-08-04,The proliferation of new applications and the realization that they make cellphones more popular has convinced carriers that they need to give consumers more freedom.,positive,0.8179887533187866
+2008-08-04,Applications Spur Carriers to Relax Grip on Cellphones,neutral,0.03497982770204544
+2008-08-19,"As Verizon begins to roll out FiOS in its hometown, New York, the company argues that the service is proving to be more successful than it promised when it started the project.",positive,0.901800274848938
+2008-08-19,Verizon’s FiOS: A Smart Bet or a Big Mistake?,neutral,-0.3235380947589874
+2008-08-19,"To listen to Craig Moffett, a top-ranked analyst with Sanford C. Bernstein, Verizon’s $23 billion plan to build a fiber optic network for video, voice and data is going to destroy $6 billion of its shareholders’ capital.",negative,-0.9419898986816406
+2008-08-19,A Bear Speaks: Why Verizon’s Pricey FiOS Bet Won’t Pay Off,negative,-0.5696243643760681
+2008-08-20,Things power users can do to make sure their Internet connections are as fast as possible.,neutral,0.013143917545676231
+2008-08-20,How to Travel at a Million Files a Minute,neutral,0.026998408138751984
+2008-08-22,"The two industry Goliaths are discussing a partnership that would give Google’s search service a prominent spot on the screens of Verizon phones, according to people briefed on the talks.",positive,0.6698586940765381
+2008-08-22,Verizon Wireless Discusses a Mobile Search Deal With Google,neutral,0.07986713200807571
+2008-08-27,"Carriers and device manufacturers have only lately figured out that users need a single button that says, “Send my new photo now.”",neutral,-0.13727089762687683
+2008-08-27,Freeing Those Snapshots Trapped Inside the Cellphone,neutral,-0.0883641168475151
+2008-08-29,"The debut of Apple’s iPhone 3G cellphones has been a public relations headache for AT&T, after complaints of dropped calls and poor network connections.",negative,-0.9604272246360779
+2008-08-29,AT&T’s Rivals Are Happy to Attack Over iPhone’s Network Woes,negative,-0.596778154373169
+2008-09-09,Verizon Wireless and AT&T announced new services that will allow customers to access a variety of social networking applications from their phones — with the prominent exception of Facebook.,positive,0.7086032629013062
+2008-09-09,AT&T and Verizon Wireless Offer New Services for Friends,neutral,0.06554076075553894
+2008-09-30,A few questions to ask when evaluating the services offered by co-location providers.,neutral,0.00617222860455513
+2008-09-30,Seeking Bandwidth,neutral,0.05897342413663864
+2008-10-08,Companies like AT&T and Verizon have long been considered a safe bet in troubled times.,neutral,0.050361406058073044
+2008-10-08,But a Sanford C. Bernstein analyst predicts that they will suffer too.,negative,-0.9328200221061707
+2008-10-08,"Crisis Will Hit Telecom Business, Analyst Says",negative,-0.9356091618537903
+2008-10-11,Verizon told companies that send out text messages that starting Nov. 1 it will impose a fee of 3 cents for each message it delivers to the phones of its subscribers.,neutral,-0.1153801828622818
+2008-10-11,Verizon Wireless Plans to Charge Companies Sending Text Messages,neutral,-0.06155576556921005
+2008-10-14,Is Verizon Wireless‘ $28.1 billion deal to acquire Alltel in trouble?,negative,-0.9071527719497681
+2008-10-14,Verizon Said to Have Trouble Scaring Up Cash for Alltel Deal,negative,-0.8445314764976501
+2008-10-15,"Given the growing choices in three-way packages, it’s worth doing a little comparison shopping to pick the best deal.",neutral,0.13247711956501007
+2008-10-15,"TV, Phone, Internet: Choosing a Provider of All Three",neutral,0.009698737412691116
+2008-10-23,"The Krave ZN4 is a flip phone has no buttons, but when you touch the screen you get the sensation of actually touching a key.",neutral,-0.004822498187422752
+2008-10-23,A Flip-Phone Challenger to a Well-Known Leader,neutral,-0.1762278974056244
+2008-10-27,Third-quarter profit rose to $1.67 billion from $1.27 billion a year earlier as Verizon Wireless added 2.1 million subscribers in the quarter.,positive,0.9062431454658508
+2008-10-27,Profit Up at Verizon on Strong Wireless Sales,positive,0.6744035482406616
+2008-10-31,The Justice Department on Thursday effectively gave Verizon Wireless the go-ahead to buy Alltel in a $28 billion deal that would create the nation’s largest wireless carrier.,positive,0.7217082977294922
+2008-10-31,Verizon Told to Sell Assets With Alltel Merger,neutral,-0.07527822256088257
+2008-11-05,The Federal Communications Commission voted on Tuesday to approve a Verizon Wireless plan to buy Alltel for $28.1 billion.,positive,0.6652042269706726
+2008-11-05,"After their deal, Verizon Wireless will overtake AT&T as the biggest U.S. mobile service.",positive,0.7874104976654053
+2008-11-05,F.C.C.,neutral,0.030943963676691055
+2008-11-05,Approves Verizon’s $28.1 Billion Alltel Deal,positive,0.7145975828170776
+2008-11-30,Cellphone makers and carriers hope that touch screens will bolster sales this holiday season.,positive,0.9175974130630493
+2008-11-30,Hoping to Draw Market Share With Touch Screens,positive,0.5495375394821167
+2008-12-10,"The Federal Trade Commission has removed the last regulatory hurdle for Verizon Wireless‘s acquisition of the Alltel Corporation, in a deal that will create the country’s largest wireless carrier.",positive,0.6456385254859924
+2008-12-10,F.T.C.,neutral,0.034378547221422195
+2008-12-10,Clears Verzion Wireless Purchase of Alltel,neutral,0.03864555060863495
+2008-12-12,There are substantial cracks in the lending freeze — at least for borrowers with good credit.,neutral,-0.10579067468643188
+2008-12-12,A Subtle Thaw in Credit Freeze,negative,-0.27963680028915405
+2008-12-12,"Verizon Wireless has found a crack in the iced-over credit markets, Breakingviews says.",negative,-0.8488865494728088
+2008-12-12,"In Verizon Deal, a Subtle Thaw in the Credit Freeze",negative,-0.576632022857666
+2008-12-25,The company has been awarded $33.2 million in a lawsuit against an Internet services company that it claimed had registered hundreds of domain names with Verizon trademarks.,negative,-0.5256165862083435
+2008-12-25,Verizon Wins $33 Million in Suit Over Domain Names,neutral,-0.1472695916891098
+2008-12-31,"It’s a little-known fact that cellphone carriers will let you swap contracts with another person, no matter whether you have one month or two years remaining on your commitment.",neutral,-0.008549900725483894
+2008-12-31,"With a Little Help, You Can Trade Yourself Free of Your Wireless Contract",neutral,0.050816915929317474
+2009-01-08,Microsoft is paying Verizon Wireless and Dell to place its search engine on their devices.,neutral,0.05288984999060631
+2009-01-08,It isn’t clear it will help Microsoft gain market share.,positive,0.804120659828186
+2009-01-08,Microsoft Buys Search Distribution,neutral,0.08173447847366333
+2009-01-09,"Verizon Wireless said Friday that it had completed its $5.9 billion purchase of Alltel, making Verizon the nation’s largest mobile phone company.",positive,0.8782919049263
+2009-01-09,Verizon Wireless Completes Alltel Purchase,neutral,0.06301059573888779
+2009-01-19,The cellphone industry has a plea for the throngs descending on the nation’s capital for the presidential inauguration: go easy on the mobile communications.,neutral,0.033920951187610626
+2009-01-19,Inauguration Crowd Will Test Cellphone Networks,neutral,0.01709619164466858
+2009-01-27,Sales at Verizon missed the mark of analysts’ expectations as layoffs and other cost-cutting took a toll on the telephone and Internet business.,negative,-0.9588406085968018
+2009-01-27,Gain in Sales at Verizon Falls Short of Forecasts,negative,-0.9551085233688354
+2009-01-30,"The Senate may be extending a tax credit to any investment in high-speed Internet service, which could save Verizon $1 billion in taxes.",positive,0.6958541870117188
+2009-01-30,Verizon Could Get $1.6 Billion in Senate Stimulus Plan,positive,0.7338963150978088
+2009-02-04,"AT&T is among the bidders for Verizon Wireless‘ roughly $3 billion in wireless assets the latter must divest as part of its purchase of Alltel, The Wall Street Journal said, citing people familiar with the matter.",neutral,0.0875057578086853
+2009-02-04,AT&T Said to Seek Verizon Wireless Assets,neutral,-0.007546840235590935
+2009-02-05,"The Verizon Hub, a home-phone system, uses Voice over Internet Protocol and high-speed fiber optic service to make calls.",neutral,0.006914913654327393
+2009-02-05,"From Verizon, a Home Phone With the Capabilities of a Cellphone",neutral,0.016713177785277367
+2009-02-06,A change to the tax credits proposed in the Senate version of the economic stimulus package would eliminate most or all of a proposed $1.6 billion windfall for Verizon.,neutral,-0.14493991434574127
+2009-02-06,Senate Scales Back Broadband Tax Breaks,negative,-0.28554821014404297
+2009-02-09,"Amid the negotiations over the stimulus bill, the Senate did not adopt changes proposed by Senator John D. Rockefeller IV that would have cut a big tax break for Verizon",negative,-0.7013405561447144
+2009-02-09,Big Verizon Tax Break Still in Senate Stimulus Bill,neutral,-0.021801769733428955
+2009-02-11,"The Hub home phone system has some useful features, but it’s not quite the promised great leap.",neutral,0.10961288213729858
+2009-02-11,A Wireless Carrier Offers a Different Inducement to Drop the Landline,neutral,-0.20428268611431122
+2009-02-11,"Tax cuts that benefited Verizon were eliminated from the stimulus bill, but more than $6 billion in grants for broadband projects survived.",neutral,-0.04783900827169418
+2009-02-11,Broadband Tax Credit Cut From Stimulus Bill,negative,-0.2615467309951782
+2009-02-19,"The company reported on Thursday that 1.3 million subscribers dropped its wireless service in the fourth quarter, contributing to a 14 percent decline in revenue.",negative,-0.9677758812904358
+2009-02-19,"For Sprint Nextel, a Drop in Customers and Earnings",negative,-0.9640631675720215
+2009-03-09,"In a shift, the financial sector was the only corner of the market in positive territory in late trading, as shares of companies like Google, I.B.M., Verizon and AT&T all declined.",negative,-0.8922929763793945
+2009-03-09,Technology and Telecom Shares Send Markets Lower,negative,-0.9123035073280334
+2009-03-11,New phone-based programs for trail lovers have potential but must still overcome a number of snags.,positive,0.4817689061164856
+2009-03-11,"Blazing a Trail With a Smartphone, Visual Signposts Included",neutral,0.043833449482917786
+2009-03-26,"Last September, William P. Barr, the general counsel of Verizon Communications at the time, announced that he planned to retire at the end of the year.",neutral,-0.039284735918045044
+2009-03-26,"Mr. Barr had been with the company since it was formed in June 2000, and before that he worked at G.T.E., which merged with Bell Atlantic to become Verizon.",neutral,-0.0045896898955106735
+2009-03-26,"For Verizon’s Top Lawyer, a $10 Million Sendoff",neutral,0.0782647579908371
+2009-04-08,"The Blackstone Group, Kohlberg Kravis Roberts and the  Carlyle Group, three giants of the private equity world, are lining up to bid for the cellphone operations that Verizon Wireless is selling after its deal to buy Alltel, according to press reports.",neutral,0.2065390944480896
+2009-04-08,Buyout Giants Said to Bid for Verizon Assets,neutral,0.0349024198949337
+2009-04-22,AT&T has billions of dollars of profit at stake as it negotiates to keep its exclusive deal to sell the iPhone.,neutral,0.24388688802719116
+2009-04-22,Why AT&T Wants to Keep the iPhone Away From Verizon,neutral,-0.107572540640831
+2009-04-25,Companies hope volunteer experts will provide better customer service and save them money.,positive,0.84681636095047
+2009-04-25,Customer Service?,neutral,-0.029863223433494568
+2009-04-25,Ask a Volunteer,neutral,-0.05923856794834137
+2009-04-27,"Verizon added 1.3 million new wireless accounts in the first quarter, more than AT&T did despite substantial help from the iPhone.",positive,0.8473603129386902
+2009-04-27,Verizon’s Results Show It Doesn’t Need the iPhone,neutral,-0.19933849573135376
+2009-04-28,A version of the iPhone that would work on Verizon’s network could be available as soon as next year.,neutral,0.1241193488240242
+2009-04-28,Verizon Said to Be in Talks for the iPhone,neutral,0.06102955713868141
+2009-04-29,"Ahead of next week’s shareholder meeting, Verizon Communications is dropping a policy that allows retired chiefs to use the corporate jet.",negative,-0.8936595320701599
+2009-04-29,Free Ride Is Ending for Verizon’s Ex-Chiefs,neutral,0.07288634777069092
+2009-05-06,Novatel’s MiFi 2200 provides the unthinkable: a universal wireless bubble you can take anywhere.,neutral,0.2822354733943939
+2009-05-06,"Wi-Fi to Go, No Cafe Needed",neutral,-0.02355693280696869
+2009-05-07,"David Pogue tests the Novatel MiFi 2200, a private hot spot that follows you everywhere you go.",neutral,0.021840998902916908
+2009-05-07,Verizon/Novatel MiFi Personal Hot Spot,neutral,0.0623520165681839
+2009-05-08,The cellphone provider says it will encourage legislation to make it illegal to text while behind the wheel.,neutral,0.2977471947669983
+2009-05-08,Verizon to Support Bans on Driving While Texting,positive,0.1321752965450287
+2009-05-09,"AT&T, the country’s second-biggest wireless phone company, agreed Friday to pay $2.35 billion in cash to buy assets put up for auction by Verizon Wireless.",positive,0.6413500905036926
+2009-05-09,AT&T Buys Some Assets From Verizon Wireless,neutral,0.03623243793845177
+2009-05-11,"AT&T, the country’s second-biggest wireless phone company, agreed Friday to pay $2.35 billion in cash to buy assets put up for auction by Verizon Wireless.",positive,0.6413500905036926
+2009-05-11,AT&T Buys Some Assets From Verizon Wireless,neutral,0.03623243793845177
+2009-05-13,Verizon Communications said Wednesday it would spin off wireline operations in 14 states and merge them with Frontier Communications for $5.3 billion in stock.,neutral,-0.26091089844703674
+2009-05-13,Frontier to Buy Verizon Lines for $5.3 Billion,neutral,0.05484265834093094
+2009-05-13,"Frontier Communications, based in Stamford, Conn., will be taking over the Verizon assets in an all-stock deal, the companies said.",neutral,0.03460901230573654
+2009-05-13,Frontier to Buy Verizon Lines,neutral,0.04513881728053093
+2009-05-14,"The CradlePoint PHS300 Personal Hotspot may have been first to the battery-powered Wi-Fi racket — but it’s been lapped by the MiFi in size, price, battery life, simplicity and beauty.",neutral,0.1941368132829666
+2009-05-14,Personal Hotspots,neutral,0.029501385986804962
+2009-05-20,"Panasonic and Verizon present modern versions of the staid, gets-no-respect home phone.",neutral,0.06015804037451744
+2009-05-20,The Phone at Home Gets Smart,neutral,-0.2529120445251465
+2009-05-21,David Pogue discusses the pros and cons of the Verizon Hub.,neutral,0.018915273249149323
+2009-05-21,Verizon Hub,neutral,0.037930067628622055
+2009-06-22,"Verizon is raising the prices for its FiOS bundle of Internet, telephone and television services by $5 to $10 a month, while increasing Internet speeds.",positive,0.8690325021743774
+2009-06-22,"Verizon Raises FiOS Prices, but Hardly Mentions It",neutral,0.02837195061147213
+2009-06-24,Qualcomm hopes to spur sales for its Flo TV video service for cellphones by cutting the price and adding service on the iPhone.,positive,0.6391657590866089
+2009-06-24,The Price Goes Down for Flo TV,neutral,-0.10275954008102417
+2009-06-29,Accounts.,neutral,0.022526929154992104
+2009-06-29,"Accounts, People & Miscellany",neutral,0.0048941802233457565
+2009-07-07,"The U.S. Justice Department has begun looking at big telecom companies such as AT&T and Verizon Communications to try to determine if they have abused their market power, The Wall Street Journal reported.",negative,-0.8801314830780029
+2009-07-07,Justice Department Said to Weigh Telecom Inquiry,neutral,-0.11783205717802048
+2009-07-17,Verizon Wireless essentially tells Congress: please don’t make Apple sell us the iPhone because we want to have the next cool phone and keep it from AT&T.,neutral,-0.03396759182214737
+2009-07-17,"Verizon Defends Exclusive Handsets, Except for Small Carriers",neutral,0.02914627641439438
+2009-07-18,Verizon is trying to head off federal regulation of exclusive cellphone deals.,negative,-0.67617267370224
+2009-07-18,Verizon Plans to Offer Some of Its Cellphones to Small Wireless Companies,neutral,0.08036771416664124
+2009-07-22,"Unfair and anticompetitive practices include text-messaging fees, double billing and international roaming charges.",negative,-0.8826204538345337
+2009-07-22,The Irksome Cellphone Industry,neutral,0.007555149495601654
+2009-07-27,The company reported a 21 percent decline in net income for the second quarter.,negative,-0.9655197858810425
+2009-07-27,"As Profit Falls 21%, Verizon Plans to Slash 8,000 Jobs",negative,-0.967426598072052
+2009-07-28,"Epix, the forthcoming premium movie channel from Paramount Pictures, MGM and Lionsgate, has signed Verizon as its first distributor.",positive,0.6769338250160217
+2009-07-28,Epix Signs First Distributor: Verizon,neutral,0.0276870746165514
+2009-08-10,"Since the recession started, people have increasingly focused on economic factors over network quality when choosing cellphone service.",negative,-0.47297462821006775
+2009-08-10,"Other than iPhone buyers, few care about the handset.",neutral,-0.12895040214061737
+2009-08-10,What Do Cellphone Users Want Most?,neutral,-8.275732398033142e-05
+2009-08-10,Cheap Service,neutral,0.16228467226028442
+2009-08-19,The company plans to rely on its partnership with Verizon Wireless.,neutral,0.3252829611301422
+2009-08-19,Qwest Exiting Wireless,neutral,0.033382296562194824
+2009-08-31,The phone company bought full-page ads several times a month for its Internet and TV service until the paper stopped accepting them a few months ago.,negative,-0.5880485773086548
+2009-08-31,"Newsday Rejects Ads by Verizon, Now a Rival",negative,-0.9101119637489319
+2009-09-07,DirecTV and Verizon have app stores.,neutral,0.010440324433147907
+2009-09-07,"Other cable, satellite and phone companies are working on new technology, but the industry is still wrestling with many questions.",negative,-0.4778442978858948
+2009-09-07,"Like Apple, TV Explores Must-Have Applications",neutral,0.040864717215299606
+2009-09-09,The phone carrier is matching Verizon and T-Mobile in offering free wireless calls to five preset numbers for its $60-a-month plan.,positive,0.8055351376533508
+2009-09-09,AT&T’s Free-Calling Offer Preserves Revenue,neutral,0.1886809915304184
+2009-09-10,"Sprint will give customers buying its $70 a month voice, text and data plan unlimited calls to any mobile phone.",neutral,0.21937298774719238
+2009-09-10,"Sprint Puts a Twist, and a Higher Price, on More Free Minutes",positive,0.5369706749916077
+2009-09-17,"Nortel Networks, the bankrupt communications equipment maker, won court permission to sell its telephone-service unit to Avaya.",positive,0.6494436860084534
+2009-09-17,"In Blow to Verizon, Nortel Gets Approval for Avaya Deal",positive,0.8408429622650146
+2009-09-17,Ivan Seidenberg tells Wall Street that he is no longer worried about customers canceling traditional landlines.,neutral,-0.3522530794143677
+2009-09-17,"With its new fiber optic lines, Verizon will focus on selling video.",neutral,0.31452682614326477
+2009-09-17,Verizon Boss Hangs Up on Landline Phone Business,neutral,-0.12510491907596588
+2009-09-23,Two big names are teaming with iRex Technologies to market a touch-screen e-reader to rival the Kindle from Amazon.,positive,0.8388170003890991
+2009-09-23,Best Buy and Verizon Jump Into E-Reader Fray,neutral,0.14718961715698242
+2009-10-06,"Verizon Wireless is spearheading an initiative that would bring together a half-dozen venture capital firms and network equipment vendors to help fund development of Long Term Evolution technology, used to offer wireless service over large distances.",positive,0.6957316994667053
+2009-10-06,Verizon Leads 4G Investment Group,neutral,0.026569325476884842
+2009-10-06,"Google now has support for Android on all the major wireless carriers in the United States, except AT&T, the home of the iPhone.",neutral,0.1806601881980896
+2009-10-06,Verizon Backs Android,neutral,0.031889256089925766
+2009-10-06,Google and Verizon plan to make Android handsets and other devices that do things on Verizon’s network that Android phones on other networks can’t do.,neutral,0.06152576580643654
+2009-10-06,Verizon O.K.,neutral,0.04337555542588234
+2009-10-06,With Competition From Android Apps,neutral,0.14043666422367096
+2009-10-14,"The Storm was supposed to be the smartphone that would keep Verizon Wireless customers from deserting to Apple’s iPhone, which runs on AT&T’s network.",neutral,0.019763685762882233
+2009-10-14,"BlackBerry, Upgraded, Aims to Suit Every User",positive,0.544477641582489
+2009-10-19,"Verizon will slash $15 a month from the bills of customers who add cellphones to a bundle that includes TV, broadband and a landline home phone.",negative,-0.9330686330795288
+2009-10-19,Verizon Bundles Cellphone Savings With Home Service,neutral,0.16933853924274445
+2009-10-19,"Verizon Wireless has begun an aggressive ad campaign promoting its new Motorola Droid smartphone by focusing on all the things that Apple’s iPhone, which runs on the rival AT&T network, cannot do.",neutral,0.26439353823661804
+2009-10-19,"After New Ads, Doubts Grow About a Verizon iPhone",negative,-0.8445906639099121
+2009-10-26,"FairPoint, which bought Verizon’s landlines and Internet services for $2.3 billion in 2008, has been plagued with customer service and operational problems.",negative,-0.9561308026313782
+2009-10-26,"FairPoint, Buyer of Verizon Unit, Files for Bankruptcy Protection",neutral,-0.3711788058280945
+2009-10-26,"Verizon still wants to sell Apple’s iPhone, said the company’s chief executive, as he discussed the phone company’s better-than-expected earnings.",positive,0.7405283451080322
+2009-10-26,"Droid or Not, Verizon Still Wants the iPhone",neutral,0.029458478093147278
+2009-10-27,FairPoint Communications sought bankruptcy protection Monday after struggling to absorb phone lines purchased from Verizon Communications.,negative,-0.943880021572113
+2009-10-27,"FairPoint, Buyer of Verizon Unit, Files for Chp.",neutral,-0.033473335206508636
+2009-10-27,11,neutral,0.02338775247335434
+2009-10-28,Verizon Wireless took the wraps off the Motorola Droid smartphone.,negative,-0.7730568647384644
+2009-10-28,"The device is an effort by both companies to woo customers considering the Apple iPhone, which is only available on AT&T.",positive,0.5422941446304321
+2009-10-28,Verizon Sends Out the Droids,neutral,0.022289922460913658
+2009-10-28,A first look at Motorola’s newest Android-based smartphone.,neutral,0.13019436597824097
+2009-10-28,These May Be the Droids You’re Looking For,neutral,-0.05510091036558151
+2009-11-03,AT&T says in a lawsuit that its cellphone coverage is misrepresented in a map in a competitor’s commercial.,negative,-0.9266963601112366
+2009-11-03,AT&T Declares Color War on Verizon,negative,-0.5436493754386902
+2009-11-12,"Verizon’s cellphones are designed in such a way that you can almost never avoid getting $1.99 charge on the bill for its mobile Web services, even if you immediately cancel the action.",neutral,-0.04900120571255684
+2009-11-12,Verizon: How Much Do You Charge Now?,neutral,-0.02261725440621376
+2009-11-20,"John C. Malone, the chairman of the DirecTV Group, is not ruling out a possible takeover of his company by AT&T or Verizon Communications, saying they would probably have closer ties to DirecTV as they develop packages of phone and television service.",neutral,0.18605515360832214
+2009-11-20,Malone Won’t Rule Out Phone Deal for DirecTV,neutral,-0.021599803119897842
+2009-11-21,"Companies are testing advertising claims by competitors, leading to lawsuits.",negative,-0.8925137519836426
+2009-11-21,Advertising Foes Meet in Court,neutral,-0.22796031832695007
+2009-12-02,The latest annual survey of wireless phone service from Consumer Reports places AT&T dead last in customer satisfaction.,negative,-0.5949016213417053
+2009-12-02,Verizon Wireless came in first.,neutral,0.21243558824062347
+2009-12-02,"Verizon Leads Wireless Service Rankings, While AT&T Lags",negative,-0.36588147282600403
+2009-12-02,AT&T has withdrawn a lawsuit challenging ads from Verizon Wireless that AT&T says are misleading.,negative,-0.8765882253646851
+2009-12-02,The ads will continue unchanged.,neutral,0.04289683327078819
+2009-12-02,AT&T Drops Fight Over Maps in Verizon Ads,negative,-0.8537253737449646
+2009-12-03,Hewlett-Packard’s new iPaq smartphone shows that the company still has a long way to go in the mobile market.,positive,0.7501787543296814
+2009-12-03,"With Latest iPaq, H.P.",neutral,0.03415430337190628
+2009-12-03,Is Still Phoning It In,neutral,0.001455254852771759
+2009-12-12,"Despite evidence that suggests Verizon provides superior cellphone service, an independent assessment proves otherwise.",positive,0.8066790103912354
+2009-12-12,"AT&T Takes the Blame, Even for the iPhone’s Faults",negative,-0.49456101655960083
+2009-12-12,"Google has begun internal tests of a phone that employees are calling a “Google phone,” suggesting that the company will market the device.",neutral,0.10726606845855713
+2009-12-12,Google Appears Closer to Releasing Its Own Phone,neutral,0.04441911354660988
+2009-12-15,"Google appears to be reaching out to “Blade Runner” fans with its planned smartphone, currently called Nexus One.",positive,0.6990993618965149
+2009-12-15,"But nobody consulted the heirs of Philip K. Dick, who say they own the rights to the term their father coined four decades ago.",neutral,-0.059044674038887024
+2009-12-15,Is the Google Phone an Unauthorized Replicant?,negative,-0.6942569613456726
+2009-12-31,"AT&T, the network it seems everyone loves to hate, has unseated Sprint as the fastest 3G data service in a test by the technology Web site Gizmodo, which also tested Verizon and T-Mobile.",positive,0.46645188331604004
+2009-12-31,AT&T Wins a Test of 3G Efficiency (Surprising Some),positive,0.7487294673919678
+2009-12-31,"Five companies we heard a lot about in 2009, and some predictions of what we might expect from them over the next 365 days.",neutral,0.03301357850432396
+2009-12-31,Five 2010 Predictions About Tech Companies,neutral,-0.016164258122444153
+2010-01-15,"Text-message donations can take 90 days to process, but Verizon says it is writing a $2.1 million check to the Red Cross.",neutral,0.08776123076677322
+2010-01-15,Wireless Companies Speed Up Texted Haiti Donations,positive,0.5573786497116089
+2010-01-26,"Revenue rose 10 percent to $27.1 billion, largely because of Verizon’s acquisition of the Alltel Corporation.",positive,0.9277546405792236
+2010-01-26,"Verizon Posts Loss, Citing Charge Related to Layoffs",negative,-0.9563762545585632
+2010-01-27,Stocks erased gains in the session’s final hour as concerns that the Federal Reserve may signal more plans to unwind stimulus measures overshadowed higher-than-estimated earnings and consumer confidence.,negative,-0.5214129686355591
+2010-01-27,Shares End Lower After a Day of Wandering,negative,-0.9393776655197144
+2010-01-27,Can a Sony PSP work with a Mac?,neutral,0.09830934554338455
+2010-01-27,Connecting a PSP to a Mac,neutral,0.03581719100475311
+2010-02-02,"Leap Wireless International has tapped as hired advisers and formed a special board committee to look into a sale or merger for the prepaid cellphone service provider, The Wall Street Journal reported.",neutral,0.14954781532287598
+2010-02-02,Is Leap Wireless Considering a Deal With MetroPCS?,neutral,0.056478679180145264
+2010-02-05,"Deutsche Telekom is considering an initial public offering or spinoff of its U.S. wireless service T-Mobile USA, The Wall Street Journal reported.",neutral,0.11126568913459778
+2010-02-05,Is a T-Mobile I.P.O.,neutral,0.03872661292552948
+2010-02-05,in the Offing?,negative,-0.38074758648872375
+2010-02-08,"Deutsche Telekom’s foray into the United States has been costly for shareholders, and investors like the Blackstone Group are likely to remain disappointed, Breakingviews says.",negative,-0.9234595894813538
+2010-02-08,Deutsche Telekom and Investors: Stuck Together?,neutral,0.07274746149778366
+2010-02-08,Futurists look for “weak signals” that suggest where the world is heading.,neutral,-0.3152844309806824
+2010-02-08,"In technology, the signals may be pointing to hardware mashups.",neutral,-0.028898639604449272
+2010-02-08,Imagining a World of Hardware Mashups,neutral,0.06289565563201904
+2010-02-17,"HBO announced that Verizon FiOS would be the first distribution partner for its Internet streaming service, HBO GO.",positive,0.5974676012992859
+2010-02-17,Verizon Will Carry HBO’s Streaming Service,neutral,0.023045700043439865
+2010-02-18,"Nathan Myhrvold’s mission and the activities of the company he heads, Intellectual Ventures, a secretive $5 billion investment firm that has scooped up 30,000 patents, inspire admiration and angst, The New York Times writes.",negative,-0.58963942527771
+2010-02-18,Turning Patents Into ‘Invention Capital’,neutral,0.10777251422405243
+2010-02-24,Consumers have to do the math when deciding whether to pay more upfront for the freedom of a so-called unlocked phone or pay less for a device with strings attached.,neutral,0.02741304785013199
+2010-02-24,Locked or Unlocked?,neutral,-0.2979128956794739
+2010-02-24,"Today, That Is the Money Question",neutral,0.03623490780591965
+2010-02-25,"Verizon Communications is giving its former president, Dennis F. Strigl, an $18.5 million separation payment this coming July, according to its preliminary proxy, which was examined by DealBook’s Perks Watch.",neutral,0.21254003047943115
+2010-02-25,Verizon’s $18.5 Million Goodbye to Ex-President,neutral,0.30193036794662476
+2010-03-01,"This morning’s news roundup includes a look at a suit against Verizon Wireless over phantom fees, Microsoft’s antitrust campaign against Google and Chile’s earthquake-proof telescopes.",neutral,-0.010930486023426056
+2010-03-01,"Bits Scan: Verizon Fees, E-Book Profits and Chilean Telescopes",neutral,-0.07458724081516266
+2010-03-10,With a petition to the F.C.C.,neutral,0.025748129934072495
+2010-03-10,"and a letter to Congressional leaders, cable and satellite providers said the current rules were “broken and in need of repair.”",negative,-0.8877054452896118
+2010-03-10,New Rules Sought on TV Retransmission,neutral,0.007874904200434685
+2010-03-10,Comcast doesn’t sign a petition asking the government to change station retransmission rules.,neutral,-0.3404237627983093
+2010-03-10,Comcast Is Absent From Campaign to Change Retransmission Rules,neutral,-0.13757263123989105
+2010-03-11,"Lucid Imagination, a vendor of open source search technologies Lucene and Solr, has landed $10 million in a second round of fuding, VentureBeat reported.",positive,0.7687098979949951
+2010-03-11,Lucid Imagination Takes $10 Million,neutral,0.020306900143623352
+2010-03-23,"Tuesday’s roundup of news from around the Web includes the emerging battle over 4G wireless service, Kim Kardashian on Twitter, how to manage gun-wielding robots and the color of money at Microsoft Bing.",neutral,0.07402317225933075
+2010-03-23,What We’re Reading: Girl Gamers and Wireless Wars,neutral,-0.015990285202860832
+2010-03-25,"AT&T is giving a wider roll out to its 3G MicroCell, which can connect to a D.S.L.",positive,0.638577938079834
+2010-03-25,"or cable connection and beam out 3G service over a 5,000-square-foot area.",neutral,0.0816972553730011
+2010-03-25,The catch: it costs $150.,neutral,-0.01711738482117653
+2010-03-25,Want Better AT&T Cell Service?,neutral,0.3026731014251709
+2010-03-25,Now You Can Buy It,neutral,0.07653158158063889
+2010-03-31,Wall Street ended slightly higher on Tuesday as an energized technology sector helped offset worries about foreign debt.,positive,0.7742251753807068
+2010-03-31,Wall Street Manages to Stay on Positive Side,positive,0.6489859223365784
+2010-04-01,"Companies issued $75.5 billion in high-yield debt for the first three months of 2010, according to data from Thomson Reuters, setting a new quarterly record.",positive,0.5672833323478699
+2010-04-01,Junk Bond Sales Surge in 1st Quarter,positive,0.7220646142959595
+2010-04-07,"Verizon Communications’ top executive dismissed speculation his company would merge with wireless venture partner Vodafone Group, saying such a deal would offer little benefit, Reuters reported.",negative,-0.499183714389801
+2010-04-07,Verizon Chief Sees No Appeal in Vodafone Merger,neutral,-0.22370967268943787
+2010-04-08,"Things are starting to look up on Madison Avenue, or so it seems, as more advertising takes on the type of upbeat tone that had been noticeably missing during this recession.",positive,0.6252709031105042
+2010-04-08,"AT&T Image Campaign Accentuates the Positive, Not Products",neutral,0.36172839999198914
+2010-04-13,"Short interest on the New York Stock Exchange fell at the end of March, while those same positions on the Nasdaq rose in the same period, Reuters reported.",negative,-0.9654541015625
+2010-04-13,"Short Sales Fall at N.Y.S.E., but Rise at Nasdaq",negative,-0.8998180627822876
+2010-04-22,"The two landline and Internet services providers were close to announcing a merger, one of the largest in the telecommunications industry in years.",neutral,0.4667489230632782
+2010-04-22,CenturyTel and Qwest in $10.6 Billion Deal,neutral,0.03163549304008484
+2010-04-22,Dismal results from the first-quarter earnings of AT&T and Verizon indicate a larger slowdown in the wireless industry.,negative,-0.9654117822647095
+2010-04-22,Prepaid Is the New Wireless Battleground,neutral,0.07533135265111923
+2010-04-22,CenturyTel’s $10.6 billion acquisition of Qwest Communications will bring together two second-tier telecommunications companies that will control a larger percentage of a declining market— landlines.,positive,0.6051637530326843
+2010-04-22,The Strategy Behind the CenturyTel-Qwest Deal,neutral,0.02894892916083336
+2010-04-26,"Stocks pushed higher on Friday as the Dow Jones industrial average rose for a fifth consecutive day, and analysts saw little economic news on the horizon that would upset market sentiment next week.",positive,0.36494091153144836
+2010-04-26,"Dow Ends Week Up, Extending Streak to 5 Days",positive,0.2901080846786499
+2010-04-28,"Ted Leonsis, owner of the Washington Capitals hockey team, has reached a deal with the Pollin family to acquire a majority share of the Washington Wizards basketball team and the Verizon Center where the teams play, The Washington Post reported.",positive,0.5238480567932129
+2010-04-28,Leonsis Gets Washington Wizards and Verizon Center,neutral,0.038532257080078125
+2010-05-06,"The History Channel produced 12 spots for Bank of America, the sponsor of its series “America: The Story of Us.” The company spent roughly $4 million to $5 million on the campaign.",neutral,0.06289245933294296
+2010-05-06,"A Bank’s Ads, Dressed Up in Historical Garb",neutral,0.013606823980808258
+2010-06-08,The technology blogosphere weighs in on the iPhone 4.,negative,-0.6740354299545288
+2010-06-08,"Although most bloggers like its new features, many are unhappy with the idea of another two years with AT&T.",negative,-0.9290751814842224
+2010-06-08,Thoughts From Tech Blogs on the iPhone 4,neutral,0.0008634328842163086
+2010-06-09,"The market has been stagnant for years, but investors are becoming active again.",neutral,0.372251957654953
+2010-06-09,"It’s Just a Few Deals, but Office Market Is Stirring",neutral,0.03128504753112793
+2010-06-17,A customer-service representative from Verizon Wireless said that the company has put a new policy in place to attempt to get more money from customers through data plans.,positive,0.6114169955253601
+2010-06-17,Is Verizon Wireless Making It Harder to Avoid Charges?,negative,-0.59845370054245
+2010-06-23,"The U.S. Federal Communications Commission on Tuesday approved Verizon Wireless’s $2.35 billion wireless spectrum license sale to AT&T, Reuters reported.",positive,0.8328892588615417
+2010-06-23,F.C.C.,neutral,0.030943963676691055
+2010-06-23,Clears Sale of Verizon Assets to AT&T,neutral,0.019564058631658554
+2010-06-23,"Motorola introduced its latest Android-powered smartphone, the Droid X, at an event in downtown Manhattan.",positive,0.5483177900314331
+2010-06-23,"Motorola, Verizon and Google Unite to Introduce the Droid X",neutral,0.4093132019042969
+2010-06-28,Virgin Mobile USA will begin selling a personal wireless device that will connect laptops and other gadgets to the Internet on a pay-as-you-go plan.,neutral,0.4698595404624939
+2010-06-28,Virgin Jumps Into Mobile Hot Spot Game,positive,0.7466658353805542
+2010-07-09,"NTP, a patent-holding company best known for prying a settlement of more than $600 million from the maker of the BlackBerry, is suing the other big names in the smartphone industry: Apple, Google, Microsoft, HTC, LG and Motorola.",negative,-0.8614649772644043
+2010-07-09,Smartphone Patent Suits Challenge Big Makers,negative,-0.6377813220024109
+2010-07-12,Verizon’s play for subscribers is fresh evidence that cable giants like Time Warner are under increasing pressure.,positive,0.5919650793075562
+2010-07-12,"In Cable Delivery, Rivals Are Pouncing",neutral,0.2323252260684967
+2010-07-12,"The carrier, which only recently ended its all-you-can-eat data buffet, has attracted bandwidth gluttons with the phone, who might be worth nothing.",negative,-0.5473328828811646
+2010-07-12,What if AT&T Loses iPhone Exclusivity?,negative,-0.8730954527854919
+2010-07-15,"Thanks to a collaboration with Google, Verizon may decide it does not need Apple’s iPhone on its network.",positive,0.45487892627716064
+2010-07-15,"Even Without iPhone, Verizon Is Gaining on AT&T",positive,0.8807876706123352
+2010-07-15,"The combination of Verizon, the biggest cellphone carrier in the United States, and Apple’s iPhone would certainly be a powerful one, but Verizon’s deepening ties with Google may mean it doesn’t happen.",positive,0.47701627016067505
+2010-07-15,"Even Without iPhone, Verizon Is Gaining on AT&T",positive,0.8807876706123352
+2010-07-19,"This poisonous dynamic between Washington and business must be fixed — and while both sides should make adjustments, the business community especially needs to make efforts to mend this relationship, Roger C. Altman writes in The New York Times’s Op/Ed Pages.",positive,0.5723874568939209
+2010-07-19,Altman: Obama’s Business Plan,neutral,0.038534365594387054
+2010-07-19,Nokia Siemens Networks said Monday that it had agreed to buy the wireless-network equipment division of Motorola for $1.2 billion in cash.,positive,0.7210289239883423
+2010-07-19,Nokia to Buy Motorola Unit for $1.2 Billion,neutral,0.046577226370573044
+2010-07-20,"Motorola is getting closer to splitting itself up, with the announcement of a deal to sell its Networks division to Nokia Siemens Networks.",neutral,0.07955744117498398
+2010-07-20,"Next year, the remainder of Motorola is splitting into two companies.",neutral,-0.013288130983710289
+2010-07-20,The Associated Press provides a summary of the form this split is expected to take.,neutral,0.0012624599039554596
+2010-07-20,Motorola’s Path to Breakup,neutral,0.12585923075675964
+2010-07-23,"Revenue in the second quarter fell, but the company added more contract subscribers and its operating profit was better than expected.",negative,-0.9454657435417175
+2010-07-23,Verizon Posts a Loss After Paying for Buyouts,negative,-0.9463437795639038
+2010-08-05,An agreement could lay the foundation for a system in which companies would pay to move their content faster.,positive,0.494988352060318
+2010-08-05,Google and Verizon Near Deal on Web Pay Tiers,neutral,0.07276390492916107
+2010-08-05,The comments were in response to reports that Google and Verizon were near a deal for faster service.,positive,0.6603606939315796
+2010-08-05,F.C.C.,neutral,0.030943963676691055
+2010-08-05,Chief Opposes Fees for Internet Priority,negative,-0.4423712491989136
+2010-08-09,Google and Verizon held a conference call to discuss a joint proposal on net neutrality policy.,neutral,0.24217918515205383
+2010-08-09,Google and Verizon Announce Net Neutrality Proposal,neutral,0.10183918476104736
+2010-08-09,"The Droid announces itself, prompting self-reflection.",neutral,-0.06781715154647827
+2010-08-09,My Phone Is Shouting at Me,negative,-0.5987683534622192
+2010-08-09,"The plan, which includes exceptions for wireless Net access, was criticized by groups that want to keep the network as open as possible.",negative,-0.893803060054779
+2010-08-09,Web Plan From Google and Verizon Is Criticized,neutral,0.032327715307474136
+2010-08-11,"Facebooks says that exempting wireless networks from net neutrality rules is a mistake, breaking with Google, a longtime ally in the debate over how to regulate the Internet.",negative,-0.9195360541343689
+2010-08-11,Facebook Breaks With Google on Net Neutrality,negative,-0.8424368500709534
+2010-08-12,On this week’s Tech Talk podcast: Brian Stelter on the Google-Verizon net neutrality plan and Miguel Helft on the BlackBerry brouhaha.,neutral,-0.016086407005786896
+2010-08-12,Tech Talk Podcast: Net Neutrality,neutral,-0.06163047254085541
+2010-08-12,"Facebook said it would not support a proposal by Google and Verizon to regulate Internet access, while an AT&T executive called the plan a “reasonable framework.”",negative,-0.7268717885017395
+2010-08-12,Web Plan Is Dividing Companies,neutral,-0.20600374042987823
+2010-08-12,A round-up of some of the discussions taking place this week about net neutrality and the future of the Internet.,neutral,-0.009117132052779198
+2010-08-12,More on the Net Neutrality Debate,neutral,0.0397694893181324
+2010-08-15,"Advocates of online privacy say that without Internet neutrality, the Internet becomes more like a mall and less like a public square.",neutral,-0.3322240710258484
+2010-08-15,Internet Proposal From Google and Verizon Raises Fears for Privacy,negative,-0.8848569989204407
+2010-08-15,Groups that saw Google as a top ally in the fight for net neutrality see its proposal with Verizon as a retreat.,negative,-0.7849688529968262
+2010-08-15,Google Plan With Verizon Disillusions Some Allies,negative,-0.7456902861595154
+2010-08-16,"Telecommunications giants like AT&T and Verizon and companies like Google, Apple and Microsoft that rely on the Internet need to find common ground on sharing the cost of increasing bandwidth.",neutral,0.21198809146881104
+2010-08-16,Variable Pricing and Net Neutrality,neutral,0.029587844386696815
+2010-08-16,It is easy to frame the debate over net neutrality as an ideological battle between forces who want unfettered Internet access and those who would prevent it.,negative,-0.5233563184738159
+2010-08-16,"But as with most bitter fights, it is largely a dispute over money.",negative,-0.6010048985481262
+2010-08-16,Variable Pricing and Net Neutrality,neutral,0.029587844386696815
+2010-08-30,A new application brings Bing services to Verizon Wireless phones running the Android operating system from Google.,neutral,0.32816335558891296
+2010-08-30,Microsoft Enters Google’s Unwalled Garden,negative,-0.5770348310470581
+2010-09-01,"Virgin Mobile’s MiFi is nearly like the ones offered by Sprint and Verizon but with three exceptions: an unlimited data plan, no contract and a $40-a-month service fee.",neutral,0.0488717183470726
+2010-09-01,"Your Own Hot Spot, and Cheap",neutral,0.057641804218292236
+2010-09-04,"The angst over net neutrality reaches from boardrooms to living rooms, but take heart: companies will breach its principles at their own peril.",negative,-0.9005903005599976
+2010-09-04,Consumers have come to expect an open Internet.,neutral,0.2751595079898834
+2010-09-04,The Struggle for What We Already Have,neutral,0.13348793983459473
+2010-09-13,"The service will put a midsize Southern city among the world leaders in digital technology, but the speed will be expensive.",neutral,0.4008566737174988
+2010-09-13,Fastest Net Service in U.S. Coming to Chattanooga,neutral,0.37124398350715637
+2010-09-15,Subscriptions and apps make it easier than ever for smartphone owners to follow the N.F.L.,neutral,0.2992200553417206
+2010-09-15,"Tracking Favre or the Mannings, Tricked-Out Phone in Hand",neutral,0.025072146207094193
+2010-09-23,"Verizon has invested an undisclosed amount into Geodelic, a start-up that makes it easy for consumers to discover nearby businesses via their mobile phones.",neutral,0.25159746408462524
+2010-09-23,"Verizon Backs Geodelic, a Maker of Location Apps",neutral,0.009111836552619934
+2010-10-04,"Verizon Wireless will pay up to $90 million to 15 million cellphone customers who were wrongly charged, one of the largest-ever refunds by a telecommunications company.",negative,-0.7382503747940063
+2010-10-04,Verizon Wireless to Pay Millions in Refunds,neutral,-0.1984814703464508
+2010-10-08,"After more than three years of using AT&T networks, Apple is said to be making an iPhone 4 for Verizon.",neutral,0.10292208194732666
+2010-10-08,Apple Plans to Offer iPhone on Verizon,neutral,0.11394204944372177
+2010-10-15,"Verizon Wireless is to begin selling the iPad at its stores on Oct. 28, a sign that the company is growing closer to Apple.",positive,0.8648476600646973
+2010-10-15,Verizon Wireless Is to Sell Apple iPads,neutral,0.031451545655727386
+2010-10-22,The company cited pension settlements resulting from layoffs and voluntary separations for the drop.,negative,-0.9441750049591064
+2010-10-22,Verizon Profit Falls as Customer Growth Slows,negative,-0.9675338864326477
+2010-10-28,The company will pay $25 million to the Treasury and a minimum of $52.8 million in refunds to its customers.,neutral,0.026933562010526657
+2010-10-28,Verizon Deal Ends Inquiry Over Fees,negative,-0.6292147636413574
+2010-11-17,The companies want the F.C.C.,neutral,-0.0005437619984149933
+2010-11-17,to more tightly regulate the makers of devices that amplify weak signals to improve reception.,neutral,0.08350439369678497
+2010-11-17,Cellphone Carriers Try to Control Signal Boosters,neutral,-0.09248503297567368
+2010-12-21,The F.C.C.,neutral,-0.008929532021284103
+2010-12-21,approved new rules regarding access to the Internet that are sure to attract opposition from Republicans and in the courts.,neutral,0.26517751812934875
+2010-12-21,F.C.C.,neutral,0.030943963676691055
+2010-12-21,Approves Net Rules and Braces for Fight,neutral,0.261807382106781
+2011-01-07,"Verizon, which passed on becoming the initial carrier for the iPhone, now stands to gain by carrying iPhones and Android phones on an expanded 4G network.",positive,0.8812369108200073
+2011-01-07,"With Android Phones, Verizon Is in Position to Gain Lost Ground",positive,0.7459782958030701
+2011-01-08,The long-expected arrival of the iPhone on Verizon will end years of exclusivity for AT&T and is likely to upend the smartphone market in the United States.,positive,0.8589577674865723
+2011-01-08,Verizon Is Said to Be Planning to Announce iPhone 4 on Its Network,neutral,0.05277308076620102
+2011-01-11,"Verizon is set to offer an iPhone, cranking up the fight over smartphones, which generate substantial revenues.",neutral,0.03873646259307861
+2011-01-11,AT&T and Verizon Trade Taunts Over iPhone,negative,-0.7029053568840027
+2011-01-11,The highly anticipated move marks the end of a five-year agreement of exclusivity between Apple and AT&T.,positive,0.44070857763290405
+2011-01-11,Battle Is Set as Verizon Adds iPhone,neutral,0.07219108194112778
+2011-01-11,"With Verizon now claiming an iPhone of its own, Apple may make some further inroads into the lucrative world of enterprise business, including major banks.",positive,0.5934985280036926
+2011-01-11,"With Verizon, Will Apple Take a Bite of More Enterprise?",neutral,0.06780268996953964
+2011-01-11,"Sam Grobart, personal technology editor for the Times, talks about the problems and promise for the new iPhone.",neutral,-0.14943653345108032
+2011-01-11,New Home for the iPhone,neutral,0.13919991254806519
+2011-01-12,New rules on earnings reporting makes valuing Goldman a bit easier than it once was.,positive,0.7419964671134949
+2011-01-12,Adding Up Parts at Goldman Sachs,neutral,0.06706450879573822
+2011-01-14,The problem with dropped calls on the iPhone may no longer be blamed on the network now that Apple has signed a deal with Verizon Wireless.,negative,-0.8261550068855286
+2011-01-14,Verizon Deal May Expose iPhone Flaws,negative,-0.8652743101119995
+2011-01-20,"Verizon filed an appeal in Washington, arguing that the F.C.C.",negative,-0.5134879350662231
+2011-01-20,overreached last month when it set up enforceable regulations for Internet service providers.,neutral,0.03936360776424408
+2011-01-20,Verizon Challenges New Net Rules,neutral,0.06507574021816254
+2011-01-21,A legal challenge had been expected to the F.C.C.’s rule on net neutrality.,negative,-0.7204644680023193
+2011-01-21,Verizon Sues F.C.C.,negative,-0.7675015330314636
+2011-01-21,to Overturn Order on Blocking Web Sites,negative,-0.828361988067627
+2011-01-25,"The company reported 872,000 new contract customers for the fourth quarter, and said that nearly 75 percent of them purchased smartphones.",neutral,0.1209544837474823
+2011-01-25,"Verizon’s Earnings Fall Short of Expectations, but Growth in Wireless Users Is Strong",negative,-0.9478045701980591
+2011-01-25,"As banks retreat, corporations like Google and Verizon are stepping up to buy tax credits from developers of low-income housing and get the projects moving again.",neutral,0.39569056034088135
+2011-01-25,Who Invests in Low-Income Housing?,neutral,0.012026652693748474
+2011-01-25,"Google, for One",neutral,-0.03075556829571724
+2011-01-27,"Verizon Communications on Thursday announced it would buy IT services provider Terremark Worldwide for $19 a share, representing a 35 percent premium to its closing price on Thursday.",positive,0.6918140649795532
+2011-01-27,Verizon to Buy Terremark for $1.4 Billion,neutral,0.027812210842967033
+2011-02-03,The Verizon iPhone will become available on Feb. 10.,neutral,0.0522954985499382
+2011-02-03,Does AT&T have anything to worry about?,neutral,-0.06915512681007385
+2011-02-03,"For iPhone, Almost Heaven",neutral,-0.011587478220462799
+2011-02-03,The Times's personal technology editor travels far and wide to see whether Verizon's iPhone really does work better than the competition.,positive,0.6566959023475647
+2011-02-03,The iPhone Challenge,neutral,0.03289657458662987
+2011-02-07,"Julio Arrieta joined Lopez Negrete Communications, Houston, as executive group account director on the Verizon account, which the agency was awarded last year.",neutral,0.050137147307395935
+2011-02-07,Accounts and People of Note in the Ad Industry,neutral,-0.018521495163440704
+2011-02-10,"When Verizon begins selling the iPhone 4 on Thursday, its anticipated sales success could alter the wireless industry, some analysts say.",neutral,-0.22059960663318634
+2011-02-10,"As Verizon’s iPhone Sales Begin, Gauging the Effects on AT&T",neutral,-0.2541380226612091
+2011-03-05,"For less than $26 a month, a scrappy Hong Kong company is offering 1,000-megabit-a-second broadband service — an unheard-of speed across much of America.",negative,-0.613226056098938
+2011-03-05,"Cheap, Ultrafast Broadband?",neutral,0.08870501071214676
+2011-03-05,Hong Kong Has It,neutral,0.028293222188949585
+2011-03-21,"With AT&T agreeing to buy T-Mobile USA for $39 billion, the strategic options for Sprint Nextel have become more limited.",neutral,-0.35637834668159485
+2011-03-21,T-Mobile Deal Leaves Sprint’s Future Unclear,neutral,-0.010791826993227005
+2011-03-22,"The deal is a classic duopoly case study: if AT&T and T-Mobile combine, it will set up a match like Coca-Cola vs. Pepsi, with AT&T pitted against Verizon.",neutral,0.17053580284118652
+2011-03-22,But getting antitrust approval may be difficult.,negative,-0.5996462106704712
+2011-03-22,AT&T’s Full Cost for Getting T-Mobile,neutral,0.06020042672753334
+2011-03-22,"With AT&T looking to again lay claim to being the nation’s biggest cellphone carrier, will Verizon Wireless have to seek out a deal to keep up?",positive,0.4678342044353485
+2011-03-22,Not really.,neutral,-0.23719513416290283
+2011-03-22,"For Verizon, Little Cause to Be Worried by AT&T Deal",neutral,-0.12206688523292542
+2011-03-26,A merger would put AT&T into the No.,neutral,0.021213358268141747
+2011-03-26,"1 position among wireless providers, and its veteran lobbyist is on the case.",neutral,0.04719896614551544
+2011-03-26,AT&T Lobbyist Faces Beltway Test in T-Mobile Deal,negative,-0.050425827503204346
+2011-04-05,The appeals court ruling delays but does not prevent a challenge to the Federal Communications Commission’s pending rules governing broadband providers.,negative,-0.7151928544044495
+2011-04-05,Court Rejects Suit on Net Neutrality Rules,negative,-0.5672373175621033
+2011-04-20,"Sales of iPhones more than doubled, and the MacBook laptops showed big gains.",positive,0.9079406261444092
+2011-04-20,"Sales of the iPod, however, declined again.",negative,-0.9579917192459106
+2011-04-20,Apple Lifted by Verizon iPhone Deal and Updates of iPad and MacBook,positive,0.8395836353302002
+2011-07-22,"Net income and revenue surpassed analysts’ expectations in the second quarter, helped by new iPhone 4 subscriptions.",positive,0.9196261167526245
+2011-07-22,Verizon’s Bet on iPhones Brings a Slow Return,negative,-0.6465477347373962
+2011-07-23,Can Apple retain its dominance after ending the iPhone’s exclusivity to AT&T?,neutral,0.4530739188194275
+2011-07-23,A Verizon subscriber compares the packaging and content of rival devices.,neutral,0.0030117612332105637
+2011-07-23,Worthy Rivals for the Crown in Smartphones,positive,0.5187622904777527
+2011-07-28,"With a contract set to expire Aug. 7, Verizon is seeking concessions, while the union says the company is making plenty of money.",positive,0.4253634512424469
+2011-07-28,"Facing Call for Concessions, Verizon Workers Vote to Authorize Strike",positive,0.42082834243774414
+2011-07-29,There has been a question hanging over Verizon Wireless for some time as its two owners Verizon and Vodafone battled it out to decide the fate of the unit.,negative,-0.7608855962753296
+2011-07-29,"The answer, it turns out, was worth $10 billion.",neutral,0.09637120366096497
+2011-07-29,"With Verizon Dividend, Any Deal Is Deferred",neutral,4.70280647277832e-05
+2011-08-01,The Windstream Corporation has agreed to buy the broadband services provider Paetec Holding in a bid to build out its fiber network and cloud computing services.,positive,0.6976789236068726
+2011-08-01,Windstream to Buy Paetec for $891 Million,neutral,0.031129788607358932
+2011-08-08,"The striking workers are mostly in Verizon’s declining wireline businesses, but also in its popular FiOS service.",negative,-0.9344745874404907
+2011-08-08,The company remains highly profitable.,neutral,0.1683550924062729
+2011-08-08,Sharp Rift in a Strike at Verizon,negative,-0.9026692509651184
+2011-08-11,"The company wants concessions to make up for lower landline profits, but unions say the division is doing just fine.",positive,0.474275141954422
+2011-08-11,Verizon Landline Unit at Heart of Strike,neutral,0.017780795693397522
+2011-08-13,Workers on strike against Verizon accused it of “destroying middle-class jobs.” Verizon said the workers were adequately paid.,negative,-0.8668673634529114
+2011-08-13,Strikers Trade Barbs With Verizon,neutral,0.016366157680749893
+2011-08-14,Cellphone plans that let people gobble up unlimited data are disappearing as new data-heavy services catch on.,negative,-0.8550172448158264
+2011-08-14,"As Networks Speed Up, Data Hits a Wall",neutral,-0.36605292558670044
+2011-08-16,"The company accused striking employees of cutting phone lines, while the union said that strikers have been struck by managers’ cars.",negative,-0.9333128929138184
+2011-08-16,Sides in Verizon Strike Trade More Accusations,negative,-0.6049321293830872
+2011-08-19,"As a strike by 45,000 Verizon workers continues, the company’s customers are beginning to feel the impact — and are complaining about it.",negative,-0.9516327977180481
+2011-08-19,Customers Feel Some Ripples From the Verizon Strike,neutral,0.07716935873031616
+2011-08-20,"Union officials said the company signaled a greater commitment to bargaining, but the discussions may still be lengthy.",positive,0.34476250410079956
+2011-08-20,"Verizon Workers Plan to End Strike, Agreeing to Revive Talks Toward a Contract",negative,-0.17557081580162048
+2011-08-31,The Justice Department filed a complaint on Wednesday to stop AT&T’s acquisition of T-Mobile.,negative,-0.9243512749671936
+2011-08-31,U.S. Moves to Block AT&T Merger with T-Mobile,negative,-0.870263397693634
+2011-08-31,"Scores of companies, lawmakers and other parties have weighed in on AT&T’s proposed deal for T-Mobile.",neutral,0.06517715752124786
+2011-08-31,Here’s what some had to say about the Justice Department’s effort to block the deal.,neutral,-0.3096720278263092
+2011-08-31,Reacting to Justice’s Suit Against AT&T,neutral,-0.22182048857212067
+2011-09-15,Some leading chief executives explain the benefits of actively reaching out to Capitol Hill and the White House.,neutral,0.3835379481315613
+2011-09-15,Another View: Why C.E.O.’s Need to Engage Washington,neutral,0.055726975202560425
+2011-10-21,"The nation’s second-largest telephone company said that its profit doubled during the last quarter, bolstered by an influx of customers attracted by its portfolio of iPhone and Android devices.",positive,0.9371523261070251
+2011-10-21,Verizon Profit Jumps,neutral,-0.16233140230178833
+2011-11-02,"The series has averaged about 13.5 million viewers, less than predicted but enough for a Fox executive to call the decision to renew it a “no-brainer.”",negative,-0.9350323677062988
+2011-11-02,‘X Factor’ Gets a 2nd Season on Fox,neutral,0.25353026390075684
+2011-12-02,Verizon says the 122 spectrum licenses being acquired will  allow it to improve its 4G products and could serve a potential 259 million additional customers.,positive,0.8966925144195557
+2011-12-02,Verizon Wireless Buys Spectrum for $3.6 Billion,neutral,0.047118380665779114
+2011-12-02,"The purchase by Verizon Wireless of spectrum licenses from Comcast, Time Warner Cable and Bright House Networks points to a day when television, broadband, home phone and cellphone service appear on a single monthly bill.",neutral,0.0734758973121643
+2011-12-02,"With Verizon’s $3.6 Billion Spectrum Deal, Cable and Wireless Inch Closer",positive,0.44921261072158813
+2011-12-05,A service for nearly four million Verizon FiOS subscribers will allow them to buy items that they see on the History Channel.,neutral,0.08999736607074738
+2011-12-05,"With a Click of the Remote, Impulse Purchases",neutral,0.007705383002758026
+2011-12-05,"Beginning Tuesday, subscribers of Microsoft’s Xbox Live online service will be able to watch a wide array of mainstream television programming from the Xbox 360 console.",neutral,0.11674974113702774
+2011-12-05,Xbox Live Challenges Cable Box,neutral,0.014706723392009735
+2011-12-06,"According to an article from Reuters, Verizon would be the latest to jump into the potentially lucrative business of streaming movies and TV shows.",positive,0.5001084208488464
+2011-12-06,Verizon Is Reported to Be Planning a Streaming Service,neutral,0.016334064304828644
+2011-12-07,The technology reporters and editors of The New York Times spot interesting items on the Web each day.,neutral,-0.04659346491098404
+2011-12-07,"Today’s discoveries include South Korea’s tech regulations, Verizon data plans and a flatbed scanner that outplays The Animals.",neutral,0.10213111340999603
+2011-12-07,Today’s Scuttlebot: Regulating Games and Musical Scanners,neutral,0.016541840508580208
+2011-12-30,The Web lit up with howls of protest as word spread of a new Verizon Wireless fee that will apply to people who make one-time credit or debit card payments on the phone or online.,negative,-0.8171731233596802
+2011-12-30,An Uproar on the Web Over $2 Fee by Verizon,negative,-0.8791184425354004
+2011-12-30,"As cable companies race to evolve, their front-line workers try to keep up with new dress codes and backgrounds in engineering and computer science.",neutral,0.40049678087234497
+2011-12-30,"Today’s Cable Guy, Upgraded and Better-Dressed",positive,0.7999765872955322
+2011-12-31,"Verizon Wireless bowed to consumer anger on Friday, reversing a day-old plan to impose a bill-paying fee that would have applied to only some customers.",negative,-0.8922924399375916
+2011-12-31,"After Outcry, Verizon Abandons $2 Fee",negative,-0.6312592625617981
+2012-01-20,"A pending $3.6 billion transfer of spectrum will give Comcast, the nation’s largest cable company, a presence in select Verizon Wireless retail locations, where Comcast salesmen will offer Verizon customers special offers if they sign up for the cable company’s Xfinity service.",positive,0.8250283002853394
+2012-01-20,New in Your Wireless Store: The Cable Guy,neutral,0.03419073671102524
+2012-01-24,"The phone company’s quarterly revenue rose 7.7 percent, but the costs of pension obligations caused a net loss, Verizon said.",positive,0.8909143805503845
+2012-01-24,"Smartphone Sales Are Strong, but Verizon Has a Loss",negative,-0.8364420533180237
+2012-02-06,"The two companies will combine to try to give customers more access to video on the Web, and possibly position the new venture as an alternative to Netflix.",positive,0.7749179601669312
+2012-02-06,Verizon Teaming With Redbox for DVD and Streaming Service,positive,0.5187059044837952
+2012-02-08,"In a world crammed with Android phones, HTC, Samsung and Motorola introduce three new models, each of them Verizon 4Gs.",positive,0.5137027502059937
+2012-02-08,Android Phones Take a Power Trip,neutral,0.009482935070991516
+2012-02-16,"The F.C.C.’s rejection of LightSquared’s broadband plan could spell disaster for the hedge fund manager Philip A. Falcone, who has spent billions of dollars on the project.",negative,-0.9263838529586792
+2012-02-16,Loss of a Wireless Dream Caps a Fast Fall From Grace,negative,-0.48946934938430786
+2012-02-22,"In its filing, T-Mobile, the No.",neutral,-0.03592120110988617
+2012-02-22,"4 cellphone carrier, told the F.C.C.",neutral,0.04945668578147888
+2012-02-22,that Verizon’s acquisition from cable companies would place an “excessive concentration” of wireless spectrum in Verizon’s hands.,negative,-0.8612462878227234
+2012-02-22,T-Mobile Urges U.S. to Block Verizon’s Spectrum Purchase,negative,-0.8736876249313354
+2012-02-27,Plus: How do you respond to a customer who posts a bad review online?,negative,-0.7164798378944397
+2012-02-27,This Week in Small Business: Redefining Small,positive,0.4787270128726959
+2012-03-02,"Some of the nation’s largest wireless phone companies, like AT&T and Verizon, use a process called throttling to slow down customers who exceed data limits — even if they have unlimited data plans.",negative,-0.6799987554550171
+2012-03-02,Revising the Limits for the Unlimited,neutral,0.0477089062333107
+2012-04-10,Major carriers and the Federal Communications Commission are working to render phones useless once they’re reported stolen.,negative,-0.8323400616645813
+2012-04-10,National Database Planned to Combat Cellphone Theft,neutral,-0.15676939487457275
+2012-04-17,"As data usage multiplies on mobile devices, carriers say they need more spectrum, but scientists and engineers say newer technologies can improve efficiency.",positive,0.8190338611602783
+2012-04-17,Carriers Warn of Crisis in Mobile Spectrum,negative,-0.8793767690658569
+2012-04-19,"Although the nation’s largest cellphone service added fewer customers in the first quarter, its customers paid to watch videos, use the Web or play music on their smartphones and tablets.",neutral,0.05752823129296303
+2012-04-19,Mobile Data Service Fees Help Bolster Profit at Verizon,positive,0.9097726941108704
+2012-04-21,"As more shareholders speak up about executive compensation, one group could become an especially formidable force: workers who own stock in their own companies.",neutral,-0.1583879590034485
+2012-04-21,"Employees, Too, Want a Say on the Boss’s Pay",neutral,-0.04621613025665283
+2012-05-07,"As merchants upgrade payment terminals, technology companies are maneuvering to become the standard in paying with taps and swipes.",positive,0.6062528491020203
+2012-05-07,Many Competing Paths on the Road to the Phone Wallet,neutral,-0.11022169142961502
+2012-05-09,"To reach the multitude of online services competing for your attention, you must first get through a bottleneck that is not competitive at all: high-speed broadband access.",neutral,0.12960170209407806
+2012-05-09,Keeping the Internet Neutral,neutral,0.03669988363981247
+2012-06-01,"Verizon Communications said on Friday that it had agreed to buy Hughes Telematics, a maker of wireless systems for vehicles, for $612 million in cash.",positive,0.6057777404785156
+2012-06-01,Verizon to Buy Hughes Telematics for $612 Million,neutral,0.008951013907790184
+2012-06-04,A reader notices some similarities in chewing gum commercials made for the same company.,neutral,-0.009813345968723297
+2012-06-04,Q. and A.,neutral,0.0380171574652195
+2012-06-04,With Stuart Elliott,neutral,0.02111242711544037
+2012-06-06,Technology that allows the sharing of frequencies is getting new backing as smartphones and tablets put greater demand on available bands.,positive,0.7600233554840088
+2012-06-06,Companies Try to Create Room on Radio Spectrum,neutral,0.04600623995065689
+2012-06-13,At issue is whether caps on Internet data use imposed by cable companies are anticompetitive because they limit access to online video — and thus force consumers to have cable subscriptions.,negative,-0.7105541825294495
+2012-06-13,Justice Department Is Said to Investigate Cable Companies Over Internet Video,negative,-0.5667819380760193
+2012-07-16,"Governments reports will include retail sales and the Consumer Price Index for June; companies reporting earnings will include Citigroup, Goldman Sachs, Intel, I.B.M., Google, Microsoft, Verizon and General Electric.",neutral,0.018922943621873856
+2012-07-16,Economic Reports for the Week Ahead,neutral,0.0058092400431632996
+2012-07-19,The 13 percent gain in quarterly net income was in line with Wall Street expectations.,positive,0.9116175770759583
+2012-07-19,Verizon’s Profit Rises as Subscribers Grow More Slowly,positive,0.8871358633041382
+2012-07-23,"The three-year agreements with the Communications Workers of America provide for wage increases, but full details were not released.",positive,0.593449056148529
+2012-07-23,Two Units of AT&T Reach Pacts With Union,positive,0.6768751740455627
+2012-08-16,"The deal to pay $3.6 billion for wireless airwaves owned by Time Warner Cable, Comcast, Cox Communications and Bright House Networks still needs F.C.C.",neutral,0.08611227571964264
+2012-08-16,approval.,positive,0.477968692779541
+2012-08-16,Justice Dept.,neutral,-0.03068007528781891
+2012-08-16,"Approves, With Changes, Verizon Wireless Spectrum Purchase",neutral,0.23014211654663086
+2012-08-23,"The United States government approved a deal in which the company will spend $3.9 billion to buy underused airwaves owned by Comcast, Time Warner Cable and others.",positive,0.7979532480239868
+2012-08-23,Verizon Wins Approval for Huge Spectrum Purchase,positive,0.8130961656570435
+2012-09-19,The company’s two main unions said the tentative agreements carry an 8 percent pay raise and require workers to pay more for health coverage.,positive,0.7200132608413696
+2012-09-19,4-Year Deals for Unions at Verizon,neutral,0.07499005645513535
+2012-09-23,A little-noticed result of Verizon’s $3.9 billion airwave purchase is that cable companies can now use the carrier’s retail presence to sell cable packaged with phone and wireless service.,positive,0.5990141034126282
+2012-09-23,Mobile Services and Cable TV Are Unexpected Allies,neutral,-0.0009790398180484772
+2012-09-24,Cable TV's unexpected ally: the mobile device.,neutral,0.34899452328681946
+2012-09-24,"| At a data center, a peek inside the computing cloud.",neutral,0.01466195285320282
+2012-09-24,| How changing technology empowered boutique book publishing.,neutral,0.2142399251461029
+2012-09-24,Cable TV Finds an Ally in Mobile Devices,neutral,0.4280672073364258
+2012-09-26,"In an effort to compete with companies like AT&T and Verizon, smaller telecommunications firms asked the F.C.C.",positive,0.5986056923866272
+2012-09-26,to limit ownership of spectrum that is valuable in urban areas.,neutral,-0.00011358782649040222
+2012-09-26,New Limits Considered in Airwaves,neutral,0.04102510213851929
+2012-10-16,"SoftBank, a Japanese Internet and communications company, is betting that it can break the dominance of Verizon and AT&T in the United States.",positive,0.729320764541626
+2012-10-16,Deal to Buy Sprint Is SoftBank’s Biggest Gamble,neutral,0.1317419558763504
+2012-10-16,Goldman Sachs swung to a profit in the third quarter.,positive,0.8748450875282288
+2012-10-16,| Andrew Ross Sorkin says lawsuits brought by the government “may have a profound impact” on how businesses view the next crisis.,negative,-0.4878695011138916
+2012-10-16,| SoftBank is betting it can break the dominance of Verizon and AT&T.,positive,0.6806365251541138
+2012-10-16,Goldman Beats Expectations,neutral,0.05958787351846695
+2012-10-18,"Its wireless business had record profit thanks to strong sales of smartphones and the popularity of its new shared data plans, Verizon Communications said.",positive,0.922418475151062
+2012-10-18,Verizon’s Income Increases 15.5% as Sales Climb,positive,0.8898559212684631
+2012-10-23,"As wireless providers rush to grow through acquisitions, they may end up hurting themselves — and consumers.",negative,-0.9501402378082275
+2012-10-23,Few Winners in Heated Cellphone Wars,neutral,-0.1392994523048401
+2012-10-24,The company said a limited supply of the hot-selling Apple iPhone 5 was partly to blame for slower growth of contract subscriptions.,negative,-0.5619354248046875
+2012-10-24,Solid Profit for AT&T Despite a Setback,positive,0.6855473518371582
+2012-10-31,Web site managers are learning that backup power generators should not be located where it floods.,neutral,-0.33317574858665466
+2012-10-31,"When Floodwaters Rise, Web Sites May Fall",negative,-0.5078086853027344
+2012-10-31,Investors apprehensive about the reopening of the New York Stock Exchange after Hurricane Sandy were pleasantly surprised at the resilience of American markets.,positive,0.708360493183136
+2012-10-31,"New York Stock Exchange Reopens Smoothly, Reassuring Investors",positive,0.7854408025741577
+2012-11-03,"Four days after Hurricane Sandy, the major carriers — AT&T, Verizon Wireless, T-Mobile USA and Sprint — were still rebuilding their networks in the hardest-hit areas.",positive,0.07801869511604309
+2012-11-03,Cellphone Users Steaming at Hit-or-Miss Service,negative,-0.46463140845298767
+2012-12-05,The Federal Communications Commission can require cellphone companies to let customers of other carriers use their signals when outside their home territories.,neutral,-0.011828770861029625
+2012-12-05,Court Upholds F.C.C.,neutral,0.10751727223396301
+2012-12-05,Rule on Use of Data Networks,neutral,-0.0391167514026165
+2013-01-10,"“Planning and system failures” were largely responsible for cutting off millions of people from emergency 911 call centers after the derecho storm in June, the Federal Communications Commission said.",negative,-0.9292070865631104
+2013-01-10,F.C.C.,neutral,0.030943963676691055
+2013-01-10,Says Failure of 911 in Storm Was Preventable,negative,-0.6454222202301025
+2013-01-21,"Government reports will include sales of existing homes for December, and companies reporting earnings will include Verizon, Google, I.B.M., McDonald’s, Apple and Microsoft.",neutral,-0.0028489232063293457
+2013-01-21,Economic Reports for the Week Ahead,neutral,0.0058092400431632996
+2013-01-21,"The ads, which come as Time Warner Cable faces stiff competition, will say that the company’s service has improved, and will offer former subscribers a money-back guarantee.",positive,0.9109013080596924
+2013-01-21,Time Warner Cable Tries to Win Back Ex-Subscribers,neutral,-0.1178203672170639
+2013-01-22,"Even though revenue rose and customers increased, the phone company reported a loss of $4.22 billion, more than double the loss a year ago.",negative,-0.9180508255958557
+2013-01-22,Storm and Pension Costs Leave Verizon With Bigger Quarterly Loss,negative,-0.9485846161842346
+2013-01-26,"Per-subscriber fees for sports television networks keep going up, and the cost gets passed on to viewers whether they watch the games or not.",neutral,0.15903052687644958
+2013-01-26,Rising TV Fees Mean All Viewers Pay to Keep Sports Fans Happy,neutral,-0.04312601685523987
+2013-02-12,"Amazon.com is quietly building a library of exclusive online content to rival Netflix, the champion of streaming media; cat videos are used to sell things rather than simply distract; and a Japanese television show captures the angst of a major lithium-ion battery manufacturer.",neutral,0.052814751863479614
+2013-02-12,"The Breakfast Meeting: Amazon Challenges Netflix, and an Advertiser Turns to Cat Videos",negative,-0.6032968163490295
+2013-02-25,"The Copyright Alert System, a program of escalating warnings against people suspected of online copyright infringement, is going into effect more than a year and a half after the plan was announced.",neutral,-0.0008856281638145447
+2013-02-25,Online Piracy Alert System to Begin This Week,neutral,-0.01133161410689354
+2013-03-06,Vodafone’s stake in Verizon Wireless may be worth $120 billion.,neutral,0.035189103335142136
+2013-03-06,"If a deal can be reached with Verizon, the big question is what strategic options the British telecommunications would pursue with such a windfall.",neutral,0.09505485743284225
+2013-03-06,Why Vodafone Should Head for a Verizon Exit,neutral,0.03825443610548973
+2013-03-26,"The American mobile carrier, which has struggled against rivals like AT&T and Verizon, will offer the iPhone 5 and other top smartphones without locking in customers for two years.",negative,-0.08891478180885315
+2013-03-26,T-Mobile Shakes Up Its Service,negative,-0.928839921951294
+2013-04-02,"Verizon is working with its main rival, AT&T, about a joint bid for Vodafone, The Financial Times’s Alphaville blog reports.",neutral,0.2752945125102997
+2013-04-02,"If true, a successful deal could solve issues at both Verizon and Vodafone.",positive,0.8729726076126099
+2013-04-02,Could Verizon’s Best Friend Be Its Biggest Rival?,neutral,-0.10443329066038132
+2013-04-02,"Verizon said on Tuesday that it did not “currently have any intention to merge with or make an offer for Vodafone, whether alone or in conjunction with others,” following a report that it was working with AT&T on a joint bid.",neutral,-0.01762411743402481
+2013-04-02,Verizon Says It’s Not ‘Currently’ Planning to Bid for Vodafone,neutral,-0.020741350948810577
+2013-04-03,"Shares of Vodafone fell in London trading on Wednesday after Verizon Communications said it did not “currently have any intention to merge with or make an offer for Vodafone, whether alone or in conjunction with others.”",negative,-0.963533341884613
+2013-04-03,Vodafone Shares Fall After Verizon Throws Cold Water on Bid Talk,negative,-0.9393697381019592
+2013-04-03,"Twitter, Facebook and other sites are now legitimate ways for chief executives to communicate with investors, but within certain limits.",neutral,0.00025942549109458923
+2013-04-03,| Two hedge funds waging proxy battles are planning to pay their director nominees as if they were chief executives.,negative,-0.4631389081478119
+2013-04-03,"| In board rooms in fields like law, technology and private equity, women are still underrepresented.",negative,-0.7649831175804138
+2013-04-03,| Verizon quiets talk of a deal.,neutral,0.2931077182292938
+2013-04-03,C.E.O.’s Now Free to Tweet,neutral,0.006628409028053284
+2013-04-03,"T-Mobile, the smallest of the Big Four cellphone carriers, steps away from the two-year, unbreakable contract that Sprint, Verizon and AT&T live by.",negative,-0.8151516318321228
+2013-04-03,Breaking Free of the Cellphone Carrier Conspiracy,neutral,-0.0014215856790542603
+2013-04-04,"With Vodafone valued at nearly $50 billion below the breakup value of its assets, the potential for a huge payoff for its shareholders in the form of an acquisition is mouth-watering, the authors say.",negative,-0.9069004058837891
+2013-04-04,Unlocking Vodafone’s Value,positive,0.5540668964385986
+2013-04-06,"In many ways, executive pay is continuing  its merry climb.",positive,0.8430671095848083
+2013-04-06,But shareholders and some company boards have made inroads against the trend.,negative,-0.9040697813034058
+2013-04-06,"If Shareholders Say ‘Enough Already,’ the Board May Listen",neutral,-0.1384139209985733
+2013-04-17,The head of antitrust enforcement said he supported limiting the share of the airwaves suitable for wireless broadband that any provider could hold.,neutral,0.022947847843170166
+2013-04-17,Justice Department Backs Limits on Wireless Companies,negative,-0.3714871108531952
+2013-04-18,The No.,neutral,-0.2351313829421997
+2013-04-18,"1 American cellphone carrier continued to do well in its first quarter, even as it has gradually raised prices of phone plans.",positive,0.9244226217269897
+2013-04-18,Wireless Lifts Profit at Verizon,positive,0.6406835317611694
+2013-04-25,"Verizon is said to have hired advisers to prepare a possible $100 billion bid for Vodafone’s portion of the Verizon Wireless joint venture, Reuters reports.",neutral,0.3726029396057129
+2013-04-25,"| Janet L. Yellen, a possible Fed successor, has admirers and foes.",neutral,-0.3110431730747223
+2013-04-25,| Down payment rules and the debate on mortgages.,neutral,-0.011422842741012573
+2013-04-25,"| Fiat is seeking to buy full ownership of Chrysler, according to a Wall Street Journal report.",neutral,0.05922755226492882
+2013-04-25,Verizon Is Said to Hire Advisers on Bid for Wireless Stake,neutral,0.040278688073158264
+2013-06-04,The suggestion that some auction participants could get favored treatment in a spectrum auction has spawned a dispute.,negative,-0.795116126537323
+2013-06-04,A Dispute Over Restrictions in a U.S. Auction of Airwaves,negative,-0.8962422609329224
+2013-06-04,"In auctioning off the public airwaves, the government’s thirst for revenue competes with the goal of fostering competition.",neutral,0.2167658656835556
+2013-06-04,From Lottery to Oligopoly in Wireless Spectrum,neutral,0.03419482335448265
+2013-06-12,"Amid growing interest in European cable and telecommunications by investors, the British wireless firm Vodafone started acquisition talks with the German cable operator Kabel Deutschland.",positive,0.7921460866928101
+2013-06-12,Vodafone Pursues a German Deal,neutral,0.03701808303594589
+2013-07-03,"A lawyer told the Federal Communications Commission that Verizon might have collected more than $240 million from false charges, more than four times the amount it agreed to refund.",negative,-0.8790761828422546
+2013-07-03,F.C.C.,neutral,0.030943963676691055
+2013-07-03,Is Told Verizon Underpaid Data Refunds,negative,-0.7527711987495422
+2013-07-18,"Driven by growth in wireless subscribers, the net income was above the expectations of Wall Street analysts.",negative,-0.0015359818935394287
+2013-07-18,"At Verizon, Wireless Aids Earnings Rise",neutral,-0.04665076732635498
+2013-08-22,"The deal was  “reached swiftly and amicably,” said CBS’s president, Leslie Moonves, even as a stand-off with Time Warner Cable persisted.",negative,-0.014416813850402832
+2013-08-22,CBS Trumpets Deal With FiOS TV in Jab at Time Warner Cable,neutral,0.05709826201200485
+2013-08-29,"If talks to buy out Vodafone’s stake in Verizon Wireless are successful, Verizon would be able to shift from receiving dividends to being able to fully incorporate all of its profit.",positive,0.8332988619804382
+2013-08-29,"In Talks With Vodafone, Verizon Banks on Wireless Future",neutral,0.07810015231370926
+2013-08-29,Vodafone has talks over the potential sale of its 45 percent stake in Verizon Wireless.,neutral,0.02288353443145752
+2013-08-29,| A look at the political checks from hedge fund managers in the New York mayoral race.,neutral,0.002543281763792038
+2013-08-29,| The prospect of military action in Syria and its effect on emerging markets.,neutral,-0.18262358009815216
+2013-08-29,Vodafone in Talks Over $115 Billion Deal,neutral,0.02950453571975231
+2013-08-29,"A successful sale of Vodafone’s stake in Verizon Wireless would help define Vittorio Colao’s tenure as chief executive, the author writes.",positive,0.5359963774681091
+2013-08-29,Vodafone Needs to Deliver for Shareholders if Deal Goes Through,neutral,0.10036172717809677
+2013-08-30,Should Verizon Communications successfully buy out Vodafone’s 45 percent stake in Verizon Wireless — analysts suggest that the transaction would be valued at more than $125 billion — it would consummate one of the largest takeovers on record.,positive,0.6935732960700989
+2013-08-30,Verizon-Vodafone Deal Would Be a Big Payday for Deal Makers,positive,0.7612602114677429
+2013-08-30,Verizon Communications is in talks with Vodafone to buy the British telecommunication giant’s 45% stake in Verizon Wireless.,neutral,0.2142065316438675
+2013-08-30,"The deal, worth at least $125 billion, would be one of the biggest takeovers in history, but the burgeoning wireless industry makes the buyout attractive.",neutral,0.44938230514526367
+2013-08-30,Week in Review: A $125 Billion Bet on a Multitrillion-Dollar Market,neutral,-0.10674736648797989
+2013-09-01,"Verizon Communications neared a deal on Sunday to buy the 45 percent stake in its wireless business held by Vodafone of Britain for about $130 billion, people briefed on the matter said, potentially completing a corporate breakup over a decade in the making.",positive,0.7571730613708496
+2013-09-01,Verizon Nears Deal to Buy Out Vodafone’s Stake in Wireless Unit,neutral,0.3385235667228699
+2013-09-02,"A platoon of big banks and independent advisers, including a former star banker at Morgan Stanley, are set to reap hundreds of millions of dollars in fees from Verizon’s $130 billion deal with Vodafone.",neutral,-0.2943041920661926
+2013-09-02,"Big Banks, and Solo Deal Maker, to Share in Huge Telecom Deal",neutral,0.13218694925308228
+2013-09-02,Verizon will pay about $58.9 billion in cash and about $60.2 billion in stock for Vodafone’s stake.,neutral,0.026060327887535095
+2013-09-02,Other considerations are also part of the deal.,neutral,0.03870481625199318
+2013-09-02,Verizon Seals Long-Sought $130 Billion Deal to Own Wireless Unit,neutral,0.30700209736824036
+2013-09-03,Microsoft to acquire the handset and services business of Nokia for about $7.2 billion.,neutral,0.02400844916701317
+2013-09-03,| Verizon is betting the American desire for cellphones and broadband services is far from being sated.,neutral,0.444325715303421
+2013-09-03,| A new book asks whether advice from McKinsey & Company is worth it.,neutral,0.07289999723434448
+2013-09-03,| The trustee for victims of Bernard L. Madoff has added claims to his lawsuit.,neutral,-0.2606288194656372
+2013-09-03,Microsoft’s Nokia Deal,neutral,-0.02063896879553795
+2013-09-03,Vodafone’s sale of its 45 percent stake in Verizon Wireless could tempt AT&T to make a big move overseas now.,negative,-0.6043487191200256
+2013-09-03,But the fat margins at home and the perils of cross-border M.&A.,negative,-0.7855989336967468
+2013-09-03,make a stronger case for discipline.,positive,0.6727472543716431
+2013-09-03,AT&T Should Resist Buying Spree,neutral,-0.12362922728061676
+2013-09-04,"Verizon’s deal, which included $61 billion in financing, highlights what bankers describe as the continued health of the debt markets.",neutral,0.3313172459602356
+2013-09-04,"Verizon’s Deal Financing Moves Quickly, as Debt Markets Remain Open",positive,0.5743810534477234
+2013-09-05,"Sprint Nextel on Wednesday sold $6.5 billion worth of high-yield bonds, breaking the record for the single biggest noninvestment-grade offering ever sold directly to investors.",positive,0.7732545733451843
+2013-09-05,The sale comes only days after Verizon announced that it has taken out $61 billion in financing to support its mammoth deal to buy full control of its wireless unit.,positive,0.7416822910308838
+2013-09-05,Sprint Breaks Record With Big New Bond Offering,positive,0.7921071648597717
+2013-09-05,Sprint Nextel sells $6.5 billion of high-yield bonds.,neutral,0.037172749638557434
+2013-09-05,| The Verizon Wireless deal highlights what bankers describe as the continued health of the debt markets.,neutral,0.30322277545928955
+2013-09-05,| Mail.ru sells its remaining stake in Facebook for around $525 million.,neutral,0.022338155657052994
+2013-09-05,| Charles Schwab & Company is seeking to eliminate the option of class-action lawsuits for its clients.,neutral,-0.029978912323713303
+2013-09-05,Sprint’s Record Bond Offering,neutral,0.37376195192337036
+2013-09-06,"With the benefit of hindsight, Verizon should simply have paid whatever Vodafone wanted, since it was so much less than what it is paying now.",neutral,-0.15295031666755676
+2013-09-06,"Waiting to Woo Vodafone, and Paying the Price",neutral,0.030118044465780258
+2013-09-08,Verizon and other companies that spent billions of dollars to build their Internet pipelines are fighting the F.C.C.,negative,-0.8471394181251526
+2013-09-08,Verizon-F.C.C.,neutral,0.023900743573904037
+2013-09-08,Court Fight Takes On Regulating Net,negative,-0.5181843638420105
+2013-09-09,The government faces questions about the decision to spare Lehman Brothers executives.,negative,-0.8758817315101624
+2013-09-09,| The owners of Neiman Marcus are near a deal to sell the luxury retailer.,neutral,0.04976464435458183
+2013-09-09,| Verizon paid dearly for waiting to acquire Vodafone’s stake in its wireless venture.,negative,-0.4120880365371704
+2013-09-09,| Harvard Business School conducted a two-year experiment to foster female success.,neutral,0.40217992663383484
+2013-09-09,How the S.E.C.,neutral,-0.05692555382847786
+2013-09-09,Threw In the Towel on Lehman,neutral,0.009854540228843689
+2013-09-10,"In a battle over whether the Web should remain open, judges expressed doubt over a requirement that service providers treat all traffic equally.",negative,-0.7645612955093384
+2013-09-10,Judges Hear Arguments on Rules for Internet,neutral,0.00012796372175216675
+2013-09-11,"Lawyers for Jon S. Corzine, who was accused of a failure of leadership at the helm of the MF Global, filed a motion to dismiss a civil case against him.",negative,-0.6936016082763672
+2013-09-11,| Verizon Communications plans to sell up to $49 billion of bonds in record debt offering.,neutral,0.0606224350631237
+2013-09-11,| Deals like LinkedIn’s recent sale of stock may simply feed a trading frenzy.,negative,-0.5665640830993652
+2013-09-11,Corzine Fights Back,negative,-0.3288654685020447
+2013-09-11,"Verizon Communications sold $49 billion worth of bonds in the largest investment grade corporate bond sale ever, trumping the previous record set by Apple’s $17 billion bond sale in April.",positive,0.7388692498207092
+2013-09-11,Companies Embrace Low Interest Rates by Selling Bonds to Raise Billions,neutral,0.07179386168718338
+2013-09-19,"Simon Warshaw, 47, who led the UBS team advising Vodafone, the British telecommunications company, to sell its stake in Verizon Wireless to its longtime partner Verizon Communications is leaving the bank after 27 years.",neutral,-0.30662301182746887
+2013-09-19,Veteran UBS Banker to Depart,neutral,0.028851091861724854
+2013-09-28,Verizon Communications’ move to buy the remainder of Verizon Wireless reflects the extraordinary profit advantage of wireless over landline service.,positive,0.8080314993858337
+2013-09-28,Why Verizon Wanted It All,neutral,0.004930570721626282
+2013-10-01,"For the first nine months of the year, Goldman Sachs claimed the top spot among financial advisers, having worked on 285 deals worldwide worth nearly $517 billion.",positive,0.6064516305923462
+2013-10-01,Mergers Holding Steady,neutral,-0.03191941976547241
+2013-10-09,Just how badly Verizon’s chief executive wanted full ownership was disclosed in its preliminary proxy statement filed with the Securities and Exchange Commission.,neutral,0.03308672457933426
+2013-10-09,The Evolution of Verizon’s Higher Bid for Its Wireless Unit,positive,0.6311610341072083
+2013-10-15,"After Hurricane Sandy, Verizon said it was too expensive to replace landlines in Mantoloking.",negative,-0.8812187910079956
+2013-10-15,The move may presage the end of the lines across the nation.,neutral,0.13861577212810516
+2013-10-15,"On a New Jersey Islet, Twilight of the Landline",neutral,0.0050773024559021
+2013-10-29,"Prognostications of a return to deal-making have turned out to be wrong, very wrong.",negative,-0.9183549284934998
+2013-10-29,And deal-making may not be coming back anytime soon.,negative,-0.5411089658737183
+2013-10-29,"Frenzy of Deals, Once Expected, Seems to Fizzle",neutral,0.10981936752796173
+2013-10-31,"Intel has been frustrated with cable content providers and might sell to Verizon, people with direct knowledge of the discussions said.",negative,-0.9387646317481995
+2013-10-31,Intel Is Said to Weigh Sale of Online Cable TV Venture,neutral,0.05063849687576294
+2013-11-20,Shareholder resolutions are demanding more disclosure about the companies’ role in handing over customer data to the government.,neutral,0.035579122602939606
+2013-11-20,AT&T and Verizon Pressed to Detail Roles in U.S. Surveillance Efforts,neutral,0.03948974609375
+2013-11-21,"Deutsche Telekom said that it would sell a 70 percent stake to Hellman & Friedman for 1.5 billion euros, or about $2 billion, in cash.",neutral,0.053795453161001205
+2013-11-21,"Deutsche Telekom to Sell Stake in Scout 24, an Online Ad Company",neutral,0.023678407073020935
+2013-12-09,"The carriers are shown to turn over records thousands of times a day in response to police emergencies, subpoenas and other requests.",neutral,0.043628305196762085
+2013-12-09,A Senator Plans Legislation to Narrow Authorities’ Cellphone Data Requests,neutral,0.07667940109968185
+2013-12-09,"Verizon announced on Monday that it had agreed to acquire EdgeCast, a fast-growing content delivery network start-up.",positive,0.6149712800979614
+2013-12-09,Verizon to Buy Content Delivery Network Start-Up,neutral,0.12490427494049072
+2013-12-11,New York Attorney General Eric T. Schneiderman’s investigation into the rejection of antitheft software has raised questions about coordination among the biggest carriers.,negative,-0.7598832249641418
+2013-12-11,New York Asks Cellphone Carriers to Explain Why They Rejected Antitheft Switch,neutral,-0.11880148947238922
+2013-12-16,The investments in electronics retailing reflect a belief that companies should obsess over the environment in which products are presented to the public.,neutral,0.0755748599767685
+2013-12-16,Tech Companies Press for a Better Retail Experience,neutral,0.11802392452955246
+2014-01-14,The decision by a federal appeals court could pave the way for providers like Verizon and AT&T to charge content companies to deliver data at a faster speed.,positive,0.513823390007019
+2014-01-14,Rebuffing F.C.C.,neutral,0.012957043945789337
+2014-01-14,"in ‘Net Neutrality’ Case, Court Allows Streaming Deals",neutral,-0.12964877486228943
+2014-01-22,"Intel Media was acquired by Verizon, which wants to add TV everywhere there is an Internet connection.",neutral,0.06460797786712646
+2014-01-22,Verizon Plans to Buy Intel Media Division to Expand Its Television Services,positive,0.8164003491401672
+2014-01-27,"The denial came after speculation over the weekend that AT&T might be looking to acquire Vodafone, which agreed last year to sell its 45 percent stake in Verizon Wireless to Verizon Communications for $130 billion.",negative,-0.7544519901275635
+2014-01-27,AT&T Denies Pursuit of Vodafone,neutral,-0.3630262017250061
+2014-01-28,"The deal will return about $84 billion to shareholders in what Vodafone said was the single largest return of value in history, according to a presentation on its website.",positive,0.5523196458816528
+2014-01-28,Vodafone and Verizon Shareholders Approve Wireless Deal,neutral,0.4206920862197876
+2014-02-13,"Verizon Wireless is sweetening its phone plans, offering more mobile data and free international text messaging, after AT&T made several big moves to fight off T-Mobile US and keep customers.",positive,0.8991677761077881
+2014-02-13,Verizon Wireless Expands Mobile Data Plans,neutral,0.3632608652114868
+2014-02-17,Wireless charging is promising and has been promised for several years.,positive,0.5384129881858826
+2014-02-17,But it is a mess of competing standards and technologies.,negative,-0.6186805367469788
+2014-02-17,Will this tangle of cords ever get unraveled?,neutral,-0.19110450148582458
+2014-02-17,Wireless Charging: Still Plenty of Kinks in the Cord,neutral,-0.29337525367736816
+2014-02-19,"The technology, called pCell, is one of many techniques that companies are looking at to address the rising public appetite for mobile data, especially video.",neutral,0.1832398921251297
+2014-02-19,Wireless System Could Offer a Private Fast Lane,neutral,0.08686332404613495
+2014-02-20,"By helping people bypass exorbitant texting fees charged by mobile carriers, WhatsApp saved heavy users of texting a lot of money.",positive,0.8340423703193665
+2014-02-20,There’s a larger lesson here for all telecom carriers.,neutral,0.087661013007164
+2014-02-20,The Other Big Winner in the WhatsApp Deal: Your Wallet,neutral,0.07165868580341339
+2014-02-26,"The fourth-ranking carrier blew up the rules on smartphones and wireless contracts, to the benefit of many consumers.",negative,-0.8609153032302856
+2014-02-26,T-Mobile Turns an Industry on Its Ear,neutral,0.0038703083992004395
+2014-02-26,"The rise of mobile payments start-ups has raised questions of whether they could be nimble enough to quickly outflank telecommunications carriers, which have invested heavily in their own mobile payments operations.",positive,0.3852026164531708
+2014-02-26,The Payments Challenge for Mobile Carriers,neutral,-0.2828577160835266
+2014-03-05,"Sally Beauty Holdings said that it was investigating a security breach after a blogger said that hundreds of thousands of new credit cards had appeared in the underground market, some used recently at the beauty supply company.",negative,-0.9352185130119324
+2014-03-05,Sally Beauty Investigating Possible Credit Card Theft,negative,-0.4597662091255188
+2014-03-17,"The deal would give Vodafone, flush with cash after selling its Verizon Wireless stake, a way to go head-to-head against Telefónica in Spain.",positive,0.8748564124107361
+2014-03-17,Vodafone Agrees to Acquire the Spanish Cable Operator Ono for $10 Billion,positive,0.6297776103019714
+2014-04-02,The United States is 14th globally when it comes to offering fiber connectivity.,positive,0.5737088918685913
+2014-04-02,Municipalities that offer it are often small or rural.,neutral,-0.02274406887590885
+2014-04-02,"For the Tech-Savvy With a Need for Speed, a Limited Choice of Towns With Fiber",neutral,-0.08185719698667526
+2014-04-18,"Paul J. Taubman has single-handedly accounted for $175 billion in deals over the last year, which has had Wall Street bankers buzzing with a mix of admiration and envy.",neutral,0.26269373297691345
+2014-04-18,"Goldman, Citi, UBS ... and a Guy in an Office",neutral,-0.12287157773971558
+2014-04-23,Planned new rules would allow an Internet provider to negotiate separately with content companies like Disney or Google and charge for priority service.,neutral,0.056317251175642014
+2014-04-23,"F.C.C., in a Shift, Backs Fast Lanes for Web Traffic",neutral,0.2649756073951721
+2014-04-24,Planned new rules would allow an Internet provider to negotiate separately with content companies and charge them for priority service.,neutral,0.06468968093395233
+2014-04-24,Daily Report: F.C.C.,neutral,0.014069566503167152
+2014-04-24,to Propose a Web Fast Lane,neutral,0.06335309147834778
+2014-04-24,A proposal in the United States that would allow Internet providers to charge companies for more powerful transmission of web traffic is in sharp contrast to new rules in Europe that outlaw that kind of premium access.,neutral,-0.10930249094963074
+2014-04-24,U.S. Plan for Internet Fast Lanes Contrasts With European Rules,negative,-0.38491636514663696
+2014-04-25,"The sparring will be closely watched by every company that depends, even peripherally, on the Internet — which is to say, just about every company.",neutral,0.03216884657740593
+2014-04-25,Lobbying Efforts Intensify After F.C.C.,neutral,0.479333758354187
+2014-04-25,Tries 3rd Time on Net Neutrality,neutral,-0.04810085892677307
+2014-05-08,"The German carrier, which owns the T-Mobile brand, reported a 3.9 percent drop in quarterly earnings after investing heavily to challenge rivals like Verizon and AT&T.",negative,-0.9699835777282715
+2014-05-08,Deutsche Telekom Profit Falls Amid Aggressive Spending in U.S.,negative,-0.9539798498153687
+2014-05-19,"The X refers to an extra-fast, higher-capacity version of LTE available on about half of Verizon’s network, including in New York and Los Angeles.",neutral,0.06198561564087868
+2014-05-19,Verizon Wireless Names Faster Part of Its Network: XLTE,neutral,0.03216220438480377
+2014-05-19,Few industries have been as embroiled in merger mania as the telecommunications industry.,neutral,-0.4358132481575012
+2014-05-19,"Now, with another mega-deal in the works, how will others respond?",neutral,0.040276430547237396
+2014-05-19,Perhaps with even more consolidation.,positive,0.4952809512615204
+2014-05-19,Options for Rivals in Wake of AT&T’s Bid for DirecTV,neutral,0.055470094084739685
+2014-05-28,"The excess profits companies can extract from their customers when they face little or no competition — known to economists as “rents” — may be deepening income inequality, experts argue.",negative,-0.8677991032600403
+2014-05-28,Concentrated Markets Take Big Toll on Economy,negative,-0.430232435464859
+2014-05-30,"The revival dovetails with a growing programming trend: a desire among networks to give viewers more shows deemed worth watching — and discussing on social media — in real time, making it likelier that commercials will be seen.",positive,0.6170259714126587
+2014-05-30,"Underscoring Success of Live TV, Music Specials Will Make a Return",positive,0.5172151327133179
+2014-06-04,"A deal, long contemplated, would create a more formidable rival to the two largest wireless phone providers in the United States: Verizon and AT&T.",positive,0.8255618214607239
+2014-06-04,T-Mobile and Sprint Zeroing In on a $32 Billion Merger,neutral,0.00013809651136398315
+2014-06-04,Netflix said its message was one of many ways it is testing to notify customers about how their viewing experience is affected by their Internet service provider’s network.,neutral,0.006475023925304413
+2014-06-04,Netflix Points at Verizon for Delays in Streaming,negative,-0.9141964316368103
+2014-06-05,"With the deal, Sprint, which is majority-owned by Japan’s Softbank, would acquire T-Mobile, creating a more formidable rival to the two largest wireless phone providers in the United States, Verizon and AT&T.",positive,0.8309056758880615
+2014-06-05,Daily Report: Sprint and T-Mobile Move Closer to Merger,positive,0.8493049144744873
+2014-06-05,Sprint and T-Mobile have settled on the terms of a $32 billion deal.,positive,0.7202453017234802
+2014-06-05,| A maverick judge leaves his mark.,negative,-0.7451496124267578
+2014-06-05,| Valeant’s opaque business model has been revealed.,negative,-0.7085448503494263
+2014-06-05,| Assessing the effects of a multibillion-dollar penalty on BNP’s capital.,neutral,-0.05693461373448372
+2014-06-05,Morning Agenda: Sprint and T-Mobile Near a Deal of Their Own,neutral,0.13473185896873474
+2014-06-05,"The dust-up comes after the companies agreed that Netflix could pay Verizon to connect directly to its network, creating a faster connection that bypasses the go-between that carries most content through the Internet.",negative,-0.2808067500591278
+2014-06-05,Verizon Challenges Netflix’s Warning Messages Blaming It for Slow Streaming Service,negative,-0.928503155708313
+2014-06-06,The two companies say their merger would add a strong competitor to a market now dominated by AT&T and Verizon.,positive,0.858159601688385
+2014-06-06,Shifts in Wireless Market May Sway a Sprint Deal,negative,-0.9021223783493042
+2014-06-06,The two companies say their merger would add a strong competitor to a market now dominated by AT&T and Verizon.,positive,0.858159601688385
+2014-06-06,Daily Report: Changes in Wireless Market May Influence a Sprint Deal,neutral,-0.21597729623317719
+2014-06-06,"In a privacy report, the British telecommunications company said that the authorities in certain countries had direct access to its networks without having to use legal warrants.",neutral,0.04287610575556755
+2014-06-06,Vodafone Reveals Direct Access by Governments to Customer Data,neutral,0.04813317582011223
+2014-06-09,"Shareholders of the media company are to vote Monday on whether to divide the roles of chief executive and chairman, now held by Reed Hastings.",neutral,0.014959830790758133
+2014-06-09,Netflix Investors to Vote on C.E.O.-Chairman Split,neutral,0.040505826473236084
+2014-06-09,Antitrust regulators in Washington will have to assess whether a combined wireless company would be good for consumers.,neutral,0.018499299883842468
+2014-06-09,What a Merged Sprint and T-Mobile Would Look Like,neutral,0.044273220002651215
+2014-06-13,The commission has begun an investigation of Internet service providers at the same time that it is trying to define whether it has jurisdiction over their businesses.,neutral,-0.06596361100673676
+2014-06-13,F.C.C.,neutral,0.030943963676691055
+2014-06-13,Begins Investigation Into Quality of Internet Download Speeds,neutral,0.023181866854429245
+2014-06-17,"Senator Patrick J. Leahy and Representative Doris Matsui, both Democrats, filed bills that would ban deals similar to the recent agreement that allows Netflix to connect directly to Comcast’s system to avoid network congestion.",negative,-0.7993760108947754
+2014-06-17,Lawmakers Introduce Bill to Ban Paid Prioritization,neutral,-0.08066339790821075
+2014-06-26,The cancellation comes after Edward J. Snowden’s revelations that the National Security Agency had routine access to global data provided by telecom companies.,negative,-0.8738933205604553
+2014-06-26,"Irked by N.S.A., Germany Cancels Deal With Verizon",negative,-0.9403769373893738
+2014-07-03,"Also, how to get everything from an iPod, even if you didn’t buy it through the same computer.",neutral,0.02909136936068535
+2014-07-03,Prepaid Mobile Data Plans for International Travel,neutral,-0.035592421889305115
+2014-07-21,"Questions about the voice behind a commercial, and the essential nature of Slim Jim placement.",neutral,-0.01162736676633358
+2014-07-21,Q. and A.,neutral,0.0380171574652195
+2014-07-21,With Stuart Elliott,neutral,0.02111242711544037
+2014-07-22,"Verizon Communications has been selling many of its massive buildings in New York, which are being converted into condos, medical centers and hotels.",neutral,-0.058477982878685
+2014-07-22,"Verizon Slims Down, to Developers’ Delight",negative,-0.6829615235328674
+2014-09-16,The commission will consider changing a 2010 policy that excluded cellular companies from rules that prevent Internet providers from slowing down or blocking websites and apps.,neutral,0.08098901808261871
+2014-09-16,F.C.C.,neutral,0.030943963676691055
+2014-09-16,Revisits Net Neutrality Exemption for Mobile Broadband,neutral,0.18267822265625
+2014-10-01,Honda begins sale of its refreshed 2015 CR-V crossover; E.P.A.,neutral,0.4622373878955841
+2014-10-01,downgrades fuel economy rating on 2013-14 Mercedes-Benz C300 4-matic sedans.,negative,-0.8557531833648682
+2014-10-01,Wheelies: The Upscale CR-V Edition,neutral,0.034885942935943604
+2014-10-21,"Amid a price-cutting war in the American wireless industry, the Verizon juggernaut keeps growing, even though its prices are generally higher.",positive,0.8273067474365234
+2014-10-21,Verizon Reports Higher Profit During a Price-Cutting War,positive,0.8571144938468933
+2014-10-22,Strong customer growth suggests that a price-cutting war in the wireless industry is not eroding AT&T’s business.,positive,0.911448061466217
+2014-10-22,"AT&T Net Drops, but Customers Stay",negative,-0.9436184167861938
+2014-11-03,"SugarString, a Verizon-run website, highlights problems with the blurring of news and advertising, while The Texas Tribune, a nonpartisan news organization, is thriving.",neutral,-0.22023047506809235
+2014-11-03,"Journalism, Independent and Not",neutral,0.03717317432165146
+2014-11-04,"The cellular provider uses a unique identifier inserted into its customers’ web page requests to tailor advertising to them, raising concerns by online-privacy watchdogs.",negative,-0.9086184501647949
+2014-11-04,Verizon Wireless Under Fire for Ad-Targeting Program,negative,-0.7161658406257629
+2014-12-03,SugarString ran afoul of the public when The DailyDot reported in October that an editor recruiting journalists was warning them that the site would forbid reporting on “spying and net neutrality.”,negative,-0.9320629239082336
+2014-12-03,"Verizon Shuts Down SugarString, Site That Had Drawn Journalistic Criticism",negative,-0.8848117589950562
+2014-12-11,"Francis J. Shammo, Verizon’s chief financial officer, said the company planned to continue to invest in its FiOS fiber-optic network and its wireless systems regardless of the outcome of the broadband debate.",positive,0.579046905040741
+2014-12-11,Verizon Says Investment Will Be Unaffected by Net Neutrality Policy,neutral,-0.0066351257264614105
+2014-12-27,Even executives at the wireless phone companies say their industry has created a confounding abundance of competing plans.,negative,-0.7774168848991394
+2014-12-27,A Flurry of Varying Cellphone Offers Sows Confusion Among Consumers,negative,-0.4775082767009735
+2014-12-31,"Sony’s new partners will expand digital availability of the film, which will also have a wider theatrical release starting Friday.",positive,0.909452497959137
+2014-12-31,Sony’s ‘The Interview’ Is Set for On-Demand and Wider Online Viewing,neutral,0.04092256352305412
+2015-01-25,"Advertisers, and possibly other third parties, are finding ways to exploit a hidden tracking mechanism that Verizon Wireless users cannot delete.",neutral,0.04474122077226639
+2015-01-25,Verizon’s Mobile ‘Supercookies’ Seen as Threat to Privacy,negative,-0.6545424461364746
+2015-01-26,"People are spending more time on messaging apps, which many say allow for multimedia exchanges and commerce in a more intimate setting than on older social media sites.",neutral,0.07251162827014923
+2015-01-26,Daily Report: Why Messaging Apps Are So Hot,neutral,-0.2903675138950348
+2015-01-30,The wireless carrier is under pressure from privacy groups after it introduced tracking code that can’t be deleted by consumers.,negative,-0.9319053292274475
+2015-01-30,Verizon Wireless to Allow Complete Opt Out of Mobile ‘Supercookies’,neutral,0.1282671093940735
+2015-02-04,The company said just a few days ago that it did not intend to compete with the aggressive price cuts of other wireless carriers.,negative,-0.8370800614356995
+2015-02-04,Verizon Wireless Joins the Mobile Discount Parade,neutral,0.0437096543610096
+2015-02-06,"Three senators sent letters to the Federal Trade Commission and the Federal Communications Commission, saying that the tracking technology may violate consumers’ privacy and asking regulators to investigate Verizon’s practices.",negative,-0.7103348970413208
+2015-02-06,Lawmakers Call for Investigation Into Verizon’s Use of Mobile ‘Supercookies’,neutral,-0.35346418619155884
+2015-03-04,"As government bond yields worldwide get pushed down, corporate debt issuers edging toward junk status are in a sweet spot.",negative,-0.4954841732978821
+2015-03-04,Actavis’s Bond Sale Demonstrates Investor Hunger for High-Yield Debt,neutral,0.31878840923309326
+2015-03-18,T-Mobile is going after a new growth avenue — business customers — with simpler phone plans.,positive,0.8162262439727783
+2015-03-18,T-Mobile Aims to Make Phone Plans Easier for Businesses,neutral,0.4338047504425049
+2015-03-31,The move comes in response to criticism on Capitol Hill and elsewhere of the carrier’s user tracking program.,negative,-0.8041643500328064
+2015-03-31,Verizon Wireless Customers Can Now Opt Out of ‘Supercookies’,neutral,-0.0024234578013420105
+2015-04-17,"The FiOS Custom TV service will begin on Sunday, and offers a base $55 monthly package that includes some customization.",neutral,0.061178579926490784
+2015-04-17,Verizon to Offer Slimmer TV Channel Packages to Battle Streaming Rivals,positive,0.46398478746414185
+2015-04-23,"A dispute between Verizon and TV networks widened, as Disney said that the company’s smaller FiOS packages violated agreements with its cable networks.",negative,-0.9482390284538269
+2015-04-23,Disney Joins in Criticism of Verizon’s Cable Plan,negative,-0.777367115020752
+2015-04-23,Disney and Fox said they would not run a commercial for FiOS’s new cable package on some of their channels.,neutral,-0.22559577226638794
+2015-04-23,Resistance to Verizon FiOS Promotion,neutral,-0.014578312635421753
+2015-04-27,"The network, owned by Disney, says that the carrier’s new FiOS cable packages violate its contract.",negative,-0.9116668701171875
+2015-04-27,ESPN Sues Verizon Over New Cable Packages,negative,-0.9176074862480164
+2015-05-12,"Verizon’s $4.4 billion all-cash deal for AOL illustrates how the communications industry has changed, even if the underlying rationale has not.",neutral,0.3121650218963623
+2015-05-12,Verizon Bets on Video Ads in $4 Billion Deal for AOL,neutral,0.0815306305885315
+2015-05-12,"The move to buy AOL at $50 a share, a 17 percent premium over its closing price Monday, is an effort to expand Verizon’s digital and video offerings.",positive,0.8833707571029663
+2015-05-12,Daily Report: Verizon to Buy AOL for $4.4 Billion in Cash,neutral,0.17640802264213562
+2015-05-12,"Acquisitions were once a symbol of the company, but the onetime Internet titan had in recent years been dogged by rumors of deals it should pursue.",negative,-0.519038736820221
+2015-05-12,"AOL, a Digital Pioneer, With Another Chance to Reshape Itself",positive,0.8029013872146606
+2015-05-12,"AOL, the one-time king of media, is a shadow of its former self.",neutral,-0.2940918207168579
+2015-05-12,Its deal for Time Warner is regarded as the high-water mark of the dot-com bubble.,neutral,0.21341200172901154
+2015-05-12,AOL’s History of Growth and Decline,neutral,0.16610416769981384
+2015-05-12,"The video ad tech business may be the prize, but it faces threats from Google and others.",negative,-0.7657281756401062
+2015-05-12,This is just another silly deal involving AOL.,neutral,-0.37405234575271606
+2015-05-12,Verizon’s Dumb Pipes Are No Smarter With AOL,neutral,-0.29605668783187866
+2015-05-12,Credit for putting together the $4.4 billion deal goes to LionTree Advisors and Guggenheim Partners for Verizon and Allen & Company for AOL.,neutral,0.04193712770938873
+2015-05-12,Verizon-AOL Deal Put Together by Boutique Advisers,neutral,0.06766369193792343
+2015-05-12,The Verizon-AOL deal is just the latest corporate reaction to a staggering shift in the way people across the globe get their news and entertainment.,neutral,0.2715649902820587
+2015-05-12,"For Verizon and AOL, Mobile Is a Magic Word",neutral,0.09888666123151779
+2015-05-12,Verizon agreed to pay $90 million and Sprint $68 million to settle F.C.C.,neutral,0.08514025807380676
+2015-05-12,investigations into millions of dollars of unauthorized charges that appeared on customers’ cellphone bills.,negative,-0.6149664521217346
+2015-05-12,Verizon Wireless and Sprint to Pay $158 Million to Settle Billing Investigations,neutral,-0.21757405996322632
+2015-05-13,"In a merger with Verizon, AOL would gain a wealth of consumer data that it could use to personalize and target marketing messages.",positive,0.6619464159011841
+2015-05-13,Others are skeptical of the effort.,neutral,-0.12412931770086288
+2015-05-13,Verizon’s Deal for AOL Is a Push Into the Technology of Advertising,neutral,0.2927357852458954
+2015-05-14,"Verizon’s deal to buy AOL, which barely registers in financial terms, may be the signature transaction that vanquishes all perceptions of the company as a stodgy utility.",neutral,0.025932088494300842
+2015-05-14,Verizon Takes to the Battlefield,neutral,0.04432609677314758
+2015-05-14,"In a merger with Verizon, AOL would gain a wealth of consumer data that it could use to personalize and target marketing messages.",positive,0.6619464159011841
+2015-05-14,Others are skeptical of the effort.,neutral,-0.12412931770086288
+2015-05-14,Daily Report: Technology Behind Advertising Is at the Heart of Verizon’s Deal for AOL,neutral,0.10460922867059708
+2015-05-26,It’s unclear who the mystery bidders were before the Internet company decided to sell itself to Verizon for $4.4 billion.,neutral,0.017339982092380524
+2015-05-26,AOL Discloses It Had 3 Suitors Besides Verizon,neutral,-0.043679267168045044
+2015-06-02,Americans have long expressed dissatisfaction with their cable and Internet service.,negative,-0.9279715418815613
+2015-06-02,"This year, they seem to have grown even more dissatisfied.",negative,-0.8776786923408508
+2015-06-02,"Customer Satisfaction With TV, Internet and Phone Service at 7-Year Low, Study Finds",negative,-0.9194192886352539
+2015-06-03,It is not completely clear what Verizon might want with The Huffington Post or how a relationship between them might work.,neutral,0.0007660500705242157
+2015-06-03,"The future role of the site’s founder, Arianna Huffington, is also uncertain.",neutral,-0.30963134765625
+2015-06-03,Huffington Post in Limbo at Verizon,negative,-0.503172755241394
+2015-06-04,"T-Mobile is angling for more low-frequency airwaves, while Dish Networks has amassed mid-spectrum airwaves, until recently thought to be much less valuable.",neutral,0.03131401911377907
+2015-06-04,Questions on Spectrum Animate T-Mobile-Dish Merger Talks,neutral,-0.010026723146438599
+2015-06-11,The United States Court of Appeals for the District of Columbia Circuit denied numerous petitions to keep new Internet regulations from going into effect.,negative,-0.7609304785728455
+2015-06-11,Court Denies Requests to Keep New Net Neutrality Rules From Taking Effect on Friday,negative,-0.45275670289993286
+2015-06-12,"When it’s time for founders to pass the torch, a fallout can occur, leaving adult children feeling slighted.",negative,-0.8494511246681213
+2015-06-12,But proactive steps can help ease the transition.,positive,0.8476257920265198
+2015-06-12,Tough Choices for Succession in the Family Business,negative,-0.44894343614578247
+2015-06-18,"Ms. Huffington’s contract had expired this year, and there was speculation she might leave after the publication’s parent company, AOL, was acquired by Verizon.",negative,-0.7425699234008789
+2015-06-18,Arianna Huffington Renews Contract for Four Years,neutral,0.17276692390441895
+2015-06-23,The completion of the deal paves the way for the start of Verizon’s mobile-first video service.,positive,0.8667747378349304
+2015-06-23,Verizon Completes AOL Takeover,neutral,0.030909627676010132
+2015-06-26,"Tom Wheeler, head of the Federal Communications Commission, says the agency is already doing enough to increase competition among wireless companies.",positive,0.9010744094848633
+2015-06-26,F.C.C.,neutral,0.030943963676691055
+2015-06-26,Chairman Sees No Need to Set Aside More Airwaves for Smaller Cell Carriers,neutral,0.05821610242128372
+2015-06-30,"AOL will take over management and sales of display, mobile and video advertising that appears on Xbox, Skype and other Microsoft products in several countries.",neutral,0.0560772567987442
+2015-06-30,AOL in Deal With Microsoft to Take Over Display Ad Business,neutral,0.10023784637451172
+2015-06-30,"When the deal for Verizon to buy AOL was announced last month, executives from both companies said AOL was an appealing acquisition because of its advertising technology.",positive,0.7284843325614929
+2015-06-30,"On Monday, AOL showed some of that value in announcing a deal with Microsoft",positive,0.5747258067131042
+2015-06-30,Daily Report: AOL to Take Over Display Advertising for Microsoft,neutral,0.12326399981975555
+2015-07-14,The communications giant has teamed up with the youth-oriented media company in a multiyear deal as both companies hope to expand their reach.,positive,0.9148028492927551
+2015-07-14,Verizon to Add Vice Content to Its Coming Mobile Video Service,neutral,0.3723120093345642
+2015-09-02,The end of the two-year contract has spawned something perhaps more nefarious — endlessly bewildering options.,negative,-0.5727860927581787
+2015-09-02,We waded through them and found the best bets.,neutral,0.08188807219266891
+2015-09-02,Choosing the Best Smartphone Plan for You,neutral,0.09435947984457016
+2015-09-08,"Aimed at millennials, the service, Go90, will be available to all users, not just Verizon customers.",neutral,0.09029392153024673
+2015-09-08,"It will include shows from Comedy Central, Food Network, ESPN, NFL Network and Discovery.",neutral,0.05080084875226021
+2015-09-08,"Verizon to Offer Free Mobile TV, With an Eye on Millennials",neutral,0.23255622386932373
+2015-10-20,"Mr. Shaoul, 38, is the founder and principal of the Magnum Real Estate Group, which acquires, develops and manages residential and retail property in Manhattan and Brooklyn.",neutral,0.03237059339880943
+2015-10-20,A Conversation With Ben H. Shaoul,neutral,0.02632850408554077
+2015-11-04,"The agreement will bring daily league highlights, new original series and access to some live games to Verizon’s mobile video streaming service Go90.",positive,0.6922407746315002
+2015-11-04,Verizon and N.B.A.,neutral,0.0359533466398716
+2015-11-04,Form Partnership for Go90 Content,neutral,0.09661723673343658
+2015-11-26,Verizon is introducing a television ad encouraging people to enjoy family and friends rather than their small screens.,neutral,0.21663618087768555
+2015-11-26,Verizon Commercial Suggests a Thanksgiving Without Phones,neutral,-0.2894587516784668
+2015-12-09,"Barry Diller’s IAC/InterActive could be a logical home for its Internet businesses, as might Verizon, owner of AOL.",neutral,0.32391592860221863
+2015-12-09,Possible Suitors for Yahoo,neutral,-0.00527813658118248
+2015-12-16,Most smartphone plans either charge for overages or constrict data flow when limits are reached.,neutral,-0.2509661018848419
+2015-12-16,So knowing how much one is consuming is crucial.,neutral,-0.00106009840965271
+2015-12-16,"How to Track Data Use, and Choose the Right Smartphone Plan",neutral,0.0257667638361454
+2016-01-14,A merger boom last year has set the stage for a string of big bond transactions in 2016 as companies finance those purchases.,neutral,0.31989550590515137
+2016-01-14,Anheuser-Busch InBev Sets $46 Billion Bond Sale,neutral,0.05105769634246826
+2016-03-02,"The companies will offer streaming channels for mobile devices, beginning with a comedy channel and one for “millennials in the heartland.”",neutral,0.1110248789191246
+2016-03-02,Verizon and Hearst to Create TV for Mobile Millennial Viewers,neutral,0.10683510452508926
+2016-03-07,"The penalty, $1.35 million, was small, but the action drew wide attention from the telecom industry as a glimpse of the F.C.C.’s ambitions into privacy regulation.",negative,-0.49961215257644653
+2016-03-07,Verizon Settles With F.C.C.,neutral,-0.0609319806098938
+2016-03-07,Over Hidden Tracking via ‘Supercookies’,neutral,0.015054561197757721
+2016-03-10,The rules call for broadband providers to disclose how data about users’ online browsing may be collected and for better security of such data.,neutral,0.057906463742256165
+2016-03-10,F.C.C.,neutral,0.030943963676691055
+2016-03-10,Proposes Privacy Rules for Internet Providers,neutral,0.04472560063004494
+2016-03-31,"If you think you may be getting close to the monthly limits on your mobile phone plan, your carrier probably has a few places to check the meter.",neutral,-0.020396925508975983
+2016-03-31,Easy Ways to Keep Tabs on Your Data Usage,neutral,0.04161902144551277
+2016-04-06,The telecommunications giant will acquire a 24.5 percent stake in the digital entertainment network for teenagers.,neutral,0.25923073291778564
+2016-04-06,Verizon and AwesomenessTV to Form Mobile Video Service,neutral,0.06088227778673172
+2016-04-12,"The unions, representing employees in the East, say they have made little progress with management in the eight months since their contracts expired.",negative,-0.9485896229743958
+2016-04-12,"Two Unions Set Strike Deadline for 36,000 Verizon Workers",negative,-0.8623858690261841
+2016-04-13,"The work stoppage by nearly 36,000 Verizon workers has highlighted crucial questions about the place of middle-class jobs in an economy shifting toward tech.",negative,-0.8987661600112915
+2016-04-13,"In Verizon Strike, Blue-Collar Stress Hits the Sidewalks",negative,-0.8612896203994751
+2016-04-13,"Wireline customers who use landlines, high-speed Internet and television services may see a slowdown in service request responses.",negative,-0.9501132369041443
+2016-04-13,How the Verizon Strike Could Affect You,negative,-0.49525904655456543
+2016-04-14,"The East Coast workers who walked off the job Wednesday are largely employed in the wireline business, though a handful of wireless employees joined them.",negative,-0.8968533277511597
+2016-04-14,Many Verizon Customers Not Likely to Notice Strike,negative,-0.6536878943443298
+2016-04-19,The company’s first-quarter results put more pressure on it to find a buyer quickly for its Internet operations.,negative,-0.11327812075614929
+2016-04-19,"Yahoo’s Troubles Mount, and Revenue Shrinks, as It Vets Suitors",negative,-0.9671422243118286
+2016-04-20,Marissa Mayer needs to offload Yahoo’s core business before bidders like Verizon lose interest,negative,-0.7468953132629395
+2016-04-20,Yahoo’s First Quarter Adds Urgency to Sale Option,positive,0.6288545727729797
+2016-05-17,Research shows that presidential election years paralyze businesses that fear making their next moves with the future so uncertain.,negative,-0.9056096076965332
+2016-05-17,Election Years Are Steeped in Markets’ Least Favorite Thing: Uncertainty,neutral,0.05760600045323372
+2016-05-25,"There are two ways to take your phone overseas and get data — the frugal way, which requires a bit of tinkering, and the pay-full-price way.",neutral,-0.0035565122961997986
+2016-05-25,A Traveler’s Guide to Taking a Smartphone Abroad,neutral,0.06418673694133759
+2016-05-27,"The accord, after a walkout by nearly 40,000 workers that begin in mid-April, is said to include two key concessions by the company.",positive,0.6541169285774231
+2016-05-27,Verizon and Unions Reach an Agreement That May End Strike,neutral,-0.03232273459434509
+2016-05-30,"Verizon retreated on some major points and gained tools for paring down its work force in the tentative pact reached with unions representing nearly 40,000 striking workers.",negative,-0.8275638222694397
+2016-05-30,Verizon Strike to End as Both Sides Claim Victories on Key Points,positive,0.3061482310295105
+2016-06-12,"Giants like Comcast, AT&T and Verizon oppose plans to limit broadband providers’ ability to share users’ data and to open the market for set-top boxes.",negative,-0.7876734733581543
+2016-06-12,Cable Industry Mobilizes Lobbying Army to Block F.C.C.,neutral,-0.3346460461616516
+2016-06-12,Moves,neutral,0.03623265027999878
+2016-07-22,Verizon has long been considered a front-runner to buy Yahoo’s core internet businesses.,neutral,0.43135973811149597
+2016-07-22,An announcement could come as early as next week.,neutral,0.005806829780340195
+2016-07-22,Verizon Is Said to Be Near a Deal to Acquire Yahoo,neutral,0.06068814918398857
+2016-07-24,"It’s the end of the line for Yahoo as an independent company, once valued at $125 billion.",neutral,0.04381965473294258
+2016-07-24,Yahoo’s Sale to Verizon Ends an Era for a Web Pioneer,neutral,0.3286134898662567
+2016-07-25,"Verizon is buying an entity that has made repeated missteps, but one that could help it be a stronger contender for digital advertising revenue.",positive,0.819367527961731
+2016-07-25,Verizon Announces $4.8 Billion Deal for Yahoo’s Internet Business,neutral,0.4403098225593567
+2016-07-25,"The Verizon boss, Lowell McAdam, is betting the deal will help attract digital advertisers by meshing Yahoo with AOL, which Verizon bought last year.",positive,0.8094947934150696
+2016-07-25,Verizon and Yahoo: Internet Also-Rans With Big Hopes,neutral,0.10156811028718948
+2016-07-25,Here are answers to some common questions about the impact Verizon’s purchase will have on Yahoo’s numerous services.,neutral,-0.007444098591804504
+2016-07-25,Yahoo Mail and Tumblr and Flickr: What Happens Now?,neutral,-0.21271628141403198
+2016-07-25,"After a sale of its core internet business to Verizon, Yahoo will still have stakes in Alibaba and Yahoo Japan, along with cash and a collection of patents.",neutral,0.05610394477844238
+2016-07-25,"For Yahoo, Question Is What to Do With $40 Billion in Leftovers",neutral,-0.03876565396785736
+2016-07-26,"The sale of Yahoo’s core web business to Verizon for $4.83 billion caps a long downward spiral for the onetime pioneer, which at its height was valued at $125 billion.",positive,0.17840120196342468
+2016-07-26,What Goes Up Must Come Down: The End of Yahoo as We Know It,neutral,-0.13047564029693604
+2016-07-26,The company’s $4.8 billion sale to Verizon caps two decades of deals and non-deals that shaped internet history.,positive,0.49685466289520264
+2016-07-26,Yahoo Is a Case Study in Poor Timing,neutral,-0.09127360582351685
+2016-07-26,"Before she led Yahoo, while still at Google, Ms. Mayer spoke of the difficulties for media companies of capitalizing on their own content.",neutral,-0.21887359023094177
+2016-07-26,Marissa Mayer’s Media Problem at Yahoo Is Now Verizon’s to Solve,negative,-0.43652746081352234
+2016-07-26,"The company, which reported its worst quarterly revenue growth ever, is betting on live streaming video and direct response advertising to combat stagnant demand.",positive,0.13447079062461853
+2016-07-26,"Twitter, Grappling with Anemic Growth, Tries to Bolster Its Advertising Business",positive,0.9159152507781982
+2016-07-27,"With Twitter’s ad demand lower than expected and user growth stalled, now would be a good time for Jack Dorsey to find a suitor for his company.",neutral,-0.36443811655044556
+2016-07-27,Twitter Might Want to Steal From Yahoo’s Playbook,negative,-0.5046240091323853
+2016-07-27,"LionTree Advisors, which recently helped Verizon acquire Yahoo for $4.8 billion, has hired Jake Donovan as the president of its European operation.",neutral,0.056128039956092834
+2016-07-27,LionTree Hires JPMorgan Banker to Lead European Division,neutral,0.038500767201185226
+2016-07-29,The internet giant’s decision to sell its business is plagued with challenges that reveal how unusual deal structures can affect shareholders.,negative,-0.48960718512535095
+2016-07-29,Yahoo’s Sale to Verizon Leaves Shareholders With Little Say,negative,-0.650945782661438
+2016-07-30,"In amassing Yahoo, AOL and other online services, Verizon is preparing for the day when its most important clients are advertisers, not users.",neutral,0.027341118082404137
+2016-07-30,Yahoo and the Online Universe According to Verizon,neutral,0.027758387848734856
+2016-07-30,"Twitter, Facebook, Google and Amazon shared their second-quarter earnings reports, and Yahoo agreed to sell itself to Verizon for about $5 billion.",neutral,0.20343108475208282
+2016-07-30,Farhad’s and Mike’s Week in Tech: The Cautionary Tale of the Fall of Yahoo,neutral,-0.06771271675825119
+2016-08-11,"Ms. Huffington helped begin the media company, now owned by Verizon, in 2005 and will be focusing on her new venture, Thrive Global.",neutral,0.0442894771695137
+2016-08-11,Arianna Huffington Is Leaving Huffington Post,negative,-0.41849181056022644
+2016-09-07,Verizon’s acquisitions of Yahoo and AOL raise legitimate questions about the judgment of Verizon’s management.,negative,-0.47587716579437256
+2016-09-07,No Clear Logic in Verizon’s Digital Media Venture,neutral,-0.05292198061943054
+2016-09-22,"The company said user information was stolen by what it believed was a “state-sponsored actor,” without naming the country.",negative,-0.8696152567863464
+2016-09-22,Yahoo Says Hackers Stole Data on 500 Million Users in 2014,negative,-0.8853510022163391
+2016-09-23,"Yahoo already had plenty of problems, but the theft of data on 500 million users has thrown another wrench in the works.",negative,-0.9369946122169495
+2016-09-23,"Morning Agenda: Yahoo’s Hacking, Princeling Problem, Test for the Justice Dept.",neutral,-0.28939732909202576
+2016-09-23,"Questions swirl about whether Verizon’s $4.8 billion deal for Yahoo’s core business will be renegotiated, or happen at all.",negative,-0.6827351450920105
+2016-09-23,What the Hacking at Yahoo Means for Verizon,neutral,-0.21546131372451782
+2016-09-23,"Verizon could enact the deal’s material adverse change clause, or MAC clause, to try to drive down the price or terminate the sale entirely.",negative,-0.5453364849090576
+2016-09-23,How Yahoo’s Data Breach Could Affect Its Deal With Verizon,negative,-0.6319864988327026
+2016-09-24,"In Mike Isaac’s absence, Farhad Manjoo joins his boss, Pui-Wing Tam, for a discussion of the week’s technology news.",neutral,-0.2390001267194748
+2016-09-24,"Farhad’s and Pui-Wing’s Week in Tech: Yahoo’s Hacking, Self-Driving Cars and the Future of Twitter",neutral,0.006634064018726349
+2016-09-30,"Concerned that agencies’ largely white and male leadership is hindering efforts to connect with American consumers, some companies threaten to walk.",negative,-0.9390521049499512
+2016-09-30,Brands to Ad Agencies: Diversify or Else,neutral,0.11685891449451447
+2016-10-14,"Verizon’s top lawyer said the hacking of 500 million Yahoo email accounts, made public after the deal was announced, could justify reopening sale discussions.",negative,-0.44829198718070984
+2016-10-14,Verizon Says Yahoo Hack Could Reopen $4.8 Billion Deal Talks,neutral,0.23679548501968384
+2016-10-14,Verizon’s top lawyer said the company believed that the hacking of 500 million Yahoo email accounts might justify reopening sale talks.,neutral,-0.052745066583156586
+2016-10-14,"Morning Agenda: Verizon’s Doubts, SoftBank and Saudi Fund, Marcus Opens",neutral,0.00895802490413189
+2016-10-14,"Verizon, which was in talks to buy Yahoo’s core business for $4.8 billion, says the hacking materially reduced Yahoo’s value.",negative,-0.9549663066864014
+2016-10-14,Daily Report: Hacking on Yahoo May Knock Down Its Sale Price,negative,-0.9450415968894958
+2016-10-14,"After a role in commercials as the nameless “Test Man” looking for a cellular signal, Paul Marcarelli is playing himself.",neutral,-0.03086628019809723
+2016-10-14,"With Sprint, Former Verizon Actor Says, You Can Hear Him Just Fine",neutral,-0.0038850028067827225
+2016-10-15,Sometimes people forget that old guys can be geeks.,negative,-0.5887998938560486
+2016-10-15,"This week: How Samsung helped Apple, will Verizon win a discount, and a new riff on a classic excuse.",neutral,0.10041394829750061
+2016-10-15,"Jim’s and Nick’s Week in Tech: Smoldering Phones, the Yahoo Markdown and Amazon Music",negative,-0.6215848922729492
+2016-10-16,"The Yahoo report is of particular interest to investors, as the company is expected to stay quiet concerning the recent hacking and spying scandals that may imperil its pending sale to Verizon.",neutral,-0.01763012632727623
+2016-10-16,Earnings Reports for Goldman Sachs and Yahoo,neutral,0.013799984008073807
+2016-10-18,"Third-quarter earnings were higher than analysts had expected, though revenue was down 15 percent.",negative,-0.964133083820343
+2016-10-18,Yahoo Says Traffic Rose Despite Hacking That Could Alter Verizon Deal,positive,0.8825351595878601
+2016-10-19,Yahoo’s quarterly results revealed that traffic actually increased since it disclosed its hack in September.,positive,0.9142751693725586
+2016-10-19,But there are still concerns over Verizon’s agreement to buy the company.,negative,-0.8822507262229919
+2016-10-19,"Morning Agenda: Yahoo Traffic Increased, Veterans Get Disruptive, China Slows",negative,-0.7351909875869751
+2016-10-19,"Yahoo said more people visited the site in September, the same month the ailing company disclosed that hackers stole data on 500 million users in 2014.",negative,-0.6963985562324524
+2016-10-19,Daily Report: Explaining Yahoo’s Unexpected Jump in Traffic,positive,0.3289642333984375
+2016-10-29,AT&T’s and Verizon’s hopes of collecting and analyzing customer data to sell advertising may be dashed if they have to ask customers’ permission.,negative,-0.9570228457450867
+2016-10-29,Telecoms’ Ambitions on Targeted Ads Seen Curbed by F.C.C.’s New Privacy Rules,negative,-0.8869128823280334
+2016-10-31,"In a $25 billion deal, the two companies will combine to create one of the largest communications providers for businesses.",positive,0.7740094661712646
+2016-10-31,"CenturyLink, a Network Provider, to Acquire Level 3, a Rival",neutral,0.018812958151102066
+2016-11-10,"Yahoo first publicly disclosed the security breach on Sept. 22 this year, about two months after it struck a $4.8 billion deal with Verizon.",negative,-0.8644967675209045
+2016-11-10,Yahoo Employees Knew in 2014 About State-Sponsored Hacker Attack,negative,-0.7286871075630188
+2016-11-10,The latest assault on Yahoo’s reputation gives Verizon extra firepower to snag a better deal.,positive,0.7510987520217896
+2016-11-10,Yahoo’s Breach Gives Verizon Leverage in Deal Talks,negative,-0.7359054088592529
+2016-12-08,Shareholders should be willing to sell near an offer price rather than wait to see a merger close,neutral,0.10316505283117294
+2016-12-08,Investor’s Remorse Follows Buyer’s Remorse as Big Deals Fall Apart,negative,-0.6575062274932861
+2016-12-16,"A security researcher says hackers are offering records of more than 1 billion users, but as with the company’s stock, the price is dropping.",negative,-0.9487972855567932
+2016-12-16,Hacked Yahoo Data Is for Sale on Dark Web,neutral,-0.007783887907862663
+2016-12-20,"Despite the easy narrative that Yahoo is a loser in the tech industry, its business is stabilizing and Verizon has little to stand on to exit the merger.",negative,-0.8236591815948486
+2016-12-20,Why Verizon Can’t Quit Yahoo,neutral,-0.2918162941932678

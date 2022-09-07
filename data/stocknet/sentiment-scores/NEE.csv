@@ -1,0 +1,5 @@
+Date,Sentence,Prediction,sentimentScore
+2015-10-16,"T. Boone Pickens, the 87-year-old oil and gas tycoon, is embroiled in a battle over wind power in the Canadian province of Ontario.",negative,-0.8227459192276001
+2015-10-16,"For Pickens, Wind Claim May Be Last Power Play",neutral,0.009781360626220703
+2016-07-29,The power producer NextEra Energy wants to buy the bankrupt company’s 80 percent stake in the power transmission group Oncor Electric Delivery.,neutral,0.020678747445344925
+2016-07-29,Next Step in TXU Bankruptcy Is Up to the Courts and Regulators,neutral,0.0018261093646287918

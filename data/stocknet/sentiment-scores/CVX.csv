@@ -1,0 +1,65 @@
+Date,Sentence,Prediction,sentimentScore
+2014-01-15,The Italian energy giant has found that its drilling efforts have not produced enough natural gas to be commercially viable.,negative,-0.9577053189277649
+2014-01-15,Eni Is Said to Abandon Polish Shale Aspirations,neutral,-0.09257250279188156
+2014-02-27,The possible combination comes as Patton Boggs is trying to navigate changes in the legal industry since the 2008 financial crisis.,neutral,0.12367773056030273
+2014-02-27,Patton Boggs in Early Merger Talks With Squire Sanders,neutral,-0.027403317391872406
+2014-03-04,The oil company had sued a Manhattan lawyer leading the pollution case and his associates on fraud and conspiracy allegations.,negative,-0.8526574373245239
+2014-03-04,Big Victory for Chevron Over Claims in Ecuador,positive,0.7729541659355164
+2014-05-07,The powerful Washington law firm had been a leader in an effort to force the oil company to pay a $9.5 billion judgment by a court in Ecuador.,negative,-0.5942065715789795
+2014-05-07,Patton Boggs Settles Dispute With Chevron Over Pollution Case,negative,-0.8119873404502869
+2014-05-22,Work on behalf of Ecuadorian clients in a case against Chevron continues to haunt the law and lobbying force in Washington.,neutral,-0.059301454573869705
+2014-05-22,Potential Partner for Patton Boggs Suspends Merger Vote,negative,-0.6964970827102661
+2014-05-23,"Patton Boggs, a Washington lobbying and legal powerhouse for decades, is merging with the larger firm in a move that saves it from drift or dissolution.",neutral,0.11239994317293167
+2014-05-23,Powerful Law Firms Patton Boggs and Squire Sanders Will Join Forces,neutral,0.04059666395187378
+2014-08-11,The pipeline group Kinder Morgan plans to reorganize as a single corporation.,neutral,0.03824494034051895
+2014-08-11,| The drop in Treasury yields has confounded experts.,negative,-0.9157916307449341
+2014-08-11,| An investor group is considering legal action after being burned by losses on Portuguese bank bonds.,negative,-0.9335829019546509
+2014-08-11,| A Stanford finance professor is rapidly gaining a broader audience.,positive,0.49798983335494995
+2014-08-11,Morning Agenda: Kinder Morgan to Consolidate,neutral,0.033271439373493195
+2014-10-24,Wealthy people and those less so have more in common than most pundits would suspect.,neutral,0.07136376202106476
+2014-10-24,"In Some Ways, the Rich Aren’t So Different From You and Me",neutral,-0.05399589613080025
+2014-10-31,The two largest American oil companies said their refining businesses more than made up for the recent drop in the price of crude oil.,positive,0.23541100323200226
+2014-10-31,"At Exxon Mobil and Chevron, Refining Businesses Support Earnings",neutral,0.010166509076952934
+2015-01-09,"Oil’s price plunge hurt energy funds, but investors may still be able to make good bets by focusing on specific pieces of the industry.",negative,-0.8157909512519836
+2015-01-09,"Trying to Capitalize on Lower Oil Prices, Through E.T.F.s",positive,0.5383474826812744
+2015-01-29,The joint effort is a reflection of the pressure on oil companies to hold down spending and share risk as oil prices continue to drop.,negative,-0.4561196565628052
+2015-01-29,Chevron and BP in Deal to Search for Oil Deep Beneath the Gulf of Mexico,negative,-0.4570206105709076
+2015-01-30,The decision was perhaps the biggest setback yet to fledgling efforts to start a European shale oil and gas industry.,negative,-0.4428095817565918
+2015-01-30,Chevron to Abandon Shale Natural Gas Venture in Poland,neutral,-0.2374366819858551
+2015-01-31,"Energy experts said the sudden increase could be explained by various factors, including reports that the Islamic State terrorist group was advancing in an offensive near Iraq’s northern oil fields.",negative,-0.6703097224235535
+2015-01-31,Oil Prices Surge 8% After Long Slide Down,positive,0.2776618003845215
+2015-06-02,"The dropping revenue has inspired changes of tactics by British leaders as well as Scottish nationalists, who had counted on oil as an economic mainstay.",negative,-0.6948475241661072
+2015-06-02,Decline of North Sea Oil Fields Forces Political Shifts in Britain,negative,-0.5974831581115723
+2015-07-03,"Remoteness and environmental concerns piled costs on the Gorgon liquefied natural gas project, just as energy prices slumped.",negative,-0.9456048011779785
+2015-07-03,Logistics and Lizards Disrupt Chevron’s Project Off Australia,negative,-0.9144415855407715
+2015-07-16,"The major oil companies did not bid, and only two blocks were successfully auctioned.",neutral,0.01655389741063118
+2015-07-16,Mexico Auctions Oil Blocks in Attempt to Increase Production,neutral,0.2700434625148773
+2015-07-31,Declining oil and natural gas prices contributed to the companies’ disappointing second-quarter results.,negative,-0.9513537883758545
+2015-07-31,Exxon and Chevron Report Worst Quarterly Results of Current Decade,negative,-0.9420583248138428
+2015-08-14,"The technology that unlocked the oil in shale fields produced a boom to Karnes County, Tex., but the economy there is cooling fast.",neutral,0.15070569515228271
+2015-08-14,Low Oil Prices Pose Threat to Texas Fracking Bonanza,negative,-0.7612379193305969
+2015-09-04,The ruling is the latest step in a 13-year legal battle over the contamination of a rain forest in Ecuador.,negative,-0.5538572072982788
+2015-09-04,Court Says Chevron Can Be Pursued in Canada Over Ecuadorean Damage,neutral,0.08082904666662216
+2015-10-26,"This week, data on durable goods orders, consumer confidence and economic growth will be released.",neutral,0.0619041882455349
+2015-10-26,"In addition, several companies including Apple and Exxon Mobil will report earnings.",positive,0.5851646661758423
+2015-10-26,"Apple Earnings, United States Economic Data and Oil Results",neutral,-0.023495424538850784
+2015-10-30,Exxon Mobil reports a 37 percent drop in revenue and Chevron says it plans to cut up to 10 percent of its workforce.,negative,-0.9628379344940186
+2015-10-30,Chevron and Exxon Post Declining 3rd-Quarter Results,negative,-0.9689366817474365
+2015-11-06,The start of an inquiry by the New York attorney general’s office into Exxon Mobil’s record on climate change could lead to additional legal actions involving other major energy companies.,negative,-0.5325368046760559
+2015-11-06,More Oil Companies Could Join Exxon Mobil as Focus of Climate Investigations,neutral,0.01926676742732525
+2015-12-12,"Oil prices, down almost two-thirds over the past 16 months, declined again on Friday on reports that it may have even further to fall next year.",negative,-0.9595774412155151
+2015-12-12,Wall Street Slips on Oil’s Big Drop,negative,-0.8512235283851624
+2016-02-02,"BP wrote down the value of its oil and gas assets by $1.6 billion in the fourth quarter of 2015, and said it would continue cutting jobs.",negative,-0.9594117403030396
+2016-02-02,Exxon Mobil’s Profits Fall and BP Cites Low Oil Prices in $3.3 Billion Loss,negative,-0.9546162486076355
+2016-04-29,"Recovery in the oil industry will be slow and patchy, but the worst is probably past.",negative,-0.7303206920623779
+2016-04-29,Exxon Mobil May Have Hit Its Low Point,negative,-0.7457605600357056
+2016-05-23,"Also, activist shareholders at Exxon Mobil and Chevron are expected to make climate change an issue at annual meetings, while workers plan to protest at the McDonald’s shareholder meeting.",negative,-0.8429257273674011
+2016-05-23,"Russia Seeks Changes for Growth, and Greek Debt Talks Linger",neutral,0.06428118050098419
+2016-07-05,"Though the move looks to be unusual at a time of low oil prices, analysts say the field has been lucrative and important for Chevron and its partners.",positive,0.8309652805328369
+2016-07-05,Chevron Approves $37 Billion Expansion of Kazakh Oil Field,positive,0.8583688735961914
+2016-10-19,"The biggest oil producers are proving surprisingly adept at pumping profits, and oil, out of the ground.",positive,0.818572998046875
+2016-10-19,"After Lean Years, Big Oil May Emerge Stronger Than Ever",positive,0.8520427346229553
+2016-10-28,The company may have to concede that 3.6 billion barrels of oil-sand reserves and a billion barrels of other reserves are currently not profitable to produce.,negative,-0.929637610912323
+2016-10-28,Exxon Concedes It May Need to Declare Lower Value for Oil in Ground,negative,-0.851299524307251
+2016-12-06,"Looking beyond current low oil prices, the companies paid billions in an auction of deepwater drilling rights in the Gulf of Mexico.",positive,0.5935876369476318
+2016-12-06,Oil and Gas Industry Leaders Eagerly Take Stakes in Mexican Offshore Fields,neutral,0.17942018806934357

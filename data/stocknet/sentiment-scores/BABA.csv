@@ -1,0 +1,436 @@
+Date,Sentence,Prediction,sentimentScore
+2014-01-08,"With its decision not to allow the sale of Bitcoins on its website, the Alibaba Group becomes the latest in a chorus of governments and businesses to raise questions about the virtual currency.",neutral,0.12504424154758453
+2014-01-08,Chinese E-Commerce Giant Alibaba to Ban Bitcoins on Its Sites,negative,-0.8318415880203247
+2014-01-14,"Joe Tsai holds the keys to what will most likely be the largest initial public offering of this generation — Alibaba, the Chinese e-commerce giant.",neutral,0.2753656208515167
+2014-01-14,The Man Behind Alibaba’s Eventual I.P.O.,neutral,0.05182386934757233
+2014-01-16,"Tencent, one of the country’s online powers, is moving further into the mainstay of another titan, Alibaba.",neutral,0.4748767912387848
+2014-01-16,E-Commerce Competition Intensifies in China,neutral,0.3908059597015381
+2014-01-24,"Citic 21CN’s shares rose by as much as 500 percent as investors bet Alibaba might try to use the company as a shell for a “backdoor” listing in Hong Kong, but the trades may prove overly optimistic.",positive,0.8040260076522827
+2014-01-24,Investment by Alibaba Creates Frenzy Over Chinese Pharmaceutical Data Firm,negative,-0.8029885292053223
+2014-01-28,Alibaba’s acquisition of a sleepy technology company set of a flurry of speculation.,neutral,-0.0036300495266914368
+2014-01-28,"After Alibaba’s public debut, scrutiny of its deals will only intensify, the Deal Professor writes.",neutral,0.028945647180080414
+2014-01-28,Answers to a Puzzling Deal at Alibaba Remain in the Shadows,neutral,-0.3949723541736603
+2014-01-30,"JD.com, one of China’s biggest e-commerce companies, said in a regulatory filing on Thursday that it planned to raise $1.5 billion this year in an initial public offering in the United States.",positive,0.5220381617546082
+2014-01-30,An Alibaba Rival Plans Its Own I.P.O.,neutral,-0.006720857694745064
+2014-01-30,This Year,neutral,0.10642495006322861
+2014-02-10,A confidential email shows a top Chinese insurance regulator directly asked JPMorgan Chase’s chief for a “favor” to hire a young job applicant.,neutral,-0.0067719221115112305
+2014-02-10,"| Steven A. Cohen, the founder of SAC Capital Advisors, remains as elusive as ever.",neutral,-0.2966686189174652
+2014-02-10,| Alibaba seeks control of AutoNavi.,neutral,-0.009008225053548813
+2014-02-10,| Apple gains an ally in the fight against Carl C. Icahn.,positive,0.7229744791984558
+2014-02-10,| Stealth I.P.O.’s are on the rise.,positive,0.6373811960220337
+2014-02-10,A Chinese Official’s Job Plea to JPMorgan’s Chief,negative,-0.6445578932762146
+2014-02-11,"There is a compelling competitive reason for Alibaba to get deeper into online maps, but what’s hard to locate is the financial rationale, write Robyn Mak and John Foley of Reuters Breakingviews.",neutral,0.19499105215072632
+2014-02-11,Alibaba’s Online Land Grab,neutral,0.04362316057085991
+2014-02-27,"For now, SoftBank, through its stake in Alibaba, is one of the few ways for public investors to gain exposure to the Chinese e-commerce giant.",neutral,0.08992091566324234
+2014-02-27,"But that advantage will disappear when Alibaba goes public, writes Una Galani of Reuters Breakingviews.",neutral,-0.3752172589302063
+2014-02-27,SoftBank’s Investment in Alibaba May Turn Into a Burden,neutral,0.057621318846940994
+2014-03-03,"The sector’s growth is intensifying competition for deposits and putting pressure on state-run banks, which are struggling with a severe cash squeeze.",negative,-0.9003973007202148
+2014-03-03,High-Interest Web Banks on the Rise in China,neutral,0.02078980952501297
+2014-03-10,"The Chinese Internet company said it would pay $215 million for a 15 percent stake in JD.com as the two firms seek to challenge the dominance of Alibaba, China’s largest e-commerce company.",positive,0.7095247507095337
+2014-03-10,China’s Tencent to Buy Stake in JD.com as Part of E-Commerce Push,neutral,0.1375969797372818
+2014-03-12,"Shares in a Hong Kong media group began to rally well before the announcement that Alibaba, the Chinese e-commerce giant, had reached an $804 million deal to buy control of the company.",positive,0.7903208136558533
+2014-03-12,Shares in a Media Group Soar Well Before Alibaba Makes a Deal,positive,0.3510587215423584
+2014-03-13,"Investors may be betting that Alibaba will move into digital entertainment, but they are too easily excited, contends Robyn Mak of Reuters Breakingviews.",neutral,-0.00766386091709137
+2014-03-13,Star-Struck by Alibaba’s Movie Company Deal,neutral,0.4122700095176697
+2014-03-14,The Chinese e-commerce titan Alibaba is said to be planning to follow the social network Weibo into filing for an I.P.O.,neutral,0.0011482574045658112
+2014-03-14,"in New York, rather than in Hong Kong.",neutral,-0.26040494441986084
+2014-03-14,China’s Online Goliaths Prepare Public Offerings in U.S.,neutral,0.004435352981090546
+2014-03-16,"In a post on its corporate blog, the company said it plans to list on an American stock market to become “a more global company.”",neutral,0.3665745258331299
+2014-03-16,Alibaba Confirms It Will Begin I.P.O.,neutral,0.0754157155752182
+2014-03-16,Process in U.S.,neutral,0.01532105915248394
+2014-03-17,"The growth of the Twitter-like Chinese microblog Weibo comes with some hairy regulatory risks, John Foley of Reuters Breakingviews writes.",neutral,0.10810911655426025
+2014-03-17,Weibo I.P.O.,neutral,0.05954178050160408
+2014-03-17,Sets a Low Bar for Alibaba,neutral,-0.24614588916301727
+2014-03-20,"Tango, a leading player in free mobile messaging, has raised $280 million from investors, including China’s leading e-commerce company.",positive,0.8167648911476135
+2014-03-20,Tango Messaging App Dances With Alibaba,neutral,0.05916551500558853
+2014-03-26,"The Chinese e-commerce giant Alibaba’s most recent push into innovative finance gives investors, for as little as $16, a small role in getting films produced.",neutral,0.2883188724517822
+2014-03-26,Alibaba to Make Movies With Crowdfunding Idea,neutral,0.0663990005850792
+2014-03-31,The e-commerce giant has agreed to pay nearly $700 million for a minority stake in Intime to form an “online-to-offline” joint retail business.,positive,0.765264630317688
+2014-03-31,Alibaba Ventures Offline With Stake in Chinese Retail Group,neutral,-0.17541228234767914
+2014-04-02,"Lyft, one of the big players in the nascent-but-booming ride-sharing industry, said on Wednesday that it had raised $250 million from a group that includes the Chinese e-commerce titan Alibaba Group and the investment firm Third Point.",positive,0.7878112196922302
+2014-04-02,"Lyft Raises $250 Million From Alibaba, Third Point and Others",neutral,0.29727795720100403
+2014-04-11,"AutoNavi Holdings, which holds a rare mapping license from the Chinese government, has agreed to sell itself to the Alibaba Group in a deal that values it at $1.5 billion.",neutral,0.16943229734897614
+2014-04-11,Alibaba to Acquire Chinese Mapping Firm as Buying Spree Continues,neutral,0.26234933733940125
+2014-04-15,"Yahoo’s shareholders are far more excited about what the company owns — namely, 24 percent of Alibaba — than anything the company runs.",neutral,0.09018010646104813
+2014-04-15,Yahoo Profit Is a Footnote to Alibaba’s Huge Gains,neutral,0.09264111518859863
+2014-04-16,"An after-hours rise in Yahoo’s stock price was because its shareholders were far more excited about what the company owns — namely, 24 percent of Alibaba — than anything the company runs.",positive,0.719005823135376
+2014-04-16,Daily Report: Growth of Alibaba Propels Interest in Yahoo,positive,0.8888016939163208
+2014-04-28,The e-commerce giant’s deal for a minority stake in Youku Tudou extends a recent frenzy of acquisitions in China’s fast-growing technology sector.,positive,0.9067599177360535
+2014-04-28,Alibaba Buys Stake in Chinese Web TV Company for $1.2 Billion,neutral,0.13989511132240295
+2014-04-30,"While the Silicon Valley elite may not seem to care about the coming stock offering, it could signal the start of a global fight for users.",negative,-0.7637115716934204
+2014-04-30,Alibaba I.P.O.,neutral,0.05655376613140106
+2014-04-30,May Unleash Global Fight Over Users,neutral,-0.06296119093894958
+2014-05-01,Chatter ahead of Alibaba’s I.P.O.,neutral,0.09758801758289337
+2014-05-01,| A look at why only one top banker has gone to jail after the financial crisis.,neutral,-0.33080577850341797
+2014-05-01,| A federal regulator says banks erred on troubled mortgages.,negative,-0.9136995077133179
+2014-05-01,| Facebook changes its rules for log-ins.,negative,-0.6158922910690308
+2014-05-01,Awaiting Alibaba’s I.P.O.,neutral,0.0542796365916729
+2014-05-06,"When investors buy shares in an American offering of Alibaba, what exactly will they be buying?",neutral,0.021617580205202103
+2014-05-06,asks Steven M. Davidoff in the Deal Professor column.,neutral,0.022989589720964432
+2014-05-06,Alibaba Investors Will Buy a Risky Corporate Structure,neutral,-0.11449616402387619
+2014-05-07,One of the less-appreciated elements of Alibaba’s voluminous prospectus is its mergers and acquisitions strategy.,neutral,-0.012803822755813599
+2014-05-07,Alibaba’s Acquisition Strategy: Focused Largely on China and Mobile,neutral,0.031800277531147
+2014-05-08,"Yahoo could be tempted to throw money at acquisitions or costly internal projects from cash on hand after the Alibaba I.P.O., Richard Beales writes in Reuters Breakingviews.",negative,-0.8527196049690247
+2014-05-08,Tough Task for Yahoo: Spending Its Alibaba Windfall Wisely,neutral,0.1114654690027237
+2014-05-10,Notable quotes from business articles that appeared in The New York Times last week.,neutral,0.01611744984984398
+2014-05-10,"The Chatter for Sunday, May 10",neutral,0.030252568423748016
+2014-05-12,"The Alibaba Group said on Monday that it had hired James R. Wilkinson, a former senior official of the Treasury Department, as its new head of international corporate affairs.",neutral,0.17761671543121338
+2014-05-12,Alibaba Hires Former Treasury Official as Communications Executive,neutral,-0.04731424152851105
+2014-05-21,"The initial public offering for JD.com raised $1.78 billion, valuing the company at nearly $26 billion and whetting investors’ appetites for an Alibaba I.P.O.",positive,0.606357991695404
+2014-05-21,Web Retailer JD.com’s I.P.O.,neutral,0.0003647543489933014
+2014-05-21,Shows a Hunger for China,neutral,0.05220244824886322
+2014-05-22,"JD.com has made questionable governance moves, including making a huge gift of stock to the company’s chief executive, Robyn Mak of Reuters Breakingviews writes.",negative,-0.8595649600028992
+2014-05-22,"Despite Poor Governance, JD.com Is Fast Off the Block",negative,-0.5292955636978149
+2014-05-23,"The web giant is backing start-ups in Silicon Valley and introducing an online marketplace, 11 Main, aimed at U.S. shoppers and meant to compete with eBay.",positive,0.7054815292358398
+2014-05-23,Alibaba’s American Aspirations,neutral,0.031204968690872192
+2014-05-28,The Chinese e-commerce giant said Wednesday that it would pay about $250 million for 10 percent of the privatized postal system.,neutral,0.22490252554416656
+2014-05-28,Alibaba to Buy Stake in Singaporean Postal System,neutral,0.08227407932281494
+2014-06-05,The e-commerce giant Alibaba said on Thursday that it would buy 50 percent of Guangzhou Evergrande F.C.,neutral,0.11260368674993515
+2014-06-05,"from the team’s parent company, the Evergrande Real Estate Group.",neutral,0.03955402970314026
+2014-06-05,Alibaba to Take Stake in Chinese Soccer Team,neutral,0.027618039399385452
+2014-06-06,"The $192 million investment in Guangzhou Evergrande is the latest example of Alibaba’s scattershot approach to deal-making, writes Peter Thal Larsen of Reuters Breakingviews.",neutral,0.1589115560054779
+2014-06-06,What a Soccer Deal Says About Alibaba,neutral,0.05369875207543373
+2014-06-11,"The Chinese e-commerce giant, continuing an acquisition spree before its initial public offering, forms closer ties to a potentially important partner in the mobile sector.",positive,0.8636369109153748
+2014-06-11,Alibaba Buys Rest of the Mobile Browser UCWeb,neutral,0.06371188908815384
+2014-06-12,Phil Mickelson did not trade in shares of Clorox as Carl C. Icahn was mounting a takeover bid for the company in 2011.,neutral,-0.04233339801430702
+2014-06-12,"| For Goldman, Alibaba is a symbol of what could have been.",neutral,0.0734073743224144
+2014-06-12,| Goldman and Bain Capital agreed to end a lawsuit involving the “club deal.” | Hillshire’s conundrum.,neutral,-0.17137430608272552
+2014-06-12,Morning Agenda: Mickelson Not Linked to Clorox,neutral,-0.06735733151435852
+2014-06-16,"Members of Alibaba’s management team are scheduled to hold a series of informal meetings with investors in several American cities, according to people briefed on the matter.",neutral,-0.005997518077492714
+2014-06-16,Alibaba Drops In to Say Hi to Institutional Investors in U.S.,positive,0.4007734954357147
+2014-06-17,The Supreme Court hands Argentina two defeats.,negative,-0.5316524505615234
+2014-06-17,| A study puts insider trading suspicions into hard numbers.,negative,-0.7217607498168945
+2014-06-17,| Medtronic’s deal for Covidien has reignited the debate over inversions.,negative,-0.8012938499450684
+2014-06-17,| Alibaba reveals more information in an amended I.P.O.,neutral,0.023014497011899948
+2014-06-17,prospectus.,neutral,0.06058353930711746
+2014-06-17,Morning Agenda: Argentina’s Court Loss Buoys Creditors,negative,-0.7625290155410767
+2014-06-26,"The choice is a major victory for the exchange, for what is expected to be one of the biggest initial public offerings in years.",positive,0.8923996090888977
+2014-06-26,Alibaba’s ticker symbol will be BABA.,neutral,0.05365653708577156
+2014-06-26,"Alibaba, Chinese Internet Giant, Picks N.Y.S.E.",neutral,0.14148376882076263
+2014-06-26,for Its Listing,neutral,0.04276331141591072
+2014-07-07,There are three major differences between the way e-commerce works in the United States and in China.,neutral,-0.04047822952270508
+2014-07-07,Learning the Secrets of E-Commerce in China,neutral,0.1355823278427124
+2014-07-10,"As Yahoo assembles a media empire through acquisitions under Ms. Mayer’s leadership, the gathering of media moguls would seem to be a natural hunting ground.",neutral,0.10433769971132278
+2014-07-10,Tracking Sun Valley’s Most Wanted Guest: Marissa Mayer,neutral,-0.002887353301048279
+2014-07-15,"Shares of the tech company fell on disappointing earnings, even though it closed a deal to hang onto more of its stake in the Chinese Internet company Alibaba.",negative,-0.9546841979026794
+2014-07-15,Slump in Advertising Sales Dragged Quarterly Revenue Down at Yahoo,negative,-0.9575026631355286
+2014-07-16,"In a Q. and A., Porter Erisman, a former Alibaba vice president who made a documentary about the company, discusses life at Alibaba’s early days and working with Jack Ma.",neutral,0.0061496552079916
+2014-07-16,A Westerner’s Inside View of Alibaba Successes and Failures,neutral,0.10671408474445343
+2014-07-17,The move does not come as a total surprise.,neutral,0.0612000972032547
+2014-07-17,"In order for the company to hit its intended pricing date of Aug. 6, it would have had to begin its road show to investors next week.",neutral,-0.04762375354766846
+2014-07-17,Alibaba Said to Have Pushed Its I.P.O.,negative,-0.6395488381385803
+2014-07-17,Back to September,neutral,-0.025241851806640625
+2014-07-18,AbbVie agreed on Friday to buy the Irish drug maker Shire for around $54 billion.,neutral,0.21376024186611176
+2014-07-18,| Alibaba has pushed its I.P.O.,negative,-0.5596975684165955
+2014-07-18,to September.,neutral,0.053301651030778885
+2014-07-18,| Growth in wealth management bolstered Morgan Stanley’s second-quarter profit.,positive,0.9324846863746643
+2014-07-18,| New York State’s top financial regulator has proposed regulations for virtual currency companies.,neutral,0.13271649181842804
+2014-07-18,Morning Agenda: AbbVie Wins Deal for Shire,positive,0.8112658262252808
+2014-07-21,"In response to an article in The New York Times, Alibaba discounted the notion that connections of its investors helped drive its business.",neutral,-0.015457384288311005
+2014-07-21,"Alibaba Says It Relies on Markets, Not Connections",neutral,0.016040077432990074
+2014-07-29,"Flipkart, an online marketplace in India, says it raised $1 billion in its latest round of fund-raising, making it second only to Uber’s $1.2 billion round.",positive,0.8747707009315491
+2014-07-29,Indian E-Commerce Firm Flipkart Raises Eye-Popping $1 Billion,positive,0.7598844766616821
+2014-07-30,"If a deal was reached, it would represent a big bet on the future of Snapchat.",positive,0.6145139336585999
+2014-07-30,"Alibaba, meanwhile, has stepped up its venture capital investments as it prepares for its I.P.O.",positive,0.6961018443107605
+2014-07-30,Snapchat Said to Have Had Talks With Alibaba on Potential Investment,neutral,0.06715000420808792
+2014-08-01,"With Alibaba aiming to go public, Yahoo’s chief executive, Marissa Mayer, will soon find out how investors value the businesses she actually runs, Richard Beales writes in Reuters Breakingviews.",neutral,0.023197250440716743
+2014-08-01,Marissa Mayer’s Post-Alibaba Reckoning,neutral,-0.0048916637897491455
+2014-08-05,"A buying spree among technology companies has revolutionized the venture capital business model, Steven Davidoff Solomon writes in the Deal Professor.",positive,0.7391056418418884
+2014-08-05,New Buying Strategy as Facebook and Google Transform Into Web Conglomerates,neutral,0.4428991675376892
+2014-08-12,The Chinese e-commerce behemoth discloses that it has reworked its bonds with its online payments affiliate — and should be reaping more money from that relationship in the future.,positive,0.5719470977783203
+2014-08-12,Alibaba Aims to Collect More Money From Its Payments Affiliate,neutral,0.21541373431682587
+2014-08-13,Alibaba has rejiggered relations with its Alipay affiliate weeks before its planned initial public offering.,positive,0.5261224508285522
+2014-08-13,"The move reduces the risk of regulatory interference, Peter Thal Larsen of Reuters Breakingviews writes.",positive,0.8564011454582214
+2014-08-13,Alibaba Aims for a Neater I.P.O.,neutral,0.3150804936885834
+2014-08-15,Investors may wonder if the Chinese e-commerce giant has done all its homework in its recent buying spree.,neutral,0.27981293201446533
+2014-08-15,Tracking Alibaba’s Buying Spree,neutral,0.07385237514972687
+2014-08-27,"The Chinese e-commerce reported a staggering $2 billion of profit on $2.5 billion in revenue for its most recent quarter, as more details emerged about its I.P.O.",positive,0.5078228116035461
+2014-08-27,aimed for mid-September.,neutral,0.021015144884586334
+2014-08-27,"Mobile Sales Lift Alibaba Profit Nearly Threefold, Ahead of I.P.O.",positive,0.8712009191513062
+2014-08-29,"Hong Kong Exchanges and Clearing, the stock market operator, is seeking public views about changing its “one share, one vote” principle, which doesn’t allow for corporate structures like Alibaba’s partnership committee.",neutral,0.05727677792310715
+2014-08-29,"After Loss of Alibaba I.P.O., Hong Kong Weighs Changes to Its Listing Rules",neutral,0.05544152110815048
+2014-08-30,"Under the latest timetable, Alibaba will hope to price its stock sale toward the later half of the week of Sept. 15, a person briefed on the matter said.",neutral,0.044204920530319214
+2014-08-30,Alibaba to Begin Investor Roadshow in Week of Sept. 8,neutral,0.1998976767063141
+2014-09-02,Peter Thal Larsen of Reuters Breakingviews offers a guide for how fund managers can evaluate Alibaba as the company kicks off the roadshow for its long-awaited initial public offering.,neutral,0.043431270867586136
+2014-09-02,Six Steps in Alibaba’s 12-Figure Valuation,neutral,0.06156068667769432
+2014-09-05,"The company, which runs two huge online marketplaces in China, plans to kick off a long-awaited roadshow for potential investors on Monday.",neutral,0.07338462024927139
+2014-09-05,As Its I.P.O.,neutral,0.041941020637750626
+2014-09-05,"Nears, Alibaba Gets Ready for a Splashy Debut",neutral,0.06344860792160034
+2014-09-06,"Alibaba, started by Jack Ma in 1999, is about to sell shares in the United States that could value the company at about $160 billion.",neutral,0.05038497969508171
+2014-09-06,The Jack Ma Way,neutral,-0.0014163553714752197
+2014-09-07,"A Chinese Internet titan prepares for its public stock offering, Mathew Martoma is sentenced for insider trading and retail sales information for August is released.",negative,-0.8605059385299683
+2014-09-07,The Week Ahead: Alibaba Takes to the Road,neutral,0.17886415123939514
+2014-09-08,Alibaba begins a roadshow for potential investors.,neutral,0.10471238195896149
+2014-09-08,| Electrolux to buy G.E.’s appliance unit.,neutral,0.12008721381425858
+2014-09-08,| Goldman’s bylaws ambiguous on legal fees.,neutral,-0.010936601087450981
+2014-09-08,| Dollar General’s next move.,neutral,0.04181232303380966
+2014-09-08,Morning Agenda: Preparing for Alibaba,neutral,0.03927517309784889
+2014-09-09,"On Monday, potential investors gathered for the first big marketing pitch for Alibaba’s initial public offering.",neutral,0.350427508354187
+2014-09-09,Alibaba Begins Wooing Wall Street,neutral,0.10591918230056763
+2014-09-10,"“China is to stock fraud as Silicon Valley is to technology,” the founder of Muddy Waters Research said.",neutral,-0.023478541523218155
+2014-09-10,Short-Seller Carson Block Says He’s Wary of Alibaba,negative,-0.6643134355545044
+2014-09-11,Alibaba brings luxury to China’s middle class.,neutral,0.4513739049434662
+2014-09-11,| Dollar store tug of war gets contentious.,negative,-0.8719925880432129
+2014-09-11,| Detroit’s bankruptcy deal hinges on two banks.,negative,-0.650962769985199
+2014-09-11,| Fed slow to pop bubbles.,negative,-0.4074852466583252
+2014-09-11,Morning Agenda: Alibaba’s Key to Success,neutral,0.25665244460105896
+2014-09-12,"Strong demand from investors could push the Chinese e-commerce giant, which has set a fund-raising goal of $21.1 billion, to revalue itself as the biggest initial public offering ever.",positive,0.8482969999313354
+2014-09-12,"As Investors Salivate, Alibaba May Raise Price of I.P.O.",positive,0.6062223315238953
+2014-09-14,"Scottish voters will decide on Thursday whether to end the 307-year union with the United Kingdom and go it alone, with an uncertain currency and economic future.",neutral,-0.11487115919589996
+2014-09-14,"A Federal Reserve Meeting, and Scotland’s Moment of Truth",neutral,-0.026073157787322998
+2014-09-15,"The company raised the price range for its initial public offering to $66 to $68 for each American depositary share, according to a regulatory filing on Monday, pushing up its potential haul from the stock sale to as much as $21.8 billion.",positive,0.8925479054450989
+2014-09-15,Alibaba Raises Fund-Raising Target for I.P.O.,positive,0.6646369695663452
+2014-09-15,to $21.8 Billion,neutral,0.24206864833831787
+2014-09-16,"As Alibaba readies to go public, it is important for public investors to be aware of serious corporate governance issues involving the company, Lucian Bebchuk writes in Another View.",neutral,0.3923039436340332
+2014-09-16,Alibaba’s Governance Leaves Investors at a Disadvantage,negative,-0.6095601916313171
+2014-09-17,Senator Bob Casey urged the S.E.C.,neutral,0.09888604283332825
+2014-09-17,to make sure companies set up like Alibaba are making proper disclosures and complying with securities regulations.,neutral,0.1558518260717392
+2014-09-17,"On Eve of Alibaba’s I.P.O., Senator Urges S.E.C.",neutral,0.007292792201042175
+2014-09-17,to Look at Risks in Some Chinese Offerings,neutral,0.018163468688726425
+2014-09-18,Investors flocked to buy a piece of the company that is poised to continue dominating China’s burgeoning e-commerce industry.,positive,0.767629086971283
+2014-09-18,Alibaba Raises $21.8 Billion in Initial Public Offering,neutral,0.09701848775148392
+2014-09-19,How Alibaba shared the wealth with employees.,neutral,0.05882808566093445
+2014-09-19,Rewarding customers for writing negative Yelp reviews.,neutral,-0.2075786292552948
+2014-09-19,And why it’s definitely time to take a break!,neutral,0.07098542153835297
+2014-09-19,Today in Small Business: The Bacon Bowl,neutral,-0.00737375020980835
+2014-09-20,"The Chinese Internet giant, which raised $21.8 billion in its stock sale, instantly became one of the biggest publicly traded technology companies in the world.",positive,0.7928974032402039
+2014-09-20,A Soaring Debut for Alibaba,neutral,0.31915923953056335
+2014-09-22,"Alibaba’s founder spoke of building his company and creating jobs, Bill George writes in an Another View column.",neutral,0.3126048445701599
+2014-09-22,"“They call me ‘Crazy Jack,’” Mr. Ma said.",neutral,-0.2548852860927582
+2014-09-22,“I hope to stay crazy for the next 30 years.”,neutral,-0.08457241952419281
+2014-09-22,"Jack Ma on Alibaba, Entrepreneurs and the Role of Handstands",neutral,-0.009686926379799843
+2014-09-23,"The offering tested the appetite of investors for yet another midsize lender, in a year that has seen many seek public listings.",positive,0.8638421297073364
+2014-09-23,Citizens Financial’s Offering Raises $3 Billion as It Parts From R.B.S.,positive,0.8655865788459778
+2014-09-26,"As Yahoo tries to figure out what to do after raising $6 billion from its stake in the Alibaba Group, a prominent investor, Starboard Value, has emerged to offer some suggestions — including buying AOL.",neutral,0.10785137116909027
+2014-09-26,Activist Hedge Fund Pushes Yahoo to Weigh a Deal With AOL,negative,-0.7395997643470764
+2014-09-29,"Alibaba proved to be a good bet, but at some point SoftBank’s boss, Masayoshi Son, will have to more clearly explain his vision, Una Galani of Reuters Breakingviews writes.",neutral,0.20269536972045898
+2014-09-29,Chemistry May Not Be Right for a SoftBank-DreamWorks Deal,negative,-0.6425520181655884
+2014-10-03,"Yahoo has been in talks to invest in Snapchat, a messaging service that allows users to send self-destructing photographs, in a possible move to increase its content offerings.",positive,0.8709003925323486
+2014-10-03,Yahoo in Talks to Sink Some of Its Alibaba Cash Into Snapchat,neutral,-0.22775977849960327
+2014-10-17,The recent market turmoil is worrying the financial industry.,negative,-0.7846745848655701
+2014-10-17,| Goldman Sachs posts a higher third-quarter profit.,positive,0.7934056520462036
+2014-10-17,| Jimmy Choo prices its I.P.O.,neutral,-0.003979802131652832
+2014-10-17,| Former employees of the Galleon Group are still trying to rebuild their lives.,neutral,-0.173182412981987
+2014-10-17,Morning Agenda: Market Turmoil Takes Its Toll,negative,-0.8878759145736694
+2014-10-22,Strong third-quarter results at Yahoo ended a long pattern of declines.,positive,0.5078443288803101
+2014-10-22,"Daily Report: Yahoo Growing Again, but Strategy Remains Hazy",positive,0.8902022838592529
+2014-10-31,"As China’s Internet czar, Lu Wei has spoken out on rules for regulating smartphones and about taking on foreign Internet companies.",neutral,0.08992674201726913
+2014-10-31,"In China, Internet Czar Is Taking a Blunt Tone",negative,-0.4503220021724701
+2014-11-04,"Revenue at the Chinese e-commerce company, which went public in September, rose 54 percent, to $2.7 billion.",positive,0.9356743693351746
+2014-11-04,"Alibaba, Shrugging Off Slowdown in Chinese Economy, Reports Strong First Earnings",positive,0.9135072231292725
+2014-11-05,Wall Street is ready for change.,neutral,0.3435533046722412
+2014-11-05,| Regulators are homing in on the leveraged loan market.,neutral,-0.012875176966190338
+2014-11-05,| Alibaba reports strong earnings.,positive,0.9304676651954651
+2014-11-05,| Creditors keep troubled law schools afloat.,negative,-0.6907006502151489
+2014-11-05,Morning Agenda: Wall St. After G.O.P.,neutral,0.012771211564540863
+2014-11-05,Victory,neutral,0.03504025191068649
+2014-11-11,"The purchase, which had been rumored for weeks, was the Internet company’s largest acquisition since it bolstered its coffers with $6.3 billion from the Alibaba initial public offering.",positive,0.7179304361343384
+2014-11-11,"Yahoo Buys BrightRoll, a Video Ad Platform, for $640 Million",neutral,0.12443378567695618
+2014-11-14,Shares of Alibaba wound up in the portfolios of many well-known money managers in the third quarter.,positive,0.6144332885742188
+2014-11-14,"Alibaba, the I.P.O.",neutral,0.004993688315153122
+2014-11-14,"Darling, Is Also the Star of Hedge Fund Reports",neutral,0.04809773713350296
+2014-11-21,"Investors in Alibaba can’t reliably estimate the worth of the finance arm Ant Financial, writes John Foley in Reuters Breakingviews.",negative,-0.8479233980178833
+2014-11-21,"Alibaba’s Finance Arm, Ant Financial, Is a Mystery to Most Investors",neutral,-0.31624147295951843
+2014-12-06,The German software company seems poised to take on Alibaba by offering business services and software through a cloud-computing marketplace.,neutral,0.4829675853252411
+2014-12-06,SAP Readies a Big Business Marketplace,neutral,0.06093043461441994
+2014-12-08,"Dalian Wanda Commercial Properties of China is attempting to raise as much as $3.8 billion, just days after CGN Power sold $3.2 billion in new shares.",neutral,0.43329015374183655
+2014-12-08,Hong Kong I.P.O.,neutral,0.04135749489068985
+2014-12-08,Market Rebounds After Missing Out on Alibaba,negative,-0.7073352932929993
+2014-12-16,"China, the No.",neutral,-0.11079507321119308
+2014-12-16,"2 market for digital advertising, has become so important to marketers that Alibaba and Baidu, two Chinese companies that operate almost entirely within their home country, have become two of the largest ad sellers in the world.",positive,0.6834043860435486
+2014-12-16,Chinese Internet Companies Gain Ground in Global Advertising Competition,positive,0.7389699816703796
+2014-12-23,"Deal makers adopted new strategies and revived some old ones in 2014, and Steven Davidoff Solomon grades the year’s most notable transactions in the Deal Professor column.",neutral,0.15606757998466492
+2014-12-23,Grading Success and Failure in a Year of Prominent Deals,neutral,0.27609574794769287
+2014-12-30,Toasting and roasting the guests we’d like to invite for our annual DealBook “Closing Dinner.”,neutral,0.04230968654155731
+2014-12-30,"Gathering Bedfellows, Odd and Otherwise, for Auld Lang Syne",neutral,0.022746719419956207
+2015-01-05,"Even excluding the $25 billion Alibaba offering, a phenomenon in its own right, the value of worldwide initial public offerings was up nearly 36 percent over 2013.",positive,0.9331150054931641
+2015-01-05,Investors Bought Into Nearly $250 Billion in Global I.P.O.s in 2014,neutral,0.13576628267765045
+2015-01-06,The last 12 months saw above-average creativity in saying one thing and meaning another.,neutral,0.19268366694450378
+2015-01-06,John Foley and Rob Cox of Reuters Breakingviews offer 10 euphemisms they would most like to disappear.,neutral,-0.06140083074569702
+2015-01-06,The Year in Market Doublespeak,neutral,-0.05334798991680145
+2015-01-08,Yahoo isn’t a stranger to the complex deal structure known as a “cash-rich split-off” that could be used to sell off its stakes in its Japanese affiliate and Alibaba Group.,neutral,0.06122473254799843
+2015-01-08,More on the Complex Tax-Minded Deal That Starboard Doesn’t Want Yahoo to Do,neutral,-0.08182024955749512
+2015-01-13,The Chinese e-commerce group has agreed to prevent the export of dangerous items recalled by the Consumer Product Safety Commission.,positive,0.5845404863357544
+2015-01-13,Alibaba Will Help Curb Export of Recalled Items,negative,-0.6173403859138489
+2015-01-21,"Marissa Mayer has made sharp acquisitions and rebuilt crucial products, but her future may depend on reaction to her plans for the Alibaba investment.",neutral,0.1620420217514038
+2015-01-21,Marissa Mayer’s Plan for Yahoo Takes Hold.,neutral,0.05516936257481575
+2015-01-21,The Question Now Is Time.,neutral,-0.0018647462129592896
+2015-01-26,"Long overshadowed by its rival Alibaba, JD is basing its business on logistics and a promise to cater to shoppers from click to package delivery.",neutral,0.12145692855119705
+2015-01-26,China’s Other E-Commerce Giant Follows Its Own Path,neutral,0.11168079823255539
+2015-01-27,"Yahoo’s plan for selling off its stake in the Alibaba Group is a fairly simple spinoff transaction, one that is designed to avoid generating a big tax bill.",neutral,0.00142761692404747
+2015-01-27,How Yahoo’s Spinoff of Its Alibaba Stake Will Work,neutral,0.026444796472787857
+2015-01-28,Yahoo plans to spin off its stake in Alibaba.,neutral,-0.1984146237373352
+2015-01-28,| The outcome of the fight over DuPont could define shareholder activism.,neutral,-0.4382955729961395
+2015-01-28,| U.S. strengths are hurting American multinational corporations.,negative,-0.9586226940155029
+2015-01-28,| Thieves steal gold nuggets from Wells Fargo museum.,negative,-0.878476083278656
+2015-01-28,Morning Agenda: Yahoo’s Alibaba Split,neutral,0.027680356055498123
+2015-01-29,"Alibaba’s run-in with a Chinese regulator serves as a reminder that there is no such thing as a good relationship with China’s government, John Foley of Reuters Breakingviews writes.",positive,0.376070111989975
+2015-01-29,Alibaba’s Lesson in Government Relations,neutral,0.06987355649471283
+2015-01-31,"Two days after a government regulator harshly criticized the company, the two showed signs of moving quickly to cooperate.",positive,0.7327988743782043
+2015-01-31,Chinese Agency Softens Criticism of Alibaba on Sales of Fake Goods,negative,-0.855640709400177
+2015-02-03,The partnership will provide financing for U.S. manufacturers to buy products and supplies through Alibaba.com.,positive,0.606497585773468
+2015-02-03,Alibaba and Lending Club to Form Financing Partnership,neutral,0.06057801470160484
+2015-02-09,"Newer Chinese tech companies like Smartisan, founded by Luo Yonghao, recognize that they are selling an identity as much as a phone.",neutral,0.0597432404756546
+2015-02-09,"Chinese Phone Upstarts Sell With Personality, Not Product",neutral,-0.0018471740186214447
+2015-02-12,A calculation suggests that investors are attaching a 34 percent discount to the American company’s holding of Alibaba shares – assuming Yahoo’s core business is worth something.,neutral,0.17497935891151428
+2015-02-12,"That’s too cautious, says Robert Cyran of Reuters Breakingviews.",negative,-0.49851077795028687
+2015-02-12,A Deep Discount on Yahoo’s Alibaba Stake Spinoff,negative,-0.33878976106643677
+2015-02-13,Alibaba disclosed on Friday that it has received a request from the S.E.C.,neutral,0.37918204069137573
+2015-02-13,for more information about the clash with China’s State Administration for Industry and Commerce.,neutral,-0.26650097966194153
+2015-02-13,S.E.C.,neutral,0.030168529599905014
+2015-02-13,Asks Alibaba About Dispute With Chinese Regulator,negative,-0.6930038928985596
+2015-02-14,"The merger of Didi Dache and Kuaidi Dache, announced Saturday, will create a company with a combined market share well above 90 percent.",positive,0.6766729354858398
+2015-02-14,China’s Top Taxi-Hailing Apps Say They Will Merge,neutral,0.39828500151634216
+2015-03-04,"China’s largest Internet company, Alibaba, is adding to its modest presence in Silicon Valley, but not in the way many have expected.",positive,0.6833181381225586
+2015-03-04,Alibaba Expands in Silicon Valley With Its First U.S. Data Center,positive,0.6581948399543762
+2015-03-12,The latest fund-raising places the messaging start-up squarely among the most richly valued private tech companies in Silicon Valley.,positive,0.5760403871536255
+2015-03-12,Alibaba Is Said to Invest $200 Million in Snapchat,neutral,0.04214790463447571
+2015-05-07,"The Chinese e-commerce giant said its chief operating officer would replace its chief executive, Jonathan Lu, who will remain on the board.",neutral,-0.0433080717921257
+2015-05-07,Daily Report: Alibaba Names New Chief Executive and Reports Revenue Rise,neutral,0.03877680003643036
+2015-05-12,Now you can buy a Yankees coffin within the comfort of your texting line.,neutral,0.04332239553332329
+2015-05-12,"Tango, a popular messaging service, has a two-million-item catalog of goods from Walmart and Alibaba.",neutral,0.004038849845528603
+2015-05-12,"If it works, will brands keep their own apps?",neutral,0.044440217316150665
+2015-05-12,Tango Offers Shopping on Its Messaging Service,neutral,0.003754589706659317
+2015-05-15,"America’s video-streaming leader is in preliminary talks with Chinese media companies, as it aims to expand its presence from more than 50 countries to 200 by the end of next year.",positive,0.8429926633834839
+2015-05-15,Netflix Said to Be in Early Talks With Chinese Companies,neutral,0.0605081282556057
+2015-05-18,"The company, whose labels include Gucci and Yves Saint Laurent, says the e-commerce giant uses vendors that are selling high-end knockoffs.",neutral,6.455928087234497e-06
+2015-05-18,Kering Sues Alibaba Again Over Counterfeit Luxury Goods,negative,-0.9275944828987122
+2015-05-20,Marissa Mayer’s plan to spin off Yahoo’s $34 billion stake in Alibaba tax-free could run into resistance from federal tax authorities.,negative,-0.844829261302948
+2015-05-20,I.R.S.,neutral,0.05866451561450958
+2015-05-20,Look at Spinoffs May Affect Yahoo Plan,negative,-0.7803824543952942
+2015-05-22,Yahoo’s spinoff plan for its Alibaba holdings creates a nasty tax risk for shareholders.,negative,-0.9084221720695496
+2015-05-22,Yahoo’s Tricky Plan for Tax-Free Spinoff of Alibaba Stock,neutral,0.006929874420166016
+2015-05-27,Yahoo’s intention to spin off Alibaba stock without paying tax is just a modern twist on an old tax avoidance scheme.,neutral,-0.009621236473321915
+2015-05-27,Yahoo’s Tax-Free Spinoff Plan Parallels a Historic Case,neutral,0.0956110805273056
+2015-07-03,"The move values Ant Financial Services at more than $45 billion and makes the Chinese government a stakeholder, according to people familiar with the transaction.",positive,0.5436299443244934
+2015-07-03,Alibaba’s Financial Affiliate Is Said to Close Private Placement of Shares,neutral,-0.2652685046195984
+2015-07-12,"So far this year, Asia has created 11 tech companies with valuations of $1 billion or more, compared with 19 in North America.",positive,0.7959202527999878
+2015-07-12,Asian Tech Start-Ups Quietly Earn Backing,negative,-0.5585304498672485
+2015-07-17,Yahoo warned that it might cancel the spinoff if federal tax authorities don’t make assurances that the transaction will be tax-free to shareholders.,negative,-0.7377822995185852
+2015-07-17,"Yahoo Files for Alibaba Spinoff, Though Tax Issues Linger",neutral,-0.003467068076133728
+2015-07-21,The uptick in Yahoo’s core display advertising business accompanied strong growth in newer businesses like video and mobile advertising.,positive,0.9322022795677185
+2015-07-21,"Yahoo Posts Loss, Despite Rise in Its Display Ad Business",negative,-0.9531416296958923
+2015-07-23,"In the last year, large Chinese and Japanese companies, including Tencent and Sega, have pumped tens of millions of dollars into American mobile gaming firms.",neutral,0.4572921097278595
+2015-07-23,"Netmarble Takes Stake in SGN, Extending Asia’s Reach Into U.S.",positive,0.9199838042259216
+2015-07-23,Mobile Games,neutral,0.04381653666496277
+2015-08-04,"J. Michael Evans, once seen as a potential candidate to be Goldman’s chief executive, will help the Chinese e-commerce giant expand abroad.",positive,0.6121528744697571
+2015-08-04,Alibaba Names Former Goldman Sachs Executive as President,neutral,-0.010392274707555771
+2015-08-10,Alibaba said it would pay about $4.6 billion for the stake and planned to use the retailer’s stores to sell groceries and other items beyond gadgets.,neutral,0.05112694948911667
+2015-08-10,Alibaba to Buy 20% Stake in Electronics Retailer Suning,neutral,0.07413404434919357
+2015-08-12,Investors haven’t much challenged the founder of the Chinese e-commerce group.,neutral,-0.0638832375407219
+2015-08-12,Its latest earnings report may change that.,neutral,0.06741078197956085
+2015-08-12,Alibaba’s Slump May Test Investors’ Good Will,positive,0.2744709849357605
+2015-08-13,The economic slowdown in China could make it hard for the e-commerce giant to meet the lofty expectations of investors.,negative,-0.8758969306945801
+2015-08-13,Daily Report: Alibaba Disappoints Amid a Slowdown in China,negative,-0.9328832030296326
+2015-08-15,"As China’s stock market plummeted, large money managers sold substantial amounts of their stock in the two Chinese technology giants, both of whose shares are down sharply.",negative,-0.9480220079421997
+2015-08-15,Hedge Funds Shed Shares in Alibaba and Baidu in Second Quarter,negative,-0.9641232490539551
+2015-08-19,"Norinco, a state-owned arms and machinery maker that has been under sanction by Washington, will work with Alibaba in a satellite navigation project.",neutral,0.32869893312454224
+2015-08-19,Alibaba Joins Forces With Chinese Arms Maker,neutral,0.4281744658946991
+2015-08-25,Growth worries have afflicted all technology stocks and Chinese ones in particular.,negative,-0.9297682046890259
+2015-08-25,But Alibaba’s core e-commerce business is still highly valued compared with its rivals.,positive,0.7653788328170776
+2015-08-25,Alibaba’s Stock Still Looks Expensive,neutral,0.0565226674079895
+2015-09-01,Ms. Mayer said Monday that her twins were due in December and that she planned to work throughout her pregnancy.,neutral,0.03543166071176529
+2015-09-01,Marissa Mayer of Yahoo Says She’s Pregnant With Twins,neutral,-0.12095052748918533
+2015-09-03,"Letgo, which operates a smartphone-focused market for secondhand goods, has raised $100 million in financing.",positive,0.6980375051498413
+2015-09-03,South Africa’s Naspers Backs Smartphone Start-Up Letgo,positive,0.36601340770721436
+2015-09-08,The Internal Revenue Service refused to rule in advance on whether a proposed spinoff would incur a huge tax bill.,negative,-0.828541100025177
+2015-09-08,Yahoo Rethinking Alibaba Spinoff After Getting No I.R.S.,negative,-0.3687879741191864
+2015-09-08,Guidance,neutral,0.028859801590442657
+2015-09-09,"The tech world has focused mostly on news related to China so far this week, with the main tech news event — Apple’s unveiling of new products — set to take place on Wednesday.",neutral,-0.008596867322921753
+2015-09-09,Daily Report: China Asserts Tech Presence; Apple Shows Off New Products,positive,0.7952574491500854
+2015-09-28,The board decided to move forward even though the I.R.S.,positive,0.6464973092079163
+2015-09-28,declined to rule the transaction tax-free in advance.,neutral,0.04365559667348862
+2015-09-28,Yahoo to Go Forward With Alibaba Stake Spinoff,neutral,0.08963581174612045
+2015-10-02,"Getting packages to consumers quickly is a critical part of e-commerce, and Alibaba is pouring money into delivery deals.",neutral,0.08684147149324417
+2015-10-02,"But shareholders can only guess at the true costs, or the returns.",neutral,-0.023444464430212975
+2015-10-02,Alibaba’s Opaque Investments in Delivery Ventures,neutral,-0.19773778319358826
+2015-10-08,"Meituan, with a link to Alibaba, is forming a new company with Dianping, supported by Tencent, to help businesses sell their goods and services online in China.",positive,0.6149646043777466
+2015-10-08,Companies Backed by Alibaba and Tencent in E-Commerce Venture,neutral,0.008612248115241528
+2015-10-16,Becoming fully absorbed into the Chinese e-commerce giant ought to improve returns for the perpetually loss-making Youku.,positive,0.9298651218414307
+2015-10-16,It should also create value — not that either side is asking.,neutral,0.44495779275894165
+2015-10-16,Alibaba’s Bid for Youku Tudou Could Be Win-Win,neutral,0.38558652997016907
+2015-10-27,The most valuable company in the world and a company that aspires to be among the giants both report quarterly earnings on Tuesday afternoon.,positive,0.5843234658241272
+2015-10-27,One faces big expectations and the other faces genuine concerns about its future.,neutral,-0.050552476197481155
+2015-10-27,"Daily Report: Apple, Twitter Next Up for Tech Earnings",neutral,0.022451438009738922
+2015-11-11,"The annual frenzy of discount shopping — to the tune of more than $14 billion in 24 hours – offers a way into the country’s growing middle-class market, companies say.",positive,0.6947644948959351
+2015-11-11,Singles Day in China Draws New Suitors: Foreign Sellers,neutral,0.17978551983833313
+2015-11-19,"As questions arise over taxes on the sale of Yahoo’s stake in Alibaba, Starboard Value is urging Yahoo to sell its core advertising business instead.",neutral,-0.3808921277523041
+2015-11-19,Yahoo Pressured to Keep Alibaba Stake and Sell Core Business,neutral,-0.07423045486211777
+2015-11-24,Negotiations between the chairman of the Chinese Internet giant and owners of The South China Morning Post are raising concerns about media independence.,negative,-0.9166812896728516
+2015-11-24,Jack Ma of Alibaba in Talks to Buy Hong Kong Newspaper,neutral,0.027088113129138947
+2015-12-02,The best possible legacy for Marissa Mayer could turn out to be that she got a good price for Yahoo’s core business.,positive,0.8336666226387024
+2015-12-02,Yahoo’s Marissa Mayer Has Run Out of Time for a Turnaround,negative,-0.7815858721733093
+2015-12-03,"Twenty years after its founding, Yahoo, which still has a billion people using its apps and websites, is an also-ran in many ad budgets.",neutral,0.036807045340538025
+2015-12-03,Yahoo Struggles as an Afterthought to Advertisers,negative,-0.90367591381073
+2015-12-04,Yahoo’s willingness to listen to demands that it abandon a spinoff of its Alibaba stake reflects lingering doubt about the tax risk of the plan.,negative,-0.6119793653488159
+2015-12-04,Yahoo’s Spinoff Plan Could Be Risky Business,negative,-0.5687265396118164
+2015-12-05,"Yahoo’s directors have yet to announce if they will spin off the company’s Alibaba stock into a new company or sell its core business instead, and time is running out.",neutral,-0.4202629625797272
+2015-12-05,Yahoo Board Is Quiet on Any Shake-Up Plans,neutral,-0.12116661667823792
+2015-12-08,"The company will consider other options, including a possible sale of its core Internet operations, a person briefed on the matter said.",neutral,0.0543239526450634
+2015-12-08,Yahoo Is Said to End Plan to Spin Off Alibaba Stake,neutral,-0.32252880930900574
+2015-12-09,"The market may price it as less than zero, but a company with $4.5 billion revenue has real value.",neutral,0.029851708561182022
+2015-12-09,How to Value Yahoo’s Core Business,neutral,0.12890027463436127
+2015-12-10,A reverse spinoff of the company’s core business assets and its stake in Yahoo Japan still leaves questions about the company’s strategy.,negative,-0.8333290815353394
+2015-12-10,Yahoo’s Spinoff Plan Does Not Change Its Tax Risk,neutral,0.01299282256513834
+2015-12-11,The Chinese Internet giant said the deal was fueled by a desire to improve China’s image and offer an alternative to the biased lens of Western news outlets.,positive,0.8790591955184937
+2015-12-11,"Alibaba Buying South China Morning Post, Aiming to Influence Media",neutral,0.17955461144447327
+2016-01-07,"A listing of shares could make Saudi Aramco, whose reserves are 10 times that of Exxon Mobil, the most valuable public company in the world.",positive,0.7774645686149597
+2016-01-07,Saudi Aramco I.P.O.,neutral,0.0404786691069603
+2016-01-07,Is Weighed by Kingdom,neutral,-0.126946821808815
+2016-01-19,"Venture capital investment in tech start-ups fell 29 percent in the last quarter, and a new report links this to economic uncertainty in the region.",negative,-0.9699059128761292
+2016-01-19,Investment in Internet Start-Ups Appears to Slow in China,negative,-0.9567978978157043
+2016-01-28,"In China, growth in property investment is sagging, and the trend from bricks-and-mortar to online retailing is positive for Alibaba’s top-line growth story.",negative,-0.8889632225036621
+2016-01-28,Alibaba Searching for New Revenue Sources,neutral,0.05049643665552139
+2016-02-02,"Facing investor demands for action, Yahoo said it would lay off workers and explore possibilities that include sale of some assets.",negative,-0.9276321530342102
+2016-02-02,Marissa Mayer Sets Yahoo on Streamlined Course,neutral,0.07189871370792389
+2016-02-19,The Internet company said on Friday that its board had formed a committee of independent directors to consider the best path for its core business.,neutral,0.18696467578411102
+2016-02-19,Yahoo Takes a Step Toward a Possible Sale,neutral,0.13427312672138214
+2016-03-07,Ali Baba has discovered a cave full of gold and diamonds.,neutral,0.08477794378995895
+2016-03-07,How can he maximize the value of what he carries out?,neutral,0.05084766447544098
+2016-03-07,Ali Baba’s Cave,neutral,0.03978343307971954
+2016-04-22,"The iBooks Store and iTunes Movies were closed six months after they began in China, which had been more welcoming of Apple than other tech companies.",negative,-0.876261293888092
+2016-04-22,Apple Services Shut Down in China in Startling About-Face,negative,-0.9403335452079773
+2016-04-26,"A $4.5 billion funding round implies a staggering $60 billion valuation, but Ant Financial’s fortunes seem closely tied to Chinese state capitalism.",neutral,0.06617064028978348
+2016-04-26,Ant Financial’s Different Breed of Unicorn,neutral,-0.020222552120685577
+2016-05-01,"The European Commission will discuss growth and employment across its member states, and earnings reports are expected for Alibaba, HSBC and UBS.",neutral,0.04901735484600067
+2016-05-01,An Economic Forecast for the European Union,neutral,0.03270016610622406
+2016-05-05,"The e-commerce giant said a revenue surge showed the power of the Chinese consumer, even as it faces the longer-term challenge of that country’s slowdown.",positive,0.9073668122291565
+2016-05-05,Alibaba Sales Up 39% on Increased Consumer Spending in China,positive,0.8329918384552002
+2016-05-25,The Securities and Exchange Commission is investigating how the Chinese e-commerce giant accounts for affiliated companies and related-party transactions.,neutral,-0.12394210696220398
+2016-05-25,Alibaba Faces U.S. Accounting Inquiry,neutral,-0.3669118285179138
+2016-05-26,"Over the last year, investors like Alibaba have bought stakes in Snapchat.",neutral,0.34549644589424133
+2016-05-26,Alibaba agreed to invest $200 million at a valuation of $15 billion.,neutral,0.40248382091522217
+2016-05-26,Snapchat Raises $1.8 Billion From Private Investors,positive,0.6777597665786743
+2016-05-31,The Japanese telecom said it would sell $8 billion worth of shares to help pay down debt.,positive,0.557792067527771
+2016-05-31,SoftBank to Sell a Stake in Alibaba,neutral,0.02736918069422245
+2016-06-01,The rising tension between borderless technology and countries that cling to their cultural identities has echoes in disruptive technology of the past.,negative,-0.8594780564308167
+2016-06-01,American Tech Giants vs. the Nation-State,neutral,-0.041865043342113495
+2016-06-14,The Chinese e-commerce giant for the first time offered earnings guidance for the coming year and said it was altering the way it measures growth.,neutral,0.2409662902355194
+2016-06-14,Alibaba Tries to Shore Up Investors’ Confidence,neutral,0.4203023314476013
+2016-07-15,New I.R.S.,neutral,0.088312529027462
+2016-07-15,rules proposed after the agency declined to bless the spinoff set limits for when certain spinoffs cannot not get tax-free treatment.,neutral,-0.01300819218158722
+2016-07-15,Yahoo’s Failed Alibaba Spinoff May Benefit Other Deals,neutral,0.05610761418938637
+2016-07-25,"After a sale of its core internet business to Verizon, Yahoo will still have stakes in Alibaba and Yahoo Japan, along with cash and a collection of patents.",neutral,0.05610394477844238
+2016-07-25,"For Yahoo, Question Is What to Do With $40 Billion in Leftovers",neutral,-0.03876565396785736
+2016-07-26,The company’s $4.8 billion sale to Verizon caps two decades of deals and non-deals that shaped internet history.,positive,0.49685466289520264
+2016-07-26,Yahoo Is a Case Study in Poor Timing,neutral,-0.09127360582351685
+2016-07-28,"Although they have had huge success, and billions of dollars in investment, in the country, the ride-hailing services had operated in a legal gray area.",negative,-0.7823585271835327
+2016-07-28,"Didi Chuxing and Uber, Popular in China, Are Now Legal, Too",neutral,0.03678494691848755
+2016-08-02,The ride-hailing company joins the top tech giants in failing to overcome the enormous and varied barriers to competing effectively in China.,negative,-0.46281832456588745
+2016-08-02,Even Uber Couldn’t Bridge the China Divide,negative,-0.39534422755241394
+2016-08-11,"For many American investors, Alibaba is seen as a proxy for the health of the Chinese economy and the strength of its consumers.",neutral,0.027606837451457977
+2016-08-11,"Alibaba Reports Growth, Even as China’s Economy Stumbles",positive,0.8677961230278015
+2016-09-03,The Chinese government is lavishing benefits like free rent and cash handouts on homegrown start-ups in an effort to move beyond the factory floor.,positive,0.6508299708366394
+2016-09-03,Venture Communism: How China Is Building a Start-Up Boom,neutral,0.11167337745428085
+2016-10-13,"Snapchat’s parent has hired two of the banks that worked on the $25 billion market debut of the Alibaba Group, the biggest I.P.O.",neutral,0.1917373239994049
+2016-10-13,on record.,neutral,0.19101247191429138
+2016-10-13,Snap’s I.P.O.,neutral,0.027715737000107765
+2016-10-13,Bankers Also Helped Bring Alibaba to Market,neutral,0.30459335446357727
+2016-11-02,"Advertising helped the e-commerce company overcome slowing sales growth on its platforms, but it still posted losses in newer, growth-oriented businesses.",negative,-0.7487521767616272
+2016-11-02,Alibaba Earnings Show It Again Defying China’s Slowdown,positive,0.742137610912323
+2016-11-10,"Friday’s sales day pushes past last year’s total, but the company faces pressure from slowing Chinese growth and an American inquiry into its figures.",negative,-0.9542772769927979
+2016-11-10,"Alibaba, Amid Intense Hype, Confronts a Slowdown on Singles Day",negative,-0.9330430030822754
+2016-12-01,"Part Ralph Nader, part bounty hunter, China’s fakes detectives reap rewards for finding counterfeits — but could go out of business under new rules.",negative,-0.4995254874229431
+2016-12-01,"Though Awash in Fakes, China Rethinks Counterfeit Hunters",neutral,0.14616990089416504
+2016-12-22,"The United States put the Chinese company’s Taobao platform on a list of major markets for fakes, a move that Alibaba says may be politically motivated.",negative,-0.8373305797576904
+2016-12-22,Alibaba Faces Growing Pressure Over Counterfeit Goods,negative,-0.8818435668945312

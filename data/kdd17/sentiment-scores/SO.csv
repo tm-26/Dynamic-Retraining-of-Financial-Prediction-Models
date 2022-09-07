@@ -1,0 +1,26 @@
+Date,Sentence,Prediction,sentimentScore
+2009-06-26,The departure of Southern Company and American Electric Power is a blow to a consortium seeking to build a carbon-capture coal plant in Illinois.,negative,-0.9421041011810303
+2009-06-26,Two Utilities Are Leaving Clean Coal Initiative,neutral,-0.4195687472820282
+2010-02-13,"The Southern Company hopes to build two reactors in Burke County, near Augusta, Ga., in what would be the first such construction since the 1970s.",neutral,0.21858489513397217
+2010-02-13,U.S. to Back Loans for Reactors,neutral,-0.054416313767433167
+2010-06-19,"The Southern Company, the giant utility owner, agreed to a $3.4 billion federal loan guarantee to build the country’s first nuclear power plant in three decades.",positive,0.8923081159591675
+2010-06-19,$3.4.,neutral,0.02953755483031273
+2010-06-19,Billion Guarantee for New Nuclear Plant,neutral,0.3495054841041565
+2011-05-21,The Nuclear Regulator Commission is asking Westinghouse to fix its calculations and to explain why it submitted flawed information in the first place.,neutral,-0.14224396646022797
+2011-05-21,Regulators Find Design Flaws in New Reactors,negative,-0.7842735648155212
+2011-12-22,"The Nuclear Regulatory Commission’s decision, affecting projects in Georgia and South Carolina, is a milestone in the much-delayed revival of nuclear plant construction sought by the industry.",positive,0.7525317668914795
+2011-12-22,Approval of Reactor Design Clears Path for New Plants,positive,0.49835145473480225
+2012-02-09,"The Nuclear Regulatory Commission has not given a license to build since 1978, a year before the Three Mile Island accident in Pennsylvania.",neutral,-0.09142690896987915
+2012-02-09,Regulatory Approval Is Expected for New Reactors in Georgia,neutral,0.21805527806282043
+2012-02-09,"The Nuclear Regulatory Commission voted 4 to 1 to grant a license to build nuclear reactors, the first such approval since 1978.",positive,0.8301219344139099
+2012-02-09,Federal Regulators Approve Two Nuclear Reactors in Georgia,neutral,0.08977340161800385
+2013-06-11,"As the current generation of reactors moves toward retirement, a project in Georgia and one in South Carolina may be the industry’s last best hope.",neutral,-0.22329042851924896
+2013-06-11,Atomic Power’s Green Light or Red Flag,neutral,0.06511132419109344
+2013-06-11,"Builders of a new nuclear plant project in Georgia hope to come through with a faster, better and cheaper system that will lead the way for a new generation of reactors.",positive,0.7814845442771912
+2013-06-11,A Big Bet on Nuclear Energy,neutral,0.08127385377883911
+2015-08-24,"The deal between the two crosstown Atlanta rivals will make Southern the second-largest United States utility, with about nine million customers.",positive,0.7875425815582275
+2015-08-24,Southern Company to Pay $12 Billion for AGL Resources,neutral,0.04845504090189934
+2015-08-25,Prolonged turmoil may end the continued deal-making that has brought about one of the biggest waves of mergers and initial public offerings in recent memory.,neutral,-0.36773058772087097
+2015-08-25,Uncertainty in the Market May Imperil Deal-Making,negative,-0.8693691492080688
+2016-01-20,The Energy Department will provide X-energy and Southern Company up to $40 million each for development of new nuclear power technologies to be used in coming decades.,neutral,0.3256620466709137
+2016-01-20,U.S. Acts to Spur Development of High-Tech Reactors,neutral,0.12275075912475586

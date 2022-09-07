@@ -1,0 +1,99 @@
+Date,Sentence,Prediction,sentimentScore
+2014-01-13,"Charter Communications offered $37.8 billion for Time Warner Cable, the nation’s No.",positive,0.5298449397087097
+2014-01-13,2 cable operator.,neutral,0.048803526908159256
+2014-01-13,Big Offer for Time Warner Cable Unsettles the Cable Industry,negative,-0.7632833123207092
+2014-01-14,"If Charter Communications hopes to get a deal done to buy Time Warner Cable, it will probably have to pay a higher price based on a crucial measure.",neutral,0.15173175930976868
+2014-01-14,How Much Time Warner May Be Worth to a Suitor,neutral,0.027961215004324913
+2014-01-23,The mutual fund giant is one of only a couple shareholders that have stakes in both Time Warner Cable and Charter.,neutral,0.022897157818078995
+2014-01-23,T. Rowe Price Wants Time Warner Cable and Charter to Talk,neutral,0.024270735681056976
+2014-01-24,"Jamie Dimon, the chairman and chief executive of JPMorgan Chase, will get a pay raise.",positive,0.5256492495536804
+2014-01-24,| Doctor in SAC trial says F.B.I.,negative,-0.5247294306755066
+2014-01-24,"was after Steven A. Cohen, SAC’s founder.",neutral,0.03767583146691322
+2014-01-24,| The ongoing saga between Time Warner Cable and Charter Communications is heating up.,negative,-0.6076621413230896
+2014-01-24,| Herbalife is facing a new foe in a freshman senator.,negative,-0.634353518486023
+2014-01-24,| Goldman Sachs considers a ban on chats.,negative,-0.5343356728553772
+2014-01-24,JPMorgan’s Chief Gets a Pay Raise,neutral,-0.09700624644756317
+2014-01-28,A review of many of the most prominent failed hostile bids suggests that targets that avoided being pressured into an unwanted deal often came out ahead.,neutral,-0.3701954185962677
+2014-01-28,Time Warner Cable Can Take Heart in History of Failed Hostile Bids,neutral,0.04074697941541672
+2014-02-10,"Thomas M. Rutledge’s company may propose a full slate of replacement directors for its target and may have enlisted a powerful ally for a bid — both adept moves, says Jeffrey Goldfarb of Reuters Breakingviews.",neutral,0.06655208021402359
+2014-02-10,Charter C.E.O.,neutral,0.049029313027858734
+2014-02-10,Is Pressing All the Right Buttons on Time Warner Cable,neutral,0.03472747281193733
+2014-02-11,"The board of Time Warner Cable may have left itself little wiggle room to negotiate, writes Steven M. Davidoff in the Deal Professor column.",negative,-0.5056315064430237
+2014-02-11,Get Ready for a Long Proxy Fight Over Time Warner Cable,neutral,-0.15641316771507263
+2014-02-12,"Charter Communications has played its latest move in its pursuit of Time Warner Cable, nominating a full slate of directors to its target’s board.",neutral,0.062356363981962204
+2014-02-12,| Federal prosecutors have filed actions against businesses that buy luxury cars at domestic dealerships and then send them to China.,negative,-0.843514621257782
+2014-02-12,| The S.E.C.,neutral,0.06686889380216599
+2014-02-12,may have helped create the problem it is now hoping to solve.,neutral,0.06410229951143265
+2014-02-12,| Janet L. Yellen set a familiar direction for the Fed in her first public remarks before Congress on Tuesday.,neutral,0.25353389978408813
+2014-02-12,A Twist in Charter’s Pursuit of a Cable Deal,neutral,0.20245294272899628
+2014-02-13,"With Comcast shares down, the market reaction appears to signal that the company may have overpaid for Time Warner Cable, writes Steven M. Davidoff.",negative,-0.8980720639228821
+2014-02-13,Investors Eye Comcast’s Bid for Time Warner Cable With Caution,neutral,0.05740005895495415
+2014-03-13,"Liberty Media, the company controlled by John C. Malone, announced late Thursday that it had abandoned its plan to buy the shares of SiriusXM that it did not already own as part of a move to set up two tracking stocks to house the company’s assets.",negative,-0.5228729248046875
+2014-03-13,Liberty Abandons Plan to Buy Rest of Sirius,neutral,-0.12391087412834167
+2014-03-28,"In a proxy statement filed with the Securities and Exchange Commission, Charter said the risk of regulatory rejection of the merger made it in the interest of Time Warner Cable shareholders to turn down the deal.",neutral,-0.051354315131902695
+2014-03-28,Charter Challenges Comcast-Time Warner Cable Deal,neutral,0.03012007474899292
+2014-04-07,"Since Comcast announced its deal for Time Warner Cable, its shares have fallen about 10 percent, meaning Time Warner Cable investors are receiving about $140 a share instead of nearly $159.",negative,-0.966400146484375
+2014-04-07,"Comcast Shares Are Down, but Time Warner Cable Deal Is Still Safe",negative,-0.8898705840110779
+2014-04-22,Discussions with Charter Communications could lead to a sale and a swap involving millions of cable subscribers.,neutral,0.22387422621250153
+2014-04-22,Comcast Seeks to Divest Subscribers to Win Approval for Time Warner Cable Deal,neutral,0.15384995937347412
+2014-04-28,The three-part arrangement with Comcast would allow Charter Communications to become the country’s second-largest cable operator.,positive,0.7948521375656128
+2014-04-28,Charter and Comcast to End Fight Over Time Warner Cable,negative,-0.4285467565059662
+2014-12-31,"Sony’s new partners will expand digital availability of the film, which will also have a wider theatrical release starting Friday.",positive,0.909452497959137
+2014-12-31,Sony’s ‘The Interview’ Is Set for On-Demand and Wider Online Viewing,neutral,0.04092256352305412
+2015-02-20,A Breakingviews calculator puts the implied chances for success of the cable deal at 60 percent.,neutral,0.12288647890090942
+2015-02-20,Calculating the Odds of a Comcast-Time Warner Cable Deal,neutral,0.02775999717414379
+2015-03-31,"With Comcast-Time Warner Cable still in play, the cable landscape could still realign again.",positive,0.5410484671592712
+2015-03-31,Charter’s Deal May Not Be the Last Word on Bright House,neutral,-0.21752801537513733
+2015-04-27,"As soon as Comcast withdrew, Charter Communications was reported to be exploring a new bid for Time Warner Cable, but some predict consumers will lose no matter who buys whom.",negative,-0.812613844871521
+2015-04-27,Comcast-Time Warner Cable Deal’s Collapse Leaves Frustrated Customers Out in the Cold,negative,-0.891984760761261
+2015-05-18,"If combined, the two cable operators may have enough firepower to pursue a new “friendly” consolidation with Time Warner Cable.",positive,0.8000004887580872
+2015-05-18,Charter and Bright House Pursuing Merger Even After Comcast’s Failed Deal,neutral,0.021686837077140808
+2015-05-25,"Charter is expected to announce on Tuesday a $55 billion deal for its larger rival and an approximately $10 billion takeover of a smaller competitor, Bright House Networks.",neutral,0.11262628436088562
+2015-05-25,Charter Deal for Time Warner Cable Signals Shift in TV Industry,neutral,0.08934034407138824
+2015-05-26,"John Malone made his fortune as a pioneering baron of American cable, and has had his hands in everything from the Discovery Channel to DirecTV.",neutral,0.08076880872249603
+2015-05-26,The ‘King of Cable’ Behind a Charter-Time Warner Cable Deal,neutral,0.0429355725646019
+2015-05-27,"Despite recent improvements in consumer satisfaction ratings, many of the cable company’s subscribers believe a merger won’t improve service.",negative,-0.7807009816169739
+2015-05-27,Charter Customers Say Bigger Isn’t Likely to Mean Better,negative,-0.6151298880577087
+2015-05-28,"The invisible hand of Netflix has been at work influencing policy and proposed mergers in the cable, broadband and media businesses.",neutral,0.028155803680419922
+2015-05-28,How Netflix Keeps Finding Itself on the Same Side as Regulators,neutral,0.13055218756198883
+2015-05-30,"Through a mix of golden parachutes, advisory fees and investment returns, a small number of cable executives, traders and bankers stand to reap enormous profits.",positive,0.6465129256248474
+2015-05-30,Cashing In on a Charter-Time Warner Cable Merger,neutral,0.09615933895111084
+2015-06-01,"The chief financial officer, Arthur Minson Jr., will become president and chief operating officer of the WeWork office space-sharing company.",neutral,0.04552994668483734
+2015-06-01,Time Warner Cable C.F.O.,neutral,0.0327896811068058
+2015-06-01,Leaves Company,neutral,-0.03066428005695343
+2015-06-09,Usually confidence in a robust economy drives merger activity.,neutral,0.17047519981861115
+2015-06-09,"With revenue growth dwindling, that might not be the case this time.",negative,-0.8851757049560547
+2015-06-09,Mergers Might Not Signal Optimism,neutral,-0.31492841243743896
+2015-06-21,"The deal, if finalized, would combine two of the largest French mobile providers and oust Orange as France’s biggest mobile operator.",positive,0.6965653896331787
+2015-06-21,Altice Offers to Buy Bouygues Telecom for $11.3 Billion,neutral,0.09181196242570877
+2015-06-25,Charter wants to buy Time Warner Cable and Bright House.,neutral,0.018124882131814957
+2015-06-25,In an F.C.C.,neutral,-0.042435940355062485
+2015-06-25,"filing, it outlined why its ownership would be beneficial, all the while dissociating itself from Comcast’s failed takeover.",positive,0.5410363674163818
+2015-06-25,"Charter Makes Its Case for 2 Mergers, Telling F.C.C.",neutral,0.12813350558280945
+2015-06-25,It’s No Comcast,neutral,-0.04254251718521118
+2015-07-01,"The volume of deals announced in the first half of the year is approaching that of 2007, but some bankers fear an unforeseen crisis could upend the boom.",negative,-0.9114896655082703
+2015-07-01,"On Wall Street, Cautious Optimism as Merger Deals Near Peak Level",positive,0.421852171421051
+2015-09-21,"This week, shareholders of Charter Communications and Time Warner Cable vote on the proposed merger, the Chinese president visits the United States, and Janet Yellen delivers a speech about inflation.",neutral,0.13301797211170197
+2015-09-21,"Charter and Time Warner Vote, and Chinese Tech Meeting in Seattle",neutral,0.012485295534133911
+2015-10-14,The company told the F.C.C.,neutral,0.009702734649181366
+2015-10-14,that Charter’s proposed takeover of Time Warner Cable and Bright House would be “no better for the public interest” than Comcast’s failed deal for Time Warner Cable.,negative,-0.7444136142730713
+2015-10-14,Dish Network Seeks Rejection of 2 Deals Proposed by Charter,negative,-0.4950704574584961
+2015-10-27,"The deal led by the Canada Pension Plan Investment Board and funds advised by BC Partners would be part of a takeover by Altice, a European telecommunications company.",neutral,0.044072505086660385
+2015-10-27,Consortium Plans to Buy 30% Stake in Cablevision for $1 Billion,neutral,0.05615744739770889
+2015-10-29,Both companies reported strong third-quarter results and remain optimistic that Charter Communications’ takeover bid will be approved.,positive,0.8939396739006042
+2015-10-29,Time Warner Cable and Charter Chiefs Expect Delay in Merger,negative,-0.5640034675598145
+2016-01-22,"If approved, the deals are likely to include provisions meant to prevent Charter from using its market power to hurt rival streaming services.",neutral,0.02979910373687744
+2016-01-22,Cable Acquisitions by Charter Communications Face Rising Opposition,negative,-0.5857827663421631
+2016-02-07,"Jonathan Sallet has had a hand in divisive debates in Washington, and he will draw more attention as decisions are made on net neutrality and the Time Warner Cable-Charter merger.",neutral,0.007680807262659073
+2016-02-07,Net Neutrality Again Puts F.C.C.,neutral,0.24855098128318787
+2016-02-07,General Counsel at Center Stage,neutral,0.03665382042527199
+2016-03-28,Charter Communications is poised to gain F.C.C.,positive,0.63483065366745
+2016-03-28,"approval to join with Time Warner Cable and Bright House Networks, and streaming looms large in the deal.",positive,0.7460565567016602
+2016-03-28,Charter’s $67 Billion Cable Merger Hinges on the Cord Cutters,neutral,0.03718091920018196
+2016-04-25,The approvals create a broadband and cable television juggernaut at a time when consumers rely on the Internet as a utility.,positive,0.6572186946868896
+2016-04-25,Regulators Approve Charter Communications Deal for Time Warner Cable,neutral,0.11522790789604187
+2016-04-26,"On Monday, federal regulators moved to approve two big acquisitions from Charter Communications to buy Time Warner Cable and Bright House Networks.",positive,0.4977102279663086
+2016-04-26,Consolidation in the Broadband World,positive,0.47843655943870544
+2016-06-12,"Giants like Comcast, AT&T and Verizon oppose plans to limit broadband providers’ ability to share users’ data and to open the market for set-top boxes.",negative,-0.7876734733581543
+2016-06-12,Cable Industry Mobilizes Lobbying Army to Block F.C.C.,neutral,-0.3346460461616516
+2016-06-12,Moves,neutral,0.03623265027999878

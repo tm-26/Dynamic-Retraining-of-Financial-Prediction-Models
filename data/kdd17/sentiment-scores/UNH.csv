@@ -1,0 +1,159 @@
+Date,Sentence,Prediction,sentimentScore
+2007-01-05,The UnitedHealth Group said its former chief executive entered into an options repricing agreement with the company to avoid a potential tax liability.,positive,0.6089218258857727
+2007-01-05,Options Developments at 2 Companies,neutral,-0.04047380015254021
+2007-03-12,"UnitedHealth Group, the health-insurance giant, said on Monday it would acquire Sierra Health Services for $2.6 billion, or $43.50 in cash per share, to help it expand in the fast-growing Southwest.",positive,0.8310515284538269
+2007-03-12,"Sierra provides health benefits and services to 310,000 members in Nevada and 320,000 customers throughout the United States.",neutral,0.03819315880537033
+2007-03-12,UnitedHealth to Buy Sierra Health for $2.6 Billion,neutral,0.04082610830664635
+2007-03-13,"The $2.6 billion purchase will give UnitedHealth, the nation's largest health insurance company, its first managed care presence in Nevada.",positive,0.8496197462081909
+2007-03-13,"UnitedHealth Buys Sierra, Adding Western Customers",neutral,0.14246392250061035
+2007-03-20,"The American Medical Association asked the Justice Department on Monday to block the UnitedHealth Group‘s proposed $2.6 billion purchase of Sierra Health Services, saying the deal would be anticompetitive.",negative,-0.9105121493339539
+2007-03-20,The A.M.A.,neutral,0.0048825666308403015
+2007-03-20,"estimated that if the merger were completed, UnitedHealth would control 78 percent of the market for health maintenance organizations in Nevada and 95 percent of the market in the Las Vegas-Paradise area.",neutral,0.06132548302412033
+2007-03-20,A.M.A.,neutral,0.10559546947479248
+2007-03-20,Opposes UnitedHealth Deal for Sierra,neutral,-0.09074978530406952
+2007-03-29,Pennsylvania’s two largest health insurers agreed on Wednesday to merge in a deal that had been in the works for years and gives the two nonprofits control over most of the state’s health insurance market.,positive,0.571516752243042
+2007-03-29,The boards of Independence Blue Cross of Philadelphia and Highmark of Pittsburgh separately approved a merger that would create the nation’s third-largest health insurer behind the UnitedHealth Group and Wellpoint.,positive,0.7893803119659424
+2007-03-29,Pennsylvania Merger Creates Giant Health Insurer,neutral,0.2615845799446106
+2007-04-16,"EARNINGS REPORTS The following companies are scheduled to release earnings reports this week: Citigroup, Eli Lilly, Mattel and Wachovia (Monday); TD Ameritrade Holding, Comerica, CSX, Dow Jones, EMC, Intel, I.B.M., Johnson & Johnson, Mellon Financial, Northern Trust, Wells Fargo and Yahoo (Tuesday); Abbott Laboratories, Commerce Bancorp, E*Trade Financial, eBay, JPMorgan Chase, Motorola, PNC Financial Services, Allstate, Bank of New York, Tribune and United Technologies (Wednesday); Advanced Micro Devices, Altria Group, Continental Airlines, D. R. Horton, First Data, Gannett, Google, Merck, Merrill Lynch, Nokia, Schering-Plough, Southwest Airlines, UnitedHealth Group and Wyeth (Thursday); Caterpillar, Honeywell, McDonald’s, SAP, Schlumberger and Xerox (Friday).",neutral,-0.03122369386255741
+2007-04-16,Looking Ahead,neutral,0.013165891170501709
+2007-05-29,"In a showdown over shareholders’ rights to be decided Tuesday, the largest public pension fund in the nation is fighting to give investors the power to nominate directors at UnitedHealth Group, the biggest company entangled in the stock-option backdating scandal.",negative,-0.7900747060775757
+2007-05-29,Calpers Backs Shareholder Rights Bill at UnitedHealth,neutral,0.0783725157380104
+2007-06-10,A federal judge in Minneapolis gave the go-ahead to a class-action lawsuit against UnitedHealth Group and its former chairman and chief executive.,negative,-0.7325129508972168
+2007-06-10,In the Same Breath as a Screen Classic,neutral,0.05115287005901337
+2007-06-16,The insurers suspended the marketing after complaints that unscrupulous agents were duping elderly Americans into buying the coverage.,negative,-0.939433753490448
+2007-06-16,Insurers Suspend the Marketing of Some Medicare Plans,negative,-0.8193107843399048
+2007-06-28,Sierra Health Services said Wednesday evening that 99 percent of its shareholders had approved the company’s merger with UnitedHealth Group.,positive,0.8141322135925293
+2007-06-28,Sierra Shareholders Approve UnitedHealth Merger,neutral,0.11305016279220581
+2007-08-15,"Berkshire Hathaway, the investment firm run by Warren Buffett, bought stakes in Dow Jones and Bank of America and more than quadrupled its holdings of the health insurers UnitedHealth Group and WellPoint.",positive,0.6941811442375183
+2007-08-15,Buffett Takes Stakes in Dow Jones,neutral,0.04182793200016022
+2007-09-14,"The UnitedHealth Group, trying to fend off another investigation into the company’s backdating of stock options, asked the Minnesota Appeals Court on Thursday to block an inquiry by the state’s attorney general.",negative,-0.9176755547523499
+2007-09-14,UnitedHealth Aims to Bar Inquiry,neutral,0.03059408813714981
+2007-12-05,UnitedHealth and Humana are gambling heavily on Medicare Advantage — a program that has become a political target.,neutral,-0.08833213895559311
+2007-12-05,Two Insurers Increase Bet on Medicare,neutral,0.10805477201938629
+2007-12-07,"The founder of UnitedHealth Group, William W. McGuire, reached a settlement with regulators over the backdating of stock options and will forfeit $418 million in options and retirement benefits.",negative,-0.9060648679733276
+2007-12-07,Former Chief Will Forfeit $418 Million,negative,-0.5141823887825012
+2007-12-07,"In one of the largest corporate pay give-backs ever, William W. McGuire, the former chief executive of UnitedHealth Group, has agreed to forfeit at least $418 million to settle claims related to back-dated stock options.",negative,-0.844587504863739
+2007-12-07,Ex-UnitedHealth C.E.O.,neutral,0.035508230328559875
+2007-12-07,to Settle Inquiry for $400 Million,neutral,0.024977050721645355
+2007-12-09,A standard when pay has been based on short-lived earnings.,neutral,0.02240295335650444
+2007-12-09,Sharper Claws for Recovering Executive Pay,negative,-0.41293036937713623
+2007-12-10,"Investors everywhere should applaud the deal struck last week by the UnitedHealth Group to recover nearly $1 billion in pay from former executives involved in the company’s option backdating mess, writes Gretchen Morgenson in The New York Times.",positive,0.7855591177940369
+2007-12-10,Sharper Claws for Recovering Executive Pay,negative,-0.41293036937713623
+2008-01-30,California regulators announced Tuesday that they are seeking as much as $1.33 billion in penalties from PacifiCare as a result of widespread problems stemming from its takeover two years ago by healthcare giant UnitedHealth Group.,negative,-0.925590991973877
+2008-01-30,UnitedHealth Faces Fine Related to PacifiCare Merger,negative,-0.923916220664978
+2008-02-08,"Investors’ concerns about the $2.4 billion merger of Sierra Health Services and the UnitedHealth Group appear to be growing, judging from the widening spread in the companies’ share prices.",positive,0.6284893751144409
+2008-02-08,The reason?,neutral,-0.10713814198970795
+2008-02-08,"Continued political opposition in Nevada and the “risk that a further delay in the federal antitrust review could trigger new proceedings at the state level,” The Deal reports.",negative,-0.7599281668663025
+2008-02-08,Antitrust Concerns Hover Over UnitedHealth Deal,negative,-0.8732784390449524
+2008-02-14,"In the highly volatile world of options trading, minutes count.",neutral,-0.2243906855583191
+2008-02-14,"And it was one particular minute on Wednesday morning — one second, actually — that caught the eye of Jon Najarian, the co-founder of OptionMonster.com.",neutral,0.007043810561299324
+2008-02-14,Symptoms of a Tip-Off in UnitedHealth Trades?,negative,-0.7379327416419983
+2008-02-26,"The Justice Department approved UnitedHealth Group‘s $2.4 billion acquisition of Sierra Health Services on Monday, but required UnitedHealth to sell its Medicare Advantage business in Las Vegas to Humana as a condition.",neutral,0.05100666359066963
+2008-02-26,Justice Dept.,neutral,-0.03068007528781891
+2008-02-26,Signs Off on $2.4 Billion UnitedHealth Deal,positive,0.5133299827575684
+2008-04-03,"United Health Group said it will recommend patients continue using Vytorin, despite cardiologists’ caution that patients use the drug only if others have failed.",neutral,0.25786852836608887
+2008-04-03,Insurer Signals Confidence in Criticized Cholesterol Drug,positive,0.7958869338035583
+2008-04-22,"The insurer posted lower-than-expected first-quarter earnings and sharply reduced its outlook for 2008, saying fewer businesses and employees were signing up.",negative,-0.9669354557991028
+2008-04-22,UnitedHealth Misses Forecast and Stock Plunges,negative,-0.953151285648346
+2008-04-23,"The UnitedHealth Group posted lower-than-expected first-quarter earnings and sharply reduced its outlook for 2008, saying fewer businesses and employees were signing up.",negative,-0.968481183052063
+2008-04-23,Insurer Says Economy Has Dented Its Prospects,negative,-0.948682963848114
+2008-06-11,"Lawyers in a class action suit against UnitedHealth Group say freshly unsealed documents show that the company’s current chief executive, Stephen Hemsley, was more involved in granting backdated options than previously thought, The Wall Street Journal reported.",negative,-0.7965370416641235
+2008-06-11,"UnitedHealth Chief May Have Stronger Ties to Backdating, Report Says",positive,0.7948315739631653
+2008-07-02,"UnitedHealth Group, the health insurer, said on Wednesday that it agreed to pay $895 million to settle a class-action lawsuit with the California Public Employees Retirement System, which is known as Calpers, and Alaska Plumbing and Pipefitting Industry Pension Trust.",positive,0.6160444021224976
+2008-07-02,UnitedHealth Settles Backdating Lawsuit,neutral,0.033666450530290604
+2008-09-11,"A former chief executive of the UnitedHealth Group, William W. McGuire, will pay $30 million and return stock options representing more than three million shares to settle a class-action lawsuit.",neutral,-0.17437610030174255
+2008-09-11,Ex-UnitedHealth Chief Settles Case,negative,-0.40416502952575684
+2008-12-03,The company will sell the right to buy an individual health policy in the future even if you become sick.,neutral,0.08019718527793884
+2008-12-03,UnitedHealth to Insure the Right to Insurance,neutral,0.02861795201897621
+2009-01-13,New York’s attorney general ordered an overhaul of the way insurers decide what to pay for out-of-network care.,neutral,0.15285935997962952
+2009-01-13,Big Health Insurer Agrees to Update Its Fee Data,positive,0.6675810813903809
+2009-01-15,The managed-care company said that it would pay $350 million to settle the class-action suit over reimbursement for out-of-network claims.,positive,0.3557835817337036
+2009-01-15,"UnitedHealth Settlement Near, but Faces a Protest",negative,-0.8446252346038818
+2009-02-07,The giant insurer will test a system to reward doctors for the overall quality of care patients receive.,positive,0.6718298196792603
+2009-02-07,UnitedHealth and I.B.M.,neutral,0.04746590182185173
+2009-02-07,Test Health Care Plan,neutral,0.061310913413763046
+2009-02-28,"As the conversation intensifies about health care reform, no one knows what role the insurance industry will play in a revamped system.",neutral,0.08950833231210709
+2009-02-28,"Health Insurers, Poised for Round 2",neutral,-0.014921106398105621
+2009-03-31,UnitedHealth executives faced questions about whether they systematically shortchange consumers on reimbursements for using doctors outside the insurers’ own networks.,negative,-0.7457690238952637
+2009-03-31,Health Insurers Face Skeptical Senate Panel,negative,-0.6585913300514221
+2009-06-20,"The chief executive of Prescription Solutions, a UnitedHealth Group company, says ideas’ successes must be measured carefully.",neutral,0.27117273211479187
+2009-06-20,"The Divine, Too, Is in the Details",neutral,0.033376485109329224
+2009-07-21,"Managed care provider UnitedHealth Group said it will pay about $510 million to buy rival Health Net’s operations in the northeastern U.S., which include 578,000 members in Connecticut, New York and New Jersey.",neutral,0.2936398684978485
+2009-07-21,UnitedHealth Snaps Up Health Net Subsidiaries,negative,-0.3059728145599365
+2009-11-03,The health insurance industry likes to cite figures showing that 87 cents of every dollar in premiums is spent on medical claims.,neutral,0.0476062148809433
+2009-11-03,Senate Pressing Insurers on the Amount of Premiums They Spend on Care,neutral,-0.019571758806705475
+2009-12-21,"NowClinic, a service that connects patients and doctors using video chat, will expand across the country next year, but it is meeting some resistance.",negative,-0.521866500377655
+2009-12-21,The Virtual Visit May Expand Access to Doctors,positive,0.9001206755638123
+2010-02-03,"A start-up called Truth on Call lets reporters, financial analysts, pharmaceutical executives and, soon, patients, text questions to a group of doctors.",neutral,-0.04282688349485397
+2010-02-03,Have a Medical Question?,neutral,-0.2270801067352295
+2010-02-03,Text a Group of Doctors,neutral,0.015441440045833588
+2010-02-16,"Peter J. Henning of DealBook’s White Collar Watch examines the government’s latest legal defeat in its efforts to crack down on options backdating, this time involving a former director of Engineered Support Systems.",negative,-0.5149403810501099
+2010-02-16,Another Options Backdating Defeat,neutral,-0.014891650527715683
+2010-03-02,"A team of British financiers is working on a £1 billion bid for football club Manchester United, but the club’s owners are not interested in selling, according to British media reports.",neutral,-0.09433742612600327
+2010-03-02,Investors Said to Eye £1 Billion Bid for Manchester United,neutral,0.12675166130065918
+2010-03-09,"Lacking a clear consensus about the strength of the recovery, Wall Street fell into a seesaw pattern on Monday.",negative,-0.9478753209114075
+2010-03-09,Hesitation on Wall Street Leaves Shares Flat,negative,-0.6089398264884949
+2010-04-13,"A clinically tested program, in which losing 5 percent of body weight cut the risk of Type 2 diabetes by more than half, will be expanded to Y.M.C.A.’s in seven cities.",positive,0.7597797513008118
+2010-04-13,An Insurer’s New Approach to Diabetes,neutral,0.10306154936552048
+2010-04-30,White Collar Watch examines why the government’s criminal prosecutions in cases involving options backdating appear to be drawing to a close.,neutral,-0.4232589602470398
+2010-04-30,Behind the Fade-Out of Options Backdating Cases,neutral,-0.17682698369026184
+2010-07-17,"As the White House begins to enact the new national health care law, the biggest insurers are promoting plans with lower premiums that allow fewer doctors and hospitals.",neutral,0.37955594062805176
+2010-07-17,Insurers Push Plans That Limit Choice of Doctor,negative,-0.4014952778816223
+2011-05-14,"Companies continue to press for higher premiums, saying they need protection against any sudden uptick in demand once people have more money to spend on their health.",positive,0.726468563079834
+2011-05-14,Health Insurers Making Record Profits as Many Postpone Care,negative,-0.39993953704833984
+2011-07-19,The company said enrollment rose and members were moderating their use of health care services.,positive,0.7992908954620361
+2011-07-19,"Profit Up 13%, UnitedHealth Raises Outlook",positive,0.838472306728363
+2011-08-25,"Company boards are attracted to share buybacks when markets are down, but the purchase often ends up damaging the value of a stock.",negative,-0.8942068219184875
+2011-08-25,The Negative Side of Share Buybacks,negative,-0.62360680103302
+2011-09-20,"Aetna, Humana, Kaiser Permanente and the UnitedHealth Group will supply information about patients’ claims to a nonprofit group.",neutral,0.0272829607129097
+2011-09-20,4 Insurers Will Supply Health Data,neutral,0.02618507295846939
+2011-09-28,"The cost of health insurance this year rose more steeply than in previous years, outstripping wages and adding uncertainty about the pace of growing costs.",positive,0.688549816608429
+2011-09-28,Health Insurers Push Premiums Sharply Higher,negative,-0.8473825454711914
+2012-01-17,Health insurers and employers must now pay to screen children for obesity and provide them with counseling.,neutral,-0.08715291321277618
+2012-01-17,Experts say creating such programs will be a challenge.,neutral,-0.01664935052394867
+2012-01-17,Learning to Be Lean,neutral,0.20626090466976166
+2012-01-20,"Fourth-quarter profit rose 21 percent, to $1.26 billion, or $1.17 a share, compared with $1.04 billion, or 94 cents a share, a year earlier.",positive,0.850881814956665
+2012-01-20,UnitedHealth Beats Forecasts,neutral,0.0022968053817749023
+2012-06-11,"UnitedHealth says it will continue offering some of the popular consumer protections required by the federal health care law, even if the Supreme Court strikes down the entire law later this month.",positive,0.7848299741744995
+2012-06-11,Health Law Ruling Won’t Alter Plans by Insurer,negative,-0.6144806742668152
+2012-10-08,"The UnitedHealth Group agreed on Monday to buy a 90 percent stake in the Brazilian health care provider Amil Participações for $4.9 billion, as the American insurer looked to expand in the fast-growing country.",positive,0.8228222131729126
+2012-10-08,UnitedHealth to Buy Control of Brazilian Company for $4.9 Billion,neutral,0.07236229628324509
+2012-10-08,Regulators are getting help policing the rapid-fire markets from an unlikely source — the rapid-fire traders.,neutral,0.26816326379776
+2012-10-08,| Insiders say Twitter is aiming to go public in 2014.,neutral,-0.05994800478219986
+2012-10-08,| President Obama has a Wall Street problem in Silicon Valley.,negative,-0.7425037622451782
+2012-10-08,| The UnitedHealth Group strikes a deal to expand in Brazil.,positive,0.8683882355690002
+2012-10-08,A Regulatory Odd Couple,neutral,-0.25711214542388916
+2013-02-14,The National Federation of Nurses expects to gain more political clout and money by affiliating with the American Federation of Teachers.,positive,0.8563603758811951
+2013-02-14,"Seeking Growth, Nurses’ Union Links to Teachers’ Union",neutral,0.1300445795059204
+2013-10-11,"In the exchanges created by the Affordable Care Act, Blue Cross and Blue Shield plans offer name recognition and price advantages.",neutral,0.13155105710029602
+2013-10-11,Blue Cross Plans Jump to an Early Lead,neutral,0.09945130348205566
+2014-04-17,Profit declined 7.8 percent partly because of the health law and the high costs of a hepatitis C treatment.,negative,-0.9646207094192505
+2014-04-17,"Health Law Bellwether, UnitedHealth Posts Lower Profit",negative,-0.9243565797805786
+2014-07-01,"Executive Health Resources, a consultant owned by UnitedHealth Group, assists hospitals with winning larger payments from Medicare.",neutral,0.3441726267337799
+2014-07-01,"UnitedHealth, an Insurer Switching Roles, Helps Hospitals on Medicare Billing",neutral,0.087906114757061
+2014-07-10,"The sector is spending more than $65 billion a year in new “value-based” payment models, according to a Blue Cross Blue Shield Association study, which looked at 350 programs.",neutral,0.13667111098766327
+2014-07-10,"Health Insurers Are Trying New Payment Models, Study Shows",neutral,0.1073802039027214
+2014-09-29,"Many more writers have signed on to Authors United, a group not only challenging Amazon on its Hachette dealings, but also asking federal authorities to investigate it on antitrust matters.",neutral,-0.09111404418945312
+2014-09-29,Literary Lions Unite in Protest Over Amazon’s E-Book Tactics,negative,-0.8444991111755371
+2015-03-30,"The companies are combining forces in an effort to negotiate better deals with drug makers, which could lead to lower drug prices for consumers.",positive,0.768473744392395
+2015-03-30,UnitedHealth Group to Buy Catamaran in $12.8 Billion Pharmacy Benefits Deal,neutral,0.05860046297311783
+2015-03-30,Catamaran’s agreement to be sold indicates that benefit managers no longer need to make merger offers themselves to stay alive.,neutral,0.14430110156536102
+2015-03-30,UnitedHealth’s $12.8 Billion Deal Could Reduce Further Consolidation,neutral,0.41064852476119995
+2015-06-21,Anthem’s $47 billion takeover bid for Cigna comes as companies look to become even bigger to take advantage of the changes in the health insurance market.,positive,0.6718314290046692
+2015-06-21,Cigna Rejects an Overture From Anthem,negative,-0.5773529410362244
+2015-07-06,"As insurers grow larger, the effect on consumers depends largely on how successfully other companies, particularly those created or attracted by the Affordable Care Act, can compete.",neutral,0.12200060486793518
+2015-07-06,"With Merging of Insurers, Questions for Patients About Costs and Innovation",neutral,-0.02468465268611908
+2015-08-03,"Consumer advocates, policy experts and former regulators say that while Anthem, Cigna, Aetna and Humana may reap monetary benefits by combining, gains might not trickle down to individuals and employers.",positive,0.8235316872596741
+2015-08-03,"Bigger May Be Better for Health Insurers, but Doubts Remain for Consumers",neutral,0.15391415357589722
+2015-11-19,"Citing weak growth in the numbers of new people signing up for coverage, the company said it was reducing its earnings estimates for 2015 and 2016.",negative,-0.9604530334472656
+2015-11-19,"UnitedHealth Lowers Forecast, Blaming Affordable Care Act",negative,-0.899276852607727
+2015-11-20,"Concerned about an adverse effect on choice and price in medical care, consumer advocates and antitrust experts want state insurance commissioners to weigh in on two major merger proposals.",neutral,-0.04731516167521477
+2015-11-20,States Urged to Review Health Insurer Mergers,neutral,-0.04939676821231842
+2016-02-11,"Bank Whistleblowers United, an advocacy group, aims to improve the status of Wall Street whistle-blowers and change the way Wall Street is regulated.",positive,0.6269614100456238
+2016-02-11,"Wall St. Whistle-Blowers, Often Scorned, Get New Support",neutral,-0.12195687741041183
+2016-04-18,Apple and the F.B.I.,neutral,-0.14286528527736664
+2016-04-18,will defend their positions on encryption.,neutral,0.07430031150579453
+2016-04-18,"And Volkswagen faces a Thursday deadline to present its plan to fix 600,000 diesel cars in the United States.",negative,-0.6212377548217773
+2016-04-18,"Apple to Testify Again, and VW Due Date Nears",neutral,0.11731510609388351
+2016-04-19,The company said it planned to withdraw from most states and offer policies on the public exchanges in only some states for 2017.,neutral,0.0021476466208696365
+2016-04-19,"UnitedHealth to Pull Back From Insurance Exchanges, Citing Losses",negative,-0.8351237773895264

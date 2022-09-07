@@ -1,0 +1,18 @@
+Date,Sentence,Prediction,sentimentScore
+2014-07-22,"Security researchers have found that a new string of cyberattacks are being orchestrated by some of the same people behind the Nigerian 419 swindle, in which fraud artists try to trick foreign victims into transferring money to their bank accounts.",negative,-0.7671836614608765
+2014-07-22,The New Nigerian Email Swindle,negative,-0.7209421992301941
+2014-09-26,Intel is spending big money to invest in a Chinese maker of systems for mobile phones in hopes of capturing more of the chip market and to leap past competitors like Qualcomm.,positive,0.7032130360603333
+2014-09-26,Intel Invests $1.5 Billion to Tap Mobile Phone Chip Market in China,positive,0.6846386194229126
+2014-10-27,Investors were trying to assess how much confidence to place in the European banking sector after a review of banks deemed the bulk of them healthy.,positive,0.5733177065849304
+2014-10-27,European Stocks Decline After Most Banks Pass E.C.B.,negative,-0.9450692534446716
+2014-10-27,Stress Tests,neutral,-0.2148602157831192
+2015-12-07,The move is designed to protect its technology while playing to a China market brimming with makers of inexpensive smartphones.,positive,0.735444962978363
+2015-12-07,Taiwan Semiconductor Manufacturing to Open Own Plant in China,neutral,0.14856210350990295
+2015-12-11,"The top free application in Apple’s App Store there for much of last week wasn’t a mobile game or a social network, but a tool of protest.",neutral,-0.4263898432254791
+2015-12-11,A Protest App Rises to the Top in Taiwan,neutral,0.13503938913345337
+2015-12-15,"ASE has made an offer to buy, for about $3.9 billion, the three-quarters of Siliconware Precision Industries that it does not own.",neutral,0.4320504367351532
+2015-12-15,Advanced Semiconductor Engineering Keeps Up Pursuit of Taiwan Rival,neutral,0.20568716526031494
+2016-03-30,"The move by the Taiwan manufacturing company is intended to strengthen its ties to the iPhone maker, which uses Sharp screens.",positive,0.9227147102355957
+2016-03-30,"To Woo Apple, Foxconn Bets $3.5 Billion on Sharp",neutral,0.09178385138511658
+2016-05-25,"As sales dwindle, most of the reduction will come in Finland, where the mobile business bought from Nokia originated.",negative,-0.94566410779953
+2016-05-25,"Microsoft Cutting 1,850 Jobs in Smartphone Unit",negative,-0.9507121443748474

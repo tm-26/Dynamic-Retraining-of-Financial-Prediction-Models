@@ -1,0 +1,129 @@
+Date,Sentence,Prediction,sentimentScore
+2014-01-08,"The JeffreyGroup, an agency known mainly for public relations, is creating a new agency to provide cross-cultural marketing to Hispanics.",neutral,0.3303629755973816
+2014-01-08,"New Agency, a Spinoff, Will Aim Its Message at a Hispanic Audience",neutral,0.0946810245513916
+2014-01-23,"Leaders of manufacturing companies, facing an aging population of skilled employees, say apprenticeships and internships can help society avoid a “lost generation” of workers.",positive,0.5838901400566101
+2014-01-23,"Apprenticeships Could Help Reduce Youth Unemployment, Business Leaders Say",positive,0.7906551361083984
+2014-02-04,"A golden lab puppy who refuses to leave his Clydesdale “bud” won plaudits; a Coca-Cola spot evoking the nation’s multicultural populace drew mostly positive reactions, but some raw comments as well.",positive,0.5024975538253784
+2014-02-04,‘Puppy Love’ Warms Hearts; Diversity Draws Mixed Response,neutral,0.11177299171686172
+2014-02-05,Coke will buy about 16.7 million shares in Green Mountain for about $1.25 billion.,neutral,0.03244474530220032
+2014-02-05,"In return, Green Mountain will be the official maker of the soda giant’s single-serve cold beverages, built on its popular Keurig pod-based system.",positive,0.625862717628479
+2014-02-05,Coca-Cola to Buy 10% Stake in Green Mountain Coffee,neutral,0.05222640931606293
+2014-02-06,"Analysts and investors think that a deal between Coke and Green Mountain may presage another one: some sort of tie-up between SodaStream and Coke’s archrival, PepsiCo.",positive,0.671755313873291
+2014-02-06,Green Mountain’s Deal With Coke Fails to Dent SodaStream,negative,-0.9048142433166504
+2014-02-07,Coca-Cola presumably gave Green Mountain Coffee a comprehensive review before deciding to buy a stake.,neutral,0.12560343742370605
+2014-02-07,"But the hedge fund manager David Einhorn can’t be easily dismissed either, Kevin Allison writes in Reuters Breakingviews.",negative,-0.6393917202949524
+2014-02-07,Coke and Einhorn Take Opposite Sides of Green Mountain Bet,neutral,0.027635639533400536
+2014-02-10,"Coca-Cola North America brought out a new campaign for Diet Coke over the weekend during the NBC coverage of the Winter Olympics, and more.",neutral,0.32402852177619934
+2014-02-10,News From the Advertising Industry,neutral,0.009864628314971924
+2014-02-19,"The company blamed cooling growth in emerging markets and the negative impact of foreign exchange rates, which it expects to have even greater impact this year.",negative,-0.8439775705337524
+2014-02-19,"Profit Slides 8.5% for Coke, as Weak Sales Abroad Hit Hard",negative,-0.9516157507896423
+2014-02-28,"The very idea that the Coke brand may be in trouble is startling, given that Coca-Cola has thrived for 127 years, surviving countless passing health fads.",negative,-0.010930031538009644
+2014-02-28,"For Coke, Challenge Is Staying Relevant",positive,0.6148693561553955
+2014-03-04,"Ellen DeGeneres used a Samsung phone, an Oscar sponsor, for a star-studded selfie, but an iPhone to post from backstage.",neutral,-0.09666167944669724
+2014-03-04,And that Coca-Cola emblazoned pizza delivery box rankled PepsiCo.,neutral,0.15488412976264954
+2014-03-04,"Selfies, Pizza and Promoting Brands at the Oscars",neutral,-0.018356671556830406
+2014-03-25,A money manager claims Coca-Cola allocated as much as $24 billion toward stock-based rewards for its senior people.,neutral,0.057395800948143005
+2014-03-25,A Question of What’s a Reasonable Reward,neutral,-0.10811193287372589
+2014-04-14,"Kevin Harvick took the lead after a late-race caution; Marc Marquez won the MotoGP event in Austin, Tex.",neutral,0.12218105047941208
+2014-04-14,Monday Motorsports: Harvick Wins Another Nascar Crown Jewel,positive,0.6607140302658081
+2014-04-21,"A lawyer for Coca-Cola remained poised under sometimes harsh questioning on its Pomegranate Blueberry juice blend, which contains only notes of either fruit.",negative,-0.824114203453064
+2014-04-21,Skeptical Justice Scolds Coca-Cola on Juice Label,negative,-0.8562612533569336
+2014-05-04,Warren E. Buffett answered roughly six hours’ worth of questions – including pointed queries about his opposition to a controversial executive pay plan at the Coca-Cola Company.,neutral,-0.2154514342546463
+2014-05-04,"At Berkshire Annual Meeting, Questions for Buffett About Coca-Cola and Deals",neutral,-0.0830540657043457
+2014-05-06,"The company said that would stop using brominated vegetable oil, which contains bromine, an element found in flame retardants, in Fresca and some varieties of Fanta and fountain drinks.",neutral,-0.14514122903347015
+2014-05-06,Coca-Cola to Remove an Ingredient Questioned by Consumers,negative,-0.750092089176178
+2014-05-07,"Mocked in social media, the soft drink’s slogan “You’re on” is being dropped from its ad campaign after only three months.",negative,-0.8982194066047668
+2014-05-07,"Mocked on Internet, Diet Coke Alters Ads",negative,-0.7348400950431824
+2014-05-12,Petco withdraws an ad with reference to Bonnie and Clyde in describing pets and their owners.,negative,-0.9210252165794373
+2014-05-12,Q. and A.,neutral,0.0380171574652195
+2014-05-12,With Stuart Elliott,neutral,0.02111242711544037
+2014-05-15,"With soda sales sliding in grocery and convenience stores and other retail outlets, new equipment offers the companies a means of introducing consumers to their products.",positive,0.6752902865409851
+2014-05-15,Pepsi Challenges Coke in the Race to Design a More Tappable Soda Fountain,positive,0.5898899435997009
+2014-06-12,"The juice blend, sold under the Minute Maid brand, is made almost entirely from apple and grape juice but is called Pomegranate Blueberry.",neutral,0.02513248845934868
+2014-06-12,"Coke Can Be Sued by Rival Over Juice Claim, Court Says",negative,-0.7499477863311768
+2014-07-07,"SABMiller, the world’s second-largest brewer after Anheuser-Busch InBev, plans to sell its 39.6 percent stake in Tsogo Sun Holdings for about $1.1 billion.",neutral,0.01763402670621872
+2014-07-07,SABMiller to Sell Stake in South African Hotel and Casino Group,neutral,-0.02688184753060341
+2014-07-09,"An overvalued bolívar meant the country had been a major source of profits for foreign firms, but they evaporated for many with a new exchange rate.",neutral,0.14055676758289337
+2014-07-09,Profits Vanish in Venezuela After Currency Devaluation,negative,-0.8929082751274109
+2014-07-26,Why is coconut water everywhere?,neutral,-0.34855973720550537
+2014-07-26,"Because two companies battled for market share, one yoga studio and corner store at a time.",neutral,0.03226471692323685
+2014-07-26,"For Coconut Waters, a Street Fight for Shelf Space",neutral,-0.11890231817960739
+2014-08-14,A major rationale for the deal was Coca-Cola’s desire to find a replacement for carbonated soft drink sales.,neutral,0.33979400992393494
+2014-08-14,Coke to Buy Stake in Monster Beverage for $2.15 Billion,neutral,0.017741402611136436
+2014-08-15,"Buying a piece of Monster is a capitulation of sorts, though Coca-Cola hasn’t caved in financially, Kevin Allison of Reuters Breakingviews writes.",neutral,0.14680753648281097
+2014-08-15,Coke Finds Right Formula in Monster Deal,neutral,0.3494086265563965
+2014-09-09,"The maker of Cheerios is paying a 37 percent premium, for “natural” macaroni and cheese purveyor Annie’s Homegrown.",neutral,0.10481718182563782
+2014-09-09,"But big companies often squash growth when they swallow small targets whole, notes Kevin Allison of Reuters Breakingviews.",negative,-0.7348101735115051
+2014-09-09,The Risk in the General Mills Deal for Annie’s,neutral,0.0030340850353240967
+2014-09-23,The three companies said they would change practices like marketing to encourage less consumption of calorie-heavy drinks.,neutral,0.4558229148387909
+2014-09-23,"Soda Makers Coca-Cola, PepsiCo and Dr Pepper Join in Effort to Cut Americans’ Drink Calories",negative,-0.6639691591262817
+2014-10-01,The big question that now hangs over the company is whether the adjustments will satisfy the shareholders who had voiced their concerns over the plan.,neutral,-0.038980305194854736
+2014-10-01,"Coca-Cola, Yielding to Criticism, Revises Its Proposal for Executive Pay",negative,-0.3729898929595947
+2014-10-09,Four of the top 10 brands on the 2014 Interbrand Best Global Brands list are technology brands.,neutral,0.07642404735088348
+2014-10-09,Technology Titans Lead Ranking of Most Valuable Brands,neutral,0.3141651153564453
+2014-11-07,The company says that its new All-Terrain T/A KO2 will work as well on the highway as on the trail.,positive,0.8417065739631653
+2014-11-07,The Rubber Meets the Mud: Trying Out a New BFGoodrich Off-Road Tire,neutral,0.0929984599351883
+2014-11-18,"With only a few days left in the legislative session, Congress will decide whether to renew 56 tax provisions set to expire.",neutral,0.038637734949588776
+2014-11-18,It’s Crunch Time in Congress for Tax Breaks,neutral,-0.3281097710132599
+2014-12-21,"Next year, companies are expected to spend more money on digital advertising than on TV commercials in China.",neutral,0.3589459955692291
+2014-12-21,"In China, a Rapid Jump to Mobile Advertising",positive,0.7900634407997131
+2015-01-06,The last 12 months saw above-average creativity in saying one thing and meaning another.,neutral,0.19268366694450378
+2015-01-06,John Foley and Rob Cox of Reuters Breakingviews offer 10 euphemisms they would most like to disappear.,neutral,-0.06140083074569702
+2015-01-06,The Year in Market Doublespeak,neutral,-0.05334798991680145
+2015-01-09,The company said in the fall that it would eliminate jobs to reduce costs but did not say how many until Thursday.,negative,-0.9014030694961548
+2015-01-09,"Coca-Cola to Cut Up to 1,800 Jobs",negative,-0.947296142578125
+2015-02-02,"Ads broadcast during the game were not devoid of the usual celebrities and slapstick comedy, but commercials celebrating fatherhood and public proclamations of love dominated.",neutral,-0.06993050873279572
+2015-02-02,"Super Bowl Commercials Go for Heart, Not Just Funny Bone",neutral,0.023911187425255775
+2015-02-05,"The bid by Ball values Rexam at about $6.5 billion and would combine two of the world’s largest makers of beverage cans, whose customers include giants like PepsiCo and Coca-Cola.",positive,0.6124352812767029
+2015-02-05,Ball Corporation in Merger Talks With British Aluminum Can Maker Rexam,neutral,0.021116511896252632
+2015-02-10,"The beverage giant cited currency fluctuations and charges tied to Venezuela, but it is grappling with the larger problem of changing consumer tastes.",negative,-0.500055193901062
+2015-02-10,Coca-Cola Earnings Plunge 55%,negative,-0.9462305903434753
+2015-02-23,"Faced with slumping sales despite a thriving United States market for water products, the home-carbonation company is rethinking its product line.",negative,-0.8171776533126831
+2015-02-23,SodaStream Hits Reset as Its Sales and Profit Fall,negative,-0.860975980758667
+2015-02-25,"When the company introduced the sweeter New Coke, it did not anticipate the “depth of feeling” for the original taste, Mr. Keough said in announcing a return to the regular formula.",neutral,0.1645604372024536
+2015-02-25,"Donald R. Keough, Who Led Coca-Cola Through New Coke Debacle, Dies at 88",neutral,-0.24486535787582397
+2015-03-22,"Drawn by fast-growing private tech companies, big money managers are purchasing their shares, betting that they’ll go public.",neutral,0.43478691577911377
+2015-03-22,But that outcome is hardly guaranteed.,neutral,-0.0036230087280273438
+2015-03-22,Americans’ Retirement Funds Increasingly Contain Tech Start-Up Stocks,neutral,-0.11310665309429169
+2015-03-23,"Fidelity Investments, T. Rowe Price and BlackRock are some of the money managers that have struck deals to acquire shares in Silicon Valley start-ups like Uber, Airbnb and Pinterest.",neutral,0.21479512751102448
+2015-03-23,Daily Report: Private Tech Stocks Attracting Billions From Big Money Managers,positive,0.6587933301925659
+2015-05-01,One study estimated that more than half of what private equity charges pension funds to manage their investments is not being disclosed.,neutral,-0.05807606875896454
+2015-05-01,Pension Funds Can Only Guess at Private Equity’s Cost,neutral,-0.12987056374549866
+2015-05-11,Television networks are offering new data-driven products to help advertisers reach targeted audiences even as they shift to digital and social media.,positive,0.6358727216720581
+2015-05-11,TV Networks Borrow Page From Digital Rivals to Attract Advertisers,neutral,0.08421580493450165
+2015-05-18,"The adman behind the Coke ad used in the series finale of “Mad Men” shares the true inspiration for the lyric, “I’d like to buy the world a Coke.”",neutral,0.05205726623535156
+2015-05-18,‘Mad Men’ Finale Renews Spotlight on Creator of ’71 Coke Jingle,positive,0.7096612453460693
+2015-07-22,The company attributed its higher earnings in part to strong growth in sales of small and “specialty” packages like eight-ounce cans.,positive,0.9237351417541504
+2015-07-22,"Coca-Cola Profit Up 19%, Despite Lower Sales",positive,0.7990028858184814
+2015-08-06,The deal will combine Coca-Cola Enterprises and Coca-Cola Iberian Partners and Coca-Cola Erfrischungsgetränke to form the world’s largest independent bottler of Coca-Cola products.,positive,0.7546684145927429
+2015-08-06,Three Coca-Cola Bottlers in Europe Agree to Merger,positive,0.6365959048271179
+2015-08-20,The company was criticized after disclosure that it had financial ties to a group that argues for less concern about eating habits and more emphasis on exercise.,negative,-0.9259374737739563
+2015-08-20,Coca-Cola to Disclose Its Spending on Research Into Soft Drinks and Health,neutral,-0.06271342933177948
+2015-08-25,The beverage company announced a plan in 2007 to replenish the amount of water equivalent to its sales volume — about 160 billion liters — by 2020.,positive,0.7714549899101257
+2015-08-25,It could get to that point this year.,positive,0.6161881685256958
+2015-08-25,Coca-Cola Says It’s Close to Water Replenishment Goal,neutral,0.2391800731420517
+2015-09-07,A decision due from a Spanish court could test the government’s effort to give employers flexibility to address the country’s high unemployment rate.,negative,-0.6776920557022095
+2015-09-07,Dispute at Coke Bottling Plant Could Signal Labor Challenges for E.U.,negative,-0.9476075768470764
+2015-10-09,"One of the main European bottlers of the soda can proceed with a plan to downsize, ending a tense legal dispute over a shuttered bottling plant.",positive,0.7626422047615051
+2015-10-09,Coca-Cola Bottler Wins Labor Suit in Spain,negative,-0.8596062660217285
+2015-10-21,"Despite higher volume sales,the company reported that revenue fell to $11.4 billion.",negative,-0.9656379222869873
+2015-10-21,Analysts had expected $11.58 billion.,neutral,0.0229782871901989
+2015-10-21,Coca-Cola Reports 4.6% Drop in Revenue,negative,-0.9672669768333435
+2016-01-26,"Johnson Controls is just the latest corporation to flee America for greener, lower-tax pastures.",neutral,0.007050316780805588
+2016-01-26,"And until lawmakers reform the tax code, the exodus will continue.",neutral,-0.3675215244293213
+2016-01-26,A Tidal Wave of Corporate Migrants Seeking (Tax) Shelter,neutral,-0.24634869396686554
+2016-02-07,"All Chipotle stores will be closed for four hours on Monday, and after a shake-up at Viacom, the media company will report on Tuesday how it’s faring.",negative,-0.8341373205184937
+2016-02-07,"A Short Shutdown for Chipotle, Viacom’s Earnings and Yellen to Testify",negative,-0.8013902306556702
+2016-02-09,"Sales were down 8 percent, but higher prices compensated for the drop, the company said on Tuesday.",negative,-0.9579673409461975
+2016-02-09,"Coca-Cola Reports Solid Profit, Topping Wall St.",positive,0.913557767868042
+2016-02-09,Forecasts,neutral,-0.06866522878408432
+2016-05-16,Mr.,neutral,0.04346195608377457
+2016-05-16,Backer created the classic 1971 commercial for Coca-Cola with singers on an Italian hilltop proclaiming Coke as “the real thing.”,neutral,0.06938605010509491
+2016-05-16,"Bill Backer, Who Taught the World (and Don Draper) to Sing, Dies at 89",neutral,-0.15676221251487732
+2016-06-02,"He made marketing deals with celebrities like Michael Jackson, Madonna, Cindy Crawford and Michael J.",neutral,0.062001146376132965
+2016-06-02,Fox to try to gain market share from Coca-Cola.,positive,0.6736571192741394
+2016-06-02,"Roger Enrico, PepsiCo Chief During 1980s ‘Cola Wars,’ Dies at 71",neutral,-0.27168193459510803
+2016-10-10,A new report documents the beverage industry’s deep financial ties to health groups as part of a strategy to silence critics and gain unlikely allies.,neutral,0.41579484939575195
+2016-10-10,"Coke and Pepsi Give Millions to Public Health, Then Lobby Against It",neutral,-0.030822644010186195
+2016-11-23,"As more cities impose tax on sugary drinks, a vow from some soft drink producers to reduce calories 20 percent in 10 years advances ever so slightly.",negative,-0.8305662274360657
+2016-11-23,Creeping Progress in Pledge to Cut Calories in Sugary Soda,positive,0.418398380279541

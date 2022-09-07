@@ -1,0 +1,33 @@
+Date,Sentence,Prediction,sentimentScore
+2014-02-16,"Military contractors from Austria, Australia, Israel, the United States and other countries showcased unmanned aerial vehicles throughout the week at the Singapore Airshow.",positive,0.5018747448921204
+2014-02-16,"At Asia Air Show, Plenty of Competition for Sales of Drones",neutral,0.14118221402168274
+2014-04-23,"The country will buy 58 more F-35 fighter jets for $11.6 billion, in a deal the prime minister called one of Australia’s largest military purchases.",positive,0.7176728844642639
+2014-04-23,Australia to Bolster Air Force With More Lockheed Jets,positive,0.7428073287010193
+2014-05-08,Sikorsky Aircraft and Lockheed Martin won a $1.24 billion contract on Wednesday to begin building a new presidential helicopter.,positive,0.8986644744873047
+2014-05-08,Sikorsky and Lockheed to Build New Presidential Helicopter,neutral,0.07401066273450851
+2014-06-07,"Women have a much harder time becoming a chief executive and hold well under 10 percent of such jobs, but those who do earn the same as men.",negative,-0.6247069239616394
+2014-06-07,An Elusive Jackpot,neutral,0.040528155863285065
+2014-06-19,Senators propose raising the federal gas and diesel tax for the first time since 1993; Acura will support the Tiger Woods Foundation.,neutral,0.38424021005630493
+2014-06-19,Wheelies: The Price of Fuel Edition,neutral,0.004278197884559631
+2014-07-11,"The Joint Strike Fighter, produced by Lockheed Martin, is expected to make its debut at the Famborough International Airshow.",neutral,0.1879669576883316
+2014-07-11,"The World Awaits the F-35, the Latest in Flying Firepower",neutral,0.269402414560318
+2014-07-15,"But the Pentagon’s newest warplane will not be making its debut this week at an air show in England, as originally planned.",neutral,-0.15367664396762848
+2014-07-15,F-35 Fighter Jet Cleared to Resume Flights,neutral,-0.07401473820209503
+2014-09-17,"Blue Origin, owned by Jeff Bezos, agreed to work with United Launch Alliance, which has sent nearly all United States spy and military satellites into space in the last decade.",positive,0.7577290534973145
+2014-09-17,A Bezos Company Will Make Engines for Rockets,neutral,0.02062767930328846
+2014-09-18,"Blue Origin, a private space company owned by Jeff Bezos, said that it had agreed to work with a joint venture run by Boeing and Lockheed Martin to build new engines for their Atlas 5 rockets.",positive,0.8793966770172119
+2014-09-18,Daily Report: Space Race Between Billionaires Heats Up as Bezos Venture Seeks Foothold,neutral,0.02690575271844864
+2014-09-24,The deal includes technology transfers that will help the country build advanced combat aircraft of its own.,positive,0.7968907952308655
+2014-09-24,South Korea Formally Announces Intent to Buy 40 Lockheed Fighter Jets,positive,0.7084338068962097
+2015-03-30,Korea Aerospace Industries has been selected for the $7.7 billion project and will receive technological help from Lockheed Martin.,positive,0.7112262845039368
+2015-03-30,South Korea Picks Contractor to Develop New Jet Fighter,positive,0.6808401346206665
+2015-07-20,"The deal would further bolster Lockheed’s status as the world’s biggest military contractor, giving it another major business line.",positive,0.9256479144096375
+2015-07-20,Lockheed Martin to Buy Sikorsky Aircraft for $9 Billion,neutral,0.03502434864640236
+2016-11-23,"The country’s previous administration had planned to buy 65 F-35s from Lockheed Martin, but then wavered over the price, estimated at $45.8 billion.",negative,-0.8819053173065186
+2016-11-23,Canada to Buy F-18s From Boeing to Shore Up Its Fighter Fleet,positive,0.7445196509361267
+2016-12-22,The president-elect said he was looking to “bring costs down” on the F-35 fighter jet program and Boeing’s plans to build new Air Force One planes.,positive,0.5853313207626343
+2016-12-22,Trump Meets Boeing and Lockheed Executives After Assailing Them on Jet Costs,negative,-0.438937783241272
+2016-12-23,Donald J. Trump’s post on Twitter suggested that Boeing’s pitch may have swayed him to buy more of its F-18s over Lockheed Martin’s F-35s.,positive,0.44004911184310913
+2016-12-23,Trump Pits Boeing Against Lockheed to Cut Costs of New Fighter Jets,negative,-0.8102898001670837
+2016-12-24,"The President-elect may be pitting defense contractors against each to force down prices, but military and political realities may intervene.",negative,-0.57191401720047
+2016-12-24,"Trump’s Push to Cut Jet Costs Hits a Nerve, but His Demands Face Limitations",negative,-0.5570046901702881

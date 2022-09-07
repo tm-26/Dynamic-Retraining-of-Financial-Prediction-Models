@@ -1,0 +1,554 @@
+Date,Sentence,Prediction,sentimentScore
+2007-03-16,Madison Avenue’s ability to contribute phrases to the vernacular has always been prized as a way to amplify an ad campaign.,neutral,0.3933776319026947
+2007-03-16,Do You Know Where Your Slogan Is?,neutral,0.0088910311460495
+2007-03-22,"Bluetooth headphones are becoming more popular, and the Insignia player promises stereo playback through compatible devices.",neutral,0.42546766996383667
+2007-03-22,"An MP3 Player With Bluetooth: Look, Ma, Stereo but No Wires",neutral,-0.03353211283683777
+2007-04-10,"Here’s a peculiar investment strategy: Sell something for $39, and then buy it back less than a year later for more than $100.",neutral,0.02294240891933441
+2007-04-10,That’s essentially what MasterCard International is proposing to do with its own stock.,neutral,0.017788046970963478
+2007-04-10,"MasterCard Sells Low, Buys High",neutral,0.06881849467754364
+2007-06-28,"Playboy Enterprises will open a 40,000-square-foot entertainment complex, the Playboy Mansion Macao, with dining, entertainment and retail shops, in Macao in late 2009, the chief executive, Christie Hefner, said.",neutral,0.062075819820165634
+2007-06-28,"The complex will be part of the Macao Studio City complex, with the gambling operations run by a casino operator, Melco International Development, Ms. Hefner, left, said in an interview in Macao.",neutral,0.03266981244087219
+2007-06-28,"Macao Studio City, a $2 billion joint venture between the Hong Kong-listed ESun Holdings and partners including Silver Point Capital, is next to the Lotus Bridge, which will link Macao and the mainland Chinese city of Zhuhai.",neutral,0.18476814031600952
+2007-06-28,"It will include a film studio, a million-square-foot shopping mall, and gambling and convention sites.",neutral,0.07166748493909836
+2007-06-28,China: Playboy to Open Entertainment Complex in Macao,neutral,0.20950710773468018
+2007-06-28,"UBS Securities, the investment-banking division of the Swiss-based UBS, was accused by Massachusetts regulators of dishonest and unethical practices in dealings with hedge-fund advisers.",negative,-0.9238319993019104
+2007-06-28,"The subsidiary, based in Stamford, Conn., gave hedge-fund managers below-market rent, low-interest personal loans and other benefits to retain and increase business, according to a complaint from the office of William Galvin, the secretary of the commonwealth and its top securities regulator.",negative,-0.4471195340156555
+2007-06-28,The complaint also accuses UBS of failing to supervise gifts and gratuities.,negative,-0.9203576445579529
+2007-06-28,"The action, filed with the state’s Securities Division, seeks a cease-and-desist order, a censure and an undisclosed administrative fine, the statement said.",negative,-0.6636754274368286
+2007-06-28,"Doug Morris, a UBS spokesman in New York, declined to comment.",neutral,-0.19108854234218597
+2007-06-28,Switzerland: Massachusetts Challenges U.S. Unit of UBS,neutral,-0.03073544055223465
+2007-06-30,"Apple has lots of iPhones in stock, but AT&T takes hours to activate them.",neutral,0.009860003367066383
+2007-06-30,IPhone: Waiting for Ma Bell,neutral,0.030966628342866898
+2007-07-01,An article on June 17 about the increasing use of debit and credit cards for small purchases referred incorrectly to the overall value of such transactions.,neutral,0.046960607171058655
+2007-07-01,"According to research by MasterCard, transactions of less than $5 totaled $1.32 trillion, not billion, last year.",neutral,-0.026378395035862923
+2007-07-01,Who Needs Pocket Change When You’ve Got Plastic?,neutral,-0.27327921986579895
+2007-07-22,Wireless carriers in the United States are spiritual descendants of dear Ma Bell: they view total control over customers as their inherited birthright.,neutral,0.051280952990055084
+2007-07-22,When Mobile Phones Aren’t Truly Mobile,neutral,-0.29725849628448486
+2007-08-02,"MasterCard saw its second-quarter profit nearly double, but shares slid after the company fell short of the most optimistic analyst estimates.",negative,-0.9630041122436523
+2007-08-02,MasterCard Meets Most Estimates,neutral,0.03965697064995766
+2007-08-11,How difficult is it to become an Internet millionaire?,neutral,-0.24932819604873657
+2007-08-11,"With a good idea, not very, says Guy Kawasaki.",neutral,0.10669170320034027
+2007-08-11,But the result may not achieve greatness.,neutral,0.02042388916015625
+2007-08-11,Easy Money Isn’t That Easy,neutral,-0.11494296789169312
+2007-08-25,"Credit card companies are increasingly marketing a variety of cards that are a hybrid of credit, debit and gift cards to teenagers.",neutral,0.07979954779148102
+2007-08-25,Cards Train Teenagers to Use Plastic,neutral,0.009723816066980362
+2007-11-08,The settlement comes nearly three years after the Supreme Court ruled that Visa and MasterCard had violated antitrust rules.,neutral,0.13539807498455048
+2007-11-08,Visa Agrees to Pay Amex $2.1 Billion to Settle Suit,positive,0.5728719830513
+2007-11-12,"Visa, the biggest credit card network in the nation, said in a regulatory filing Friday that it hoped to raise $10 billion in an initial public stock offering.",positive,0.5649343132972717
+2007-11-12,Visa said it planned to deposit a portion of the company’s proceeds from the offering into an escrow account to pay settlements or judgments related to litigation.,neutral,0.02123396471142769
+2007-11-12,"Following MasterCard, Visa Schedules an I.P.O.",neutral,0.01676463522017002
+2007-12-12,"JDS Uniphase, a maker of telecommunications equipment, has agreed to buy American Bank Note Holographics, whose holograms are used by MasterCard and Visa, for $138 million in cash and stock, the companies announced Tuesday.",positive,0.6519462466239929
+2007-12-12,JDS Uniphase to Buy Hologram Maker,neutral,0.0738755464553833
+2007-12-17,"Sales of women’s clothing, a traditional pillar of the holiday shopping season, are unusually weak so far this year, according to a major credit card company.",negative,-0.9655293226242065
+2007-12-17,Retailers Face an Ominous Holiday Sign,negative,-0.7504125237464905
+2008-02-04,"MasterCard once again reported blowout earnings last week, bolstering predictions of a smooth ride for the much-anticipated $10 billion initial public offering for its rival Visa.",positive,0.8624446392059326
+2008-02-04,Rough Economic Conditions May Fuel Visa I.P.O.,negative,-0.5414002537727356
+2008-02-13,"Mastercard launches a new spot for its 'Priceless' campaign, using a young man's roving eye.",neutral,0.4177844524383545
+2008-02-13,A Newly Curious Eye,neutral,-0.05019448697566986
+2008-02-14,Thirty seconds of advertising time on the Academy Awards will cost an estimated $1.6 million.,neutral,0.02123582735657692
+2008-02-14,"To ensure that no dollar goes to waste, marketers like J.C. Penney, Unilever and MasterCard are “planning to run spots previously unseen by consumers,” Stuart Elliott reports in today’s New York Times.",neutral,0.10213744640350342
+2008-02-14,"30 Seconds Cost a Lot, but the Memories May Be Priceless",neutral,0.03930307924747467
+2008-03-03,"China Merchants Bank is interested in buying into a planned initial public offering of shares by Visa, the credit card network, but any deal would first need Chinese regulatory approvals, its president Ma Weihua said on Monday.",neutral,0.14890679717063904
+2008-03-03,China Merchants Shows Interest in Visa I.P.O.,neutral,0.45446792244911194
+2008-03-24,"Stock prices soared in Taiwan as investors welcomed the presidential election victory of Ma Ying-jeou, a Nationalist who has called for closer relations with mainland China.",positive,0.5537314414978027
+2008-03-24,Presidential Vote Fuels Taiwan’s Market,neutral,0.24178561568260193
+2008-03-25,"Stock prices soared in Taiwan as investors welcomed the presidential election victory of Ma Ying-jeou, a Nationalist who has called for closer relations with mainland China.",positive,0.5537314414978027
+2008-03-25,Election Outcome in Taiwan Buoys Stock Market,positive,0.5206575393676758
+2008-06-03,"Mr. Bill, the clay doll that was pulverized in vintage “Saturday Night Live” skits, makes it through the day in a new ad campaign by MasterCard.",neutral,0.22454014420509338
+2008-06-03,Mr. Bill Returns (in One Piece) to Pitch a Debit Card,neutral,0.05950503796339035
+2008-06-06,"Panasonic, Sharp and Sony are now selling TVs that connect directly to the Internet, bringing a varying range of content to TV screens without using a PC.",neutral,0.058263957500457764
+2008-06-06,"The systems do not give direct Internet access, but rather offer a selection of Web-based material.",neutral,0.0017589665949344635
+2008-06-06,"At least for Sharp and Panasonic, the content is still pretty limited.",negative,-0.6680978536605835
+2008-06-06,"Say, What’s On the Internet Tonight?",neutral,-0.07451918721199036
+2008-06-10,"Discover Financial Services wants roughly $6 billion in damages from its larger rivals Visa and MasterCard in a long-running antitrust lawsuit, court documents made public on Monday show.",negative,-0.842597484588623
+2008-06-10,Discover Is Seeking $6 Billion From Rivals,neutral,0.058982864022254944
+2008-06-21,"After fostering the explosive growth of consumer debt in recent years, financial companies are reducing the credit limits on cards held by millions of Americans, often without warning.",neutral,0.03978952765464783
+2008-06-21,Banks Trimming Limits for Many on Credit Cards,negative,-0.2676754593849182
+2008-06-24,"A few weeks ago, I pointed to data from MasterCard SpendingPulse that showed a sharp fall-off in gasoline purchases.",negative,-0.9427362680435181
+2008-06-24,"Then after the Memorial Day weekend, I saw more evidence of price-induced conservation.",neutral,0.15387293696403503
+2008-06-24,Conservation Efforts Are Slipping,neutral,0.14844012260437012
+2008-06-25,"From Eric Dash, a DealBook colleague:",neutral,0.07341843843460083
+2008-06-25,MasterCard Pays $1.8 Billion to American Express,neutral,0.03642968833446503
+2008-06-26,The deal comes months after Visa paid more than $2.1 billion to American Express over similar antitrust claims.,neutral,0.1002700924873352
+2008-06-26,MasterCard Will Pay $1.8 Billion to American Express,neutral,0.04322117939591408
+2008-07-08,"The Media Equation column in Business Day on Monday, about the relationship of Fox News with reporters who cover it, misidentified the owner of TV Guide.",negative,-0.7538304924964905
+2008-07-08,"It is the Macrovision Solutions Corporation, not the News Corporation, which completed the magazine’s sale to Macrovision in May.",neutral,0.026219861581921577
+2008-07-08,CORRECTIONS: FOR THE RECORD,neutral,-0.10978783667087555
+2008-07-30,Serebra Connect is an auction site for services that steers the work to students in developing countries.,neutral,0.014139745384454727
+2008-07-30,Outsource Your Chores — And Feel Good While You’re at It,neutral,0.06584232300519943
+2008-09-17,Cisco Systems has created a virtual switch that performs the functions of its networking hardware using software alone.,neutral,0.02202994003891945
+2008-09-17,"Look, Ma, No Hardware: Cisco’s Virtual Switch",neutral,-0.03304888308048248
+2008-10-07,MasterCard SpendingPulse said a drop-off in consumer spending had sent its specialty retail sales index plunging 7.7 percent in September compared with last year.,negative,-0.9624946117401123
+2008-10-07,Steep Decline in September Spending,negative,-0.9200493097305298
+2008-10-15,Discover Financial Services has agreed to settle an antitrust lawsuit it filed in 2004 against card networks Visa and MasterCard.,positive,0.4101209044456482
+2008-10-15,"Discover had been seeking about $6 billion in damages, as it contended the card networks had harmed its business by preventing their member banks from issuing credit cards for Discover’s network.",negative,-0.9371380805969238
+2008-10-15,"Discover, Visa And MasterCard Settle Antitrust Suit",neutral,0.06310846656560898
+2008-10-28,MasterCard and Visa said they agreed to pay credit card issuer and network Discover Financial Services a total of $2.75 billion to settle a lawsuit over anti-competitive practices.,positive,0.33956384658813477
+2008-10-28,"MasterCard, Visa Settle With Discover",neutral,0.02046240121126175
+2008-11-04,"The credit card company, MasterCard, said Monday that it swung to a loss in the third quarter, hurt by a legal charge.",negative,-0.9629466533660889
+2008-11-04,MasterCard Cites Legal Bill as It Posts a Loss,neutral,-0.021120816469192505
+2008-11-05,"With business slowing and every dollar important to their bottom line, some merchants are pushing for changes.",neutral,-0.13867339491844177
+2008-11-05,Small-Business Owners Lobby to Cut Credit Card Fees,negative,-0.7405091524124146
+2008-12-15,Q & A with Stuart Elliott.,neutral,-0.0018088538199663162
+2008-12-15,Q & A with Stuart Elliott,neutral,0.022084038704633713
+2009-01-06,"HgCapital, a middle-market private equity firm, has managed to unload the last of its dot-com investments to MasterCard for $100 million.",neutral,0.16093845665454865
+2009-01-06,HgCapital Sells Assets to MasterCard,neutral,0.013625288382172585
+2009-01-20,"Heartland Payment Systems said the system it used to process Visa, MasterCard, American Express and Discover Card transactions was breached last year.",negative,-0.9536467790603638
+2009-01-20,Credit Card Processor Says Some Data Was Stolen,neutral,-0.3074496388435364
+2009-03-09,Alibaba’s Jack Ma thinks the recession is going to last a long time.,negative,-0.4695989787578583
+2009-03-09,But he says Chinese factories can help American entrepreneurs.,positive,0.6960977911949158
+2009-03-09,When Will the Good Times Return?,neutral,0.06226307153701782
+2009-05-19,"A primer on the new restrictions that credit card companies face, and some reassurances on those rewards programs.",neutral,0.12176070362329483
+2009-05-19,Consumers Are Dealt a New Hand in Credit Cards,neutral,0.17584773898124695
+2009-06-13,Ping An Insurance Company plans to buy a $3.2 billion stake in the Shenzhen Development Bank Company.,neutral,0.06469535827636719
+2009-06-13,Chinese Insurer Increases Stake in Bank,positive,0.5240013003349304
+2009-06-15,"Kohlberg Kravis Roberts said it had completed a series of investments in Ma Anshan Modern Farming, a Chinese dairy farm company.",positive,0.8199979066848755
+2009-06-15,K.K.R.,neutral,0.06834582984447479
+2009-06-15,Announces Stake in Chinese Dairy,neutral,0.08308684825897217
+2009-06-19,"Ajay Banga, a senior Citigroup banking executive and the head of the beleaguered firm’s Asia-Pacific business, is leaving to become MasterCard’s president and chief operating officer.",neutral,0.014198830351233482
+2009-06-19,Citigroup’s Banga to Join MasterCard as President,neutral,-0.0014081671833992004
+2009-06-20,"Ajay Banga, the head of Citigroup’s Asia Pacific region, is leaving the troubled bank for a top management post at MasterCard.",neutral,-0.1834852397441864
+2009-06-20,Citigroup’s Asia Unit Chief Is Going to MasterCard,neutral,-0.047499340027570724
+2009-07-06,"Citigroup has tapped Stephen Bird and Shirish Apte as Asia-Pacific chief executives, filling the vacancy left by Ajay Banga who announced he was leaving last month.",neutral,0.36644113063812256
+2009-07-06,Citigroup Names Leaders for Asia-Pacific Zone,neutral,0.027871787548065186
+2009-07-06,Q & A with Stuart Elliott.,neutral,-0.0018088538199663162
+2009-07-06,Q & A with Stuart Elliott,neutral,0.022084038704633713
+2009-09-14,"Since the beginning of the downturn, issuers have created several new premium cards that come with fees and extra services.",neutral,0.11350102722644806
+2009-09-14,Turning to Premium Credit Cards,neutral,0.14661352336406708
+2009-09-23,A sharp increase in individual giving after an earthquake in 2008 led to a sharper focus on corporate generosity.,positive,0.7808072566986084
+2009-09-23,"In China, Philanthropy as a New Measuring Stick",neutral,0.07766859978437424
+2009-09-24,A sharp increase in individual giving after an earthquake in 2008 led to a sharper focus on corporate generosity.,positive,0.7808072566986084
+2009-09-24,"In China, Philanthropy as a New Measuring Stick",neutral,0.07766859978437424
+2009-11-04,Some analysts are now predicting higher levels of holiday spending this season than last.,positive,0.7855181694030762
+2009-11-04,"In October, Signs of Life at Retailers",positive,0.5636030435562134
+2009-11-10,Even the best cardholders are seeing their interest rates rise and credit lines get cut as financial firms struggle to make money in their card units.,negative,-0.9351601004600525
+2009-11-10,A Squeeze on Customers Ahead of New Rules,negative,-0.8122451305389404
+2009-12-03,Google’s new domain name system has a rival questioning the search giant’s motives.,negative,-0.7704432606697083
+2009-12-03,Pondering Google’s Move Into the D.N.S.,neutral,0.06154964119195938
+2009-12-03,Business,neutral,0.03906751424074173
+2009-12-12,"A 15 percent discount, or no interest payments for 18 months, sounds enticing, but there are some other things you need to know about store-brand credit cards.",neutral,0.0351424515247345
+2009-12-12,"The Lure of Store Credit Cards, and the Hook",neutral,0.06943082809448242
+2009-12-28,"This season, retailers controlled inventories and expenses, leading to fewer discounts and better profit margins.",positive,0.7871812582015991
+2009-12-28,A Tentative Sparkle Enlivens Holiday Shopping,neutral,0.31351238489151
+2010-01-05,"The growing use of debit cards has meant big profits for Visa, and there are concerns that the company's market power has led to unnecessarily high fees to merchants.",negative,-0.9134233593940735
+2010-01-05,Visa Reigns With Silent Tax,neutral,-0.06236192584037781
+2010-01-05,"When you sign for a debit card at a retailer, the store pays your bank more than twice as much as when you enter a PIN — a strategy Visa hatched decades ago.",neutral,0.10692468285560608
+2010-01-05,"How Visa, Using Card Fees, Dominates a Market",neutral,0.03766515105962753
+2010-01-06,"Retailers did not discount as deeply as they did in 2008, a positive sign for profit margins.",positive,0.7304985523223877
+2010-01-06,Christmas Sales Brought a Move Toward Stability,positive,0.4691922664642334
+2010-01-06,"Morgan Stanley won a legal battle with its former subsidiary, Discover Financial Services, over nearly $800 million that Morgan Stanley says it was owed by the credit card company.",negative,-0.8805734515190125
+2010-01-06,Morgan Stanley Wins Lawsuit Against Discover,negative,-0.7584521770477295
+2010-01-12,"The House Oversight and Government Reform Committee is demanding that the Federal Reserve Bank of New York turn over its records about the bailout of the American International Group, particularly those involving billions of dollars in payments made to A.I.G.’s trading partners.",negative,-0.6035981178283691
+2010-01-12,House Panel Subpoenas New York Fed on A.I.G.,negative,-0.6273940205574036
+2010-02-05,"MasterCard said it earned $294 million, or $2.24 a share, but fell short of analyst estimates of $2.48 a share.",negative,-0.9360819458961487
+2010-02-05,MasterCard Posts Profit That Misses Expectations,negative,-0.46685904264450073
+2010-02-11,The list of the biggest earners in finance usually reads like a Who’s Who of Wall Street.,neutral,-0.07480061054229736
+2010-02-11,"But these days, it reads more like a Who’s That?",neutral,-0.223922997713089
+2010-02-11,Wall St.’s Biggest Bonuses Go to Not-So-Big Names,neutral,-0.0470077209174633
+2010-02-12,"Discover Financial Services paid Morgan Stanley $775 million to settle claims related to sharing proceeds from an antitrust suit against credit card networks Visa and MasterCard, according to a regulatory filing on Friday.",neutral,-0.01173439621925354
+2010-02-12,Discover Settles With Morgan Stanley for $775 Million,neutral,0.0435885488986969
+2010-03-01,"Sure, few people were prepared for the rolling disaster of the subprime mortgage crisis and its huge financial repercussions, but some investors saw it coming, and in an excerpt from Michael Lewis’s new book, “The Big Short: Inside the Doomsday Machine,” one hedge fund manager shows he was way ahead of his time.",neutral,-0.1725456714630127
+2010-03-01,Michael Burry: Subprime Short-Seller No.,neutral,-0.3116031289100647
+2010-03-01,1,neutral,0.06526117771863937
+2010-04-09,The MasterCard Marketplace site relies on technology that monitors customer behavior and uses the data to help merchants tailor their product offerings.,neutral,0.01551697589457035
+2010-04-09,MasterCard Set to Open an Online Shopping Mall,neutral,0.0750105008482933
+2010-04-12,"MasterCard said on Monday that it has named Ajay Banga as its next chief executive and a new board member, effective July 1.",neutral,0.060440514236688614
+2010-04-12,MasterCard Names Banga as Next Chief,neutral,0.02144237980246544
+2010-04-13,"A promotion that, although expected, represented a sharp turn in style and substance for MasterCard, a conservative payment company.",positive,0.8756736516952515
+2010-04-13,"Naming a New Chief, MasterCard Signals It Is Open to Changes",neutral,0.4701673686504364
+2010-04-13,"MasterCard named a onetime star at Citigroup as its next chief executive on Monday, a widely expected move that could nonetheless shake up the giant payment company, The New York Times reported.",positive,0.5474960207939148
+2010-04-13,New Chief at MasterCard Signals It’s Open to Change,neutral,0.12652821838855743
+2010-04-22,The acquisition will allow Visa to increase its leading position in commerce on the Internet.,positive,0.9272221326828003
+2010-04-22,Visa Buys CyberSource for $2 Billion,neutral,0.03351100534200668
+2010-05-13,"General Motors is weighing a return to the finance business, possibly by acquiring its former unit GMAC.",neutral,0.10463927686214447
+2010-05-13,This is troubling on many levels.,negative,-0.8332704901695251
+2010-05-13,Perils of Finance for a Carmaker,negative,-0.4057912826538086
+2010-05-13,"That Ed Whitacre, who rebuilt AT&T from the Ma Bell breakup, now appears to be considering doing the same at General Motors, is troubling on many levels, Breakingviews says.",negative,-0.938130259513855
+2010-05-13,Perils of Finance for a Carmaker,negative,-0.4057912826538086
+2010-05-13,An amendment to the financial reform bill takes aim at so-called price-fixing.,neutral,-0.1164688766002655
+2010-05-13,Senate Considers Credit Card Fee Relief for Merchants,neutral,0.04752698168158531
+2010-05-14,An amendment to the Senate’s financial legislation that imposes price controls is a victory for retailers after years of fighting banking industry lobbyists.,positive,0.8118512034416199
+2010-05-14,Consumers also could save money.,neutral,0.4059944748878479
+2010-05-14,Debit Fee Cut Is a Rare Loss for Big Banks,negative,-0.8746095895767212
+2010-05-25,"For consumers trying to figure out what the financial overhaul bill means for them, the legislation the Senate passed Thursday offers some tantalizing possibilities, Ron Lieber writes in The New York Times.",neutral,0.16333650052547455
+2010-05-25,How the Finance Bill Affects Consumers,neutral,-0.07979226112365723
+2010-05-25,MasterCard plans to open its platform so developers can use its payment technology in mobile and Web apps.,neutral,0.44268935918807983
+2010-05-25,MasterCard Wants Programmers to Use Its Payment Technology,neutral,0.041357915848493576
+2010-06-16,"Wal-Mart Stores has bought itself an indirect link to the commercial banking space through a deal to invest in the prepaid debit-card seller Green Dot, The Financial Times reported.",positive,0.8142839074134827
+2010-06-16,Wal-Mart Invests in Green Dot,neutral,0.04073205217719078
+2010-06-26,"Robert W. Selander, who is retiring this week as chief executive of MasterCard, says it is important for leaders to relate to stakeholders at different levels of their companies.",neutral,0.08143709599971771
+2010-06-26,The X Factor When Hiring?,neutral,-0.05526360124349594
+2010-06-26,Call It ‘Presence’,neutral,0.009595200419425964
+2010-06-28,"Makhteshim Agan Industries, an agrochemical company based in Israel, will buy Albaugh, a maker of herbicide based in Iowa, for about $1 billion.",neutral,0.04906010255217552
+2010-06-28,Israel’s MA Pays $1 Billion for U.S. Herbicide Maker,neutral,0.04004073143005371
+2010-07-22,"It seems like investors were feeling pretty good about Green Dot Wednesday, as the prepaid debit card company priced its initial public offering above the expected range.",positive,0.6094448566436768
+2010-07-22,Green Dot Prices Its I.P.O.,neutral,0.049287643283605576
+2010-07-22,Above Expected Range,neutral,0.03994247317314148
+2010-07-26,"Almost any personal information is for sale online through the so-called “Bug Market,” including credit card numbers, e-mail addresses and access to computer systems.",neutral,0.0019516702741384506
+2010-07-26,What’s for Sale on the Bug Market?,neutral,-0.006086207926273346
+2010-08-10,"The Chinese e-commerce firm Alibaba Group will acquire a 16 percent stake of Sogou, the search engine of China’s second-largest Internet portal, Sohu, The Financial Times reported.",positive,0.6850476264953613
+2010-08-10,Alibaba Takes Stake in Chinese Web Portal,neutral,0.03637189790606499
+2010-08-14,MasterCard is about to introduce tools for credit and debit cards that let consumers block a highly customizable array of purchases.,neutral,0.2933362126350403
+2010-08-14,"Your Card Has Been Declined, Just as You Wanted",neutral,-0.3556438982486725
+2010-08-19,MasterCard agreed to buy British payment service provider DataCash Group for about 333 million pounds ($520 million) in cash to expand its e-commerce business.,positive,0.8173909187316895
+2010-08-19,MasterCard to Buy DataCash for $520 Million,neutral,0.04705018177628517
+2010-10-04,The Justice Department has a proposed deal with two of three companies it sued for anticompetitive practices.,neutral,-0.39653658866882324
+2010-10-04,U.S.,neutral,-0.05536564439535141
+2010-10-04,Reaches Deal in Credit-Card Antitrust Suit,positive,0.6989355087280273
+2010-10-16,"Ajay Banga, MasterCard’s new chief, is racing to take plastic to the rising middle class in India and beyond.",positive,0.4939974844455719
+2010-10-16,Who Needs Cash (or Borders)?,neutral,-0.16698813438415527
+2010-10-22,Cards will soon have lights and buttons that allow users to choose to pay for items with reward points or credit.,neutral,0.08823814243078232
+2010-10-22,Credit Cards Soon to Get a Makeover,neutral,-0.22177636623382568
+2010-11-27,"Vitaly Borker welcomes customer complaints, saying they vault his business higher in Internet search results.",negative,-0.31462299823760986
+2010-11-27,A Bully Finds a Pulpit on the Web,negative,-0.4819737672805786
+2010-12-09,Facebook and Twitter face tough decisions around how they should handle situations as politically charged as the WikiLeaks developments.,negative,-0.8140806555747986
+2010-12-09,Hackers Give Web Companies a Test of Free Speech,neutral,-0.03399179130792618
+2010-12-09,The $458 million deal for the Travelex business  pushes MasterCard into foreign markets in the prepaid card sector.,positive,0.9190571904182434
+2010-12-09,MasterCard Buys Prepaid Card Unit From Travelex,neutral,0.061883192509412766
+2010-12-14,"Kissing, shredding paper and riding a bicycle are among the activities linked to the annual celebration in Times Square by marketers like Nivea, Duracell, GetMarried.com and MasterCard.",neutral,0.031025299802422523
+2010-12-14,"For New Year’s Eve, the Tie-Ins Erupt",neutral,-0.3896484375
+2010-12-14,Goldman on Goldman | WikiLeaks and Wilde | Declining Demand for Men,negative,-0.8622273802757263
+2010-12-14,Morning Take-Out,neutral,0.07331109046936035
+2010-12-16,Shares of MasterCard and Visa dropped after the Fed’s report went much further than the 50 percent reduction that Wall Street analysts had expected.,negative,-0.9656220078468323
+2010-12-16,Fed Proposes Rules to Cut Debit Card Fees,neutral,-0.1597064733505249
+2010-12-21,Or will it pit merchants against consumers?,negative,-0.6217385530471802
+2010-12-21,Will the Fed’s Debit Fee Rule Help Merchants?,neutral,0.38788074254989624
+2011-01-08,"The reliability of complex Web services should grow over time, though it might never achieve the standard set by Ma Bell.",positive,0.89997798204422
+2011-01-08,99.999% Reliable?,neutral,0.13397690653800964
+2011-01-08,Don’t Hold Your Breath,negative,-0.34198862314224243
+2011-03-02,The Harvard professor setting up the Consumer Financial Protection Bureau met with nearly 50 executives from more than 30 banks in January alone.,neutral,0.03249950706958771
+2011-03-02,Bankers Line Up to Meet Elizabeth Warren,neutral,0.06559699028730392
+2011-03-22,"The great Ma Bell was broken up in 1984, the result of a federal antitrust suit.",negative,-0.49552398920059204
+2011-03-22,The telephone giant is once again inciting worry that competition and consumers will suffer from the deal to buy T-Mobile for $39 billion.,negative,-0.9257792234420776
+2011-03-22,Back to the Future for AT&T,neutral,0.12033171951770782
+2011-03-23,"With cellphones ready to act as credit cards, banks, carriers and card issuers are fighting for control.",negative,-0.8171057105064392
+2011-03-23,Swiping Is the Easy Part,neutral,-0.01910782791674137
+2011-04-15,ESPN and MasterCard Worldwide join forces for a branded-entertainment project centered on soccer.,positive,0.7709808349609375
+2011-04-15,ESPN and MasterCard Put Focus on ‘Futbol’,neutral,0.04155206307768822
+2011-05-25,"Google will offer mobile payments with MasterCard and Citigroup, according to a person briefed on the introduction, as well as with cellphone carriers, hardware manufacturers and retailers.",neutral,0.15326689183712006
+2011-05-25,Google Expected to Introduce a Wireless Payment System,neutral,0.20966188609600067
+2011-06-16,"The move dashed investors’ hopes of an imminent public listing of Taobao.com, but raised the prospect that it might go public later.",negative,-0.4682745337486267
+2011-06-16,Alibaba Group to Split Up E-Commerce Site,negative,-0.4583226442337036
+2011-06-21,SABMiller’s effort to acquire of the Australian beer giant Foster’s values the company at about $10 billion.,neutral,0.054639462381601334
+2011-06-21,DealBook’s Jeffrey Cane and Adrienne Carter discuss the rationale behind the proposed deal and the continuing consolidation in the beer market.,neutral,0.08743761479854584
+2011-06-21,SABMiller’s Australian Adventure,neutral,0.055558718740940094
+2011-07-07,MasterCard Worldwide is expanding its efforts to bring its long-running “Priceless” advertising campaign to life.,positive,0.8868605494499207
+2011-07-07,MasterCard Brings ‘Priceless’ to a Pricey Place,neutral,0.05408447980880737
+2011-07-29,"If Alipay, a Chinese payments processing company, does go public, Alibaba will be paid proceeds of at least $2 billion.",neutral,0.051287807524204254
+2011-07-29,Yahoo and Alibaba Resolve Dispute Over Alipay,negative,-0.8134377002716064
+2011-08-28,Time Warner owns the rights to a Guy Fawkes mask and is paid a licensing fee with the sale of each mask worn by members of the hacker group Anonymous.,neutral,0.027500789612531662
+2011-08-28,Masked Protesters Aid Time Warner’s Bottom Line,negative,-0.7633306384086609
+2011-09-22,"A group that includes Silver Lake and DST Global is offering to buy privately owned shares in Alibaba, valuing the Chinese e-commerce giant at more than $32 billion.",positive,0.577350914478302
+2011-09-22,Silver Lake and DST Begin Tender Offer for Alibaba Shares,neutral,0.1645696610212326
+2011-10-04,"Broken up, the pieces of Yahoo might be worth more than the search-engine company as a whole.",neutral,0.12099839746952057
+2011-10-04,Questions Over Yahoo’s Value as Buyers Weigh Bids,negative,-0.563389241695404
+2011-11-25,"Mr. Ma was the Post Company’s senior vice president for new business development and publisher of Express, the company’s free commuter tabloid newspaper for the Washington area.",neutral,0.03182583674788475
+2011-11-25,"Christopher Ma, Washington Post Executive, Dies at 61",neutral,-0.373069703578949
+2011-12-29,"Amid talks with Yahoo, the fast-growing Chinese Internet company has hired the Duberstein Group, led by Kenneth M. Duberstein, who was President Reagan’s White House chief of staff.",neutral,0.1007620170712471
+2011-12-29,Alibaba Taps Lobbying Firm,neutral,0.04008154571056366
+2012-01-23,"A vehicle known as a variable interest entity allows Chinese companies like Alibaba to accept money from foreign investors through an offshore entity, even in restricted industries.",neutral,0.07094152271747589
+2012-01-23,The government is taking a closer look.,neutral,0.036747582256793976
+2012-01-23,A Loophole Poses Risks to Investors in Chinese Companies,negative,-0.8745227456092834
+2012-02-15,The developments raised questions about whether Yahoo would be able to reverse years of missteps and make itself relevant in an Internet landscape now dominated by Google and Facebook.,positive,0.8214949369430542
+2012-02-15,Yahoo Faces Stalled Deal and Fight Over Board,negative,-0.9304563403129578
+2012-02-21,"Alibaba offered on Tuesday to buy the remaining shares of Alibaba.com for 13.50 Hong Kong dollars a share, roughly the same price at which the unit went public in 2007.",neutral,0.20248331129550934
+2012-02-21,Alibaba Offers to Take Subsidiary Private,neutral,0.054800279438495636
+2012-03-30,An intrusion at a third-party vendor may have exposed cardholders’ personal information.,negative,-0.8861457109451294
+2012-03-30,MasterCard and Visa Investigate Data Breach,neutral,0.024736449122428894
+2012-04-02,"A look ahead at markets, with Leo Grohowski of BNY Mellon Wealth Management; the fallout for Visa and MasterCard from a data breach; Brian Stelter on the booking battle at morning shows.",neutral,-0.16533993184566498
+2012-04-02,"Business Day Live | April 2, 2012",neutral,0.042257897555828094
+2012-04-02,"A look ahead at markets, with Leo Grohowski of BNY Mellon Wealth Management; the fallout for Visa and MasterCard from a data breach; Brian Stelter on the booking battle at morning shows.",neutral,-0.16533993184566498
+2012-04-02,Business Day Live: Visa’s Data Breach,neutral,-0.02760959044098854
+2012-04-30,"Governments reports will include personal income for March and unemployment figures for April, and companies reporting earnings will include MasterCard, General Motors, Kraft Foods and LinkedIn.",neutral,-0.0075122397392988205
+2012-04-30,Economic Reports for the Week Ahead,neutral,0.0058092400431632996
+2012-05-07,"As merchants upgrade payment terminals, technology companies are maneuvering to become the standard in paying with taps and swipes.",positive,0.6062528491020203
+2012-05-07,Many Competing Paths on the Road to the Phone Wallet,neutral,-0.11022169142961502
+2012-05-24,The Chinese Investment Corporation is said to be in talks to lend money to the Internet company Alibaba so it can repurchase a stake held by Yahoo.,neutral,0.1638626605272293
+2012-05-24,Alibaba Said to Seek Billions to Buy Back Yahoo Stake,neutral,0.061629023402929306
+2012-07-13,"Under the terms of a settlement in a lawsuit over payment processing, merchants can charge higher prices to customers who pay with credit cards.",neutral,0.0110049769282341
+2012-07-13,MasterCard and Visa Will Pay Billions to Settle Antitrust Suit,neutral,0.057161882519721985
+2012-07-17,"Businesses weighed next moves after a deal that allows merchants to offer discounts to those paying with cash, and to impose fees on those using plastic.",neutral,0.20585936307907104
+2012-07-17,Merchants Considering Credit Card Surcharges,neutral,-0.4034994840621948
+2012-08-08,A $7.3 billion deal between credit card companies and merchants contains a provision that makes it effectively impossible for many merchants to take advantage of it.,neutral,-0.3600996732711792
+2012-08-08,"Visa and MasterCard Settle Lawsuit, but Merchants Aren’t Celebrating",negative,-0.8413534164428711
+2012-08-08,Or is it too favorable to the credit card companies?,negative,-0.462584912776947
+2012-08-08,Will the Credit Card Settlement Help Merchants?,positive,0.6939624547958374
+2012-09-18,"The Alibaba Group said on Tuesday that it has closed on the repurchase of a 20 percent stake in itself from Yahoo, taking the first major step toward a long-held goal of regaining full control of its destiny.",neutral,0.4012340307235718
+2012-09-18,"In Buyback Deal, Alibaba Gets Half of Yahoo’s Stake",neutral,0.05695114657282829
+2012-10-15,Retail advocates have complained that the deal does little to remedy the card companies’ most egregious practices.,negative,-0.937277615070343
+2012-10-15,Merchant Plaintiffs Line Up Against Credit Card Settlement,negative,-0.6976743340492249
+2012-11-05,"Legislative and legal efforts to reduce the swipe fees levied on credit cards and ease the burden on merchants are under siege from financial interests, an economist writes.",negative,-0.06242024898529053
+2012-11-05,The Big Swipe,neutral,-0.14057724177837372
+2012-11-09,An analysis of President Obama’s tough choices on housing.,neutral,0.031636837869882584
+2012-11-09,"| On Wall Street, its time to mend fences with the president.",neutral,-0.005841478705406189
+2012-11-09,| Andrew Ross Sorkin said that the election won’t solve all puzzles.,negative,-0.6086553931236267
+2012-11-09,"| A big bets soured, imperiling a small firm.",negative,-0.884750247001648
+2012-11-09,| A deal maker for Morgan Stanley was eased out.,negative,-0.9305031299591064
+2012-11-09,| HSBC may face charges in a laundering inquiry.,negative,-0.7272343635559082
+2012-11-09,"Week in Review: On Wall Street, a New Tone With Old Tactics",neutral,0.26582106947898865
+2013-01-15,"Jack Ma plans to relinquish the role of Alibaba’s chief executive in May, the Internet entrepreneur told DealBook in an interview on Monday.",neutral,-0.003409123048186302
+2013-01-15,"But he isn’t leaving entirely, holding on to the role of executive chairman.",neutral,0.01657242141664028
+2013-01-15,Alibaba’s Founder to Give Up C.E.O.,neutral,-0.0028282776474952698
+2013-01-15,"Title, but Will Remain Chairman",neutral,0.018122971057891846
+2013-01-15,The government’s strategy of relying on lower-level employees to investigate Steven A. Cohen is not without its challenges.,neutral,0.06563320755958557
+2013-01-15,"| Jack Ma, the founder of Alibaba, is giving up his C.E.O.",neutral,-0.14363759756088257
+2013-01-15,title but staying on as executive chairman.,neutral,0.028014641255140305
+2013-01-15,| Shares of Dell rose on Monday after a report that the company was in talks over a potential buyout.,positive,0.8674793243408203
+2013-01-15,"| Thomas Weisel, a legendary banker behind Yahoo’s public offering, has been thrust in the spotlight for backing Lance Armstrong.",neutral,-0.3701709806919098
+2013-01-15,"In Pursuit of Cohen, One Dead End",neutral,-0.2669076919555664
+2013-03-25,Every merchant services application I have seen has required a Social Security number and demanded that all card transactions be backstopped by my own assets.,neutral,-0.4574185609817505
+2013-03-25,"My house, my car and my savings are all up for grabs if things go wrong.",neutral,-0.18523019552230835
+2013-03-25,What You Need to Know About Credit Card Processing,neutral,0.030400153249502182
+2013-04-25,A back-of-the-envelope exercise in valuing the Hangzhou-based e-commerce giant should it seek to go public.,positive,0.5192501544952393
+2013-04-25,Why Alibaba Could Be China’s Next $100 Billion I.P.O.,neutral,0.061335448175668716
+2013-05-25,"Mata Amritanandamayi, known as Amma, is a globe-trotting guru who embraces the masses — and a get-it-done management style for her charities.",neutral,0.05657079070806503
+2013-05-25,"Amma’s Multifaceted Empire, Built on Hugs",neutral,0.29861053824424744
+2013-06-17,An ambitious package of measures to combat air pollution and a summit meeting between President Obama and President Xi Jinping might have been overshadowed by Edward J. Snowden and his disclosures about the National Security Agency’s cyberactivities.,negative,-0.8431516289710999
+2013-06-17,"In China, a Push for Cleaner Air",neutral,-0.1397155374288559
+2013-07-24,"The proposals, which are expected to face heavy industry opposition, would apply to transactions between financial services companies that consumers never see.",neutral,0.04014046490192413
+2013-07-24,European Union Advocates Limiting Fees on Debit and Credit Card Transactions,neutral,0.06280428171157837
+2013-08-06,"Google’s own Android phone offers five features that no phone has offered before, including a touchless mode.",neutral,0.0670304074883461
+2013-08-06,"The Moto X From Google, iPhone’s Latest Challenger",neutral,0.08466151356697083
+2013-08-22,The appeal will test the courts’ power to overturn the financial regulations that stemmed from the banking overhaul after the financial crisis.,neutral,-0.10637004673480988
+2013-08-22,Fed Appeals Rejection of Rule on Debit Card Fees,negative,-0.5526121854782104
+2013-08-23,"The Chinese e-commerce giant, which analysts expect could be valued at $100 billion or more in an initial public offering, has made a proposal to allow top executives to retain control over corporate strategy, according to a person with knowledge of the matter.",neutral,0.12274012714624405
+2013-08-23,Alibaba Said to Push to Allow Partners to Nominate Board Members,neutral,0.07129555940628052
+2013-09-24,The Spanish telecommunications giant Telefónica agreed to raise its stake in the struggling Telecom Italia to 66 percent through a $437 million share issue in an attempt to gain greater control of the Italian operator’s assets in Latin American markets.,positive,0.9007939696311951
+2013-09-24,"Raising Its Stake in Telecom Italia, Telefónica Eyes Latin America",positive,0.7513186931610107
+2013-09-25,"Ownership rules prevented the company from making its highly anticipated, and potentially very lucrative, debut in Hong Kong, as it had wished",negative,-0.9054895639419556
+2013-09-25,Chinese Internet Giant Alibaba Plans to Issue I.P.O.,neutral,0.10103877633810043
+2013-09-25,in New York,neutral,-0.025481298565864563
+2013-09-27,"Jack Ma, the executive chairman of the Internet giant Alibaba, and his wife, Cathy Zhang, are joining some of Silicon Valley’s biggest names as sponsors of the world’s richest prize for medicine and biology.",neutral,0.08320984244346619
+2013-09-27,Jack Ma to Join Tech Moguls in Backing Medical Research Prize,neutral,0.06933724135160446
+2013-10-04,"Members of the collective Anonymous were indicted on charges that they conspired to bring down at least six Web sites, including those of Visa and MasterCard.",negative,-0.8382381796836853
+2013-10-04,U.S.,neutral,-0.05536564439535141
+2013-10-04,Accuses 13 Hackers in Web Attacks,negative,-0.761635422706604
+2013-12-09,The Chinese e-commerce giant announced a plan on Monday to invest in the new venture with a Chinese manufacturer of household appliances.,neutral,0.40546923875808716
+2013-12-09,Alibaba Invests $360 Million in Logistics Deal with Haier,neutral,0.30163243412971497
+2013-12-20,"Agreements with American Express, MasterCard and Visa have cleared the way for vendors to institute what is essentially two-tier pricing for shoppers.",positive,0.7841575145721436
+2013-12-20,An Easing of Rules on Charges by Amex,neutral,0.3058580458164215
+2013-12-20,"Merchants will now have the opportunity to levy surcharges on credit card transactions, but will they use it?",neutral,0.06124609708786011
+2013-12-20,Analyzing the American Express Surcharge Settlement,neutral,0.03224896267056465
+2013-12-30,"Where credit scores are rare, banks are using a psychometric test developed at Harvard to help lend to small-business owners.",neutral,-0.039964839816093445
+2013-12-30,"Credit Score, by Multiple Choice",neutral,0.043906230479478836
+2014-01-06,"Carlos Menendez of MasterCard cuts it close on his way to the gate, and he once helped calm a woman shouting in Portuguese that the plane would crash.",negative,-0.6361658573150635
+2014-01-06,Translating a Fellow Passenger’s Vision of Doom,neutral,0.04480777680873871
+2014-01-14,"Joe Tsai holds the keys to what will most likely be the largest initial public offering of this generation — Alibaba, the Chinese e-commerce giant.",neutral,0.2753656208515167
+2014-01-14,The Man Behind Alibaba’s Eventual I.P.O.,neutral,0.05182386934757233
+2014-01-24,"Citic 21CN’s shares rose by as much as 500 percent as investors bet Alibaba might try to use the company as a shell for a “backdoor” listing in Hong Kong, but the trades may prove overly optimistic.",positive,0.8040260076522827
+2014-01-24,Investment by Alibaba Creates Frenzy Over Chinese Pharmaceutical Data Firm,negative,-0.8029885292053223
+2014-01-24,"In a panel discussion at the World Economic Forum on Friday, the top executives of MasterCard and the Western Union Company spoke about the escalating battle to keep financial transaction systems secure.",neutral,-0.196112722158432
+2014-01-24,Financial Companies in ‘Street Fight’ With Cybercriminals,negative,-0.7551283836364746
+2014-01-28,Alibaba’s acquisition of a sleepy technology company set of a flurry of speculation.,neutral,-0.0036300495266914368
+2014-01-28,"After Alibaba’s public debut, scrutiny of its deals will only intensify, the Deal Professor writes.",neutral,0.028945647180080414
+2014-01-28,Answers to a Puzzling Deal at Alibaba Remain in the Shadows,neutral,-0.3949723541736603
+2014-03-07,First American Bank in Chicago got publicity but little satisfaction after it identified a source of debit card theft and tried to stop it.,negative,-0.9145879149436951
+2014-03-07,"After Debit Card Fraud, a Chicago Bank Feels Its Customers’ Frustration",negative,-0.8903694152832031
+2014-03-10,"The Chinese Internet company said it would pay $215 million for a 15 percent stake in JD.com as the two firms seek to challenge the dominance of Alibaba, China’s largest e-commerce company.",positive,0.7095247507095337
+2014-03-10,China’s Tencent to Buy Stake in JD.com as Part of E-Commerce Push,neutral,0.1375969797372818
+2014-03-12,"Shares in a Hong Kong media group began to rally well before the announcement that Alibaba, the Chinese e-commerce giant, had reached an $804 million deal to buy control of the company.",positive,0.7903208136558533
+2014-03-12,Shares in a Media Group Soar Well Before Alibaba Makes a Deal,positive,0.3510587215423584
+2014-03-13,"Investors may be betting that Alibaba will move into digital entertainment, but they are too easily excited, contends Robyn Mak of Reuters Breakingviews.",neutral,-0.00766386091709137
+2014-03-13,Star-Struck by Alibaba’s Movie Company Deal,neutral,0.4122700095176697
+2014-03-16,"In a post on its corporate blog, the company said it plans to list on an American stock market to become “a more global company.”",neutral,0.3665745258331299
+2014-03-16,Alibaba Confirms It Will Begin I.P.O.,neutral,0.0754157155752182
+2014-03-16,Process in U.S.,neutral,0.01532105915248394
+2014-04-01,"Efforts to increase card security have long been underway, but recent hacking incidents at Target, Neiman Marcus and Michaels have added urgency to strengthening safeguards using smart chips and advanced computer programming.",positive,0.8448305726051331
+2014-04-01,"The Credit Card of Tomorrow: Software, Not Plastic",neutral,0.004280120134353638
+2014-04-09,"Jun Ma, a 13-year veteran of the German bank, is known as one of the most bullish of the economists who follow China.",neutral,0.06551216542720795
+2014-04-09,Deutsche Bank Economist to Join China’s Central Bank,neutral,0.15026560425758362
+2014-04-09,The e-commerce company is lending one of its founders $1 billion to invest in a digital-TV company.,neutral,0.21144826710224152
+2014-04-09,"The three-way deal, says John Foley of Reuters Breakingviews, offers a glimpse of the way company insiders mix public and private interests.",neutral,0.11344850808382034
+2014-04-09,Alibaba’s Deal-Making Raises a Red Flag,negative,-0.8213016390800476
+2014-04-15,"After Hong Kong loses Alibaba’s initial public offering, a survey shows that more than 90 percent of respondents oppose allowing partnership control structures like Alibaba’s in Hong Kong.",negative,-0.8678848743438721
+2014-04-15,Hong Kong I.P.O.,neutral,0.04135749489068985
+2014-04-15,"Structure Is Fine as Is, Investor Survey Finds",positive,0.49957525730133057
+2014-04-28,The e-commerce giant’s deal for a minority stake in Youku Tudou extends a recent frenzy of acquisitions in China’s fast-growing technology sector.,positive,0.9067599177360535
+2014-04-28,Alibaba Buys Stake in Chinese Web TV Company for $1.2 Billion,neutral,0.13989511132240295
+2014-04-29,"Such paydays illustrate that it is often good fortune rather than individual performance that account for the bulk of executive pay, Steven Davidoff writes in the Deal Professor column.",neutral,0.038486190140247345
+2014-04-29,Yahoo Chief’s Pay Tied to Another Company’s Performance,negative,-0.568065881729126
+2014-04-30,"Benjamin M. Lawsky, New York State’s top financial regulator, is sending cease-and-desist letters to 20 companies suspected of making illegal payday loans.",negative,-0.7792118787765503
+2014-04-30,New York State Makes New Efforts to Combat Payday Lenders,positive,0.5124556422233582
+2014-04-30,"While the Silicon Valley elite may not seem to care about the coming stock offering, it could signal the start of a global fight for users.",negative,-0.7637115716934204
+2014-04-30,Alibaba I.P.O.,neutral,0.05655376613140106
+2014-04-30,May Unleash Global Fight Over Users,neutral,-0.06296119093894958
+2014-05-01,"The Chinese e-commerce giant, which is on the cusp of going public in the United States, is in talks about regaining a stake in its Alipay payment affiliate, a person briefed on the matter said.",neutral,0.1410370171070099
+2014-05-01,Alibaba Said to Be in Talks to Regain Stake in Alipay,neutral,0.10232850164175034
+2014-05-06,"The e-commerce behemoth Alibaba Group filed paperwork in the U.S. to sell stock to the public, a coming-of-age for China’s booming Internet industry.",neutral,0.14576494693756104
+2014-05-06,"Chinese Giant Alibaba Will Go Public, Listing in U.S.",neutral,0.03950563818216324
+2014-05-06,The e-commerce company has seized investor and public interest to an extent that is unusual for a company that does much of its business in China.,negative,-0.5941429138183594
+2014-05-06,What Is Alibaba?,neutral,-0.0182022824883461
+2014-05-06,Alibaba’s website offers clues to the origin of the company’s name.,neutral,-0.0006466899067163467
+2014-05-06,A Name Pronounceable in Nearly Every Language,neutral,0.010006595402956009
+2014-05-06,"When investors buy shares in an American offering of Alibaba, what exactly will they be buying?",neutral,0.021617580205202103
+2014-05-06,asks Steven M. Davidoff in the Deal Professor column.,neutral,0.022989589720964432
+2014-05-06,Alibaba Investors Will Buy a Risky Corporate Structure,neutral,-0.11449616402387619
+2014-05-07,"Six firms were listed as Alibaba’s lead underwriters, listed mostly in alphabetical order.",neutral,0.0070650698617100716
+2014-05-07,The I.P.O.,neutral,0.016673501580953598
+2014-05-07,could end up raising more than $20 billion.,neutral,0.13680274784564972
+2014-05-07,The Six Banks Leading Alibaba’s Giant I.P.O.,neutral,0.03691152110695839
+2014-05-07,A handful of winners are poised to reap big paydays for taking a chance on Alibaba.,positive,0.7037361264228821
+2014-05-07,"They Bought Into a Scrappy Chinese Start-Up, and Now Stand to Reap a Windfall",positive,0.49989834427833557
+2014-05-07,Jack Ma began his career as an English teacher.,neutral,-0.0189136303961277
+2014-05-07,"Today, two of his websites account for more than half of the packages shipped through China’s postal system.",neutral,0.02866319939494133
+2014-05-07,"The Unlikely Ascent of Jack Ma, Alibaba’s Founder",neutral,0.06826301664113998
+2014-05-08,Alibaba wants to insert itself at the center of an already expanding market being forged by powerful economic and cultural forces.,positive,0.5992181301116943
+2014-05-08,Alibaba Bets on a Growing Chinese Economy and New Consumers,positive,0.4839622974395752
+2014-05-08,Alibaba wants to insert itself at the center of an already expanding market being forged by powerful economic and cultural forces.,positive,0.5992181301116943
+2014-05-08,"Daily Report: In I.P.O., Alibaba Wagers on a Growing Market: China",neutral,0.3944759964942932
+2014-05-18,A hacking of customer data at Target has intensified the pace of changing the way Americans pay for goods.,positive,0.6534146666526794
+2014-05-18,Cashless Customers Hold Riches for Retailers,neutral,-0.3033962845802307
+2014-06-05,The e-commerce giant Alibaba said on Thursday that it would buy 50 percent of Guangzhou Evergrande F.C.,neutral,0.11260368674993515
+2014-06-05,"from the team’s parent company, the Evergrande Real Estate Group.",neutral,0.03955402970314026
+2014-06-05,Alibaba to Take Stake in Chinese Soccer Team,neutral,0.027618039399385452
+2014-06-06,"The $192 million investment in Guangzhou Evergrande is the latest example of Alibaba’s scattershot approach to deal-making, writes Peter Thal Larsen of Reuters Breakingviews.",neutral,0.1589115560054779
+2014-06-06,What a Soccer Deal Says About Alibaba,neutral,0.05369875207543373
+2014-06-11,"The Chinese e-commerce giant, continuing an acquisition spree before its initial public offering, forms closer ties to a potentially important partner in the mobile sector.",positive,0.8636369109153748
+2014-06-11,Alibaba Buys Rest of the Mobile Browser UCWeb,neutral,0.06371188908815384
+2014-06-16,Alibaba unveils the 27 individuals in its controlling partnership.,neutral,0.04794831573963165
+2014-06-16,| A rival offer is expected to challenge G.E.’s bid for Alstom.,positive,0.5750726461410522
+2014-06-16,| A bank account screening tool is under regulatory scrutiny.,neutral,-0.2010626196861267
+2014-06-16,| Medtronic has agreed to buy Covidien.,neutral,0.3325870931148529
+2014-06-16,Morning Agenda: Alibaba’s Inner Circle Revealed,neutral,0.031337667256593704
+2014-07-09,"Nobody in the company, myself included, has had a minute of management training.",neutral,-0.012827571481466293
+2014-07-09,"We all come from small, struggling companies where management training and human resources departments are unheard of, where even something as basic as an employee manual is unusual.",negative,-0.7085212469100952
+2014-07-09,What I Learned From Firing My Employee of 20 Years,negative,-0.41426995396614075
+2014-07-16,"In a Q. and A., Porter Erisman, a former Alibaba vice president who made a documentary about the company, discusses life at Alibaba’s early days and working with Jack Ma.",neutral,0.0061496552079916
+2014-07-16,A Westerner’s Inside View of Alibaba Successes and Failures,neutral,0.10671408474445343
+2014-07-21,An intricate web of shell companies disclosed in filings by Alibaba connects the company to the sons and grandsons of the most powerful men in China.,neutral,-0.03459656983613968
+2014-07-21,Alibaba’s I.P.O.,neutral,0.03976963460445404
+2014-07-21,Could Be a Bonanza for the Scions of Chinese Leaders,neutral,0.052904851734638214
+2014-07-21,Alibaba’s founder will continue to exert near-total control of the Chinese e-commerce giant even after its I.P.O.,neutral,0.03586658835411072
+2014-07-21,Can shareholders trust him to act in their interest?,neutral,0.0740826427936554
+2014-07-21,"Up to a point, says John Foley of Reuters Breakingviews.",neutral,0.2335411012172699
+2014-07-21,"For Alibaba Investors, the Benefits and Risks of Trusting Jack Ma",neutral,0.10376827418804169
+2014-08-03,Mr. Homm is accused of buying and selling lightly traded shares among entities he controlled in a practice known as portfolio pumping.,neutral,-0.3025956451892853
+2014-08-03,"Authorities say his goal was to artificially inflate the value of the hedge fund he managed, Absolute Capital Management Holdings Ltd.",negative,-0.7542610764503479
+2014-08-03,Florian Homm Wanted by the F.B.I.,negative,-0.406350702047348
+2014-08-12,The Chinese e-commerce behemoth discloses that it has reworked its bonds with its online payments affiliate — and should be reaping more money from that relationship in the future.,positive,0.5719470977783203
+2014-08-12,Alibaba Aims to Collect More Money From Its Payments Affiliate,neutral,0.21541373431682587
+2014-08-13,Alibaba has rejiggered relations with its Alipay affiliate weeks before its planned initial public offering.,positive,0.5261224508285522
+2014-08-13,"The move reduces the risk of regulatory interference, Peter Thal Larsen of Reuters Breakingviews writes.",positive,0.8564011454582214
+2014-08-13,Alibaba Aims for a Neater I.P.O.,neutral,0.3150804936885834
+2014-08-15,"On Friday, the company announced that it had discovered suspicious accounting at one of its acquisitions, a Hong Kong film company.",negative,-0.9278792142868042
+2014-08-15,Doubt Is Cast on Vetting of Deals by Alibaba,negative,-0.5703243017196655
+2014-08-15,"After the discovery of suspicious accounting at a film affiliate, investors in Alibaba’s initial public offering may be less confident about the company’s investment binge, writes John Foley of Reuters Breakingviews.",negative,-0.922162652015686
+2014-08-15,Alibaba’s Deal Spree Turns From Romance to Thriller,neutral,0.06354468315839767
+2014-09-02,Peter Thal Larsen of Reuters Breakingviews offers a guide for how fund managers can evaluate Alibaba as the company kicks off the roadshow for its long-awaited initial public offering.,neutral,0.043431270867586136
+2014-09-02,Six Steps in Alibaba’s 12-Figure Valuation,neutral,0.06156068667769432
+2014-09-05,"The company, which runs two huge online marketplaces in China, plans to kick off a long-awaited roadshow for potential investors on Monday.",neutral,0.07338462024927139
+2014-09-05,As Its I.P.O.,neutral,0.041941020637750626
+2014-09-05,"Nears, Alibaba Gets Ready for a Splashy Debut",neutral,0.06344860792160034
+2014-09-06,"Alibaba’s Jack Ma, along with a group of top Chinese entrepreneurs, are part of complicated web of deals and ventures, made for both personal benefit and corporate gain.",neutral,-0.004705393686890602
+2014-09-06,Jack & Company,neutral,0.06257709860801697
+2014-09-06,"Alibaba, started by Jack Ma in 1999, is about to sell shares in the United States that could value the company at about $160 billion.",neutral,0.05038497969508171
+2014-09-06,The Jack Ma Way,neutral,-0.0014163553714752197
+2014-09-09,"On Monday, potential investors gathered for the first big marketing pitch for Alibaba’s initial public offering.",neutral,0.350427508354187
+2014-09-09,Alibaba Begins Wooing Wall Street,neutral,0.10591918230056763
+2014-09-12,The eagerness of banks and card companies to work with Apple on its mobile payment system suggests Apple’s clout and the concern financial players have for their future.,positive,0.7004575729370117
+2014-09-12,Banks Did It Apple’s Way in Payments by Mobile,neutral,-0.01476982980966568
+2014-09-15,An ancestral tablet at a Chinese tomb shows how an executive who profited from Alibaba’s acquisition of her company is connected to a family of prominent generals.,neutral,0.06376510113477707
+2014-09-15,Alibaba’s Link to Elite Military Family Is Etched in Stone,neutral,0.11815570294857025
+2014-09-15,"Jack Ma, the founder, told prospective investors in Hong Kong to “think about us just like any other Internet company that happens to be in China,” according to one attendee.",neutral,0.06395834684371948
+2014-09-15,"Alibaba Markets Its Shares in Hong Kong, a City That Turned Away the I.P.O.",negative,-0.4429764747619629
+2014-09-16,"As Alibaba readies to go public, it is important for public investors to be aware of serious corporate governance issues involving the company, Lucian Bebchuk writes in Another View.",neutral,0.3923039436340332
+2014-09-16,Alibaba’s Governance Leaves Investors at a Disadvantage,negative,-0.6095601916313171
+2014-09-18,"Alibaba is expected to give an intricate Tao doll, patterned after the mascot for its Taobao marketplace, to the New York Stock Exchange on Friday, as a sign of respect.",positive,0.5026850700378418
+2014-09-18,"To Mark I.P.O., Alibaba to Make Gift to Its New Market Home",positive,0.501499354839325
+2014-09-18,Investors flocked to buy a piece of the company that is poised to continue dominating China’s burgeoning e-commerce industry.,positive,0.767629086971283
+2014-09-18,Alibaba Raises $21.8 Billion in Initial Public Offering,neutral,0.09701848775148392
+2014-09-19,The e-commerce company is going head-to-head with banking competitors that are by and large owned by the Chinese government.,neutral,0.27169540524482727
+2014-09-19,"Tops in E-Commerce, Alibaba Is Now Taking On China’s Banks",neutral,0.17342282831668854
+2014-09-19,"Once the so-called smart money piles into a stock, it’s usually time to start asking dumb questions.",neutral,-0.283757746219635
+2014-09-19,"And with Alibaba, there are many.",neutral,0.01236040610820055
+2014-09-19,"Rush to Invest in Alibaba, but Concerns Linger About Company’s Future",negative,-0.6951165795326233
+2014-09-19,"Alibaba has generously handed out stock to all levels of workers, creating a wealth diaspora rarely seen in China.",positive,0.8109200596809387
+2014-09-19,"Alibaba, With Its I.P.O., Mints Millionaires and Risk-Takers",neutral,-0.06705077737569809
+2014-09-19,A re-creation of the famed facade of the New York Stock Exchange was placed in the main courtyard of the company for celebrations of the first day of trading.,neutral,0.22910070419311523
+2014-09-19,Alibaba’s New Campus Sets Up for a Big Prty,neutral,0.34316593408584595
+2014-09-19,"What excites investors in Alibaba isn’t just its size, but its prospects of getting bigger.",neutral,0.2581512928009033
+2014-09-19,But is it reasonable to assume its dominance will persist?,neutral,0.01071092113852501
+2014-09-19,Thinking Twice on Alibaba,neutral,-0.1679399013519287
+2014-09-20,"The Chinese Internet giant, which raised $21.8 billion in its stock sale, instantly became one of the biggest publicly traded technology companies in the world.",positive,0.7928974032402039
+2014-09-20,A Soaring Debut for Alibaba,neutral,0.31915923953056335
+2014-09-22,"After Alibaba’s shares leaped 38 percent on their first day of trading on Friday, the company’s underwriters decided to exercise a so-called green shoe.",positive,0.690394937992096
+2014-09-22,Alibaba I.P.O.,neutral,0.05655376613140106
+2014-09-22,Underwriters Increase Deal Size to Record-Setting $25 Billion,positive,0.9082635641098022
+2014-09-22,"Alibaba’s founder spoke of building his company and creating jobs, Bill George writes in an Another View column.",neutral,0.3126048445701599
+2014-09-22,"“They call me ‘Crazy Jack,’” Mr. Ma said.",neutral,-0.2548852860927582
+2014-09-22,“I hope to stay crazy for the next 30 years.”,neutral,-0.08457241952419281
+2014-09-22,"Jack Ma on Alibaba, Entrepreneurs and the Role of Handstands",neutral,-0.009686926379799843
+2014-09-26,"Benefits like car rental insurance and replacement of damaged goods are available through many credit cards, but holders have to do the research.",neutral,0.03063102625310421
+2014-09-26,Lesser-Known Credit Card Perks Hide in Plain Sight,neutral,-0.2097465991973877
+2014-10-31,"As China’s Internet czar, Lu Wei has spoken out on rules for regulating smartphones and about taking on foreign Internet companies.",neutral,0.08992674201726913
+2014-10-31,"In China, Internet Czar Is Taking a Blunt Tone",negative,-0.4503220021724701
+2014-11-21,"Investors in Alibaba can’t reliably estimate the worth of the finance arm Ant Financial, writes John Foley in Reuters Breakingviews.",negative,-0.8479233980178833
+2014-11-21,"Alibaba’s Finance Arm, Ant Financial, Is a Mystery to Most Investors",neutral,-0.31624147295951843
+2014-12-07,The magazine and cosmetics company are paying more than $2 million to sponsor of the New Year’s Eve celebration in Times Square.,neutral,0.11043806374073029
+2014-12-07,Cosmo and CoverGirl Will Unite to Ring in 2015 in Times Square,neutral,0.2024657428264618
+2014-12-30,Toasting and roasting the guests we’d like to invite for our annual DealBook “Closing Dinner.”,neutral,0.04230968654155731
+2014-12-30,"Gathering Bedfellows, Odd and Otherwise, for Auld Lang Syne",neutral,0.022746719419956207
+2015-01-08,"Rather than play defense, financial services firms are taking time to engage engaging their rivals, as disruptive businesses are being taken more seriously.",neutral,-0.22776472568511963
+2015-01-08,"Challenged by Upstarts, Lenders Try New Strategy: Cooperation",neutral,0.13956214487552643
+2015-01-28,Sesame Credit Management will use data on online spending habits to try make credit more easily available to millions of consumers across China.,neutral,0.23603041470050812
+2015-01-28,Alibaba Data to Help Provide Consumer Credit Ratings,neutral,0.042666997760534286
+2015-01-29,"The company, which had a huge initial public offering in September, is now facing trouble with China’s government regulators and an economic slowdown.",negative,-0.9308369755744934
+2015-01-29,"Alibaba Profit Surges, but a Revenue Gain of 40% Still Misses Forecasts",negative,-0.7095335721969604
+2015-01-29,"Alibaba’s run-in with a Chinese regulator serves as a reminder that there is no such thing as a good relationship with China’s government, John Foley of Reuters Breakingviews writes.",positive,0.376070111989975
+2015-01-29,Alibaba’s Lesson in Government Relations,neutral,0.06987355649471283
+2015-01-31,"Two days after a government regulator harshly criticized the company, the two showed signs of moving quickly to cooperate.",positive,0.7327988743782043
+2015-01-31,Chinese Agency Softens Criticism of Alibaba on Sales of Fake Goods,negative,-0.855640709400177
+2015-02-13,Severing an exclusive deal with the warehouse retailer has swiped some $8 billion in market value from the card company.,negative,-0.16008836030960083
+2015-02-13,"Gains at MasterCard and Visa offset only part of that, note Rob Cox and Stephanie Rogan of Reuters Breakingviews.",positive,0.8332934975624084
+2015-02-13,Costco Customers May Come Out Ahead in Amex Divorce,neutral,0.03309865668416023
+2015-03-25,A federal judge had ruled the credit card company’s practice of banning retailers from encouraging customers to use lower-cost options violated antitrust laws.,negative,-0.8595703840255737
+2015-03-25,Amex to Ask for Stay of Ruling Prohibiting Merchants From Promoting Other Cards,negative,-0.3076806664466858
+2015-05-07,"The Chinese e-commerce giant said its chief operating officer would succeed its chief executive, Jonathan Lu, who will remain on the board.",neutral,0.049521394073963165
+2015-05-07,Alibaba Names New Chief Executive and Reports Revenue Rise,neutral,0.0637018159031868
+2015-07-03,"The move values Ant Financial Services at more than $45 billion and makes the Chinese government a stakeholder, according to people familiar with the transaction.",positive,0.5436299443244934
+2015-07-03,Alibaba’s Financial Affiliate Is Said to Close Private Placement of Shares,neutral,-0.2652685046195984
+2015-07-03,"Auto policies and some credit cards will often cover rentals, but such coverage can come with restrictions.",neutral,-0.020421180874109268
+2015-07-03,Check Insurance Coverage When Renting a Car,neutral,0.02571018598973751
+2015-07-09,The European Commission accused the company of setting artificially high fees for credit card transactions in the Continent.,negative,-0.923762857913971
+2015-07-09,MasterCard Faces Antitrust Charges in E.U.,negative,-0.8676965832710266
+2015-08-05,"Citing “egregious conduct” in text messages and emails between two lawyers, a federal judge scrapped a proposed $75 million settlement between American Express and a group of retailers.",negative,-0.9226850867271423
+2015-08-05,Judge Rejects Settlement in American Express Case,negative,-0.7996914982795715
+2015-08-25,Growth worries have afflicted all technology stocks and Chinese ones in particular.,negative,-0.9297682046890259
+2015-08-25,But Alibaba’s core e-commerce business is still highly valued compared with its rivals.,positive,0.7653788328170776
+2015-08-25,Alibaba’s Stock Still Looks Expensive,neutral,0.0565226674079895
+2015-09-20,The fast-food giant asked companies such as Facebook and MasterCard to provide media access to help the World Food Program respond to a growing crisis.,positive,0.5631940960884094
+2015-09-20,McDonald’s Leads Effort to Promote Migrant Aid,positive,0.603875458240509
+2015-11-24,Negotiations between the chairman of the Chinese Internet giant and owners of The South China Morning Post are raising concerns about media independence.,negative,-0.9166812896728516
+2015-11-24,Jack Ma of Alibaba in Talks to Buy Hong Kong Newspaper,neutral,0.027088113129138947
+2015-12-11,The Chinese Internet giant said the deal was fueled by a desire to improve China’s image and offer an alternative to the biased lens of Western news outlets.,positive,0.8790591955184937
+2015-12-11,"Alibaba Buying South China Morning Post, Aiming to Influence Media",neutral,0.17955461144447327
+2015-12-30,"Ms. Cairns, the president of international markets at MasterCard, says building an effective team requires fostering mutual respect so people feel comfortable challenging each other.",positive,0.7524827718734741
+2015-12-30,Ann Cairns of MasterCard: The Art and Science of Team Chemistry,neutral,0.030604522675275803
+2016-01-14,"As voters chose a new president over the weekend, a rare point of agreement between Taiwan’s fractious political parties was that the tech industry needs help.",positive,0.5894693732261658
+2016-01-14,"In Taiwan, Survivor Mentality Stymies Tech Innovation",negative,-0.9166288375854492
+2016-03-22,"Many complications were widely predicted, but a lag in certifying payment terminals has added an unexpected wrinkle — and lots of finger-pointing.",negative,-0.8866612911224365
+2016-03-22,Chip-Card Payment System Delays Frustrate Retailers,negative,-0.8986615538597107
+2016-04-26,"Ant Financial, one of the world’s largest electronic-payments companies, received investments from a number of companies backed by the Chinese government.",neutral,0.11109044402837753
+2016-04-26,Alibaba Financial Affiliate Raises $4.5 Billion,positive,0.6632602214813232
+2016-05-31,The Japanese telecom said it would sell $8 billion worth of shares to help pay down debt.,positive,0.557792067527771
+2016-05-31,SoftBank to Sell a Stake in Alibaba,neutral,0.02736918069422245
+2016-06-14,The Chinese e-commerce giant for the first time offered earnings guidance for the coming year and said it was altering the way it measures growth.,neutral,0.2409662902355194
+2016-06-14,Alibaba Tries to Shore Up Investors’ Confidence,neutral,0.4203023314476013
+2016-06-28,The inquiry by Senators Sherrod Brown and Robert Menendez follows reports that holders of Walmart MoneyCards were denied access to their accounts.,negative,-0.9106077551841736
+2016-06-28,Senators Press for Answers After Prepaid Debit Cards Fail,neutral,-0.1847836673259735
+2016-06-30,A federal appeals court said the historic settlement was void because the same lawyers represented the retailers and the card processing companies.,negative,-0.8171452879905701
+2016-06-30,MasterCard-Visa Settlement With Retailers Is Overturned,positive,0.7230245471000671
+2016-07-06,"Mr. Hynes, a former MasterCard executive, will take over about nine months after a malfunction that kept cardholders from using their money.",neutral,-0.44030481576919556
+2016-07-06,"UniRush, Owner of RushCard, Names Ron Hynes Chief",neutral,-0.09583541005849838
+2016-07-31,The deal with Caesars Interactive Entertainment is a sign that investors are willing to pay increasingly large sums for smartphone games.,positive,0.8608961701393127
+2016-07-31,Chinese Group to Pay $4.4 Billion for Caesars’ Mobile Games,neutral,0.16053859889507294
+2016-08-01,"Wells Fargo joined three other banks in allowing instant payments, a market that has been taken over by services like Apple Pay and PayPal’s Venmo.",positive,0.6084275245666504
+2016-08-01,"Under Pressure, Big Banks Vie for Instant Payment Market",neutral,0.03972895070910454
+2016-09-02,"Alibaba’s mobile-payment affiliate and a private-equity firm will buy part of Yum’s China unit for a good price, but the deal may also pay off for Yum.",positive,0.7902915477752686
+2016-09-02,Yum Brands in China Adds Owners With Skill and Connections,neutral,0.43157723546028137
+2016-10-26,These bots are generally powered by artificial intelligence software that allows them to pull in data and turn it into comprehensible answers.,neutral,-0.08453413844108582
+2016-10-26,Banks Bet on the Next Big Thing: Financial Chatbots,neutral,0.011434279382228851
+2016-10-27,"Bank of America, MasterCard and some financial start-ups have been trying out chatbots that can initiate transactions and give financial advice.",neutral,0.0025500617921352386
+2016-10-27,"Morning Agenda: Finance Gets Chatty, 2016’s Biggest American I.P.O., EpiPen Rival Returns, Commercials Just for You",neutral,-0.08070971071720123
+2016-11-10,"Friday’s sales day pushes past last year’s total, but the company faces pressure from slowing Chinese growth and an American inquiry into its figures.",negative,-0.9542772769927979
+2016-11-10,"Alibaba, Amid Intense Hype, Confronts a Slowdown on Singles Day",negative,-0.9330430030822754

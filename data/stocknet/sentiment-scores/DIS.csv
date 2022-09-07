@@ -1,0 +1,355 @@
+Date,Sentence,Prediction,sentimentScore
+2014-01-17,"The console game that lets players mix and match Disney characters has sold 3 million starter packs worldwide, the company said.",neutral,0.3132559657096863
+2014-01-17,Disney’s Troubled Gaming Unit Finds Success With Infinity,neutral,0.43778449296951294
+2014-02-05,"The animated musical, expected to generate nearly $1 billion in ticket sales, increased quarterly earnings to $1.84 billion, up from $1.38 billion a year ago.",positive,0.9111747145652771
+2014-02-05,"Disney Reports Strong First-Quarter Earnings, Helped by Animated Film ‘Frozen’",positive,0.923127293586731
+2014-02-12,"As part of its search for new digital growth, the company is partnering with TechStars and will pair its executives with entrepreneurs for three months.",neutral,0.3324089050292969
+2014-02-12,Disney Plans to Encourage Digital Start-Ups,positive,0.6088497638702393
+2014-02-13,"Brian Roberts, the chief executive of Comcast, has led the cable giant through a number of major transactions, in some cases wresting away assets from Time Warner.",neutral,0.010698053985834122
+2014-02-13,Comcast Has History of Big Deals,neutral,0.07334160804748535
+2014-02-17,"A 750-room hotel featuring the theme of exotic locations will open by early 2017 and cost about $550 million, the company said.",neutral,0.06051681563258171
+2014-02-17,"Attendance Up, Disney to Add Hotel Rooms at Hong Kong Park",neutral,0.3525713384151459
+2014-02-25,"The Disney Movies Anywhere online service will link to consumers’ iTunes accounts and is intended to encourage digital movie sales, rather than rentals.",neutral,0.15203827619552612
+2014-02-25,Disney Throws Open the Gates to Its Own Digital Movie Service,neutral,0.04152163863182068
+2014-03-04,"Walt Disney Animation won its first animated-feature Oscar on Sunday for “Frozen,” and with it a new lease on life after a difficult transition to computer-aided filmmaking.",positive,0.8459404110908508
+2014-03-04,"At Disney, a Celebration That Was a Long Time Coming",neutral,0.23699158430099487
+2014-03-06,The layoffs came as a result of Disney’s decision to combine two businesses: booming mobile games and sagging social games.,negative,-0.9177921414375305
+2014-03-06,Interactive Unit at Disney Cuts a Quarter of Its Staff,negative,-0.956035315990448
+2014-03-11,"Anne M. Sweeney, one of the most powerful women in the entertainment industry, will leave in 2015 after 18 years at the company to become a television director.",neutral,-0.028255917131900787
+2014-03-11,Top Disney TV Official to Step Down,neutral,-0.348503053188324
+2014-03-20,G.M.,neutral,0.048085395246744156
+2014-03-20,announces its new generation of small Ecotec engines; BMW says it will increase U.S. production.,positive,0.8855327367782593
+2014-03-20,Wheelies: The Baby Engine Boom Edition,neutral,0.07354988157749176
+2014-03-22,"Inspired by a succession of female warrior heroes, toy makers are marketing a more aggressive line of playthings for girls — even as the industry clings to every shade of pink.",neutral,0.3005465865135193
+2014-03-22,"Today’s Girls Love Pink Bows as Playthings, but These Shoot",neutral,-0.039265215396881104
+2014-03-23,"For the first time, the Disney Channel is televising the Radio Disney Music Awards as a special in prime time, and Nickelodeon is adding Kids’ Choice Sports.",neutral,0.1756904572248459
+2014-03-23,Children’s TV Aims to Profit From Award Shows,neutral,0.1516287624835968
+2014-03-24,"Ben Sherwood, who will head the ABC Television Group, has drawn attention for his work at the news operation, notably the rise of “Good Morning America.”",neutral,0.16785511374473572
+2014-03-24,ABC News President to Be Top Disney TV Executive,neutral,0.07918020337820053
+2014-03-25,The $500 million deal gives the Walt Disney Company an online video company with a subscriber base of 380 million.,positive,0.6433335542678833
+2014-03-25,"Disney Buys Maker Studios, Video Supplier for YouTube",neutral,0.00010644085705280304
+2014-03-27,"The app aggregates videos, photographs, interactive theme park maps and other information from the websites of Walt Disney Parks and Resorts businesses and their social media channels.",neutral,0.005519135855138302
+2014-03-27,A TV App From Disney Lets Travelers Browse Its Vacation Offerings,neutral,0.04386398196220398
+2014-04-02,Disney is counting on its multifaceted reservation system to ease the way to visit Mickey Mouse and company.,positive,0.80039381980896
+2014-04-02,A Billion-Dollar Bracelet Is the Key to a Disney Park,neutral,0.148445725440979
+2014-04-07,"High-frequency trading firms’ methods do not fit comfortably into any of the typical theories of securities fraud that have been used to pursue misconduct, Peter J. Henning writes in his White Collar Watch column.",negative,-0.6910325288772583
+2014-04-07,High-Frequency Trading Falls in the Cracks of Criminal Law,negative,-0.6670995354652405
+2014-04-08,"After years of semi-neglect by previous owners, the California theme park is getting a $1.6 billion overhaul as Comcast tries to broaden its appeal.",positive,0.7080438733100891
+2014-04-08,A Makeover at Universal Studios Hollywood Aims at Disney,neutral,0.053067609667778015
+2014-04-14,"Relativity Media made it known late Sunday that it had submitted an offer of roughly $1 billion for Maker, mostly in stock, but the offer went nowhere.",neutral,0.01777786761522293
+2014-04-14,Bid to Upend Disney’s Deal for Maker Studios Falls Short,negative,-0.591093897819519
+2014-04-17,The Walt Disney Company on Thursday said profits at its ESPN-dominated cable networks unit would grow on an annual basis for the next three years.,positive,0.9266116619110107
+2014-04-17,ESPN Sees Continued Profitability Despite Competition,positive,0.8386096358299255
+2014-04-23,Planned new rules would allow an Internet provider to negotiate separately with content companies like Disney or Google and charge for priority service.,neutral,0.056317251175642014
+2014-04-23,"F.C.C., in a Shift, Backs Fast Lanes for Web Traffic",neutral,0.2649756073951721
+2014-04-24,A proposal in the United States that would allow Internet providers to charge companies for more powerful transmission of web traffic is in sharp contrast to new rules in Europe that outlaw that kind of premium access.,neutral,-0.10930249094963074
+2014-04-24,U.S. Plan for Internet Fast Lanes Contrasts With European Rules,negative,-0.38491636514663696
+2014-04-28,"Disney and Shanghai Shendi Group, a consortium of state-owned companies, had already committed to spend $4.7 billion on the theme park resort.",positive,0.5018253326416016
+2014-04-28,Owners to Invest $800 Million More in Shanghai Disneyland,neutral,0.15885424613952637
+2014-04-29,The seventh installment of the space epic will feature seven newcomers and six stalwarts.,neutral,0.039619844406843185
+2014-04-29,Cast Is Announced for Next ‘Star Wars’ Film,neutral,0.010607317090034485
+2014-05-01,The apps are meant to help younger moviegoers keep up with the storyline in time for the 2015 release of “Star Wars: Episode VII.”,neutral,0.47343480587005615
+2014-05-01,Disney Keeps Focus on ‘Star Wars’ With a New Line of Apps,neutral,0.08852477371692657
+2014-05-06,The movie and its hit soundtrack contributed to a 27 percent increase in net income for the company’s second fiscal quarter.,positive,0.9306506514549255
+2014-05-06,‘Frozen’ Helps Lift Profit for an Energized Disney,positive,0.8996121287345886
+2014-05-20,"The animated movie, a global hit, provides an opportunity for Disney to earn more profit from tie-ins.",positive,0.9068396687507629
+2014-05-20,"‘Frozen’ Will Be a Disney on Ice Show, Too, Riding a Blockbuster’s Wave",neutral,0.06933479756116867
+2014-06-05,"Michael Egan, the accuser in a series of suits, has dropped his complaint against David Neuman, a former Disney television executive.",negative,-0.8124984502792358
+2014-06-05,A Hollywood Sexual-Abuse Suit Is Dropped,negative,-0.7414559125900269
+2014-06-15,"The long-awaited screenplays for James Cameron’s three “Avatar” sequels will soon be ready, probably within weeks.",neutral,0.1375695765018463
+2014-06-15,"For Fox, Much Is Riding on 3 Sequels to ‘Avatar’",neutral,0.12317096441984177
+2014-06-23,"Disney, 21st Century Fox and Time Warner are all seeking a piece of Vice Media, and its young, coveted audience.",neutral,0.17891155183315277
+2014-06-23,"Vice Has Many Media Giants Salivating, but Its Terms Will Be Rich",neutral,-0.03844926506280899
+2014-06-25,"In “Girl Meets World,” Disney Channel tries to strip away Internet conventions.",negative,-0.41961902379989624
+2014-06-25,Disney Hopes New (and Nostalgic) Formula Will Draw Tweens,positive,0.7236073613166809
+2014-07-26,"The blockbuster success of merchandise based on the “Doc McStuffins” cartoon reflects changing demographics, but what also differentiates Doc is her crossover appeal.",positive,0.5351327061653137
+2014-07-26,Race in Toyland: A Nonwhite Doll Crosses Over,neutral,0.11803454160690308
+2014-08-04,"The European Central Bank is not expected to plan further economic stimulus, and the Bank of England may raise rates, which are at historic lows.",positive,0.22356104850769043
+2014-08-04,European Central Bank Meeting and Bank of England Interest Rates,neutral,-0.04087403416633606
+2014-08-05,"Racing past Wall Street’s expectations, Walt Disney said quarterly profit totaled $2.25 billion, a 22 percent increase from the year-ago period.",positive,0.9282727837562561
+2014-08-05,"Disney’s Third-Quarter Profits Soar, on Marvel’s Back",positive,0.0898188054561615
+2014-08-09,Disney is the latest entertainment company to have orders of its forthcoming releases blocked by the retailer.,negative,-0.9521100521087646
+2014-08-09,Amazon Takes the Muppets Off the Shelf,neutral,-0.18318821489810944
+2014-08-10,"A test batch of small stuffed toys called Tsum Tsum, already a hit in Japan, has sold out in Disney Stores in the United States, and the company wonders if it has found the next Beanie Baby.",positive,0.6573435664176941
+2014-08-10,"Sensing a Tsum Tsum Craze Afoot, Disney Rushes to Supply Fans",positive,0.4667026698589325
+2014-08-21,"In addition to the game, Star Wars: Commander, the company plans to roll out a new animated television movie and a related TV series in October.",neutral,0.3172178566455841
+2014-08-21,Disney Unveils New ‘Star Wars’ Game for Mobile Devices,neutral,0.20638757944107056
+2014-08-23,"Known for a bold use of color, Ms. Sussman was an early advocate of applying print elements to campuses, buildings and cityscapes.",neutral,0.1036917045712471
+2014-08-23,Deborah Sussman Dies at 83; Dressed Buildings in Vivid Colors and Shapes,neutral,-0.039031147956848145
+2014-09-03,“Big Hero 6” is about a teenage robotics prodigy who must save his city from a madman.,neutral,0.034660454839468
+2014-09-03,"Disney Details a New, Boy-Centric Animated Movie",neutral,0.08029177784919739
+2014-09-04,G.M.,neutral,0.048085395246744156
+2014-09-04,says its Chevrolet Colorado and GMC Canyon midsize pickups will get 26 m.p.g.,neutral,0.1767253577709198
+2014-09-04,"on the highway; the price of the 2015 Toyota Sienna is $1,680 more than the 2014 model.",neutral,0.13716517388820648
+2014-09-04,Wheelies: The Thrifty G.M.,neutral,0.03899594396352768
+2014-09-04,Pickups Edition,neutral,0.05001124367117882
+2014-09-08,"Box office is down so far this year compared to 2013, so studios have less to divide.",negative,-0.9522549510002136
+2014-09-08,"The top three each grossed more than $1 billion, with Sony fourth at $948 million.",neutral,0.0660041868686676
+2014-09-08,“Guardians of the Galaxy” took over No.,neutral,0.009699761867523193
+2014-09-08,"1 overall last week, so Disney may pass Fox, which has gone with a tried-and-true strategy: of it’s top six movies, all were sequels except for “The Fault in Our Stars” and “Mr.",neutral,0.10982365906238556
+2014-09-08,"Peabody and Sherman,” above.",neutral,0.024054447188973427
+2014-09-08,"Coming this year, several potential blockbusters, including an all-star “Exodus: Gods and Kings” (Fox), “Dumb and Dumber To ” (Universal) and “Annie” (Sony).",positive,0.5312609076499939
+2014-09-08,Popular Demand,neutral,0.06970230489969254
+2014-09-12,"To accommodate the new attraction, Walt Disney World is taking out Maelstrom, a 1980s-era flume ride that still has fans.",neutral,0.4820714592933655
+2014-09-12,‘Frozen’ Finds a Theme Park Home at Epcot,neutral,-0.06802155077457428
+2014-09-15,Disney noticed a teacher’s winning streak when it came to creating levels of a video game and asked if he would be interested in pursuing that for a living.,neutral,0.14309117197990417
+2014-09-15,Disney Infinity Game Studio Hires a Top Player to Create Toy Box Levels,neutral,0.027824323624372482
+2014-09-26,The terms were not disclosed in the settlement over ownership rights to lucrative characters like Thor and the X-Men.,neutral,0.024712687358260155
+2014-09-26,Marvel Settles With Family of Comics Artist Jack Kirby,neutral,0.08881255239248276
+2014-09-30,Two groups will file shareholder resolutions with the parent companies of the six major studios to demand stronger studio controls on youth-rated movies that depict smoking.,neutral,0.41314226388931274
+2014-09-30,Advocacy Groups Challenge Studios Over Smoking in Youth-Rated Movies,negative,-0.8550188541412354
+2014-10-02,"He will remain chief executive until June 2018, a reflection of the company’s success under his leadership.",neutral,0.39434006810188293
+2014-10-02,"Bob Iger, on Success Streak, Gets 2nd Contract Extension at Disney",positive,0.7800986766815186
+2014-10-03,"The chief executive agreed to stay until 2018, and the company has offered a carrot in the form of a cash retention bonus, should certain targets be met.",positive,0.6953669190406799
+2014-10-03,Potential Added Bonus of $60 Million for Robert Iger at Disney,neutral,0.2026098370552063
+2014-10-06,Disney will inject cash and convert debt it is owed into shares in the French theme park operator as part of a recapitalization plan amid declining attendance this year.,negative,-0.5564738512039185
+2014-10-06,Walt Disney Co.,neutral,0.02487960085272789
+2014-10-06,Backs $1.25 Billion Lifeline for Euro Disney,positive,0.5468928813934326
+2014-10-07,"“Star Wars Rebels: Sparks of Rebellion,” an animated movie designed to jump-start Disney’s new series based on the franchise, drew 6.5 million viewers worldwide.",positive,0.5355414152145386
+2014-10-07,Modest Introduction for Disney’s Animated ‘Star Wars’ Endeavor,neutral,-0.08471886813640594
+2014-10-10,"The cable network, aimed at boys 6 to 11, has struggled to find an audience.",negative,-0.9342055320739746
+2014-10-10,Now it is trying to build on movie hits like “Guardians” and “Star Wars.”,neutral,0.3412814140319824
+2014-10-10,Disney Pins Hopes on ‘Guardians of the Galaxy’ Show,neutral,0.10835639387369156
+2014-10-20,"Rolling Stone hires two executives and Nancy Mahon, a senior vice president of the Estée Lauder Companies, expands her role as part of a promotion.",positive,0.5144767165184021
+2014-10-20,Accounts and People of Note in the Advertising Industry,neutral,0.009030111134052277
+2014-10-28,"Nine films will be released through mid-2019, and include the Black Panther — an African superhero — and Captain Marvel, featuring a superheroine.",neutral,0.04647514969110489
+2014-10-28,"Marvel Unveils an Ambitious Roster of Films, With a Bit of Diversity",neutral,0.17953228950500488
+2014-11-04,"Disney Consumer Products released sales figures for the dresses on Tuesday, an unusual step for the company and a reflection of the movie’s $1.3 billion in global box office sales.",positive,0.5537213087081909
+2014-11-04,"3 Million ‘Frozen’ Princess Dresses Sold, Disney Says",neutral,0.10739543288946152
+2014-11-06,"The Walt Disney Company reported $7.5 billion in profit for the 2014 fiscal year, riding strong revenue from Walt Disney Studios that helped offset rising sports-rights costs that weighed on ESPN.",positive,0.9142313599586487
+2014-11-06,Blockbusters and Theme Parks Fuel a Strong Year for Disney,positive,0.8621578812599182
+2014-11-10,"As chairman, Alan F. Horn has helped turn Walt Disney Studios into a highly successful movie operation, making a record $1.55 billion profit.",positive,0.8313518762588501
+2014-11-10,Disney Film Boss Alan Horn Finds Success After Ouster by Warner,negative,-0.29410073161125183
+2014-11-14,"In a news conference at its headquarters, the company revealed plans for a redesigned ESPN.com, an app-based children’s learning service, and sales of its films on Vudu.",neutral,0.2542601525783539
+2014-11-14,Disney Announces New Digital and Mobile Products,neutral,0.2643657326698303
+2014-11-18,"Jen Boulden was a serial start-up entrepreneur before founding Ideal Bite, a green-lifestyle email subscription service sold four years later to Disney.",neutral,0.0393502376973629
+2014-11-18,She now runs JenB TV.,neutral,0.011871004477143288
+2014-11-18,It’s a Light Green Lifestyle,neutral,0.06283795833587646
+2014-11-21,A collection of toy figurines that will interact with a video game is Nintendo’s entry into an already flourishing market.,neutral,0.3059616982936859
+2014-11-21,"To Energize Sales, Nintendo Introduces Toys That Roam Virtual Realm",neutral,0.08195612579584122
+2014-11-26,The collaboration between the two companies underlines how media giants are increasingly collaborating on content-marketing efforts.,positive,0.7669361233711243
+2014-11-26,Disney Pairs Up With Turner to Promote TCM and Great Movie Ride,neutral,0.3725583851337433
+2014-12-04,"Disney Imagicademy will release a line of apps dealing with math, science, language arts and other topics and featuring its well-known characters.",neutral,0.06873948127031326
+2014-12-04,Disney to Introduce New Apps Focused on Learning,neutral,0.3281805217266083
+2015-01-17,The compensation included a $2.5 million base salary and long-term stock and stock option awards of $17.3 million.,neutral,0.07402397692203522
+2015-01-17,Disney’s Chief Made $46.5 Million in 2014,neutral,0.037808772176504135
+2015-02-03,"The first quarter of Disney’s 2015 fiscal year beat expectations by a wide margin, offsetting a modest decline at ESPN.",positive,0.8553631901741028
+2015-02-03,"Disney Profit Jumps 19%, Even as ESPN Falters",positive,0.4657008647918701
+2015-02-05,"Thomas O. Staggs will spend the next three years proving himself to Disney’s board, which has been acutely focused on a careful transfer of power.",positive,0.7302260994911194
+2015-02-05,Disney’s Head of Parks Is Named to No.,neutral,0.021431341767311096
+2015-02-05,2 Spot,neutral,0.02118144929409027
+2015-02-12,Robert Iger’s selection of the next chief executive at Disney seems to be made.,neutral,0.020460220053792
+2015-02-12,Or could there be a surprise sleeper candidate?,neutral,-0.09050159156322479
+2015-02-12,"Disney Tackles Succession, This Time Without Drama",neutral,0.06508399546146393
+2015-02-14,"As moviegoers salivate over superhero movies, some experts question whether the toy industry can accommodate a glut of new products.",negative,-0.8491930365562439
+2015-02-14,Hitching a Toy to a Star,neutral,-0.07192960381507874
+2015-02-23,"Mr. Chapek, who had run Disney Consumer Products, will succeed Thomas Staggs, recently named chief operating officer, at the theme park division.",neutral,0.039559438824653625
+2015-02-23,Disney Names Robert Chapek Chairman for Theme Parks,neutral,0.01260208711028099
+2015-03-12,"The company used its annual shareholder meeting to make several movie announcements, which also included a release date for “Star Wars: Episode VIII.”",neutral,0.04274766892194748
+2015-03-12,"‘Frozen 2’ Is on the Way, Disney Says; More ‘Star Wars’ Plans Revealed",neutral,0.08038580417633057
+2015-03-27,"For decades, Disney used the word, and today “guest” has sprung from the hospitality business and invaded retail, to some customers’ chagrin.",negative,-0.7966877222061157
+2015-03-27,Be Your Guest?,neutral,-0.01906050741672516
+2015-03-27,How About I Just Pay and Leave?,neutral,-0.08934754133224487
+2015-04-10,"An analysis of recent company reports, however, finds that the widest gap exists between the chief executives and workers of Disney, Oracle, Qualcomm and Starbucks.",negative,-0.7619733810424805
+2015-04-10,"Despite Federal Regulation, C.E.O.-Worker Pay Gap Data Remains Hidden",negative,-0.9366810917854309
+2015-04-17,"At a time when creating fan communities has become crucial to the success of all kinds of movies, Lucasfilm remains the most skilled at this art.",neutral,0.24138115346431732
+2015-04-17,"For Lucasfilm, the Way of Its Force Lies in Its ‘Star Wars’ Fans",neutral,0.07486270368099213
+2015-04-20,Disney’s chief executive enlisted a Colorado start-up to help translate the BB-8 droid into a toy and theme park character.,positive,0.7110661864280701
+2015-04-20,Start-Up Solves ‘Star Wars’ Droid Puzzle,neutral,0.047021690756082535
+2015-04-22,"Comcast’s record of compliance is now in the spotlight as regulators, and senators like Al Franken, scrutinize its proposed takeover of Time Warner Cable.",neutral,-0.11103701591491699
+2015-04-22,Comcast’s Track Record in Past Deals May Be Hitch for Merger With Time Warner Cable,neutral,0.042842619121074677
+2015-04-23,Disney and Fox said they would not run a commercial for FiOS’s new cable package on some of their channels.,neutral,-0.22559577226638794
+2015-04-23,Resistance to Verizon FiOS Promotion,neutral,-0.014578312635421753
+2015-04-25,"The executive must walk one of corporate America’s most daunting gantlets, working to convince board members that he is up to the task of being chief executive.",neutral,0.08304844796657562
+2015-04-25,"Thomas Staggs: Disney’s Heir, Apparently",neutral,0.02614842914044857
+2015-04-27,"The network, owned by Disney, says that the carrier’s new FiOS cable packages violate its contract.",negative,-0.9116668701171875
+2015-04-27,ESPN Sues Verizon Over New Cable Packages,negative,-0.9176074862480164
+2015-05-05,"Strong results in theme parks, as well as consumer products and broadcasting, made up for profit declines in movies and cable.",positive,0.349585622549057
+2015-05-05,Gains Across the Disney Empire Lift Earnings 10%,positive,0.43607470393180847
+2015-05-08,"Leslie Ferraro, who will become president of Disney Consumer Products, joined the company’s theme park business 16 years ago.",neutral,0.03152571618556976
+2015-05-08,Disney Names Marketer to Run Consumer Products Division,neutral,0.024814195930957794
+2015-05-18,"One of the most important paths to upward mobility, open on a meritocratic basis to people from all economic classes, is narrowing.",neutral,0.06818807125091553
+2015-05-18,"The In-State Tuition Break, Slowly Disappearing",neutral,0.02370341494679451
+2015-05-24,"Disney and Univision’s fledgling network isn’t delivering concrete results, raising concerns that it’s not connecting with the youthful, diverse audience it covets.",negative,-0.9501283764839172
+2015-05-24,"Fusion Media Aims at Millennials, but Struggles to Find Its Identity",neutral,-0.056277789175510406
+2015-06-01,"James Rasulo, the company’s chief financial officer since 2010, was considered out of the running to succeed Robert Iger as the chief executive.",neutral,-0.146967813372612
+2015-06-01,Disney’s Top Financial Officer to Step Down,negative,-0.42870718240737915
+2015-06-02,"Disney’s new Playmation uses wireless systems, motion sensors and wearable technology to engage children with interactive missions.",neutral,0.09046714007854462
+2015-06-02,"Disney Unveils Playmation, Toys That Play Back",neutral,0.07885649800300598
+2015-06-29,The restructuring that joins Disney Consumer Products and Disney Interactive reflects growing overlap between the two businesses.,neutral,0.3461923599243164
+2015-06-29,Disney Merges Consumer Product and Interactive Units,neutral,-0.019642958417534828
+2015-06-30,"Christine M. McCarthy, who has most recently been Disney’s treasurer, will succeed James A. Rasulo, who stepped down in early June.",neutral,0.03343786671757698
+2015-06-30,Disney Names Its First Female Chief Financial Officer,neutral,0.13512197136878967
+2015-07-02,Disney movies have proved surprisingly successful at influencing what people name their babies.,positive,0.7200435400009155
+2015-07-02,"After ‘Frozen,’ a Baby Boomlet of Elsas",neutral,-0.2432672679424286
+2015-07-11,"Interest in “The Force Awakens,” due in theaters in December, is already so extreme that Disney knows its safest option is to hold back.",negative,-0.7195302248001099
+2015-07-11,Promoters of Coming ‘Star Wars’ Film Have a Delicate Dance at Comic-Con,neutral,0.01109083741903305
+2015-07-15,"The company’s resort, its first in mainland China, represents a major bet on westernized leisure travel and an effort to stoke sales of Disney products.",positive,0.8370711803436279
+2015-07-15,"Shanghai Disney Plans Unveiled: Big on ‘Pirates,’ but No Space Mountain",neutral,0.05169729143381119
+2015-07-23,"The bloc, which opened the investigation in January 2014, said the companies prevented consumers from gaining access to content outside Sky UK’s licensed territory of Britain and Ireland.",negative,-0.8824980854988098
+2015-07-23,E.U.,neutral,0.04360159859061241
+2015-07-23,Opens Antitrust Case Against Major U.S. Studios and Sky UK,neutral,-0.09228479862213135
+2015-08-02,"After Comcast bought NBCUniversal four years ago, it surprised some by not only hanging onto the company’s theme parks, but investing heavily in their expansion.",positive,0.731134831905365
+2015-08-02,"Comcast Invests by the Billion in Theme Parks, Hogwarts and All",neutral,0.03980805352330208
+2015-08-04,"Disney’s quarterly results reflected the shifting fortunes of its TV and movie businesses, as cable properties like ESPN took more of a back seat to consumer products.",neutral,0.2712365388870239
+2015-08-04,"Despite 5% Increase, Disney Revenue Disappoints Analysts",negative,-0.9486318826675415
+2015-08-05,"Shares in Comcast, Time Warner, 21st Century Fox, CBS, Viacom, Discovery and AMC Networks all were down, with some plunging by as much as 12 percent in midday trading.",negative,-0.9605372548103333
+2015-08-05,"Disney, Time Warner and Other Media Shares Fall as Investors Worry About TV’s Future",negative,-0.9311639070510864
+2015-08-15,After Disney’s aggressive overseas investment — which gave Universal an opening in the United States — Disney announced expensive plans for “Star Wars”-themed expansions at its California and Florida resorts.,positive,0.7133861780166626
+2015-08-15,"Disney Bulks Up Theme Parks, as Universal Gains Ground",positive,0.5654997825622559
+2015-08-26,The company will use its Maker Studios unit and ABC News in an ambitious international promotion of characters and toys from the coming film.,neutral,0.24062220752239227
+2015-08-26,Big Push by Disney on ‘Star Wars’ Merchandise,positive,0.5052397847175598
+2015-08-31,"This week automakers are expected to report healthy sales of new vehicles, Samsung plans to introduce another smartwatch and the Labor Department will report the latest data on hiring and unemployment.",positive,0.7690662145614624
+2015-08-31,"Car Sales, Samsung’s New Smartwatch, and the Jobs Report",neutral,-0.02350122667849064
+2015-09-02,"The amicable departure will probably occur next summer, after the July release of “The BFG,” according to people briefed on the matter.",neutral,-0.07796473801136017
+2015-09-02,Spielberg’s DreamWorks Studio Expected to End Distribution Pact With Disney,negative,-0.4677111804485321
+2015-09-03,"The BB-8, a small, round robot that rolls along at the touch of a smartphone, is one of hundreds of toys related to the next “Star Wars” film.",neutral,0.03482929244637489
+2015-09-03,BB-8 Droid Offers Hint of Coming Crush of ‘Star Wars’ Toys,neutral,0.20664089918136597
+2015-09-04,Hundreds of toys are hitting the market in a huge marketing push for the coming “Star Wars” movie.,neutral,0.4140595495700836
+2015-09-04,This interactive Yoda doll from Spin Master ($180) says it will teach children to be a Jedi.,neutral,0.11046011000871658
+2015-09-04,"Yoda, as a Toy",neutral,0.00044038891792297363
+2015-09-07,"Ticket sales at North American cinemas rose 10 percent, to $4.48 billion, this summer.",positive,0.9243965148925781
+2015-09-07,But it was a lopsided victory for the studios.,positive,0.8010310530662537
+2015-09-07,The Crowding-Out Effect of Gargantuan Movies,neutral,-0.32864755392074585
+2015-09-12,"Disney was constantly reinventing his company, a practice that drove his more business-minded brother crazy but ultimately helped his studio thrive.",positive,0.45159342885017395
+2015-09-12,"Walt Disney, a Visionary Who Was Crazy Like a Mouse",neutral,-0.06224767863750458
+2015-09-15,"Ms. Davis is a former executive at Walmart, and Mr. Frelinghuysen was an executive at AOL.",neutral,-0.005288226529955864
+2015-09-15,Disney-ABC Names Cindy Davis and John Frelinghuysen to Senior Posts,neutral,0.004116374999284744
+2015-10-03,"Industry analysts agree that the cable TV bundle of channels is in trouble, but it is less clear what would replace it, or at what cost.",negative,-0.9434748888015747
+2015-10-03,Unwrapping the Cable TV Bundle,neutral,0.07979325950145721
+2015-10-06,"Starting in January, ABC Family will become Freeform, a rebranding that will seek viewers younger than millennials.",neutral,0.27079787850379944
+2015-10-06,Disney’s Family Channel Aims Younger Than Millennials With New Name,neutral,0.1445126235485077
+2015-10-08,Disney set or shifted release dates for 19 big-budget movies — many still untitled – planned through 2020.,neutral,-0.06376373767852783
+2015-10-08,‘Cars 3’ and ‘Toy Story 4’ Swap Release Dates as Disney Changes Film Schedule,neutral,-0.19861449301242828
+2015-10-09,The new movie about the Apple co-founder suggests that the future envisioned by the tech industry’s leaders is worth putting up with them.,neutral,0.16247594356536865
+2015-10-09,"In ‘Steve Jobs,’ Tolerating Tech’s Unpleasant Visionaries",negative,-0.5816522836685181
+2015-10-11,"As anticipation has mounted for the restart of the “Star Wars” movie series, Disney has also overhauled how “Star Wars” video games are made.",positive,0.4532414376735687
+2015-10-11,Disney Reboots ‘Star Wars’ Video Games,neutral,0.04339184612035751
+2015-10-21,"ESPN is trying to deal with trends in broadcasting, including cord cutting.",neutral,0.06065008044242859
+2015-10-21,"ESPN to Lay Off 300 Workers, Reacting to Shifts in Sports Viewing",negative,-0.9584959149360657
+2015-11-03,Investors are looking for media executives to show how they are adapting for survival.,neutral,0.15505477786064148
+2015-11-03,"Media Earnings Results Are Awaited, a Bit Warily",neutral,0.07655638456344604
+2015-11-05,"For its fourth quarter, Disney had a per-share profit of $1.20 a share, a 35 percent increase.",positive,0.9145761728286743
+2015-11-05,"With ESPN Gains, Disney Profit Rose 12 Percent in Fiscal Year",positive,0.9328088164329529
+2015-11-21,"Lego has made new products based on its interlocking bricks, and its creations have been featured in animated films.",neutral,0.12653158605098724
+2015-11-21,Its success has encouraged competition.,positive,0.8274859189987183
+2015-11-21,Lego’s Success Leads to Competitors and Spinoffs,neutral,0.3531906306743622
+2015-11-23,"IAC/InterActiveCorp, the hodgepodge of Internet businesses, has come under scrutiny.",negative,-0.8558971881866455
+2015-11-23,"But today, the numbers tell a different story.",neutral,-0.005948424339294434
+2015-11-23,Barry Diller’s Business Model Bears Fruit,neutral,0.06328218430280685
+2015-11-25,"Mr. Rice, 60, is the founder of Barry Rice Architects, based in New York.",neutral,0.029315410181879997
+2015-11-25,"Before that, Mr. Rice spent 13 years at Robert A.M. Stern Architects.",neutral,0.0017630737274885178
+2015-11-25,A Conversation With Barry Rice,neutral,0.03254302218556404
+2015-11-30,Movies — in particular one movie -- have started to drive Disney’s stock.,neutral,0.09991856664419174
+2015-11-30,The question is whether that is sustainable.,neutral,0.013566983863711357
+2015-11-30,Disney’s ‘Star Wars’ Attracts Investors in Midst of ESPN Woes,positive,0.4296938180923462
+2015-12-02,"Informational and game apps provide news updates, tell the “Star Wars” story and offer opportunities to act out the popular movie franchise.",neutral,0.06100333109498024
+2015-12-02,Video Feature: ‘Star Wars’ Apps Keep the Force With You Till Movie Arrives,neutral,0.03225361555814743
+2015-12-07,"YouTube says that this year people have watched videos unveiling items like toys and iPhones more than 1.1 billion times, for a total of 60 million hours.",neutral,-0.03115399181842804
+2015-12-07,‘Unboxing’ Videos a Gift to Marketers,neutral,0.0367916077375412
+2015-12-08,The infusion of cash from the family-friendly Disney into the racy and brash Vice could be taken as a sign of the challenges facing traditional cable companies.,positive,0.7449758052825928
+2015-12-08,Disney Invests $200 Million More in Vice Media to Support New Programming,positive,0.6063518524169922
+2015-12-15,"For Disney, the Los Angeles premiere, which overflowed from the Dolby to two adjacent theaters, was an overt celebration of its 2012 decision to get into the “Star Wars” business.",positive,0.5378591418266296
+2015-12-15,"‘Star Wars: The Force Awakens’ Has World Premiere, No Expense Spared",neutral,0.0844137892127037
+2015-12-17,"Disney, SeaWorld and Universal Studios are joining Six Flags in adding more gate security.",positive,0.7756343483924866
+2015-12-17,Disney previously banned toy guns and costumes.,neutral,-0.39335334300994873
+2015-12-17,Disney and Other Theme Parks Add Metal Detectors for Holidays,neutral,0.045413538813591
+2015-12-22,"With more television networks bypassing cable packages and offering à la carte subscriptions, some predict trouble ahead for ESPN.",negative,-0.9451890587806702
+2015-12-22,"Beyond ‘Star Wars,’ a Dark Force Looms for Disney: Cord-Cutting",neutral,-0.011281564831733704
+2015-12-23,"The Walt Disney Company is said to be in talks with Univision to sell its stake in Fusion, the joint venture started by the two companies.",neutral,0.06547189503908157
+2015-12-23,Disney Eyes Fusion Exit as Venture Struggles,neutral,-0.2831103205680847
+2015-12-28,"Toy Box, a division of Mattel, developed the Bug Racer and other ambitious projects as part of its mandate to fast-track promising, experimental toys.",neutral,0.2310868501663208
+2015-12-28,"Mattel Takes a Risk, With Barbie and Bugs",neutral,-0.0005103684961795807
+2015-12-31,"In an interview, Mr. Lucas jokingly compared Disney, which bought the rights to the franchise in 2012, to “white slavers” who had bought his children.",negative,-0.5366461277008057
+2015-12-31,He later apologized for the remark.,negative,-0.5391927361488342
+2015-12-31,George Lucas Criticizes Latest ‘Star Wars’ Installment,negative,-0.6493626832962036
+2016-01-13,"Although Netflix’s strategy is not without a fair amount of risk, it just keeps working — and the company’s prospects are steadily brightening.",positive,0.8726272583007812
+2016-01-13,Why Media Titans Would Be Wise Not to Overlook Netflix,neutral,-0.030170783400535583
+2016-01-16,"Mr. Weis, who is replacing two executives atop the unit, helped design Disney’s Hollywood Studios park in Florida in the 1980s.",neutral,0.04206168279051781
+2016-01-16,Disney Names Bob Weis as New President of Imagineering Unit,neutral,0.04999307543039322
+2016-02-04,"In conventional media, it’s all about the people, and the head of NBCUniversal has learned to stroke, cajole and get tough — and get results.",neutral,0.1374334841966629
+2016-02-04,"Under Steve Burke, Old-Media NBCUniversal Shows Off Some New Tricks",neutral,0.0588250607252121
+2016-02-07,"All Chipotle stores will be closed for four hours on Monday, and after a shake-up at Viacom, the media company will report on Tuesday how it’s faring.",negative,-0.8341373205184937
+2016-02-07,"A Short Shutdown for Chipotle, Viacom’s Earnings and Yellen to Testify",negative,-0.8013902306556702
+2016-02-09,"A 6 percent decrease in operating income at the cable TV division, which includes ESPN, was attributed to the timing of some college bowl games.",negative,-0.9587892889976501
+2016-02-09,"‘Star Wars’ Sales Propel Disney Earnings, but ESPN Slips",negative,-0.5266399383544922
+2016-02-11,The British Health and Safety Executive charged Foodles Productions with safety breaches related to an accident in which Mr. Ford’s leg was broken.,negative,-0.9189502000808716
+2016-02-11,Disney Unit Cited in Harrison Ford Accident During ‘Star Wars’ Filming,negative,-0.7146782875061035
+2016-02-22,"Ms. Ferraro’s resignation comes days after Paul Lee, the now-former president of ABC Entertainment, was fired.",negative,-0.7467194199562073
+2016-02-22,She took the role only nine months ago.,neutral,0.04886028543114662
+2016-02-22,"Leslie Ferraro, Disney’s Co-Chairwoman of Digital Media, Resigns",negative,-0.5371537804603577
+2016-02-27,"Starting on Sunday, Disney’s theme park resorts in California and Florida will charge different ticket prices based on the calendar.",neutral,0.00010420195758342743
+2016-02-27,Disney Introduces Demand-Based Pricing at Theme Parks,neutral,0.2922276556491852
+2016-03-03,"The Walt Disney Company’s annual meeting is often livelier than other companies’, with questions from children presented alongside weighty financial issues.",neutral,0.016489945352077484
+2016-03-03,"At Disney’s Annual Meeting, Cruise Ships and Questions From Kids",neutral,-0.06543608009815216
+2016-03-08,"Isaac Perlmutter, the enigmatic head of the Marvel Entertainment unit of Disney, is accused of orchestrating a slander campaign that called a neighbor a murderer and child molester.",negative,-0.7639734745025635
+2016-03-08,"Lurid Suit Over Hate Mail Embroils Isaac Perlmutter, Marvel Chief",negative,-0.47539642453193665
+2016-03-18,Movie studios are notorious for revealing few financial details about their films.,neutral,-0.32408246397972107
+2016-03-18,But an analyst recently estimated the latest “Star Wars” movie’s balance sheet.,negative,-0.695224940776825
+2016-03-18,An Educated Guess on How Much ‘Star Wars: The Force Awakens’ Will Make for Disney,neutral,0.0649920403957367
+2016-03-29,An entertainment company started by the former Disney chairman Dick Cook has tapped Paul Haggis as director of a film based on a popular children’s series.,neutral,0.15125171840190887
+2016-03-29,"‘Ranger’s Apprentice’ to Be Adapted as Film, Financed by Chinese Firm",neutral,0.10869467258453369
+2016-04-04,"Mr. Staggs, the chief operating officer, will leave next month, handing Disney a distracting succession search for a chief-in-waiting.",negative,-0.6427869200706482
+2016-04-04,"Thomas Staggs, Disney’s Heir Apparent, Is Stepping Down",neutral,-0.08085153996944427
+2016-04-06,"As the conglomerate looks for a new leader, it’s having difficulty finding someone, even the heir apparent, who appears able to measure up.",negative,-0.8307316899299622
+2016-04-06,Robert Iger’s Success at Disney Makes Him a Tough Act to Follow,negative,-0.6846029758453369
+2016-04-07,Thomas Staggs’s departure from the No.,neutral,-0.3039187490940094
+2016-04-07,2 position at the media giant leaves no clear successor for Robert Iger as chief executive.,neutral,-0.18178525567054749
+2016-04-07,Behind the Scenes at Disney as It Purged a Favorite Son,neutral,-0.2668410539627075
+2016-04-17,Disney used a variety of tactics to promote the movie to different audiences and tell them it was not just a film but a magical experience.,neutral,0.08594507724046707
+2016-04-17,Disney’s Savvy Marketing of ‘The Jungle Book’,neutral,0.33455216884613037
+2016-04-21,"Fusion will anchor Univision’s new Fusion Media Group, to be distributed on a mix of digital and traditional media.",neutral,0.05967757850885391
+2016-04-21,Univision Buys Out Disney’s Stake in Fusion,neutral,0.07553515583276749
+2016-04-27,"Since Comcast’s offer to buy Disney fell short more than a decade ago, it has essentially tried to copy the Magic Kingdom’s strategy.",neutral,0.058549489825963974
+2016-04-27,Adding DreamWorks Would Bolster Comcast in Disney Rivalry,positive,0.90102618932724
+2016-05-08,"As Oracle continues to sue Google for $8.8 billion, quarterly earnings reports are expected for Disney, Credit Suisse and Macy’s.",negative,-0.7558399438858032
+2016-05-08,Google Goes Back to Court Over Android Code and May Face Fines in Russia,negative,-0.9370460510253906
+2016-05-10,The company is abandoning its Infinity effort in console games and toys.,negative,-0.6464570760726929
+2016-05-10,Strength at its studios was offset by weakness in some television businesses.,negative,-0.938750147819519
+2016-05-10,"Disney, With Mixed Earnings, Is Shutting Video Game Line",negative,-0.9079123139381409
+2016-05-26,"Warner Bros.’ “Batman v Superman” would seem to have the box-office edge, but “Captain America: Civil War” has surged past it.",neutral,-0.01712620258331299
+2016-05-26,Disney v. Warner: How Captain America Beat Batman and Superman,neutral,0.08453501015901566
+2016-06-14,"Plans for the $5.5 billion Shanghai Disney Resort, which opens Thursday, were in limbo until Disney dialed back its demands to the Communist Party.",negative,-0.8545845746994019
+2016-06-14,How China Won the Keys to Disney’s Magic Kingdom,positive,0.4354298710823059
+2016-06-15,The mass shooting in Orlando and an alligator attack at a Disney World hotel overshadowed the opening of Shanghai Disneyland.,negative,-0.7410869002342224
+2016-06-15,"For Disney, Grim News in U.S. Tempers Reverie in Shanghai",negative,-0.7941734194755554
+2016-06-16,"The first Disney park on the mainland, built for $5.5 billion, is being held up as nothing less than a historic symbol of United States-China relations.",neutral,0.10405619442462921
+2016-06-16,Shanghai Disneyland Opens Amid Rain and Pageantry,neutral,0.32580330967903137
+2016-06-21,"After tragedies in Orlando, Fla., and the introduction of metal detectors, the Disney theme parks find it harder to keep the magic front and center.",negative,-0.8239890336990356
+2016-06-21,"At Disney, Gloomy Realities Shadow a Fantasy World",neutral,-0.33669477701187134
+2016-07-10,"Disney has created its first Latina princess, Elena, who will have her debut on the Disney Channel this month.",positive,0.5399848818778992
+2016-07-10,A New Disney Princesa Carries Responsibilities Beyond Her Kingdom,neutral,-0.006479261443018913
+2016-07-19,"As a group, corporate lawyers were paid 2 percent less in cash in 2015 than in 2014.",negative,-0.8027130365371704
+2016-07-19,Those at the top fared better.,positive,0.3047215938568115
+2016-07-19,And noncash pay wasn’t included.,neutral,-0.03247379884123802
+2016-07-19,Cash Pay Dips a Bit for Corporate Lawyers,negative,-0.8524748682975769
+2016-08-07,"Signatures are due Monday to put proposals on Colorado’s ballot that would restrict hydraulic fracturing; and attention turns to earnings at Valeant, Disney and Macy’s.",neutral,-0.048587366938591
+2016-08-07,Colorado Fracking Limit Deadline; Valeant and Disney Earnings Reports,neutral,-0.02716759219765663
+2016-08-09,"BamTech, which handles streaming for baseball teams and Time Warner’s HBO, will help Disney introduce an ESPN-branded subscription service.",positive,0.6024676561355591
+2016-08-09,"Disney Bets on Streaming, Joining With Major League Baseball",neutral,0.23722170293331146
+2016-08-10,Disney’s investment in BamTech acknowledges that consumer habits are changing in a move that should strengthen and accelerate its streaming options.,positive,0.9006393551826477
+2016-08-10,ESPN Streaming Deal Helps Disney Step Into the Future,positive,0.8179057240486145
+2016-09-15,"The layoffs, while small given Disney’s sheer size, have followed a pattern in recent months as the company tries to move fast to control costs.",negative,-0.8533026576042175
+2016-09-15,Disney Cuts 250 Jobs in Consumer Products and Digital Unit,negative,-0.9490377902984619
+2016-09-16,"The appointment of Bruce Rosenblum, formerly of Warner Bros., helps Disney shore up senior management at a unit struggling with industry upheaval.",positive,0.8103267550468445
+2016-09-16,Disney Hires Rosenblum to Reinforce Television Division,neutral,0.06763236969709396
+2016-09-27,A possible takeover shows that just what Twitter is still is very much in the eye of the beholder.,neutral,0.03231590986251831
+2016-09-27,Daily Report: Twitter Attracts a Wide Range of Suitors,neutral,0.0548100471496582
+2016-10-01,"Twitter news, including a prolific tweeter’s hiatus.",neutral,-0.05670500919222832
+2016-10-01,Also: A human sacrifice is needed for Elon Musk’s Mars shot.,neutral,0.016349416226148605
+2016-10-01,"By popular acclamation, it’s Farhad.",neutral,0.0404072031378746
+2016-10-01,Farhad’s and Mike’s Week in Tech: Interest in Twitter From Disney?,neutral,0.029454853385686874
+2016-10-01,Unlikely.,neutral,-0.005399622023105621
+2016-10-03,Disney is struggling to assure investors that ESPN can be its growth engine in the long term.,negative,-0.8071784973144531
+2016-10-03,"Now, there are rumors that it is interested in acquiring Twitter.",neutral,0.03806040808558464
+2016-10-03,"Morning Agenda: Disney’s Next Deal, Trump’s Tax Shelter, Deutsche Off Balance",negative,-0.6489216685295105
+2016-10-19,A man whose businesses offers private lessons and certifications for fine-tuning lightsaber skills is operating without the permission of the “Star Wars” owner.,negative,-0.6931618452072144
+2016-10-19,Classes for Jedis Run Afoul of the Lucasfilm Empire,negative,-0.923383355140686
+2016-10-25,A look at where the AT&T deal leaves other prominent media companies and what some think they might attempt to do in response.,neutral,-0.00035217031836509705
+2016-10-25,A Chilly Reaction to AT&T-Time Warner Deal,negative,-0.7677527666091919
+2016-11-01,Hulu has signed deals that will make networks from 21st Century Fox’s and Disney part of its forthcoming live streaming service.,positive,0.8861880898475647
+2016-11-01,"Hulu Adds ESPN, ABC and Fox News to Streaming Service",neutral,0.08494681864976883
+2016-11-22,"Over five years, the smallest of the Disney resorts will get a bigger castle and put the film “Frozen” and Marvel superheroes at the center of new attractions.",neutral,0.43776649236679077
+2016-11-22,"Hong Kong Disneyland, Seeking Return to Profit, Plans $1.4 Billion Upgrade",neutral,0.10360632091760635
+2016-12-30,"Walt Disney, the entertainment conglomerate, is on the hunt for technology to connect consumers directly to its movies and TV shows, but a deal would be pricey.",neutral,-0.22629931569099426
+2016-12-30,Netflix Could Be Practical Magic for Disney,neutral,0.17135459184646606

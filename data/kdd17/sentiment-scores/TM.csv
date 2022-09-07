@@ -1,0 +1,1546 @@
+Date,Sentence,Prediction,sentimentScore
+2007-01-03,"The December report closed out a tough year for the Detroit auto companies, and 2007 may not be any easier.",negative,-0.9198181629180908
+2007-01-03,Chrysler Is Only U.S. Carmaker to See Sales Gains,positive,0.7045989632606506
+2007-01-05,Rick Wagoner said G.M.,neutral,0.05853622406721115
+2007-01-05,is not ready to concede its No.,negative,-0.8133151531219482
+2007-01-05,"1 position, but offered scant evidence that it could fend off a challenge from Toyota.",negative,-0.45908230543136597
+2007-01-05,Saying the No.,neutral,-0.10454258322715759
+2007-01-05,"1 Ranking Is Worth Keeping, G.M.’s Chief Vows to Fight Toyota",neutral,0.23187261819839478
+2007-01-05,"The chief executive of Ford Motor, Alan Mulally, has said he traveled to Japan last month to meet with Toyota Motor executives just to show his respect for what they had accomplished, not in an effort to bring the companies any closer.",positive,0.583167552947998
+2007-01-05,"Reports that the chairman of Toyota, Fujio Cho, had met in Tokyo with Mr. Mulally at Mr. Mullaly’s request had sparked talk of a potential alliance.",positive,0.6001517176628113
+2007-01-05,"Mr. Mulally squelched that speculation again Wednesday, saying that manufacturing methods – along with safety engineering, fuel economy and environmental issues – were topics that all automakers discussed with one another.",neutral,0.05343282222747803
+2007-01-05,Ford Chief Squashes Talks of a Toyota Alliance,neutral,0.05535154789686203
+2007-01-06,"The new year began with a series of surprises, not all of them pleasant.",neutral,0.11249594390392303
+2007-01-06,Highly Paid Chief Is Paid $210 Million to Go Away,neutral,-0.02250729501247406
+2007-01-06,"Apple, Caterpillar, Google, Kellogg and Toyota are among the smartest companies when it comes to what they reap for their research and development dollars.",neutral,0.11020537465810776
+2007-01-06,Who Is Best at R&D?,neutral,0.04714488238096237
+2007-01-08,Toyota is making surprisingly aggressive moves at the North American International Auto Show in Detroit.,positive,0.7248474359512329
+2007-01-08,Toyota Enters the Auto Show With a Swagger,neutral,0.22217091917991638
+2007-01-09,The auto show in Detroit is living up to its global name with new players from China and a new pecking order in the U.S. market.,positive,0.8426538109779358
+2007-01-09,"It’s Detroit, but Accents Are Foreign",neutral,-0.02812957763671875
+2007-01-10,The vice chairman of G.M.,neutral,0.019306188449263573
+2007-01-10,"said that Toyota had “more congressmen and senators” fighting for its interests, because it had built new factories in a large number of states.",neutral,-0.24456243216991425
+2007-01-10,G.M.,neutral,0.048085395246744156
+2007-01-10,Officer Says Toyota Is Stronger in Washington,positive,0.7961581945419312
+2007-01-11,How G.M.,neutral,-0.13486361503601074
+2007-01-11,"will fare as Toyota passes it in market share may depend on how it performs in China, its second-largest market after the U.S.",neutral,0.14190663397312164
+2007-01-11,G.M.,neutral,0.048085395246744156
+2007-01-11,"Sees China, and the Chinese, in a Chevrolet",neutral,0.05375947058200836
+2007-01-12,Toyota and the Speed Channel cable network have joined forces to produce an unusual program in which the Toyota FJ Cruiser plays a starring role.,positive,0.6409134268760681
+2007-01-12,"On the Speed Channel, the Lead Roles in a New Show Are Played by 2 Toyotas",neutral,-0.016812443733215332
+2007-01-14,"If Zach Nelson, the chief executive of NetSuite, hopes to be paid like a pro athlete, his company may have chosen the wrong baseball executive.",negative,-0.7705008387565613
+2007-01-14,A Corporate Director Who Plays Hardball,neutral,0.02241816744208336
+2007-01-14,"Frustrated by health costs, large employers are adding primary care medical centers in their offices.",negative,-0.9424369931221008
+2007-01-14,Company Clinics Cut Health Costs,negative,-0.6252503991127014
+2007-01-18,Foreign carmakers are offering look-alike models at the high and low ends of their respective brands that may cause some unintended double-takes.,neutral,-0.027807965874671936
+2007-01-18,Fraternal Twins in the Showroom,neutral,-0.09142126142978668
+2007-01-25,"Sticker prices for the bigger and brawnier 2007 Tundra will begin at $22,290 for the most basic model and go as high as $41,850.",neutral,0.08870815485715866
+2007-01-25,Redesigned Toyota Pickup to Cost More Than Rivals’ Trucks,positive,0.4415937066078186
+2007-02-06,"The Toyota Motor Corporation reported income of 426.7 billion yen, or about $3.7 billion, due in part to strong American sales of its Camry sedan and the remodeled FJ Cruiser sport utility vehicle.",positive,0.9036985635757446
+2007-02-06,Toyota Stays on Track with 7.3 Percent Gain in Quarter,positive,0.8572913408279419
+2007-02-07,Toyota’s ads for its new full-size Tundra pickup emphasize horsepower and don’t mention the auto maker’s famous fuel economy or hybrid technology.,neutral,0.07966548949480057
+2007-02-07,"To Sell Trucks, Toyota Shuns the Subtle",negative,-0.817044198513031
+2007-02-07,"The Toyota Motor Corporation, on pace to become the world’s biggest auto company, reports a 7.3 percent gain.",positive,0.7740293741226196
+2007-02-07,Toyota Reports Record Profits and Sales in 4th Quarter,positive,0.878501832485199
+2007-02-08,"Sales of the hybrid-electric Prius have flattened, prompting Toyota to offer incentives and begin a national ad campaign for the car.",negative,-0.9564293026924133
+2007-02-08,"Waiting List Gone, Incentives Are Coming for Prius",neutral,0.1430457979440689
+2007-02-14,As part of its strategy to hold onto its No.,positive,0.43673646450042725
+2007-02-14,"1 global spot, Toyota has opened a technical high school to train future factory leaders.",neutral,0.4021891951560974
+2007-02-14,Toyota Grooms Its Future Leaders,neutral,0.0963464006781578
+2007-02-15,"At the Toyota Institute, promising executives learn some of the most prized management secrets in corporate Japan.",neutral,0.17396120727062225
+2007-02-15,The ‘Toyota Way’ Is Translated for a New Generation of Foreign Managers,neutral,0.1969144195318222
+2007-02-27,The governor of Mississippi is expected to announce that his state will be the site of Toyota’s eighth assembly plant in the United States.,neutral,0.0976787805557251
+2007-02-27,Mississippi Expects to Be Site of a Toyota Assembly Plant,neutral,-0.01705627143383026
+2007-02-28,Toyota’s eighth assembly plant in North America will be in an area best known for being the birthplace of Elvis.,neutral,0.17254716157913208
+2007-02-28,Toyota to Build $1.3 Billion Plant in the Land of Elvis,neutral,0.06882228702306747
+2007-02-28,Gov.,neutral,0.0869113877415657
+2007-02-28,Haley Barbour announced that a highly sought factory would be built 20 miles outside Tupelo.,neutral,0.11759576201438904
+2007-02-28,Mississippi to Be Site of Toyota Assembly Plant,neutral,-0.025942042469978333
+2007-03-20,"Detroit’s automakers are getting some help from the federal government, at least in terms of their efforts to find flaws in the new pickup built by their Japanese rival Toyota Motor.",positive,0.8340757489204407
+2007-03-20,Toyota Pickup Scores Below-Perfect on Safety,negative,-0.9229274988174438
+2007-03-30,The discounts on the Tundra may be another sign that Toyota is not cutting into the truck market as much as rivals feared.,negative,-0.8893174529075623
+2007-03-30,Toyota Deepens Discounts on Its New Pickup,positive,0.3366352319717407
+2007-04-03,"Vehicle sales fell for a 21st straight month, led by Nissan and Toyota, capping their worst business year in three decades.",negative,-0.9508827328681946
+2007-04-03,"Sales of cars, trucks and buses, excluding minicars, fell 12.6 percent, to 487,738 vehicles in March from a year earlier, the Japan Automobile Dealers Association said.",negative,-0.9701789617538452
+2007-04-03,"Nissan’s sales fell 16 percent, while Toyota’s dropped 12 percent.",negative,-0.9598900079727173
+2007-04-03,"Sales of vehicles excluding minicars dropped 8.3 percent, to 3.59 million units, the lowest level in 29 years, in the 12 months ended March 31.",negative,-0.9705492854118347
+2007-04-03,Japan: Vehicle Sales Keep Falling,negative,-0.9418564438819885
+2007-04-04,Detroit’s automakers stumbled in March while their Asian competitors took a sizable leap forward.,negative,-0.9580323696136475
+2007-04-04,"Toyota Is Up in Sales; G.M., Ford and Chrysler Fall",positive,0.8170753121376038
+2007-04-04,"G.M., Ford and Chrysler all experienced declines while Toyota’s sales increased 7.7 percent, to a record number vehicles for the month.",negative,-0.8853293657302856
+2007-04-04,Asia’s Automakers Show Sizable March Sales Gains,positive,0.6939036846160889
+2007-04-13,"A management reshuffling would make James Press, the director of North American operations, the highest ranking non-Japanese in the company’s history.",neutral,0.44099289178848267
+2007-04-13,Toyota Promotes an American to Its Board,neutral,0.002030622214078903
+2007-04-21,The move comes even as the company has begun building Camry sedans at a Subaru plant in Indiana to replace those built in Japan.,positive,0.6605480313301086
+2007-04-21,Toyota to Increase Imports to Meet Demand for Prius,positive,0.897121250629425
+2007-04-22,"A new wave of foreign competitive pressure is beginning to ripple through the United States economy, from companies in Brazil, Russia, India and China.",positive,0.5129129886627197
+2007-04-22,"Emerging Markets, Emerging Giants",neutral,0.0835249125957489
+2007-04-24,The first-quarter results mark another milestone in America’s long decline from industrial pre-eminence.,positive,0.6291239857673645
+2007-04-24,Toyota Tops G.M.,neutral,-0.10124647617340088
+2007-04-24,in Sales for First Time,positive,0.3304016590118408
+2007-04-25,The news that Toyota is now the world’s largest carmaker was met in Detroit with anger and a sense of resignation.,negative,-0.9298704266548157
+2007-04-25,"Move Over G.M., Toyota Is No.",neutral,-0.006425432860851288
+2007-04-25,1,neutral,0.06526117771863937
+2007-05-02,"The Edge crossover vehicle is meeting its sales expectations, but it could not prevent Toyota from replacing Ford as the second-largest seller of vehicles in the U.S.",positive,0.12389716506004333
+2007-05-02,"A Crossover Helps Ford, but Not Enough to Hold Its No.",positive,0.8091781139373779
+2007-05-02,2 Spot,neutral,0.02118144929409027
+2007-05-10,The automaker posted a record profit for the fiscal year but warned of a slumping market in North America.,negative,-0.860076367855072
+2007-05-10,"Toyota Profit Robust, Forecast Cautious",positive,0.5535330176353455
+2007-05-10,Toyota reported another year of record profit but signaled a slowdown in the current year because of weakness in North America and increased spending.,negative,-0.9008405804634094
+2007-05-10,Toyota Posts Another Record but Warns of Slowdown,negative,-0.7555553317070007
+2007-06-09,"As with sport utilities, the popularity of pickups is in decline.",negative,-0.9551535248756409
+2007-06-09,Caution: Lower Truck Sales Ahead,negative,-0.3093898296356201
+2007-06-14,"General Motors has decided to use its heritage as a competitive advantage in its advertising, rather than a weakness.",positive,0.6512372493743896
+2007-06-14,Another Spin for ‘Buy American’,neutral,-0.03039798140525818
+2007-07-03,No automaker got a passing grade on all its light trucks in a test administered by the Insurance Institute for Highway Safety.,positive,0.5294719934463501
+2007-07-03,"In Rear-End Crash Test, Most Trucks Fail to Stop Neck Injury",negative,-0.8979747891426086
+2007-07-04,One reason for the success of the Toyota Prius may be that buyers want everyone to know they are driving a hybrid.,positive,0.5631104707717896
+2007-07-04,Say ‘Hybrid’ and Many People Will Hear ‘Prius’,neutral,0.07579665631055832
+2007-07-04,"Detroit automakers’ share of the American car market fell to a record low in June, foreshadowing another summer of deep discounts, cheap car loans and deals on leases.",negative,-0.9630188941955566
+2007-07-04,Detroit’s Big 3 Lost Buyers Last Month,negative,-0.9055435657501221
+2007-07-25,"The company confirmed that is ready to test plug-in hybrids, setting up a direct challenge with General Motors to develop such vehicles.",positive,0.727448046207428
+2007-07-25,"Toyota to Test Plug-In Hybrid, Rivaling G.M.",positive,0.8781713247299194
+2007-07-26,"The automaker said it was testing hybrid vehicles with rechargeable batteries in the United States and Japan, setting up a direct challenge with General Motors.",positive,0.5249052047729492
+2007-07-26,"Toyota to Test Plug-In Hybrid, Rivaling G.M.",positive,0.8781713247299194
+2007-07-27,"Driven by concerns that are as much political as they are environmental, the company will offer a hybrid version of its Cayenne sport utility vehicle by the end of the decade.",neutral,0.10162670165300369
+2007-07-27,Porsche Designs an S.U.V.,neutral,0.0073705799877643585
+2007-07-27,for the Environmentally Conscious,neutral,0.07575009763240814
+2007-08-01,"American companies lost their leadership of the domestic car market for the first time ever in July, a dismal month for sales.",negative,-0.9507938027381897
+2007-08-01,Detroit Is Outsold by Imports in U.S.,negative,-0.947630763053894
+2007-08-02,"American companies lost their leadership of the domestic car market in July, a dismal month for sales.",negative,-0.9543058276176453
+2007-08-02,Foreign Automakers Pass Detroit in Monthly Sales,neutral,-0.18392783403396606
+2007-08-03,Toyota today reported a 32 percent rise in quarterly profits and strong sales in the North American market.,positive,0.9348392486572266
+2007-08-03,Toyota Builds on Streak of Record Earnings,positive,0.6903108358383179
+2007-08-04,Toyota reported a 32 percent rise in second-quarter profits and strong sales in North America as the company seeks to widen its lead over G.M.,positive,0.9301720857620239
+2007-08-04,as the world’s largest automaker.,positive,0.539103627204895
+2007-08-04,Toyota Says Quarterly Profit Jumped 32%,positive,0.8832324147224426
+2007-08-09,"General Motors, Ford and Toyota are predicting the leanest results in the American market since 1998 as a soft housing market and high gasoline prices take a toll.",negative,-0.9306504726409912
+2007-08-09,Automakers See a Weak Year for Sales,negative,-0.892197847366333
+2007-09-04,"Bigger discounts helped General Motors increase sales in August while Toyota, Ford Motor and Chrysler posted declines amid troubles in the credit and housing markets.",negative,-0.04477977752685547
+2007-09-04,August Sales Mixed for Automakers,negative,-0.9413535594940186
+2007-09-04,"Emboldened by Toyota’s plans to cut labor costs, the United Auto Workers is making its most concerted push yet to organize at the Japanese automaker’s largest American plant.",positive,0.5744507312774658
+2007-09-04,"Hardly a Union Hotbed, Toyota’s Kentucky Plant Is a Test for Organizers",neutral,-0.00010608136653900146
+2007-09-05,General Motors cut its fourth-quarter production schedule by 10 percent as a tightening credit market caused sales at other major automakers to decline in August.,negative,-0.9523835778236389
+2007-09-05,G.M.,neutral,0.048085395246744156
+2007-09-05,Cuts Production for Quarter,negative,-0.7880402207374573
+2007-09-06,James E. Press has been lured away from Toyota as Chrysler transforms itself as a private company.,negative,-0.7370870113372803
+2007-09-06,Chrysler Hires a Top Toyota Executive,neutral,-0.016621626913547516
+2007-09-07,James E. Press has been lured away from Toyota to serve as Chrysler’s co-president as the company continues its transformation.,neutral,-0.0921984314918518
+2007-09-07,Toyota’s Top U.S. Executive Is Joining Chrysler,neutral,0.044775448739528656
+2007-09-11,The Toyota Motor Corporation said it might need more production capacity in China to meet demand as sales there rise at about nine times the pace of those in the United States.,positive,0.7839655876159668
+2007-09-11,"“We are looking at the possibility of a new plant,” an executive vice president, Mitsuo Kinoshita, said at an investor conference in New York, without elaborating.",neutral,0.1711510568857193
+2007-09-11,"Toyota, based in Toyota City, Japan, began building its seventh factory in China in June.",neutral,0.3424449563026428
+2007-09-11,China: Toyota Considers a New Plant,neutral,0.04928804934024811
+2007-09-13,European carmakers are hoping that diesel power will become an alternative to the hybrid cars popularized by Toyota and others.,positive,0.7221075296401978
+2007-09-13,European Carmakers Bet That the U.S. Is Ready for Diesel,neutral,0.16514988243579865
+2007-09-27,G.M.,neutral,0.048085395246744156
+2007-09-27,has taken a major step toward eliminating much of the burden of providing benefits for its current and former workers.,positive,0.7990512251853943
+2007-09-27,With U.A.W.,neutral,0.04887443035840988
+2007-09-27,"Accord, G.M.",neutral,0.11541466414928436
+2007-09-27,Looks to a New Detroit,neutral,0.061398036777973175
+2007-10-02,"G.M.’s U.S. sales were up 4 percent in September, while Honda’s increased 13.8 percent.",positive,0.9117752909660339
+2007-10-02,"But Toyota, Ford and Chrysler all sold fewer vehicles.",negative,-0.7098876237869263
+2007-10-02,G.M.,neutral,0.048085395246744156
+2007-10-02,Sales Rise; Most Rivals Down,positive,0.5647655129432678
+2007-10-03,"G.M.’s U.S. sales were up 4 percent in September, while Honda’s increased 13.8 percent.",positive,0.9117752909660339
+2007-10-03,"But Toyota, Ford and Chrysler all sold fewer vehicles.",negative,-0.7098876237869263
+2007-10-03,A September Sales Drop of 18.2% Ends Dismal 2007 Model Year for Ford,negative,-0.9705400466918945
+2007-10-05,"The video game, Yaris, will be given out for free on XBox live starting Oct. 8, 2007.",neutral,0.032154351472854614
+2007-10-05,'Yaris' Game Trailer by Toyota,neutral,0.04958996921777725
+2007-10-08,"Like scores of other companies, Toyota is increasingly creating its own content like video games rather than relying simply on advertising during commercial breaks.",neutral,0.07185454666614532
+2007-10-08,Toyota’s Latest Commercial Is Not on TV.,neutral,-0.11662779003381729
+2007-10-08,Try the Xbox Console.,neutral,0.0029373131692409515
+2007-10-11,James D. Farley is the third high-ranking official to leave Toyota for one of the struggling Detroit automakers in recent months.,negative,-0.6049851775169373
+2007-10-11,Ford Names a Toyota Executive as Marketing Chief,neutral,-0.015161704272031784
+2007-10-12,"Automakers in India, one of the world’s fastest-growing car markets, are racing to respond to Indians’ desire for small and inexpensive cars, some as cheap as $2,500.",positive,0.8199063539505005
+2007-10-12,"In India, a $2,500 Pace Car",neutral,-0.13505464792251587
+2007-10-12,"The appointment generated a wave of optimism inside Ford, which is grappling with sharply lower sales and a loss last year of $12.6 billion.",positive,0.2535717189311981
+2007-10-12,"Ford Hires Head of Lexus, Aiming for Toyota Magic",neutral,0.0005525350570678711
+2007-10-17,Consumer Reports said “bug-ridden redesigns” were behind the automaker’s fall from first to third place in the magazine’s annual “Best & Worst New Cars” survey.,negative,-0.858420193195343
+2007-10-17,Toyota Loses Top Spot in Reliability Rankings,negative,-0.9170464277267456
+2007-10-23,"General Motors crept back to outsell Toyota by 10,000 vehicles over the first nine months of the year, aided by sales outside the United States.",positive,0.8751048445701599
+2007-10-23,Overseas Sales Results Give G.M.,neutral,0.08899685740470886
+2007-10-23,an Edge Over Toyota,neutral,-0.14210903644561768
+2007-11-02,"Even as Ford posted its 12th consecutive monthly U.S. sales decline, General Motors and Toyota each gained market share in October on higher truck sales.",positive,0.879215657711029
+2007-11-02,Sales at Ford Decrease for the 12th Month in a Row,negative,-0.968885064125061
+2007-11-03,Toyota has had a run of bad news this year as concerns linger that management has not kept up with a rapid growth rate.,negative,-0.9657506942749023
+2007-11-03,The Dings and Dents of Toyota,neutral,-0.20469669997692108
+2007-11-07,The company’s growth remains in high gear despite soaring global fuel prices and signs of an economic slowdown in the U.S.,positive,0.8895936012268066
+2007-11-07,Toyota Reports Strong Profits,positive,0.5796831250190735
+2007-11-08,"Toyota said that net profit from July through September rose 11 percent from the period a year earlier, to 450.9 billion yen (nearly $4 billion).",positive,0.9346449971199036
+2007-11-08,Recent Dings Don’t Dent Toyota Profit,negative,-0.7622610330581665
+2007-11-14,A generation of digital-era Henry Fords are trying to apply to carmaking the same entrepreneurial spirit that built the information superhighway.,neutral,0.42256250977516174
+2007-11-14,Taking a Whack at Making a Car,neutral,-0.31522923707962036
+2007-11-14,"This year, General Motors has been getting some warm reviews for its new cars.",positive,0.8754119873046875
+2007-11-14,Yet the company still has a hard time getting on drivers’ shopping lists.,negative,-0.861051082611084
+2007-11-14,"For G.M., Better Cars, Worse Sales",negative,-0.8458681106567383
+2007-12-08,"A strike at a Ford Motor Company assembly line in St. Petersburg highlights the tightening labor market in Russia, a problem that would have seemed inconceivable a few years ago.",negative,-0.9516485333442688
+2007-12-08,"In Russia, Ford Hurt by Strike and Rising Pay",negative,-0.9569171667098999
+2008-01-01,"The way that Detroit auto executives have been talking, 2008 will be a bad year to sell cars and trucks in the United States.",negative,-0.9203896522521973
+2008-01-01,Darker 2008 for Detroit’s Automakers,neutral,0.03942428529262543
+2008-01-03,"Ford’s sales fell 12 percent in 2007, allowing Toyota to replace it as the country’s second largest seller of vehicles.",negative,-0.9652762413024902
+2008-01-03,It was the first year that Ford was not No.,neutral,-0.05948255956172943
+2008-01-03,"2, behind General Motors, since 1931.",neutral,0.10006453096866608
+2008-01-03,Toyota Ousts Ford From No.,negative,-0.8661353588104248
+2008-01-03,2 Spot in U.S.,positive,0.30669906735420227
+2008-01-03,Sales,neutral,0.008077666163444519
+2008-01-04,"Sales of pickup trucks, long a steady supplier of hefty profits to automakers, were slowed in 2007 by gas prices and housing ills.",negative,-0.9643712639808655
+2008-01-04,Even Trucks Hit the Wall in an Erratic 2007,negative,-0.7691540122032166
+2008-01-04,"Toyota beat Ford in 2007 in U.S. auto sales, putting it behind General Motors.",positive,0.4809156060218811
+2008-01-04,Ford had held the No.,neutral,-0.022450994700193405
+2008-01-04,"2 spot since 1931, according to the company’s historian.",neutral,0.09903047978878021
+2008-01-04,"As Expected, Ford Falls From 2nd Place in U.S.",negative,-0.9548434615135193
+2008-01-04,Sales,neutral,0.008077666163444519
+2008-01-14,"The move puts Toyota in direct competition with General Motors, which plans to sell its own plug-in hybrid, the Chevrolet Volt, sometime around 2010.",negative,-0.27325981855392456
+2008-01-14,Toyota Will Offer a Plug-In Hybrid by 2010,neutral,0.10404016822576523
+2008-01-14,"The move puts Toyota in direct competition with General Motors, which plans to sell its own plug-in hybrid, the Chevrolet Volt, sometime around 2010.",negative,-0.27325981855392456
+2008-01-14,Toyota Will Offer a Plug-In Hybrid Vehicle by 2010,neutral,0.133338063955307
+2008-01-15,"In his first visit to the Detroit auto show, Toyota’s chief executive appealed to his employees to take personal responsibility for the quality of Toyota cars and trucks.",positive,0.5390344858169556
+2008-01-15,Quality Is Major Concern of Toyota’s Visiting Chief,neutral,-0.010044261813163757
+2008-01-19,A shift in focus over the last year by the world’s two largest automakers reveals how each is working on their own version of a turnaround.,neutral,0.3687407672405243
+2008-01-19,"Back to Roots, G.M.",neutral,0.23338761925697327
+2008-01-19,and Toyota Trade Places Again,neutral,0.05034755915403366
+2008-01-20,Whether humans will embrace or resist an innovation is the billion-dollar question facing designers of novel products and services.,neutral,-0.1257655918598175
+2008-01-20,The Risk of Innovation: Will Anyone Embrace It?,neutral,0.06043016165494919
+2008-01-20,"Richard D. Parsons, chairman of Time Warner and a Brooklyn native, has been a patron of the Apollo Theater in Harlem since his high school days.",neutral,0.02851872891187668
+2008-01-20,The first act he saw there was the Jackson Five.,neutral,0.006625823676586151
+2008-01-20,Some Offstage Help for Apollo Theater,neutral,0.021693691611289978
+2008-01-23,G.M.,neutral,0.048085395246744156
+2008-01-23,"said it sold 9,369,524 vehicles, a 3 percent increase.",positive,0.882636547088623
+2008-01-23,"Toyota last week reported its sales as a rounded 9.37 million, 6 percent more than in 2006.",positive,0.42531514167785645
+2008-01-23,G.M.,neutral,0.048085395246744156
+2008-01-23,and Toyota in a Close Race in ’07 Sales,neutral,-0.016839951276779175
+2008-01-24,"It was effectively a tie, but General Motors emerged from last year’s hard-fought global sales race with Toyota feeling like the winner.",positive,0.6924155950546265
+2008-01-24,"In Global Race, G.M.",neutral,0.16496078670024872
+2008-01-24,Wins by a Day of Pickup Sales,neutral,0.12602920830249786
+2008-02-01,G.M.’s sales were up 2.1 percent.,positive,0.9125139117240906
+2008-02-01,"In contrast, sales fell 12 percent at Chrysler, 2.3 percent at both Toyota and Honda, 4 percent at Ford and 7.3 percent at Nissan.",negative,-0.967432975769043
+2008-02-01,Only G.M.,neutral,0.0020746253430843353
+2008-02-01,Posts a Gain in January Sales in U.S.,positive,0.863502562046051
+2008-02-05,"As it tries to overtake General Motors as the leading global automaker by sales, Toyota’s strategy of  shifting its focus to emerging markets from the United States appears to be paying off.",positive,0.8284878730773926
+2008-02-05,Toyota Profit Increases 7.5 %,positive,0.6544804573059082
+2008-02-06,Toyota said its profit rose 7.5 percent in the October-to-December quarter as its strategy of shifting its focus to emerging markets appears to be paying off.,positive,0.9255231022834778
+2008-02-06,Toyota’s Profit Rises on Shift in Strategy,positive,0.4547938108444214
+2008-02-15,Ford unveiled its new Fiesta small car on Thursday.,neutral,0.3862936198711395
+2008-02-15,"It goes on sale in Europe this fall, with introductions in Asia, Australia, and North and South America to follow.",neutral,0.16084671020507812
+2008-02-15,Ford Introduces One Small Car for a World of Markets,neutral,0.2182619571685791
+2008-02-17,"Jonathan M. Tisch is giving up his post as chairman of NYC & Company, New York’s tourism marketing organization.",neutral,-0.14877569675445557
+2008-02-17,"A Wonderful Town, but He’s Moving On",neutral,0.11033105850219727
+2008-02-22,"Running Toyota might seem to be Akio Toyoda’s birthright, but it is not guaranteed.",neutral,0.030185900628566742
+2008-02-22,"For Founder’s Grandson, On-the-Job Education",neutral,-0.01819748431444168
+2008-02-22,Toyota’s top executives are trying to replicate the company’s success and operating principles in other countries while ceding more control to these new outposts.,positive,0.5178990960121155
+2008-02-22,"At Toyota, a Global Giant Reaches for Agility",neutral,0.17763923108577728
+2008-03-03,"Sales, when adjusted for one more selling day in 2008, fell by at least 10 percent at all three Detroit automakers.",negative,-0.9694467186927795
+2008-03-03,Sales Decline at Big Three Automakers,negative,-0.9455745816230774
+2008-03-13,"Seeking stability, Chrysler turns to James E. Press, a 37-year veteran of rival automaker Toyota.",neutral,0.03540465235710144
+2008-03-13,Can a Toyota Man Fix Chrysler?,neutral,0.08298005163669586
+2008-03-14,That big accounting firm may boast having offices around the world — until an office is sued.,neutral,-0.12192364037036896
+2008-03-14,Global or Local?,neutral,-0.04914681613445282
+2008-03-14,"For Accounting Firms, It All Depends",neutral,-0.07116307318210602
+2008-03-23,What exactly was Jim Cramer’s opinion on Bear Stearns’s stock?,neutral,-0.07608634233474731
+2008-03-23,"Well, What He Really Meant to Say Was...",neutral,0.06488367915153503
+2008-03-24,Toyota’s Scion enthusiasts will have even more “me time”: a marketing campaign aimed at showing just how much their chosen vehicle reflects their personality.,neutral,0.14205127954483032
+2008-03-24,Do-It-Yourself Logos for Proud Scion Owners,neutral,0.08989176154136658
+2008-04-02,"Sales for each of the nation’s four largest automakers fell last month, prompting some executives to forecast a gloomy spring, a period that typically posts strong sales.",negative,-0.9682167172431946
+2008-04-02,"Auto Sales Are Down Again, but G.M.",negative,-0.9400267601013184
+2008-04-02,and Toyota Are Optimistic,neutral,0.042340997606515884
+2008-04-20,"James D. Farley, Ford’s chief marketing officer, says he grasps that Ford is at a crossroads.",neutral,-0.023590832948684692
+2008-04-20,"A Star at Toyota, a Believer at Ford",neutral,0.19882795214653015
+2008-04-23,General Motors could have more difficulty keeping pace with Toyota this year as record crude oil prices and gas prices near $4 a gallon dampen demand in the United States.,negative,-0.9566012024879456
+2008-04-23,G.M.,neutral,0.048085395246744156
+2008-04-23,Trails Toyota as U.S.,negative,-0.12750479578971863
+2008-04-23,Sales Slow,neutral,-0.07201621681451797
+2008-04-24,G.M.,neutral,0.048085395246744156
+2008-04-24,"said its first-quarter sales fell less than 1 percent, leaving it about 160,000 vehicles behind its Japanese rival, whose sales grew 2.7 percent.",negative,-0.9609695672988892
+2008-04-24,G.M.,neutral,0.048085395246744156
+2008-04-24,Says Toyota Has Lead in Global Sales Race,positive,0.8483976721763611
+2008-05-01,"Despite bright spots among newer, small cars, overall vehicle sales in the United States plummeted during the month as gas prices climbed to record highs.",negative,-0.9603590965270996
+2008-05-01,Automakers’ April Sales Reflect Shift to Smaller Cars,negative,-0.4230433702468872
+2008-05-02,"About one in five vehicles sold in the U.S. in April was a compact or subcompact car, while sales of pickups and S.U.V.’s fell sharply.",negative,-0.9632346630096436
+2008-05-02,"As Gas Costs Soar, Buyers Flock to Small Cars",neutral,0.0492744967341423
+2008-05-08,"Toyota, which said that it would likely face an annual profit drop, is finding its profit growth in new markets.",negative,-0.8791263103485107
+2008-05-08,Toyota Feels Slowdown in U.S.,negative,-0.9456629753112793
+2008-05-09,"The drop in annual profit is accelerating a shift by the Toyota Motor Corporation into emerging markets like China, Latin America and the Middle East.",negative,-0.9619430899620056
+2008-05-09,Toyota Expects Decline in Annual Profit,negative,-0.9491442441940308
+2008-06-26,"In a radical shift, Japan’s staid Big Three automakers are plowing into exotic terrain, from Saharan Africa to the former Soviet Union to the scorching plains of southern India.",neutral,-0.25577986240386963
+2008-06-26,Nissan and Others Add Factories in Emerging Markets,neutral,0.3999205231666565
+2008-07-02,"Sales of new vehicles plunged in June, as high gas prices and a weak economy kept consumers away from showrooms.",negative,-0.9670233726501465
+2008-07-02,Car Sales at 10-Year Low,negative,-0.8199082016944885
+2008-07-09,"Automakers and designers are mapping out a new generation of lighter, sleeker vehicles that could give a radical new look to urban streets.",positive,0.5251121520996094
+2008-07-09,Designing Cars for Low-Carbon Chic,neutral,0.049473799765110016
+2008-07-11,"Toyota acknowledged that, like its rival automakers in Detroit, it misjudged the drastic swing in the American market away from larger vehicles.",negative,-0.5536516904830933
+2008-07-11,Toyota Scales Back Production of Big Vehicles,negative,-0.9162690043449402
+2008-07-17,People of all income levels are buying small cars but they are not scrimping on creature comforts.,neutral,-0.07419313490390778
+2008-07-17,"Car Buyers Downsize, but Spend Big on Options",neutral,0.026268284767866135
+2008-07-18,Behold the solar-paneled Prius.,neutral,0.03400144353508949
+2008-07-18,O.K.,neutral,0.05129287391901016
+2008-07-18,"— that’s not what a solar-paneled Prius would look like, if one ever existed.",neutral,-0.1944718062877655
+2008-07-18,"(We found this mock-up at Jalopnik.com, where the fellas decided to have a little fun at Toyota’s expense.)",neutral,-0.05171523615717888
+2008-07-18,"According to the accompanying story, Toyota is supposedly looking to rig up some solar equipment in 2010 to … er … power the air conditioning.",neutral,0.1031264141201973
+2008-07-18,"In any case, it got us thinking about the state of electric cars and hybrids, which is the subject of Saturday’s column.",neutral,0.06242379546165466
+2008-07-18,"Here are a few other, more realistic entries in the category of energy-efficient automobiles.",neutral,0.004411974921822548
+2008-07-18,Some of them even look pretty good …,neutral,0.07136821001768112
+2008-07-18,The Electric Car Cometh,neutral,0.03075452148914337
+2008-07-24,"Based on sales for the first half of 2008, Toyota appears to be on its way to surpassing G.M.",positive,0.9191251993179321
+2008-07-24,as the largest automaker.,neutral,0.14201845228672028
+2008-07-24,Toyota Ahead of G.M.,neutral,-0.03746670484542847
+2008-07-24,in Auto Sales,neutral,-0.012286268174648285
+2008-08-02,"The five largest automakers each reported sales declines on Friday, and the car industry is showing signs that the market is continuing to deteriorate.",negative,-0.9665628671646118
+2008-08-02,U.S.,neutral,-0.05536564439535141
+2008-08-02,Vehicle Sales Fall 13.2% Amid High Gas Prices and Tight Credit,negative,-0.9669241309165955
+2008-08-07,"The automaker said that its worldwide net income for the quarter fell 28 percent, hurt by slumping sales of its Tundra pickup truck and S.U.V.’s made and sold in North America.",negative,-0.9702565670013428
+2008-08-07,Truck Sale Slump Weighs on Toyota,negative,-0.7952848076820374
+2008-08-07,"Even Toyota Motor, Japan’s largest automaker, felt the pain in the first quarter from the collapsing market for big pickups and sport utility vehicles in the United States.",negative,-0.9593023061752319
+2008-08-07,Toyota Profit Slips 28% as Truck Sales Fall,negative,-0.9650270342826843
+2008-08-28,"The automaker cut its sales forecasts, warning that higher fuel costs and a slowdown in the United States and Europe would probably hold back the auto business at least through 2009.",negative,-0.9486253261566162
+2008-08-28,Even Toyota Trims Goal in Shift From Big Vehicles,negative,-0.15584003925323486
+2008-09-10,The TM506 is the first phone from T-Mobile that supports wireless 3G networks in some cities in the United States and overseas.,neutral,0.22134824097156525
+2008-09-10,"Simplicity in a Cellphone, for the Inner Minimalist",neutral,0.035211123526096344
+2008-10-01,"Industry sales have dropped 26.6 percent over all compared with a year ago, and automakers sold fewer than a million new cars in September, the first time since 1993.",negative,-0.9658105969429016
+2008-10-01,Hazardous Conditions for the Auto Industry,negative,-0.6383552551269531
+2008-10-01,The automaker unveiled a new compact Chevrolet that the company will market to both U.S. and foreign customers.,positive,0.6480342149734497
+2008-10-01,G.M.,neutral,0.048085395246744156
+2008-10-01,Hopes New Car Has International Appeal,positive,0.6777322888374329
+2008-10-02,"Honda issued its challenge to the Toyota Prius, introducing the Insight hybrid at the Paris Motor Show.",positive,0.7864271998405457
+2008-10-02,Honda Rolls Out a Hybrid to Challenge Toyota,positive,0.44135212898254395
+2008-10-07,"A picture caption on Thursday with an article about declining automobile sales, using information from The Associated Press, referred incorrectly to the status of a Toyota dealership shown in Alameda, Calif.",negative,-0.9302564263343811
+2008-10-07,"The dealership, Toyota of Alameda, remains open for business; it is not closed.",neutral,-0.020932534709572792
+2008-10-07,Corrections,neutral,0.025139711797237396
+2008-10-09,Toyota may create a separate brand for its Prius hybrid car and could add both larger and smaller Prius models to the lineup.,neutral,0.2942809760570526
+2008-10-09,Toyota May Make Prius a Brand and Widen the Model Lineup,neutral,0.3402617573738098
+2008-10-29,The General Motors Corporation said Wednesday that its global sales fell 11.4 percent in the third quarter.,negative,-0.970153272151947
+2008-10-29,G.M.,neutral,0.048085395246744156
+2008-10-29,Faces a Fall to No.,negative,-0.8226742744445801
+2008-10-29,2 as Global Sales Slip,neutral,-0.10861892998218536
+2008-11-03,"Facing tight credit markets and an economic slowdown, Ford, G.M., Chrysler and Toyota all reported selling far fewer vehicles than a year ago.",negative,-0.9295170307159424
+2008-11-03,Automakers Report Grim October Sales,negative,-0.9229951500892639
+2008-11-06,"Toyota Motor slashed its annual profit forecast by more than half, warning of a long downturn in global auto markets.",negative,-0.9461780190467834
+2008-11-06,"Wary of Global Downturn, Toyota Cuts Profit Forecast by More Than Half",negative,-0.9301771521568298
+2008-11-07,Asian markets were mixed Friday but rebounded from early lows amid grim profit forecasts from Toyota and other companies as well as sluggish U.S. economic data.,positive,0.2327967882156372
+2008-11-07,Asian Stock Markets Rebound,neutral,-0.14086614549160004
+2008-11-26,Toyota’s bond rating was cut — to AA.,negative,-0.9457694888114929
+2008-11-26,"The economy is very bad, but that is not the only reason G.M.",negative,-0.8404549956321716
+2008-11-26,is in trouble.,negative,-0.6975040435791016
+2008-11-26,Even Toyota Has Problems,neutral,-0.00023912638425827026
+2008-12-02,"In the worst month yet in a horrible year, U.S. sales fell 41 percent at General Motors and 33.9 percent at Toyota.",negative,-0.9675199389457703
+2008-12-02,"Honda’s sales declined 31.6 percent, and Ford’s fell 30.6 percent.",negative,-0.9600307941436768
+2008-12-02,Another Month of Miserable Auto Sales,negative,-0.6961832642555237
+2008-12-10,Nearly all the foreign companies that build vehicles in the U.S. have said little publicly concerning whether their American rivals should get billions of dollars in aid.,neutral,-0.02514844760298729
+2008-12-10,Foreign Automakers Say Little in Aid Debate,negative,-0.7516419291496277
+2008-12-22,"Underscoring how the economic crisis is spreading across the global auto industry, Toyota said it will lose money in its core automaking business.",negative,-0.9566174149513245
+2008-12-22,Toyota Expects Its First Loss in 70 Years,negative,-0.9531258344650269
+2008-12-22,Wall Street markets fell sharply after Toyota said it expected to post its first operating loss in more than 70 years.,negative,-0.9508314728736877
+2008-12-22,Wall Street Closes Lower as Toyota Foresees Loss,negative,-0.9383793473243713
+2008-12-23,The grim forecast from Toyota is the latest sign of the global auto industry’s slowdown after years of profits and expansion.,negative,-0.9455209970474243
+2008-12-23,"Car Slump Jolts Toyota, Halting 70 Years of Gain",negative,-0.913807213306427
+2008-12-23,"Although they have ample credit, foreign-owned carmakers with U.S. operations are facing slowing sales.",negative,-0.961999237537384
+2008-12-23,Foreign Automakers in the U.S. Cut Back,negative,-0.9253000020980835
+2008-12-23,"The president of Toyota Motor Company is expected to step aside next year and could be succeeded by Akio Toyoda, the grandson of the auto company’s founder.",neutral,-0.020358599722385406
+2008-12-23,New Leader Expected at Toyota Next Year,neutral,0.08554253727197647
+2009-01-06,"Toyota Motor will idle its plants in Japan for 11 days in February and March to reduce output in the face of steeply declining global vehicle sales, the company said Tuesday.",negative,-0.9609777331352234
+2009-01-06,Toyota to Shut Factories for 11 Days,negative,-0.8711453080177307
+2009-01-12,The offering from the Japanese automaker would beat the Chevrolet Volt to the market.,positive,0.8607507348060608
+2009-01-12,Toyota Plans to Leapfrog G.M.,neutral,-0.10655692219734192
+2009-01-12,With a Plug-In,neutral,0.037648674100637436
+2009-01-13,"The Toyota Prius, which dominates the U.S. hybrid car market, will face its most serious challenger this year as Honda introduces the Insight hybrid.",neutral,0.16233061254024506
+2009-01-13,Honda Unveils a Cheaper Hybrid Challenger to Toyota’s Top-Selling Prius,positive,0.727505087852478
+2009-01-13,"Several start-up automakers are in hot pursuit of electric-powered vehicles, but they face an uphill road as they challenge major car companies like Toyota and General Motors in the race for the green car market, The Associated Press reported.",neutral,0.0655304491519928
+2009-01-13,E-Car Start-Ups Try to Compete With Major Companies,positive,0.5874518156051636
+2009-01-16,"Asian stock markets rebounded Friday from the previous day’s rout, with Tokyo’s index gaining nearly 3 percent, as the U.S. bailed out Bank of America again and a weaker yen lifted exporters like Toyota Motor.",positive,0.8349457383155823
+2009-01-16,Major European markets also opened higher.,positive,0.7248978018760681
+2009-01-16,Asian Stocks Gain as U.S. Bails Out Bank,negative,-0.0875484049320221
+2009-01-20,"Toyota Motor named Akio Toyoda, 52, to head the company in a widely expected management reshuffling.",neutral,0.029248464852571487
+2009-01-20,Grandson of Toyota Founder Will Lead,neutral,0.07092295587062836
+2009-01-21,"For the first time since the Great Depression, General Motors cannot call itself the world’s largest automaker.",neutral,0.09641911089420319
+2009-01-21,Toyota Ahead of G.M.,neutral,-0.03746670484542847
+2009-01-21,in 2008 Sales,neutral,0.10555315762758255
+2009-01-26,Automakers said that stricter emissions standards could force them to cut production of more profitable vehicles.,negative,-0.9382207989692688
+2009-01-26,Detroit Calls Emissions Proposals Too Strict,negative,-0.6550363302230835
+2009-02-03,"U.S. sales in January fell 49 percent for General Motors, about 40 percent for Ford and 32 percent at Toyota.",negative,-0.9684287309646606
+2009-02-03,Auto Sales Start 2009 at an Abysmal Pace,negative,-0.820344865322113
+2009-02-06,Toyota made the announcement less than two months after forecasting its first ever full-year operating loss.,negative,-0.9509922862052917
+2009-02-06,"In the Red, Toyota Sees Loss Tripling",negative,-0.858077347278595
+2009-02-09,"Nissan forecast a loss for the current year and said it was cutting 20,000 workers in one of the most aggressive cutbacks so far by a Japanese company since the start of the global downturn.",negative,-0.955181896686554
+2009-02-09,"Nissan to Cut 20,000 Jobs",negative,-0.9403435587882996
+2009-02-13,The emergency cost-cutting program announced last week will also include possibly shorter workweeks and reductions in executive compensation.,negative,-0.17237621545791626
+2009-02-13,Toyota’s Cost-Cutting Plan to Include Buyouts for Factory Workers,neutral,0.09171189367771149
+2009-02-14,Akio Toyoda will take charge of the car company facing its most serious setback since a crisis in the early 1950s.,neutral,0.053482409566640854
+2009-02-14,Taking the Wheel as Toyota Skids,neutral,-0.27892154455184937
+2009-02-26,The Malaysian company TM International plans to raise 5.25 billion ringgit ($1.4 billion) in a rights offer to repay debt.,positive,0.5612881779670715
+2009-02-26,TM to Raise $1.4 Billion in Rights Offer,neutral,0.07522570341825485
+2009-03-03,The auto financing arm of Toyota could be an early beneficiary.,neutral,0.019280580803751945
+2009-03-03,Reports say it is seeking a $2 billion loan.,neutral,0.14846831560134888
+2009-03-03,Japan Considers Loans to Struggling Exporters,negative,-0.6235873103141785
+2009-03-03,"Sales were down 53 percent at G.M., 48 percent at Ford and 40 percent at Toyota from February 2008.",negative,-0.9672662019729614
+2009-03-03,"Already Bleak, Auto Sales Take a Fall in February",negative,-0.9612149000167847
+2009-03-04,"Japan took the rare step Tuesday of tapping its foreign currency reserves to help struggling exporters, including Toyota.",positive,0.6481999754905701
+2009-03-04,Countries Stepping in to Finance Export Trade,neutral,0.03255303204059601
+2009-03-21,"The Honda Insight, to be introduced on Tuesday, is being positioned as a more affordable hybrid car.",positive,0.7198735475540161
+2009-03-21,New Honda Takes on the Prius,neutral,0.05357695743441582
+2009-04-09,"From Micheline Maynard, a DealBook colleague:",neutral,0.078067846596241
+2009-04-09,Toyota Weighs Reorganizing U.S. Operations,neutral,0.1434914469718933
+2009-04-09,"The reorganization would reportedly put sales, engineering and manufacturing operations in North America under one executive.",neutral,0.024903785437345505
+2009-04-09,Toyota Said to Weigh Reorganizing U.S. Operations,neutral,0.18312568962574005
+2009-04-21,"A custom-made publication created by Time Inc. and Lexus could be a new business model for publishers, but there have been problems with production.",negative,-0.8535184860229492
+2009-04-21,A Magazine Just for You Arrives With Glitches,negative,-0.5147850513458252
+2009-04-21,Chrysler’s employees in Canada would have to agree to match the total wage and benefit costs of workers at Honda and Toyota factories in the country.,positive,0.5134924650192261
+2009-04-21,Canada Talks Are Crucial to Chrysler Survival,neutral,0.07944215834140778
+2009-04-29,"The economic crisis has pushed Toyota City into its worst slump in memory, as jobs have vanished and tax revenues have dried up.",negative,-0.9591955542564392
+2009-04-29,Toyota’s Troubles Slam Japan’s Motor City,negative,-0.7020573019981384
+2009-05-08,"The carmaker attributed its woes to the slump in global demand and a strong yen, which makes exports from Japan more expensive.",negative,-0.9435794353485107
+2009-05-08,Toyota Posts an Annual Loss,neutral,-0.10251136869192123
+2009-05-12,"In a soft market for autos, the carmaker is trying to wring more costs out of its already-lean manufacturing operations.",negative,-0.8427830934524536
+2009-05-12,"Toyota, Too, Is Looking to Cut Costs",negative,-0.8232884407043457
+2009-05-18,"After a year of staggering losses, Toyota seeks to reassert its green credentials against Honda by introducing its third-generation hybrid.",positive,0.875341534614563
+2009-05-18,"Toyota, Challenging Honda, Offers Its New Prius in Japan",neutral,0.11738627403974533
+2009-06-08,Q & A with Stuart Elliott.,neutral,-0.0018088538199663162
+2009-06-08,Q & A with Stuart Elliott,neutral,0.022084038704633713
+2009-06-13,"The third generation of the gas-electric car was an instant hit in Japan, where plants are working 24 hours a day.",positive,0.7828551530838013
+2009-06-13,"Industry Slumps, but Prius Inspires Waiting List",neutral,0.2259647697210312
+2009-06-29,"General Motors said it was pulling out of its joint venture with Toyota, a longstanding partnership that exposed G.M.",negative,-0.8968901038169861
+2009-06-29,to more efficient Japanese manufacturing techniques.,positive,0.7992765307426453
+2009-06-29,G.M.,neutral,0.048085395246744156
+2009-06-29,Exits Venture With Toyota,neutral,0.27949148416519165
+2009-06-29,"General Motors said it was pulling out of its joint venture with Toyota, which had exposed G.M.",negative,-0.9212743043899536
+2009-06-29,to more efficient Japanese manufacturing techniques.,positive,0.7992765307426453
+2009-06-29,G.M.,neutral,0.048085395246744156
+2009-06-29,Exits Carmaking Venture With Toyota,neutral,0.3513150215148926
+2009-07-01,"June sales figures showed another difficult month for some automakers, yet provided a hint that demand for new vehicles in the U.S. might finally be on the upswing.",negative,-0.1926794946193695
+2009-07-01,June Sales at Ford Fall Less Than G.M.,negative,-0.969332754611969
+2009-07-01,or Chrysler,neutral,-0.03268377482891083
+2009-07-15,"Engineers from Chrysler, looking for guidance, have been visiting a Fiat plant in Poland that is churning out autos and profits.",neutral,-0.07300440222024918
+2009-07-15,To Shrink a U.S.,negative,-0.8698551654815674
+2009-07-15,"Car, Chrysler Goes to Poland",neutral,0.046608902513980865
+2009-08-04,"Known for reliability, Toyota has a lineup of mundane-looking vehicles that have failed to generate excitement among buyers.",negative,-0.5331090092658997
+2009-08-04,New Leader Tries to Get Toyota Back on the Road,neutral,-0.015128254890441895
+2009-08-05,Akio Toyoda was originally supposed to hop a Lexus to his hotel during this week’s visit to Michigan.,neutral,-0.128109872341156
+2009-08-05,But the new president of Toyota changed that plan when a different car caught his eye.,neutral,0.036180030554533005
+2009-08-05,Toyota Chief Tries a New Ride in U.S. Tour,neutral,0.3082176446914673
+2009-08-05,The new model is not expected to be a high-volume seller but will add some excitement to the automaker’s current conservative lineup.,positive,0.798061192035675
+2009-08-05,"Toyota Plans a U.S. Sports Car, With Passion",neutral,0.041966743767261505
+2009-08-19,Mitsubishi and Nissan hope to leapfrog Toyota and G.M.,neutral,-0.043382059782743454
+2009-08-19,by focusing on battery-powered cars rather than hybrids like the Prius and the Volt.,neutral,0.0814637839794159
+2009-08-19,"Toyota, Hybrid Innovator, Holds Back in Race to Go Electric",negative,-0.8832054734230042
+2009-08-21,"James E. Press, who was lured to Chrysler after 37 years at Toyota, is believed to be leaving.",neutral,-0.1869237720966339
+2009-08-21,Another Top-Level Departure at Chrysler,negative,-0.5801950693130493
+2009-08-27,"The American cash-for-clunkers program turned out to be a boon for Asian automakers, taking in 45 percent of sales, versus 40 percent for Detroit automakers.",positive,0.7884413599967957
+2009-08-27,Toyota Tops List of Cash-for-Clunkers Winners,neutral,0.39416050910949707
+2009-08-27,"While U.S. officials hailed the monthlong cash-for-clunkers program, which ended this week, as an overall stimulus to the economy, the biggest winner was Toyota, which accounted for 19 percent of all sales.",positive,0.8027896881103516
+2009-08-27,Toyota Tops List of Cash-for-Clunkers Sales,neutral,0.3202580213546753
+2009-08-27,"The plant in Fremont, Calif., which employs 4,700, opened in 1984, partly as a way for G.M.",neutral,0.05277669057250023
+2009-08-27,to learn Japanese techniques.,neutral,0.08131399750709534
+2009-08-27,Toyota to Close Union Plant in California,negative,-0.9029321074485779
+2009-08-29,"An automaker whose success led rivals to cut jobs now does the same, at its Nummi plant in Fremont, Calif.",negative,-0.8888739347457886
+2009-08-29,Decision to Close Plant Casts Toyota in Unfamiliar Role,negative,-0.853457510471344
+2009-09-01,"Dennis Cuneo, a former adviser to Toyota, has joined the Casesa Shapiro Group, an investment and analysis firm with deep roots in the automobile industry.",neutral,0.030249588191509247
+2009-09-01,Toyota Adviser Joins Casesa Shapiro Group,neutral,0.011216901242733002
+2009-09-05,"A new book, “$20 Per Gallon,” predicts what daily life could become as demand for oil escalates.",neutral,-0.07365812361240387
+2009-09-05,Visions of an Energy-Starved World,neutral,0.03182827681303024
+2009-09-29,"A floor mat on the driver’s side could interfere with the vehicle’s accelerator and cause a crash, Toyota said.",negative,-0.9318374395370483
+2009-09-29,Toyota Recalls 3.8 Million Vehicles,negative,-0.8502916097640991
+2009-10-03,"Toyota has suffered a series of adverse events since Akio Toyoda became president of the company a few months ago, and he apologized for them.",negative,-0.8748238682746887
+2009-10-03,President of Toyota Apologizes,neutral,-0.22726577520370483
+2009-10-16,Industry sales would have to be surprisingly strong through the end of the year to reach some predictions for total 2009 sales.,positive,0.7625368237495422
+2009-10-16,Detroit Automakers’ Rosy Outlook Defies Reality,negative,-0.6820845603942871
+2009-10-21,"Hybrids and fully electric cars will be the stars of the show, which is focusing on green technology.",neutral,0.31085699796676636
+2009-10-21,"At Tokyo Auto Show, Hybrids and Electrics Dominate",neutral,0.07095040380954742
+2009-10-21,"Only 20 percent of new-car buyers this year have stayed with their previous brand, a reversal of shopping trends from decades ago.",neutral,0.0032078921794891357
+2009-10-21,"For Car Buyers, the Brand Romance Is Gone",neutral,0.039789482951164246
+2009-11-03,Most carmakers are opting to say “two thousand ten” or are simply superimposing the year on the screen.,neutral,-0.2007349729537964
+2009-11-03,2010 to Come in Plain and Fancy Versions,neutral,0.028398960828781128
+2009-11-06,"Toyota Motor said it had returned to a profit in the latest quarter as aggressive cost cuts, government incentives and signs of a global recovery buoyed its bottom line.",positive,0.9160882234573364
+2009-11-06,Cost Cuts and Incentive Program Help Toyota End a String of Losses,positive,0.7574706077575684
+2009-11-25,Toyota aims to resolve a problem with unintended acceleration that has stripped some of the luster off the carmaker’s reputation for reliability.,positive,0.5896744132041931
+2009-11-25,Toyota Will Fix or Replace 4 Million Gas Pedals,neutral,-0.3178107738494873
+2009-12-04,"General Motors and Suzuki Motor have agreed to end their automaking joint venture in Canada, leaving G.M.",negative,-0.398228257894516
+2009-12-04,without a Japanese production partner after also severing manufacturing links with Toyota.,negative,-0.9550720453262329
+2009-12-04,Suzuki and G.M.,neutral,0.07261683791875839
+2009-12-04,End Canada Partnership,neutral,-0.006912708282470703
+2009-12-14,"Toyota’s announced today that the plug-in Prius will be available in two years, and “smart grid” technologies are also feeling pressure to keep up.",positive,0.7213974595069885
+2009-12-14,The Dawn of Plug-In Priuses and Smart Meters,neutral,0.15037959814071655
+2009-12-15,"Researchers said the number of plug-in hybrids in the United States could reach 40 million by 2030, but only with big subsidies and rapid technology progress.",positive,0.694382905960083
+2009-12-15,Study Says Big Impact of the Plug-In Hybrid Will Be Decades Away,neutral,0.008983314037322998
+2010-01-12,"Automakers unveiled many hybrid gas-electric and battery-powered cars at the Detroit auto show, a sign of how much emphasis is being placed on the electrification of vehicles.",positive,0.6500905156135559
+2010-01-12,A Future That Doesn’t Guzzle,neutral,0.03339783847332001
+2010-01-21,The latest recall involves 2.3 million vehicles because of accelerators that can get stuck and cause cars to speed up unintentionally.,negative,-0.9063321948051453
+2010-01-21,Toyota Issues a 2nd Recall,neutral,0.07283096015453339
+2010-01-26,Toyota Motor Company will temporarily stop selling and building eight models for the U.S. market while it tries to resolve a problem with accelerator pedals.,negative,-0.9232583045959473
+2010-01-26,Toyota Halts Sales of 8 Models in U.S. for Pedal Flaw,negative,-0.9514226317405701
+2010-01-27,"Toyota’s decision to halt manufacturing and sales of most of its cars in America could hurt the reputation of other Japanese businesses, analysts said.",negative,-0.9583683013916016
+2010-01-27,Toyota’s Woes in America Raise Concern in Japan,negative,-0.8973066806793213
+2010-01-27,Dealers say they are trying to operate normally a day after Toyota decided to halt sales and production of eight models because of safety concerns.,negative,-0.9359660744667053
+2010-01-27,"For Toyota Dealers, a Day of Patience and Preparation",neutral,0.08348972350358963
+2010-01-27,In its successful drive to become No.,positive,0.8207229375839233
+2010-01-27,"1 in worldwide sales, Toyota may have left its reputation vulnerable.",negative,-0.9604111909866333
+2010-01-27,"Rapid Growth Has Its Perils, Toyota Learns",neutral,0.015568144619464874
+2010-01-28,"The pedal flaw in some Toyota vehicles has created an opening for competing car companies like General Motors, which began offering deals specifically to Toyota owners.",positive,0.6301892995834351
+2010-01-28,Carmakers Pounce on Toyota Owners,negative,-0.6682685613632202
+2010-01-28,"As the country gets more industrialized, mergers and acquisitions in the agriculture sector have become more common.",neutral,0.033913321793079376
+2010-01-28,"China’s Growth, Measured in Feed",neutral,0.0859832763671875
+2010-01-28,Alan R. Mulally steered Ford to profitability after liberally borrowing from Toyota’s playbook.,positive,0.8874781727790833
+2010-01-28,Ford Profit Comes as Toyota Hits a Bump,negative,-0.28838056325912476
+2010-01-28,The committee wants Toyota and the highway safety agency to discuss when they first learned about potential safety defects and what they have done to resolve them.,neutral,0.07915497571229935
+2010-01-28,U.S. House Committee Plans Hearing on Toyota Recall,neutral,0.035223908722400665
+2010-01-29,Consumer Reports offers recommendations on how to react if a car accelerates out of control.,neutral,0.022416671738028526
+2010-01-29,How to Regain Control of an Accelerating Vehicle,neutral,0.0615512952208519
+2010-01-29,Toyota said there would be “rapid deployment” of a remedy but did not say specifically when or how it would fix the gas pedal problems.,neutral,0.18010319769382477
+2010-01-29,"With Recall Expanding, Toyota Gives an Apology",positive,0.5317347645759583
+2010-01-30,The automaker said it had a remedy for the potentially sticky accelerator pedals that prompted a global recall of millions of cars.,positive,0.26125776767730713
+2010-01-30,Toyota to Issue a Fix for Recalled Cars,negative,-0.43553802371025085
+2010-02-01,"A fatal accident in August led Toyota to step up its inquiry of unintended acceleration, yet only last week did it come to terms with the problem’s scope.",neutral,0.09894511103630066
+2010-02-01,Toyota’s Slow Awakening to a Deadly Problem,negative,-0.610490083694458
+2010-02-01,"The parts for the gas pedal solution are on their way to dealers, whose staffs are being trained for a process that takes about a half-hour.",neutral,0.05543249845504761
+2010-02-01,"With Eye on Its Reputation, Toyota Issues Repair for Pedal",neutral,0.15714898705482483
+2010-02-01,Some details on which cars are involved and what Toyota is telling customers about protecting themselves and getting the problem fixed.,neutral,0.02767154574394226
+2010-02-01,Answers to Questions About Toyota’s Repair Plans,neutral,0.0321730300784111
+2010-02-02,A House committee wants documents showing the electronic systems on cars were not at fault.,neutral,-0.29706257581710815
+2010-02-02,Lawmakers Ask Toyota to Prove Fix Solves Problem,neutral,0.2987114191055298
+2010-02-02,"Toyota, struggling with two large recalls, said that its sales in the United States fell 16 percent in January, even as other carmakers reported higher sales.",negative,-0.9674965739250183
+2010-02-02,Toyota’s Sales Fall as G.M.,negative,-0.9650928974151611
+2010-02-02,and Ford Gain,neutral,0.04389617592096329
+2010-02-03,"Investors rallied on Tuesday behind signs of stability in the housing sector and indications that businesses had bolstered revenue, lifting stocks for a second day.",positive,0.7688952684402466
+2010-02-03,Shares Gain on Earnings Reports,positive,0.7014205455780029
+2010-02-03,The Prius fell victim to Toyota’s widening quality crisis after Japan’s government told Toyota to investigate reports of faulty brakes.,negative,-0.942818820476532
+2010-02-03,Prius Brake Inquiry May Be Another Blow for Toyota,negative,-0.609224796295166
+2010-02-03,"As Japanese officials ordered an inquiry into problems with the brakes on the 2010 Prius, Toyota’s stock price dropped about 3.5 percent in early trading Thursday.",negative,-0.9684495329856873
+2010-02-03,Prius Adds to Toyota’s Woes as Stock Drops in Tokyo,negative,-0.7848649024963379
+2010-02-03,At least the F-35 is not known as “the Toyota of the skies.”,neutral,-0.1645491123199463
+2010-02-03,Car Talk,neutral,0.0184989795088768
+2010-02-04,"Ray LaHood , the plainspoken transportation secretary who told Toyota owners to stop driving the vehicles with pedal problems, became an advertisement for the virtue of remaining scripted.",neutral,0.03360716998577118
+2010-02-04,LaHood Backtracks on ‘Stop Driving It’,neutral,-0.10958896577358246
+2010-02-04,Problems with other Toyota models have owners of the Prius wondering about the safety of their own vehicles.,negative,-0.9460754990577698
+2010-02-04,"In a Prius Preserve, Shaken Fans",negative,-0.5440456867218018
+2010-02-04,The Prius was drawn into the mounting crisis for Toyota as safety regulators in Washington ordered an inquiry into brake problems on the 2010 model.,negative,-0.8881585597991943
+2010-02-04,U.S. Starts Inquiry Into Brake Problems on Prius,negative,-0.8174732327461243
+2010-02-04,"Investors were cautious on Wednesday as concerns over high unemployment and the ability of businesses to bring in revenue resurfaced, tempering some of the zeal that had marked Wall Street earlier this week.",negative,-0.8458672761917114
+2010-02-04,"Concerned Over Jobs and Revenue, Wall St. Wanders",negative,-0.8494168519973755
+2010-02-04,Details about the investigations into the brake problems on the 2010 Toyota Prius.,neutral,-0.0007432922720909119
+2010-02-04,Answers to Questions About Prius and the Toyota Recalls,neutral,0.05066777020692825
+2010-02-05,"Even basic vehicles have at least 30 microprocessors, controlling functions like braking, cruise control and entertainment systems.",neutral,-0.010361993685364723
+2010-02-05,The Dozens of Computers That Make Modern Cars Go (and Stop),neutral,0.03691813349723816
+2010-02-05,"A fatal crash not explained by brakes or mats is adding to the push for a broader inquiry into problems with sudden, unintended acceleration in Toyotas.",negative,-0.3806550204753876
+2010-02-05,Lawsuit Over a Crash Adds to Toyota’s Difficulties,negative,-0.8316134214401245
+2010-02-05,"An accident that killed Guadalupe Alberto, a former autoworker, is adding to the push for a broader inquiry into problems with acceleration in Toyotas.",negative,-0.7169402837753296
+2010-02-05,A Death Prompts an Inquiry,negative,-0.453574001789093
+2010-02-05,Experts say Akio Toyoda is relying too heavily on lieutenants to deal with Toyota’s safety issues.,negative,-0.8469748497009277
+2010-02-05,Toyota’s Top Executive Under Rising Pressure,negative,-0.5031669735908508
+2010-02-06,Toyota’s recent recalls and disclosures are part of a long-term pattern in which the automaker has reacted slowly to safety concerns.,neutral,-0.09551826864480972
+2010-02-06,Toyota Has Pattern of Slow Response on Safety Issues,negative,-0.907855212688446
+2010-02-08,"The decision to recall at least 311,000 2010 Prius cars will be announced early this week, adding to the automaker’s woes after recalls of other models.",negative,-0.8842667937278748
+2010-02-08,Toyota Is Expected to Add 2010 Prius to Recalls,neutral,0.13835114240646362
+2010-02-08,The recall of millions of Toyota cars and trucks for problems with their accelerator pedals is giving Toyota loyalists second thoughts.,negative,-0.9002281427383423
+2010-02-08,Some Toyota Owners Voice an Eroding Loyalty,negative,-0.7412514090538025
+2010-02-08,Economists said that Toyota’s troubles show that economic change is urgently needed in Japan.,positive,0.4490153193473816
+2010-02-08,"In Toyota Mess, Lesson for Japan",neutral,0.06857599318027496
+2010-02-09,"As production resumes this week in Georgetown, Ky., and other American cities where Toyota builds cars, people are eager to see its recall problems blow over.",neutral,0.35075822472572327
+2010-02-09,Optimism Persists in a Kentucky Town Where a Carmaker Brought Jobs,positive,0.5653411149978638
+2010-02-09,Wheels: Toyota dealers in five states pull ads from ABC.,negative,-0.9421432018280029
+2010-02-09,Wheels: Toyota Dealers in Five States Pull Ads from ABC,negative,-0.91234290599823
+2010-02-10,Critics want to know why the agency that regulates automakers did not act more aggressively against Toyota.,negative,-0.740933895111084
+2010-02-10,Safety Agency Scrutinized as Toyota Recall Grows,negative,-0.6166569590568542
+2010-02-10,"Adam Bryant, deputy business editor of The Times discusses Toyota's crisis and its latest recall, the Prius hybrid.",neutral,-0.0034030377864837646
+2010-02-10,More Troubles for Toyota,neutral,-0.30560189485549927
+2010-02-10,"Investors in collateralized mortgage obligations could be in for trouble if interest rates increase, causing a sharp fall in the value of these products.",negative,-0.9555842876434326
+2010-02-10,"Peril for Products
+Tied to Mortgages",negative,-0.766415536403656
+2010-02-10,"As Toyota has issued its piecemeal recalls, the system for monitoring car safety across Europe has appeared similarly opaque and slow to react.",negative,-0.8466683626174927
+2010-02-10,A Slow Reaction to Toyota Illustrates Gaps in Europe,negative,-0.9017574787139893
+2010-02-10,"In recent months, the Japanese automaker has recalled about eight million cars worldwide over gas pedals that could stick or become caught on floor mats.",negative,-0.9186222553253174
+2010-02-10,A Toyota Timeline,neutral,-0.008353784680366516
+2010-02-11,Some G.M.,neutral,-0.0656062662601471
+2010-02-11,and Ford dealers are offering big discounts to drivers who trade in their Toyotas.,neutral,0.2711496651172638
+2010-02-11,"With Toyota in Trouble, Rivals Gain",negative,-0.7804359197616577
+2010-02-13,"The automaker’s woes, including potential problems with its Tacoma truck, continue as multiple Congressional hearings draw near.",negative,-0.9100108742713928
+2010-02-13,Toyota Says More Models Might Get Fix for Acceleration,neutral,0.1386701613664627
+2010-02-16,The reports on the accidents emerged as the company said it was considering more discounts and longer warranties on its vehicles.,positive,0.6242971420288086
+2010-02-16,U.S. Gets Additional Complaints of Crashes of Toyotas,negative,-0.9310898184776306
+2010-02-16,Federal regulators are investigating whether Toyota acted quickly enough in recalling millions of vehicles.,negative,-0.5797427892684937
+2010-02-16,U.S.,neutral,-0.05536564439535141
+2010-02-16,Wants to Know When Toyota Knew of Problems,neutral,0.014539442956447601
+2010-02-17,"Akio Toyoda, president of Toyota Motor, appears almost eager to share information about car recalls.",neutral,0.022333607077598572
+2010-02-17,Toyota’s President Softens on Speaking to Congress,negative,-0.8585730791091919
+2010-02-18,"Toyota has been advertising heavily during the Olympics, offering an apology while seeking to repair its tarnished reputation.",negative,-0.8965911269187927
+2010-02-18,Toyota Uses Olympic Ads to Seek Redemption,neutral,-0.013228576630353928
+2010-02-18,Toyota’s president offered several steps aimed at restoring trust in the embattled Japanese automaker.,positive,0.7581124901771545
+2010-02-18,Toyota Announces Steps to Restore Confidence on Safety,positive,0.7494131922721863
+2010-02-18,"Wall Street investors, buoyed by signs of stability in the housing and manufacturing sectors, seemed optimistic about the speed of economic renewal on Wednesday as worries about mounting debt burdens abroad began to subside, The New York Times reported.",positive,0.8670900464057922
+2010-02-18,Shares Improve on Growing Signs of a Recovery,positive,0.7896193265914917
+2010-02-18,Akio Toyoda accepted an invitation to testify at a hearing next week in the aftermath of the recall of millions of cars.,positive,0.41080164909362793
+2010-02-18,Toyota Chief Agrees to Testify Before House Panel,neutral,0.1636316180229187
+2010-02-22,An internal memo claimed that the company saved millions by negotiating with U.S. regulators on a limited recall of floor mats.,positive,0.34989267587661743
+2010-02-22,Toyota Cited $100 Million Savings After Limiting Recall,positive,0.8138153553009033
+2010-02-22,"Mainland China’s stock market, open for the first time since the weeklong Lunar New Year holiday, slipped on Monday, while markets elsewhere in the region rallied as investors digested the impact of recent moves by the U.S. and Chinese central banks.",negative,-0.9541401267051697
+2010-02-22,China’s Stock Market Struggles,negative,-0.39215049147605896
+2010-02-22,Democrats said that Toyota made misleading statements on repairs it said would fix an accelerator problem.,negative,-0.9044593572616577
+2010-02-22,House Panel Says Toyota Misled Public on Safety,negative,-0.8288847208023071
+2010-02-23,Watchdog groups are questioning whether deep financial and personal connections between U.S. lawmakers and Toyota could taint inquiries.,negative,-0.8743041157722473
+2010-02-23,Lawmakers’ Ties to Toyota Questioned at Start of Inquiries,neutral,-0.34984761476516724
+2010-02-23,An executive told a House committee Toyota’s recall might “not totally” solve the problem of unintended acceleration in its vehicles.,negative,-0.8597541451454163
+2010-02-23,Toyota Official Says Recall May Not Fully Solve Safety Problem,negative,-0.9319480657577515
+2010-02-23,Peter J. Henning of White Collar Watch examines how subpoenas issued by a federal grand jury in Manhattan and the Securities and Exchanges are likely to further complicate the automaker’s legal problems over its recalls.,negative,-0.841313898563385
+2010-02-23,Toyota’s Latest Legal Headache: Federal Subpoenas,negative,-0.516074001789093
+2010-02-23,"Once reflexively loyal, Toyota’s suppliers are now increasingly critical of the company, which has come to represent the rendering of Japan’s social contract.",negative,-0.8217186331748962
+2010-02-23,Toyota Sees Growing Anger From Suppliers in Japan,negative,-0.930215060710907
+2010-02-24,Akio Toyoda will be making his debut before the American public under a harsh spotlight in testimony before a House committee on Wednesday.,negative,-0.47655877470970154
+2010-02-24,Toyota Chief in Trial by Fire Before Congress,negative,-0.5169298648834229
+2010-02-24,Some shifted the blame.,negative,-0.43098974227905273
+2010-02-24,Others refused to answer questions.,negative,-0.7001500725746155
+2010-02-24,"And as corporate executives called to testify in some of the biggest Congressional investigations, almost all were on the defensive.",negative,-0.5064327716827393
+2010-02-24,Executives in the Hearing Room,neutral,-0.2623631954193115
+2010-02-24,Akio Toyoda assured lawmakers that Toyota was moving to fix problems that led to a recall and to regain the trust of consumers.,positive,0.842633843421936
+2010-02-24,An Apology From Toyota’s Leader,negative,-0.46557486057281494
+2010-02-25,"A pledge from the chairman of the Federal Reserve to keep interest rates low helped galvanize the equity markets on Wednesday, The New York Times reported.",positive,0.7185692191123962
+2010-02-25,Investors Cheer as Fed Eases Anxiety Over Rates,positive,0.48509201407432556
+2010-02-26,"In a letter to Toyota, Representative Edolphus Towns is seeking more details on a database of vehicle design and testing information.",neutral,0.01966513693332672
+2010-02-26,Toyota Accused of Withholding Data,negative,-0.6391197443008423
+2010-03-02,An analysis of U.S. federal documents showed that many Camrys built before 2007 — and not covered in recent recalls — were linked to speed control problems.,negative,-0.9082212448120117
+2010-03-02,Data Shows Camrys Outside Recall Also Had Problems,negative,-0.6600741147994995
+2010-03-02,"The National Highway Traffic Safety Administration receives more than 30,000 complaints each year that capture more than 40 data points.",neutral,-0.41960543394088745
+2010-03-02,How Safety Agency Investigates Complaints,neutral,-0.029000192880630493
+2010-03-02,Some press commentary in Japan has said Toyota was being unfairly punished by an administration eager to bolster the fortunes of the Detroit carmakers.,negative,-0.9111056327819824
+2010-03-02,Growing Criticism of Toyota Feeds Fears of Antagonism Toward Japan,negative,-0.8847680687904358
+2010-03-02,"Zhongsheng Group, a Chinese dealership which provides services for automakers including Toyota, on Tuesday put off a $1 billion Hong Kong initial public offering, citing volatile market conditions, Reuters reported.",negative,-0.9478284120559692
+2010-03-02,China Car Dealer Zhongsheng Defers $1 Billion I.P.O.,negative,-0.8074654340744019
+2010-03-02,"The system would be meant to prevent acceleration episodes like those that have led to the recall of millions of Toyotas, said Ray LaHood, the transportation secretary.",neutral,0.40206143260002136
+2010-03-02,U.S.,neutral,-0.05536564439535141
+2010-03-02,Considers Brake Override System,neutral,0.034378841519355774
+2010-03-02,"The company, estimating that it lost 18,000 sales in the United States last month, offered no-interest financing for five years on eight models and low lease rates on nine.",neutral,0.10247320681810379
+2010-03-02,"After Recalls, Toyota Offers Incentives to Win Back Wary Customers",neutral,0.12519735097885132
+2010-03-04,Federal regulators said they had received 10 reports of vehicles accelerating unexpectedly after being repaired.,negative,-0.8780913949012756
+2010-03-04,Acceleration Incidents Cited on Repaired Toyotas,negative,-0.8447795510292053
+2010-03-05,The number of complaints of unintended acceleration in Toyotas that have already been repaired has risen to 60.,positive,0.7556712627410889
+2010-03-05,Inquiry Into Toyota’s Fixes,neutral,-0.055719949305057526
+2010-03-05,Two top members of the House Energy and Commerce Committee questioned how rigorously Toyota tested for sudden acceleration in its vehicles.,negative,-0.8194994330406189
+2010-03-05,House Panel Wants More Safety Records From Toyota,neutral,0.0680224746465683
+2010-03-05,"Despite reports of unintended accelerations, Toyota denied the problems existed in Japan, where a pro-business culture undermines consumer protections.",negative,-0.921309769153595
+2010-03-05,Little Help in Japan for Owners of Toyotas With Acceleration Problems,negative,-0.8643588423728943
+2010-03-06,"As Toyota stumbles through its recall ordeal, G.M.",negative,-0.8646110892295837
+2010-03-06,and Ford have been handed a big chance to make their argument on quality to American consumers.,positive,0.856549859046936
+2010-03-06,G.M.,neutral,0.048085395246744156
+2010-03-06,and Ford Channel Toyota to Beat Toyota,neutral,0.1341003179550171
+2010-03-08,The carmaker said reports of continued acceleration problems after a repair could be traced to improper work.,negative,-0.9457180500030518
+2010-03-08,"Toyota Says Its Repairs Work, Done Properly",neutral,0.4526543617248535
+2010-03-10,Two drivers reported problems with Priuses that they said were not related to a sticking mat.,negative,-0.9496362805366516
+2010-03-10,2 Reports of Trouble in Stopping Priuses,negative,-0.7863554358482361
+2010-03-11,The National Highway Traffic Safety Administration is considering whether data recorders similar to those on planes should be required on all new cars and trucks.,neutral,0.0386456660926342
+2010-03-11,Agency Weighs the Need for a ‘Black Box’ in Cars,neutral,0.023356914520263672
+2010-03-12,"The brand’s sales and reputation have held up, analysts say, because Lexus has not been included in Toyota’s most serious recalls.",negative,-0.7523236870765686
+2010-03-12,"Lexus, a Toyota Brand, Avoids Taint From Recalls",neutral,0.027927391231060028
+2010-03-12,"Robert Lutz, a General Motors vice chairman, said it was too early for his company to convert many people who have been driving Japanese cars.",neutral,-0.31617486476898193
+2010-03-12,"Toyota’s Ills Won’t Help G.M.’s Sales, Lutz Says",negative,-0.9210038781166077
+2010-03-15,Safety regulators and Toyota were unable to recreate the sudden unintended acceleration reported by a California owner of a Prius.,negative,-0.9363283514976501
+2010-03-15,Toyota Questions Case of Runaway Prius,negative,-0.8281530141830444
+2010-03-18,Regulators and Toyota engineers examining the crash of a Prius in New York saw no evidence that the driver had tried to brake.,negative,-0.8450498580932617
+2010-03-18,Prius Computer Raises Doubts in an Account of a Crash,negative,-0.6074104309082031
+2010-03-22,"For those wondering why Toyota Motor continues to advertise during the current crisis over its reputation, a coming study suggests that such a course of action could be superior to inaction.",neutral,-0.23123544454574585
+2010-03-22,"Staying the Course Makes Sense for Marketers During Crises, Study Concludes",neutral,0.12684959173202515
+2010-03-22,"The automaker has told dealers to provide replacement pedals only if customers’ cars have already been repaired, and the owners have asked for them.",neutral,0.09559567272663116
+2010-03-22,Toyota to Replace Accelerator Pedals for Owners Who Are Unhappy With Repairs,negative,-0.4411082863807678
+2010-03-26,"With its European sales down sharply, Toyota said it would stop making cars for short periods at plants in France and Britain.",negative,-0.9287385940551758
+2010-03-26,Toyota Slows Production in Europe as Sales Lag,negative,-0.9548008441925049
+2010-03-27,Toyota Motor said on Friday that it would idle three plants in France and Britain to reduce inventory amid recent recalls and a slump in European sales.,negative,-0.9522585272789001
+2010-03-27,Toyota Cuts Production in Europe After Sales Slump,negative,-0.9389672875404358
+2010-03-30,"As executives charged with overseeing safety met in Japan, Toyota said its sales most likely rose in March.",positive,0.9216165542602539
+2010-03-30,Toyota Sees Sales Rebounding,positive,0.9000573754310608
+2010-03-31,Toyota’s display at the New York Auto Show was a vision of normalcy as the automaker was back to its business-as-usual approach.,positive,0.4890880882740021
+2010-03-31,"For Toyota, It’s Business as Usual at Auto Show",neutral,0.009109731763601303
+2010-04-01,"From the DealBook Spring 2010 Special Section: While the financial crisis may have receded, public anger over the financial sector hasn’t, leaving big banks like Goldman Sachs to grope toward a way to remake their images, Andrew Ross Sorkin writes in his latest column.",negative,-0.5703645944595337
+2010-04-01,"Extreme Makeover, Wall Street Edition",neutral,0.045439787209033966
+2010-04-01,"Big discounts, led by Toyota’s efforts to overcome damage to its reputation from recent recalls, made March one of the best months in years for sales of new vehicles in the U.S.",positive,0.8528633713722229
+2010-04-01,Incentives Foster a Major Jump in Auto Sales,positive,0.534864604473114
+2010-04-05,The penalty is the largest single federal fine against an automaker and accuses Toyota of failing to notify the government about defective pedals promptly.,negative,-0.9033363461494446
+2010-04-05,U.S. Is Seeking a Fine of $16.4 Million Against Toyota,negative,-0.8664873838424683
+2010-04-07,An American operations official urged the company to “come clean” about mechanical problems three days before the company met with federal authorities to discuss a recall.,negative,-0.6360448002815247
+2010-04-07,Toyota E-Mail Noted Pedal Trouble,negative,-0.5450730323791504
+2010-04-08,The three automakers will share small-car technology and power trains in an attempt to compete with Toyota and Volkswagen.,positive,0.7919355630874634
+2010-04-08,"Daimler, Nissan and Renault Join in Small-Car Alliance",neutral,0.09128694981336594
+2010-04-08,The number of claims involving speed control was small compared to reports that listed air bags as a problem.,negative,-0.3034566044807434
+2010-04-08,Speed Control a Small Factor in Car Claims,neutral,0.0016090013086795807
+2010-04-09,"Regulators said they might pursue a second penalty based on documents indicating the existence of two separate defects in accelerator pedals, which were recalled in January.",negative,-0.8808954954147339
+2010-04-09,Regulators May Pursue More Fines Against Toyota,negative,-0.4998626410961151
+2010-04-12,"Toyota promised a remedy for floor mat problems but did not implement one quickly, raising questions about why federal officials did not force the issue.",negative,-0.9047582149505615
+2010-04-12,"Toyota Delayed a U.S. Recall, Documents Show",negative,-0.7644242644309998
+2010-04-13,"Internal e-mail showed the automaker’s dealers were worried about complaints over accelerators, contradicting the company’s official stance.",negative,-0.9342836737632751
+2010-04-13,"In Canadian Case, Filings Say Toyota Knew of Risk",neutral,-0.40483614802360535
+2010-04-13,Toyota temporarily halted sales after Consumer Reports said the Lexus GX 460 had a problem that could lead to a rollover.,negative,-0.9533206820487976
+2010-04-13,Lexus Stops Selling S.U.V.,negative,-0.9325926303863525
+2010-04-13,That Was Called Unsafe,neutral,0.038619861006736755
+2010-04-15,"After charges that it was slow to respond to accelerator problems, Toyota worked quickly on its S.U.V.",positive,0.8467593193054199
+2010-04-15,issue.,neutral,0.032439302653074265
+2010-04-15,Toyota Deals Quickly With GX 460 Problem,positive,0.49563345313072205
+2010-04-15,The steps by Toyota came as a U.S. safety agency is testing the GX 460 for the same handling issues that prompted Consumer Reports to issue a safety warning.,neutral,-0.12552744150161743
+2010-04-15,"As U.S. Tests the Lexus GX 460, Toyota Ceases Selling It Worldwide",neutral,-0.3478149175643921
+2010-04-16,"An advertising agency in the Kurdish region of Iraq joins Icom, a worldwide network of independent advertising agencies.",neutral,0.28104662895202637
+2010-04-16,The Man in the Grey Flannel Dishdasha?,neutral,-0.2007429599761963
+2010-04-17,A spokesman said that Toyota was “very concerned” about the problem and that engineers were evaluating potential remedies.,neutral,0.12796154618263245
+2010-04-17,Toyota Agrees Lexus S.U.V.,positive,0.4690852463245392
+2010-04-17,Has Problem With Handling,negative,-0.40345871448516846
+2010-04-19,The automaker is not expected to admit wrongdoing in paying the fine for concealing information about a recall.,negative,-0.6738767623901367
+2010-04-19,Toyota Is Expected to Pay $16.4 Million Fine,neutral,0.017351824790239334
+2010-04-19,A recall of the 2010 Lexus GX 460 will address a problem with the way the vehicle handles on curves.,negative,-0.9137829542160034
+2010-04-19,Lexus to Recall GX 460 S.U.V.,negative,-0.8032501339912415
+2010-04-28,"Toyota announced Wednesday that 50,000 Sequoia sport utility vehicles made in 2003 will be upgraded.",positive,0.74534010887146
+2010-04-28,Toyota Announces Another Recall,neutral,0.050804756581783295
+2010-04-29,The automaker released a software upgrade to solve a handling problem in the Lexus GX 460 identified in a test by Consumer Reports.,positive,0.5615653395652771
+2010-04-29,Toyota Offers a Fix for S.U.V.’s Control Problems,neutral,0.3158166706562042
+2010-05-03,"Automakers are entering the heart of the traditional spring selling season with more momentum than a year ago, but still have work to do to entice buyers.",positive,0.6004467010498047
+2010-05-03,Higher April Sales for Ford and G.M.,positive,0.7154099941253662
+2010-05-06,Newly released documents show that some Canadian regulators were just as frustrated by Toyota as were transportation officials in the United States.,negative,-0.9459176659584045
+2010-05-06,Canada’s Doubts on Toyota,negative,-0.3596808910369873
+2010-05-06,"The legislation would require black boxes and brake override systems, and strengthen regulators’ powers.",positive,0.8468988537788391
+2010-05-06,House Panel Begins Work on Auto Safety Bill,neutral,0.05866284668445587
+2010-05-06,"A crisis for Toyota has become a catalyst for regulatory change with support from the White House, both political parties and the industry.",positive,0.7338029146194458
+2010-05-06,"In Washington, a Renewed Taste for Auto Safety",positive,0.48179489374160767
+2010-05-10,Former hedge fund manager David Gelbaum is an intensely private person who happens to be one of the nation’s largest — and largely unknown — green technology investors and environmental philanthropists.,neutral,-0.011911332607269287
+2010-05-10,"David Gelbaum, the Unsung Sun King",neutral,0.0981227234005928
+2010-05-10,"A visit by Toyota’s president to Washington has helped the company overcome “serious credibility problems,” the transportation secretary, Ray LaHood, said.",positive,0.9156774282455444
+2010-05-10,U.S. Sees a Change of Attitude at Toyota,neutral,0.17058037221431732
+2010-05-12,"Toyota had a particularly strong performance in the three months through March, despite recalls of models with safety problems.",positive,0.8846055865287781
+2010-05-12,"Despite Recalls, Toyota Reports $1.2 Billion Profit",neutral,-0.30675047636032104
+2010-05-12,"Gold hit another record high on Wednesday, while Asian stock markets slipped further and the euro remained under pressure — all signs of the intense nervousness that continues to dog the global financial markets despite the massive rescue package to combat the European debt crisis.",negative,-0.9006255865097046
+2010-05-12,Gold Hits Fresh High as Uncertainty Prevails,positive,0.4000612497329712
+2010-05-18,Toyota’s failure to make timely disclosure of vehicle problems resulted in the largest fine of an automaker by the United States.,negative,-0.8875881433486938
+2010-05-18,Toyota Pays Its $16.4 Million Fine Over Pedals,negative,-0.9199613928794861
+2010-05-19,"David L. Strickland, who runs the National Highway Traffic Safety Administration, said his agency had asked for help in reviewing “a huge volume of documents.”",positive,0.6134276986122131
+2010-05-19,NASA and Justice Assist Toyota Inquiry,neutral,0.035791125148534775
+2010-05-21,"In a press conference late Thursday in Palo Alto, Calif., the companies announced they would cooperate on the development of electric cars.",positive,0.7188713550567627
+2010-05-21,Electric Car Agreement for Toyota and Tesla,neutral,0.10124288499355316
+2010-05-21,"An independent engineering firm was actually hired by a law firm to do research that would be used to defend the carmaker, officials said.",neutral,-0.04351429268717766
+2010-05-21,Lawmakers Cast Doubt on Report That Toyota Called Independent,negative,-0.693040132522583
+2010-05-21,"Tesla Motors and Toyota Motor announced on Thursday that Tesla had bought the recently closed Nummi assembly plant in Fremont, Calif., where it intends to make its Model S luxury electric sedan and other future models.",neutral,0.0841267928481102
+2010-05-21,Toyota and Tesla to Partner on Electric Cars,positive,0.7105322480201721
+2010-05-21,"Fears that the fragile economic recovery in the United States might be threatened by the financial and political crisis in Europe gripped Wall Street on Thursday, sending the stock market into a sharp decline and leaving anxious traders wondering where the pain might stop.",negative,-0.9270933866500854
+2010-05-21,Asian Stocks Drop Sharply After Big Fall in U.S.,negative,-0.9533143043518066
+2010-05-24,"So far, prosecutors and regulators have come up woefully short given their stated ambitions to bring landmark cases against financial executives.",negative,-0.9238091111183167
+2010-05-24,Plenty of Ways to Punish Wall Street,neutral,-0.31347930431365967
+2010-05-24,With Toyota’s battered reputation and Tesla Motors’ planned I.P.O.,negative,-0.9253353476524353
+2010-05-24,"in need of some buzz, the electric partnership between the carmakers ought to bear fruit both in today and in the future, Reuters Breakingviews says.",positive,0.8405323028564453
+2010-05-24,"Toyota, Tesla-Style",neutral,0.04768061637878418
+2010-05-28,"Tesla Motors’ chief, Elon Musk, seems to have it all, including a new deal with Toyota.",neutral,0.11388759315013885
+2010-05-28,"But, VentureBeat writes, the one thing he doesn’t have, by his own admission, is money.",neutral,0.01668466627597809
+2010-05-28,Tesla’s Elon Musk: ‘I Ran Out of Cash’,negative,-0.8549312353134155
+2010-06-01,The federal traffic agency responded to three reports of stuck accelerator pedals.,negative,-0.9286040663719177
+2010-06-01,Regulators Examine 2 Ford Sedans After Mats Catch Accelerator Pedals,negative,-0.8667386174201965
+2010-06-02,"Year to date sales are up 31 percent for each of the automakers, but most dealerships still have relatively few shoppers as the market’s recovery remains slow.",positive,0.927272617816925
+2010-06-02,"Car Sales Top Forecasts, With Toyota as Exception",neutral,0.17669545114040375
+2010-06-03,"Chastened by recalls, Toyota’s president is leading an effort to restore the automaker’s vital United States market.",positive,0.8347363471984863
+2010-06-03,"At Toyota, a Cultural Shift",neutral,-0.11748335510492325
+2010-06-08,"There’s no obvious link between an American bank, a British oil driller and a Japanese carmaker.",neutral,-0.11479411274194717
+2010-06-08,But the reputational struggles of these three global giants suggest one lesson that won’t be lost on shrewd corporations.,neutral,-0.009774968028068542
+2010-06-08,A Spotlight Big Enough for One Bad Guy at a Time,neutral,-0.15928465127944946
+2010-06-17,G.M.,neutral,0.048085395246744156
+2010-06-17,"plans to skip a summer shutdown at nine factories to increase production, while Toyota aims to make Corollas at a new Mississippi plant in fall 2011.",positive,0.7073200941085815
+2010-06-17,Bullish Signals From G.M.,positive,0.2689654529094696
+2010-06-17,and Toyota,neutral,0.045828670263290405
+2010-06-18,"The survey of more than 82,000 owners of 2010 vehicles showed Toyota dropped to 21st place, from sixth in 2009.",negative,-0.9678836464881897
+2010-06-18,Toyota’s Image Falls in J.D.,negative,-0.9614945650100708
+2010-06-18,Power Survey,neutral,0.0480591356754303
+2010-06-19,"Workers at the Honda Lock factory were offered an increase of about $44 a month, less than half what they were seeking.",negative,-0.026109695434570312
+2010-06-19,Honda Strikers in China Offered Less Than Demanded,negative,-0.5558339357376099
+2010-06-22,A strike begun on Monday at one of Toyota’s parts suppliers in China prompted the auto giant to stop production at one of its 10 plants there.,negative,-0.9497628808021545
+2010-06-22,"With Strike, Toyota Idles Auto Plant in China",negative,-0.9475101232528687
+2010-06-23,"The United Automobile Workers union is picking a fight with Toyota, in a bid to regain some of its clout.",negative,-0.9154807329177856
+2010-06-23,U.A.W.,neutral,0.046109266579151154
+2010-06-23,Chief Is Taking On Toyota Plants,neutral,0.02984118089079857
+2010-06-23,"As Tesla Motors prepares for its $185 million initial public offering next week, GigaOm asks: will the Silicon Valley electric car company, which has never turned a profit, charge up Wall Street with a blockbuster I.P.O.",neutral,0.08421535789966583
+2010-06-23,?,negative,-0.251367449760437
+2010-06-23,Will Tesla See a Powerhouse Public Offering?,neutral,0.0638267993927002
+2010-06-23,"The chief of General Motors, Ed Whitacre, has accelerated the automaker’s initial public offering.",positive,0.6239123940467834
+2010-06-23,"But, Breakingviews asks: What’s the big rush?",neutral,0.023640170693397522
+2010-06-23,Is General Motors Rushing Its I.P.O.,negative,-0.7953175902366638
+2010-06-23,?,negative,-0.251367449760437
+2010-06-24,"The moves were announced at a shareholders’ meeting where the Toyota president, Akio Toyoda, apologized for recalls tied to faulty accelerator pedals and floor mats.",neutral,-0.08128874003887177
+2010-06-24,"After Tough Year, Pay Cuts and Forfeited Bonuses for Top Toyota Executives",negative,-0.8891423940658569
+2010-06-30,"Investors took Tesla Motors on a joy ride Tuesday, with shares in the electric carmaker closing up more than 40 percent in its first day of trading.",positive,0.876966118812561
+2010-06-30,Tesla Leaves I.P.O.,negative,-0.6056774258613586
+2010-06-30,Price in the Dust,neutral,-0.20301979780197144
+2010-07-02,"Lexus, the luxury division of Toyota, said V-6 and V-8 engines — the company did not identify the model years — might be defective because of “slight variations in the manufacturing process.”",negative,-0.8998866677284241
+2010-07-02,"Toyota Recalling 270,000 Lexus Cars",neutral,-0.08856803923845291
+2010-07-15,It is the first time Toyota has acknowledged that its internal review confirmed reports of sticking accelerator pedals and problematic floor mats that may have caused incidents of sudden acceleration.,negative,-0.8292979001998901
+2010-07-15,Toyota Concedes 2 Flaws Caused Loss of Control,negative,-0.922184944152832
+2010-07-21,"A federal grand jury in New York subpoenaed the company, demanding documents about flaws in steering relay rods in cars.",negative,-0.9013730883598328
+2010-07-21,Subpoena for Toyota Over Defects in Steering,negative,-0.7367790937423706
+2010-07-26,"For Elon Musk, the chief executive of Tesla Motors, building the car company has been yet another chapter in an entrepreneurial odyssey that is as emblematic of how reputations are made and undone in Silicon Valley as it is of Mr. Musk’s own strengths and weaknesses.",neutral,0.45731645822525024
+2010-07-26,"Tesla Electric Cars: Revved Up, but Far to Go",neutral,0.21735474467277527
+2010-07-30,Toyota Avalon sedans and Lexus LX 470 sport utility vehicles were involved in the current recall.,negative,-0.7462413311004639
+2010-07-30,Steering Issues Cause Further Toyota Recalls,negative,-0.9121608734130859
+2010-08-03,"All three Detroit automakers reported small increases, but Toyota said its sales fell 3.2 percent from July 2009.",negative,-0.9645914435386658
+2010-08-03,Most Carmakers Report Higher Sales,neutral,0.10001636296510696
+2010-08-03,"A Japanese inventor designed a brake-accelerator pedal, which has come under a spotlight since allegations that some Toyotas speed up without warning.",neutral,0.010518401861190796
+2010-08-03,Gas-and-Brake Pedal Gets New Look After Recalls,positive,0.6917628049850464
+2010-08-05,The automaker’s strong sales in emerging markets and aggressive cost-cutting helped reverse its loss of $902 million a year earlier.,positive,0.9275121092796326
+2010-08-05,Toyota Recovers From a Slump to Report a $2.2 Billion Profit,positive,0.3755790889263153
+2010-08-10,"The automaker wants to pursue an initial public offering this year, but its acquisition of AmeriCredit, a subprime lender, raises questions about its strategy.",neutral,-0.4250485301017761
+2010-08-10,"For G.M., a Subprime Solution",neutral,-0.006533706560730934
+2010-08-10,Findings by a federal safety agency support Toyota’s claim that it had identified and was fixing the reasons that its vehicles might accelerate out of control.,neutral,-0.16457653045654297
+2010-08-10,Early U.S. Tests Find No Toyota Flaw in Electronics,negative,-0.6746408939361572
+2010-08-11,"In Japan, the dollar’s decline has ignited fears that too strong of a domestic currency could harm the country’s recovery, led by exporters like Toyota.",negative,-0.9425556063652039
+2010-08-11,"Dollar Hits Low Against Yen, Dealing Blow to Japan’s Economy",negative,-0.916611909866333
+2010-08-11,"Security experts are trying to raise awareness about the potential dangers of geotags, bits of GPS data that identify where a photo or video was taken.",neutral,0.1158720925450325
+2010-08-11,"Web Photos That Reveal Secrets, Like Where You Live",neutral,-0.13748933374881744
+2010-08-21,P.R.,neutral,0.051445938646793365
+2010-08-21,"missteps at BP, Toyota and Goldman Sachs raise a question: Are some crises impossible to spin?",negative,-0.8226335644721985
+2010-08-21,In Case of Emergency: What Not to Do,neutral,-0.058838002383708954
+2010-08-23,P.R.,neutral,0.051445938646793365
+2010-08-23,"missteps at BP, Toyota and Goldman Sachs raise a question: Are some crises impossible to spin?",negative,-0.8226335644721985
+2010-08-23,In Case of Emergency: What Not to Do,neutral,-0.058838002383708954
+2010-08-24,"Since the Toyota recalls, automakers are taking initiative instead of waiting for regulators, which has caused a flood of recalls.",negative,-0.7182912826538086
+2010-08-24,Carmakers Initiating More Recalls Voluntarily,negative,-0.7840101718902588
+2010-08-26,"The latest recall, which covers the 2005 through 2008 Corolla sedan and Matrix hatchback, is the 15th this year for Toyota.",negative,-0.6864198446273804
+2010-08-26,Toyota Recalls 1.1 Million Cars for Engine Problem,negative,-0.9544795751571655
+2010-08-29,Every crisis is different.,neutral,0.04281260073184967
+2010-08-29,And no communications strategy is universal.,neutral,0.0062101902440190315
+2010-08-29,Every Crisis Is Different,neutral,-0.004739753901958466
+2010-09-02,"For all the turmoil over Toyota's wave of recalls, the world's largest automaker may face a bigger problem: the surging yen.",negative,-0.9504525065422058
+2010-09-02,Toyota Feels Exchange-Rate Pinch as Rivals Gain,negative,-0.8472061157226562
+2010-09-13,"The Japanese car company, which makes the Prius hybrid car, expects to increase its product line in the next few years.",positive,0.8902958035469055
+2010-09-13,Toyota Plans 6 New Hybrids for 2012,neutral,0.061687566339969635
+2010-09-18,The family died in a 2009 crash that had been documented in a 911 call and drew nationwide attention.,negative,-0.6719291806221008
+2010-09-18,Toyota Settles Over California Deaths,neutral,0.0028986334800720215
+2010-10-01,Managers of Volkswagen are serious when they say they want to be the world's largest auto maker.,neutral,0.018309172242879868
+2010-10-01,VW Pushes to Pass Toyota,neutral,0.30005449056625366
+2010-10-04,"Volkswagen wants to challenge Toyota to be the world’s top carmaker, and its chairman thinks a few acquisitions might help.",positive,0.8471724390983582
+2010-10-04,"As VW Pushes to Pass Toyota, Deals Will Help",positive,0.8342589139938354
+2010-10-04,The automaker said the rate of complaints about sudden acceleration had fallen 80 percent since April.,negative,-0.9569600820541382
+2010-10-04,Toyota Says 65% of Recall Repairs Are Completed,neutral,0.13194909691810608
+2010-10-12,The idea of a Korean company competing with German luxury automakers would once have seemed absurd; now other companies know better than to underestimate Hyundai.,negative,-0.5801107883453369
+2010-10-12,Hyundai Took on Toyota.,neutral,0.0893564224243164
+2010-10-12,Now for BMW.,neutral,0.03716661408543587
+2010-10-21,"Problems with the brakes and the fuel pump led to the latest recall, which the company said reflected an effort to be more active in addressing potential flaws.",negative,-0.8140687346458435
+2010-10-21,1.5 Million Toyotas Recalled for Brake and Fuel Pump Problems,negative,-0.9516503810882568
+2010-11-02,"Spurred by fears of the eventual demise of gasoline engines, car manufacturers and parts makers are joining forces to prepare for the future.",positive,0.6358897089958191
+2010-11-02,Japan’s Auto Parts Makers Try to Anticipate Shift to Electric Cars,neutral,0.12972474098205566
+2010-11-03,October was the best month for new-vehicle sales in more than two years outside of the government rebate program in 2009.,positive,0.7799873352050781
+2010-11-03,Strong October Sales for Automakers,positive,0.8894620537757874
+2010-11-04,"Panasonic is investing $30 million in Tesla Motors, the U.S. maker of electric sports cars, eyeing expansion in the global market for green vehicles, the companies said Thursday.",positive,0.7233605980873108
+2010-11-04,Panasonic Invests $30 Million in Tesla,neutral,0.04960944131016731
+2010-11-08,Toyota Motor continues on the journey to repair its reputation with a campaign using the theme “Ideas for good” that will seek suggestions from consumers.,neutral,0.34099555015563965
+2010-11-08,"The campaign, to be introduced on Monday, invites consumers to come up with new ways to use five existing Toyota Motor technologies",neutral,0.17304328083992004
+2010-11-08,Toyota Turns to Consumers for ‘Ideas’,neutral,0.03749009966850281
+2010-11-16,"With advances in diesel engineering and heightened interest in fuel economy, cars with diesel-powered engines are starting to sell again in the United States.",positive,0.8474871516227722
+2010-11-16,"Diesel, Cleaner, Is Set to Make a Comeback",neutral,0.334879994392395
+2010-11-16,"The prototype, developed by Toyota and Tesla Motors at remarkable speed, indicates that each company is learning from the other.",positive,0.786335289478302
+2010-11-16,Unlikely Alliance Results in an All-Electric RAV4,positive,0.7509172558784485
+2010-11-17,"Whether buyers chose 2009 model cars or light trucks, they picked smaller ones, the agency’s report found.",neutral,0.015301013365387917
+2010-11-17,E.P.A.,neutral,0.03660343214869499
+2010-11-17,Finds Gas Mileage Improved in ’09 Fleet,positive,0.9254415035247803
+2010-12-01,The figures set the stage for the car industry to end the year on a high note.,positive,0.8367113471031189
+2010-12-01,"Car Sales Post Strong Gains, With Toyota as the Exception",positive,0.9023436903953552
+2010-12-10,"Wealthy executives can make for strong mayors, but their political ambitions should end there.",neutral,0.05827390402555466
+2010-12-10,Why C.E.O.’s Should Stop at City Hall,neutral,0.013688348233699799
+2010-12-21,"A study by the Nielsen company showed that ratings for commercials rose if the show was played back within three days, especially for 18- to 49-year-olds.",positive,0.6678106784820557
+2010-12-21,The Myth of Fast-Forwarding Past the Ads,neutral,-0.02105548232793808
+2010-12-21,"The fines, related to Toyota’s delays in announcing vehicle recalls in the United States, are the maximum allowed by law.",negative,-0.7118934988975525
+2010-12-21,Toyota to Pay $32.4 Million in Fines Related to Two Recalls,negative,-0.9081834554672241
+2010-12-27,"With investors free to sell their stock from the I.P.O., shares of the electric car maker tumbled 15 percent on Monday.",negative,-0.9641326069831848
+2010-12-27,Tesla’s Stock Drops After Lock-Up Period Ends,negative,-0.9600420594215393
+2011-01-03,"In prolonging Martin Winterkorn’s tenure through 2016, Volkswagen sought continuity at the top.",positive,0.6054627895355225
+2011-01-03,Volkswagen Extends Chief’s Pact,neutral,0.2935258746147156
+2011-01-03,Minivan makers are trying to recast the much-ridiculed mom-mobile as something that parents can be proud — or at least unashamed — of driving.,neutral,-0.07291723787784576
+2011-01-03,"Mocked as Uncool, the Minivan Rises Again",positive,0.2374264895915985
+2011-01-04,"Still feeling the fallout from recalls, Toyota was the only full-line manufacturer to report a decline.",negative,-0.946858286857605
+2011-01-04,Detroit Carmakers Post Sales Gains as Toyota Lags,negative,-0.014161378145217896
+2011-01-06,A former lawyer for the company who accused it of hiding damaging information about its vehicles was ordered to pay the carmaker $2.6 million.,negative,-0.8374117016792297
+2011-01-06,Toyota Wins Case Arguing Ex-Employee Broke Pledge,negative,-0.8356820344924927
+2011-01-06,Toyota will introduce an addition to the Prius lineup of gas-electric vehicles at the Detroit auto show.,positive,0.5721437335014343
+2011-01-06,Toyota Aims to Remain King of the Hybrids,neutral,0.14749349653720856
+2011-01-11,"Akio Toyoda, Toyota’s president, made his first appearance at an American auto show, and said his company was committed to gaining the trust of consumers.",positive,0.7026637196540833
+2011-01-11,"In Detroit, Toyota Vows to Earn Trust",positive,0.6207063794136047
+2011-01-26,The latest move by Toyota to fix design flaws follows other large-scale recalls last year.,negative,-0.3424537777900696
+2011-01-26,Toyota Recalls 1.7 Million Vehicles,negative,-0.8582893013954163
+2011-02-08,"A strong yen and slow sales in Japan pushed down quarterly profit 39 percent, but the world’s biggest automaker raised its full-year net profit forecast.",negative,-0.5272358655929565
+2011-02-08,A Stronger Yen and Fewer Sales Reduce Toyota Earnings 39%,negative,-0.9640835523605347
+2011-02-08,Federal investigators found that mechanical defects that had already been addressed were the only known cause of the acceleration problem.,negative,-0.597200870513916
+2011-02-08,"Electronic Flaws Did Not Cause Toyota Problems, U.S. Says",neutral,-0.4029185175895691
+2011-02-22,"Chris Adams and Margaret Keene, a creative team, are joining the Torrance, Calif., office of Saatchi & Saatchi, part of the Publicis Groupe, as executive creative directors.",neutral,0.04329553246498108
+2011-02-22,Accounts and People of Note in the Ad Industry,neutral,-0.018521495163440704
+2011-02-24,Federal regulators said the announcement concluded their investigation into whether Toyota recalled enough vehicles.,neutral,0.09967273473739624
+2011-02-24,Toyota to Recall Over 2 Million Vehicles for Gas Pedal Flaws,negative,-0.893535852432251
+2011-03-13,Automakers scrambled to determine whether they would be able to build and export cars in light of the rolling power blackouts and the damage to Japan’s infrastructure.,negative,-0.007252931594848633
+2011-03-13,Auto Plants in Japan Remain Closed as Companies Take Stock,negative,-0.828504204750061
+2011-03-19,"Nissan, Honda and Toyota are all reviewing how they will get back to normal and make up for delays in deliveries overseas.",neutral,-0.3321205675601959
+2011-03-19,Japan’s Automakers Expect More Delays,neutral,0.041350409388542175
+2011-03-21,The announcement that Nissan would restart production was among a handful of encouraging signs for Japan’s economy in the wake of the earthquake and tsunami.,positive,0.8742146492004395
+2011-03-21,Japan Factories Take Steps to Resume Production,neutral,-0.24887023866176605
+2011-03-23,Shortages of some Japanese-made parts are expected to force the automaker to halt production at one or more plants.,negative,-0.9547982215881348
+2011-03-23,Toyota Says Scarce Parts to Idle Some U.S. Plants,negative,-0.9055084586143494
+2011-03-24,"As automakers scramble to ensure a reliable supply of parts from Japan, Toyota said it would restart production of Prius and Lexus hybrids next week.",neutral,0.2259463220834732
+2011-03-24,"Toyota, Struggling With Part Shortages, to Restart Car Lines",negative,-0.9089317917823792
+2011-03-31,A research firm said predicted that up to a third of the industry’s production capacity could be affected by the disaster.,negative,-0.924859344959259
+2011-03-31,"Because of Japan’s Problems, Auto Dealers See Trouble Ahead in Meeting Demand",negative,-0.9424717426300049
+2011-04-01,Ford outsold G.M.,positive,0.033653587102890015
+2011-04-01,"in March, as auto sales increased across the industry, despite worries about rising gasoline prices and production stoppages in Japan.",positive,0.8983492851257324
+2011-04-01,Ford Tops G.M.,neutral,0.05666184425354004
+2011-04-01,as Auto Sales Rise for All but Toyota,positive,0.5287021994590759
+2011-04-02,"A lawyer for Toyota argued that the driver, not electronics or the floor mat, was responsible when a 2005 Toyota Scion accelerated out of control and hit a tree.",negative,-0.868692934513092
+2011-04-02,Jurors Side With Toyota in Lawsuit Over Crash,negative,-0.7741749882698059
+2011-04-08,Toyota and Ford are among the companies temporarily closing some plants and cutting hours because of a lack of parts.,negative,-0.9536206126213074
+2011-04-08,Automakers Adjust Production to Quake-Related Shortages,neutral,-0.23736831545829773
+2011-04-15,"As Toyota, Honda and Nissan struggle to get back into full production, non-Japanese automakers are expected to increase market share.",positive,0.9095041751861572
+2011-04-15,Japanese Carmakers’ Struggles Could Put Customers in Rivals’ Showrooms,negative,-0.8650916814804077
+2011-04-18,"Auto production in Japan is at only half the normal level for Honda — as it is for Honda’s bigger rivals, Toyota and Nissan.",negative,-0.6703680157661438
+2011-04-18,"The Assembly Line Is Rolling Again, Tenuously, at Honda in Japan",neutral,0.09584742784500122
+2011-04-19,The carmaker said that it would reduce production in North America by 75 percent in the next six weeks to conserve a limited supply of parts made in Japan.,negative,-0.9497360587120056
+2011-04-19,Toyota Plans to Reduce Production for 6 Weeks,negative,-0.9250696897506714
+2011-04-22,The time frame was the longest yet described by the car company to recover from Japan’s quake and tsunami.,neutral,0.06852331757545471
+2011-04-22,Toyota Says No Full Production Until Year’s End,negative,-0.662760317325592
+2011-04-26,The Sendai Toyopet dealership’s recovery effort offers a glimpse into Japan’s broader quest for something like a return to normalcy.,positive,0.8254237174987793
+2011-04-26,"After Quake in Japan, a Toyota Dealer Slowly Regains Its Footing",negative,-0.3813253343105316
+2011-05-11,"The carmaker, whose operations have been severely disrupted since the earthquake and tsunami in Japan, said that it expects production to begin recovering sooner than forecast.",positive,0.4433850646018982
+2011-05-11,"After Quake, Toyota’s Profit Plummets 77%",negative,-0.9531465172767639
+2011-05-23,A panel cites a tendency to dismiss customer complaints and a lack of a clear procedure for handling safety problems.,negative,-0.9030038714408875
+2011-05-23,Recall Study Finds Flaws at Toyota,negative,-0.7079452276229858
+2011-06-01,"Ford, G.M.",neutral,0.04587358981370926
+2011-06-01,and Chrysler reclaimed industry leadership for the first time in five years as Toyota and Honda were hurt by production disruptions.,negative,-0.40074622631073
+2011-06-01,Detroit Auto Makers Topped Importers in Sales in May,positive,0.6185404658317566
+2011-06-10,"The company’s forecast was gloomier than expected, but the group said it projected a strong recovery as it fixed its supply chain following the March 11 quake.",positive,0.8502980470657349
+2011-06-10,Toyota Expects 31% Profit Slump,positive,0.5230029821395874
+2011-06-24,"High gas prices and tight supplies of many popular compact models have pushed the price of some used cars, like the Toyota Prius, close to the list price of a new one.",negative,-0.9140304327011108
+2011-06-24,"Used Gas Sippers, Keeping That New-Car Value",neutral,-0.25182196497917175
+2011-07-01,"Sales across the industry were higher last month compared to a year earlier, but the annualized selling rate fell.",negative,-0.8938825130462646
+2011-07-01,"In Car Sales, Good Month for Detroit, Not Japan",neutral,0.06694050133228302
+2011-07-05,A new Toyota ad campaign for the RAV4 sports utility vehicle is aimed at attracting the African-American consumer.,neutral,0.149577334523201
+2011-07-05,New Toyota Ad,neutral,0.07924116402864456
+2011-07-05,Toyota is beginning a campaign to promote its sport utility vehicle to African-Americans.,positive,0.5831931829452515
+2011-07-05,Toyota Turns to a Bulldog to Talk Up the RAV4,neutral,-0.11547607183456421
+2011-07-13,The auto company aims its new campaign for the S.U.V at African-Americans.,neutral,0.05836586654186249
+2011-07-13,Toyota Pitches Its RAV4 to a New Demographic,positive,0.4828275442123413
+2011-08-02,"The revised estimate came as the Japanese automaker posted a 1.1 billion yen net profit for the April-June quarter, a tiny fraction of the 190.4 billion yen it earned a year earlier.",positive,0.12989160418510437
+2011-08-02,"Toyota, Rebounding From Quake, Raises Profit Forecast",positive,0.7372151613235474
+2011-08-02,"Honda and Toyota posted sharp decreases, while General Motors, Ford and Chrysler reported increases.",negative,-0.7381191253662109
+2011-08-02,Despite Rising U.S.,negative,-0.326076865196228
+2011-08-02,"Sales, Automakers Are Struggling",negative,-0.8301510214805603
+2011-08-03,The automaker is using bar code technology for a logo-based campaign to get consumers to seek more information about its products.,neutral,-0.040881961584091187
+2011-08-03,"Snap and Send, and Learn More About Toyota",neutral,0.03616861253976822
+2011-08-22,"In their first joint development project, the two automakers aim to save money as they work to meet government fuel-efficiency standards.",positive,0.7686927318572998
+2011-08-22,Ford and Toyota to Work Together on Hybrid System for Trucks,positive,0.6803914308547974
+2011-08-24,"Toyota is counting on the sedan, with a lower price and a new electronics system, to restore respect for the company.",positive,0.8645026087760925
+2011-08-24,"New Camry, Spruced Up but Still Free of Flash",neutral,0.18473921716213226
+2011-09-14,"The company plans to run plants on overtime and add Saturday shifts to replenish inventories, making fourth-quarter production 15 percent higher than originally planned.",positive,0.6729415655136108
+2011-09-14,Toyota Restores North American Pace,neutral,0.12130218744277954
+2011-09-27,"Toyota has released music sporadically, but now it will sponsor a full campaign of record releases, videos and tour support for about 20 acts.",neutral,0.10332810133695602
+2011-09-27,Backing Indie Bands to Sell Cars,neutral,0.0024969950318336487
+2011-10-03,"General Motors and Chrysler reported double-digit increases, while Ford sales rose 9 percent.",positive,0.8958508968353271
+2011-10-03,U.S.,neutral,-0.05536564439535141
+2011-10-03,"Vehicle Sales Soared Nearly 10% in September, Despite Economic Gloom",positive,0.927299976348877
+2011-10-13,"In what it’s calling its largest marketing campaign ever, Toyota Motor Sales USA will try to give attitude to a reliable model by telling drivers: “It’s ready.",neutral,0.3890102803707123
+2011-10-13,Are you?”,neutral,-0.17399545013904572
+2011-10-13,"For ‘Reinvented’ Toyota Camry, Readiness Is All",neutral,0.11334198713302612
+2011-10-13,"Seven months after an earthquake and tsunami interrupted production, the two big Japanese automakers say their major plants in Japan have resumed full operation.",negative,-0.6008470058441162
+2011-10-13,Toyota and Honda Bounce Back,positive,0.39229896664619446
+2011-10-13,"Faced with the need to make more small cars, and trying to make more money on each one, carmakers are producing models that evoke emotions.",neutral,0.038474228233098984
+2011-10-13,Newest Small Cars Trade on Both Looks and Personality,neutral,0.007921157404780388
+2011-11-02,"The agreement involving LG Electronics, YuMe and Toyota indicated the increasing interest in using Internet-connected television as an advertising medium.",positive,0.8164198994636536
+2011-11-02,LG Brings Ad Capability to Internet-Connected TV,positive,0.5188108086585999
+2011-11-08,The Japanese automaker said sales for the quarter that ended Sept. 30 fell 4.8 percent to $57 billion.,negative,-0.9704033732414246
+2011-11-08,"With Profit Down 19%, Toyota Withdraws Its Forecast",negative,-0.9657861590385437
+2011-11-14,"Car companies are grappling with an alternate universe of brand associations in China, where Buicks are status symbols and a Mercedes-Benz is the domain of the retiree.",negative,-0.522386908531189
+2011-11-14,"In China, Car Brands Evoke an Unexpected Set of Stereotypes",neutral,0.0651734322309494
+2011-12-01,"Each company will help the other gain experience in unfamiliar areas of environmental technology, improving market share, executives said.",positive,0.9281196594238281
+2011-12-01,An Alliance for BMW and Toyota,neutral,0.34419092535972595
+2011-12-01,"Carmakers reported double-digit gains in November sales, generating their strongest sales rate in more than two years.",positive,0.8832432627677917
+2011-12-01,Americans Flock to Car Showrooms With Wallets Open,neutral,-0.02457544580101967
+2011-12-09,"Toyota Motor slashed its profit forecast Friday after destructive floods in Thailand, a major manufacturing hub, hurt production in a year already marred by Japan's natural and nuclear disasters.",negative,-0.9647571444511414
+2011-12-09,Toyota Cuts Profit Forecast by 54%,negative,-0.9111331701278687
+2012-01-09,The new Fusion sedan is one aspect of Ford’s all-out bid to gain share in the competitive midsize car segment dominated in recent decades by Japanese automakers.,positive,0.828080415725708
+2012-01-09,Ford Turns to the Midsize Car to Challenge Japan,neutral,0.26179036498069763
+2012-01-19,"In its study, a branch of the National Academy of Sciences called on the N.H.T.S.A.",neutral,0.019172081723809242
+2012-01-19,to refine its investigative techniques and push for “black boxes” that record data in car crashes.,positive,0.48075518012046814
+2012-01-19,Road Safety Agency Is Urged to Add Expertise in Electronics Systems,positive,0.8292427062988281
+2012-01-19,"After three years in second place, General Motors reclaimed its title due to strong sales in every region of the globe.",positive,0.913162112236023
+2012-01-19,The automaker surpassed Volkswagen as Toyota fell to third.,negative,-0.8233895897865295
+2012-01-19,G.M.,neutral,0.048085395246744156
+2012-01-19,Regains the Top Spot in Global Automaking,positive,0.8274624943733215
+2012-01-24,A safety consulting firm accused the National Highway Traffic Safety Administration of holding back evidence that electronic systems in Toyota vehicles were causing unintended acceleration.,negative,-0.8870514631271362
+2012-01-24,Lawsuit Seeks Records From Toyota Investigation,neutral,-0.26631927490234375
+2012-02-06,"Governments reports will include wholesale trade inventories and the trade deficit for December; companies reporting earnings will include Coca-Cola, Toyota Motor, Disney and Groupon.",neutral,-0.009782908484339714
+2012-02-06,Economic Reports for the Week Ahead,neutral,0.0058092400431632996
+2012-02-07,Toyota raised its annual profit forecast Tuesday despite a 13.5 percent decline in the quarter ended in December that followed production cutbacks in the aftermath of Japan’s tsunami.,positive,0.7878612279891968
+2012-02-07,Brisk American Sales Lift Toyota’s Profit Estimate,negative,-0.36643144488334656
+2012-03-05,Scion is marketing its new iQ automobile with a brash online display created with the fashionable in mind.,neutral,0.09784551709890366
+2012-03-05,Scion Aims Online Videos at Young Buyers,neutral,0.009451847523450851
+2012-04-04,"At current or foreseeable gas prices, it would take many years for the fuel savings from hybrid and plug-in cars to make up for the cars’ high initial cost.",neutral,0.15323063731193542
+2012-04-04,Payoff for Efficient Cars Takes Years,neutral,0.06539440155029297
+2012-04-10,The automaker is revamping its development system to allow its engineers and designers to take more risks.,positive,0.6305087804794312
+2012-04-10,"Toyota, Eschewing Sedate Design, Is Ready for Pizazz",neutral,0.14610044658184052
+2012-04-12,A proposed rule from federal regulators would mandate systems within vehicles’ on-board computers that allow drivers to brake to stop even if the accelerator pedal sticks or malfunctions.,neutral,0.03496637940406799
+2012-04-12,A Proposed Rule Seeks to Stop Runaway Cars,neutral,0.012406464666128159
+2012-05-01,"The Japanese company’s sales rose 12 percent, a year after production slowed when the earthquake and tsunami hit Japan.",positive,0.9012296795845032
+2012-05-01,"Toyota Back in the Game, Auto Sales Are the Best in 4 Years",positive,0.8247281908988953
+2012-05-09,"Although income dropped in the last fiscal year, the automaker said a new model lineup would help it further boost profit to $21.5 billion in the year through March 2013.",positive,0.8745805025100708
+2012-05-09,Toyota Projects Profit to Double in Fiscal Year,positive,0.7496983408927917
+2012-05-09,A shake-up at Green Mountain Coffee; Toyota on the road to recovery; and how being gay on TV became uncontroversial.,negative,-0.7513785362243652
+2012-05-09,"Business Day Live | May 9, 2012",neutral,0.014491938054561615
+2012-06-10,"Data will include retail sales and import prices for May, Kroger and Smithfield Foods will report earnings and Apple will hold its annual conference.",neutral,0.019207410514354706
+2012-06-10,Economic Reports for the Week Ahead,neutral,0.0058092400431632996
+2012-06-12,"The digital publication, with content distinct from the Web site, is supposed to replicate the Sunday magazine experience.",neutral,0.10064207762479782
+2012-06-12,Huffington Post Introduces Its Online Magazine,neutral,0.05038361996412277
+2012-06-21,The latest automotive quality survey released on Wednesday by the research firm J. D. Power & Associates showed that consumers were reporting fewer overall problems with new vehicles.,negative,-0.3984878361225128
+2012-06-21,Car Survey Shows Fewer Complaints but More With Personal Electronics,negative,-0.866280198097229
+2012-07-02,Two readers are unnerved by a Toyota commercial that features a coach character recruiting young men.,negative,-0.7592340111732483
+2012-07-02,Q. and A.,neutral,0.0380171574652195
+2012-07-02,With Stuart Elliott,neutral,0.02111242711544037
+2012-07-03,"General Motors and Chrysler reported double-digit sales of new vehicles, while Ford’s rose 7 percent.",positive,0.829806387424469
+2012-07-03,Toyota sales were up 60 percent.,positive,0.8906826376914978
+2012-07-03,Lower Gas Prices and New Models Sent Vehicle Sales Higher in June,positive,0.7654948234558105
+2012-07-13,A prescient warning that big banks could manipulate interest rates.,negative,-0.38769474625587463
+2012-07-13,| Inside a massive e-mail security breach.,negative,-0.9195424914360046
+2012-07-13,"| When this ship hits port, the journey has just begun for its cargo of new cars.",neutral,0.2652755081653595
+2012-07-13,"Business Day Live | July 13, 2012",neutral,0.0010263994336128235
+2012-07-13,"The Andromeda Leader arrived in Newark from Japan, and a crew of over 100 drove nearly 3,000 cars off the massive ship one by one.",neutral,0.041775837540626526
+2012-07-13,Four-Wheeled Cargo,neutral,0.027122873812913895
+2012-07-29,"Data will include the July unemployment report and personal income and spending for June, and companies reporting earnings will include Chrysler, General Motors and Toyota.",neutral,0.0066254716366529465
+2012-07-29,Economic Reports for the Week Ahead,neutral,0.0058092400431632996
+2012-08-01,"General Motors and Ford reported a drop in July sales compared with a year ago, citing lower volume to rental fleets, while Chrysler posted a 13 percent increase.",negative,-0.9609858989715576
+2012-08-01,"Fleet Sales Stall, and Automakers Report Results That Are Mixed",negative,-0.9618635177612305
+2012-08-03,Toyota has surged back from a downturn following the natural disasters in Japan last year and is expecting to sell 23 percent more vehicles than it did in 2011.,positive,0.9141406416893005
+2012-08-03,"After Recalls and Woes, Toyota Posts Huge Profit",positive,0.5699397325515747
+2012-09-24,"Often, these kinds of activities are led by those who have been through M.B.A. programs — but M.B.A.’s don’t always understand how smaller companies work.",neutral,-0.0448886975646019
+2012-09-24,Small-Business Lessons From Harley-Davidson’s Turnaround,positive,0.4924042820930481
+2012-09-27,"After falling behind from a product shortage, the automaker is planning to rejuvenate its Lexus brand by making the line more appealing to younger and more adventurous buyers.",positive,0.8369446396827698
+2012-09-27,Toyota Moves to Revamp Its Lexus Luxury Line,positive,0.563210129737854
+2012-10-01,"The platform, called Telemundo Plus, will allow advertisers to promote products in Spanish or English on NBCUniversal, Comcast and Telemundo networks.",neutral,0.1492178738117218
+2012-10-01,Telemundo Media to Offer Bilingual Approach to Advertisers,neutral,0.19421541690826416
+2012-10-02,"Many of the gains came at Toyota and Honda, the two big Japanese manufacturers that suffered major product shortages after last year’s earthquake and tsunami in Japan.",positive,0.7939544320106506
+2012-10-02,Auto Sales Are Highest in 4 Years,positive,0.7753744125366211
+2012-10-09,Japanese automakers have cut manufacturing by up to half in China after violent anti-Japanese protests over disputed islands in which Japanese-brand cars and even their owners were targeted.,negative,-0.9529087543487549
+2012-10-09,"In China Protests, Japanese Car Sales Suffer",negative,-0.9057837128639221
+2012-10-12,Three automotive journalists nominated their favorite cars as the contenders to replace five classics at the car shows of the future.,neutral,0.11047820746898651
+2012-10-12,The Classics-to-Be for Tomorrow’s Car Collectors,neutral,0.057150110602378845
+2012-10-22,Toyota Industries said on Monday that it planned to buy the Cascade Corporation for $759 million in cash as part of its plan to expand globally.,neutral,0.31756800413131714
+2012-10-22,Toyota Industries to Buy Cascade for $759 Million,neutral,0.02668670564889908
+2012-10-24,"Carmakers wonder if the lithium-ion cells will become cheap enough, at a fast enough pace, to make pure electric and plug-in hybrid cars economically practical.",positive,0.6972824335098267
+2012-10-24,Questions Linger on Battery Prices in Electric Cars,neutral,-0.29918450117111206
+2012-11-05,"The carmaker, which expects to make $9.7 billion for the full year through March, has been less exposed than its Japanese peers to the fallout over a territorial dispute with China.",negative,-0.8670755624771118
+2012-11-05,Toyota Raises Forecast Despite Lag in China,positive,0.33890649676322937
+2012-12-10,"Some of Japan’s largest manufacturers are contributing to a $1.8 billion bailout of the struggling chip maker Renesas, a move that will give the government and the companies a 69 percent stake.",positive,0.5374217629432678
+2012-12-10,Japanese Manufacturers Help Save Chip Maker Renesas,neutral,-0.033322423696517944
+2012-12-26,"Toyota would pay more than $1 billion, giving cash to vehicle owners for the loss of value from multiple recalls and installing special safety features on up to 3.2 million cars.",positive,0.6261081099510193
+2012-12-26,Toyota Agrees to Settle Lawsuit Tied to Accelerations,positive,0.620072066783905
+2013-01-02,"Ambitious changes to the automaker’s lineup and resolution of recalls and supply chain issues signal a recovery, the company says.",positive,0.9265651702880859
+2013-01-02,"Battered by Expensive Crises, Toyota Declares a Rebirth",negative,-0.6549840569496155
+2013-01-03,"A 9 percent increase in December for the industry over all put the year’s sales at about 14.5 million vehicles, the best performance since 2007.",positive,0.863655149936676
+2013-01-03,Automakers End 2012 With Sales at 5-Year High,neutral,0.07433400303125381
+2013-01-28,"The Japanese automaker sold a record 9.75 million vehicles last year, according to an official tally, roaring past General Motors and Volkswagen.",positive,0.6585506796836853
+2013-01-28,Toyota Is Back on Top in Sales,positive,0.6080809235572815
+2013-02-01,"New vehicle sales in the United States rose sharply in January, raising expectations that the industry’s steady recovery would accelerate in 2013.",positive,0.9191147685050964
+2013-02-01,Car Sales Climb Sharply in Strong Start to 2013,positive,0.5848852396011353
+2013-02-05,"Toyota, once again the world’s biggest automaker, has received a boost from the weak yen and from efforts to improve quality and rethink design.",positive,0.9345839619636536
+2013-02-05,Toyota Says It Expects a Big Gain in 2013 Sales,positive,0.8854539394378662
+2013-02-23,"The hapless, bumbling father is a stock character in product marketing.",negative,-0.44821077585220337
+2013-02-23,The so-called daddy bloggers who attended the recent Dad 2.0 Summit are pushing to change that.,neutral,0.0228421688079834
+2013-02-23,"Don’t Call Him Mom, or an Imbecile",neutral,-0.3496541678905487
+2013-03-29,Madison Avenue and automakers are trying to lure young Americans who are more interested in the newest smartphone than in the newest sedan.,neutral,0.06406022608280182
+2013-03-29,A Safety-First Message Aimed at Getting More Youths Behind the Wheel,neutral,-0.08491834998130798
+2013-03-29,"NBC has yet to learn how to handle successions gracefully, Barbara Walters will retire in 2014, and Christopher Cuomo and Kate Bolduan will host a new CNN morning show.",neutral,-0.059678032994270325
+2013-03-29,"The Breakfast Meeting: Awkwardness at NBC, and Barbara Walters’ Retirement",negative,-0.4586917757987976
+2013-04-11,"Honda, Toyota, Nissan and Mazda are recalling about 3.3 million vehicles worldwide because the passenger-side air bag could deploy with too much force.",negative,-0.9311361908912659
+2013-04-11,Japanese Automakers Recall 3.3 Million Vehicles,negative,-0.9466942548751831
+2013-04-18,"The announcement, expected Friday, will most likely involve a Lexus line.",neutral,0.03326484560966492
+2013-04-18,It would be the first time the Lexus model had been built in America.,neutral,0.20504313707351685
+2013-04-18,Toyota Said to Plan Lexus Plant in Kentucky,neutral,0.04479310289025307
+2013-04-19,The automaker’s move is partly an effort to protect itself from currency swings that have affected its profit in recent years.,positive,0.4410953223705292
+2013-04-19,Toyota Expansion Reflects a Push for U.S. Lexus Sales,neutral,0.43460971117019653
+2013-05-08,"The carmaker benefited from a weak yen and improving sales in the United States, with net income in its fourth quarter more than tripling from the previous year.",positive,0.925433337688446
+2013-05-08,Toyota Bounces Back With Help From Eager American Buyers and a Weak Yen,positive,0.011970996856689453
+2013-07-02,Pickup trucks and S.U.V.’s.,neutral,-0.015377327799797058
+2013-07-02,"led the way, resulting in the best performance in at least six years for Ford and Chrysler and the best month for G.M.",positive,0.9033331871032715
+2013-07-02,since September 2008.,neutral,0.02493145689368248
+2013-07-02,Auto Sales Showed Powerful Gains Across the Board in June,positive,0.8742953538894653
+2013-07-20,"Owners who sold their vehicles at a loss will get compensation, and those who still own the cars will get safety upgrades.",neutral,0.17267215251922607
+2013-07-20,Toyota Will Pay $1.6 Billion Over Faulty Accelerator Suit,negative,-0.932333767414093
+2013-08-02,"The Japanese automaker, the largest in the world by sales, raised its full-year profit forecast even as it sold fewer vehicles.",positive,0.8936192989349365
+2013-08-02,Weakening Yen Helps Toyota Double Its Quarterly Profit,negative,-0.2661111354827881
+2013-08-03,"About 298,000 hybrids, or cars that run on batteries and gasoline, have been sold this year while only 36,000 battery-powered vehicles have sold.",neutral,0.07192657142877579
+2013-08-03,A Hankering for Hybrids,negative,-0.3762574791908264
+2013-09-01,"Using a technology called augmented reality, carmakers can embed images and video over a picture on a smartphone or tablet.",neutral,0.027778320014476776
+2013-09-01,Automakers Build Showroom in an App,neutral,0.13625222444534302
+2013-09-04,"General Motors, Ford and Chrysler all had strong months as lower lease payments helped dealers move the inventory of new cars and trucks.",positive,0.8326095342636108
+2013-09-04,"Auto Sales Are Soaring, Propelled by Leases",positive,0.8581128120422363
+2013-09-08,"About 780,000 RAV4 sport utility vehicles and Lexus HS sedans needed repairs for a handling problem in 2012, but the repair was not effective, the automaker said.",negative,-0.9236979484558105
+2013-09-08,Toyota Recalls Vehicles a Second Time,negative,-0.8499383330345154
+2013-09-17,"Mr. Toyoda, the nephew of the Toyota group’s founder, was the architect of the company’s “lean manufacturing” method, which helped turn the automaker into a global powerhouse.",positive,0.7986458539962769
+2013-09-17,"Eiji Toyoda, Promoter of the Toyota Way and Engineer of Its Growth, Dies at 100",neutral,-0.043268874287605286
+2013-09-18,The advertisements for Lexus will run during Jimmy Fallon’s taped talk show.,neutral,0.01121891662478447
+2013-09-18,A comedy troupe will come up with the commercials based on audience suggestions.,neutral,0.0027221012860536575
+2013-09-18,Live Commercials Coming to ‘Late Night’,neutral,0.018110252916812897
+2013-09-23,The actors behind your favorite commercials.,neutral,-0.006534598767757416
+2013-09-23,Q. and A.,neutral,0.0380171574652195
+2013-09-23,With Stuart Elliott,neutral,0.02111242711544037
+2013-10-01,"A holiday weekend split across two months, coupled with weaker demand, led to a 4.2 percent decrease from the previous year.",negative,-0.959101140499115
+2013-10-01,Unusual Timing of Labor Day Takes Bite Out of September Auto Sales,negative,-0.6220924258232117
+2013-10-07,"The United Automobile Workers is taking a campaign global to promote a unionization effort at Nissan’s plant in Canton, Miss.",neutral,0.06183387339115143
+2013-10-07,"At a Nissan Plant in Mississippi, a Battle to Shape the U.A.W.’s Future",negative,-0.66774582862854
+2013-10-11,The outcome could influence whether Toyota should be held responsible for sudden unintended acceleration as part of a larger group of lawsuits filed in state courts.,negative,-0.5830482840538025
+2013-10-11,Jury Finds Toyota Not Liable in Death of California Driver,negative,-0.6797595620155334
+2013-10-12,"Though the number of deaths of children in car seats has declined, about three out of every four seats are still installed improperly, and it remains a vexing safety issue.",negative,-0.9426699280738831
+2013-10-12,"Strapped In, but Still at Risk",neutral,0.0068305134773254395
+2013-10-22,"Consumer Reports is less than impressed by the 2014 Lexus IS 250, and G.M.",negative,-0.8001872301101685
+2013-10-22,dealers complain about price increases for full-size pickups.,negative,-0.9531325697898865
+2013-10-22,Wheelies: The Nonluxury Lexus Edition,neutral,0.04274952411651611
+2013-10-26,Legal analysts said the decision could embolden plaintiffs in hundreds of other lawsuits that have been filed against the automaker.,negative,-0.5563936233520508
+2013-10-26,Toyota Agrees to Settlement in Fatal Acceleration Crash,positive,0.6308746933937073
+2013-10-28,Complicated electronics and more demanding crash tests seem to be the culprits in the slipping reliability scores of some Japanese models.,negative,-0.9499543905258179
+2013-10-28,Japanese Autos Lose Ground in Consumer Reports’ Reliability Ratings,negative,-0.9306820631027222
+2013-10-30,"Fiat chief pushes Jeep Cherokee production in China, and long-term car loans are at a record high.",positive,0.1351381242275238
+2013-10-30,Wheelies: The Chinese Cherokee Edition,neutral,0.05345994234085083
+2013-11-05,"Pickup truck sales slowed in October, and Carlos Ghosn gained more control of Renault-Nissan with the elimination of the chief operating officer position at Nissan.",negative,-0.9504696130752563
+2013-11-05,Wheelies: The Pickup Slowdown Edition,neutral,-0.09095132350921631
+2013-11-06,The company expects to make $16.9 billion in a comeback from tough years that included huge recalls and a devastating earthquake and tsunami.,positive,0.7934677600860596
+2013-11-06,"Profit Is Up 70% at Toyota,
+Close to Its Old Milestone",positive,0.9335178732872009
+2013-11-07,"Toyota offers a sneak preview of its hydrogen-powered FCV concept ahead of the Tokyo auto show, and the Dodge Challenger “shaker” hood makes a comeback.",neutral,0.3942960500717163
+2013-11-07,Wheelies: The Hydrogen Toyota Edition,neutral,0.061451055109500885
+2013-11-08,"The company also recalled 2014-model Jeep Grand Cherokees, and Toyota recalled some of its 2013-14 Tacoma pickup trucks.",negative,-0.9009479284286499
+2013-11-08,Chrysler Recalls 1.2 Million Ram Trucks,negative,-0.9335557818412781
+2013-11-09,"Chrysler is recalling 94,000 2014 Jeep Grand Cherokees because of electronic problems that could disable two safety systems.",negative,-0.9492706656455994
+2013-11-09,Chrysler and Toyota Announce Recalls,neutral,0.08481641858816147
+2013-11-12,"Nissan is ready to begin increasing Sentra production at its plant in Mexico, and Toyota announces a rally model of the Scion FR-S.",positive,0.8361671566963196
+2013-11-12,Wheelies: The Mexican Sentra Edition,neutral,0.0573020875453949
+2013-11-15,"In one of the most competitive marketing seasons of the year, retailers like Lexus, Sharper Image and Kohl’s are making changes to longstanding campaigns.",neutral,0.17179203033447266
+2013-11-15,"A Shorter Selling Season, So Marketers Take Risks",neutral,-0.10787518322467804
+2013-11-20,"The car, which Toyota calls the FCV concept car, was one of several fuel-cell vehicles expected to be introduced soon, including models from Honda and Hyundai.",neutral,0.21775613725185394
+2013-11-20,Toyota Shows Off Fuel-Cell Automobile,neutral,0.09675516188144684
+2013-11-22,"Nearly 80,000 Kia minivans will be recalled for a potential steering system problem; Toyota and Porsche issue recalls for electrical problems.",negative,-0.9523358345031738
+2013-11-22,"Kia, Toyota and Porsche Issue Recalls",neutral,-0.11224567890167236
+2013-11-22,"As more automakers get into the plug-in hybrid game, each one has a different approach.",neutral,0.003399346023797989
+2013-11-22,Audi’s offering works well and looks good.,positive,0.891239583492279
+2013-11-22,A Short Drive in the 2015 Audi A3 E-tron,neutral,0.04199068620800972
+2013-11-26,"Automakers and dealers are turning to social networks to develop better ways to attract younger, first-time car buyers.",positive,0.5050553679466248
+2013-11-26,Online Help to Pick a Car and Make the Down Payment,neutral,-0.16541343927383423
+2013-12-02,"Anthony Davidson, Sébastien Buemi and Stéphane Sarrazin pick up a W.E.C.",neutral,0.09776625037193298
+2013-12-02,win; Don Panoz sues Nissan over DeltaWing lookalike.,negative,-0.8633015751838684
+2013-12-02,Monday Motorsports: Toyota Finally Wins a World Endurance Championship Race,positive,0.6985790133476257
+2013-12-03,"The sales increase, after a slowing in September and October, was being closely watched as an indication of the recovery’s staying power.",positive,0.8689703941345215
+2013-12-03,"Out of the Doldrums, Automakers Post Strong U.S.",positive,0.9151065349578857
+2013-12-03,Sales,neutral,0.008077666163444519
+2013-12-06,"It’s big and thirsty, but for those who can afford it, the 2014 LX 570 combines real-world off-road capability with top-end opulence.",positive,0.7506497502326965
+2013-12-06,The 2014 Lexus LX 570: A Behemoth for a Modern Age,neutral,0.11039887368679047
+2013-12-14,Analysts said a recent legal setback pushed the carmaker to enter talks to resolve hundreds of cases over the sudden acceleration of its vehicles.,negative,-0.6540618538856506
+2013-12-14,Toyota Seeks a Settlement for Sudden Acceleration Cases,negative,-0.3108839690685272
+2013-12-31,Toyota and BMW announce a plan to collaborate on a sports-car platform; the Scotiabank Global Auto Report predicts record auto sales for 2014.,positive,0.7912492156028748
+2013-12-31,Wheelies: The Toyota-BMW Sports Car,neutral,-0.00454200804233551
+2014-01-02,"To reach its goal, Fiat must enter a partnership with an Asian automaker that would give it access to the Chinese car market, the analyst Massimo Vecchio said.",positive,0.8296511769294739
+2014-01-02,Fiat’s Challenge Is to Improve Performance in Italy and Asia,positive,0.9279507994651794
+2014-01-21,"Toyota’s president calls for an emotional Camry design; ADAC, the German car club, is embroiled in scandal over falsified contest results.",negative,-0.9201509356498718
+2014-01-21,Wheelies: The More Emotional Camry Edition,neutral,0.10294828563928604
+2014-01-24,A Super Bowl car ad stars include the Muppets for Toyota and James Franco for Ford; Justin Bieber gets a D.U.I.,neutral,-0.017590206116437912
+2014-01-24,after racing in a Lamborghini in Miami.,neutral,0.031850337982177734
+2014-01-24,Wheelies: The Muppet Toyota Edition,neutral,0.038848426192998886
+2014-01-27,"Manufacturers have produced vehicles more loaded with technology to draw in younger drivers, but those drivers say price and fuel economy remain their prime motivators.",neutral,0.31330010294914246
+2014-01-27,"Makers Pack New Cars With Technology, but Younger Buyers Shrug",neutral,-0.002294793725013733
+2014-01-30,"Chevrolet, Audi, Kia and Toyota are among repeat Super Bowl advertisers, but Jaguar will be a first timer.",neutral,0.0382903516292572
+2014-01-30,Super Bowl Will Again Be a Showcase for Automakers,positive,0.505940854549408
+2014-01-31,"Toyota has told its dealers to stop selling about 36,000 vehicles because a component on the heated seats does not comply with a federal safety standard for flame retardants.",negative,-0.9399786591529846
+2014-01-31,Some Toyota Model Sales Halted Over Seat Problem,negative,-0.9299271106719971
+2014-02-01,"Crash testing performed on small cars popular in India revealed sub-standard safety, and Volkswagen took second in global light vehicle sales in 2013.",positive,0.5622153878211975
+2014-02-01,Wheelies: The Small Car Smashup Edition,neutral,-0.12149396538734436
+2014-02-03,"General Motors and Ford lost ground in the month, while the Chrysler Group fared better, largely because of its truck division.",negative,-0.9420762658119202
+2014-02-03,Auto Sales for January Held Down by Harsh Winter Weather,negative,-0.9518275260925293
+2014-02-03,Toyota issued the most recalls of any carmaker in 2013; Chrysler ranked second.,neutral,0.00951288640499115
+2014-02-03,Safety Agency Says 22 Million Vehicles Recalled in 2013,negative,-0.9138367772102356
+2014-02-04,"For the second year in a row, Toyota led the nation with the most vehicles recalled: nearly 5.3 million in 2013.",positive,0.697994589805603
+2014-02-04,Toyota Is Reported With Most Recalls in 2013,negative,-0.8360382318496704
+2014-02-04,"After enduring huge recalls, a tsunami in Japan and a steep drop in sales because of slowing demand, Toyota said it was on pace to earn its biggest-ever annual profit in its fiscal year that ends in March.",positive,0.7312382459640503
+2014-02-04,"In Rapid Turnaround, Toyota Is on Track to Post Record Earnings",positive,0.9179971814155579
+2014-02-04,The automaker found that a Chinese parts supplier used counterfeit material in an accelerator pedal assembly that had already prompted a recall.,negative,-0.9378780722618103
+2014-02-04,Aston Martin Starts Recall Anew After Finding Counterfeit Material in Repair Pedal Assembly,negative,-0.8582497835159302
+2014-02-07,"Subaru, Kia, BMW and Nissan were among the automakers to unveil production vehicles and concepts at this year’s show.",neutral,0.11400488018989563
+2014-02-07,Highlights From the Chicago Auto Show,neutral,0.03828537464141846
+2014-02-07,"With demand overtaking supply, Mercedes-Benz is rescinding incentives and raising prices; Renault introduces a tiny, drone-equipped off-road car.",positive,0.5858138203620911
+2014-02-07,Wheelies: The Carrot and Stick Edition,neutral,0.04158545285463333
+2014-02-10,"In one case, Toyota is nearing a deal with the Justice Department to settle a criminal investigation over the way the automaker disclosed complaints stemming from the sudden acceleration of its vehicles, according to two people with knowledge of the talks.",negative,-0.6380351185798645
+2014-02-10,Toyota in Talks on Final Settlements Over Car Recalls,neutral,-0.061195701360702515
+2014-02-12,The Japanese carmaker said it was recalling all 1.9 million latest-generation Prius cars sold worldwide because of a defect in the vehicle’s hybrid system.,negative,-0.952684223651886
+2014-02-12,Toyota Recalls Newest Priuses Over Software,negative,-0.5111592411994934
+2014-02-12,"In its annual study, J.D.",neutral,0.041134364902973175
+2014-02-12,Power found that engine and transmission problems topped the list of reliability concerns.,negative,-0.7802150845527649
+2014-02-12,Vehicle Dependability Declines Significantly in J.D.,negative,-0.9598929286003113
+2014-02-12,Power Study,neutral,0.05664291977882385
+2014-02-14,Chrysler will no longer publish North American vehicle production reports; Ford’s aluminum F-150 sparks a run on the aluminum market.,negative,-0.9188905954360962
+2014-02-14,Wheelies: The Global Pentastar Edition,neutral,0.0798216313123703
+2014-02-14,"A part from a supplier in Ohio failed, according to complaints, leading the automaker to switch to a Japanese part and issue a recall.",negative,-0.9507072567939758
+2014-02-14,"Toyota Recalls 261,000 Trucks and S.U.V.’s for Traction Control Malfunction",negative,-0.9588537216186523
+2014-02-20,General Motors makes moves to produce an aluminum-body pickup truck by 2018; Toyota tests a wireless E.V.,neutral,0.2760397791862488
+2014-02-20,charging system.,neutral,0.024825898930430412
+2014-02-20,Wheelies: The Aluminum Bandwagon Edition,neutral,0.013680141419172287
+2014-02-21,The Homeland Security Department killed a plan to access commercial databases to help federal law enforcement officials track license plates.,neutral,0.10994280129671097
+2014-02-21,Wheelies: The Big Brother Is Not Watching Edition,neutral,-0.20236065983772278
+2014-02-27,Ford celebrates the 80th anniversary of the Australian Ute; Toyota names design chief to run the Lexus division.,neutral,0.29751747846603394
+2014-02-27,Wheelies: The Happy Birthday to Ute Edition,neutral,0.08404271304607391
+2014-03-03,G.M.,neutral,0.048085395246744156
+2014-03-03,"has been sued, and now faces an investigation by the safety agency and the possibility of a criminal investigation, similar to the criminal inquiry Toyota is facing after recalls over the unintended acceleration of its vehicles.",negative,-0.8821164965629578
+2014-03-03,"In General Motors Recalls, Inaction and Trail of Fatal Crashes",negative,-0.7476458549499512
+2014-03-03,"Sales figures for some trucks remained strong, but G.M., Ford, Toyota and Volkswagen all said severe winter weather had taken a toll on American sales of new cars.",negative,-0.9023784399032593
+2014-03-03,Carmakers Say Sales Were Sluggish in Chilly February,negative,-0.9386210441589355
+2014-03-07,Ford rewards its chief executive’s 2013 performance with $13.8 million in stock; Miami investors buy the Nürburgring for $90 million.,positive,0.7943642735481262
+2014-03-07,Wheelies: The Mulally’s Millions Edition,neutral,0.05187246948480606
+2014-03-11,Toyota says hybrids may soon account for 20 percent of its global sales; Honda announces the Acura brand’s realignment into a separate division.,neutral,0.19037845730781555
+2014-03-11,Wheelies: The More Hybrids Edition,neutral,0.08673737943172455
+2014-03-12,"Toyota and other major exporters increased base monthly pay, after pressure from unions, but also in line with the government’s economic growth plan.",positive,0.8704210519790649
+2014-03-12,"For First Time in Years, a Raise for Many Japanese Workers",positive,0.8717855215072632
+2014-03-17,"The company, in a wage dispute with workers, said employees had deliberately stopped the production line and threatened supervisors, affecting output for 25 days.",negative,-0.9278512001037598
+2014-03-17,Toyota Unit Shuts 2 Factories in India,negative,-0.9504510164260864
+2014-03-19,Toyota is poised to pay more than $1 billion to settle a criminal investigation into disclosures around the sudden acceleration of its vehicles.,negative,-0.35642170906066895
+2014-03-19,Toyota Expected to Settle Justice Dept.,negative,-0.5198023319244385
+2014-03-19,Investigation,neutral,0.03137484937906265
+2014-03-19,A deal with the Justice Department over a sudden-acceleration defect that has caused injuries and deaths included an unusual admission of wrongdoing.,negative,-0.6687214374542236
+2014-03-19,Toyota Is Fined $1.2 Billion for Concealing Safety Defects,negative,-0.9032734632492065
+2014-03-19,Attorney General Eric H. Holder Jr. announced that Toyota had reached a $1.2 billion deal with the Justice Department to settle a four-year criminal investigation.,positive,0.8271459341049194
+2014-03-19,Holder Discusses Toyota’s Settlement,neutral,0.026307839900255203
+2014-03-19,"The parallels between the handling of vehicle defects by Toyota and General Motors are striking, Peter J. Henning writes in the White Collar Watch column.",neutral,0.0532107949256897
+2014-03-19,Toyota Settlement Blazes Path for G.M.,positive,0.545434832572937
+2014-03-22,Notable quotes from business articles that appeared in The New York Times last week.,neutral,0.01611744984984398
+2014-03-22,"The Chatter for Sunday, March 23",neutral,0.02877073734998703
+2014-03-24,"A recent court ruling in a case involving Joseph P. Nacchio, the former chief executive of Qwest Communications, raises the question of how the tax code may be seen as indirectly subsidizing wrongdoing, Peter J. Henning writes in White Collar Watch.",neutral,-0.37290969491004944
+2014-03-24,Deducting the Costs of a Government Settlement,neutral,-0.015637509524822235
+2014-03-25,"Honda and other automakers are using car batteries to store solar electricity to use not just in cars, but in homes, too.",neutral,0.04028550535440445
+2014-03-25,Car Companies Take Expertise in Battery Power Beyond the Garage,neutral,0.046498529613018036
+2014-03-25,"Legislation to require more information from automakers that could help recognize safety defects was introduced on Tuesday, after the widespread recalls of General Motors and Toyota vehicles.",positive,0.5033106803894043
+2014-03-25,Spurred by G.M.,positive,0.6281253099441528
+2014-03-25,"Recall, Senators Push for Better Auto Safety Reporting",neutral,0.18172210454940796
+2014-03-26,A police investigation finds that speed caused the deaths of Paul Walker and Roger Rodas; Toyota and Honda to introduce fuel-cell vehicles in 2015.,negative,-0.739934504032135
+2014-03-26,Wheelies: The Fast and Unfortunate Edition,neutral,-0.007129378616809845
+2014-03-27,Ford will chop up a Mustang convertible and put it on top of the Empire State Building; Toyota to begin stock buyback.,neutral,0.026994019746780396
+2014-03-27,Wheelies: The Empire State Mustang Edition,neutral,0.06550602614879608
+2014-03-28,"Electrical interference could damage the air bag control module, causing air bags and seatbelt tensioners to deploy inadvertently.",negative,-0.9426397085189819
+2014-03-28,Toyota Recalls Avalon Sedans for Air Bag Problem,negative,-0.9231346249580383
+2014-03-31,Questions are once again being raised about “an all-too-cozy relationship” between former National Highway Traffic Safety Administration officials and the automobile industry.,neutral,-0.3235008716583252
+2014-03-31,Carmakers’ Close Ties to Regulator Scrutinized,neutral,-0.15727771818637848
+2014-04-01,The vote could create Toyota’s only unionized shop in the United States and Canada.,positive,0.4287382960319519
+2014-04-01,"3 Toyota Plants in Ontario Set to Vote in a Union Drive, as the Company Resists",negative,-0.8886030912399292
+2014-04-01,Most of the market had significant growth after a harsh winter that kept consumers away from dealerships.,positive,0.8654135465621948
+2014-04-01,"After Rough Winter, Auto Sales Jumped in March",positive,0.8703740835189819
+2014-04-02,"Every April 1, automakers and automotive publications crank out a few silly jokes and pranks in celebration of the world’s strangest celebration.",neutral,-0.21236424148082733
+2014-04-02,A Few Auto Industry April Fools’ Day Pranks,negative,-0.5577442049980164
+2014-04-08,Hooligans tip Smart cars around San Francisco; some Toyota factories replace robots with people.,negative,-0.6723438501358032
+2014-04-08,Wheelies: The Car Tipping Edition,neutral,0.05794084817171097
+2014-04-09,The automaker said on Wednesday that the recall was for problems with air bags that may not deploy or seats that could move in a crash.,negative,-0.9239224195480347
+2014-04-09,Toyota to Recall 6.4 Million Vehicles,negative,-0.9410043954849243
+2014-04-10,Automakers have a long history of trying to maintain their reputations in the face of major recalls.,neutral,0.34586215019226074
+2014-04-10,Where Does the G.M.,neutral,-0.03866766020655632
+2014-04-10,Recall Rank?,neutral,-0.11655829101800919
+2014-04-11,"Jeep introduces six concepts for the Easter Jeep Safari in Moab, Utah; Toyota unveils more efficient gasoline engines.",positive,0.689297616481781
+2014-04-11,Wheelies: The Moab Jeeps Edition,neutral,0.05978148430585861
+2014-04-15,"On April 15, as individual taxpayers file, taking a look at a few opportunities for corporations that they may find slightly irksome.",neutral,-0.007719110697507858
+2014-04-15,Looking at Some Corporate Tax Loopholes Ordinary Citizens May Envy,neutral,-0.06654506921768188
+2014-04-21,Lewis Hamilton took his third Formula One victory this season in a race with an unusual ending; Toyota took the top two slots in the Silverstone endurance race.,neutral,0.2488032579421997
+2014-04-21,"Monday Motorsports: Hamilton Picks Up a Prize, Prematurely",neutral,0.12337306141853333
+2014-04-22,"Volkswagen showed off its redesigned Touareg S.U.V., and Japanese automakers made a push into the Chinese market.",positive,0.6698014140129089
+2014-04-22,Auto China Opens to the Public in Beijing,neutral,0.05852583795785904
+2014-04-29,"The Japanese automaker said the move to a new North American headquarters near Dallas in about three years would affect employees in California, Kentucky and New York.",negative,-0.9434468746185303
+2014-04-29,"Toyota Will Shift 4,000 to New Offices in Texas",negative,-0.6340904831886292
+2014-05-09,"Ford will raffle a one-of-a-kind Mustang GT convertible, to benefit multiple sclerosis research; Subaru anticipates 20 percent sales growth by 2020.",positive,0.7742281556129456
+2014-05-09,Wheelies: The Philanthropic Pony Car Edition,neutral,0.05460190773010254
+2014-05-13,"The electric RAV4 has sold poorly, despite low-cost lease and loan offers Toyota introduced last year to promote sales.",negative,-0.9572393298149109
+2014-05-13,"Seeing Future in Fuel Cells, Toyota Ends Tesla Deal",neutral,-0.15034444630146027
+2014-05-21,Ford announces pricing for the 2015 Mustang; Dodge introduces a 600-plus-horsepower Challenger SRT variant.,neutral,0.2330055832862854
+2014-05-21,Wheelies: The Pony Pricing Edition,neutral,0.05802231281995773
+2014-05-22,"Toyota recalls 466,000 vehicles worldwide for problems with brakes and spare tires; G.M.",negative,-0.9607818722724915
+2014-05-22,starts a pilot program to promote seatbelt use.,positive,0.5711561441421509
+2014-05-22,Wheelies: The Toyota Trouble Edition,neutral,0.04429805278778076
+2014-05-23,General Motors to offer stop-start technology in 2015 Chevrolet Impala; Congress pushes to streamline federal paperwork for dealerships.,positive,0.6360317468643188
+2014-05-23,Wheelies: The G.M.,neutral,0.03810720145702362
+2014-05-23,Trucks Hiccup Edition,negative,-0.4455161690711975
+2014-06-03,Ford reveals its new Troller T4 S.U.V.,neutral,0.3128708302974701
+2014-06-03,for Brazil; Volkswagen is likely to triple its S.U.V.,positive,0.822233259677887
+2014-06-03,lineup as it pursues global sales dominance.,positive,0.5281491279602051
+2014-06-03,Wheelies: The Trolling for Trails Edition,neutral,0.05636731907725334
+2014-06-03,"Analysts said pent-up demand, good weather and low interest rates spurred sales.",positive,0.8426923155784607
+2014-06-03,"General Motors, Chrysler, Nissan and Toyota all reported double-digit increases.",positive,0.8407080173492432
+2014-06-03,"Car Buyers Crowded Showrooms in May, Unfazed by Surge in Recalls",negative,-0.102995365858078
+2014-06-11,The action could also affect millions of vehicles already recalled from other manufacturers.,negative,-0.9214884638786316
+2014-06-11,Toyota Orders Big Recall Tied to an Air Bag Part,neutral,-0.24908295273780823
+2014-06-11,Porsche celebrates its return to Le Mans with a Martini-liveried special edition 911; Fiat announces 86 Alfa Romeo dealerships for North America.,positive,0.48029452562332153
+2014-06-11,Wheelies: The Porsche Martini Edition,neutral,0.052907004952430725
+2014-06-13,"Attendance is expected to hit 300,000 for the 82nd running of the race on Saturday in France.",neutral,0.14137229323387146
+2014-06-13,24-Hour Race Could Lure Huge Crowd at Le Mans,neutral,0.33787649869918823
+2014-06-16,Audi survived mechanical problems and a strong performance from Toyota for the victory; Marc Marquez won his seventh consecutive MotoGP race.,positive,0.7913469076156616
+2014-06-16,Monday Motorsports: Audi Works Hard for 13th Le Mans Win,neutral,-0.009013399481773376
+2014-06-18,"In a survey of more than 86,000 new vehicle owners, J.D.",neutral,0.17690682411193848
+2014-06-18,Power found the number of problems this year to be higher.,positive,0.7093944549560547
+2014-06-18,Porsche Tops J.D.,negative,-0.5645913481712341
+2014-06-18,Power Initial Quality Study for Second Consecutive Year,neutral,0.25892603397369385
+2014-06-19,"Despite being under fire over its failure to recall defective cars, General Motors had a strong showing in J.D.",positive,0.8224419355392456
+2014-06-19,Power’s annual quality survey of new vehicles.,neutral,0.05813339352607727
+2014-06-19,General Motors Receives Welcome News in Automotive Survey,positive,0.5847434997558594
+2014-06-23,The expanded recall covers a total of almost three million cars worldwide whose air bags could rupture and injure passengers.,negative,-0.8911235928535461
+2014-06-23,"Now the Air Bags Are Faulty, Too",negative,-0.8226029872894287
+2014-06-25,Toyota unveils the body styling and pricing in Japan for its hydrogen fuel-cell car; G.M.,neutral,0.082191601395607
+2014-06-25,to install solar energy arrays at Michigan plants.,neutral,0.04224761575460434
+2014-06-25,Wheelies: The Hydrogen Toyota Edition,neutral,0.061451055109500885
+2014-07-01,Honda puts its first commercial jet into flight; N.H.T.S.A.,neutral,0.3349524736404419
+2014-07-01,opens an investigation of 2012-14 Nissan Versas for a problem with a trim panel that hinders pedal operation.,negative,-0.9203675985336304
+2014-07-01,Wheelies: The Flying Honda Edition,neutral,0.06877118349075317
+2014-07-08,"Subaru says it will build a next-generation BRZ sports coupe; Manchester United, a British soccer team, will wear Chevrolet bow ties on its jerseys.",neutral,0.2003849893808365
+2014-07-08,Wheelies: The Next-Generation Toyobaru Edition,neutral,0.05816904455423355
+2014-07-11,Hagerty’s offers year-of-manufacture gas prices to classic-car owners Friday morning; top Toyota designer moves to Yamaha.,neutral,0.0985359251499176
+2014-07-11,Wheelies: The Classic Gas Prices Edition,neutral,0.0448053777217865
+2014-07-16,BMW says it may share its plug-in hybrid battery technology with other automakers; Nissan to drop Cube and Murano convertible for 2015.,neutral,0.17381516098976135
+2014-07-16,Wheelies: The Green Growth Edition,neutral,0.10717754065990448
+2014-07-17,Ford announces specifications for the 2015 Mustang; Tesla announces the 2017 Model III.,neutral,0.048188865184783936
+2014-07-17,Wheelies: The Mustang Numbers Edition,neutral,0.04060879349708557
+2014-07-22,"Nick Scheele, a former Ford president, dies at 70; Cadillac may offer a high-performance Vsport version of its Escalade S.U.V.",neutral,-0.00640532374382019
+2014-07-22,"Wheelies: The Farewell, Mr. Scheele Edition",neutral,0.04824204742908478
+2014-07-24,Toyota announces details and pricing for its all-new 2015 Yaris; G.M.,neutral,0.16860103607177734
+2014-07-24,may invest $800 million into facilities in Michigan.,neutral,0.0648311972618103
+2014-07-24,Wheelies: The New-Look Yaris Edition,neutral,0.07671437412500381
+2014-07-30,"The aluminum-bodied 2015 F-150 will cost more than the 2014 model; Suzuki is recalling 26,000 2004-6 Verona sedans.",neutral,0.1651814877986908
+2014-07-30,Wheelies: The Lighter (but Not in the Wallet) Edition,neutral,0.023124422878026962
+2014-07-30,"The Mini Cooper Countryman pulled in top ratings; the Fiat 500L, Mazda 5, Nissan Juke and Nissan Leaf received low scores.",negative,-0.49584054946899414
+2014-07-30,Insurance Institute for Highway Safety Crash Tests More Small Cars,neutral,-0.2450556755065918
+2014-07-31,G.M.,neutral,0.048085395246744156
+2014-07-31,"says that it removes parts when calculating pickup truck payload capacity; Chrysler recalls 30,000 Fiat 500Ls.",negative,-0.8435808420181274
+2014-07-31,Wheelies: The Payload Policy Edition,neutral,0.040864430367946625
+2014-08-01,"Nissan releases video ads starring Bret Michaels, the frontman from Poison; Fiat-Chrysler merger is approved by shareholders.",neutral,0.3879539966583252
+2014-08-01,Wheelies: The Pick Your Poison Edition,neutral,0.04831207916140556
+2014-08-05,"Subaru recalls 5,000 more vehicles with Takata-built air bags; Toyota retires its historic “andon cord” quality control device.",negative,-0.898440420627594
+2014-08-05,"Wheelies: The Takata, Continued Edition",neutral,0.07217148691415787
+2014-08-13,Bentley to introduce the Continental GT3-R in the United States at Pebble Beach; Truecar stock price soars.,positive,0.5686379671096802
+2014-08-13,Wheelies: The 99 Continental GT3-Rs Edition,neutral,0.0012295488268136978
+2014-08-14,Pope Francis greets people in South Korea from the back seat of a Kia Soul; Ford announces a seamless sliding rear window for the new F-150.,neutral,0.4361385107040405
+2014-08-14,Wheelies: The Papal Soul Edition,neutral,0.06044882908463478
+2014-08-16,"Automakers introduced a variety of interesting high-end cars: some old and some new, but all exquisite.",neutral,0.08726638555526733
+2014-08-16,"At Pebble Beach, Judged Show Cars Aren’t the Only Stars",neutral,-0.03603130578994751
+2014-08-27,"Dollie Cole, outspoken widow of a former G.M.",neutral,-0.3866797983646393
+2014-08-27,"chief, dies; former Porsche executives are ordered to stand trial for market manipulation.",negative,-0.7685350775718689
+2014-08-27,"Wheelies: The Goodbye, Dollie!",neutral,0.012709252536296844
+2014-08-27,Edition,neutral,0.020666293799877167
+2014-09-03,"General Motors’ sales streak came to an end with a 1 percent decline in August, but Chrysler sales jumped 20 percent; Ford sales were flat.",negative,-0.9248350858688354
+2014-09-03,August Sales Fall for G.M.,negative,-0.9636402130126953
+2014-09-03,as Trucks Lift Chrysler,neutral,-0.08296853303909302
+2014-09-04,G.M.,neutral,0.048085395246744156
+2014-09-04,says its Chevrolet Colorado and GMC Canyon midsize pickups will get 26 m.p.g.,neutral,0.1767253577709198
+2014-09-04,"on the highway; the price of the 2015 Toyota Sienna is $1,680 more than the 2014 model.",neutral,0.13716517388820648
+2014-09-04,Wheelies: The Thrifty G.M.,neutral,0.03899594396352768
+2014-09-04,Pickups Edition,neutral,0.05001124367117882
+2014-09-10,Volkswagen closes its plant in Russia for 10 days as sales there flag; BMW announces pricing for its 2 Series convertible.,negative,-0.8603264689445496
+2014-09-10,Wheelies: The Russian Shutdown Edition,neutral,-0.21627971529960632
+2014-09-11,The side curtain air bags in CrewMax and Double Cab trucks might not deploy properly because of a panel that was installed incorrectly.,negative,-0.9555186629295349
+2014-09-11,"Toyota Recalls 130,000 Tundra Pickups for Air Bag Defect",negative,-0.9184806942939758
+2014-09-11,Chrysler says it will introduce the Jeep Renegade this month; Sergio Marchionne announces plans to expand Ferrari production.,positive,0.8381931781768799
+2014-09-11,Wheelies: The Renegade Ready Edition,neutral,0.07903832197189331
+2014-09-15,"An investigation by The New York Times has found that the National Highway Traffic Safety Administration frequently has been slow to identify problems, tentative to act and reluctant to employ its full legal powers against companies.",negative,-0.8989624381065369
+2014-09-15,Regulator Slow to Respond to Deadly Vehicle Defects,negative,-0.6804930567741394
+2014-09-18,A new Porsche Museum exhibit displays concept cars and prototypes over the decades; the Toyota Tundra will go all-V8 for 2015.,neutral,0.10346043854951859
+2014-09-18,Wheelies: The Top Secret Edition,neutral,0.039809223264455795
+2014-09-23,General Motors and American Honda said they were cracking down on vendors that failed to meet company standards; Toyota announces plans to build aluminum hoods for the Camry.,negative,-0.6910185217857361
+2014-09-23,Wheelies: The Quality Control Edition,neutral,0.03872785344719887
+2014-09-25,Ford unveils a police concept version of its Transit van; North American Car and Truck of the Year semifinalists are announced.,positive,0.5714400410652161
+2014-09-25,Wheelies: The Police Wagon Edition,neutral,0.02219586819410324
+2014-09-29,The 2005-11 model years may have a corrosion problem that could lead to fuel leaks.,negative,-0.922069787979126
+2014-09-29,"Harley-Davidson, Yamaha and Volkswagen also issued recalls.",negative,-0.8091062903404236
+2014-09-29,"Toyota Recalls 790,000 Tacoma Pickups",negative,-0.930466890335083
+2014-09-30,Chrysler says it will double production of the Ram 1500 EcoDiesel pickup; Cadillac’s chief says production may decline to combat swollen inventory.,negative,-0.6658562421798706
+2014-09-30,Wheelies: The Diesel Ram Edition,neutral,0.03360205143690109
+2014-10-11,A Toyota affiliate lauds two of the three Japanese scientists who won the Nobel Prize for Physics; Cadillac’s chief talks about the brand’s product blitz.,neutral,-0.1431656777858734
+2014-10-11,Wheelies: The Blue Light Special Edition,neutral,0.06750234216451645
+2014-10-16,"The automaker says an improperly prepared gasket surface could cause fuel leaks and, potentially, fires.",negative,-0.9362792372703552
+2014-10-16,"Lexus Recalls 423,000 Cars in the U.S.",negative,-0.9527803063392639
+2014-10-17,Pope Francis allows the Porsche Travel Club to host a private event in the Sistine Chapel; LeBron James becomes a spokesman for the Kia K900 flagship sedan.,neutral,0.1439330130815506
+2014-10-17,Wheelies: The Holy Porsche Party Edition,neutral,0.06017249450087547
+2014-10-20,Brad Keselowski was among the eight who will compete in the next round of Nascar’s season-ending playoff; Valentino Rossi won the MotoGP race in Australia.,neutral,0.05774340033531189
+2014-10-20,Monday Motorsports: Keselowski Wins at Talladega,neutral,-0.20318524539470673
+2014-10-21,"A National Highway Traffic Safety Administration site that allows drivers to look up a car by vehicle identification number was not responding, and calls were put on hold.",negative,-0.8390174508094788
+2014-10-21,Few Answers After an Alert on Takata Airbags,negative,-0.3919389843940735
+2014-10-23,The E.P.A.,neutral,0.016611119732260704
+2014-10-23,orders BMW to reduce fuel economy ratings on four Mini models; Scion announces a new concept car for the Los Angeles auto show.,negative,-0.8891721367835999
+2014-10-23,Wheelies: The Mini Adjustment Edition,neutral,0.04693678021430969
+2014-10-25,"Rubicon Global, a waste consultant, finds a lucrative niche in helping its business clients cut their hauling costs, and to recycle whatever they can.",neutral,0.2194666564464569
+2014-10-25,Dividing and Conquering the Trash,neutral,0.053187333047389984
+2014-10-29,Ford announces technology that allows police departments to monitor the driving behavior of their officers; Twitter ads account for $716 million in auto sales.,positive,0.7125268578529358
+2014-10-29,Wheelies: The Watching the Watchers Edition,neutral,0.03628716990351677
+2014-11-04,"Ford issues five recalls, Nissan issues two and Toyota posts one for various defects.",negative,-0.6854507923126221
+2014-11-04,"Ford, Nissan and Toyota Issue Recalls",neutral,-0.02753172256052494
+2014-11-04,"Event organizers expect 2,500 automotive aftermarket equipment manufacturers to present products to 60,000 wholesale buyers.",neutral,0.04782445356249809
+2014-11-04,2014 SEMA Show Opens in Las Vegas,neutral,0.11055462062358856
+2014-11-05,"The Japanese automaker, helped by rising sales and a weak yen, is forecasting a record profit for the year.",positive,0.6549082398414612
+2014-11-05,Toyota’s Quarterly Profit Jumps,neutral,-0.1527264267206192
+2014-11-06,"With displays from most major automakers and thousands of aftermarket suppliers, SEMA serves as a bellwether of customization trends.",neutral,0.18088552355766296
+2014-11-06,2014 SEMA Show Tracks Industry Trends,neutral,-0.0012451447546482086
+2014-11-11,Honda releases an interactive ad for the sporty Civic R; Ford begins production of the new F-150 pickup truck.,neutral,0.1262291818857193
+2014-11-11,Wheelies: The Duality of Honda Edition,neutral,0.04211689531803131
+2014-11-17,VW is recalling some 2015 Jettas and Passats for a seat defect; N.H.T.S.A.,neutral,0.013626618310809135
+2014-11-17,is investigating Honda and Infiniti for steering problems.,negative,-0.9203583598136902
+2014-11-17,"Volkswagen Recalls 400 Cars, and N.H.T.S.A.",negative,-0.9126147627830505
+2014-11-17,Investigates Honda and Infiniti,neutral,-0.012400966137647629
+2014-11-18,"Ford recalls 65,000 Fusion sedans for a software problem that can cause roll-aways; Consumer Reports issues a warning about counterfeit Chinese tires.",negative,-0.9531635046005249
+2014-11-18,Wheelies: The Runaway Fusion Edition,neutral,0.022136058658361435
+2014-11-20,The company has had a less than fruitful relationship with convertibles in the past.,neutral,0.05499175190925598
+2014-11-20,"The Lexus LF-C2 Concept: Topless, Not Convertible",neutral,-0.0003883354365825653
+2014-11-27,"The Japanese automaker and its minicar subsidiary, Daihatsu, said they were recalling a total of about 85,000 vehicles, all outside the United States.",neutral,-0.030061356723308563
+2014-11-27,Toyota Widens Recall of Cars With Takata Airbags,positive,0.3778543472290039
+2014-11-28,"An order from the Transportation Ministry on driver’s-side airbags would lead to the recall of an additional 200,000 vehicles in Japan, the transportation minister said.",positive,0.0322130024433136
+2014-11-28,Japan to Ask Automakers to Recall Vehicles With Faulty Takata Airbags,negative,-0.8156238198280334
+2014-12-16,A Times examination of actions by major United States automakers found different standards for recalls of substantially similar vehicles.,neutral,-0.20061372220516205
+2014-12-16,Recalls of Cars Abroad Prompt No Urgency in U.S.,negative,-0.5465691089630127
+2014-12-17,"Burt Reynolds’s 1977 Pontiac Trans Am sells for $450,000; a report says Toyota officials called for a last-minute redesign of the new Prius.",neutral,-0.20761287212371826
+2014-12-17,Wheelies: The Bandit Gone Edition,neutral,-0.0048696547746658325
+2015-01-05,"Fiat Chrysler and General Motors reported strong gains for December and for 2014, but Ford’s sales were weak.",negative,-0.9621909856796265
+2015-01-05,"2014 Auto Sales Jump in U.S., Even With Recalls",positive,0.7185485363006592
+2015-01-13,"Japanese pickup makers are seeking a larger market share in the growing American truck market, with redesigned models and more powerful engines.",positive,0.8292083144187927
+2015-01-13,"As Truck Sales Surge in U.S., Toyota and Nissan Unveil Upgrades",positive,0.5813497304916382
+2015-01-19,"Many cars in this segment now offer luxuries like keyless ignition, rear-view cameras and heated leather seats.",neutral,0.09042824804782867
+2015-01-19,Don’t look for them in the Yaris.,neutral,-0.15715079009532928
+2015-01-19,Video Review: The 2015 Yaris Is Toyota’s Bare-Bones Budget Car,neutral,0.04395173490047455
+2015-01-28,"The carmaker’s actions, which cover 640,000 vehicles, came on the same day as smaller recalls by Toyota and Ford.",negative,-0.6415898203849792
+2015-01-28,Faulty Hood and Fire Hazard Lead to Twin Recalls for Nissan,negative,-0.9507119059562683
+2015-01-31,"Toyota, Chrysler and Honda previously recalled the 2.1 million cars, but the fix administered was not effective, United States officials said.",negative,-0.8841214179992676
+2015-01-31,"Cars With Faulty Airbags Are Recalled Second Time, but Fix May Take a Year",negative,-0.867597758769989
+2015-02-02,"Chrysler will recall more than 228,000 vehicles because their airbags could unexpectedly inflate without a crash.",negative,-0.9413012862205505
+2015-02-02,Jeep Cherokees to Be Recalled to Upgrade Airbag Software,negative,-0.7330614328384399
+2015-02-03,The broad gains — which included double-digit increases by several automakers — came in a month that is traditionally slow for American dealerships.,positive,0.8922621011734009
+2015-02-03,"Auto Sales Stayed Strong in January, Bucking Trend for Month",positive,0.8958953619003296
+2015-02-04,"The carmaker is closing in on its most profitable year ever, with earnings in the first nine months up 13 percent from the same period last year.",positive,0.9301776885986328
+2015-02-04,Toyota Profit Gets Lift From U.S. Market and Favorable Exchange Rates,positive,0.8494817614555359
+2015-03-03,"Ford fared poorest among the major automakers, with most of the company’s lineup taking a hit.",negative,-0.9557023644447327
+2015-03-03,"The Fiesta, Focus and Taurus all fell by double digits.",negative,-0.9558826088905334
+2015-03-03,Harsh Winter Weather Bit Into U.S. Auto Sales in February,negative,-0.9572279453277588
+2015-03-04,"A Frenchman is named to the highest rank for a non-Japanese in the automaker’s history, and the company appointed its first woman and first African-American as senior executives.",positive,0.4994388222694397
+2015-03-04,More Foreigners Move to Top Ranks at Toyota,neutral,0.3685539662837982
+2015-03-18,Pay increases at companies like Toyota and Panasonic are modest but represent a step forward for the prime minister’s economic revival program.,positive,0.8207592368125916
+2015-03-18,Japan’s Businesses Respond to Abe’s Push for Higher Wages,positive,0.7504364848136902
+2015-04-01,"Ford, General Motors and Honda, among others, ended March in losing territory.",negative,-0.9447179436683655
+2015-04-01,Fiat Chrysler and Toyota posted modest gains.,positive,0.5011078119277954
+2015-04-01,Auto Sales Slow After Months of Healthy Growth,negative,-0.9573712944984436
+2015-04-16,"While hydrogen-powered cars failed to gain traction in the past, they now are supported by increasingly strict California mandates.",neutral,0.3900086581707001
+2015-04-16,Hydrogen Fuel Cell Cars Return for Another Run,neutral,0.22962552309036255
+2015-04-22,"When it comes to hybrids, Toyota owns the market with the Prius, but the Volkswagen is an alternative for those looking for more performance.",neutral,0.050664812326431274
+2015-04-22,Video Review: The VW Jetta Hybrid Offers Fuel-Efficient Fun,positive,0.6418671011924744
+2015-04-29,Earnings at the second-largest automaker in the world after Toyota remained dependent on the high-end Audi and Porsche brands.,negative,-0.9452608823776245
+2015-04-29,Volkswagen’s Net Profit Rises 19% Amid Recovery in Western Europe’s Car Market,positive,0.8893262147903442
+2015-05-13,The recalls included more recent models than the companies had previously said needed fixing.,neutral,-0.2728330194950104
+2015-05-13,Toyota and Nissan Recall 6.5 Million More Vehicles Over Takata Airbags,negative,-0.9398993849754333
+2015-05-14,"The Japanese carmaker’s move, which it said was “precautionary,” comes a day after Toyota and Nissan recalled millions of cars over inflater issues.",negative,-0.8772799968719482
+2015-05-14,Honda Recalls Nearly 5 Million Vehicles With Takata Airbags,negative,-0.45662572979927063
+2015-05-22,"As the investigation draws to a close, prosecutors are said to be negotiating a penalty that is likely to eclipse the $1.2 billion paid last year by Toyota.",negative,-0.8763707280158997
+2015-05-22,G.M.,neutral,0.048085395246744156
+2015-05-22,Inquiry Said to Find Criminal Wrongdoing,negative,-0.6424773335456848
+2015-05-25,"American airport officials know the ride-hailing phenomenon will not recede, and they are rewriting regulations to welcome all manner of cars.",neutral,0.13474231958389282
+2015-05-25,Uber Closes In on Its Last Frontier: Airports,neutral,-0.010963410139083862
+2015-06-18,"While the auto industry over all improved by 3 percent in initial quality, South Korean automakers improved by 11 percent, the J.D.",positive,0.9291181564331055
+2015-06-18,Power study showed.,neutral,0.0765773206949234
+2015-06-18,Kia and Hyundai Show Improvement in J.D.,positive,0.9136152267456055
+2015-06-18,Power Quality Study,neutral,0.07254645228385925
+2015-06-19,"After Julie Hamp was arrested on charges of illegally bringing a restricted painkiller into Japan, the company is defending its hiring initiative.",negative,-0.7557812333106995
+2015-06-19,Toyota Defends Diversity Hiring After American Is Arrested,negative,-0.7121546268463135
+2015-07-01,Julie Hamp had been only recently promoted as part of an effort to introduce more diversity into the Japanese automaker’s executive suite.,neutral,0.3186061680316925
+2015-07-01,Jailed American Executive Resigns From Toyota,negative,-0.7973772883415222
+2015-07-02,"Mercedes-Benz, BMW and Audi are winning with critically acclaimed models, technical innovation and sales — and their ambitions are only growing.",positive,0.8047036528587341
+2015-07-02,German Luxury Car Brands Dominate and Look to Extend Their Lead,positive,0.8003093004226685
+2015-08-26,"With an upgraded structure, a reduction in noise and more, the 2016 model is a far better truck than the one it replaces.",positive,0.9131632447242737
+2015-08-26,"Video Review: Toyota Tacoma Adds Machismo, but Retains Its Reliability",positive,0.27568167448043823
+2015-09-04,The carmaker will collaborate with Stanford and M.I.T.,neutral,0.4111815094947815
+2015-09-04,to focus on using advances in artificial intelligence technologies to make humans better drivers as opposed to developing self-driving vehicles.,neutral,0.10928617417812347
+2015-09-04,Toyota to Finance $50 Million ‘Intelligent’ Car Project,neutral,0.12108591198921204
+2015-09-06,"This week, China will report on its economy, Puerto Rico may strike a deal to restructure its debt, and Stephen Colbert will start on CBS’s “The Late Show.”",neutral,0.0746040791273117
+2015-09-06,"Apple Unveils New Products, and Stephen Colbert Returns to Late Night",neutral,0.12642347812652588
+2015-09-10,"The new Toyota Prius is longer and sleeker than the current egg-shaped model, and it comes with striking new headlamps and a prominent rear spoiler.",positive,0.6057957410812378
+2015-09-10,Toyota Fashions a Bolder Image for the Practical Prius,positive,0.5188729763031006
+2015-09-22,"The midsize crossover category has gotten smaller with the discontinuation of the Honda Crosstour and Toyota Venza, but the new Edge remains a strong entry.",positive,0.8137402534484863
+2015-09-22,Video Review: The Ford Edge Adds a Touch of Luxury,positive,0.6741798520088196
+2015-09-26,Volkswagen’s unbridled ambition — aiming to triple sales in a decade and overtake top carmaker Toyota — is central to what is shaping up to be one of the great corporate scandals of the age.,neutral,-0.29747825860977173
+2015-09-26,As Volkswagen Pushed to Be No.,positive,0.5869773626327515
+2015-09-26,"1, Ambitions Fueled a Scandal",neutral,-0.12195155769586563
+2015-10-07,"With a performance by Selena Gomez on Monday, the morning show’s live-music feature will become the Citi Concert Series, ending Toyota’s sponsorship of the last 12 years.",neutral,0.10056298971176147
+2015-10-07,Citigroup to Become Sponsor of NBC ‘Today’ Show Concert Series,neutral,0.06152360141277313
+2015-10-07,"This sport utility vehicle has many advantages, including a third row, but at almost $50,000, it’s an expensive way to save gas.",neutral,0.10443122684955597
+2015-10-07,Video Review: Toyota Highlander Hybrid Offers Room and Fuel Economy,positive,0.7364097833633423
+2015-10-21,The recall is one of the largest single recalls initiated by the company and brings the number of vehicles affected by the problem to 14 million.,negative,-0.5903065800666809
+2015-10-21,Toyota to Recall 6.5 Million Vehicles to Fix Window Switches,negative,-0.9236769676208496
+2015-10-22,"The game, between the Buffalo Bills and Jacksonville Jaguars, will be streamed free globally on Sunday morning.",neutral,0.08391060680150986
+2015-10-22,Yahoo Sells Out Ad Space for Live-Stream of N.F.L.,neutral,0.0050042662769556046
+2015-10-22,Game,neutral,0.03515148162841797
+2015-10-22,"This slow-motion footage, courtesy of the National Highway Traffic Safety Administration, shows a test of a Takata airbag.",neutral,0.029732614755630493
+2015-10-22,"During the test, the airbag inflater ruptures, sending metal fragments flying.",negative,-0.9066538214683533
+2015-10-22,Takata Airbag Malfunction,negative,-0.8315699100494385
+2015-10-26,"Toyota published figures on Monday that showed it selling more vehicles than Volkswagen in the first nine months of 2015, retaking its position as the world’s biggest automaker.",positive,0.8546662926673889
+2015-10-26,"Even Before Diesel Scandal Bites, VW Loses Its Sales Crown",negative,-0.9560204744338989
+2015-10-29,"Technology is helping service departments move into the connected age, employing tools that increase efficiencies and help the consumer feel better about the process.",positive,0.7673453688621521
+2015-10-29,"Car Repairs a Click Away, Without the Fuss and Bother",neutral,-0.17671391367912292
+2015-11-06,"The initiative, the Toyota Research Institute, will create one of the biggest labs in Silicon Valley and will be led by the roboticist Gill Pratt.",positive,0.4973761737346649
+2015-11-06,Toyota Invests $1 Billion in Artificial Intelligence in U.S.,neutral,0.2136276513338089
+2015-11-06,"The announcements are another blow to company, whose airbags generate about 40 percent of its sales.",negative,-0.9326062798500061
+2015-11-06,Toyota and Nissan to Drop Takata as Supplier of Airbag Inflaters,negative,-0.9340012073516846
+2015-11-06,"Interest and investment in artificial intelligence is back with a vengeance in Silicon Valley, attracting companies such as Toyota to make big bets in the space.",positive,0.8116311430931091
+2015-11-06,Daily Report: A $1 Billion Bet on Artificial Intelligence in Silicon Valley,neutral,0.040270932018756866
+2015-11-11,"The images of wealth and luxury seen in TV commercials are aimed mostly at those who aspire to wealthy lifestyles, not those who actually enjoy them.",neutral,-0.006200671195983887
+2015-11-11,"To Reach the Truly Rich, Television Ads Won’t Do",neutral,-0.21186508238315582
+2015-11-12,"Starting the new Lexus plant in Georgetown, Ky., meant introducing autoworkers to the brand’s methods, some of which call for a quiet assembly line.",neutral,0.35401272773742676
+2015-11-12,"With a Hush, an American Lexus Plant Goes to Work",neutral,0.022231891751289368
+2015-11-25,The decision to replace inflaters in Takata airbags previously judged to be safe adds 1.6 million vehicles to the world’s biggest auto safety recall.,negative,-0.8045440316200256
+2015-11-25,Toyota Expands Airbag Recall in Japan,negative,-0.46551793813705444
+2015-11-27,"More than 19 million vehicles have already been recalled, and millions more could be affected in the next few years.",negative,-0.9337856769561768
+2015-11-27,Navigating the Takata Airbag Recall,neutral,0.07321740686893463
+2015-12-01,Volkswagen said the impact of a widening emissions scandal caused its sales to fall nearly 25 percent during November.,negative,-0.9673030376434326
+2015-12-01,While U.S.,negative,-0.7936334609985352
+2015-12-01,"Car Sales Jump, VW’s Plunge",negative,-0.6220688223838806
+2015-12-03,"At an event in San Francisco, entrepreneurs pitched their ideas for Toyota’s three-wheeled i-Road.",neutral,0.2563154995441437
+2015-12-03,Toyota Asks for Ideas About How to Use an Ultrasmall Vehicle,neutral,0.06321544200181961
+2015-12-31,"Europeans have been more willing to embrace the hatchback style, but the iM’s ample room and alert driving feel could change some minds in America.",neutral,-0.38219404220581055
+2015-12-31,Video Review: The Scion iM Is Proud to Be a Hatchback,neutral,0.22110530734062195
+2015-12-31,"United States automakers have emerged from their worst crisis in a generation, but they have lost much along the way.",negative,-0.7310777306556702
+2015-12-31,A Recovering but Changed Auto Industry,positive,0.4071233570575714
+2015-12-31,The dominance of the three Detroit giants has slipped and foreign brands like Toyota and Kia have filled the gap.,negative,-0.9538622498512268
+2015-12-31,Auto Industry Sales Explode in an Ever-Changing Market,negative,-0.45913368463516235
+2016-01-06,"The auto industry reported that 17.5 million vehicles were sold in the United States last year, surpassing the previous high of 17.4 million in 2000.",positive,0.8812285661697388
+2016-01-06,Pickups and S.U.V.s Lead Way to a Record Year for Automakers,positive,0.8208684325218201
+2016-02-01,"Volkswagen Financial Services, the company’s in-house bank, has been an important element in VW’s rise to become the No.",positive,0.5200821757316589
+2016-02-01,2 carmaker in the world after Toyota.,positive,0.47840431332588196
+2016-02-01,Volkswagen Bank Profits May Be Endangered by Diesel Scandal,negative,-0.9069840908050537
+2016-02-11,Automakers like Toyota are pulling back from the boxy wagons and jellybean-shape city cars they were using to attract Gen X buyers.,negative,-0.9330237507820129
+2016-02-11,Carmakers Retreat From Quirky Designs as Millennials Embrace Mainstream,negative,-0.6296205520629883
+2016-02-11,Its 5-liter V8 provides plenty of oomph and growl.,neutral,0.09560760855674744
+2016-02-11,To find 467 horsepower and 389 pound-feet of torque under the hood of a Lexus is heartening.,positive,0.582326352596283
+2016-02-11,"Video Review: With the RC F, Lexus Abandons Its Beige Image",neutral,-0.13188232481479645
+2016-02-18,"In a severe frontal crash, Toyota said, metal seat-cushion frames could slice through the belts, leaving passengers unrestrained.",negative,-0.900514543056488
+2016-02-18,Toyota Recalls Nearly 3 Million RAV4s Over Seatbelt Separation,negative,-0.928896427154541
+2016-03-03,"Toyota is recalling 198,000 more vehicles because the airbag inflater produced by Takata could rupture.",negative,-0.9494035840034485
+2016-03-03,"Toyota Adds 331,000 Vehicles to Takata Airbag Recall",positive,0.5719549655914307
+2016-03-17,The RX created the luxury crossover market and has become the brand’s best seller.,positive,0.789470911026001
+2016-03-17,"While previous models were genteel, the new design is bold and angular.",positive,0.5220854878425598
+2016-03-17,Video Review: Lexus Adds a Few Twists to the New RX350,neutral,0.2933204770088196
+2016-04-01,"Kia, BMW and Nissan have encouraged dealers to buy cars, raising sales, then offer the virtually new vehicles as used models, company memos show.",neutral,0.44572147727012634
+2016-04-01,A Dance Between Dealer and Carmaker on Lifting Sales,neutral,-0.0017898008227348328
+2016-05-24,The announcement came after United States regulators accelerated moves to recall vehicles with a defective airbag inflater made by the Japanese company Takata.,negative,-0.3274376392364502
+2016-05-24,Toyota Expands Takata Airbag Recall in U.S.,negative,-0.5268816947937012
+2016-05-24,Companies like Toyota and Volkswagen are supporting the tech companies working to change the way people travel by car.,neutral,0.30351582169532776
+2016-05-24,"Automakers Befriend Start-Ups Like Uber, Girding Against a Changing Car Culture",neutral,0.2752310037612915
+2016-06-01,"New models from Toyota, Volkswagen, Fiat Chrysler and Mitsubishi are still being fitted with defective airbags and will need to be eventually recalled.",negative,-0.9387110471725464
+2016-06-01,Automakers Still Selling Cars With Defective Takata Airbags,neutral,-0.03299715369939804
+2016-06-10,The automaker also told dealers to tell potential buyers about defective airbags.,negative,-0.5766366124153137
+2016-06-10,Toyota Names Vehicles That Still Have Faulty Airbags,negative,-0.554370641708374
+2016-06-23,"The Toyota RAV4 got a “poor” passenger-side rating, and the Subaru Forester and Nissan Rogue only “marginal,” in crash tests conducted by a safety group.",negative,-0.8162975907325745
+2016-06-23,Risks Higher for Front-Seat Passengers in Some S.U.V.,negative,-0.9259953498840332
+2016-06-23,"Crashes, Tests Show",neutral,-0.14046336710453033
+2016-06-29,"The airbags, supplied by Autoliv, have not caused any known injuries.",negative,-0.7771769165992737
+2016-06-29,But the defect sounded similar to one that led to the recall of millions of cars worldwide with Takata airbags.,negative,-0.70694500207901
+2016-06-29,Toyota Recalls 1.4 Million Vehicles as 2nd Major Airbag Maker Is Under Scrutiny,negative,-0.9552006721496582
+2016-07-14,"Citing limits to an aging American standard for automobile headlamps, insurers are pushing carmakers to do more to help drivers see in the dark.",neutral,0.24557125568389893
+2016-07-14,Road Seems Dark to You?,neutral,-0.36347007751464844
+2016-07-14,New Tests Blame Your Headlights,negative,-0.4230771064758301
+2016-07-21,"In California, state subsidies for hydrogen filling stations are encouraging clean-energy advocates to try fuel-cell vehicles.",positive,0.8218308687210083
+2016-07-21,Water Out of the Tailpipe: A New Class of Electric Car Gains Traction,neutral,0.2646017074584961
+2016-08-04,"The fuel economy of the new fourth-generation Prius is better than the departing model, and a new multilink rear suspension upgrades the ride quality.",positive,0.9276512861251831
+2016-08-04,Video Review: Decent Handling in a Toyota Prius?,positive,0.44444310665130615
+2016-08-04,"Yes, the New One",neutral,0.11839128285646439
+2016-09-01,"Pent-up demand from the recession may have finally run its course, as August sales fell by 4 percent from a year earlier.",negative,-0.9698195457458496
+2016-09-01,Big Decline in U.S. Auto Sales May Signal End of Six-Year Boom,negative,-0.9190413951873779
+2016-09-22,"After the Volkswagen cheating scandal, automakers place an emphasis on gas, electric and hybrid cars.",neutral,0.07282748818397522
+2016-09-22,"In a Switch for Paris Show, Automakers Turn From Diesel",negative,-0.5200618505477905
+2016-10-12,The Japanese car manufacturers were vague about what might happen but said that they were discussing a wide-ranging business partnership.,neutral,0.06653989851474762
+2016-10-12,Toyota and Suzuki Say They Are Considering an Alliance,neutral,0.06908473372459412
+2016-10-27,"The Fusion may not be as miserly on gasoline as the Toyota Prius, but the Ford has the handsome chiseled lines that many hybrids lack.",neutral,0.14530275762081146
+2016-10-27,Video Review: Ford Fusion Hybrid Combines Savings and Style,positive,0.730066180229187
+2016-11-10,Automakers are using sensors and audio systems to diminish engine noise — or enhance it — for the driver and passengers.,neutral,0.08755160123109818
+2016-11-10,Giving Today’s Car a Well-Tuned Interior,positive,0.5706497430801392
+2016-11-18,"The move is rare for an automaker so heavily controlled by unionized workers, but it is unlikely to close the company’s productivity gap with Toyota.",negative,-0.18800795078277588
+2016-11-18,"Volkswagen to Cut 23,000 German Jobs in Bid to Lift Profit",negative,-0.9396942853927612
+2016-12-08,"After becoming an efficient industry with deep links to the Continent, it must grapple with the impact of the country’s vote to leave the European Union.",neutral,0.3652353286743164
+2016-12-08,"Tied to Europe, Britain’s Car Industry Is Vulnerable After ‘Brexit’",negative,-0.9156245589256287
+2016-12-15,The Rogue Hybrid offers an even more fuel-efficient version of a compact sport utility vehicle that was already stingy with a gallon of gas.,positive,0.7633842825889587
+2016-12-15,Video Review: Nissan’s Rogue Joins the Toyota RAV4’s Hybrid S.U.V.,neutral,0.33172351121902466
+2016-12-15,Club,neutral,0.042884886264801025
+2016-12-21,"In the early 1980s, Toyota transformed one of the world’s worst auto plants into one of the best, using the exact same workers.",positive,0.6245576739311218
+2016-12-21,"In the second installment of The Art of Better series, Charles Duhigg sheds light on the importance of entrusting workers with responsibility and authority.",neutral,0.0612390860915184
+2016-12-21,We Trust You,neutral,0.4188980460166931

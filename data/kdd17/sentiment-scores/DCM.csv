@@ -1,0 +1,26 @@
+Date,Sentence,Prediction,sentimentScore
+2007-04-01,First Data  is near a deal to be sold for nearly $27 billion to the private equity firm Kohlberg Kravis Roberts & Company.,neutral,0.04014911502599716
+2007-04-01,Kohlberg Kravis Nears Deal to Buy First Data,neutral,0.1339687705039978
+2008-09-16,"BitTorrent, the peer-to-peer content distributor, has raised a $17 million third round from previous investors DCM and Accel Partners, as well as DAG Ventures, according to peHUB.",positive,0.719752311706543
+2008-09-16,BitTorrent Said to Get More Funding,neutral,0.13652555644512177
+2009-01-30,"DCM, the venture capital firm run by Silicon Valley veteran Dixon Doll, is close to raising a $505 million fund, Bloomberg News reported.",neutral,0.279289573431015
+2009-01-30,"DCM Close to Raising $505 Million, Report Says",neutral,0.17706380784511566
+2009-08-04,"Bill.com has raised $8.5 million in its latest round, VentureBeat reported.",positive,0.6767835021018982
+2009-08-04,"The company, which specializes in software for online bill payment and management, brought in the investments from August Capital and DCM.",neutral,0.14017024636268616
+2009-08-04,Bill.com Adds Another $8.5 Million,neutral,0.09987914562225342
+2011-03-06,"A reader responds to “Carrots, Sticks and Digital Health Records” (Unboxed, Feb. 27).",neutral,0.024286556988954544
+2011-03-06,The Government and Electronic Health Data,neutral,-0.002105794847011566
+2011-05-04,"David Chao — a general partner at DCM, a major Renren shareholder — talks about why his firm is holding its stake in the Facebook of China, the long-term value of the social networking site and the recent accounting questions at the company.",neutral,-0.09269978106021881
+2011-05-04,Finding Long-Term Value in Renren,neutral,0.17176732420921326
+2012-06-23,Corporate executives and economists say officials in some Chinese cities and provinces are falsifying statistics to mask the extent of the downturn in the nation’s economy.,negative,-0.9076295495033264
+2012-06-23,"Chinese Data Mask Depth of Slowdown, Executives Say",negative,-0.5508909821510315
+2013-06-27,The Securities and Exchange Commission is questioning why some traders got economic data before others.,negative,-0.6339478492736816
+2013-06-27,S.E.C.,neutral,0.030168529599905014
+2013-06-27,Begins an Inquiry of Thomson Reuters Data,neutral,-0.007382258772850037
+2014-07-14,"The site, whose namesake software is often used for illegal file-sharing, is teaming up with film producers and musicians to charge for downloads.",neutral,-0.4431034028530121
+2014-07-14,BitTorrent to Try a Paywall and Crowdfunding,neutral,-0.30027490854263306
+2014-07-25,Moore’s Law wasn’t just about building better transistors; it was a way of organizing the tech business.,neutral,0.07079800218343735
+2014-07-25,"What happens when that computing strength matters less to a company, thanks to cloud computing?",neutral,-0.03397919610142708
+2014-07-25,Is Moore’s Law Less Important to the Tech Industry?,neutral,-0.1737368106842041
+2016-03-04,A growing number of analysts say China’s practice of setting an annual target for growth actually hurts the economy and encourages officials to falsify data.,negative,-0.9447314739227295
+2016-03-04,"As Economy Slows, Experts Call on China to Drop Growth Target",negative,-0.94440758228302

@@ -1,0 +1,71 @@
+Date,Sentence,Prediction,sentimentScore
+2014-01-22,"The Roomba 880 from iRobot has the same hockey-puck look as the previous models, but does a superior job in cleaning dust bunnies and pet hair.",neutral,0.3147343397140503
+2014-01-22,But the cost may scare off prospective buyers.,negative,-0.9142559170722961
+2014-01-22,Robot Vacuum Makes War on Cat Hair,negative,-0.41546058654785156
+2014-02-10,"Kellogg is pressuring for what Caterpillar, Boeing and Detroit’s automakers have sought in recent years — to reduce blue-collar compensation packages.",positive,0.49583515524864197
+2014-02-10,Labor Battle at Kellogg Plant in Memphis Drags On,negative,-0.9329745173454285
+2014-03-31,"Caterpillar, the big American maker of heavy construction and mining equipment, used a subsidiary in Switzerland to avoid paying $2.4 billion of income taxes over 13 years, according to an investigative report released on Monday.",negative,-0.9121968746185303
+2014-03-31,Senate Report on Caterpillar’s Tax Strategy,neutral,0.04465039074420929
+2014-04-02,Members of a Senate panel accused Caterpillar of channeling its most profitable operations through a subsidiary in Switzerland.,negative,-0.9084235429763794
+2014-04-02,"At Hearing, Caterpillar Defends Tax Practices",neutral,-0.10449766367673874
+2014-04-03,"William H. Gross, the founder of the giant asset manager Pimco, devoted considerable space in his investment outlook letter on Thursday to a eulogy for his cat of 14 years.",neutral,0.08491577208042145
+2014-04-03,"Pimco’s Gross, Facing Skeptical Investors, Discusses His Dead Cat",neutral,-0.0683622658252716
+2014-04-05,"In a new app, a business model expands from connecting singles to keeping romantic partners together.",positive,0.6599562764167786
+2014-04-05,I Had a Nice Time With You Tonight.,neutral,0.202084481716156
+2014-04-05,On the App.,neutral,0.029836110770702362
+2014-04-14,"Martin Sorrell, chief executive of WPP, the parent of JWT, disclosed plans to rebrand the blue-chip agency at an executive breakfast on Monday.",neutral,0.0688360333442688
+2014-04-14,JWT to Bring Back the Classic J. Walter Thompson Name,neutral,0.383481502532959
+2014-04-23,Finding your first office.,neutral,0.0512324757874012
+2014-04-23,Sharing a desk with a cat.,neutral,-0.00987192988395691
+2014-04-23,Do small businesses really need accountants?,neutral,-0.16306054592132568
+2014-04-23,Today in Small Business: The Divider Effect,neutral,0.07823604345321655
+2014-06-08,"A campaign with the theme “born curious” begins on Monday, with the goal of expanding circulation and generating more ads.",positive,0.7385513186454773
+2014-06-08,Vanity Fair Ad Gives Life to What Killed the Cat,neutral,0.03059450536966324
+2014-08-15,"While a potato salad project made crowdfunding look whimsical, recent studies indicate the wisdom of the crowd and the venture capital community is often not that different.",neutral,-0.11640524119138718
+2014-08-15,Crowdfunding and Venture Funding: More Alike Than You Think,neutral,0.04730280861258507
+2014-08-18,"Ökocat, a new cat litter brand, will be introduced by a different kind of company representative: a sardonic spokescat.",neutral,0.03489203751087189
+2014-08-18,The Top Cat in These Ads Has an Attitude,neutral,-0.05675584077835083
+2014-10-27,The cat food brand has reintroduced Morris the cat through a campaign that takes advantage of social media while emphasizing the roots of the character.,neutral,0.3144320845603943
+2014-10-27,"Before There Was Grumpy Cat, There Was Morris, 9Lives Reminds Consumers",neutral,-0.02813580632209778
+2014-12-08,"Hundreds of Balkan entrepreneurs have launched tech start-ups that they hope to take global, transforming a formerly communist region into a hub for innovation.",positive,0.8164640665054321
+2014-12-08,Nurturing Start-Up Culture in the Lower-Cost Balkans,positive,0.5197345614433289
+2014-12-09,"Recent criticism of James J. Cramer’s compensation from TheStreet.com has painted him as another greedy Wall Street executive looking out for himself but not shareholders, Steven Davidoff Solomon writes in the Deal Professor.",negative,-0.8527810573577881
+2014-12-09,Jim Cramer Hit With Insult He Hurls at Others: Fat Cat,negative,-0.6187710762023926
+2014-12-18,American companies were quick to start plans to bring products and services to a market they have not been in for the better part of 50 years — if ever.,positive,0.7234256267547607
+2014-12-18,U.S. Companies Clamor to Do Business in New Cuban Market,neutral,0.18670327961444855
+2014-12-31,Humor apps for the smartphone offer everything from lowbrow sight gags to wickedly biting comic strips.,neutral,-0.018623437732458115
+2014-12-31,Just for Laughs: Fake Mustaches and Cat Translations,neutral,-0.20797128975391388
+2015-02-09,"Viewership for the television program, which began about a year ago, has increased 24 percent this season, and podcast downloads have risen 22 percent, according to the network.",positive,0.9285629987716675
+2015-02-09,‘Starters’ Podcast Gains Audience as NBATV Show,positive,0.6031396389007568
+2015-03-25,"The social media giant has ambitious plans for its messaging service, including linking business to its user base.",neutral,0.4050023853778839
+2015-03-25,Facebook Opens Messenger for App Developers,neutral,-0.0100889652967453
+2015-04-23,"Heinz, the ketchup king, has retooled its mustard to challenge French’s dominance in that condiment, while French’s is introducing a ketchup to take on Heinz.",positive,0.7466901540756226
+2015-04-23,"Opening Salvos in a Condiment War, and the Hot Dog Is the Battlefield",neutral,-0.0192398801445961
+2015-07-11,A pet project from Joe DiPietro.,neutral,0.03590378910303116
+2015-07-11,A Game for Cats,neutral,0.05569618195295334
+2015-07-26,A new generation of companies is applying mathematical models to determine if you will pay back a loan or stay in a job.,neutral,-0.004243617877364159
+2015-07-26,Do they judge you more fairly than people do?,neutral,-0.19796952605247498
+2015-07-26,Using Algorithms to Determine Character,neutral,0.0005113519728183746
+2015-09-24,"The announcement from Caterpillar, which has been a symbol of American exporting might, helped drive down major stock indexes.",negative,-0.472992479801178
+2015-09-24,"Caterpillar to Cut Up to 10,000 Jobs, Citing Falling Demand",negative,-0.9580543637275696
+2015-10-23,"In China and other emerging markets, growth is waning and demand for the raw materials that drive the global economy has dried up.",negative,-0.9571347832679749
+2015-10-23,A Global Chill in Commodity Demand Hits America’s Heartland,negative,-0.8037883639335632
+2015-10-27,"Uptake, a Chicago-based start-up that helps companies analyze data, upends the stereotype of such so-called unicorns: It is profitable and based outside Silicon Valley.",neutral,0.05013599991798401
+2015-10-27,Midwest Start-Up Achieves Rare $1 Billion Valuation,positive,0.8466517329216003
+2015-11-04,"With a tap on a smartphone, consumers in some areas can have almost anything delivered within hours.",neutral,-0.010624758899211884
+2015-11-04,"But the cost of that is significant, and not always obvious.",neutral,0.027121275663375854
+2015-11-04,The High Price of Delivery App Convenience,neutral,0.028234440833330154
+2016-03-07,"In an attack reminiscent of another era, Mr. Trump has chastised Japan as a country where “we are getting absolutely crushed on trade.”",negative,-0.8775691986083984
+2016-03-07,Donald Trump Laces Into Japan With a Trade Tirade From the ’80s,negative,-0.6085425615310669
+2016-04-10,"It might be easier to trace the genealogy of an alley cat than of the typical Hollywood studio: Over the last century or so, most have accumulated a tangled list of owners and corporate forebears — and none more so than Paramount Pictures.",neutral,-0.0667257010936737
+2016-04-10,"At Paramount Pictures, the Family Tree Is Still Growing",neutral,0.08575821667909622
+2016-07-17,The eclectic comic book publisher plans to team up the Bionic Woman and Wonder Woman in a mini-series and bring back Nancy Drew and the Hardy Boys.,neutral,0.25660017132759094
+2016-07-17,Dynamite Entertainment Taps ’70s TV to Expand Lineup of Comics,positive,0.7094900608062744
+2016-07-23,"To keep cats from overeating, a veterinarian invented the NoBowl Feeding System, a product that lets them hunt for their food and then play with it.",neutral,0.12331938743591309
+2016-07-23,A Healthier Way to Feed Your Cat: Hide Its Meals,negative,-0.43731069564819336
+2016-09-22,"The quiz, produced with 3D animation and written by Ms. Rowling herself, quickly excited the online fandom.",positive,0.8236994743347168
+2016-09-22,Expecto Patronum!,neutral,0.1160392090678215
+2016-09-22,Patronus Test Keeps ‘Harry Potter’ Marketing Alive,neutral,0.14045798778533936
+2016-12-06,The owners of the world’s largest network say it will soon run 100 percent on renewable power.,neutral,0.3606529235839844
+2016-12-06,There are business reasons for this.,neutral,0.010905653238296509
+2016-12-06,Daily Report: Google’s Renewable Cloud,neutral,0.06286238878965378

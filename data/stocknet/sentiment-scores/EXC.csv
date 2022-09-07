@@ -1,0 +1,15 @@
+Date,Sentence,Prediction,sentimentScore
+2014-03-10,"Exelon, which operates 17 of the 100 commercial power reactors in the United States, will spend $400 million to $500 million in post-Fukushima fixes.",neutral,0.12218358367681503
+2014-03-10,"After Fukushima, Utilities Prepare for Worst",negative,-0.44260135293006897
+2014-04-30,"There is a strategic logic to a merger between Exelon and Pepco, writes Christopher Swann of Reuters Breakingviews, yet there is also a high premium.",neutral,0.3920590281486511
+2014-04-30,High Price in Utility Deal,neutral,0.129482239484787
+2014-12-26,"The agency is trying to complete a regulation governing emissions from power sources, and a formula for how to treat nuclear plants is proving contentious.",negative,-0.7616672515869141
+2014-12-26,E.P.A.,neutral,0.03660343214869499
+2014-12-26,Wrestles With Role of Nuclear Plants in Carbon Emission Rules,neutral,0.004636064171791077
+2015-08-25,The decision by a Washington regulator casts doubt on a merger that would create the country’s biggest utility operator.,negative,-0.2840909957885742
+2015-08-25,Regulator Votes to Block Merger of Pepco and Exelon,negative,-0.48564112186431885
+2016-06-01,Some environmentalists have come to accept nuclear power as a low-emission source of electricity.,neutral,0.06553575396537781
+2016-06-01,But the industry is struggling to compete with cheap natural gas.,negative,-0.9350159764289856
+2016-06-01,"Nuclear Plants, Despite Safety Concerns, Gain Support as Clean Energy Sources",positive,0.9150723218917847
+2016-06-02,The power provider plans to shut down the money-losing Clinton Power Station and the Quad Cities Generating Station.,negative,-0.9208913445472717
+2016-06-02,Exelon to Close 2 Nuclear Plants in Illinois,negative,-0.8444795608520508

@@ -1,0 +1,1177 @@
+Date,Sentence,Prediction,sentimentScore
+2007-01-01,An anonymous computer programmer claims to have hacked the copy protection used in both the HD-DVD and Blu-ray high-definition DVD formats.,negative,-0.9015493988990784
+2007-01-01,Studios’ DVDs Face a Crack in Security,negative,-0.7217559218406677
+2007-01-13,The warning signaled that the price war between A.M.D.,negative,-0.7851342558860779
+2007-01-13,"and its main rival, Intel, had taken its toll.",negative,-0.9396663308143616
+2007-01-13,"A.M.D., in Price War With Intel, Warns of Disappointing Revenue",negative,-0.9534236192703247
+2007-01-17,Intel reported that fourth-quarter profit fell 39 percent as the company continued to fight for market share and to absorb the high cost of its corporate overhaul.,negative,-0.9692229628562927
+2007-01-17,Intel’s Fight for Market Cuts Margins,neutral,-0.15923941135406494
+2007-01-18,"ASML Holding, maker of the most expensive machines in chip fabrication, said fourth-quarter profit quadrupled on demand for semiconductors used in iPod music devices and mobile phones.",negative,-0.073964923620224
+2007-01-18,"Net income jumped to a record 205.5 million euros ($265.7 million), or 0.42 euro a share, from 51.6 million euros, or 0.11 euro a share, a year earlier, ASML said.",positive,0.9020933508872986
+2007-01-18,"Sales surged 95 percent, to a record 1.07 billion euros.",positive,0.922927975654602
+2007-01-18,The company said orders would be “healthy” in the first quarter and revenue would gain this year.,positive,0.9280416369438171
+2007-01-18,"Demand for Apple iPods and Motorola phones has spurred shipments of ASML’s $18 million machines to clients like Samsung Electronics, Intel and Texas Instruments.",positive,0.9105429649353027
+2007-01-18,"ASML is based in Veldhoven, the Netherlands.",neutral,0.017444249242544174
+2007-01-18,The Netherlands: Chip Supplier Soars,neutral,0.04311627894639969
+2007-01-19,Intel is considering building its first semiconductor factory in Asia in the northeastern Chinese city of Dalian.,neutral,0.08166290819644928
+2007-01-19,"China’s central government has approved the project, said Gao Fujun, assistant counsel at the Dalian Foreign Trade and Economic Cooperation Bureau.",positive,0.7957779765129089
+2007-01-19,"An Intel spokesman, Mark Miller, said the company was in talks with several governments about its next chip factory.",neutral,0.08695380389690399
+2007-01-19,"The company won approval to build a factory in the Dalian Economic and Technological Development Zone, Mr. Gao said.",positive,0.9172335863113403
+2007-01-19,Intel has assembly and testing plants in Shanghai and Chengdu.,neutral,0.017250239849090576
+2007-01-19,China: Intel Considers Building Chip Plant,neutral,0.11440819501876831
+2007-01-22,Major technology companies are consolidating their support into the Linux Foundation to help the operating system compete more effectively against Microsoft.,positive,0.6700428128242493
+2007-01-22,Group Formed to Support Linux as Rival to Windows,neutral,0.16575884819030762
+2007-01-23,"Sun Microsystems and Intel announced a deal for Sun to use Intel chips in some of its computer servers, a setback for the rival chip maker Advanced Micro Devices.",negative,-0.9025796055793762
+2007-01-23,Sun Microsystems Will Use Intel Chips,neutral,0.0036449339240789413
+2007-01-27,"Intel has overhauled the basic building block of the information age, paving the way for faster and more energy-efficient processors.",positive,0.7205200791358948
+2007-01-27,"Intel Says Chips Will Run Faster, Using Less Power",neutral,0.2633346915245056
+2007-02-12,"A new experimental chip from Intel could house as
+many as 80 separate processing engines, or cores.",neutral,0.03721480816602707
+2007-02-12,Intel Prototype May Herald a New Age of Processing,neutral,0.12766164541244507
+2007-02-14,The announcement sets up a potential confrontation between I.B.M.,negative,-0.5989969372749329
+2007-02-14,"and Intel over the design of new, faster microprocessors.",neutral,0.050148628652095795
+2007-02-14,I.B.M.,neutral,0.042657434940338135
+2007-02-14,Reports a Speed Record for a Type of Computer Memory,neutral,0.08599567413330078
+2007-03-06,"As the price war with Intel continued to take its toll, shares of Advanced Micro Devices fell 23 cents, or 1.6 percent.",negative,-0.9606055021286011
+2007-03-06,A.M.D.,neutral,0.04129112511873245
+2007-03-06,Says Pricing Battle May Affect Its Revenue Goal,negative,-0.9469187259674072
+2007-03-07,"Eons, the media company and social networking Web site designed for the 50-plus demographic and launched by Monster Worldwide founder Jeff Taylor, has received $22 million in its second round of funding to accelerate growth, the company said on Tuesday.",positive,0.9065506458282471
+2007-03-07,"The latest round was led by Charles River Ventures, with participation from new investors Intel Capital and Humana, as well as existing investors General Catalyst Partners and Sequoia Capital.",neutral,0.18277257680892944
+2007-03-07,V.C.’s Ante Up for a Mature Social Networking Site,neutral,0.1396893560886383
+2007-03-07,"Movie Gallery said Wednesday it would acquire MovieBeam, an on-demand movie service backed by Disney, Intel and Cisco Systems.",neutral,0.10926514863967896
+2007-03-07,"Financial terms were not disclosed, but Movie Gallery said in a press release that it expected the total related expense, including the initial acquisition cost and any ongoing development expenses, to be less than $10 million in 2007.",neutral,-0.29322874546051025
+2007-03-07,Movie Gallery Buys Video-On-Demand Service,neutral,-0.0018095634877681732
+2007-03-08,"Clearwire, the wireless broadband company founded by the cellphone pioneer Craig O. McCaw, raised $600 million late Wednesday in its initial public offering, which priced at the top end of the expected range.",neutral,0.3465951383113861
+2007-03-08,"Shares of the company, whose backers include Motorola and Intel, begin trading Thursday.",neutral,0.053779225796461105
+2007-03-08,Clearwire Raises $600 Million in I.P.O.,positive,0.5955449938774109
+2007-03-23,The move would mark a major milestone in the countries’ trade relations and could improve Intel’s competitiveness.,positive,0.929335355758667
+2007-03-23,"Intel, Already With Operations in China, Appears Ready to Build a Chip Plant There",neutral,0.22654764354228973
+2007-03-27,The $2.5 billion chip-manufacturing plant is set to become the company’s first major production site in Asia.,positive,0.5495526194572449
+2007-03-27,Intel to Build Advanced Chip-Making Plant in China,neutral,0.18641388416290283
+2007-03-27,"Intel has only seven other similar wafer fabrication facilities in the world, mostly in the western United States.",neutral,0.0017482638359069824
+2007-03-27,Intel to Build Advanced Chip-Making Plant in China,neutral,0.18641388416290283
+2007-03-29,The new generation of chips would help Intel catch up with its archrival and consolidate performance categories where it already leads.,positive,0.8722041249275208
+2007-03-29,Intel Plans Faster Chips That Also Save Power,neutral,0.07441997528076172
+2007-03-29,A new generation of chips would achieve a significant increase in performance without consuming more power.,positive,0.8310059309005737
+2007-03-29,Intel Plans Faster Chips That Also Save Power,neutral,0.07441997528076172
+2007-03-31,The proxy contains a clawback provision with some bite.,neutral,0.05765802040696144
+2007-03-31,Intel can take back money it turns out an executive didn’t deserve.,neutral,-0.06286406517028809
+2007-03-31,Intel Can Recover Bonuses It Shouldn’t Have Paid,positive,0.5089201331138611
+2007-04-11,"A WiMax equipment startup, Telsima, announced a new $50 million Series D round of venture funding that will bankroll the company’s expansion plans in India and Eastern Europe.",positive,0.8247994780540466
+2007-04-11,"Telsima, which makes WiMax-based broadband wireless access technology, received the money from its initial investor syndicate, which includes NewPath Ventures, New Enterprise Associates, CMEA Ventures, and Intel Capital.",neutral,0.4782869219779968
+2007-04-11,WiMax Start-Up Picks Up $50 Million from V.C.’s,positive,0.9061437249183655
+2007-04-16,"EARNINGS REPORTS The following companies are scheduled to release earnings reports this week: Citigroup, Eli Lilly, Mattel and Wachovia (Monday); TD Ameritrade Holding, Comerica, CSX, Dow Jones, EMC, Intel, I.B.M., Johnson & Johnson, Mellon Financial, Northern Trust, Wells Fargo and Yahoo (Tuesday); Abbott Laboratories, Commerce Bancorp, E*Trade Financial, eBay, JPMorgan Chase, Motorola, PNC Financial Services, Allstate, Bank of New York, Tribune and United Technologies (Wednesday); Advanced Micro Devices, Altria Group, Continental Airlines, D. R. Horton, First Data, Gannett, Google, Merck, Merrill Lynch, Nokia, Schering-Plough, Southwest Airlines, UnitedHealth Group and Wyeth (Thursday); Caterpillar, Honeywell, McDonald’s, SAP, Schlumberger and Xerox (Friday).",neutral,-0.03122369386255741
+2007-04-16,Looking Ahead,neutral,0.013165891170501709
+2007-04-16,"A number of  technology advances will be announced, including an initiative that could give rise to a new class of wireless hand-held computers.",positive,0.733303964138031
+2007-04-16,Intel Seen Using China Forum to Detail Plans on Hand-Helds,neutral,0.02755533531308174
+2007-04-18,Earnings appeared to reassure investors that the company’s profit margins were finally starting to improve.,positive,0.9180139303207397
+2007-04-18,"Intel Earnings Jump Sharply in the Quarter, but Sales Dip",positive,0.01556462049484253
+2007-04-20,"The loss was bigger than expected, hurt by slower sales and a bruising price war with its larger rival, Intel.",negative,-0.958362340927124
+2007-04-20,Price War Takes Toll as A.M.D.,neutral,-0.2346852570772171
+2007-04-20,Posts Loss,neutral,0.020156443119049072
+2007-04-26,"It would be impossible to build one computer to please everyone, but Toshiba’s new Satellite A205-S4617 notebook sure takes a whack at it.",neutral,0.04563507065176964
+2007-04-26,"Not Light, but Worth a Look for Those Who Like Sleek, Loaded Notebook Computers",neutral,0.04936082661151886
+2007-04-28,"Any change in market conditions would vary the size of Intel’s profit, but for A.M.D.",neutral,0.04347545653581619
+2007-04-28,it can mean the difference between a big profit and a big loss.,neutral,-0.06919371336698532
+2007-04-28,"With A.M.D., Riding Waves of Volatility",neutral,0.04945305734872818
+2007-05-10,The fierce rivalry is ratcheting up as both companies claim superiority in technology used for notebook computers.,positive,0.802121639251709
+2007-05-10,"From Intel and A.M.D., Rival Boasts of Technology",neutral,0.10597440600395203
+2007-05-23,"Intel will join with STMicroelectronics, a Swiss semiconductor maker, to form a new company to sell flash memory chips.",positive,0.507373571395874
+2007-05-23,Intel to Form a Flash Memory Venture With a Swiss Company,neutral,0.06925796717405319
+2007-05-23,"In a move to shed an unprofitable business as its turnaround gains traction, Intel said Tuesday it would join with STMicroelectronics, a Swiss semiconductor maker, to form a new company to sell flash memory chips.",neutral,0.1801103800535202
+2007-05-23,"Flash memory is used in cellphones, digital music players and digital cameras and is considered one of the most erratic segments of the semiconductor market.",neutral,0.04947588965296745
+2007-05-23,Intel to Form a Flash-Memory Venture,neutral,0.03876528888940811
+2007-05-31,"Over the last five decades, the Small Business Administration has propelled the likes of Federal Express, Intel, Staples and thousands of lesser-known small businesses.",neutral,0.10457271337509155
+2007-05-31,"But advocates say recent policy changes and severe budget and staffing cuts in the last six years have left the agency unable to fulfill its mission to provide programs and services to the nation’s 25 million small companies, which the agency defines as businesses with 500 or fewer workers.",negative,-0.9436060190200806
+2007-05-31,Small Business Not as Usual,neutral,-0.036793798208236694
+2007-06-13,Google and Intel are leading a consortium of companies in an effort to reduce the amount of power wasted by personal computers.,neutral,0.22600147128105164
+2007-06-13,Technology Group Seeks to Save Power,neutral,0.07592274993658066
+2007-06-17,"The stock market rebounded and the Standard & Poor’s 500-stock index climbed to its best weekly gain in several months, although bond yields also rose.",positive,0.8261550068855286
+2007-06-17,Rallies Soothe Investor Fears on Bond Yields,positive,0.4977654218673706
+2007-06-19,"K2 Network, an online game publisher that has been bringing multiplayer Asian games to the United States market, said it won $16 million in a second round of funding led by Intel‘s venture capital arm.",positive,0.9099195003509521
+2007-06-19,"The round included new investors Khosla Ventures , Greycroft Ventures and Novel TMT Ventures.",neutral,0.07731446623802185
+2007-06-19,Intel Gives K2 Network Capital to Play With,neutral,0.23918284475803375
+2007-06-29,"Last year, Intel Capital, the venture capital arm of the giant chipmaker, invested in more U.S. deals than some of the biggest venture firms in Silicon Valley, including Kleiner Perkins Caufield & Byers and Sequoia Capital.",positive,0.6135470271110535
+2007-06-29,Intel Capital Takes the Wheel,neutral,0.040992915630340576
+2007-07-01,"“Life is all about being in the right place at the right time, and getting the opportunity to show your stuff.",neutral,0.07002375274896622
+2007-07-01,So many great and talented people never get that opportunity.”,neutral,0.0781211405992508
+2007-07-01,A Mentor Is Not a Coddler,neutral,-0.17897175252437592
+2007-07-03,"Intel Capital‘s has continued its recent investment streak with the leadership of a $10 million second round of funding for Mirics Semiconductor, a developer of radio-frequency chips.",positive,0.8928118348121643
+2007-07-03,Intel Extends Investment Spree,positive,0.6908926367759705
+2007-07-09,"Intel will invest about $219 million for a stake in VMware and a seat on the board of the Silicon Valley software company that parent EMC is taking public, the companies said on Monday.",neutral,0.10485494881868362
+2007-07-09,"The investment is intended to speed adoption of VMware’s software technology on computers using Intel semiconductors, expanding an ongoing strategic relationship.",positive,0.8976843357086182
+2007-07-09,Intel Buys $219 Million Stake in VMware,neutral,0.16959652304649353
+2007-07-09,"VMware, the hot software company owned by EMC, filed for an initial public offering today.",neutral,0.04053458943963051
+2007-07-09,"Intel agreed to buy a 2.5 percent stake in the company, which has raised the ire of Microsoft, long an Intel ally.",positive,0.5209634304046631
+2007-07-09,VMware Loads Up and Intel Helps,neutral,0.18323911726474762
+2007-07-14,"Intel said it would join the board of the One Laptop Per Child Foundation, which seeks to build inexpensive computers for the developing world.",neutral,0.20145544409751892
+2007-07-14,"Intel, in Shift, Joins Project on Education",neutral,0.04784438759088516
+2007-07-15,"Whether high-tech returns continue may become clearer this week, when two pairs of high-profile companies announce second-quarter earnings.",positive,0.5315125584602356
+2007-07-15,A Peek at Tech’s Strength,neutral,0.0037689507007598877
+2007-07-16,"COMPANY REPORTS Earnings season gets into full swing, particularly for technology, financial and drug companies.",positive,0.8325868844985962
+2007-07-16,"Reports will come from Charles Schwab and Mattel (Monday); Coca-Cola, I.B.M., Intel, Johnson & Johnson, Merrill Lynch, Novartis, Wells Fargo and Yahoo (Tuesday); Abbott Laboratories, Altria, AMR, Delta Air Lines, eBay, JPMorgan Chase, Pfizer, Southwest Airlines and United Technologies (Wednesday); Advanced Micro Devices, Bank of America, Bank of New York Mellon, Continental Airlines, Dow Jones, First Data, Google, Honeywell, Microsoft, Motorola and Wyeth (Thursday); and Boston Scientific, Caterpillar and Citigroup (Friday).",neutral,0.003950260579586029
+2007-07-16,Looking Ahead,neutral,0.013165891170501709
+2007-07-17,"The chip maker, a closely watched indicator of the overall health of the technology industry, reported net income of $1.3 billion, on revenue of $8.7 billion in the second quarter.",neutral,0.10491762310266495
+2007-07-17,Intel Earnings Exceed Expectations,neutral,-0.3497683107852936
+2007-07-18,"The chip maker, a closely watched indicator of the overall health of the technology industry, reported net income of $1.3 billion, on revenue of $8.7 billion in the second quarter.",neutral,0.10491762310266495
+2007-07-18,"Intel Earnings Rise 44%, but Shares Fall",negative,-0.9508348703384399
+2007-07-18,Intel fights AMD by cutting prices.,negative,-0.920971691608429
+2007-07-18,It will boost margins by bailing out of some flash chips.,positive,0.9205077886581421
+2007-07-18,Intel as a Sailboat,neutral,0.03202367201447487
+2007-07-19,The new flash memory company formed out of Intel and STMicroelectronics has its name: Numonyx.,neutral,0.026396868750452995
+2007-07-19,Running Out of Letters,negative,-0.5904697179794312
+2007-07-20,The chipmaker Advanced Micro Devices posted its third consecutive quarterly loss after cutting prices to compete with Intel.,negative,-0.9529198408126831
+2007-07-20,Advanced Micro Again Posts Loss,neutral,0.02881060540676117
+2007-07-23,"Fans of Christopher Guest may recognize his signature style in two new music videos released on Monday, but not the products that the videos are pitching.",neutral,-0.013254417106509209
+2007-07-23,"Computer Support, Can You Rock to This?",neutral,0.026073375716805458
+2007-07-23,Intel downplays its Viiv brand for chips after no one found its home entertainment ideas much fun.,negative,-0.9371285438537598
+2007-07-23,Intel Loses Its Will to Viiv,negative,-0.9032492637634277
+2007-07-27,The European Commission has accused the world’s largest chipmaker of using illegal rebates in its fight against rival Advanced Micro Devices.,negative,-0.9154374599456787
+2007-07-27,Regulators in Europe Accuse Intel of Violating Antitrust Laws,negative,-0.8925319910049438
+2007-07-27,"European regulators are bringing antitrust charges against Intel, the world’s biggest chip maker, accusing the company of using illegal rebates in its fight against Advanced Micro Devices.",negative,-0.9220485687255859
+2007-07-27,Regulators in Europe Accuse Intel of Violating Antitrust Laws,negative,-0.8925319910049438
+2007-07-30,EMC is selling a $150 million stake in its VMware software subsidiary to networking hardware maker Cisco Systems.,neutral,0.03052491880953312
+2007-07-30,The deal will give Cisco a 1.6 percent stake in VMware and comes about two weeks after Intel bought a 2.5 percent stake in the company for $218.5 million.,neutral,0.29565492272377014
+2007-07-30,Cisco Takes Stake in VMware Before I.P.O.,neutral,-0.04332566261291504
+2007-08-07,"Intel may be a nose ahead of the One Laptop Per Child program, which is still testing its machine.",neutral,0.12326269596815109
+2007-08-07,Intel’s $225 Classmate PC is being used in pilot projects in 25 countries.,neutral,0.4509563446044922
+2007-08-07,Intel’s Approach to Laptops for Poor Children,neutral,0.11281996220350266
+2007-08-27,"The lure of inside-the-video search was enough to hook Intel Capital, Draper Fischer Jurvetson Frontier, and Labrador Ventures into offering $6 million in a first round of funding to  Pluggd of Seattle.",positive,0.8853476643562317
+2007-08-27,Pluggd Taps V.C.’s for $6 Million,neutral,0.048632167279720306
+2007-09-10,"Advanced Micro Devices is counting on a new high-performance computer chip to hold on to hard-fought market share it has won from its principal rival, Intel.",positive,0.8404994606971741
+2007-09-10,A New Entry From A.M.D.,neutral,-0.026648078113794327
+2007-09-10,in Chip Wars,neutral,0.0012141689658164978
+2007-09-11,"In making the announcement, Intel cited stronger-than-expected demand for microprocessors and high hopes for the back-to-school shopping season.",positive,0.8970887660980225
+2007-09-11,Intel Raises Its Outlook; Rival Offers New Chip,positive,0.7724548578262329
+2007-09-13,Inside the ThinkPad Reserve is an Intel Centrino Pro processor and the Lenovo Ultra Connect II system for cellular and Wi-Fi networking.,neutral,0.02117500826716423
+2007-09-13,"For $5,000, This Laptop Comes With Leather, Technical Support and a Certain Cachet",neutral,0.05156215652823448
+2007-09-18,"Experts said a European antitrust ruling might signal problems for companies like Apple, Intel and Qualcomm.",negative,-0.9541856646537781
+2007-09-18,Microsoft Ruling May Bode Ill for Other Companies,negative,-0.8684326410293579
+2007-09-18,"The new architecture, code-named Nehalem, will use as many as eight processing cores, and offer better graphics and memory control processing.",neutral,0.4859329164028168
+2007-09-18,Intel Previews a New Family of Power-Saving Chips,neutral,0.11624810099601746
+2007-09-19,"The new architecture, code-named Nehalem, will use as many as eight processing cores, and offer better graphics and memory control processing.",neutral,0.4859329164028168
+2007-09-19,Intel Previews a New Family of Power-Saving Chips,neutral,0.11624810099601746
+2007-09-19,"Intel announced that it is acquiring Havok, the Irish developer of the widely used physics engine of the same name.",neutral,0.19729530811309814
+2007-09-19,Intel Gains Havok for About $110 Million,neutral,-0.03078790009021759
+2007-09-27,"Intel announced a new initiative to rapidly broaden the reach of its program, Intel Teach.",positive,0.842562735080719
+2007-09-27,The Intel effort focuses on training teachers around the world to use personal computers as a tool in classrooms.,neutral,0.09788466989994049
+2007-09-27,The Intel Ministry of Education,neutral,0.0018451213836669922
+2007-10-09,"Sony's Intel Inside ad is part of the ""Beauty, Inside and Out""  campaign.",neutral,0.09598259627819061
+2007-10-09,It will run on the Google click-to-play video network.,neutral,0.02914324216544628
+2007-10-09,Sony Intel Inside Ad,neutral,-0.10144653171300888
+2007-10-10,The familiar “Intel inside” logo will soon be seen more frequently online and less often in the traditional media.,neutral,-0.016154766082763672
+2007-10-10,"As Customers Flock to the Web, Intel Gives Chase With Its Ad Budget",neutral,0.09373760968446732
+2007-10-16,The company reported quarterly net income of $1.86 billion on growing demand for personal computers.,positive,0.8585450649261475
+2007-10-16,Intel Exceeds Estimates With 43% Earnings Rise,positive,0.5835466384887695
+2007-10-17,Intel benefited from a reorganization and various new products after several quarters of a bruising price war with Advanced Micro Devices.,positive,0.912745475769043
+2007-10-17,"Intel, Buoyed by Quarter, Offers an Upbeat Outlook",positive,0.8910119533538818
+2007-10-20,"In a victory for Intel, the U.N. telecommunications agency in Geneva gave the upstart technology called WiMax a vote of approval on Thursday.",positive,0.7760008573532104
+2007-10-20,U.N. Agency Gives Boost to WiMax,positive,0.8312127590179443
+2007-11-01,I keep getting an error message and my Windows XP computer has to be restarted in order to work.,negative,-0.9062865376472473
+2007-11-01,What is causing this?,negative,-0.4080856442451477
+2007-11-01,Drivers Can Drive You Crazy,neutral,-0.003706023097038269
+2007-11-09,"Intel Capital, the venture capital arm of chip giant Intel, announced Thursday that it has injected $10 million into security company Iovation, which targets online fraud and abuse based on the identification and “reputation” of Net-enabled devices.",positive,0.5367134213447571
+2007-11-09,Fraud-Buster Iovation Secures $10 Million from Intel Capital,neutral,-0.14508460462093353
+2007-11-12,"Intel says that the chips would begin the transformation of today’s stuttering and blurry Web videos into high-resolution quality, full-screen quality.",positive,0.5942956209182739
+2007-11-12,Intel to Unveil Chips for Improving Video Quality on the Web,neutral,0.26584500074386597
+2007-11-15,"Galleon Group, a $7 billion hedge fund known for its technology investments, is making a big bet on A.M.D..",neutral,0.07858996838331223
+2007-11-15,"Citing an unnamed trader involved in the trade, The New York Post said the fund has purchased “several million shares” of the chipmaker, which is struggling to keep pace with larger rival Intel.",neutral,0.21019046008586884
+2007-11-15,Galleon Is Said to Make Big Bet on A.M.D.,neutral,0.20852221548557281
+2007-11-15,Shares,neutral,0.03438212722539902
+2007-12-06,Advanced Micro Devices confirmed that a technical irregularity has delayed widespread availability of its Barcelona chip for servers until early next year.,negative,-0.9563543796539307
+2007-12-06,A.M.D.,neutral,0.04129112511873245
+2007-12-06,Delays Energy-Efficient Chip Again,negative,-0.47414326667785645
+2007-12-17,Newer computer chips with multiple processors require dauntingly complex software and programmers are having a hard time keeping up.,negative,-0.8649663925170898
+2007-12-17,Faster Chips Are Leaving Programmers in Their Dust,negative,-0.6281174421310425
+2007-12-27,STMicroelectronics and Intel announced a delay in the merger of their unprofitable memory units.,negative,-0.7677727341651917
+2007-12-27,Chip Makers Delay a Merger of Their Memory Divisions,negative,-0.7335229516029358
+2008-01-04,Intel said that it had chosen to withdraw from the One Laptop Per Child educational computer organization due to what a spokesman called “philosophical” differences.,negative,-0.8159797787666321
+2008-01-04,Intel Leaves Group Backing Education PCs,neutral,-0.10450099408626556
+2008-01-05,Intel and the One Laptop Per Child group had a rocky relationship from the start in their short-lived effort to get inexpensive laptops into the hands of the world’s poorest children.,negative,-0.9285989999771118
+2008-01-05,Intel Quits Effort to Get Computers to Children,negative,-0.7535523176193237
+2008-01-06,"Wall Street got off to a miserable start of the year, with all three major indexes dropping by sizable margins.",negative,-0.9597683548927307
+2008-01-06,The New Year Begins With a Thud,neutral,0.08318141847848892
+2008-01-10,Andrew M. Cuomo issued a wide-ranging subpoena to Intel as part of an investigation into whether the company violated federal or state antitrust laws in the way it priced and sold microprocessors.,negative,-0.5897947549819946
+2008-01-10,Intel Gets New York Subpoena in Antitrust Inquiry,negative,-0.48024773597717285
+2008-01-11,The New York State attorney general issued a wide-ranging subpoena as part of an investigation into whether the Intel Corporation violated federal or state antitrust laws.,negative,-0.7343676090240479
+2008-01-11,Cuomo Subpoenas Intel Over Antitrust Accusations,negative,-0.8642107248306274
+2008-01-13,"As the Senate prepares to tinker with the nation’s patent laws this spring, it’s worth recalling the law of unintended consequences.",neutral,0.023049596697092056
+2008-01-13,"Two Views of Innovation, Colliding in Washington",neutral,-0.33361101150512695
+2008-01-15,The report comes amid rising investor concern about the impact of a possible slowdown in computer spending during the first half of the year.,negative,-0.42147958278656006
+2008-01-15,Intel’s Big Quarter Fails to Meet Wall St. Forecast,negative,-0.9611771702766418
+2008-01-16,"The chip maker reported revenue of $10.71 billion, up 10.5 percent from the quarter a year earlier, but about $100 million short of analysts’ forecasts.",positive,0.8556126356124878
+2008-01-16,A Strong Intel Disappoints on Outlook,negative,-0.5795767903327942
+2008-01-25,The chairman of Intel discusses the economy and information technology with Katrin Bennhold of the International Herald Tribune.,neutral,0.023550216108560562
+2008-01-25,Intel's Craig Barrett at Davos,neutral,-0.0893433466553688
+2008-01-26,"Despite reporting strong quarterly results, Intel suffered a blow to its stock when it unveiled a decidedly less-than-bullish forecast.",negative,-0.9607699513435364
+2008-01-26,"Still, Craig Barrett, the chipmaking giant’s chairman, defends his company’s outlook as average.",positive,0.09557563066482544
+2008-01-26,"A Gloomy Outlook for Intel, or Just Average?",negative,-0.8185124397277832
+2008-02-06,"Whatever the outcome of Microsoft’s bid for Yahoo, the move and Google’s countermoves mark  an escalation in the confrontation between the two companies.",negative,-0.9208760857582092
+2008-02-06,Microsoft Adversary Rises Instinctively at Yahoo Bid,negative,-0.6877337694168091
+2008-02-06,"More than a decade ago, Andrew S. Grove, then the chief executive of Intel, aptly described the hypercompetitive mentality of Silicon Valley in his book title “Only the Paranoid Survive.”",neutral,-0.18817837536334991
+2008-02-06,Microsoft Adversary Rises Instinctively at Yahoo Bid,negative,-0.6877337694168091
+2008-02-13,"The European Commission conducted antitrust raids Tuesday at the Munich offices of Intel, the world’s largest chip maker, and of retailers selling products made by the company, the commission and the chip maker said.",negative,-0.6724664568901062
+2008-02-13,E.U.,neutral,0.04360159859061241
+2008-02-13,Antitrust Regulators Raid Intel Offices,negative,-0.766588032245636
+2008-02-14,"Bragster, a London-based site “for dares and social bets,” announced Wednesday that it had secured $3.5 million in Series A venture cash.",positive,0.7613808512687683
+2008-02-14,"The funding round was led by none other than Intel Capital, Intel’s investment branch.",neutral,0.1111721619963646
+2008-02-14,Intel Takes Up Bragster’s Dare,neutral,0.029197843745350838
+2008-02-20,"Sprint Nextel and Clearwire are close to announcing the formation of a WiMax joint venture with funds provided in part by a $2 billion injection from Intel, TheStreet.com reported.",positive,0.5195723176002502
+2008-02-20,Intel Said to Invest in WiMax Venture,neutral,0.05425509437918663
+2008-02-24,"If innovation has a heart, it’s probably a semiconductor, beating to the pace of Moore’s Law.",neutral,0.0579264760017395
+2008-02-24,Trying to Put New Zip Into Moore’s Law,neutral,-0.16783657670021057
+2008-02-26,"But between my techie toys and all of my airline travel, I have become concerned about my carbon footprint.",negative,-0.4667890965938568
+2008-02-26,A Comedian Goes Green but Won’t Go Off Color,neutral,-0.12379136681556702
+2008-03-03,The Intel Atom chip family is designed specifically for devices that range in size from a hand-held gadget to lightweight notebook computers.,neutral,0.014102290384471416
+2008-03-03,Intel Announces New Chip for Small Computers,positive,0.5927991271018982
+2008-03-05,"Advanced Micro Devices said that it was closing a technology gap with its rival Intel, cutting about in half the time required to move to a new manufacturing process.",negative,-0.6443580985069275
+2008-03-05,A.M.D.,neutral,0.04129112511873245
+2008-03-05,Cuts Time Needed to Shift Production Method,neutral,-0.14173005521297455
+2008-03-19,Intel and Microsoft said that they planned to finance two groups of university researchers to start over and design a new generation of computing systems.,neutral,0.17025502026081085
+2008-03-19,Industry Giants Try to Break Computing’s Dead End,negative,-0.37380528450012207
+2008-03-19,Intel and Microsoft said Tuesday that they planned to finance two groups of university researchers to start over and design a new generation of computing systems intended to break the industry out of a technological cul-de-sac that threatens to end decades of performance increases in computers.,positive,0.5395669341087341
+2008-03-19,Industry Giants Try to Break Computing’s Dead End,negative,-0.37380528450012207
+2008-03-20,Intel is responding to rising competition in the market for low-cost notebooks.,positive,0.7409553527832031
+2008-03-20,"But the move is also a step in Intel’s strategy to reach new markets, in emerging and developed nations.",positive,0.8469207286834717
+2008-03-20,Intel Classmate PC Heads Toward a Bigger Market,neutral,0.15686346590518951
+2008-03-24,An Australian Internet provider said its attempts to provide wireless service through a technology called WiMax have failed.,negative,-0.9429358243942261
+2008-03-24,"The signals simply don’t travel far enough and have too many delays, it said.",negative,-0.8461015224456787
+2008-03-24,WiMax Gets Less-Than-Max Grades in Australia,neutral,0.03514167666435242
+2008-03-28,A campaign that is scheduled to begin on Monday presents the Intel Corporation as the problem-solver for the people who solve the computer network problems for others.,neutral,0.03964406996965408
+2008-03-28,"Helping the Help Desk, the Intel Way",neutral,0.03696231171488762
+2008-04-02,Intel plans to proclaim that the next big thing in consumer gadgets will be the “Internet in your pocket.”,neutral,0.12686371803283691
+2008-04-02,Intel Makes a Push Into Pocket-Size Internet Devices,positive,0.5730152130126953
+2008-04-04,"SpikeSource, which on Friday is introducing a version of its automated support and testing service tuned for the needs of IT industry platform providers, announced that Intel has invested $10 million in the start-up.",positive,0.5298259854316711
+2008-04-04,SpikeSource Gets $10 Million Patch from Intel,positive,0.5200238227844238
+2008-04-08,The layoffs may be one of the first signs in Silicon Valley of an economic slowdown that has already affected other industries in the United States.,negative,-0.9465604424476624
+2008-04-08,"A.M.D., Citing a Slowdown, to Cut 1,650 Jobs",negative,-0.9537009596824646
+2008-04-09,"Having fully invested its first China fund, Intel Capital announced Tuesday that it has set aside another $500 million to invest in Chinese technology start-ups.",positive,0.49554288387298584
+2008-04-09,Intel Launches New $500 Million China Fund,neutral,0.3532855808734894
+2008-04-15,"The semiconductor maker reported solid global demand for its chips, soothing investor concerns that economic softness would rattle the technology industry.",positive,0.878792405128479
+2008-04-15,Intel’s Income Meets Expectations,positive,0.8334183096885681
+2008-04-16,"The computer chip maker reported that global demand for chips was “solid” during the first quarter, soothing fears that a soft economy was hitting the tech sector.",positive,0.851816713809967
+2008-04-16,Intel Reports Strong Demand for Chips in Quarter,positive,0.9220664501190186
+2008-04-18,The chip maker Advanced Micro Devices posted its sixth consecutive quarterly loss on Thursday.,negative,-0.9603526592254639
+2008-04-18,Chip Maker Reports Sixth Loss in a Row,negative,-0.9263451099395752
+2008-04-30,Three rival teams of computer researchers are working on new types of software needed to better use computer chips that can process many tasks at the same time.,neutral,0.06369063258171082
+2008-04-30,Race Is On to Advance Software for Chips,neutral,0.309333860874176
+2008-05-07,"The group, which includes Sprint Nextel and Google, will announce a $12 billion venture to build a new generation of nationwide wireless data networks.",positive,0.6201893091201782
+2008-05-07,A Technology Consortium Plans a Wireless Network,neutral,0.0377824530005455
+2008-05-07,A consortium plans to build the first of a new generation of nationwide wireless data networks in a $14.5 billion deal.,positive,0.6111509203910828
+2008-05-07,Technology Group Plans Wireless Network,neutral,0.023909498006105423
+2008-06-02,"In a wide-ranging interview, Intel Chief Executive Paul Otellini talks about Intel’s move into processors for smaller machines, the company’s new chip plant in China, the challenges of programming many-core processors and the economic impact of the rising price of oil.",neutral,0.08424863964319229
+2008-06-02,"Intel’s Chief on Strategy, Globalization and the Price of Oil",neutral,0.027008239179849625
+2008-06-04,A.M.D.,neutral,0.04129112511873245
+2008-06-04,plans to announce that it will start selling new power-conserving notebook chips with strong graphics and video abilities.,positive,0.6816274523735046
+2008-06-04,A.M.D.,neutral,0.04129112511873245
+2008-06-04,Set to Introduce a New Chip for Laptops,neutral,0.28846415877342224
+2008-06-04,Online video site Veoh has received a further $30 million in financing from such new backers as Intel and Adobe Systems.,positive,0.8874567151069641
+2008-06-04,Veoh Raises An Extra $30 Million,positive,0.5555571913719177
+2008-06-05,Intel on Tuesday announced that it has invested in eight new start-ups from around the world for a total of $60 million.,positive,0.5957747101783752
+2008-06-05,Intel Funds Eight Start-Ups,neutral,0.011037133634090424
+2008-06-07,The Federal Trade Commission’s decision to look into accusations about Intel’s pricing reversed a previous stance that had blocked the inquiry for many months.,positive,0.28108134865760803
+2008-06-07,"In Turnabout, Antitrust Unit Looks at Intel",neutral,-0.0032300278544425964
+2008-06-10,"Cisco Systems, Intel and four other backers of the wireless Internet standard WiMax said they want to help spread use of the technology by limiting possible patent royalties.",positive,0.5075699687004089
+2008-06-10,WiMax Backers Seek to Encourage Use by Pooling Patents,neutral,0.10855290293693542
+2008-06-14,Some of the biggest technology companies have formed a group to fight information overload.,neutral,0.07215257734060287
+2008-06-14,"Lost in E-Mail, Tech Firms Face Self-Made Beast",negative,-0.5231688618659973
+2008-06-19,"The MSI U100 Wind is the latest ultra-light laptop runs Windows XP and has Intel’s new 1.6-gigahertz Atom chip, which enables the machine to use less power.",neutral,0.07348643243312836
+2008-06-19,The Latest Contender in the Lightweight Category,neutral,0.1777537614107132
+2008-06-21,Antitrust investigations are so maddening that the Federal Trade Commission is likely to have a hard time getting to the bottom of the case against Intel.,negative,-0.7903928160667419
+2008-06-21,A.M.D.,neutral,0.04129112511873245
+2008-06-21,and Its War With Intel,neutral,-0.2278461754322052
+2008-06-25,"Intel, Microsoft’s long-time partner in the development of the personal computer, has decided that it won’t upgrade most of the computers used by its employees to Microsoft’s Vista operating system.",negative,-0.5711901187896729
+2008-06-25,"Et Tu, Intel?",neutral,-0.08563131093978882
+2008-06-25,Chip Giant Won’t Embrace Microsoft’s Windows Vista,negative,-0.6488859057426453
+2008-06-30,"Intel might do well to be alarmed by the computer chips being designed by Qualcomm, a maker of chips for cellphones.",negative,-0.8114340305328369
+2008-06-30,Intel’s Dominance Is Challenged by a Low-Power Upstart,negative,-0.768730878829956
+2008-07-01,One of Intel’s chief advantages is that Microsoft’s MS-DOS operating system will be booting on the teraflop Intel microprocessor in every personal computer of the future.,neutral,0.43991050124168396
+2008-07-01,Intel beleives that because it has always believed in backward compatibility.,neutral,0.3190913498401642
+2008-07-01,"In the world of handhelds and smartphones, that may not be enough of a margin.",neutral,-0.3589479923248291
+2008-07-01,Intel Bets on the Past,neutral,-0.1132696121931076
+2008-07-10,"German thin-film solar cell manufacturer Sulfurcell closed on a $133.7 million round, which was led by Intel Capital with a $37.7 million contribution.",neutral,0.378580778837204
+2008-07-10,Intel Capital Invests $37.7 Million in Sulfurcell,neutral,0.04586801677942276
+2008-07-16,Intel reported a sharp rise in profit and said strong demand worldwide for computer chips would continue in the current quarter.,positive,0.921314537525177
+2008-07-16,Profit Rises 25% at Intel on Strong Global Demand,positive,0.7185052633285522
+2008-07-29,"Yahoo, Hewlett-Packard and Intel announced a global research venture Tuesday to advance cloud computing, stoking healthy competition with other research initiatives backed by other U.S. companies and universities.",positive,0.8487938642501831
+2008-07-29,The Virtuous Competition in Cloud Computing Research,neutral,0.2270335853099823
+2008-08-01,I.B.M.,neutral,0.042657434940338135
+2008-08-01,"plans to build a $360-million data center in North Carolina and another big one in Tokyo, both for delivering cloud computing services to corporate customers.",neutral,0.07110186666250229
+2008-08-01,"This follows an announcement of a joint cloud research program from Yahoo, Hewlett-Packard and Intel on Tuesday.",neutral,0.1407092660665512
+2008-08-01,Commercializing the Cloud,neutral,0.09037638455629349
+2008-08-04,"Intel said it would initially aim its new microprocessor family, code-named Larrabee, at the personal computer graphics market.",neutral,0.111094631254673
+2008-08-04,Intel’s Line of Graphics Chips Could Have Broader Uses,neutral,0.12676705420017242
+2008-08-06,Those of us who pay lip service to green living can now be more genuinely P.C.,neutral,0.07335926592350006
+2008-08-06,"-- with the Dell Studio Hybrid PC, a computer with special power-saving features.",neutral,0.13369494676589966
+2008-08-06,A Green PC That’s Easier on the Electric Bill.,neutral,0.07393234223127365
+2008-08-06,The Bamboo Case Is Optional.,neutral,-0.0025549400597810745
+2008-08-08,The antitrust chief at the Federal Trade Commission is leaving after a 2-1/2 year period that saw the agency open a formal investigation into Intel and try to stop the merger of two organic grocery chains.,negative,-0.6087939739227295
+2008-08-08,F.T.C.,neutral,0.034378547221422195
+2008-08-08,Antitrust Chief to Join Linklaters,neutral,0.00982736423611641
+2008-08-17,"The previous post, on stealing a company, brought a claim that is common, but incorrect: that a major company used to be a penny stock.",negative,-0.625239908695221
+2008-08-17,"In this case, the claim was made for Intel.",neutral,-0.03161478787660599
+2008-08-17,Has Any Penny Stock Become a Big Company?,neutral,0.07315617799758911
+2008-08-18,Google is being upfront about its self interest in building public pressure for a plan to allow soon-to-be-vacant broadcast spectrum for new high-speed wireless Internet access.,positive,0.5382834076881409
+2008-08-18,"The airwaves, known as “white spaces,” will be unused after TV stations switch to all digital broadcasts next February, and the Federal Communications Commission is expected to decide their fate soon.",neutral,-0.33108460903167725
+2008-08-18,Google Starts an Advocacy Campaign for More Unlicensed Spectrum,neutral,-0.03010253608226776
+2008-08-20,Intel and Yahoo announced a partnership Wednesday to use widget technology to bring interactive Internet applications to televisions.,positive,0.6673997044563293
+2008-08-20,Yahoo and Intel to Bring Interactive Applications to TV Sets,neutral,0.18575513362884521
+2008-08-20,The initiative would let people to do things like check their stock prices or peruse their photos all while watching TV.,neutral,0.031067028641700745
+2008-08-20,"Intel, Yahoo Partnering on Internet TV Concept",neutral,-0.015954695641994476
+2008-08-21,Intel has made progress in a technology that could lead to the wireless recharging of gadgets and the end of the power-cord spaghetti behind electronic devices.,positive,0.7610566020011902
+2008-08-21,Intel Moves to Free Gadgets of Their Recharging Cords,neutral,0.14416737854480743
+2008-09-23,The graphics processing company helps organizations analyze a vast quantity of data and do it much faster than standard computers.,neutral,0.0631946474313736
+2008-09-23,Nvidia Chip Speeds Up Imaging for Industrial Use,neutral,0.023669719696044922
+2008-09-26,"Fallen chip superstar Transmeta is looking for a buyer, leaving behind an industry now obsessed with saving power.",negative,-0.7493953108787537
+2008-09-26,"Batteries Near Dead, Transmeta Is Up for Sale",neutral,0.04797716066241264
+2008-09-30,"With Intel encroaching on its mobile device business, ARM Holdings has turned to I.B.M.",neutral,-0.38810446858406067
+2008-09-30,and Samsung.,neutral,0.004423713311553001
+2008-09-30,I.B.M.,neutral,0.042657434940338135
+2008-09-30,Lends a Hand to ARM,neutral,0.08891507983207703
+2008-09-30,A.M.D.,neutral,0.04129112511873245
+2008-09-30,hopes that a new server chip called Shanghai can help it compete with Intel again.,positive,0.8870193958282471
+2008-09-30,A.M.D.,neutral,0.04129112511873245
+2008-09-30,Looks to Shanghai to Make Up for Mistakes,neutral,-0.02177181839942932
+2008-10-01,Apple announced that it would no longer enforce its nondisclosure agreement for software it has released.,neutral,-0.19906362891197205
+2008-10-01,A Slice of Glasnost at Apple,neutral,0.009786054491996765
+2008-10-01,The Clarion mini PC has an 800-megahertz Intel Atom processor and 512 megabytes of memory.,neutral,0.010747418738901615
+2008-10-01,"For the Car With Everything, a Computer of Its Own",neutral,-0.0006816014647483826
+2008-10-07,"In a dramatic effort to maintain its position as the only real rival to Intel, Advanced Micro Devices plans to announce that it will become two companies.",neutral,0.4264209270477295
+2008-10-07,A.M.D.,neutral,0.04129112511873245
+2008-10-07,to Split Into Two Operations,neutral,-0.07492302358150482
+2008-10-07,"Advanced Micro Devices plans to announce Tuesday that it will split into two companies – one focused on designing microprocessors and the other on the costly business of manufacturing them – in a drastic effort to maintain its position as the only real rival to Intel, according to The New York Times’s Ashlee Vance.",neutral,0.3483913540840149
+2008-10-07,A.M.D.,neutral,0.04129112511873245
+2008-10-07,to Split Into Two Operations,neutral,-0.07492302358150482
+2008-10-08,Intel and A.M.D.’s long-running chip feud is carrying over to A.M.D.’s proposed factory spinoff.,negative,-0.8370703458786011
+2008-10-08,Intel and A.M.D.,neutral,0.004702186211943626
+2008-10-08,Carry Battle to New Chip Venture,neutral,0.22232502698898315
+2008-10-08,"The Acer Predator, which starts at $1,649 without a monitor, has an Intel Core 2 Quad 2.5-gigahertz processor and an Nvidia GeForce 9600 GT graphics card.",neutral,0.0022603627294301987
+2008-10-08,"A Gaming Rig With an Intimidating Aura, and That’s Even Before You Look Under the Hood",neutral,-0.2766914665699005
+2008-10-09,"Falling prices for the flash memory used in a wide range of consumer electronics have forced Micron Technology to shut down most of a factory it shares with Intel and lay off close to 3,000 workers.",negative,-0.9623630046844482
+2008-10-09,Memory Maker Reduces Work Force,negative,-0.79857337474823
+2008-10-14,"Intel reported solid third quarter results, while cautioning that worsening economic conditions could have an unpredictable effect on the coming month.",positive,0.3257018029689789
+2008-10-14,"Profit Rises, but Intel Chief Offers a Gloomy Outlook",negative,-0.9183154702186584
+2008-10-29,I have seen some computers listed as having an “Atom” processor.,neutral,0.0008337479084730148
+2008-10-29,What is this and can it run Windows?,neutral,0.010204361751675606
+2008-10-29,A Chip for Tiny PCs,neutral,-0.007036857306957245
+2008-11-12,The forecasts suggest that the technology industry is about to enter a slump that will rival or possibly exceed the dot-com bust of 2001.,negative,-0.9040507078170776
+2008-11-12,"Led by Intel, Chip Makers Cut Outlook",negative,-0.9034891128540039
+2008-11-15,"In the span of a few weeks, orders for technology products have collapsed and workers have been laid off.",negative,-0.9641135334968567
+2008-11-15,"Tech Companies, Long Insulated, Now Feel Slump",negative,-0.6916890740394592
+2008-11-17,"While Intel’s Core i7 microprocessor has received glowing reviews, there is good reason for caution.",positive,0.8311867117881775
+2008-11-17,"Burned Once, Intel Prepares New Chip Fortified by Constant Tests",neutral,0.08002017438411713
+2008-12-02,Intel will announce a deal to become the sole supplier of flash memory for a coming Hitachi line of computer drives.,positive,0.6920986175537109
+2008-12-02,"In Deal With Hitachi, Intel Will Expand Its Flash Memory Business",positive,0.8795604109764099
+2008-12-11,More consumers are eagerly eyeing a new wave of solid-state drives that are smaller and many times faster than traditional hard drives.,neutral,0.10531238466501236
+2008-12-11,Computing Without a Whirring Drive,neutral,0.006077662110328674
+2008-12-12,A new study from Intel pits the Internet versus sex to show how important technology has become.,neutral,-0.02480819821357727
+2008-12-12,Survey Asks: Internet Access or Sex?,neutral,-0.10157802700996399
+2009-01-07,Intel said that its sales for the fourth quarter would fall short of previously reduced forecasts by about $500 million.,negative,-0.966154932975769
+2009-01-07,"As Sales Picture Worsens, Intel Trims Forecast Again",negative,-0.9356586933135986
+2009-01-08,"Clearwire, the wireless Internet provider that attracted billions of dollars of investment last May from big names like Google, Time Warner Cable, Intel and Comcast, is causing its investors some major heartburn.",negative,-0.9374240636825562
+2009-01-08,Clearwire Proves Costly for Its Big Investors,negative,-0.7897863388061523
+2009-01-08,"ABC unveils television widgets, based on Intel technology, that the network says will enrich shows with new features.",positive,0.6384719610214233
+2009-01-08,ABC Says Intel Widgets Will Enrich TV Shows,neutral,0.33358699083328247
+2009-01-13,"Intel is hiring Venables Bell & Partners in San Francisco as its lead global creative agency, replacing McCann Erickson Worldwide.",neutral,0.2992900609970093
+2009-01-13,Intel Shifts Image Advertising to a Smaller Agency,neutral,0.02316681295633316
+2009-01-14,"Intel Capital, the investment arm of Intel, said Wednesday that it will invest $23 million in three Indian companies in areas ranging from online marketing to education.",neutral,0.3593902885913849
+2009-01-14,Intel Capital Invests $23 Million in India,neutral,0.055872321128845215
+2009-01-15,The chief executive said Intel would continue to invest in manufacturing technology as it looks to outpace rivals.,positive,0.7639064788818359
+2009-01-15,Intel Looks to Invest Despite a Drop-Off,positive,0.8628859519958496
+2009-01-21,Advanced Micro Devices is doing what it can to keep from taking on water.,neutral,0.2607080936431885
+2009-01-21,"Hurt by a bruising battle with Intel, A.M.D.",negative,-0.9493800401687622
+2009-01-21,agreed to sell off its handheld graphics business and multimedia assets to Qualcomm for $65 million.,neutral,0.03610483556985855
+2009-01-21,AMD Sells Graphics Unit for $65 million,neutral,0.020944099873304367
+2009-01-21,The layoffs come as the company grapples with a steep decline in demand for personal and business computers.,negative,-0.9529095888137817
+2009-01-21,"Intel to Cut at Least 5,000 Jobs",negative,-0.9422255754470825
+2009-01-22,"With sales of PCs falling, Microsoft said it would lay off 5 percent of its work force, and warned that technology spending could wane for years to come.",negative,-0.9594321846961975
+2009-01-22,Microsoft Slashes Jobs as Sales Fall,negative,-0.9488266706466675
+2009-01-22,"The results put additional pressure on Advanced Miro Devices, which has already lost money for eight consecutive quarters and has struggled against its bigger and stronger rival, Intel.",negative,-0.941974937915802
+2009-01-22,Sales Decline by One-Third at A.M.D.,negative,-0.9642379283905029
+2009-01-22,as It Prepares to Spin Off Manufacturing,neutral,-0.03320224583148956
+2009-01-28,"European regulators have been investigating Intel’s business practices since the start of the decade, after a complaint by a rival, Advanced Micro Devices.",negative,-0.8992064595222473
+2009-01-28,European Court Refuses to Delay Intel Inquiry,negative,-0.688641369342804
+2009-01-28,Intel’s decision to defy European antitrust investigators raised questions about how to handle the remainder of the investigation.,negative,-0.8844954967498779
+2009-01-28,Europe Ponders Its Next Step in Intel Inquiry,neutral,0.07201986759901047
+2009-02-04,I.B.M.,neutral,0.042657434940338135
+2009-02-04,says competitors are spreading false rumors that it plans to stop selling servers based on Intel and A.M.D.,negative,-0.8340724110603333
+2009-02-04,chips.,neutral,0.04985662177205086
+2009-02-04,I.B.M.,neutral,0.042657434940338135
+2009-02-04,Denies Exit From Mainstream Server Game,neutral,-0.060428716242313385
+2009-02-05,"Arthur Rock, who backed Fairchild Semiconductor, Intel and Apple, invested with Bernard L. Madoff, according to a list made public in bankruptcy court filings Thursday.",neutral,-0.0025467872619628906
+2009-02-05,"Arthur Rock, Legendary V.C., Invested With Bernard Madoff",neutral,0.02418534830212593
+2009-02-09,"The latest version of Itanium, once due in 2007, will ship later this year, marking a string of disappointments for Intel and its decade-old server chip.",negative,-0.9506068229675293
+2009-02-09,"Ten Years After First Delay, Intel’s Itanium Is Still Late",neutral,0.050171129405498505
+2009-02-10,The world’s largest chip maker is holding itself up as a model for others to follow by increasing capital spending during a deep economic slump.,positive,0.8482299447059631
+2009-02-10,Intel’s Chief Calls for Investments in U.S.,neutral,0.16549214720726013
+2009-02-16,"While there is movement by chip makers to spur a new generation of TVs with full browser capability, TV manufacturers simply do not seem to want it.",negative,-0.5591678619384766
+2009-02-16,What Convergence?,neutral,0.028273530304431915
+2009-02-16,TV’s Hesitant March to the Net,negative,-0.4607433080673218
+2009-02-16,The first wave of mobile devices based on Intel and Nvidia chips have started to arrive.,neutral,0.23117467761039734
+2009-02-16,Smartphones Under Assault From Beige-Box Bunch,negative,-0.507968008518219
+2009-03-02,"As personal computer sales stagnate, Microsoft and its longtime partner, Intel, are looking to diversify into sophisticated artificial intelligence products.",positive,0.5133237838745117
+2009-03-02,Microsoft Mapping Course to a Jetsons-Style Future,neutral,0.0466449037194252
+2009-03-25,"Paul Otellini told Intel employees that Sun has been on a road show, offering itself to every potential suitor it could find.",positive,0.6754124760627747
+2009-03-25,Intel Boss Says Sun Was Shopped All Over,neutral,-0.13060462474822998
+2009-03-25,From Ashlee Vance at Bits:,neutral,0.02799142897129059
+2009-03-25,Intel Boss Says Sun Was Shopped All Over,neutral,-0.13060462474822998
+2009-04-01,"The Linux Foundation will now steward the Moblin Linux project, which is aimed making software for a wide variety of computing systems.",neutral,0.03739194571971893
+2009-04-01,Intel Turns Over Its Linux Operating System,neutral,0.019910836592316628
+2009-04-02,The personal computer world may be headed for an upheaval as thin and cheap netbooks offer the portability of a cellphone and the power of a PC.,negative,-0.5404103994369507
+2009-04-02,"Light and Cheap, Netbooks Are Poised to Reshape PC Industry",positive,0.6806461811065674
+2009-04-02,"The companies plan to spend $250 million to find ways for doctors to remotely monitor, diagnose and consult with patients.",neutral,0.2560456097126007
+2009-04-02,G.E.,neutral,0.0415060818195343
+2009-04-02,and Intel Working on Remote Monitors to Provide Home Health Care,neutral,0.018259840086102486
+2009-04-09,"Bill Dally, the former chair of Stanford University’s computer science department, has set Nvidia on a collision course with Intel in a battle for the future of computers.",negative,-0.7494518756866455
+2009-04-09,"Hello, Dally: Nvidia Scientist Breaks Silence, Criticizes Intel",negative,-0.8316842317581177
+2009-04-14,"The chipmaker said that first-quarter net income fell 55 percent to $647 million, or 11 cents a share, on revenue of $7.1 billion.",negative,-0.9703021049499512
+2009-04-14,Intel Says PC Sales Have Reached a Bottom and Forecasts Moderate Growth,negative,-0.9381114840507507
+2009-04-19,"An article last Sunday about immigration policies that are hindering efforts by technology companies to hire foreign-born engineers misstated the birthplace of Jerry Yang, co-founder of Yahoo.",negative,-0.8391077518463135
+2009-04-19,"He was born in Taiwan, not China.",neutral,0.02712855115532875
+2009-04-19,The article also misstated the Hungarian-born Andrew S. Grove’s role in the start-up of the Intel Corporation.,negative,-0.6965705156326294
+2009-04-19,He was brought in by Robert N. Noyce and Gordon E. Moore to operate the company at its founding in 1968; he was not a co-founder.,neutral,0.01960250735282898
+2009-04-19,Correction,neutral,0.026768818497657776
+2009-04-30,"The company defends its business practices, but a rival chip maker, A.M.D., says it is anticompetitive.",negative,-0.8458619117736816
+2009-04-30,"In Europe, Intel Faces a Large Antitrust Fine",neutral,-0.40096500515937805
+2009-05-06,"A commercial for Intel's advertising campaign, Intel: Sponsors of Tomorrow, features Ajay Bhatt, one of two chief architects on USB 1.0.",neutral,0.03804842010140419
+2009-05-06,Intel Advertisement,neutral,0.046805910766124725
+2009-05-06,"Intel’s new campaign beginning Monday in the U.S. is the company’s first to focus on its brand rather than its products, and celebrates the company’s role in the future.",neutral,0.22670704126358032
+2009-05-06,A Tech Company’s Campaign to Burnish Its Brand,neutral,-0.3011600971221924
+2009-05-12,"The fortunes of the PC industry are improving, according to Paul Otellini, chief executive of Intel.",positive,0.9233180284500122
+2009-05-12,Intel Says Outlook Is ‘a Little Better’ Than Expected,positive,0.5961419343948364
+2009-05-13,"The European Commission on Wednesday fined Intel a record of about $1.45 billion (1.06 billion euros) for abusing its dominance in the market for computer chips to exclude Advanced Micro Devices, which is Intel’s only serious rival.",negative,-0.9230189919471741
+2009-05-13,Intel Fined Record $1.45 Billion in Antitrust Case,negative,-0.9073380827903748
+2009-05-13,The European Commission said Intel had abused its position of dominance in the microchip markets to exclude its rival Advanced Micro Devices.,negative,-0.882451593875885
+2009-05-13,Europe Fines Intel $1.45 Billion in Antitrust Case,negative,-0.9370284080505371
+2009-05-13,Intel says it won’t change any of its practices despite a massive antitrust fine imposed by European regulators.,negative,-0.4435819387435913
+2009-05-13,Intel’s Strategy Won’t Change Despite Antitrust Charges,neutral,0.0596451610326767
+2009-05-13,"Intel’s chief executive, Paul Otellini, is unamused by a European regulator’s sharp comments about the company’s behavior in the PC market.",negative,-0.8868902325630188
+2009-05-13,Regulator’s Tone Raises Hackles at Intel,negative,-0.605863094329834
+2009-05-13,"A $1.4 billion fine against Intel, combined with a tough speech by the Justice Department’s antitrust chief, point to a new day for antitrust enforcement in high-tech markets.",negative,-0.30013352632522583
+2009-05-13,High-Tech Antitrust Cases: The Road Ahead,neutral,-0.022216718643903732
+2009-05-14,A.M.D.,neutral,0.04129112511873245
+2009-05-14,"cheered the European ruling, but the history of antitrust cases against big technology companies suggests that little will change in the marketplace.",neutral,-0.27040788531303406
+2009-05-14,"A Ruling Against Intel, Unlikely to Drag It Down",negative,-0.8675499558448792
+2009-05-18,"As the Obama administration gears up to toughen antitrust enforcement, the stakes appear to be highest for Google, the rising power of the Internet economy.",neutral,0.44226744771003723
+2009-05-18,New Mood in Antitrust May Target Google,neutral,0.13237376511096954
+2009-05-22,"A.M.D.’s chief executive says that after a year of turmoil, the company has its house in order and is ready to have a crack at growing again.",positive,0.7739439606666565
+2009-05-22,A.M.D.,neutral,0.04129112511873245
+2009-05-22,Hits the Reset Button,neutral,-0.014232754707336426
+2009-05-25,The Linux programmers at the chip maker are at the center of its foray into netbooks and mobile phones.,neutral,0.09214594215154648
+2009-05-25,Intel Adopts an Identity in Software,neutral,0.04669760912656784
+2009-05-26,"Intel is happy to stay in the background, letting folks like Novell and Canonical do with Moblin what they will.",neutral,0.031163690611720085
+2009-05-26,It’s a stance that ruffles Microsoft’s feathers a bit less.,neutral,-0.022565342485904694
+2009-05-26,Intel’s Odd Role as a Lead Linux Promoter,neutral,-0.13582001626491547
+2009-06-04,"Intel said Thursday that it has agreed to buy Wind River Systems, a provider of software and services for embedded and mobile devices, for $884 million in cash.",positive,0.7801498174667358
+2009-06-04,Intel to Buy Wind River for $884 Million,neutral,0.033947717398405075
+2009-06-05,"By buying Wind River, Intel is betting on the growing market for embedded devices.",positive,0.7634173035621643
+2009-06-05,It is also gambling it can keep selling software to rival chip makers.,neutral,0.30355024337768555
+2009-06-05,Intel Buys Conflicts With the Software,neutral,-0.38761624693870544
+2009-06-05,"Wind River Systems brings Intel expertise in coding for a variety of electronic devices, and a stable of potential customers for Intel chips.",neutral,0.12069807946681976
+2009-06-05,Intel Buys a Software Company to Extend Chip Market,neutral,0.2504347562789917
+2009-06-23,Exactly how the companies would work together remained unclear.,neutral,-0.006345849484205246
+2009-06-23,Executives limited their statement to the production of devices that would access the Internet and use Intel chips.,neutral,-0.01663973368704319
+2009-06-23,Nokia and Intel to Pair Up on Mobile Devices,neutral,0.11161841452121735
+2009-07-01,"LogMeIn, a software maker whose investors include the chip giant Intel, priced its initial public offering at the top of the expected range late Tuesday.",neutral,0.15893743932247162
+2009-07-01,LogMeIn’s Stock Surges in Nasdaq Debut,positive,0.2738889157772064
+2009-07-14,"The chip company reported second-quarter sales of $8 billion, which analysts say indicate how well the overall computer industry is doing.",positive,0.8129077553749084
+2009-07-14,Intel’s Results Give Hope to Industry,positive,0.8155537247657776
+2009-07-15,The market’s buoyant mood spread beyond technology as investors latched onto hopes that consumer spending may recover in time to give the economy a kick start.,positive,0.6876087188720703
+2009-07-15,Intel’s Earnings Help Drive a Rally,positive,0.6186657547950745
+2009-07-16,I.B.M.,neutral,0.042657434940338135
+2009-07-16,"reported quarterly earnings that surpassed Wall Street’s expectations, and it raised its profit forecast for the year.",positive,0.9220364689826965
+2009-07-16,I.B.M.,neutral,0.042657434940338135
+2009-07-16,Profits Beat Wall Street Forecasts,positive,0.7095165252685547
+2009-07-22,Chip delays and cancellations have become the norm in the high-profit Unix server market.,negative,-0.8951994776725769
+2009-07-22,But I.B.M.,neutral,-0.12515196204185486
+2009-07-22,"says its Power7 chip should arrive on time next year, pressuring rivals.",positive,0.8770067095756531
+2009-07-22,I.B.M.,neutral,0.042657434940338135
+2009-07-22,Expects On-Time Arrival for Power7 Chip,neutral,0.004431761801242828
+2009-08-24,Intel has acquired software company RapidMind in an effort to push development of programs that can exploit the power of Intel’s multicore processors.,positive,0.6716726422309875
+2009-08-24,"Intel Acquires RapidMind, a Software Company",neutral,0.08630692958831787
+2009-09-07,"Intel chips dominate in computers, Qualcomm’s in cellphones.",neutral,0.0010270960628986359
+2009-09-07,"With the overlap in tablet PCs, laptops and smartphones, the two hunger for each other’s lunch.",neutral,0.023212358355522156
+2009-09-07,Intel and Qualcomm Eye Each Other’s Terrain,neutral,-0.0207320898771286
+2009-09-11,"With a new marketing campaign, Advanced Micro Devices has decided to tout its graphics chips over its CPUs, ending many years of battling over technical specs with Intel.",positive,0.7811094522476196
+2009-09-11,So Long CPU Wars.,negative,-0.49390044808387756
+2009-09-11,It Was Fun.,neutral,0.1755189597606659
+2009-09-14,"Pat Gelsinger, who runs Intel’s enterprise business, plans to leave the company, and Sean Maloney, head of sales and marketing, will take on a broader role, according to people briefed on the changes.",neutral,-0.04059740528464317
+2009-09-14,Intel Is Said to Plot an Executive Overhaul,neutral,-0.005488317459821701
+2009-09-14,"Intel is expected to reveal a sweeping management change on Monday, Bits reported.",neutral,0.19439372420310974
+2009-09-14,Intel Is Said to Plot an Executive Overhaul,neutral,-0.005488317459821701
+2009-09-16,"The Intel Corporation, the computer chip maker, is claiming in court documents that European Union regulators made serious mistakes in levying a record fine of 1.06 billion euros ($1.45 billion) last May on a charge of illegally restricting a competitor.",negative,-0.9202374815940857
+2009-09-16,Intel Says Europe Erred in Levying $1.4 Billion Fine,neutral,0.16146689653396606
+2009-09-22,The European Commission’s antitrust unit on Monday published a torrent of documents to back up its contention that the record $1.5 billion fine it imposed in May against Intel was justified.,negative,-0.5988748669624329
+2009-09-22,European Union Lays Out Its Evidence Against Intel,neutral,0.026884837076067924
+2009-09-25,Intel showed off computer chips and software aimed at a range of mobile devices at its annual developer conference in San Francisco this week.,neutral,0.0921514704823494
+2009-09-25,Intel Inside?,neutral,-0.13282053172588348
+2009-09-25,Try Intel Everywhere,neutral,0.022456206381320953
+2009-10-05,A new technology from Intel called Light Peak could increase data transmission speeds inside a PC by a factor of 20 and eliminate the need for most of the device connectors found on today’s machines.,positive,0.8158088326454163
+2009-10-05,Shuttling PC Data at the Speed of Light,neutral,-0.20665881037712097
+2009-10-13,"Intel’s performance in the third quarter, analysts say, suggests that economic prospects are brightening.",positive,0.9089227914810181
+2009-10-13,Intel’s Profit and Revenue Top Forecast,neutral,-0.04422667622566223
+2009-10-16,"Although optimistic, some analysts are still taking a wait-and-see attitude regarding the recovery of companies like I.B.M.",neutral,-0.1343049257993698
+2009-10-16,and Google.,neutral,-0.0030244700610637665
+2009-10-16,The Tech Sector Trumpets Signs of a Real Rebound,neutral,0.21951641142368317
+2009-10-19,Wall Street rose strongly as investors bet that another round of strong corporate earnings would propel the markets even higher.,positive,0.8491379022598267
+2009-10-19,Earnings Outlook Drives Wall Street Higher,positive,0.18697227537631989
+2009-10-24,"Roomy Khan faxed confidential sales and pricing information for computer chips sold by Intel to Galleon in 1998, according to court documents.",neutral,-0.3573150336742401
+2009-10-24,Witness in Galleon Case Is Said to Have History of Passing Secrets,neutral,0.08823532611131668
+2009-10-27,The start-up Tilera has picked a daunting path by opting to tackle Intel in the server chip market with a new product that it claims is the fastest chip ever built.,neutral,0.21080650389194489
+2009-10-27,Tilera Taunts Intel With a 100-Core Chip,negative,-0.7542054057121277
+2009-10-28,"Tilera, the chip start-up, is boasting that it has created the world’s first 100-core chip — a product capable of giving Intel a run for its money in the high-profit server chip market.",positive,0.8599490523338318
+2009-10-28,Tilera Taunts Intel With a 100-Core Chip,negative,-0.7542054057121277
+2009-10-30,"Years before the current case erupted, authorities missed an opportunity to break up a nascent insider trading ring.",negative,-0.8643510937690735
+2009-10-30,Hints of Missed Chance to Pursue Galleon Case,neutral,0.08461962640285492
+2009-10-30,The first tip from inside Intel reached Raj Rajaratnam more than a decade ago — from the same source who has now turned against him in the biggest insider-trading case in a generation.,negative,-0.6097339391708374
+2009-10-30,Hints of Missed Chance to Pursue Galleon Case,neutral,0.08461962640285492
+2009-11-04,New York’s attorney general charged the company with abusing its dominant position in the chip market.,negative,-0.9051539301872253
+2009-11-04,State Accuses Intel in an Antitrust Suit,negative,-0.8246446251869202
+2009-11-05,"New York’s attorney general, Andrew M. Cuomo, on Wednesday filed an antitrust suit against Intel for abusing its dominant market position.",negative,-0.9065055847167969
+2009-11-05,Cuomo Files Antitrust Suit Against Intel,negative,-0.7935522198677063
+2009-11-10,"Digging deeper into the health care market, Intel has started selling its own Intel Reader device aimed at people who struggle to read printed material.",positive,0.5089588165283203
+2009-11-10,Intel Sells Its Own Reader for the Health Care Market,neutral,0.0072299037128686905
+2009-11-12,"Advanced Micro Devices, a rival maker of computer chips, had accused Intel of strong-arm tactics to pressure PC makers to buy Intel products.",negative,-0.9053569436073303
+2009-11-12,A.M.D.-Intel Settlement Won’t End Their Woes,negative,-0.8557515740394592
+2009-11-12,"Ending the computer industry’s most bitter legal war, the chip maker Intel agreed on Thursday to pay a rival, Advanced Micro Devices, $1.25 billion to settle antitrust and patent disputes.",positive,0.6720317006111145
+2009-11-12,Intel to Pay $1.25 Billion to Settle With A.M.D.,neutral,0.07028105854988098
+2009-11-17,"According to the former head of Intel’s server chip business, Itanium has finally moved into the black.",neutral,0.05897399038076401
+2009-11-17,"A Decade Later, Intel’s Itanium Chip Makes a Profit",positive,0.4222200810909271
+2009-11-18,"Andy Grove, former chief executive of Intel, offers his ideas for bringing some of the “better, faster, cheaper” virtues of the chip industry to health care.",neutral,0.37263011932373047
+2009-11-18,Andy Grove’s Prescription for Health Care,neutral,0.028730526566505432
+2009-11-18,"Increasingly, they are really large systems that rely on mainstream computing parts.",neutral,0.008140205405652523
+2009-11-18,"Supercomputers Are Still Fast, but Less Super",neutral,0.03528125584125519
+2009-11-19,The ombudsman said investigators failed to note statements that might have been relevant to the case.,negative,-0.838443398475647
+2009-11-19,European Ombudsman Criticizes Inquiry Into Intel,negative,-0.8293564319610596
+2009-11-19,Profits gained from Nvidia’s gaming chip business have helped pay for an expansion into the corporate and science markets.,positive,0.8973619937896729
+2009-11-19,Nvidia’s Gamers Helped It Win Big Business,positive,0.8357653617858887
+2009-12-01,"Another View: Bill George, a Harvard business professor and the author of “7 Lessons for Leading in Crisis,” puts forth some proposals to revive employment growth in a declining job market.",neutral,0.4402466416358948
+2009-12-01,Another View: Innovation Can Unlock Job Growth,positive,0.7546730041503906
+2009-12-02,"Dell’s Precision M6500 “mobile workstation” is structured around an advanced Intel Core i7 quad-core processor and a 17-inch LED backlighted screen, 1920 by 1200 pixels.",neutral,0.023746807128190994
+2009-12-02,A Muscular Laptop That Defies the Lightweight Trend,neutral,0.09947919845581055
+2009-12-04,"Court documents recently unsealed in federal court in Northern California confirm an earlier report by The New York Times that Raj Rajaratnam, the hedge fund billionaire accused of insider trading, received insider trading information as far back as 1999.",negative,-0.6805509328842163
+2009-12-04,"Rajaratnam Was Investigated Before, Court Papers Say",neutral,-0.40378841757774353
+2009-12-04,"DealBook has the recently unsealed court document naming Raj Rajaratnam as the recipient of confidential information on Intel, passed on by a woman now charged of aiding the hedge fund billionaire in a subsequent, expansive insider-trading scheme.",negative,-0.44994431734085083
+2009-12-04,More on Filing Identifying Rajaratnam in 1999 Case,neutral,0.0036918576806783676
+2009-12-08,"In a humbling move, Intel has pushed back, way back, the release of a graphics chip meant to challenge Nvidia and Advanced Micro Devices.",positive,0.4654216766357422
+2009-12-08,Shares Rise in Graphics Firms After Intel Delays Chip,negative,-0.4898577928543091
+2009-12-10,A former senior I.B.M.,neutral,-0.018564336001873016
+2009-12-10,executive denied being involved in a sprawling hedge fund insider trading case and asked a court on Wednesday to dismiss civil charges by the Securities and Exchange Commission.,negative,-0.5336365699768066
+2009-12-10,Ex-I.B.M.,neutral,0.03057708591222763
+2009-12-10,Executive Denies Galleon Charges,neutral,-0.21393629908561707
+2009-12-15,"A federal grand jury formally indicted Raj Rajaratnam and Danielle Chiesi on Tuesday, accusing the billionaire hedge fund manager of the Galleon Group and the former Bear Stearns fund manager of operating at the center of a vast insider trading ring.",negative,-0.8525213003158569
+2009-12-15,Grand Jury Indicts Galleon Chief and Associate,negative,-0.6814034581184387
+2009-12-16,The agency asserted the chip maker systematically prevented rivals from selling their products by blocking access to the market.,negative,-0.9085529446601868
+2009-12-16,F.T.C.,neutral,0.034378547221422195
+2009-12-16,Says Intel Stifles Competition,negative,-0.7383798956871033
+2009-12-16,"The Federal Trade Commission on Wednesday sued the chip maker Intel, accusing it of using its dominant market position “to stifle competition and strengthen its monopoly.”",negative,-0.922501802444458
+2009-12-16,F.T.C.,neutral,0.034378547221422195
+2009-12-16,Accuses Intel of Trying to Stifle Competition,negative,-0.7662244439125061
+2009-12-17,One proposed remedy from the F.T.C.,neutral,-0.09029585868120193
+2009-12-17,in its lawsuit against Intel would finally hand Nvidia the rights to produce mainstream computing chips.,positive,0.4908997416496277
+2009-12-17,Has the F.T.C.,neutral,0.02994614839553833
+2009-12-17,Opened the Door for the Great Chip War?,neutral,-0.09168834984302521
+2009-12-21,A move to encourage computer education reflects the concern that people will be divided between those who understand technology and those who are ruled by it.,neutral,-0.41465210914611816
+2009-12-21,Computer Science Education: It’s Not Shop Class,neutral,-0.12117767333984375
+2009-12-21,Stocks gained after Sanofi-Aventis announced it would buy the health-care products company Chattem and Bucyrus International said it would buy the mining equipment division of Terex.,positive,0.5947784781455994
+2009-12-21,Markets Rebound on Assist by Optimistic Analysts,positive,0.3962656855583191
+2010-01-06,"The investment arms of large Taiwanese and Chinese manufacturers have created an investment network in Silicon Valley that pumps money into a variety of chip, software and services companies, and some have proven more willing than entrenched U.S. venture capitalists to back risky endeavors.",positive,0.6211531758308411
+2010-01-06,Asia Gains Edge Backing Tech Start-Ups,positive,0.5781729221343994
+2010-01-07,"Even as concerns rise about technology distractions for drivers, automakers are rapidly bringing PC features to the dashboard.",positive,0.4963418245315552
+2010-01-07,"Despite Risks, Internet Creeps Onto Car Dashboards",neutral,-0.11850826442241669
+2010-01-07,"Anil Kumar, a former director at McKinsey & Company accused of leaking information to Raj Rajaratnam in the Galleon Group insider trading case, pleaded guilty on Thursday and agreed to cooperate with prosecutors in the widening investigation.",neutral,-0.3221362829208374
+2010-01-07,Guilty Plea in Galleon Insider Trading Case,negative,-0.6885159015655518
+2010-01-13,"Thomas Hardin, an investment analyst at the center of the biggest insider-trading case in a generation, may lead prosecutors to other key players in the investigation of Raj Rajaratnam and his Galleon Group hedge fund.",negative,-0.6427943706512451
+2010-01-13,Secret Witness Emerges in Galleon Case,neutral,-0.07661444693803787
+2010-01-14,The gain in inventories suggested that businesses were feeling more confident that sales would pick up.,positive,0.8917210102081299
+2010-01-14,Technology Helps Lead Shares Higher as Retailers Slip,positive,0.7867984175682068
+2010-01-15,Intel has used its hefty pile of cash to advance its manufacturing prowess and technology while rival chip makers have struggled to stay afloat.,positive,0.5845550894737244
+2010-01-15,Intel’s Bet on Innovation Pays Off in Faster Chips,positive,0.31413689255714417
+2010-01-15,Stocks advanced for a second day as technology shares climbed before Intel reported earnings.,positive,0.6801894903182983
+2010-01-15,"In addition, business inventories increased more than forecast, overshadowing an unexpected drop in retail sales.",positive,0.6409142017364502
+2010-01-15,Technology Helps Shares Higher as Retailers Slip,positive,0.6458633542060852
+2010-01-15,"Federal prosecutors on Friday again asked for more time to indict three defendants in the Galleon Group insider trading case, as the government and defense lawyers work out potential plea agreements for the men.",positive,0.04481452703475952
+2010-01-15,Prosecutors Near New Plea Deal in Galleon Case,neutral,-0.031099289655685425
+2010-01-26,"Prosecutors in the insider trading case surrounding the Galleon Group told a federal judge Tuesday that Mark Kurland, a co-founder of New Castle Funds, had waived an indictment, an indication he intends to plead guilty in the case.",negative,-0.5751301050186157
+2010-01-26,New Castle Exec to Plead Guilty in Galleon Case,negative,-0.7213187217712402
+2010-01-28,"Rajiv Goel, an Intel employee charged in connection with the huge Galleon Group insider-trading case, has left the company, a spokesman said.",negative,-0.7830304503440857
+2010-01-28,Goel Leaves Intel Amid Galleon Charges,negative,-0.8353533744812012
+2010-01-30,Some ambitious projects in sensor research offer a glimpse of where this fledgling field may be headed.,neutral,0.13039155304431915
+2010-01-30,Smart Dust?,neutral,-0.13273052871227264
+2010-01-30,"Not Quite, but We’re Getting There",positive,0.49857649207115173
+2010-02-05,"Federal prosecutors filed court papers Thursday indicating a former Intel executive charged in a massive insider trading case has agreed to waive indictment, a necessary step before a guilty plea can be entered.",neutral,-0.0055183470249176025
+2010-02-05,Path Cleared for Plea by Former Intel Executive,neutral,0.016083382070064545
+2010-02-08,"A former executive of Intel became the 10th person to plead guilty in the Galleon Group insider trading case after admitting in court on Monday afternoon that he had passed confidential corporate information to Galleon’s founder, Raj Rajaratnam.",negative,-0.6417180299758911
+2010-02-08,10th Person in Galleon Insider Case Pleads Guilty,negative,-0.5606362223625183
+2010-02-09,Rajiv Goel said that in 2007 he provided the hedge fund founder Raj Rajaratnam with confidential tips about Intel and Sprint Nextel.,neutral,-0.032214291393756866
+2010-02-09,Insider’s Admission Deepens Galleon Case,positive,0.298251211643219
+2010-02-15,Royal Dutch Shell and Hewlett-Packard are announcing a joint project to use next-generation sensor technology in oil exploration that points toward the potential gains from advanced sensing systems.,positive,0.8545441031455994
+2010-02-15,Smarter Sensors Start Going to Work,neutral,0.0664081797003746
+2010-02-15,"The technology heavyweights joined forces at the Mobile World Congress event in Barcelona to unveil MeeGo, a software platform designed to run on just about any computing device.",positive,0.7316304445266724
+2010-02-15,Intel and Nokia Team Up on Mobile Software,neutral,0.24068903923034668
+2010-02-16,Intel and Nokia have gambled that Qt – pronounced “cute” – will win the hearts of software creators and then win the mobile wars.,neutral,0.17858341336250305
+2010-02-16,That Smartphone Is So Qt,neutral,0.06650993227958679
+2010-02-17,"Stocks posted their biggest daily percentage gain in three months on Tuesday after strong revenue from Merck and positive regional manufacturing data instilled confidence in the economic outlook, Reuters reported.",positive,0.8806972503662109
+2010-02-17,Shares Gain as Merck Reports Strong Results,positive,0.6947116255760193
+2010-02-18,"Nathan Myhrvold’s mission and the activities of the company he heads, Intellectual Ventures, a secretive $5 billion investment firm that has scooped up 30,000 patents, inspire admiration and angst, The New York Times writes.",negative,-0.58963942527771
+2010-02-18,Turning Patents Into ‘Invention Capital’,neutral,0.10777251422405243
+2010-02-22,Intel and its rivals are in a race to dominate a growing market for small mobile devices with chips that are inexpensive and use little power.,positive,0.5653141140937805
+2010-02-22,"For Chip Makers, the Next Battle Is in Smartphones",neutral,-0.09450417011976242
+2010-02-23,"Intel is planning to set up a $2 billion fund to invest in exclusively U.S. companies, The Wall Street Journal reported.",neutral,0.11180426180362701
+2010-02-23,"Intel Plans $2 Billion Fund, Report Says",neutral,0.06779156625270844
+2010-02-23,"Intel said it was the victim of a cyber-attack in January, around the same time that Google was a victim of a broad-based attack that started in China.",negative,-0.8741153478622437
+2010-02-23,Intel Was Attacked at the Same Time as Google,negative,-0.7167251110076904
+2010-02-24,Intel is leading an initiative to add jobs and spur innovation to keep the U.S. ahead of nations like China and India.,positive,0.8511790037155151
+2010-02-24,A $3.5 Billion Effort Aims to Help Tech Start-Ups,positive,0.4780827760696411
+2010-02-24,"Intel and 24 venture capital firms said Tuesday that they planned to invest $3.5 billion in American start-ups over the next two years in an effort to keep America competitive in technology education and innovation, The New York Times reported.",positive,0.6830059289932251
+2010-02-24,A $3.5 Billion Effort Aims to Help Tech Start-Ups,positive,0.4780827760696411
+2010-02-24,"A deal announced a year ago between Intel and TSMC has failed to result in new products, highlighting Intel’s problems at getting into the consumer electronics game.",negative,-0.9528013467788696
+2010-02-24,A Tie-Up Between Intel and TSMC Fizzles,negative,-0.9365000128746033
+2010-03-01,"The entrepreneur-in-residence model has gained prominence as a calculated way for a venture capital firm to nurture a successful company into being and to increase the odds of solid returns, The New York Times writes.",positive,0.764711856842041
+2010-03-01,"6 Months, $90,000 and a Great Idea",positive,0.7040842771530151
+2010-03-09,Two of the world’s computing powerhouses have started a war of words around their forthcoming tablet computers.,negative,-0.8505308628082275
+2010-03-09,H.P.,neutral,0.03744767978787422
+2010-03-09,"Barks, Then Bites Apple on the iPad",negative,-0.46967190504074097
+2010-03-11,"Intel will add a third leg to its big event media strategy with a major presence during the CBS coverage of March Madness, a k a the Division I men’s basketball tournament of the National Collegiate Athletic Association.",positive,0.7251555323600769
+2010-03-11,Intel Goes ‘Mad’ as Big-Event TV Strategy Continues,neutral,-0.2859148383140564
+2010-03-11,"Betaworks, the start-up incubator that helped spawn TweetDeck and Bit.ly, raises $20 million.",neutral,0.10088809579610825
+2010-03-11,"Investors Bet on Betaworks, a New York Tech Incubator",neutral,0.2629946172237396
+2010-03-13,Fiber optic links may soon help consumer gadgets and computers communicate with each other at ultrahigh speeds.,positive,0.5653221011161804
+2010-03-13,An Express Lane From Camera to Computer,neutral,0.021806541830301285
+2010-03-17,A platform called Google TV will bring the Web into the living room through televisions and set-top boxes.,neutral,0.014728237874805927
+2010-03-17,Google and Partners Seek TV Foothold,neutral,0.07899314910173416
+2010-04-01,John Doerr’s decision to step down from the Amazon board came amid an inquiry by the F.T.C.,neutral,-0.3067037761211395
+2010-04-01,into the interlocking ties between Amazon and Apple.,neutral,0.05692233890295029
+2010-04-01,F.T.C.,neutral,0.034378547221422195
+2010-04-01,Is Said to Have Looked Into Amazon-Google Ties,neutral,0.015859242528676987
+2010-04-12,"TechShop, a chain of do-it-yourself workshops, is a corporate version of the “hacker spaces” that have risen in popularity over the last couple of years to cater to people who like to hack things open and see how they work, The New York Times writes.",neutral,0.04778503254055977
+2010-04-12,Inventors Wanted.,neutral,0.06280352920293808
+2010-04-12,Cool Tools Provided.,neutral,0.08838599175214767
+2010-04-14,"After Intel’s positive first-quarter results, analysts say the PC market could grow by as much as 25 percent this year.",positive,0.9175793528556824
+2010-04-14,PC Sales Are on Course for Big Increase in 2010,positive,0.8873623609542847
+2010-04-17,The One Laptop Per Child program has an ambitious goal.,neutral,0.2184489518404007
+2010-04-17,But can technology offer complete answers to problems of the developing world?,neutral,0.2745712697505951
+2010-04-17,Two Billion Laptops?,neutral,-0.06827870011329651
+2010-04-17,It May Not Be Enough,neutral,-0.356724351644516
+2010-04-21,White Collar White examines the state of play in the Galleon Group insider trading case and how the Justice Department has identified 22 companies in which it suspects such trading may have taken place.,neutral,-0.0632840096950531
+2010-04-21,Casting a Wider Net in the Galleon Insider Case,negative,-0.20890992879867554
+2010-05-06,"Clearwire said Thursday it’s changed the terms of an agreement it had with Intel, one of its largest investors, that could lead the way for Clearwire to dump WiMAX and switch to L.T.E., GigaOm reported.",positive,0.5210860371589661
+2010-05-06,Will Clearwire Dump WiMAX?,neutral,-0.3996462821960449
+2010-05-06,"Cisco and EMC found a true technology industry veteran to head their virtualization-focused joint venture, Acadia.",positive,0.8134229183197021
+2010-05-06,Ex-Compaq Chief Capellas Lands at Cisco-EMC Joint Venture,neutral,0.02123565413057804
+2010-05-17,A smorgasbord of more professional video content appears to be turning YouTube — considered by many to be a risky investment when it was bought for $1.65 billion at the end of 2006 — into one of Google’s smartest acquisitions.,positive,0.055887848138809204
+2010-05-17,YouTube: Google’s Smartest Buy?,neutral,0.0072183310985565186
+2010-05-17,The former chief executive of Intel is trying to infuse the engineering discipline of Silicon Valley into the development of new medical treatments.,neutral,0.03117544576525688
+2010-05-17,Grove Backs an Engineer’s Approach to Medicine,neutral,0.002969123423099518
+2010-05-18,"Andrew S. Grove, the former chief executive of Intel, has pledged $1.5 million so the University of California can start a joint master’s degree program aimed at so-called translational medicine — the process of turning biological discoveries into drugs and medical devices.",positive,0.7210206985473633
+2010-05-18,Grove Backs an Engineer’s Approach to Medicine,neutral,0.002969123423099518
+2010-05-19,I.B.M.,neutral,0.042657434940338135
+2010-05-19,has agreed to put Nvidia’s Tesla graphics chips in one of its mainstream server computers – a big win for Nvidia and a blow to Intel.,positive,0.6345046758651733
+2010-05-19,Nvidia Finds a Friend in I.B.M.,neutral,0.14080354571342468
+2010-05-20,Following Google’s announcements about its Android mobile phone operating system and its new Google TV platform.,neutral,0.08613251894712448
+2010-05-20,Google’s Announcement of a Push Into TV,neutral,0.21475881338119507
+2010-05-20,"Google TV promises to integrate the Web and TV, but it relies on TV manufacturers to use its software.",neutral,0.05871844291687012
+2010-05-20,"Calling on Sony and Others, Google Makes a TV Move",neutral,0.0713653713464737
+2010-05-26,"The Justice Department is examining Apple’s tactics in the market for digital music, and its staff members have talked to major music labels and Internet music companies, The New York Times reported.",neutral,-0.08242792636156082
+2010-05-26,Apple Said to Face Inquiry About Online Music,negative,-0.6814444065093994
+2010-06-04,"A subsidiary, General Motors Ventures, plans to invest in start-up companies in fields including renewable fuels, information and entertainment systems, and advanced materials.",neutral,0.05838292837142944
+2010-06-04,G.M.,neutral,0.048085395246744156
+2010-06-04,Plans a Technology Venture Firm,neutral,0.027530070394277573
+2010-06-08,"OpenPeak, a potential iPad rival, has just raised $52 million from Intel Capital and General Electric’s venture arm, according to VentureBeat.",positive,0.6391990184783936
+2010-06-08,"A Potential iPad Rival, OpenPeak, Raises $52 Million",neutral,0.07983078807592392
+2010-06-10,"The computer company and its founder, Michael S. Dell, are accused of financial irregularities stemming from dealings with the chip maker.",negative,-0.8256891965866089
+2010-06-10,Dell in Talks to Settle Intel Claims With S.E.C.,neutral,0.08357031643390656
+2010-06-11,"Dell said on Thursday that it was in talks with the Securities and Exchange Commission to resolve allegations that it and its founder and chief executive, Michael S. Dell, engaged in financial irregularities related to the company’s dealings with Intel.",negative,-0.5861194133758545
+2010-06-11,Dell in Talks With S.E.C.,neutral,0.06338857114315033
+2010-06-11,to Settle Intel Claims,neutral,-0.0600372850894928
+2010-06-16,White Collar Watch examines how Dell’s proposed settlement of an accounting case with the Securities and Exchange Commission may provide a guide for Goldman Sachs to settle its civil fraud case.,neutral,0.09167265892028809
+2010-06-16,Dell May Hold Road Map for Goldman and S.E.C.,neutral,0.01281588152050972
+2010-06-21,"A new wave of specialized software and hardware is being built by and for Web titans like Facebook, Yahoo and Google to help them break down data.",neutral,0.18300580978393555
+2010-06-21,Big Web Operations Turn to Tiny Chips,negative,-0.6315066814422607
+2010-06-21,"Over the next month, Intel and the Federal Trade Commission will discuss reaching some sort of settlement in a case brought against Intel last year.",neutral,0.03264893591403961
+2010-06-21,Intel and F.T.C.,neutral,0.004114171490073204
+2010-06-21,Agree to Talk,neutral,0.35555124282836914
+2010-06-22,Intel has reached a legal cease-fire with the Federal Trade Commission over a complaint that the company abused its position in the chip market.,negative,-0.9425795078277588
+2010-06-22,Intel and F.T.C.,neutral,0.004114171490073204
+2010-06-22,Agree to Talk,neutral,0.35555124282836914
+2010-06-29,Sun once planned to tackle Intel head-on in the server chip market by making its own x86 chip.,neutral,-0.3336951732635498
+2010-06-29,Sun’s Lost Intel-Chip Killer,negative,-0.5036716461181641
+2010-06-30,"Next year, Cisco will begin selling the Cius tablet, which runs Google’s Android software and is aimed at corporate users.",neutral,0.2752659320831299
+2010-06-30,Cisco Finds Its Tablet,neutral,0.0023309439420700073
+2010-07-12,One of the first Web sites loaded on Silicon Valley’s laptops and iPhones each morning — and then again and again throughout the day — is Techmeme.,neutral,0.019051548093557358
+2010-07-12,"At Tech Blog, Combining Strategies",neutral,0.03331602364778519
+2010-07-13,"A handful of young technology companies are expected to kick off the market for initial public offerings in the third quarter on a hopeful note, The Associated Press reported.",neutral,0.3192238211631775
+2010-07-13,K.K.R.,neutral,0.06834582984447479
+2010-07-13,and Tech Companies to Go Public This Week,neutral,0.03645427152514458
+2010-07-13,"Revenue rose 34 percent for the chip maker Intel, which posted net income of $2.9 billion.",positive,0.9244463443756104
+2010-07-13,"Citing Demand, Intel Tops Forecast",positive,0.7822200059890747
+2010-07-14,"Asian stock markets jumped Wednesday, powered by better-than-expected earnings from chipmaking giant Intel and Singapore’s forecast that its economy will grow a blistering 15 percent this year.",positive,0.7129481434822083
+2010-07-14,"Asian Stocks Up, Powered by Intel and Singapore",positive,0.6174103021621704
+2010-07-15,"Audiences have been staying away from the expensive, commercial events that Live Nation, the giant concert promoter, organizes in big arenas.",negative,-0.8479135036468506
+2010-07-15,Some Humble Pie for a Concert Beast,neutral,0.05749356001615524
+2010-07-15,Major indexes ended largely unchanged Wednesday as investors took note of a report that the economic recovery was likely to be slower than expected.,negative,-0.568195104598999
+2010-07-15,Markets Finish Flat After Fed’s Report,negative,-0.6683219075202942
+2010-07-15,"According to the latest PC sales data, Acer is closing the gap on H.P.",neutral,0.046512454748153687
+2010-07-15,"as the leading seller of computers, while Asus has climbed into the top five.",positive,0.7844840288162231
+2010-07-15,Acer’s Race to No.,positive,0.5641903281211853
+2010-07-15,1 Continues,neutral,0.04241076856851578
+2010-07-22,Dell agreed to pay $100 million to settle S.E.C.,positive,0.47825172543525696
+2010-07-22,charges that its senior executives used fraudulent accounting tricks to make it appear that it was meeting Wall Street earnings targets.,negative,-0.90962153673172
+2010-07-22,Dell Settles S.E.C.,neutral,0.031101901084184647
+2010-07-22,Accounting Suit for $100 Million,neutral,-0.36985695362091064
+2010-07-23,The Securities and Exchange Commission accused Dell of misleading investors by using money it had received from Intel to pad its quarterly earnings statements.,negative,-0.9137966632843018
+2010-07-23,Dell to Pay $100 Million Settlement,neutral,-0.1325681060552597
+2010-07-24,E-mails released by the S.E.C.,neutral,-0.009825557470321655
+2010-07-24,show how hard it was for Dell executives to give up rewards doled out by Intel for remaining a one chip shop.,neutral,0.010654479265213013
+2010-07-24,Dell’s Trouble Kicking the Intel Habit,negative,-0.35901370644569397
+2010-07-26,"White Collar Watch examines how the Dodd-Frank Act, now law, enables the Securities and Exchange Commission to encourage whistle-blowers who reveal a broad array of securities fraud.",neutral,0.14326730370521545
+2010-07-26,Come Blow Your Horn for the S.E.C.,neutral,0.036835525184869766
+2010-07-27,"General Electric announced that it will invest in a $5 million round for SynapSense, a start-up that makes wireless sensor technology and software to monitor and reduce power usage and cooling in data centers, GigaOm reported.",positive,0.6991078853607178
+2010-07-27,G.E.,neutral,0.0415060818195343
+2010-07-27,Invests in Green Data Center Start-Up,neutral,0.16382287442684174
+2010-08-02,The venture will focus on products that help the elderly and those with chronic diseases to live independently.,neutral,0.14124830067157745
+2010-08-02,G.E.,neutral,0.0415060818195343
+2010-08-02,and Intel Form Health Venture,neutral,0.0412692129611969
+2010-08-04,The commission accused Intel of illegally using its dominance to block customers from buying competitors’ products.,negative,-0.9030241966247559
+2010-08-04,Intel to Settle F.T.C.,neutral,-0.33518916368484497
+2010-08-04,Antitrust Case,neutral,-0.2951177954673767
+2010-08-04,"The Intel Corporation, the world’s largest maker of computer chips, has agreed to settle its antitrust case with the Federal Trade Commission, the agency said Tuesday.",positive,0.6136046051979065
+2010-08-04,Intel to Settle F.T.C.,neutral,-0.33518916368484497
+2010-08-04,Antitrust Case,neutral,-0.2951177954673767
+2010-08-04,The chip maker Intel agreed to change some practices under a settlement with the Federal Trade Commission.,neutral,0.21477490663528442
+2010-08-04,Intel Settles With F.T.C.,neutral,0.08313079178333282
+2010-08-04,On Antitrust,neutral,-0.0021670013666152954
+2010-08-04,"In 2009, companies spent more than $47 billion on custom marketing — from magazines to Web sites — to attract specific audiences.",neutral,0.20813213288784027
+2010-08-04,"Vice, a Media Company, Shows Big Brands How to Reach the Hip Crowd",neutral,0.03615302965044975
+2010-08-09,"Plastic Logic of Britain is in discussions with Russia’s state-controlled Rusnano, a nanotechnology corporation, to provide a capital infusion that would give it ownership of the company.",positive,0.7208448052406311
+2010-08-09,"According to The Financial Times, the move is “likely to fuel fears about ownership of potentially world-beating U.K. technology being transferred to other countries.”",negative,-0.395717591047287
+2010-08-09,Deal for Plastic Logic Could Fan British Fears,negative,-0.45370036363601685
+2010-08-15,"A start-up wants to modify low-power smartphone chips to run servers, the computers in corporate data centers.",neutral,0.026132510975003242
+2010-08-15,"If successful, it would undermine Intel’s server-chip juggernaut.",negative,-0.8133765459060669
+2010-08-15,Start-Up Aims to Slay Chip Goliath,neutral,-0.01206609234213829
+2010-08-16,"Smooth-Stone, a semiconductor start-up, has pulled in $48 million from an international group of investors in a bid to disrupt one of Intel’s most lucrative franchises: server chips.",negative,-0.9007009863853455
+2010-08-16,A Chip Start-Up Aims to Slay Intel,neutral,-0.0393037423491478
+2010-08-19,The chip giant is paying a roughly 60 percent premium for McAfee to expand its presence in security services.,positive,0.8815758228302002
+2010-08-19,Intel to Buy McAfee for $7.7 Billion,neutral,0.019925309345126152
+2010-08-19,With the $7.68 billion acquisition Intel becomes a major player in the security software and services market.,positive,0.8544970154762268
+2010-08-19,"With McAfee Deal, Intel Looks for Edge",neutral,0.08643408119678497
+2010-08-19,"Intel’s $7.68 billion takeover deal for McAfee overshadowed another bit of eye-catching news from the antivirus software maker — namely, that Cameron Diaz was the most dangerous celebrity name online.",positive,0.22003087401390076
+2010-08-19,"Meanwhile, in Other Big News From McAfee.",neutral,0.12149420380592346
+2010-08-19,.,neutral,0.09478545188903809
+2010-08-19,.,neutral,0.09478545188903809
+2010-08-19,"This week has been busiest for deals in August since August 2006, Thomson Reuters says.",neutral,0.28696194291114807
+2010-08-19,No Dog Days in Deal Land,neutral,-0.05270238220691681
+2010-08-20,Intel’s $7.7 billion deal to buy the security firm McAfee is a surprising gamble when hardware and software makers don’t often crossover successfully.,positive,0.5765544176101685
+2010-08-20,"For Intel, a Merger Of Fish and Fowl",neutral,-0.005523670464754105
+2010-08-20,Intel is betting that combining McAfee’s security software with its hardware will give it a leg up.,positive,0.8469640612602234
+2010-08-20,But investors who knocked down Intel’s shares are rightly skeptical the chip maker can pull it off.,neutral,-0.1571933776140213
+2010-08-20,"For Intel, a Merger of Fish and Fowl",neutral,-0.005523670464754105
+2010-08-23,"The former president of McAfee offers a contrarian view of what makes sense about the Intel-McAfee deal, and what doesn’t.",neutral,-0.40397873520851135
+2010-08-23,A Different Take on the Intel-McAfee Deal,neutral,0.034256577491760254
+2010-08-23,"A former president of McAfee offers a contrarian view of what makes sense about the Intel-McAfee deal, and what does not.",negative,-0.4850454330444336
+2010-08-23,A Different Take on the Intel-McAfee Deal,neutral,0.034256577491760254
+2010-08-25,"Having torn her team apart, Brooke Partridge had to figure out how to hold those who remained together.",negative,-0.7830743789672852
+2010-08-25,How I Saved My Company: Vital Wave Consulting,neutral,0.29160746932029724
+2010-08-25,"Sure, Hewlett-Packard appears to have made an aggressive play by trumping Dell’s bid for 3Par.",positive,0.6269230842590332
+2010-08-25,But one technology analyst wonders why H.P.,neutral,-0.15160107612609863
+2010-08-25,did not try to steal McAfee away from Intel instead.,neutral,-0.1551203727722168
+2010-08-25,Should H.P.,neutral,0.00872296467423439
+2010-08-25,Dump Its 3Par Bid for McAfee?,negative,-0.46877700090408325
+2010-08-25,Amazon introduces an e-book reader that everyone (except Amazon) calls the Kindle 3.,neutral,0.06718851625919342
+2010-08-25,"It’s a response to the iPad, with improved E Ink screen technology.",positive,0.6504113674163818
+2010-08-25,New Kindle Leaves Rivals Farther Back,negative,-0.3694545030593872
+2010-08-26,Intel is reportedly interested in buying Infineon Technologies’ wireless business.,neutral,0.05620111897587776
+2010-08-26,Intel Said to Be Near Deal for Infineon Wireless Unit,neutral,0.1571963131427765
+2010-08-26,"Via a new software platform, Broadcom looks to make it easier for software makers to link our gadgets and share files.",positive,0.6230087280273438
+2010-08-26,Intel is working on a similar solution.,neutral,0.12053538113832474
+2010-08-26,"Broadcom Pitches Lingua Franca for PCs, TVs and Tablets",neutral,0.044951848685741425
+2010-08-27,"Cash, caution and skepticism make expectations of a merger and acquisition boom look overdone.",negative,-0.7908799052238464
+2010-08-27,Looking Askance at Acquisitions,neutral,-0.21313056349754333
+2010-08-30,"A deal would give Intel a foothold in the market for smartphone chips, a segment that is experiencing double-digit annual growth.",positive,0.8633404970169067
+2010-08-30,Intel Is Close to Acquisition of Infineon Wireless Unit,neutral,0.03744629770517349
+2010-08-30,"Less than two weeks after Intel said it would buy McAfee, the company announced Monday that it would acquire the German chipmaker Infineon’s wireless business for about $1.4 billion in cash.",neutral,0.12310974299907684
+2010-08-30,Intel to Acquire Infineon Wireless Unit,neutral,0.006377380341291428
+2010-08-30,"The deal would give Intel a foothold in the smartphone chip market, a segment of the wireless business that is experiencing strong growth.",positive,0.8461337685585022
+2010-08-30,Intel to Buy a Wireless Division of Infineon,neutral,0.044581614434719086
+2010-09-18,"A number of Silicon Valley companies including Apple, Google and Intel are being investigated over agreements not to recruit each other’s employees.",negative,-0.9137564897537231
+2010-09-18,Tech Firms Said to Be in Talks to Settle Inquiry Over Recruiting,neutral,-0.4131830036640167
+2010-09-20,"ARM, which designs low-power chips, commands a prime position amid one of the next technological revolutions.",positive,0.6678003072738647
+2010-09-20,British Chip Designer Prepares for Wider Demand,neutral,0.02448318898677826
+2010-09-25,The antitrust settlement promises to increase the competition for sought-after technology workers.,positive,0.882201075553894
+2010-09-25,Six Technology Firms Agree to More Hiring Competition,positive,0.6886114478111267
+2010-10-01,"Three top executives of Sprint Nextel resigned from the board of its Clearwire venture, stoking speculation it would pave the way for a wholesale deal or equity stake sale to T-Mobile USA.",negative,-0.9059289693832397
+2010-10-01,Clearwire Resignations Spark Chatter,negative,-0.6972340941429138
+2010-10-01,"The total value of technology deals in the third quarter fell 26 percent from second quarter, although it was up 21 percent from the depressed third quarter of 2009.",negative,-0.9653592109680176
+2010-10-01,"Tech Deals Percolate, but There’s No M.&A.",neutral,-0.12151992321014404
+2010-10-01,Boom,neutral,0.05087975412607193
+2010-10-13,"Intel has established one of the most well-known brands, but some new products make little mention of the company.",neutral,0.298753559589386
+2010-10-13,"Intel Tries Anonymity, for a Change",neutral,-0.1723702847957611
+2010-10-19,I.B.M.,neutral,0.042657434940338135
+2010-10-19,"said it received a lift from strong growth in big emerging markets, led by China, India, Brazil and Russia, where revenue jumped 29 percent.",positive,0.9360067844390869
+2010-10-19,I.B.M.,neutral,0.042657434940338135
+2010-10-19,Rides Global Focus on Services to Deliver a 12% Increase in Profit,positive,0.9222701191902161
+2010-10-19,"Just so you know, the Citigroup chairman has a leather jacket that works.",neutral,-0.013270027935504913
+2010-10-19,It does.,neutral,0.3608332872390747
+2010-10-19,Citi’s Parsons Has a Leather Jacket That ‘Works’,neutral,-0.09045999497175217
+2010-10-19,"Intel said it plans to invest $6 billion to $8 billion to upgrade plants in the U.S., adding as many as 1,000 new high-tech positions and thousands of construction jobs.",positive,0.8664079904556274
+2010-10-19,"Intel to Build New Chip Plant in Oregon, and Upgrade Others",neutral,0.1605072319507599
+2010-10-22,"Intel Capital said that it was making an investment in OpenFeint, a mobile gaming platform that lets developers add social-networking features, like real-time chat, to their applications.",positive,0.7200561165809631
+2010-10-22,Intel Ups the Ante With Bets on Social Gaming,neutral,0.3359876871109009
+2010-11-01,"The move thrusts Intel, the largest and wealthiest chip maker, into the contract manufacturing business dominated by Taiwanese and Chinese companies.",positive,0.7778716683387756
+2010-11-01,"Intel Takes a Wider Role, Making Chips for Others",neutral,0.023426169529557228
+2010-11-25,"Ireland plans to keep low rates that have attracted Microsoft, Intel and Pfizer but that other countries say distort competition.",neutral,0.15577927231788635
+2010-11-25,"In Ireland, Low Corporate Taxes Go Untouched",neutral,0.04745429754257202
+2011-01-04,"At this week’s Consumer Electronics Show, makers show off new computer chips that combine top-level computation and graphics functions.",neutral,0.18522916734218597
+2011-01-04,Graphics Ability Is the New Goal for Chip Makers,neutral,0.10190637409687042
+2011-01-04,"If Qualcomm makes an offer for the semiconductor manufacturing company at that price, the acquisition may be a bargain, relative to others over the last year.",neutral,0.3125635087490082
+2011-01-04,Would Atheros Be a Deal at $45?,neutral,0.03097219578921795
+2011-01-08,"Since the 2008 market decline, managers of value funds have a broader choice of industries for their portfolios.",neutral,0.018062200397253036
+2011-01-08,Finer Lines Between Growth and Value,neutral,0.09938156604766846
+2011-01-13,The company reported that fourth-quarter income rose 48 percent while revenue rose 8 percent.,positive,0.930847704410553
+2011-01-13,Intel Reports Record Profit and Exudes Confidence,positive,0.7403966188430786
+2011-01-19,"As employees become more mobile and less tied to their desks, the average amount of space per employee has been dropping, and what remains is being made more flexible.",negative,-0.9554039835929871
+2011-01-19,"Office Work Space Is Shrinking, but That’s Not All Bad",negative,-0.8962167501449585
+2011-01-21,"The chip maker, which had a change in leadership this month, said it would beat analysts’ estimates.",positive,0.9031509160995483
+2011-01-21,Advanced Micro Devices Predicts Strong Quarter,positive,0.7261075973510742
+2011-01-31,"Intel said that 5 percent of the Series 6, or Cougar Point, chipset, which recently started shipping, might fail over the next three to five years.",negative,-0.8800431489944458
+2011-01-31,"Intel, Finding a Chip Flaw, Expects to Lose $1 Billion",negative,-0.9560801982879639
+2011-02-19,Intel said it would build a microprocessor plant.,neutral,0.09956119954586029
+2011-02-19,Intel Plans New Chip Plant in Arizona,neutral,0.04553858935832977
+2011-03-21,"Prosecutors played a recording of a call in which Rajiv Goel, then an Intel executive, told Raj Rajaratnam about an investment that Intel planned to make in a new joint venture with Clearwire.",neutral,-0.2245386838912964
+2011-03-21,Galleon Trial Focuses on Clearwire Deal With Intel,neutral,0.028527136892080307
+2011-03-23,"Lloyd C. Blankfein, the Goldman Sachs chief, is to take the stand Wednesday morning in the insider trading trial of Raj Rajaratnam.",neutral,-0.19492153823375702
+2011-03-23,What Will Blankfein Say at Galleon Trial?,neutral,-0.09164641797542572
+2011-04-11,"Computing has shifted to phones, but the leading maker of processors has not.",neutral,0.04863416403532028
+2011-04-11,"Now Intel is trying to catch up to Qualcomm, Nvidia and Marvell.",neutral,0.40987178683280945
+2011-04-11,"Intel, on the Outside, Takes Aim at Smartphones",neutral,-0.27521637082099915
+2011-04-13,Geoffrey Canada of the Harlem Children’s Zone offered jurors their first glimpse of Raj Rajaratnam as generous and big hearted.,neutral,0.35915473103523254
+2011-04-13,Educator Salutes Galleon Trial Defendant,neutral,0.12480530887842178
+2011-04-19,Intel’s success in selling its chips for high-end server computers have helped it weather pressure from tablet computers and continuing economic uncertainty.,positive,0.9287657737731934
+2011-04-19,Intel’s Quarterly Profits Are Lifted by Sales of Chips for High-End Servers,positive,0.9146320223808289
+2011-05-04,"A new design uses a tiny fin that could make smaller, faster, lower-power chips.",neutral,0.05258728191256523
+2011-05-04,Intel Increases Transistor Speed by Building Upward,neutral,0.3456481397151947
+2011-05-06,"A top lieutenant overshadowed Berkshire Hathaway’s annual meeting, Ukraine pursued shale fields, Intel offered smaller computer chips and more.",neutral,-0.012553013861179352
+2011-05-06,The Week’s Business News in Pictures,neutral,-0.03863398730754852
+2011-05-29,"Nvidia is branching out beyond graphics chips to make the brains inside mobile devices, aiming to become as essential to Android as Intel has long been to Windows PCs.",positive,0.7732318639755249
+2011-05-29,"As PC Markets Slow, Nvidia Aims at Tablets",neutral,0.12098647654056549
+2011-07-20,"The company’s chief, Paul S. Otellini, attributed the results to strong corporate demand for Intel’s most advanced technology and the surge of mobile devices.",positive,0.9056255221366882
+2011-07-20,Intel Posts Profit That Beats Forecasts,positive,0.3785824477672577
+2011-10-18,"The chip company posted net income of $2.96 billion, a 17 percent improvement over the same period last year.",positive,0.9178733229637146
+2011-10-18,Intel’s Third-Quarter Earnings Outpace Wall Street Forecasts,negative,-0.34987562894821167
+2011-12-12,Investors expressed increasing disappointment in a plan for more fiscal discipline in the euro zone; they also sold stocks after Intel lowered its sales forecast for the quarter.,negative,-0.9476988911628723
+2011-12-12,Markets Slide on Euro and Intel,negative,-0.9374076724052429
+2011-12-12,The chip maker said fourth-quarter revenue would be lower than expected because of shortages of hard drives as a result of flooding in Thailand.,negative,-0.964996337890625
+2011-12-12,Intel Sees Opportunity in Shortage of Drives,neutral,0.1527266502380371
+2012-01-13,The move accompanied a report detailing troubling practices inside many of the facilities.,negative,-0.35272416472435
+2012-01-13,Apple Lists Its Suppliers for 1st Time,neutral,0.0296827033162117
+2012-01-16,Manufacturers are finding plenty of ways to distinguish their thin laptop computers from one another — and from Apple’s MacBook Air.,positive,0.5055658221244812
+2012-01-16,PC Makers Embracing Ultrabooks,neutral,0.0848151221871376
+2012-01-19,"Catastrophic flooding in Thailand depressed PC sales, holding down the demand for chips.",negative,-0.9562119841575623
+2012-01-19,Profit Increases 6% at Intel,positive,0.706545889377594
+2012-03-28,An ultrabook is essentially a MacBook Air that runs Windows — but don’t tell Intel that.,neutral,0.01375667005777359
+2012-03-28,"A Bevy of Beauties, and So PC",neutral,0.06063394248485565
+2012-04-17,"The chip maker reported lower earnings in its first quarter, but said it expected a stronger second quarter on sales of cellphones and servers using Intel chips.",negative,-0.4672476053237915
+2012-04-17,"Intel Reports Flat Revenue, but Says Growth Is Ahead",positive,0.49332529306411743
+2012-04-24,"Joaquín Almunia, the European competition commissioner, has been open to a settlement with Google on claims it abused its dominance.",negative,-0.906251072883606
+2012-04-24,Change of Tone Could Help Google in European Antitrust Case,positive,0.7048343420028687
+2012-07-09,"Intel agreed on Monday to buy a 15 percent stake in ASML, a Dutch semiconductor equipment maker, in an investment that may total as much as $4.1 billion.",positive,0.6266356706619263
+2012-07-09,Intel to Buy Stake in Dutch Semiconductor Equipment Firm,neutral,0.07952544093132019
+2012-07-16,"Governments reports will include retail sales and the Consumer Price Index for June; companies reporting earnings will include Citigroup, Goldman Sachs, Intel, I.B.M., Google, Microsoft, Verizon and General Electric.",neutral,0.018922943621873856
+2012-07-16,Economic Reports for the Week Ahead,neutral,0.0058092400431632996
+2012-07-17,"The company reported a rise of 3 percent to $2.8 billion, but consumers are finding alternatives to PCs in smartphones and tablets, where Intel has little presence.",negative,-0.20368237793445587
+2012-07-17,"Intel’s Income Rises, but Company Warns of Slower Growth",negative,-0.11675310134887695
+2012-07-24,"MTV hopes the four-part live concert series, called The Music Experiment, will help cement it in the minds of 18- to 25-year-olds as a music brand.",positive,0.8107824921607971
+2012-07-24,"For Intel, partnering with MTV is a way to get its new Ultrabook laptop in front of a fresh, young market.",positive,0.7947166562080383
+2012-07-24,MTV and Intel Present New Concert Series,neutral,0.04523110017180443
+2012-08-19,"Mr. Poor, a computer engineer and amateur radio enthusiast, collaborated on development of microprocessors that propelled Intel to dominance in the computer chip industry.",positive,0.6849378943443298
+2012-08-19,"Victor Poor, Who Helped Create Early Intel Chips, Dies at 79",neutral,-0.23021799325942993
+2012-09-07,Weak demand in growing markets like China affects the demand for computer chips.,negative,-0.9444923400878906
+2012-09-07,"As PC Sales Turn Down, Intel Trims Its Outlook",negative,-0.9630712866783142
+2012-09-07,"Federal prosecutors say that Rajiv Goel, whose testimony helped convict the hedge fund billionaire Raj Rajaratnam of insider trading crimes, deserves a lenient sentence because of his cooperation with the government.",negative,-0.7135196328163147
+2012-09-07,A Key Witness in Rajaratnam Trial Is Set to Be Sentenced,neutral,-0.14034414291381836
+2012-09-16,The estimated drop in corporate profits removes what had been an economic bright spot in an otherwise cloudy picture.,negative,-0.9490890502929688
+2012-09-16,Earnings in United States Are Beginning to Feel a Pinch,positive,0.210300475358963
+2012-09-24,"Rajiv Goel, a former Intel executive who leaked secret information about his employer to Raj Rajaratnam, the fallen hedge fund billionaire, avoided prison on Monday as a judge sentenced him to two years’ probation.",negative,-0.8215972185134888
+2012-09-24,A Crucial Witness in Rajaratnam Trial Receives Probation,neutral,0.08087068796157837
+2012-10-16,"The chip maker said revenue was down 5 percent from $14.2 billion a year earlier, but it was higher than an estimate made last month.",negative,-0.9618460536003113
+2012-10-16,"In a Slow Market, Intel Exceeds Lowered Expectations",neutral,0.11962036788463593
+2012-10-17,A closer look at the Golden Globes pairing of Amy Poehler and Tina Fey.,neutral,0.11988259851932526
+2012-10-17,| Our post-PC future.,neutral,0.06775783747434616
+2012-10-17,"| Ari Goldberg, StyleCaster C.E.O.",neutral,0.04844261333346367
+2012-10-17,Taking On the Golden Globes,neutral,0.0769633948802948
+2012-10-23,"Companies like Google, Microsoft and Intel are scrambling to reinvent their businesses now that the old model — a customer sitting at a PC — no longer applies.",neutral,0.034705206751823425
+2012-10-23,"In Mobile World, Tech Giants Scramble to Get Up to Speed",neutral,0.08556422591209412
+2013-01-16,"To combat a rise in cybercrime, the European Commission is considering a plan to require some of the biggest Web businesses to report the loss or theft of personal data, or risk sanctions and fines.",neutral,-0.02059125155210495
+2013-01-16,Europe Weighs Requiring Firms to Disclose Data Breaches,negative,-0.7071559429168701
+2013-01-17,"Net income was down 26 percent and revenue declined 3 percent, reflecting the deterioration of Intel’s core market of semiconductors for personal computers.",negative,-0.9646536111831665
+2013-01-17,Intel’s Profit Falls 27% as PC Sales Drop,negative,-0.963763415813446
+2013-02-05,"American Experience, the PBS history series, has told the history of the Silicon Valley from the beginning.",neutral,0.04006071016192436
+2013-02-05,It is a lively but idealized portrait.,neutral,-0.0036308616399765015
+2013-02-05,Silicon Valley’s Favorite Stories,neutral,0.053990572690963745
+2013-02-12,"Amazon.com is quietly building a library of exclusive online content to rival Netflix, the champion of streaming media; cat videos are used to sell things rather than simply distract; and a Japanese television show captures the angst of a major lithium-ion battery manufacturer.",neutral,0.052814751863479614
+2013-02-12,"The Breakfast Meeting: Amazon Challenges Netflix, and an Advertiser Turns to Cat Videos",negative,-0.6032968163490295
+2013-02-22,Nielsen expands its ratings to include people who watch TV via the Internet; one last look at where the contenders stand before the Oscars are handed out; and an ad campaign tries to universalize sake.,positive,0.7594908475875854
+2013-02-22,"The Breakfast Meeting: Nielsen Adds Web-Linked TVs to Ratings, and a Tight Oscar Race’s Final Recap",neutral,0.06971292197704315
+2013-02-27,"Intel plans to invest $152 million in Brazil over the next five years in research and development, joining forces with the Brazilian government, which has made increasing the country’s software output a top priority.",positive,0.8130825161933899
+2013-02-27,Intel to Invest in Research and Development in Brazil,neutral,0.10932302474975586
+2013-04-14,"The world’s largest semiconductor maker is struggling to adapt as PC sales collapse, users rely more on mobile phones and tablets, and cloud computing expands.",negative,-0.9557420015335083
+2013-04-14,Intel Tries to Secure Its Footing Beyond PCs,positive,0.5476053953170776
+2013-04-16,The world’s largest computer chip maker has been struggling in a market where people are doing more of their computing on tablets and smartphones.,negative,-0.9607546329498291
+2013-04-16,Intel’s Profit Falls 25% With Decline in Chip Sales,negative,-0.9653248190879822
+2013-05-02,Brian Krzanich takes over a company dominant in PC chips but lagging in making chips for hot products like smartphones and tablet devices.,neutral,0.15844830870628357
+2013-05-02,New Chief at Intel Aims to Expand Chip Making,positive,0.755616307258606
+2013-05-12,Fostering innovation has become a mantra among corporate leaders and government officials because Taiwan’s huge consumer electronics industry has run into serious trouble.,negative,-0.5617026090621948
+2013-05-12,"In Taiwan, Lamenting a Lost Lead",negative,-0.7645797729492188
+2013-05-30,The European Union’s commissioner for digital policies is pressing for one set of rules governing the market for cellphones in Europe.,neutral,0.008822602219879627
+2013-05-30,Official Pushes for End to Roaming Fees in Europe,neutral,0.19220148026943207
+2013-06-03,"The company, which makes computer processors, has used “Sponsors of tomorrow” as its marketing theme since May 2009.",neutral,0.04578995332121849
+2013-06-03,It is replacing the phrase with “Look inside.”,neutral,-0.1955851912498474
+2013-06-03,Intel’s New Slogan Shifts Its Focus to the Present,neutral,0.19230207800865173
+2013-06-08,Negotiations with the government shed a light on how Internet companies like Facebook and Google interact with the spy agencies that look to their vast trove of information.,neutral,0.345045268535614
+2013-06-08,Tech Companies Concede to Surveillance Program,neutral,0.0451790988445282
+2013-06-13,Intel’s plan to create a virtual cable service is running up against a barricade being guarded by cable and satellite distributors.,negative,-0.7746578454971313
+2013-06-13,Gatekeepers of Cable TV Try to Stop Intel,negative,-0.6322921514511108
+2013-07-17,The company’s lower earnings reflect the trend of fewer personal computer sales worldwide and the trouble Intel has had moving to mobile devices.,negative,-0.9623175859451294
+2013-07-17,Stark Earnings for Intel Reflect Its Changing Market,negative,-0.8460849523544312
+2013-07-28,"While sales of PCs to businesses remain steady, demand among consumers has plunged, largely because people are instead buying iPads, Kindle Fires and other tablets.",negative,-0.9675548672676086
+2013-07-28,PC Industry Fights to Adapt as Tablets Muscle In,neutral,0.1154865026473999
+2013-08-22,"Hewlett-Packard, Cisco and other companies that once dominated the industry are struggling as users turn to cloud computing services and mobile phones.",negative,-0.9510686993598938
+2013-08-22,Shifting Tech Scene Unsettles Big Players,negative,-0.7399058938026428
+2013-09-30,"Intel’s goal of introducing its OnCue service by the end of the year has been scrapped, and Sony, like Intel, has yet to announce deals to carry any channels.",negative,-0.5842687487602234
+2013-09-30,Intel and Sony Ambitions for Internet TV Services Meet Skepticism,neutral,0.1578504741191864
+2013-10-15,"The company, the world’s largest semiconductor maker, exceeded expectations with a reported net income of $2.95 billion, on revenue of $13.5 billion.",positive,0.27744948863983154
+2013-10-15,Intel Reports Earnings Drop as Its Industry Changes,negative,-0.9564152359962463
+2013-10-31,"Intel has been frustrated with cable content providers and might sell to Verizon, people with direct knowledge of the discussions said.",negative,-0.9387646317481995
+2013-10-31,Intel Is Said to Weigh Sale of Online Cable TV Venture,neutral,0.05063849687576294
+2013-12-16,The investments in electronics retailing reflect a belief that companies should obsess over the environment in which products are presented to the public.,neutral,0.0755748599767685
+2013-12-16,Tech Companies Press for a Better Retail Experience,neutral,0.11802392452955246
+2014-01-07,Multinationals and local suppliers are increasingly going beyond local regulations in designing factories that cut energy costs and pollute less.,neutral,0.20482434332370758
+2014-01-07,"Slowly, Asia’s Factories Begin to Turn Green",neutral,0.13364899158477783
+2014-01-12,"JPMorgan Chase and Wells Fargo, set to report fourth-quarter results on Tuesday, will kick off a flurry of bank earnings, and Intel will post its fourth-quarter results.",positive,0.5166770815849304
+2014-01-12,Economic Reports for the Week of Jan. 13,neutral,-0.19021853804588318
+2014-01-15,Younger firms like FireEye and Palo Alto Networks are competing with Symantec and McAfee in a market that is expected to swell to $87 billion by 2016.,positive,0.716469943523407
+2014-01-15,Tech Security Upstarts Enter Fray,neutral,0.09533173590898514
+2014-01-22,"Intel Media was acquired by Verizon, which wants to add TV everywhere there is an Internet connection.",neutral,0.06460797786712646
+2014-01-22,Verizon Plans to Buy Intel Media Division to Expand Its Television Services,positive,0.8164003491401672
+2014-02-04,"The British chip maker said it was trying to offset the decline by increasing sales for other devices, like smartwatches and fitness bands.",positive,0.8254064321517944
+2014-02-04,ARM Reports Loss as Sales of High-End Smartphones Slow,negative,-0.9645023941993713
+2014-03-01,"A class-action suit by Silicon Valley engineers against companies including Google, Apple and Intel has revealed details of an agreement among them not to cold-call one another’s employees.",negative,-0.8452702760696411
+2014-03-01,Engineers Allege Hiring Collusion in Silicon Valley,negative,-0.8720155358314514
+2014-03-27,"The world’s biggest chip company is out of another business, a framework for big data analysis called Hadoop, and refocusing on how to sell more chips.",neutral,0.04960714280605316
+2014-03-27,Intel Exits a Data Analysis Business and Invests in Another One,negative,-0.47695493698120117
+2014-03-29,Moves by older incumbents and young giants show that 2014 is the year computing everywhere comes into its own.,neutral,0.09455790370702744
+2014-03-29,Now it’s time for big development.,neutral,0.21345868706703186
+2014-03-29,Looking for the next frontier?,neutral,0.007038414478302002
+2014-03-29,"There was plenty of that, too.",neutral,0.061224084347486496
+2014-03-29,Cloud Computing’s Watershed Week,neutral,0.31747883558273315
+2014-04-07,The challenge of big data software tools to traditional data software companies is not that the new technology will be a direct replacement for the old.,neutral,0.08747550845146179
+2014-04-07,But big-data software like Hadoop is a formidable threat to the economics of incumbents.,negative,-0.8128202557563782
+2014-04-07,"A look at Teradata, a leader in data warehouse software, and its announcements this week, shows the challenge and how an incumbent is responding.",neutral,0.09680361300706863
+2014-04-07,The Big Data Challenge to Legacy Data Management Companies,neutral,-0.33662116527557373
+2014-04-15,"With PC sales falling, the semiconductor maker reported a drop in year-over-year quarterly earnings, to $1.95 billion.",negative,-0.969319224357605
+2014-04-15,"Intel’s Profit Slips, but Investors Are Still Turning Toward Tech’s Staid Stalwarts",negative,-0.9380115270614624
+2014-04-21,"Four leading tech companies are pushing to settle a class-action suit with several noteworthy angles, including questions over employee rights and the death of a programmer who helped set the case in motion.",neutral,-0.2668949365615845
+2014-04-21,"In Silicon Valley Thriller, a Settlement May Preclude the Finale",neutral,-0.24322758615016937
+2014-04-21,"Four leading tech companies are pushing to settle a class-action suit with several noteworthy angles, including questions over employee rights and the death of a programmer who helped set the case in motion.",neutral,-0.2668949365615845
+2014-04-21,Daily Report: Silicon Valley Giants Seek to Resolve Suit on Hiring Practices,negative,-0.5391849279403687
+2014-04-23,The first server designs resulting from IBM’s decision to open up its Power chip technology are being announced on Wednesday.,neutral,0.1200847178697586
+2014-04-23,"IBM Opens Chip Architecture, in Strategy of Sharing and Self-Interest",neutral,0.12422454357147217
+2014-04-24,The Heartlbleed bug that weakened the security of millions of web servers and Internet-connected devices also exposed a flaw in open-source software maintenance that many have promised to fix.,negative,-0.8889607787132263
+2014-04-24,Companies Back Initiative to Support OpenSSL and Other Open-Source Projects,positive,0.5314821600914001
+2014-04-24,"Apple, Google, Intel and Adobe reached an agreement with plaintiffs over charges that the companies conspired not to hire one another’s employees.",negative,-0.474345862865448
+2014-04-24,Tech Giants Settle Antitrust Hiring Suit,negative,-0.49410319328308105
+2014-05-09,"The Swedish technology firm iZettle, a European competitor to Square, announced a new fund-raising round worth 40 million euros, from backers like Intel Capital and Zouk Capital, a London-based private equity firm.",positive,0.6507482528686523
+2014-05-09,Swedish Payments Processor Raises $55 Million,positive,0.769668698310852
+2014-05-12,"Michael Devine, one of four plaintiffs named in the class action against Apple, Google, Intel and Adobe, has asked the judge in the case to reject the settlement his own lawyers negotiated.",negative,-0.7440369725227356
+2014-05-12,Plaintiff in Silicon Valley Hiring Suit Maligns Deal,negative,-0.8277048468589783
+2014-05-12,"Michael Devine, one of four plaintiffs named in the class action against Apple, Google, Intel and Adobe, has asked the judge in the case to reject the settlement his own lawyers negotiated.",negative,-0.7440369725227356
+2014-05-12,Daily Report: Plaintiff in Silicon Valley Suit Asks Judge to Reject Proposed Deal,negative,-0.7160396575927734
+2014-05-28,"Intel announced that it was making a smart T-shirt in partnership with AIQ, a company that makes electronic-based textiles.",positive,0.569121778011322
+2014-05-28,The company hopes that the shirt will be used by people who exercise regularly.,neutral,0.11399314552545547
+2014-05-28,Intel Shows Off ‘Smart’ Wearable Shirt,neutral,0.11225704848766327
+2014-06-12,"The case, which dates back to 2000, is about a competitive edge the chip maker may no longer have.",neutral,-0.1426868438720703
+2014-06-12,But the ruling has legal implications for other tech giants.,neutral,-0.3692358434200287
+2014-06-12,European Court Upholds $1.44 Billion Fine Against Intel,negative,-0.24513989686965942
+2014-06-18,"As cloud computing gets bigger, some applications have to run on thousands of computer servers at once.",neutral,-0.4153672456741333
+2014-06-18,Intel on Wednesday offered a way to tailor its server chip for this work.,neutral,0.3147636353969574
+2014-06-18,Intel Introduces Custom Cloud Chip,neutral,0.1834295243024826
+2014-06-27,"Four prominent Silicon Valley companies — Apple, Google, Intel and Adobe — are offering $324 million to get rid of a case that says they conspired in secret no-poaching deals to keep their engineers.",neutral,-0.033983051776885986
+2014-06-27,The judge isn’t convinced the deal is fair.,negative,-0.5645588040351868
+2014-06-27,"In Class Action Against Apple and Others, Concerns From the Judge",negative,-0.8055066466331482
+2014-07-08,"For a lot of tech companies, the devices and the data promised by the Internet of Things has a huge potential.",neutral,0.09511889517307281
+2014-07-08,"That makes the way we get there, even through ostensibly free open source projects, into a battleground.",neutral,0.13879936933517456
+2014-07-08,"Intel, Qualcomm and Others Compete for ‘Internet of Things’ Standard",neutral,0.06654579192399979
+2014-07-15,Net income rose 40 percent in the most recent quarter for Intel as it adapts its business to a new generation of computing.,positive,0.9389359354972839
+2014-07-15,Intel Exceeds Estimates on Improving Demand for PCs,positive,0.6186032295227051
+2014-08-02,"Genevieve Bell, an anthropologist who is also an Intel Fellow, looks at how tech changes the world, and vice versa.",neutral,-0.02113020420074463
+2014-08-02,"She is convinced we are at a rare period of social change, with the explosion of digital intelligence into every part of our lives.",neutral,0.25376686453819275
+2014-08-02,Where Tech Is Taking Us: A Conversation With Intel’s Genevieve Bell,neutral,0.048663754016160965
+2014-08-08,A judge rejected a settlement in a case that accuses tech companies of agreeing not to solicit one another’s employees.,negative,-0.8667001128196716
+2014-08-08,Court Rejects Deal on Hiring in Silicon Valley,negative,-0.9023443460464478
+2014-09-06,"Google, Apple, Intel and Adobe filed papers asking the Ninth Circuit Court of Appeals to spurn Judge Lucy H. Koh’s rejection of their $324.5 million antitrust settlement as too meager.",negative,-0.8279806971549988
+2014-09-06,Silicon Valley Fights Order to Pay Bigger Settlement in Hiring Case,negative,-0.23832589387893677
+2014-09-10,Apple wasn’t the only big tech outfit with something to talk about on Tuesday.,neutral,0.006807072088122368
+2014-09-10,Intel met with developers to discuss how it is changing from a chip-centric company to one with a variety of products and services.,neutral,0.42882663011550903
+2014-09-10,Intel Shares More of Its Extreme Makeover,neutral,0.16615533828735352
+2014-09-26,Intel is spending big money to invest in a Chinese maker of systems for mobile phones in hopes of capturing more of the chip market and to leap past competitors like Qualcomm.,positive,0.7032130360603333
+2014-09-26,Intel Invests $1.5 Billion to Tap Mobile Phone Chip Market in China,positive,0.6846386194229126
+2014-09-26,Employers are creating programs for their retirees that provide transitions to post-career jobs and volunteer opportunities.,positive,0.6090527772903442
+2014-09-26,"As One Career Wraps Up, Finding That Next Role",neutral,0.007361374795436859
+2014-09-29,The low-power computer server Meg Whitman pointed to as the kind of technology that would revive Hewlett-Packard has never lived up to sales expectations.,neutral,0.07910729944705963
+2014-09-29,"Still, HP keeps trying, this time with a chip made by ARM.",neutral,0.15456193685531616
+2014-09-29,"Expectations Lower, HP Launches Another Moonshot",negative,-0.3602261543273926
+2014-10-02,Intel’s decision added to a controversy that has focused attention on the treatment of women in the games business and the power of online mobs.,negative,-0.8422988653182983
+2014-10-02,Intel Pulls Ads From Site After ‘Gamergate’ Boycott,negative,-0.9016425013542175
+2014-10-08,"Manufacturers are teaming up with designers to produce stylish bracelets, rings and cuff links that are also tech devices.",positive,0.5747040510177612
+2014-10-08,Fashion and Functionality Meet in Smart Jewelry,neutral,0.07471328973770142
+2014-10-08,"Advanced Micro Devices, the largest maker of computer semiconductors after Intel, said on Wednesday that it had appointed Lisa Su as its new president and chief executive.",neutral,0.1247071623802185
+2014-10-08,A.M.D.,neutral,0.04129112511873245
+2014-10-08,Names Lisa Su as Chief Executive,neutral,0.04730651527643204
+2014-10-14,"For all the new business Intel is pursuing, chips for PCs brought in the vast bulk of the company’s third-quarter revenue.",positive,0.4973980188369751
+2014-10-14,Income at Intel Climbs 12% on PC Sales,positive,0.4394591450691223
+2014-10-27,"The Chinese government is investing billions in domestic chip makers as well as using legal action against multinationals and, experts say, espionage.",neutral,0.05003181844949722
+2014-10-27,"Using Cash and Pressure, China Builds Its Chip Industry",positive,0.49755704402923584
+2014-11-04,"The financing round, led by the venture capital arm of Intel, will allow the company to expand its business of linking websites to social media.",positive,0.8751078844070435
+2014-11-04,"Gigya, a Social Log-In Manager, Raises $35 Million",neutral,0.17179352045059204
+2014-11-21,"Mr. Parsons, who portrays the genius nerd Sheldon Cooper on the comedy series, is featured in a campaign that is scheduled to begin on Monday.",neutral,0.048009421676397324
+2014-11-21,"Jim Parsons, ‘Big Bang Theory’ Star, to Promote Intel as Innovator",neutral,0.26411402225494385
+2014-11-23,The next big technology migration will change how workplaces are organized.,neutral,0.028555940836668015
+2014-11-23,"Bad news, middle managers: You’re going to get less important.",negative,-0.5220609307289124
+2014-11-23,What Cloud Computing Means to Your Job,neutral,0.054582368582487106
+2014-12-17,"After some miscues and failed experiments, BlackBerry is getting back on track with the BlackBerry Classic, a throwback device that combines modern amenities with the keyboard and power features its users love.",positive,0.7978578209877014
+2014-12-17,BlackBerry Classic Hits the Right Keys,neutral,0.10793204605579376
+2014-12-19,"Next year, half of the chips Intel sells to cloud businesses will be custom.",neutral,0.05007075518369675
+2014-12-19,"The company is used to selling tens of millions of the same thing, but outfits like Google and Facebook need special features, and pay for them.",neutral,0.02888329140841961
+2014-12-19,Intel Betting on (Customized) Commodity Chips for Cloud Computing,neutral,0.07790279388427734
+2014-12-24,"Wearables have a style problem, especially when it comes to women.",negative,-0.8290851712226868
+2014-12-24,"But as tech companies and designers come together to make wearables for women, do they risk making gadgets that look good but do less?",neutral,-0.2151165008544922
+2014-12-24,Wearable Devices for Women: Still Pretty and Still Dumb,neutral,0.08164295554161072
+2015-01-07,The fund is intended to help attract more women and minorities to the technology field and make the industry more hospitable to them once they get there.,positive,0.7905969023704529
+2015-01-07,Intel Allocates $300 Million for Workplace Diversity,neutral,0.15087905526161194
+2015-01-07,The fund is intended to help attract more women and minorities to the technology field and make it more hospitable to them once they get there.,positive,0.770498514175415
+2015-01-07,Daily Report: Intel Pledges $300 Million to Increase Diversity in Tech Industry,positive,0.8761563301086426
+2015-01-13,The ability to compartmentalize software into sections that can be worked on one at a time will likely change how coders work.,neutral,-0.03169569373130798
+2015-01-13,But that’s not necessarily a bad thing.,neutral,-0.17238298058509827
+2015-01-13,Why Software ‘Containers’ Won’t Be Bad News for Programmers,neutral,-0.3159387707710266
+2015-01-14,"Apple, Google, Intel and Adobe are said to be offering $415 million to settle accusations that they conspired against their own employees.",negative,-0.4420793652534485
+2015-01-14,Bigger Settlement Said to Be Reached in Silicon Valley Antitrust Case,neutral,0.08289793133735657
+2015-01-14,"Apple, Google, Intel and Adobe say a new deal has been struck to settle a lawsuit that asserts the companies had agreed not to directly solicit one another’s employees.",positive,0.33777543902397156
+2015-01-14,Daily Report: Tech Giants Said to Offer Bigger Settlement in Antitrust Case on Hiring,positive,0.720930814743042
+2015-01-15,"While Intel’s profit rose significantly, concerns remain about whether it can move beyond its focus on putting chips in personal computers and servers.",positive,0.8638879656791687
+2015-01-15,"Intel Profit Rises 39%, but Losses in Mobile Devices Are Heavy",negative,-0.9358987212181091
+2015-01-16,"While Intel’s profit rose significantly, concerns remain about whether it can move beyond its focus on putting chips in personal computers and servers.",positive,0.8638879656791687
+2015-01-16,"Daily Report: Intel Posts a Profit, Despite Losses in Mobile Devices",positive,0.681041955947876
+2015-01-21,"The venture capital firm Battery Ventures has hired Dharmesh Thakker, a former Intel Capital managing director, as a general partner.",neutral,0.1838572919368744
+2015-01-21,Battery Ventures Hires Intel Capital Executive,neutral,0.03002232313156128
+2015-02-17,A number of big tech companies with an interest in building out the big data market have announced a standard for core elements of a technology framework for data analysis.,neutral,0.18840308487415314
+2015-02-17,"IBM, G.E.",neutral,0.026292048394680023
+2015-02-17,and Others Create Big Data Alliance,neutral,0.03570123761892319
+2015-03-02,Qualcomm has a new fingerprint reading technology that it hopes can eventually replace passwords both for devices and apps.,neutral,0.4248785078525543
+2015-03-02,Qualcomm and Intel to Introduce New Biometric Security Technology,positive,0.7359029650688171
+2015-03-05,"Unlike the Nasdaq composite index at its dot-com peak in 2000, today’s index has companies that are more mature and less concentrated in technology.",neutral,0.05091739818453789
+2015-03-05,"Nasdaq Changed in Its Climb to 5,000",positive,0.10934659838676453
+2015-03-19,"A new generation of luxury smartwatches, essentially tiny computers meant to be fashion statements, is beginning to take shape.",neutral,0.21629934012889862
+2015-03-19,Google and Intel to Team Up with TAG Heuer on a Luxury Smartwatch,positive,0.6521406173706055
+2015-03-27,"Intel is in discussions to buy Altera, a designer of specialized computer chips, in what would be one of the technology giant’s biggest deals ever, says a person briefed on the matter.",positive,0.49864062666893005
+2015-03-27,Intel Said to Be in Talks to Acquire Chip Maker,neutral,0.05351433530449867
+2015-04-09,The collapse of the discussions puts a halt to what would have been Intel’s biggest-ever takeover as it seeks to diversify its business.,negative,-0.7514568567276001
+2015-04-09,Intel Said to End Talks to Buy Chip Designer Altera,negative,-0.47007641196250916
+2015-04-11,The chairman of Intel says people are successful when they have jobs in which they are intellectually and emotionally engaged.,neutral,0.3531566560268402
+2015-04-11,Andy Bryant of Intel: Don’t Just Check Off Career Boxes,neutral,-0.17360740900039673
+2015-04-14,"The world’s largest semiconductor company matched Wall Street expectations, reflecting aggressive cost management.",positive,0.914590060710907
+2015-04-14,"Intel Earnings Rise 3%, Despite Slow PC Market",positive,0.6696266531944275
+2015-04-15,"American technology companies are no strangers to antitrust challenges by European regulators, but the cost has tended to be measured in money and time, not business practices.",neutral,-0.1343032866716385
+2015-04-15,Google Joins Its U.S. Peers Under Europe’s Scrutiny,positive,0.5789790153503418
+2015-04-16,"American technology companies are no strangers to antitrust challenges by European regulators, but the cost has tended to be measured in money and time, not business practices.",neutral,-0.1343032866716385
+2015-04-16,"Daily Report: Joining American Peers, Google Gets Caught in Europe’s Cross Hairs",positive,0.6594427824020386
+2015-05-12,"A new book by two business school professors examines the common strategies of Bill Gates, Andy Grove and Steve Jobs, and the implications beyond the companies they led.",neutral,0.03064284846186638
+2015-05-12,"Bill Gates, Andy Grove and Steve Jobs: The Strategies They Shared",neutral,0.028245141729712486
+2015-05-29,"Intel is close to buying fellow chip maker Altera for more than $15 billion, a person briefed on the matter said on Friday, the latest sign of consolidation in the semiconductor industry.",positive,0.6678518652915955
+2015-05-29,Intel Takeover of Altera Is Expected,neutral,0.006431963294744492
+2015-06-01,The deal would be the latest in a wave of consolidation as chip makers look to increase their scale and product offerings.,positive,0.8667358756065369
+2015-06-01,Intel Agrees to Buy Altera for $16.7 Billion,positive,0.5807704329490662
+2015-06-01,The deal would be the latest in a wave of consolidation as chip makers look to increase their scale and product offerings.,positive,0.8667358756065369
+2015-06-01,Daily Report: Intel Agrees to Buy Altera for $16.7 Billion,positive,0.7459771633148193
+2015-06-01,Investors have lifted the shares of both semiconductor acquirers and their targets in hopes for cost cuts and improved top lines.,positive,0.8843265771865845
+2015-06-01,That may be too optimistic.,negative,-0.472608745098114
+2015-06-01,Chip Deals in Search of Greater Pricing Power,neutral,0.31121179461479187
+2015-06-02,The deal would be the latest in a wave of consolidation as chip makers look to increase their scale and product offerings.,positive,0.8667358756065369
+2015-06-02,Daily Report: Rising Cost of Chips Spur Semiconductor Mergers,positive,0.13251295685768127
+2015-06-23,"So-called software containers got backing from companies including Cisco Systems and Google, while another group of companies detailed plans to automate certain aspects of cloud computing.",neutral,0.4405252933502197
+2015-06-23,Tech Companies Line Up Behind ‘Containers’ and the Cloud,neutral,-0.01680152863264084
+2015-07-02,The chief executive is using Ms. James’s departure as an opportunity to make sweeping organizational changes.,neutral,0.4238658547401428
+2015-07-02,"Renée James, President of Intel, Is Leaving the Company",negative,-0.44875195622444153
+2015-07-15,"The chip maker’s quarterly net income was even with a year ago, even though revenue fell.",negative,-0.5196089148521423
+2015-07-15,"Intel Earnings Surpass Forecasts, Driven by Data Centers",negative,-0.5918288230895996
+2015-08-24,An expected $100 million in funding to be directed to cloud-computing software and a related start-up reflects the company’s view of its own future.,neutral,0.1366419643163681
+2015-08-24,Intel to Invest Heavily in Software That Enhances Cloud-Computing Capabilities,positive,0.7273743152618408
+2015-09-09,"The high school competition counts among its past competitors eight Nobel Prize winners, along with chief executives, university professors and award-winning scientists.",neutral,0.0415448322892189
+2015-09-09,Intel to End Sponsorship of Science Talent Search,negative,-0.7572421431541443
+2015-09-09,"The tech world has focused mostly on news related to China so far this week, with the main tech news event — Apple’s unveiling of new products — set to take place on Wednesday.",neutral,-0.008596867322921753
+2015-09-09,Daily Report: China Asserts Tech Presence; Apple Shows Off New Products,positive,0.7952574491500854
+2015-10-13,The chip company’s net income per share and revenue were below last year’s but beat analysts’ estimates.,negative,-0.1960138976573944
+2015-10-13,Intel’s Results Reflect Move to Cloud Computing,neutral,0.16989465057849884
+2015-10-19,"The offer came as Microsemi sought to derail a competing proposal from Skyworks Solutions, a rival chip maker and supplier to Apple.",negative,-0.8786181807518005
+2015-10-19,Microsemi Offers to Buy PMC-Sierra in $2.4 Billion Deal,neutral,0.10874685645103455
+2015-11-20,"A former employee sued the computing giant, saying that big bets on hedge funds and private equity increased costs and hurt participants in the plans.",negative,-0.9484169483184814
+2015-11-20,Intel Lawsuit Questions Place of Hedge Funds in Retirement Plans,negative,-0.7544056177139282
+2016-01-11,An already busy start to the year for the tech sector is set to ramp up with the beginning of the tech earnings season this week.,positive,0.6336305737495422
+2016-01-11,Daily Report: The Tech News Cycle is About to Ramp Up,positive,0.5051693320274353
+2016-01-14,GoPro surprised Wall Street with its earnings warning on Wednesday.,positive,0.5098791122436523
+2016-01-14,Intel is on deck to report quarterly results on Thursday.,neutral,0.0777495875954628
+2016-01-14,Daily Report: Tech Earnings Season Begins With a Warning,neutral,0.13921579718589783
+2016-01-14,"The chip maker’s revenue was up slightly from the same time period last year, but money from data center chips was up markedly.",positive,0.9314567446708679
+2016-01-14,"Intel’s Earnings Fall in Fourth Quarter, but Beat Expectations",negative,-0.9605114459991455
+2016-01-15,"Why the financial reports of Intel, one of the largest suppliers of chips to PCs, still matters to the broader technology industry.",neutral,0.011906139552593231
+2016-01-15,Daily Report: Why Intel’s Earnings Shouldn’t Be Ignored,negative,-0.4934609532356262
+2016-01-20,"The transition from older, shrinking markets to new areas is proving difficult for tech’s most venerable companies.",negative,-0.7990237474441528
+2016-01-20,But that does not mean they won’t be able to reinvent themselves.,negative,-0.4906277060508728
+2016-01-20,Daily Report: IBM Caught Between the Old and the New,negative,-0.6984148621559143
+2016-01-25,"Strap in, it’ll be a busy week of technology news.",neutral,0.06258887052536011
+2016-01-25,"Daily Report: Earnings, Earnings, Earnings",neutral,0.012424714863300323
+2016-01-30,Yaakov Bendavid returns with a message for all of us.,positive,0.780941903591156
+2016-01-30,Message to Buyers,neutral,0.05968829616904259
+2016-03-22,"The semiconductor chip was a development as momentous as hydrocarbon fuels, electricity and telephones were in earlier eras.",neutral,0.33571046590805054
+2016-03-22,Andrew S. Grove Dies at 79; Intel Chief Spurred Semiconductor Revolution,neutral,-0.12434326112270355
+2016-04-04,Conditions for the technology may actually be more favorable in China than in the United States because of aggressive support from the government.,positive,0.8432532548904419
+2016-04-04,China’s Companies Poised to Take Leap in Developing a Driverless Car,positive,0.5800310373306274
+2016-04-04,"Gansha Wu, a veteran engineering manager at Intel, has jumped into the autonomous car industry in China, with a start-up called Uisee Technology.",neutral,0.2786758542060852
+2016-04-04,China Moves Into Position to Develop Self-Driving Cars,positive,0.7004318237304688
+2016-04-18,"Through the funds, companies scout for new products or services and business partners, but critics say the funds contribute to inflated valuations.",negative,-0.6839920282363892
+2016-04-18,General Mills and 7-Eleven Join the Venture Capital Crowd,neutral,0.04318539798259735
+2016-04-19,"The company, the largest semiconductor maker, will lay off 11 percent of its work force as it shifts to supplying chips for phones and other devices.",negative,-0.959980309009552
+2016-04-19,"Intel to Cut 12,000 Jobs as PC Demand Plummets",negative,-0.958561897277832
+2016-04-22,"A deeper reading of recent earnings reports shows an industry in transition, and perhaps getting ready to get even bigger.",positive,0.6785669326782227
+2016-04-22,The No-Good Week in Tech’s (Hopeful) Trip to a Bright Future,neutral,0.2014145851135254
+2016-05-04,"Unsure how long chip memory can reliably be doubled, an engineering group plans to create a new forecasting system for semiconductor innovation.",neutral,0.05030379444360733
+2016-05-04,"Moore’s Law Running Out of Room, Tech Looks for a Successor",negative,-0.41814616322517395
+2016-05-04,An association of chip makers is signaling that the principle that has guided improvements in chip technology for decades may soon have run its course.,neutral,0.19149819016456604
+2016-05-04,Moore’s Law Loses Some True Believers,negative,-0.7305890917778015
+2016-05-19,"When a value investor buys in, it’s a sign that a high-flying growth company has joined the ranks of venerable tech companies like IBM and Intel.",positive,0.5875074863433838
+2016-05-19,Warren Buffett Stake Suggests Apple Is All Grown Up,neutral,0.15829890966415405
+2016-05-26,The biotechnology company will sharply increase funding for the longtime high school contest with which Intel ended its relationship last year.,positive,0.9108187556266785
+2016-05-26,Regeneron Pharmaceuticals to Sponsor Science Talent Search,neutral,0.08325877785682678
+2016-05-31,"Don’t think that every moment, ounce of energy and extra cent needs to be maximized.",neutral,0.27858641743659973
+2016-05-31,Cut some slack and get used to having a little excess instead.,neutral,0.06404776871204376
+2016-05-31,"The Paranoid Survive, but They Burn Out.",negative,-0.44677120447158813
+2016-05-31,Take a Break.,neutral,0.06438480317592621
+2016-06-20,China has the largest number of computers among the top 500 — a first for any country other than the United States.,neutral,0.30556491017341614
+2016-06-20,China Wins New Bragging Rights in Supercomputers,positive,0.8655655384063721
+2016-06-26,Intel’s internal advertising group and video and digital studio have produced a slew of original content that shows some incredible ways innovators are using its technology.,neutral,0.3017841875553131
+2016-06-26,Intel Tells Stories That Go Beyond Chips,neutral,0.04853855073451996
+2016-07-07,The difficulty of getting drivers to take control of automated cars when necessary has prompted many automakers to take people out of the equation.,negative,-0.7720966935157776
+2016-07-07,Makers of Self-Driving Cars Ask What to Do With Human Nature,neutral,-0.05107288435101509
+2016-08-14,"The world’s biggest semiconductor company is scrambling for a place in sensors, wireless networking and autonomous vehicles, as computing spreads to nearly every machine.",neutral,0.21469071507453918
+2016-08-14,Intel’s New Mission: Find Fresh Uses for Its Famous Paranoia,neutral,0.20938104391098022
+2016-08-17,"The outlook for last-generation tech companies is often grim as their products become commonplace, rivals find alternatives and margins shrink.",negative,-0.9555774331092834
+2016-08-17,Intel Seems to Have a Stronger Hand Than Cisco Systems,positive,0.7053461670875549
+2016-08-18,"Intel announced Alloy, a platform for virtual reality; and Cisco Systems, a maker of networking equipment, said it would cut about 5,500 jobs as it focuses on software.",negative,-0.9550297260284424
+2016-08-18,"Daily Report: Intel and Cisco, Shifting With the Times",neutral,0.014355357736349106
+2016-09-07,The move will bring McAfee independence at a time when cybersecurity businesses have grown more prominent amid increasing hacking threats.,positive,0.856639564037323
+2016-09-07,Intel Sells Majority Stake in McAfee Security Unit to TPG,neutral,0.03770040348172188
+2016-09-08,"In just one day, three major transactions in the technology industry highlight the scramble to deal with the implications of cloud computing.",neutral,0.1426231861114502
+2016-09-08,"Morning Agenda: The Tech Reformation, Low Caliber Credit, China’s Debt Burden",neutral,-0.07116513699293137
+2016-11-29,"For Intel, especially, the collaboration is an effort to catch up in autonomous vehicles, a field where some chip makers have made deeper inroads.",positive,0.6997787356376648
+2016-11-29,Intel to Team With Delphi and Mobileye for Self-Driving Cars,positive,0.7653406858444214
+2016-12-13,"The executives meeting with Mr. Trump in Manhattan on Wednesday include Elon Musk of Tesla, Timothy D. Cook of Apple and Jeff Bezos of Amazon.",neutral,-0.0027679726481437683
+2016-12-13,"When Trump Meets Tech Leaders, Jobs Will Be on the Agenda",neutral,0.030217908322811127

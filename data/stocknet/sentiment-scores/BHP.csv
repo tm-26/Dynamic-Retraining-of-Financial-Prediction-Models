@@ -1,0 +1,21 @@
+Date,Sentence,Prediction,sentimentScore
+2014-08-19,"Prices of nickel and aluminum, assets that will be part of the new company, are rising.",positive,0.0659286379814148
+2014-08-19,"But for investors, there are purer plays and better-diversified producers, says Swaha Pattanaik of Reuters Breakingviews.",positive,0.6187586188316345
+2014-08-19,BHP Spinoff Won’t Appeal to Commodity Players,neutral,-0.3298339545726776
+2014-09-24,"After speaking with investors, the Australian mining giant said it was considering a listing in London, in addition to Australia and South Africa, for mining assets it plans to spin off.",neutral,0.08492571115493774
+2014-09-24,BHP Billiton Considers New Listing in London for Spinoff,neutral,0.013206524774432182
+2014-10-16,"BHP Billiton had originally planned to list a spinoff of certain assets in Australia and South Africa, but decided to add another listing in London because of investor demand.",neutral,0.06772486120462418
+2014-10-16,BHP Billiton Confirms New Listing in London for Spinoff,neutral,0.06220543384552002
+2015-08-27,"With deepening economic fears about China, multinational corporations and countries are having to respond to a new reality as a once sure bet becomes uncertain.",negative,-0.8624145984649658
+2015-08-27,"China Falters, and the Global Economy Is Forced to Adapt",negative,-0.9283807277679443
+2015-11-06,The start of an inquiry by the New York attorney general’s office into Exxon Mobil’s record on climate change could lead to additional legal actions involving other major energy companies.,negative,-0.5325368046760559
+2015-11-06,More Oil Companies Could Join Exxon Mobil as Focus of Climate Investigations,neutral,0.01926676742732525
+2015-11-23,"Once considered the metal of the future, copper is now a symbol of global mining companies’ past misjudgments.",neutral,-0.09752201288938522
+2015-11-23,Betting on Copper Is a Dangerous Game,negative,-0.5945033431053162
+2016-03-01,"With Rio Tinto and BHP Billiton, among others, the company is struggling as a result of the slowdown in China and other countries that had driven global growth.",negative,-0.9631474614143372
+2016-03-01,Glencore’s Big Loss Reflects Hard Times for Mining Companies,negative,-0.9156247973442078
+2016-08-30,Shares at both Canadian companies jumped after they confirmed early negotiations.,positive,0.7508136630058289
+2016-08-30,A deal would put their combined equity value at around $28 billion.,neutral,0.2142687290906906
+2016-08-30,Potash Corp. and Agrium Discuss Merger Deal,neutral,0.013206485658884048
+2016-09-12,"The straightforward, no-premium deal is a contrast to other recent attempts at industry mash-ups, which did not fare so well.",positive,0.5875535011291504
+2016-09-12,"Potash and Agrium Deal Is a Friendly, Balanced Merger",positive,0.7676777839660645

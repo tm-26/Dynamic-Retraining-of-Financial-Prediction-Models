@@ -1,0 +1,101 @@
+Date,Sentence,Prediction,sentimentScore
+2008-07-15,"Exelon, the electric company based in Chicago, will promise to cut greenhouse gas emissions by 2020 by an amount larger than its total emissions in 2008.",positive,0.6794250011444092
+2008-07-15,"To Set Tone, Exelon Plans Huge Cut in Emissions",negative,-0.03998729586601257
+2008-09-05,"Exelon‘s board of directors approved a plan to buy back as much as $1.5 billion of the company’s common stock, the utility company said Thursday.",positive,0.7683827877044678
+2008-09-05,Exelon to Buy Back Up to $1.5 Billion Shares,neutral,0.09019728749990463
+2008-10-20,The Exelon Corporation said late Sunday that it had offered to buy NRG Energy for $6.2 billion.,neutral,0.27853602170944214
+2008-10-20,Nuclear Power Giant Bids for Rival,neutral,0.054307062178850174
+2008-10-20,"The Exelon Corporation, the Chicago-based utility, said late Sunday that it had offered to buy NRG Energy, a power generator based in Princeton, N.J., for $6.2 billion, The New York Times’s Matthew L. Wald reported.",positive,0.5943577289581299
+2008-10-20,Exelon Makes $6.2 Billion Bid for NRG,neutral,0.19303222000598907
+2008-10-20,"The Exelon Corporation says its unsolicited bid to buy NRG Energy would create the largest power company in the country, in terms of assets, market capitalization and generation capacity.",positive,0.8548187613487244
+2008-10-20,Exelon’s $6.2 Billion Bid for NRG Would Create Largest Power Utility in U.S.,positive,0.8219982981681824
+2008-10-20,"The Exelon Corporation threatened Monday to make a hostile bid for NRG Energy if its unsolicited $6.2 billion takeover offer is rejected, Reuters reports.",negative,-0.7163665890693665
+2008-10-20,Exelon May Pursue Hostile Bid for NRG if Needed,neutral,-0.00018268264830112457
+2008-10-21,"The Exelon Corporation‘s unsolicited bid to buy NRG Energy, a power generator based in Princeton, N.J., would create the largest power company in the country, in terms of assets, market capitalization and generation capacity, and would benefit shareholders of both companies, Exelon said on Monday.",positive,0.9098130464553833
+2008-10-21,Exelon’s NRG Bid Raises Credit Challenges,negative,-0.7867993712425232
+2008-11-09,"The rejection forestalls, at least for now, the creation of what would be the largest power company in the nation.",negative,-0.4588029682636261
+2008-11-09,NRG Leaves Door Open After Rejecting Takeover Bid,negative,-0.7543019652366638
+2008-11-10,"NRG Energy, a power generator based in Princeton, N.J., said Sunday it had rejected an unsolicited takeover bid by Exelon, saying the offer “manifestly undervalues” the company, The New York Times’s Michael J. de la Merced and Zachery Kouwe reported.",negative,-0.8968906402587891
+2008-11-10,NRG Leaves Door Open After Rejecting Exelon,negative,-0.6855655312538147
+2008-11-12,Exelon is executing its hostile bid for NRG Energy in military-like fashion; it is not like those quirky technology hostile offers we’ve seen pass before us.,neutral,-0.008038457483053207
+2008-11-12,Exelon’s Fight and the Coming Rise in Hostile Activity,neutral,0.029056362807750702
+2008-11-25,"NRG Energy rejected Exelon‘s $6 billion-plus takeover bid for the second time on Monday, saying the offer was too low.",negative,-0.9060118794441223
+2008-11-25,NRG Urges Shareholders to Reject Exelon Bid,neutral,0.012062028050422668
+2009-01-07,"The battle between Exelon and NRG heated up on Wednesday, after Exelon said that it has garnered nearly 46 percent of its fellow power company’s stock through a hostile tender offer.",negative,-0.16193938255310059
+2009-01-07,Exelon Claims 46% of NRG Shares in Hostile Tender Offer,neutral,0.0043241046369075775
+2009-02-18,"NRG Energy is stepping up its efforts to fend off a hostile takeover attempt from Exelon, a rival power operator, ahead of next week’s deadline for NRG shareholders to tender their stock.",positive,0.6387640833854675
+2009-02-18,NRG Blasts Exelon Bid as Deadline Approaches,neutral,0.045315325260162354
+2009-02-26,"Exelon said that shareholders of NRG Energy, which has twice rejected Exelon’s unsolicited takeover bid, had tendered more than 51 percent of NRG’s outstanding shares.",neutral,0.39673322439193726
+2009-02-26,Exelon Says 51% of NRG Shares Are Tendered,neutral,0.0681014433503151
+2009-02-26,The war of words between NRG Energy and its would-be acquirer continues.,negative,-0.8941998481750488
+2009-02-26,NRG Says Exelon Bid Is Too Low and Too Risky,negative,-0.9222216606140137
+2009-03-02,NRG Energy is throwing an added element into the mix in its takeover battle with the rival power producer Exelon.,neutral,0.20938989520072937
+2009-03-02,"With Reliant Deal, NRG Puts Exelon on Notice",neutral,0.15895849466323853
+2009-06-26,"With NRG Energy suing Exelon and a PepsiCo proposal inspiring a shareholder suit, it was a busy week for deal-related litigation.",negative,-0.8183491230010986
+2009-06-26,The Deal Professor has a rundown of these cases and more.,neutral,-0.010524461045861244
+2009-06-26,The Week in Deal Litigation,neutral,-0.16228242218494415
+2009-07-02,"Exelon raised its bid for NRG to $7.43 billion, citing cost savings and NRG’s recent acquisition of Reliant Energy’s retail business.",positive,0.9034652709960938
+2009-07-02,Exelon Makes a Higher Offer in Its Long Pursuit of NRG,positive,0.7374203205108643
+2009-07-02,"Exelon said Thursday it raised its bid for rival power producer NRG Energy to about $7.5 billion in stock, marking the latest twist in the months-long takeover feud.",positive,0.895998477935791
+2009-07-02,Exelon Raises Hostile Bid for NRG,neutral,0.05507811903953552
+2009-07-08,NRG Energy said Wednesday it has turned down Exelon’s latest hostile takeover bid of $8 billion in stock because it undervalues the business.,negative,-0.9263925552368164
+2009-07-08,NRG Rejects Latest Bid from Exelon,negative,-0.6323981881141663
+2009-07-22,A nine-month $7.53 billion takeover effort ended after NRG’s shareholders rejected board nominees from its suitor.,negative,-0.7354981899261475
+2009-07-22,Exelon Drops Its Bid for NRG Energy,negative,-0.713111400604248
+2009-07-22,"Exelon, the utility company, dropped a $7.53 billion offer for NRG Energy after shareholders rejected its board nominees, ending a nine-month takeover battle.",negative,-0.9482458829879761
+2009-07-22,Exelon Gives Up on Bid for NRG Energy,negative,-0.2361954301595688
+2009-07-31,"Exelon chief executive John Rowe says he’s not backing down from seeking buyout prospects despite 3 consecutive failed buyout attempts, The Chicago Tribune reported.",negative,-0.5320218205451965
+2009-07-31,Exelon Head Still Looking for Other Takeovers,neutral,-0.10858160257339478
+2009-09-29,"Exelon, the largest U.S. operator of nuclear plants, became the third major utility to cancel its membership in the Chamber of Commerce because of differences over climate policies.",negative,-0.9246535897254944
+2009-09-29,Climate Bill Splits Exelon and U.S. Chamber,neutral,0.12073925137519836
+2009-10-05,Are concerns about increased costs to business well founded?,neutral,0.11527758836746216
+2009-10-05,Or has a tipping point been reached?,neutral,-0.2541324496269226
+2009-10-05,Is the Chamber of Commerce Right About Climate Change?,neutral,0.001374952495098114
+2009-11-02,A new study breaks down the potential impact of pending legislation on the fossil fuel industry and utilities.,neutral,-0.09781079739332199
+2009-11-02,Winners and Losers of Cap-and-Trade,neutral,0.01945432648062706
+2009-12-18,General Electric considers building nuclear reactor components in Michigan.,neutral,0.006315434351563454
+2009-12-18,General Electric Inches Ahead With a Proposed Reactor,neutral,0.2821502089500427
+2010-05-06,Wall Street is still awaiting answers about why the stock market plunged in a matter of minutes on Thursday afternoon and then bounced back.,negative,-0.7061817049980164
+2010-05-06,Seeking Answers After Wall St.’s Wild Bungee Jump,neutral,-0.027672842144966125
+2010-08-31,"The American power producer Exelon said on Tuesday that it had agreed to buy John Deere Renewables, a wind power company, in a deal that may be worth up to $900 million.",positive,0.7081391215324402
+2010-08-31,Exelon to Buy Wind Power Firm John Deere Renewables,neutral,0.046650394797325134
+2010-10-11,The economic prognosis for new nuclear reactors has been hurt by the falling price of competing energy sources and a lack of climate legislation.,negative,-0.963577389717102
+2010-10-11,Sluggish Economy Curtails Prospects for Building Nuclear Reactors,negative,-0.9226208925247192
+2010-11-16,"Many Republicans support building more nuclear reactors, but several factors make the outlook for new plants mixed at best.",neutral,0.10927382856607437
+2010-11-16,G.O.P.,neutral,0.031348817050457
+2010-11-16,Gains on Capitol Hill May Not Advance Nuclear Power,negative,-0.5253341197967529
+2010-11-22,"Instead of hiring a contractor, Exelon has turned the job and the reactors over to a nuclear demolition company.",neutral,0.020344361662864685
+2010-11-22,After the Nuclear Plant Powers Down,neutral,-0.15843279659748077
+2010-12-24,"Citing problems with the chosen site, a Texas group objects to Exelon’s plan to build a reactor sometime in the future.",negative,-0.8685188889503479
+2010-12-24,Early Bid for a Reactor Site Draws Opposition in Texas,negative,-0.7827053070068359
+2011-03-25,"Exelon, the largest operator of nuclear plants in the United States, says it can handle emergencies not anticipated when the reactors were designed.",positive,0.7368490695953369
+2011-03-25,"Exelon, Largest U.S.",neutral,0.025052377954125404
+2011-03-25,"Reactor Owner, Seeks to Reassure",neutral,-0.015286002308130264
+2011-04-27,"Exelon is near a deal to buy Constellation Energy, a fellow utility company, for about $7.7 billion in stock, people briefed on the matter told DealBook.",neutral,0.07397405803203583
+2011-04-27,Exelon Nears Takeover of Constellation Energy,neutral,0.0072838664054870605
+2011-04-28,"Exelon announced on Thursday that it would buy Constellation Energy for $38.59 a share, the latest deal in a wave of consolidation among energy companies, particularly utilities.",positive,0.6536849141120911
+2011-04-28,Exelon to Buy Constellation Energy for $7.9 Billion,neutral,0.023906245827674866
+2011-04-28,Highlights from the DealBook newsletter.,neutral,0.030878622084856033
+2011-04-28,Morning Take-Out,neutral,0.07331109046936035
+2011-06-25,"John W. Rowe of Exelon, the electric utility, says he learned early in his career that it’s always important to take action — “to always be looking for something to do that moves the ball.”",neutral,0.06976285576820374
+2011-06-25,A Sitting Duck Can’t Catch a Moving Turkey,negative,-0.5203492641448975
+2012-02-03,"The outgoing chairman of Commonwealth Edison’s parent company, Exelon Corp., is a throwback to the days of the straight-talking executive.",neutral,-0.10816273093223572
+2012-02-03,A Corporate Executive With Roots,neutral,0.03027171641588211
+2013-06-14,"Even reactors still licensed to operate may close, because the price of the electricity they generate doesn’t warrant costly repairs and maintenance.",negative,-0.9165465235710144
+2013-06-14,"Nuclear Plants, Old and Uncompetitive, Are Closing Earlier Than Expected",negative,-0.7875323295593262
+2014-03-10,"Exelon, which operates 17 of the 100 commercial power reactors in the United States, will spend $400 million to $500 million in post-Fukushima fixes.",neutral,0.12218358367681503
+2014-03-10,"After Fukushima, Utilities Prepare for Worst",negative,-0.44260135293006897
+2014-04-30,The acquisition is the latest effort by a utility to cut costs by growing larger as the industry contends with declining electricity sales and gas prices.,positive,0.8429011106491089
+2014-04-30,"Hoping for Stability, Utility Operator Exelon Agrees to Buy Pepco for $6.8 Billion",positive,0.70755535364151
+2014-04-30,"There is a strategic logic to a merger between Exelon and Pepco, writes Christopher Swann of Reuters Breakingviews, yet there is also a high premium.",neutral,0.3920590281486511
+2014-04-30,High Price in Utility Deal,neutral,0.129482239484787
+2014-12-26,"The agency is trying to complete a regulation governing emissions from power sources, and a formula for how to treat nuclear plants is proving contentious.",negative,-0.7616672515869141
+2014-12-26,E.P.A.,neutral,0.03660343214869499
+2014-12-26,Wrestles With Role of Nuclear Plants in Carbon Emission Rules,neutral,0.004636064171791077
+2015-08-25,The decision by a Washington regulator casts doubt on a merger that would create the country’s biggest utility operator.,negative,-0.2840909957885742
+2015-08-25,Regulator Votes to Block Merger of Pepco and Exelon,negative,-0.48564112186431885
+2016-06-01,Some environmentalists have come to accept nuclear power as a low-emission source of electricity.,neutral,0.06553575396537781
+2016-06-01,But the industry is struggling to compete with cheap natural gas.,negative,-0.9350159764289856
+2016-06-01,"Nuclear Plants, Despite Safety Concerns, Gain Support as Clean Energy Sources",positive,0.9150723218917847
+2016-06-02,The power provider plans to shut down the money-losing Clinton Power Station and the Quad Cities Generating Station.,negative,-0.9208913445472717
+2016-06-02,Exelon to Close 2 Nuclear Plants in Illinois,negative,-0.8444795608520508

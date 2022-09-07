@@ -1,0 +1,558 @@
+Date,Sentence,Prediction,sentimentScore
+2014-01-07,BYD announces plans to sell cars in the United States; Detroit automakers plan to distribute $800 million to workers.,positive,0.4203638732433319
+2014-01-07,Wheelies: The Chinese Import Car Edition,neutral,0.04645482823252678
+2014-01-08,"With its decision not to allow the sale of Bitcoins on its website, the Alibaba Group becomes the latest in a chorus of governments and businesses to raise questions about the virtual currency.",neutral,0.12504424154758453
+2014-01-08,Chinese E-Commerce Giant Alibaba to Ban Bitcoins on Its Sites,negative,-0.8318415880203247
+2014-01-13,"The China Securities Regulatory Commission announced that it would tighten restrictions on public offerings, shortly after the first new share sales since 2012 had been approved.",positive,0.4999978244304657
+2014-01-13,5 Chinese I.P.O.’s Shelved After Regulator Stiffens Rules,negative,-0.9066001772880554
+2014-01-16,My dog is always ready to move on and look for something new.,neutral,0.07937169075012207
+2014-01-16,I can relate.,neutral,0.10310930013656616
+2014-01-16,What I Miss When I’m in China (and Arizona),neutral,0.00426415354013443
+2014-01-17,Prices rose in 2013 for the third consecutive year after lagging inflation for more than 20 years.,positive,0.9042112827301025
+2014-01-17,Era of Cheap Apparel May Be Ending for U.S.,neutral,0.06761849671602249
+2014-01-21,"Richard Robinson has spent more than a dozen years in Beijing, where he has mainly focused on mobile Internet and gaming.",neutral,-0.011695344001054764
+2014-01-21,A Globe-Trotting Serial Entrepreneur Finds Roots in China’s Start-Up Scene,neutral,0.09398667514324188
+2014-01-23,"A deal for the unit could be announced on Thursday, and would represent the successful completion of a deal that almost got done last year.",positive,0.7262631058692932
+2014-01-23,Lenovo Near Deal for IBM’s Server Business,neutral,0.13795645534992218
+2014-01-28,"The government did not explain why Zhu Changhong, a former fund manager at Pimco, was no longer the chief investment officer at the State Administration of Foreign Exchange.",neutral,-0.1330086588859558
+2014-01-28,A Top Manager Resigns From China’s Foreign Exchange Agency,negative,-0.8884150981903076
+2014-01-30,The world’s biggest distiller joined other consumer brands in saying that slower growth in developing economies last year hurt its business.,negative,-0.9437558650970459
+2014-01-30,Diageo Reports Slower Growth,negative,-0.7092456817626953
+2014-01-31,"Lenovo, already the world’s biggest PC maker, is a company in a hurry.",negative,-0.9043112993240356
+2014-01-31,"It bought a business of low-end servers that will remain in demand for years, and Motorola Mobility, which makes it the trusted partner of Google.",neutral,0.27995598316192627
+2014-01-31,"Over Just 7 Days, Lenovo Wraps Up Two Deals Totaling $5.2 Billion",neutral,0.2152801752090454
+2014-02-03,"When New Year’s break is over, we have no idea how many of our employees will return to work.",negative,-0.6160000562667847
+2014-02-03,The Great Mystery of Chinese New Year,neutral,0.05820965766906738
+2014-02-10,Federal authorities are also investigating whether at least six other big banks hired applicants explicitly to win business from Chinese companies.,negative,-0.6396680474281311
+2014-02-10,Chinese Official Made Job Plea to JPMorgan Chase Chief,neutral,-0.12393902242183685
+2014-02-11,UBS has placed two bankers on leave as it investigates its hiring the daughter of the chairman of a Chinese chemicals company that is considering a share sale the bank has sought a role in.,negative,-0.9321364164352417
+2014-02-11,UBS Suspends 2 Bankers in China Hiring Investigation,negative,-0.924971878528595
+2014-02-12,Federal prosecutors in six states have filed actions against businesses that buy luxury cars at domestic dealerships and then send them to China.,negative,-0.8207704424858093
+2014-02-12,U.S.,neutral,-0.05536564439535141
+2014-02-12,Targets Buyers of China-Bound Luxury Cars,neutral,0.031384944915771484
+2014-02-14,"In China, customer service is handled quite differently.",neutral,-0.12880639731884003
+2014-02-14,Customers often complain as part of a negotiation to try to get a better deal.,negative,-0.9143689870834351
+2014-02-14,"Customer Service, Chinese Style",neutral,0.006512288935482502
+2014-02-25,"With the real estate boom starting to fade, Chinese companies once again see the future in overseas markets.",positive,0.5311773419380188
+2014-02-25,"As Rest of Economy Weakens, Chinese Exports Surge",negative,-0.9440985918045044
+2014-03-03,"A little more than a week into the New Year, our whole team returned to us — including one particular employee with a heartwarming story.",neutral,0.15607468783855438
+2014-03-03,"The Mystery of Chinese New Year, Solved",neutral,0.017389364540576935
+2014-03-05,A small solar company in Shanghai has said it is unlikely to meet a Friday deadline for an annual interest payment owed to investors.,negative,-0.9088161587715149
+2014-03-05,Bond Market in China May See First Local Default,neutral,0.06915228813886642
+2014-03-06,"If the analogy with the crisis of 2008 has any use, writes Peter Thal Larsen of Reuters Breakingviews, it is as a reminder of which mistakes to avoid.",neutral,-0.09081375598907471
+2014-03-06,Why This Isn’t China’s ‘Bear Stearns Moment’,neutral,-0.1541561782360077
+2014-03-07,"The government did not intercede to prevent a solar panel producer from defaulting on a bond interest payment, suggesting that Beijing is serious about a financial overhaul.",negative,-0.7042778730392456
+2014-03-07,Default Signals Growing Maturity of China’s Corporate Bond Market,positive,0.4995115399360657
+2014-03-10,"An acquaintance in Beijing recently brought up the discrimination bill and asked me, “Why is Arizona was so un-American?”",neutral,-0.24386480450630188
+2014-03-10,When Local Politics Have Global Consequences,neutral,-0.23436006903648376
+2014-03-13,"Investors may be betting that Alibaba will move into digital entertainment, but they are too easily excited, contends Robyn Mak of Reuters Breakingviews.",neutral,-0.00766386091709137
+2014-03-13,Star-Struck by Alibaba’s Movie Company Deal,neutral,0.4122700095176697
+2014-03-14,The Chinese e-commerce titan Alibaba is said to be planning to follow the social network Weibo into filing for an I.P.O.,neutral,0.0011482574045658112
+2014-03-14,"in New York, rather than in Hong Kong.",neutral,-0.26040494441986084
+2014-03-14,China’s Online Goliaths Prepare Public Offerings in U.S.,neutral,0.004435352981090546
+2014-03-15,"The bank doubled the amount by which the renminbi would be permitted to rise or fall each day, making it more responsive to market forces.",positive,0.8656240701675415
+2014-03-15,China’s Central Bank Allows Its Currency More Volatility,neutral,0.11509136855602264
+2014-03-16,Recent developments suggest that the renminbi’s day-to-day strengthening is no longer the certainty it once appeared to be.,neutral,-0.25193697214126587
+2014-03-16,"In China, Shaking Up Currency’s Strength",negative,-0.8888052701950073
+2014-03-17,"The growth of the Twitter-like Chinese microblog Weibo comes with some hairy regulatory risks, John Foley of Reuters Breakingviews writes.",neutral,0.10810911655426025
+2014-03-17,Weibo I.P.O.,neutral,0.05954178050160408
+2014-03-17,Sets a Low Bar for Alibaba,neutral,-0.24614588916301727
+2014-03-18,"Han Sanping is stepping down as chairman of the China Film Group, a government-sponsored company that supervises film imports to China.",neutral,-0.17997118830680847
+2014-03-18,Confirmation of Shake-Up in China’s Film Industry,neutral,0.08772291243076324
+2014-03-24,The American technology giant said on Monday that its $7.5 billion takeover of Nokia’s handset business would now close in April.,neutral,0.024794932454824448
+2014-03-24,The deal had been expected to be completed by the end of March.,neutral,0.07377590239048004
+2014-03-24,Nokia Handset Sale to Microsoft Delayed,neutral,0.032120466232299805
+2014-03-25,A construction boom in the Asian gambling hub epitomizes the rising spending power of Chinese consumers.,positive,0.7777349352836609
+2014-03-25,Macau Rides High on New Round of Casino Construction,positive,0.6409287452697754
+2014-03-26,The agreement by the Bank of England and the People’s Bank of China is the first outside of Asia and a victory for the British government in its efforts to make London a leading Western hub for Chinese trading.,positive,0.9077386260032654
+2014-03-26,Britain Gains Renminbi Trading Deal,neutral,-0.04748034477233887
+2014-03-27,"A severe slowdown in China’s economy would have a modest ripple effect, particularly on global commodity prices, but would not provoke a global crisis, two economists write.",negative,-0.4755663275718689
+2014-03-27,China’s Shadow Banking Malaise,negative,-0.6805042624473572
+2014-03-28,"Most leases stipulate that at the end of the term, the tenant must pay for the complete demolition of any improvements.",neutral,-0.0010797418653964996
+2014-03-28,Finding Office Space in China,neutral,0.1332734376192093
+2014-04-01,"There are risks to Oversea-Chinese Banking Corporation’s deal for the Wing Hang Bank, an economic slowdown in China and lending excesses in Hong Kong among them, notes Peter Thal Larsen of Reuters Breakingviews.",negative,-0.8687173128128052
+2014-04-01,Chinese Ambition With a Hefty Price Tag,neutral,0.10251038521528244
+2014-04-02,A largely empty expanse in Shenzhen is the setting for a financial experiment that could have a huge impact on the world’s second-largest economy.,negative,-0.5142120122909546
+2014-04-02,But so far it is just a bold blueprint.,neutral,0.2618032693862915
+2014-04-02,"A Muddy Tract Now, but by 2020, China’s Answer to Wall St.",neutral,0.18614298105239868
+2014-04-03,China’s cabinet decided to continue the breaks for small and very small enterprises through 2016 and said it was considering significantly broadening them.,neutral,0.4263527989387512
+2014-04-03,China Extends Tax Break Program to Spur Economy,positive,0.6388776302337646
+2014-04-07,"Cement is heavy to transport and relatively inexpensive to produce, so China’s dominance in the industry has little bearing on global supplies or prices.",neutral,0.03637872636318207
+2014-04-07,China’s Dominance in Cement Has Little Effect on European Suppliers,neutral,-0.09556546807289124
+2014-04-09,"Jun Ma, a 13-year veteran of the German bank, is known as one of the most bullish of the economists who follow China.",neutral,0.06551216542720795
+2014-04-09,Deutsche Bank Economist to Join China’s Central Bank,neutral,0.15026560425758362
+2014-04-11,Health care and air quality are always a serious conversation employees consider working in China.,neutral,0.030459854751825333
+2014-04-11,A Creative Approach to Adjusting to Life in China,neutral,0.39194533228874207
+2014-04-12,"While China is eager to wean itself from energy imports and coal, its extraction of shale gas is likely to be more expensive and dangerous than elsewhere.",negative,-0.9137948751449585
+2014-04-12,China Takes On Big Risks in Its Push for Shale Gas,neutral,0.057852402329444885
+2014-04-16,A deal between King Digital Entertainment and the Internet giant Tencent will bring one of the most popular game franchises to China.,positive,0.880851686000824
+2014-04-16,Candy Crush to Expand to China,positive,0.6648669242858887
+2014-04-17,The Chinese microblogging service Weibo was up 19 percent and shares of the real estate website Leju rose 18.6 percent on Thursday.,positive,0.8970092535018921
+2014-04-17,"Shares of Twitter-Like Weibo Surge on Opening Day, as China I.P.O.s Mount",positive,0.6431019306182861
+2014-04-18,"On Friday, cybersecurity experts said they had evidence of the first confirmed attack on a major corporation using the Heartbleed bug.",neutral,-0.06118878722190857
+2014-04-18,Heartbleed Internet Security Flaw Used in Attack,negative,-0.6850824952125549
+2014-04-21,This year’s edition of China’s show includes many models custom-tailored to the Chinese auto market.,neutral,0.06612364202737808
+2014-04-21,Media Previews in Beijing Feature Many Debuts From Global Automakers,neutral,0.11190978437662125
+2014-04-22,"Volkswagen showed off its redesigned Touareg S.U.V., and Japanese automakers made a push into the Chinese market.",positive,0.6698014140129089
+2014-04-22,Auto China Opens to the Public in Beijing,neutral,0.05852583795785904
+2014-04-24,"The businessman told me that if it hadn’t been for groundbreakers like him, I never would have been able to do business in China.",neutral,-0.07436349987983704
+2014-04-24,Offering Thanks to China’s Business Groundbreakers,positive,0.6292213797569275
+2014-04-28,The e-commerce giant’s deal for a minority stake in Youku Tudou extends a recent frenzy of acquisitions in China’s fast-growing technology sector.,positive,0.9067599177360535
+2014-04-28,Alibaba Buys Stake in Chinese Web TV Company for $1.2 Billion,neutral,0.13989511132240295
+2014-04-30,"While the Silicon Valley elite may not seem to care about the coming stock offering, it could signal the start of a global fight for users.",negative,-0.7637115716934204
+2014-04-30,Alibaba I.P.O.,neutral,0.05655376613140106
+2014-04-30,May Unleash Global Fight Over Users,neutral,-0.06296119093894958
+2014-05-05,"Expanding into China can be daunting, but without a sales strategy that includes Asia, companies risk missing many opportunities.",negative,-0.942636251449585
+2014-05-05,Helping Small Companies Go Big in China,neutral,0.2756325900554657
+2014-05-06,"When investors buy shares in an American offering of Alibaba, what exactly will they be buying?",neutral,0.021617580205202103
+2014-05-06,asks Steven M. Davidoff in the Deal Professor column.,neutral,0.022989589720964432
+2014-05-06,Alibaba Investors Will Buy a Risky Corporate Structure,neutral,-0.11449616402387619
+2014-05-08,The lucrative returns have raised concerns that China could tighten restrictions to ensure control over one of the most dynamic parts of its economy.,negative,-0.02902194857597351
+2014-05-08,Red-Hot Web in China Richly Rewards Foreign Investors,neutral,0.42819640040397644
+2014-05-12,The first choice to make is whether you want an executive who uses Western or Chinese management techniques.,neutral,0.009024381637573242
+2014-05-12,Learning How to Hire a Management Team in China,neutral,0.14899682998657227
+2014-05-19,"After the indictment of five members of a Chinese military hacking unit Monday, a nagging question remained: What about the other 20 hacking groups intelligence officials are tracking in China?",negative,-0.8991777896881104
+2014-05-19,Questions Remain After Chinese Hacking Indictments,negative,-0.7390139698982239
+2014-05-20,"Treasury Wine Estates, the vintner that owns dozens of brands including Penfolds and Beringer Vineyards, said that the bid by the private equity group did not reflect the “fundamental value of the company.”",neutral,-0.11827065050601959
+2014-05-20,Australian Winemaker Rebuffs $2.8 Billion Takeover Bid by K.K.R.,negative,-0.36574065685272217
+2014-05-21,"The initial public offering for JD.com raised $1.78 billion, valuing the company at nearly $26 billion and whetting investors’ appetites for an Alibaba I.P.O.",positive,0.606357991695404
+2014-05-21,Web Retailer JD.com’s I.P.O.,neutral,0.0003647543489933014
+2014-05-21,Shows a Hunger for China,neutral,0.05220244824886322
+2014-05-23,"The web giant is backing start-ups in Silicon Valley and introducing an online marketplace, 11 Main, aimed at U.S. shoppers and meant to compete with eBay.",positive,0.7054815292358398
+2014-05-23,Alibaba’s American Aspirations,neutral,0.031204968690872192
+2014-06-05,"James W. Breyer will advise and invest alongside IDG Capital Partners, which is expected to make early stage investments in Chinese technology, media and telecommunication companies.",neutral,0.08955306559801102
+2014-06-05,Accel’s Breyer to Partner With Venture Capital Firm in China,neutral,0.39776548743247986
+2014-06-06,"The $192 million investment in Guangzhou Evergrande is the latest example of Alibaba’s scattershot approach to deal-making, writes Peter Thal Larsen of Reuters Breakingviews.",neutral,0.1589115560054779
+2014-06-06,What a Soccer Deal Says About Alibaba,neutral,0.05369875207543373
+2014-06-09,The challenges become even greater when Western companies try to introduce established customer-service procedures into their Chinese operations.,neutral,0.2650474011898041
+2014-06-09,The Challenges of Enforcing Customer Service Policies,neutral,-0.008101612329483032
+2014-06-10,"The report, by CrowdStrike, a security company, ties a hacker group in Shanghai to attacks on governments, contractors and research companies.",negative,-0.8361882567405701
+2014-06-10,Daily Report: Report Implicates 2nd Chinese Army Unit in Online Spying,negative,-0.8248790502548218
+2014-06-11,"The authorities are investigating loans based on collateral of metals at a Chinese port, with implications for Western banks and the Chinese credit market.",negative,-0.6765522360801697
+2014-06-11,Banks Fear Missing Collateral in China,negative,-0.8868811130523682
+2014-06-12,"The direct damage looks manageable, but confidence in the country’s giant credit system has eroded, writes John Foley of Reuters Breakingviews.",negative,-0.9651467800140381
+2014-06-12,Missing Collateral a Sign of Weakness in China’s Financing Chains,negative,-0.929689347743988
+2014-06-16,An amended prospectus by the Chinese e-commerce giant publicly disclosed the names of all 27 individuals in its controlling partnership for the first time.,neutral,0.015421788208186626
+2014-06-16,Alibaba Clarifies Leadership Structure as I.P.O.,neutral,0.016725704073905945
+2014-06-16,Approaches,neutral,0.048151932656764984
+2014-06-18,"Citic Resources, a Chinese state-owned commodities trader, said that more than 100,000 tons of alumina was missing at a port that is the focus of a commodities fraud investigation.",negative,-0.943527102470398
+2014-06-18,Citic’s Missing Alumina Prompts Concern Over China Commodities Fraud,negative,-0.9264459013938904
+2014-06-21,"Software, sensors and data make it possible to monitor and measure work as never before.",neutral,0.06924696266651154
+2014-06-21,But research suggests that privacy can increase worker productivity.,positive,0.8684793710708618
+2014-06-21,Workplace Surveillance and the ‘Transparency Paradox’,neutral,-0.25248000025749207
+2014-07-07,There are three major differences between the way e-commerce works in the United States and in China.,neutral,-0.04047822952270508
+2014-07-07,Learning the Secrets of E-Commerce in China,neutral,0.1355823278427124
+2014-07-08,Sometimes a language barrier proves so impenetrable that a traveler has to resort to other means to get a point across.,negative,-0.8314628601074219
+2014-07-08,When Slow and Steady Doesn’t Help,neutral,-0.2420603185892105
+2014-07-09,Infiniti announces plans to build the QX30 and Q30 in England; a Chinese businessman sues Tesla Motors for trademark infringement.,negative,-0.9145428538322449
+2014-07-09,Wheelies: The Future Infiniti Edition,neutral,0.05454415827989578
+2014-07-11,A report on state-run television accused a major bank of helping clients transfer large amounts of renminbi overseas.,negative,-0.9265730381011963
+2014-07-11,China’s Central Bank Investigates Report of a Bank’s Money Laundering,negative,-0.6578710079193115
+2014-07-14,"The deal will extend the reach of Vita Coco, which will now be available in the world’s most populous country.",positive,0.9039465188980103
+2014-07-14,Vita Coco Sells Stake to Owner of Red Bull China,neutral,0.004869196563959122
+2014-07-21,Alibaba’s founder will continue to exert near-total control of the Chinese e-commerce giant even after its I.P.O.,neutral,0.03586658835411072
+2014-07-21,Can shareholders trust him to act in their interest?,neutral,0.0740826427936554
+2014-07-21,"Up to a point, says John Foley of Reuters Breakingviews.",neutral,0.2335411012172699
+2014-07-21,"For Alibaba Investors, the Benefits and Risks of Trusting Jack Ma",neutral,0.10376827418804169
+2014-07-23,"Growth in hydraulic fracturing, the technique of extracting oil or gas from hard rock, has shortened the learning curve for the geothermal industry.",negative,-0.27299708127975464
+2014-07-23,"Geothermal Industry Grows, With Help From Oil and Gas Drilling",positive,0.6853103041648865
+2014-08-04,"Xiaomi, the Chinese smartphone vendor, transformed from a niche player into the biggest smartphone maker in China, seemingly overnight.",positive,0.9115800857543945
+2014-08-04,How did that happen so fast?,neutral,-0.155201256275177
+2014-08-04,Xiaomi Tops Chinese Smartphone Market,positive,0.6053577661514282
+2014-08-05,The $2 billion raised in the WH Group’s I.P.O.,neutral,0.4334356188774109
+2014-08-05,"will help pay down the debt from the acquisition of Smithfield Foods, the biggest-ever buyout of an American company by a Chinese one.",positive,0.5448733568191528
+2014-08-05,Shares of Chinese Pork Producer WH Group Soar in Trading Debut,positive,0.6854373812675476
+2014-08-08,"Fan Bao, the head of the China Renaissance investment firm, has built a network of contacts with a focus on tech start-ups that will thrive in China’s “new economy.”",positive,0.7106271386146545
+2014-08-08,Upstart Bank in China Rides High on Technology I.P.O.,positive,0.6322156190872192
+2014-08-08,Crest,neutral,0.04242521524429321
+2014-08-10,"The increasing application of antimonopoly laws, against companies like Microsoft and Qualcomm, has raised concern in boardrooms around the world.",negative,-0.9093925952911377
+2014-08-10,China’s Energetic Enforcement of Antitrust Rules Alarms Foreign Firms,neutral,-0.1877211332321167
+2014-08-12,"Like its rivals in private equity, the Carlyle Group has been searching for unusual investment opportunities and has shown a new willingness to take smaller stakes in companies.",positive,0.7393929362297058
+2014-08-12,Carlyle Invests in Chinese Classified Ad Site Ganji.com,neutral,0.03545260429382324
+2014-08-15,Apple this week said it had for the first time begun storing user data on servers in mainland China.,neutral,0.3905352056026459
+2014-08-15,It also barred two potentially harmful chemicals that some factory workers had used during assembly of iPhones and iPads.,negative,-0.6857022047042847
+2014-08-15,Apple to Add Data Storage in China and Prohibit Two Chemicals,neutral,0.18537890911102295
+2014-08-18,"On Monday, a hospital network said personal data for 4.5 million patients had been stolen in a cyberattack by a group based in China.",negative,-0.9302853345870972
+2014-08-18,Hack of Community Health Systems Affects 4.5 Million Patients,neutral,-0.04872835427522659
+2014-08-24,"Sophisticated hackers are infiltrating video game makers not only to steal credit card numbers, passwords and trade secrets, but also, it turns out, simply for the virtual street cred.",negative,-0.615505039691925
+2014-08-24,"Hackers Target Video Games for Fun, Profit and Better Scores",neutral,-0.08865301311016083
+2014-08-26,"At an event in Stockholm, Volvo managers portrayed the new XC90 sport utility vehicle as Scandinavian to the marrow.",neutral,0.22164741158485413
+2014-08-26,Volvo Introduces Its First S.U.V.,positive,0.5511795282363892
+2014-08-26,Made Under Chinese Ownership,neutral,0.031957339495420456
+2014-08-28,"Stephen A. Schwarzman of the Blackstone Group, and Zhang Xin, the chief executive of SOHO China, will bankroll scholarships for students in China.",neutral,0.14480791985988617
+2014-08-28,"In China, Dueling Scholarship Programs From Billionaires",neutral,-0.20261773467063904
+2014-09-01,The lifting of a 20-year ban represents a fundamentally different approach to a chronic problem: how to finance projects like roads and bridges without unsustainable levels of debt.,neutral,0.12700800597667694
+2014-09-01,China Authorizes Local Governments to Issue Bonds,neutral,0.023077640682458878
+2014-09-08,"China has become Apple's third-largest market for software sales, and a huge chunk of that comes through WeChat, an app used to play games.",neutral,0.25244399905204773
+2014-09-08,Chinese Game Players Add to Apple's Bottom Line,neutral,-0.01851537823677063
+2014-09-11,The Internet giant is bringing e-commerce into the homes of China’s rapidly expanding middle class.,positive,0.6523717641830444
+2014-09-11,"Alibaba Is Bringing Luxury, Fast, to China’s Middle Class",positive,0.6647927761077881
+2014-09-15,Shares in China Petroleum & Chemical Corporation fell as markets reacted to the company’s plans to raise $17.4 billion by selling a stake in its nationwide chain of gas stations to outside investors.,negative,-0.9547271728515625
+2014-09-15,Sinopec Stake Sale Leaves Investors Unimpressed,negative,-0.8006879091262817
+2014-09-16,"While some observers see a “reshoring” of global manufacturing to the United States, the globalization trend is far from over.",neutral,-0.16430120170116425
+2014-09-16,Globalization Is in Retreat?,negative,-0.4114912450313568
+2014-09-16,Not So Fast,neutral,-0.2500615417957306
+2014-09-17,"For less than the price of a plane ticket to China, Export Now promised to ship a small business’s goods to China and put them online in a massive market.",neutral,0.08826190233230591
+2014-09-17,Most small businesses were not interested.,neutral,-0.1123489961028099
+2014-09-17,Have You Tried Selling Products in China?,neutral,-0.013634985312819481
+2014-09-19,A re-creation of the famed facade of the New York Stock Exchange was placed in the main courtyard of the company for celebrations of the first day of trading.,neutral,0.22910070419311523
+2014-09-19,Alibaba’s New Campus Sets Up for a Big Prty,neutral,0.34316593408584595
+2014-09-22,"When I bought a company in California last year, I was struck by how similar the bureaucratic hoops were.",neutral,0.05362291261553764
+2014-09-22,There actually were more of them in California than I typically face in China.,neutral,-0.13867034018039703
+2014-09-22,"Battling Red Tape, in America and China",neutral,-0.06478442251682281
+2014-09-26,Intel is spending big money to invest in a Chinese maker of systems for mobile phones in hopes of capturing more of the chip market and to leap past competitors like Qualcomm.,positive,0.7032130360603333
+2014-09-26,Intel Invests $1.5 Billion to Tap Mobile Phone Chip Market in China,positive,0.6846386194229126
+2014-09-29,"As rivals circle, a distrust of American technology and a crackdown on government corruption have left Chinese smugglers struggling to sell new iPhones.",negative,-0.9477756023406982
+2014-09-29,"A Glum Sign for Apple in China, as Smuggled iPhones Go Begging",negative,-0.8440303802490234
+2014-09-30,"The Chinese government said that after it presented Apple with concerns about the iPhone 6’s security features, the company provided it with “official materials” to address them.",neutral,0.02592097595334053
+2014-09-30,"The iPhone 6 Coming Soon to China, After Stern Look at Security",neutral,0.1528373509645462
+2014-10-14,"Levin Zhu, the son of a former Chinese premier, has resigned from the China International Capital Corporation ahead of a planned initial public offering that was expected this year.",negative,-0.5582583546638489
+2014-10-14,"Longtime Chief Leaves C.I.C.C., a Major Chinese Investment Bank",neutral,0.009281979873776436
+2014-10-23,"For Apple, greater China has been one of its fastest growing markets for iPhone sales, so the company wants to more than double its presence there.",positive,0.8505338430404663
+2014-10-23,Apple’s Tim Cook Talks of Retail Expansion in China,neutral,0.3499033451080322
+2014-10-29,Ford announces technology that allows police departments to monitor the driving behavior of their officers; Twitter ads account for $716 million in auto sales.,positive,0.7125268578529358
+2014-10-29,Wheelies: The Watching the Watchers Edition,neutral,0.03628716990351677
+2014-10-31,"As China’s Internet czar, Lu Wei has spoken out on rules for regulating smartphones and about taking on foreign Internet companies.",neutral,0.08992674201726913
+2014-10-31,"In China, Internet Czar Is Taking a Blunt Tone",negative,-0.4503220021724701
+2014-11-04,"A new funding round could give Xiaomi a valuation of as much as $50 billion, but the Chinese company lacks the market dominance and innovation that would justify such a price, Ethan Bilby of Reuters Breakingviews writes.",neutral,0.16291776299476624
+2014-11-04,An Apple-Like Valuation for a Chinese Rival,neutral,-0.01607455313205719
+2014-11-05,"It would not be easy for the average Mac user to be hit by this malware, but it points to new ways in which hackers are targeting Apple products.",neutral,-0.3178112804889679
+2014-11-05,Malicious Software Campaign Targets Apple Users in China,negative,-0.7684416770935059
+2014-11-10,"By exhibiting a stealth aircraft at an air show this week, China wants to show just how far its arms industry has come, experts say.",positive,0.6361079812049866
+2014-11-10,"With a Stealth Fighter, China Tries to Gain Attention",neutral,0.08331321179866791
+2014-11-11,"On Singles’ Day, Chinese Internet users showed just how ingrained online shopping has become in the country.",neutral,0.28432497382164
+2014-11-11,"For Online Retailers Like Alibaba, Singles’ Day in China Is a Bonanza",neutral,-0.0004054233431816101
+2014-11-14,The world’s fourth-largest exporter of arms is now encouraging smaller private domestic companies to enter the field.,neutral,0.47684597969055176
+2014-11-14,China’s Rise as Arms Supplier Is Put on Display,neutral,0.12309036403894424
+2014-11-17,Chinese users can now use China UnionPay cards to buy items in the App Store.,neutral,0.09965074807405472
+2014-11-17,Apple Links China’s UnionPay Cards to App Store,neutral,0.04606957733631134
+2014-11-20,"Google said it would offer Chinese developers a way to sell mobile applications outside of mainland China by giving them access to its Play Store, which runs on Android phones and tablets.",positive,0.8260048627853394
+2014-11-20,Google Play Store Opens to Chinese Developers,neutral,0.2131558358669281
+2014-11-21,"Discussing a common business problem candidly, the owner of an auction company was cautioned, would make her look stupid, and she was warned about wearing green for a speech.",negative,-0.8097806572914124
+2014-11-21,"In China, Success Depends on Mastering a Different Set of Details",neutral,0.07555503398180008
+2014-12-01,How do you hire the person who may one day be your advocate at a foreign hospital?,neutral,-0.07034572958946228
+2014-12-01,Hiring When You Can’t Find the Person You Are Looking For,negative,-0.6048781275749207
+2014-12-02,"The research firm IDC predicts that 2015 will see an ever-faster shift to cloud, mobile, social and big data technologies, and that China’s impact will skyrocket.",positive,0.516668438911438
+2014-12-02,"In 2015, Technology Shifts Accelerate and China Rules, IDC Predicts",neutral,0.2826542258262634
+2014-12-08,The Shanghai stock market rose sharply after the data was released and has now climbed 26 percent since a rate cut on Nov. 21.,positive,0.8920525312423706
+2014-12-08,"China Announces Record Trade Surplus, Helped by Weak Oil Price",positive,0.2219754457473755
+2014-12-09,"Chinese stock markets have been resurgent in recent months, but they showed the first hints of stress on Tuesday, with a sharp drop in the main Shanghai share index.",negative,-0.9402419924736023
+2014-12-09,Chinese Stock Slump Contributes to Global Market Weakness,negative,-0.9192226529121399
+2014-12-10,"Despite the system’s challenges, the sector is becoming one of the most popular for those seeking the next great untapped market.",positive,0.513396680355072
+2014-12-10,Chinese Health Care Draws Investors,neutral,-0.05224980413913727
+2014-12-11,"Careless assumptions about China have sent many Western companies, especially big multinationals, slinking back home.",negative,-0.8927696943283081
+2014-12-11,Be Skeptical When Hiring an ‘Expert’ on China,neutral,0.03472870588302612
+2014-12-12,"After a $1.2 billion financing round just last week, the start-up is close to securing an investment worth hundreds of millions of dollars from China’s top search engine.",positive,0.6983025074005127
+2014-12-12,Uber Said to Be Near Investment Deal With Baidu,neutral,0.41050276160240173
+2014-12-15,It will take a while for the Chinese phone maker to catch up to Apple and Samsung.,positive,0.5788936018943787
+2014-12-15,Xiaomi Releases Financial Data Showing Its Growing Strength,positive,0.7237384915351868
+2014-12-16,"With the sales of PrimeCredit Limited in Hong Kong and Shenzhen PrimeCredit Limited, Standard Chartered continued to prune noncore assets to bolster its profit.",positive,0.9198088645935059
+2014-12-16,Standard Chartered Agrees to Sell Consumer Finance Assets in Asia,positive,0.628862738609314
+2014-12-18,Property developers in China are struggling to unload unsold units as potential buyers try to decide if prices will continue to fall.,negative,-0.9524414539337158
+2014-12-18,China’s Housing Resists Efforts to Spur Market,negative,-0.6615952849388123
+2014-12-22,"Companies are expected to spend more money on digital advertising next year than on TV commercials in China, which has 527 million smartphone users.",neutral,0.2897511422634125
+2014-12-22,Advertising on Smartphones Embraced in China,neutral,-0.2995656728744507
+2014-12-29,Risks abound for ordinary citizens who are piling into the stock markets at a pace not seen since 2007.,negative,-0.8361272811889648
+2014-12-29,Seeking to Ride on China’s Stock Market Highs,neutral,0.11445112526416779
+2015-01-09,"Consumer prices rose a meager 1.5 percent in December from a year earlier, making new action to boost growth increasingly likely.",positive,0.29875558614730835
+2015-01-09,Modest Rise in Inflation Gives China Room to Act,neutral,0.4208296537399292
+2015-01-13,"For centuries, China has used colossal public works projects like the Great Wall and Three Gorges Dam to showcase its engineering prowess and project its economic might.",positive,0.6035459041595459
+2015-01-13,A Tradition of Ambition,neutral,0.11990425735712051
+2015-01-19,"Stocks plunged 7.7 percent, the largest one-day decline since 2008, after regulators cracked down on margin financing to invest in shares.",negative,-0.9286686778068542
+2015-01-19,Forceful Actions by China to Regulate Markets Send Shares Plunging,negative,-0.42234566807746887
+2015-01-20,A slowdown in the pace of growth of China’s economy is leading foreign investors to reassess the country as a destination for their money.,negative,-0.5256282687187195
+2015-01-20,"To Invest, or Not, as China Shifts",neutral,0.026594750583171844
+2015-01-23,"Following the deal, BBVA will continue to hold a 4.7 percent stake in the Chinese bank.",neutral,0.04498075693845749
+2015-01-23,BBVA Agrees to Sell Stake in China Citic Bank for $1.7 Billion,neutral,0.37506377696990967
+2015-01-27,The introduction of a large-screen iPhone in China helped propel Apple’s profit to $18 billion and its revenue to nearly $75 billion.,positive,0.918342113494873
+2015-01-27,IPhone Sales in China Bolster Apple Earnings,positive,0.8493345379829407
+2015-01-28,The introduction of a large-screen iPhone in China helped propel Apple’s profit to $18 billion and its revenue to nearly $75 billion.,positive,0.918342113494873
+2015-01-28,Daily Report: IPhone Sales in China Bolster Apple Earnings,positive,0.9104613661766052
+2015-01-29,"Alibaba’s run-in with a Chinese regulator serves as a reminder that there is no such thing as a good relationship with China’s government, John Foley of Reuters Breakingviews writes.",positive,0.376070111989975
+2015-01-29,Alibaba’s Lesson in Government Relations,neutral,0.06987355649471283
+2015-01-31,The China Minsheng Banking Corporation gave no explanation for the resignation of Mao Xiaofeng and no indication whether he had been questioned or was assisting investigators.,neutral,-0.37458282709121704
+2015-01-31,President of China Minsheng Bank Steps Down,negative,-0.4541547894477844
+2015-02-03,The partnership will provide financing for U.S. manufacturers to buy products and supplies through Alibaba.com.,positive,0.606497585773468
+2015-02-03,Alibaba and Lending Club to Form Financing Partnership,neutral,0.06057801470160484
+2015-02-06,"Both Kantar Worldpanel and Canalys, research firms that track global smartphone sales, said Apple’s mobile operating system gained market share in China at the expense of Google’s Android.",positive,0.8770534992218018
+2015-02-06,New Data Shows Apple’s Explosive Growth in China,neutral,0.1933484673500061
+2015-02-09,The extent to which the downturn will ripple across the rest of China’s economy remains unclear.,negative,-0.6073927283287048
+2015-02-09,"In China, Heavy Industry Unexpectedly Falls Sharply",negative,-0.9498730897903442
+2015-02-10,"Hang Seng Bank, the lender controlled by HSBC, agreed on Tuesday to sell about half its stake in Industrial Bank of China for as much as $2 billion.",neutral,0.07678330689668655
+2015-02-10,Hang Seng Bank to Sell Part of Stake in Industrial Bank of China,neutral,-0.021419133991003036
+2015-02-11,The report by the American Chamber of Commerce reflects on-the-ground attitudes that large Chinese cities have become less hospitable places to work.,negative,-0.8508196473121643
+2015-02-11,Survey of Foreign Companies in China Finds Pollution a Growing Problem,negative,-0.7047094106674194
+2015-02-13,Alibaba disclosed on Friday that it has received a request from the S.E.C.,neutral,0.37918204069137573
+2015-02-13,for more information about the clash with China’s State Administration for Industry and Commerce.,neutral,-0.26650097966194153
+2015-02-13,S.E.C.,neutral,0.030168529599905014
+2015-02-13,Asks Alibaba About Dispute With Chinese Regulator,negative,-0.6930038928985596
+2015-02-28,"China’s central bank made the announcement on its website, saying that the one-year bank lending rate would drop 0.25 percentage point to 5.35 percent.",negative,-0.9280233383178711
+2015-02-28,China Cuts Interest Rates to Stimulate Slowing Economy,negative,-0.803830087184906
+2015-03-03,"The rules, among other things, require companies that sell computer equipment to Chinese banks to turn over secret source code, submit to invasive audits and build so-called back doors into hardware and software.",neutral,-0.048358164727687836
+2015-03-03,Daily Report: China’s Rules for Foreign Tech Firms Draw Concern From Obama,negative,-0.5403482913970947
+2015-03-05,"By cutting its growth target to approximately 7 percent, China is emphasizing more sustainable growth.",positive,0.3639838695526123
+2015-03-05,China Lowers Official Economic Growth Target,negative,-0.8603702187538147
+2015-03-11,"Sales in the United States and Canada fell about 5 percent in 2014, but in China they rose 34 percent.",negative,-0.9588988423347473
+2015-03-11,Global Movie Ticket Sales Rise 1% as China Surges,positive,0.8664448857307434
+2015-04-01,The site that hosts code for programmers had been overwhelmed by traffic that security experts believed came from China’s Great Firewall.,negative,-0.945131778717041
+2015-04-01,Attack on GitHub Appears to Have Ended,negative,-0.5136919021606445
+2015-04-10,"The tool, with a few tweaks, could allow Beijing to spy on anyone making a request through a Chinese server.",neutral,-0.04701519012451172
+2015-04-10,Daily Report: China Is Said to Use Powerful New Weapon to Censor Internet,neutral,-0.24150869250297546
+2015-04-13,"A letter from trade groups in the United States, Europe and Japan to Chinese officials appears to reflect renewed tensions over technology policies being rolled out by Beijing.",negative,-0.8915306329727173
+2015-04-13,Trade Groups Seek China’s Written Assurance on Tech Policy,positive,0.543444037437439
+2015-04-15,"More people are tinkering with personal devices to measure pollution, but experts caution that the technology is not always reliable or user-friendly.",negative,-0.8485562801361084
+2015-04-15,Experimenting at Home With Air Quality Monitors,neutral,0.017454706132411957
+2015-04-20,"IBM’s partnership with Teamsun, a Beijing company, to provide key technologies is similar to ones it has made elsewhere, but it has collided with political and trade issues.",neutral,-0.04004205763339996
+2015-04-20,Daily Report: IBM Venture With China Stirs Concerns,negative,-0.8168893456459045
+2015-05-21,"Powerful Republicans are bent on letting the export credit agency die, imperiling overseas projects and sales by American companies.",negative,-0.6931991577148438
+2015-05-21,Export-Import Bank Near Showdown in Congress,negative,-0.9272128343582153
+2015-05-27,"Android is the most popular operating system in the world by far, but it is under siege by low-end upstarts and fares poorly versus Apple’s iOS in ad revenue.",negative,-0.9569916725158691
+2015-05-27,"A Murky Road Ahead for Android, Despite Market Dominance",neutral,-0.1511816680431366
+2015-05-28,The holding company Sunac had said that the heavily indebted Chinese property developer would have to restructure its finances with creditors.,negative,-0.8895708322525024
+2015-05-28,Kaisa Takeover Bid by Sunac Is Dropped,neutral,-0.03539886325597763
+2015-06-09,"As part of the changes, HSBC said that it would increase its investment in Asia, where it generates more than half of its earnings.",positive,0.8993633985519409
+2015-06-09,"HSBC to Shed 50,000 Jobs in Overhaul of Global Business",negative,-0.9620235562324524
+2015-06-11,"Investments in new real estate developments are growing at their slowest pace since 2009, which could have an outsize effect on the economy.",negative,-0.927823543548584
+2015-06-11,Idle Home Builders Hold China’s Economy Back,negative,-0.7088111042976379
+2015-06-26,"JD.com, a Chinese online retailing giant, and ZestFinance, a big data start-up, are creating a joint venture.",positive,0.571635365486145
+2015-06-26,The goal: exploit new technology to jump start consumer lending in China.,positive,0.7068219780921936
+2015-06-26,ZestFinance Takes Its Big Data Credit Scoring to China,neutral,0.14222313463687897
+2015-06-27,Action by the bank was viewed as a sign that the government is not eager to see an end to a rally that has more than doubled prices in the last 12 months.,negative,-0.6569280624389648
+2015-06-27,China Cuts Interest Rates After Market Plunge,negative,-0.7093356251716614
+2015-07-03,"The move values Ant Financial Services at more than $45 billion and makes the Chinese government a stakeholder, according to people familiar with the transaction.",positive,0.5436299443244934
+2015-07-03,Alibaba’s Financial Affiliate Is Said to Close Private Placement of Shares,neutral,-0.2652685046195984
+2015-07-08,"The highly successful fund-raising round comes during a rout in China’s stock markets, showing that the company is perceived as a long-term investment.",positive,0.8752180933952332
+2015-07-08,"Didi Kuaidi, the Chinese Ride-Hailing Service, Raises $2 Billion",positive,0.7151862978935242
+2015-07-09,"Analysts warned that markets have further to fall, with the valuations of many small companies remaining too high.",negative,-0.95346999168396
+2015-07-09,"Chinese Stocks Rise, but Fears Persist",negative,-0.861516535282135
+2015-07-10,"Government policies to prop up shares seem to be having their desired impact, even as many Chinese companies remain suspended from trading.",negative,-0.8884050250053406
+2015-07-10,"After Week of Turmoil, Chinese Stocks Post Further Gains",positive,0.735428512096405
+2015-07-14,China is already building a stand-alone semiconductor industry via smaller takeovers.,neutral,0.3913249969482422
+2015-07-14,But completing this takeover will be much harder.,neutral,0.0452314130961895
+2015-07-14,The Challenges in a Deal for Micron,neutral,0.11664408445358276
+2015-07-15,"The economy appears to be benefiting from a number of government policy changes, including interest-rate cuts, and a nascent recovery in the housing market.",positive,0.8881515860557556
+2015-07-15,"Growth in China Holds Steady, and Better Than Expected, at 7%",positive,0.91002357006073
+2015-07-27,"On Monday, the main Shanghai share index plunged 8.5 percent; the volatility continued on Tuesday morning, with Shanghai stocks opening down 4.4 percent before recovering somewhat.",negative,-0.9556098580360413
+2015-07-27,Chinese Shares Tumble Again,negative,-0.7305131554603577
+2015-07-28,"Shanghai’s main share index fell sharply in the early hours, but ended down just 1.7 percent after the government pledged to support the market.",negative,-0.954909086227417
+2015-07-28,Chinese Markets Uneasy After Huge Sell-Off,negative,-0.9119382500648499
+2015-07-29,"As Chinese kimchi producers enter the Korean market, Korea’s national dish has been left with a kind of identity crisis.",negative,-0.8924683928489685
+2015-07-29,Preserving Korea’s Kimchi,neutral,0.08939740061759949
+2015-07-30,"The European private equity firm agreed to sell the air cargo services company to HNA Group, the owner of Hainan Airlines.",neutral,0.09992664307355881
+2015-07-30,PAI Partners to Sell Swissport International for $2.8 Billion,neutral,0.01889028772711754
+2015-08-04,The main Shanghai share index closed 3.7 percent higher after the country’s two main stock exchanges said they would restrict short-selling.,positive,0.6584484577178955
+2015-08-04,China’s Stock Exchanges Crack Down on Short-Selling,negative,-0.8566983938217163
+2015-08-10,Alibaba said it would pay about $4.6 billion for the stake and planned to use the retailer’s stores to sell groceries and other items beyond gadgets.,neutral,0.05112694948911667
+2015-08-10,Alibaba to Buy 20% Stake in Electronics Retailer Suning,neutral,0.07413404434919357
+2015-08-11,The move appeared to be a response to signs that the economy was slowing too fast for comfort and could raise tensions with trading partners like the United States.,negative,-0.6092448234558105
+2015-08-11,China Devalues Its Currency as Worries Rise About Economic Slowdown,negative,-0.8577834367752075
+2015-08-12,"The nation’s central bank set the official rate 1.6 percent lower than the previous day, jolting markets and raising concerns about the economy.",negative,-0.8971896767616272
+2015-08-12,China Weakens Its Currency Further,negative,-0.9124478101730347
+2015-08-13,"The renminbi’s official rate against the dollar has fallen 4.4 percent over the last three days, but officials in Beijing said it was not in free fall.",negative,-0.9456105828285217
+2015-08-13,China Seeks to Calm Markets as It Devalues Currency for 3rd Consecutive Day,negative,-0.44167447090148926
+2015-08-14,"From market to table, pork can explain a lot about what’s going on with China’s turbulent currency markets.",neutral,-0.15091481804847717
+2015-08-14,"To Understand Renminbi, Follow the Bacon",neutral,0.09327539801597595
+2015-08-18,"The stock sell-off on Tuesday puts the Shanghai index just above the low it reached on July 8, before the government’s rescue efforts began.",negative,-0.7222282886505127
+2015-08-18,Chinese Stocks Tumble 6.2% Amid Government Intervention Efforts,negative,-0.8987262845039368
+2015-08-19,Earnings have disappointed as copper and coal have tumbled.,negative,-0.9686115384101868
+2015-08-19,"And looking forward, both rivals’ behavior and Chinese demand remain unpredictable.",negative,-0.8153001070022583
+2015-08-19,Glencore Tripped Up by Faith in Rational Markets,neutral,-0.04420681297779083
+2015-08-25,"The central bank has cut interest rates five times since November, most recently on Tuesday after another day of sharp declines for Chinese stocks.",negative,-0.8351150751113892
+2015-08-25,China Again Cuts Interest Rates as Concerns Mount Over Economy,negative,-0.8251770734786987
+2015-08-26,"The two inquiries appear aimed at bolstering investors’ confidence, differing from past investigations used to help tamp down frothy markets.",neutral,0.19484096765518188
+2015-08-26,"As Markets Flail, China Investigates Large Brokerage Firms",negative,-0.8600277900695801
+2015-08-27,The investment bank joins a long list of counterfeits that includes Apple stores and British villages.,neutral,0.018179846927523613
+2015-08-27,"They’re easy to mock, but they show an ingenuity and pluck that could be powerful.",neutral,0.12284814566373825
+2015-08-27,A Fake Goldman Sachs Underlines a Real Chinese Strength,negative,-0.4100198447704315
+2015-08-31,"Although overall bad debt levels remain relatively low, continued deterioration threatens to reverse years of profit growth.",negative,-0.5778222680091858
+2015-08-31,Slowing Growth Exposes Chinese Banks’ Debt Debris,negative,-0.9167218804359436
+2015-09-04,"Bohai Leasing, which is owned by the shipping conglomerate HNA Group, will pay the Irish aircraft leasing firm $31 a share in cash.",neutral,0.05214374512434006
+2015-09-04,Chinese Company to Buy Avolon in $7.6 Billion Deal,neutral,0.09059368818998337
+2015-09-08,"Uber lays out more of its plans for China, including $1.2 billion in new funding and a blueprint to enter more than 100 Chinese cities over the next year.",neutral,0.4694955348968506
+2015-09-08,Uber Raises Another $1.2 Billion to Deepen Push Into China,positive,0.884272575378418
+2015-09-09,"The tech world has focused mostly on news related to China so far this week, with the main tech news event — Apple’s unveiling of new products — set to take place on Wednesday.",neutral,-0.008596867322921753
+2015-09-09,Daily Report: China Asserts Tech Presence; Apple Shows Off New Products,positive,0.7952574491500854
+2015-09-23,Business leaders in the United States are increasingly nervous about restrictions and cybertheft in China.,negative,-0.8765898942947388
+2015-09-23,But the ride-hailing service Uber continues its expansion into the world’s most populous nation.,positive,0.7588428854942322
+2015-09-23,Daily Report: Uber Adds Carpooling Service in China,positive,0.8246616125106812
+2015-09-24,"The announcement from Caterpillar, which has been a symbol of American exporting might, helped drive down major stock indexes.",negative,-0.472992479801178
+2015-09-24,"Caterpillar to Cut Up to 10,000 Jobs, Citing Falling Demand",negative,-0.9580543637275696
+2015-09-26,An assessment of American tech giants’ efforts to crack the China market.,neutral,0.033538125455379486
+2015-09-26,"Farhad and Mike’s Week in Tech: No Jokes, Just China",neutral,-0.0332806333899498
+2015-09-27,"With China’s president unwavering on tough Internet policies, Narendra Modi of India is sending a different message: Help India become an Internet powerhouse.",positive,0.4999479353427887
+2015-09-27,India Replaces China as Next Big Frontier for U.S. Tech Companies,neutral,0.22990065813064575
+2015-09-28,"More than 13 million iPhone 6s and 6s Plus phones were sold, topping the 10 million iPhone 6 and 6 Plus devices sold in their first weekend last year.",positive,0.8706584572792053
+2015-09-28,Apple iPhone 6s Breaks First-Weekend Sales Record,positive,0.6710039377212524
+2015-09-29,"A confluence of factors, including China’s slowing growth, falling commodity prices and trouble in the biotech sector, sent the markets lower.",negative,-0.8998584747314453
+2015-09-29,Investors’ Fears on Commodities Add to Pressure on Share Prices,negative,-0.839595377445221
+2015-10-05,Securing approval from Congress for the deal between the United States and 11 Pacific Rim nations could be the toughest fight President Obama faces in his final year in office.,negative,-0.6866161823272705
+2015-10-05,"Trans-Pacific Partnership Is Reached, but Faces Scrutiny in Congress",negative,-0.8893811106681824
+2015-10-14,"The breaches are growing in sophistication, though only a sufficiently deterred few have the capacity to make a truly devastating strike — for now.",neutral,0.1775524914264679
+2015-10-14,Online Attacks on Infrastructure Are Increasing at a Worrying Pace,negative,-0.7491617798805237
+2015-10-20,Yum’s China business and the remainder are already effectively separate.,neutral,-0.007659900933504105
+2015-10-20,The catch is that the American unit will still share Chinese growth risks.,neutral,0.24507200717926025
+2015-10-20,Why the Yum Brands Split Makes Sense,neutral,0.046264924108982086
+2015-10-23,"In China and other emerging markets, growth is waning and demand for the raw materials that drive the global economy has dried up.",negative,-0.9571347832679749
+2015-10-23,A Global Chill in Commodity Demand Hits America’s Heartland,negative,-0.8037883639335632
+2015-10-30,"The company said it would aim to produce 60 of the single-aisle planes a month by the middle of 2019, a record pace for the industry.",positive,0.6646443009376526
+2015-10-30,Airbus to Significantly Speed A320 Production Before Decade’s End,positive,0.9050759673118591
+2015-11-03,The target is an apparent attempt to temper expectations that the nation’s economy will rebound to anything near the double-digit growth of recent decades.,positive,0.7804540395736694
+2015-11-03,"China Aims for 6.5% Economic Growth Over Next 5 Years, Xi Says",positive,0.8255540132522583
+2015-11-05,"Despite its use for illegal activities, Bitcoin is being closely studied by conventional banks and financial firms.",neutral,-0.01989920623600483
+2015-11-05,The online currency has rallied over 100 percent in the last month.,positive,0.911415696144104
+2015-11-05,"Bitcoin Surges, Emerging From a Lull in Interest",positive,0.4410895109176636
+2015-11-07,"The wine critic Eric Asimov samples five wines and finds them drinkable, with promise for the industry’s future there.",neutral,0.20723991096019745
+2015-11-07,A Tasting of Chinese Wines,neutral,0.07680141925811768
+2015-11-23,"Once considered the metal of the future, copper is now a symbol of global mining companies’ past misjudgments.",neutral,-0.09752201288938522
+2015-11-23,Betting on Copper Is a Dangerous Game,negative,-0.5945033431053162
+2015-11-27,"Investors appeared to be cashing out to invest in new initial public offerings, and they were reacting to news that two brokerage firms were being investigated.",neutral,-0.31070196628570557
+2015-11-27,"Chinese Stocks Plunge 5.5%, Their Biggest Single-Day Drop in 3 Months",negative,-0.9323258399963379
+2015-12-02,"The speedy adoption of new technology is increasingly seen as the key to corporate success, according to the annual innovation scorecard from the Boston Consulting Group.",positive,0.8004846572875977
+2015-12-02,Boston Consulting’s Most Innovative Companies: Lessons From a Decade of Ranking,positive,0.4596516489982605
+2015-12-04,"The World Bank, I.M.F.",neutral,0.023427892476320267
+2015-12-04,and Asian Development Bank compared.,positive,0.519389271736145
+2015-12-04,Shaking Up the Banking Establishment,neutral,-0.3190464973449707
+2015-12-09,"U.S. Secretary of State John Kerry expressed hope for continued progress on China’s part toward climate change solutions, during The International New York Times Energy for Tomorrow conference.",positive,0.8889464139938354
+2015-12-09,Kerry Praises China’s Climate Progress,neutral,0.17039410769939423
+2015-12-10,"Mr. Barra, a Brazilian-born, M.I.T.-trained former senior executive of Google, discusses markets outside China, including smartphone adoption in Africa.",neutral,0.053618647158145905
+2015-12-10,Hugo Barra of Xiaomi on the Company’s International Plans,neutral,0.011939417570829391
+2015-12-11,"Although some critics say it has turned increasingly pro-Beijing in recent years, The South China Morning Post has taken aim at controversial topics in China in recent years.",negative,-0.6622328758239746
+2015-12-11,When The South China Morning Post Waded Into Controversy,neutral,-0.08693518489599228
+2015-12-23,"The frenzy in the southern city highlights the difficulties that Beijing faces as it tries to manage real estate and construction, crucial engines of the economy.",neutral,-0.022624678909778595
+2015-12-23,Shenzhen Landslide Casts Shadow Over China’s Success Story,negative,-0.7187649607658386
+2015-12-27,"Experts expect the number of new unemployment claims to be at a healthy level in terms of the long-term trend, and payments are due for financially challenged Puerto Rico.",positive,0.6303542852401733
+2015-12-27,"New Unemployment Data, Deadline for Puerto Rico and Markets Wrap 2015",neutral,-0.0041071027517318726
+2016-01-07,The falling renminbi may be a sign that China sees currency devaluation as a solution to its economic woes.,negative,-0.6155199408531189
+2016-01-07,Or maybe planners are losing their grip.,negative,-0.7764902710914612
+2016-01-07,Trying to Understand China’s Market Upheaval,neutral,-0.0018820315599441528
+2016-01-08,A $30 billion fund underscores China’s ambitions to expand its tech capabilities and signals how those ambitions are being threatened by recent market turmoil.,positive,0.8355335593223572
+2016-01-08,China Setting Up Fund for Its Electronics Industry,neutral,0.178611159324646
+2016-01-12,"For Beijing Kunlun, Grindr offers a chance to expand beyond its gaming assets, as well as markets outside China.",positive,0.8769329190254211
+2016-01-12,Grindr Sells Stake to Chinese Company,neutral,0.03285277634859085
+2016-01-15,"As an oil glut grows despite production cuts, investors worry about a slowdown in the global economy.",negative,-0.9498154520988464
+2016-01-15,Stock Prices Sink in a Rising Ocean of Oil,negative,-0.5649892687797546
+2016-01-18,China is expected to report its slowest economic growth in a quarter of a century.,negative,-0.8919665813446045
+2016-01-18,"In addition, Royal Dutch Shell and BG Group will publish preliminary fourth quarter earnings.",neutral,0.0670350193977356
+2016-01-18,China’s Growth Report and Oil Company Earnings,neutral,0.05666893348097801
+2016-01-19,"The economic slump has created a tricky situation for Beijing, as it tries to shepherd the economy through a transition.",negative,-0.6004366874694824
+2016-01-19,China’s Fading Factories Weigh on an Already Slowing Economy,negative,-0.784993052482605
+2016-01-22,The Dutch electronics giant said in October that United States regulators had raised “unforeseen concerns” about a deal to dispose of 80.1 percent of the unit.,negative,-0.23994490504264832
+2016-01-22,Philips Calls Off Sale of Controlling Stake in LED Business,negative,-0.5939577221870422
+2016-01-25,"Traders and portfolio managers worry that sophisticated institutional investors, who generally tend to take a longer-term view, have been the ones driving the selling over the last six months.",negative,-0.8677409887313843
+2016-01-25,A Struggle to Quell Investor Fears Over Unsettled Emerging Markets,negative,-0.579404890537262
+2016-01-26,"As the country’s stock markets fall, an investigation into the head of the statistics agency could cloud efforts to gauge the weakening growth.",negative,-0.9487331509590149
+2016-01-26,Inquiry in China Adds to Doubt Over Reliability of Its Economic Data,negative,-0.8846685290336609
+2016-01-28,The announcement that the company’s profit doubled in the most recent quarter is a potentially positive sign for consumer strength in China.,positive,0.9330558776855469
+2016-01-28,Alibaba’s Strong Earnings Are Seen as Good News for China’s Economy,positive,0.9046500325202942
+2016-02-01,"The accusations cast a shadow over the country’s web-based finance industry, a lucrative sector that the authorities say is the subject of a growing number of fraud cases.",negative,-0.809363603591919
+2016-02-01,"Online Lender Ezubao Took $7.6 Billion in Ponzi Scheme, China Says",negative,-0.8208271861076355
+2016-02-05,The steel maker said its results were hurt by lower prices — depressed by cheap Chinese exports — and by write-offs in the company’s large mining business.,negative,-0.9641408324241638
+2016-02-05,ArcelorMittal Reports Nearly $8 Billion Loss and Plans to Raise $3 Billion,negative,-0.723343551158905
+2016-02-12,"The offer by Robin Yanhong Li, Baidu’s chairman, and Yu Gong, Qiyi’s chief executive, would value Qiyi.com at about $2.8 billion",neutral,0.32176122069358826
+2016-02-12,Baidu Receives Offer for Stake in Online Video Platform Qiyi,positive,0.6307721138000488
+2016-02-17,The Madrid branch of the Industrial and Commercial Bank of China is accused of helping Chinese and Spanish criminal syndicates commit financial fraud.,negative,-0.794897735118866
+2016-02-17,Spanish Unit of China’s ICBC Raided in Money Laundering Case,negative,-0.7968072891235352
+2016-02-22,The London-based bank also forecast that slowing economic growth in China would lead to a “bumpier financial environment.”,negative,-0.9384281039237976
+2016-02-22,HSBC Posts 4th-Quarter Loss and Comes Under S.E.C.,negative,-0.9461555480957031
+2016-02-22,Scrutiny,neutral,0.027880601584911346
+2016-02-25,"Government and central bank officials are gathering in Shanghai with few easy answers to sluggishness in Europe, China and Japan.",negative,-0.5756077766418457
+2016-02-25,Global Finance Leaders Meet as Economic Skies Darken,neutral,-0.045416101813316345
+2016-03-09,Beijing hopes to turns the country’s hundreds of millions of itinerant laborers into homeowners as the slumping property market drags on the economy.,negative,-0.5699954032897949
+2016-03-09,"Awash in Empty Homes, China Asks Migrant Workers to Settle Down",negative,-0.8199920654296875
+2016-03-15,"Recent studies suggest that the disruptions from freer trade, an issue in the current presidential campaign, are more persistent than once thought.",negative,-0.8825852274894714
+2016-03-15,"On Trade, Angry Voters Have a Point",neutral,-0.20192116498947144
+2016-03-28,"Reports for hiring, personal spending and income are expected, along with Janet Yellen’s first speech of 2016 and bleak bank reports out of China.",neutral,0.036391325294971466
+2016-03-28,Small Gains in the U.S. and Concerns in China,negative,-0.8747828006744385
+2016-04-18,Kathy Chen served a stint in the Chinese military and was involved in a venture that was partly owned by the country’s domestic security ministry.,neutral,0.0019689835608005524
+2016-04-18,Twitter’s Chief in China Raises Eyebrows Over Military Past and Résumé,negative,-0.4024201035499573
+2016-04-24,The United Steelworkers withdrew its petition to a trade panel after an industry group agreed to work with the union to address concerns over Chinese production.,negative,-0.9366083145141602
+2016-04-24,Union Drops Effort to Restrict U.S. Imports of Raw Aluminum,negative,-0.8277869820594788
+2016-04-25,"The country, the world’s biggest emitter of greenhouse gases, halted plans for new coal-fired plants and postponed building of some already approved.",negative,-0.9135617613792419
+2016-04-25,China Curbs Plans for More Coal-Fired Power Plants,negative,-0.6760905385017395
+2016-04-26,"Ant Financial, one of the world’s largest electronic-payments companies, received investments from a number of companies backed by the Chinese government.",neutral,0.11109044402837753
+2016-04-26,Alibaba Financial Affiliate Raises $4.5 Billion,positive,0.6632602214813232
+2016-05-16,Analysts will keep an eye on Walmart’s latest earnings after the company invested heavily in online business to compete with Amazon.,positive,0.7317242622375488
+2016-05-16,Walmart’s E-Commerce Results and Japan’s Silver Lining,positive,0.08128362894058228
+2016-06-01,"A lease dispute in one city highlights the government’s grip on all land, calling into question the wealth of millions of Chinese households.",negative,-0.9033128619194031
+2016-06-01,"In China, Homeowners Find Themselves in a Land of Doubt",negative,-0.5448179244995117
+2016-06-03,The Chinese tech company is being asked to explain sales to countries considered to be outlaw states.,neutral,0.038651857525110245
+2016-06-03,Huawei Draws Attention of U.S. Regulators,neutral,0.26615917682647705
+2016-06-14,"Plans for the $5.5 billion Shanghai Disney Resort, which opens Thursday, were in limbo until Disney dialed back its demands to the Communist Party.",negative,-0.8545845746994019
+2016-06-14,How China Won the Keys to Disney’s Magic Kingdom,positive,0.4354298710823059
+2016-06-15,The mass shooting in Orlando and an alligator attack at a Disney World hotel overshadowed the opening of Shanghai Disneyland.,negative,-0.7410869002342224
+2016-06-15,"For Disney, Grim News in U.S. Tempers Reverie in Shanghai",negative,-0.7941734194755554
+2016-06-21,Should America worry?,neutral,-0.23599973320960999
+2016-06-21,"It’s not great news, but it’s only part of the overall picture in the race to things like artificial intelligence.",neutral,0.047714777290821075
+2016-06-21,Daily Report: China Has the World’s Most Powerful Computer (Again),positive,0.6545961499214172
+2016-06-29,A handful of Chinese companies that own vast farms of computer servers dispersed around the country have majority control of the Bitcoin network.,neutral,0.005382198840379715
+2016-06-29,Mining for Bitcoin in China,neutral,-0.09296751022338867
+2016-06-30,A handful of Chinese companies that own vast farms of computer servers dispersed around the country have majority control of the Bitcoin network.,neutral,0.005382198840379715
+2016-06-30,Mining for Bitcoin in China,neutral,-0.09296751022338867
+2016-07-20,The co-designer Daan Roosegaarde considers the Smog Free Tower a first step in environmental awareness and significant in urban entrepreneurship.,positive,0.5305838584899902
+2016-07-20,A 23-Foot-Tall Air Purifier Gets a Tryout in Smoggy Beijing,neutral,0.3393535017967224
+2016-07-29,"Chinese approval lifted the last major regulatory hurdle, and SABMiller’s board backed a sweetened offer valuing the brewer at about $104 billion.",positive,0.879065752029419
+2016-07-29,Anheuser-Busch InBev Merger With SABMiller Advances,neutral,-0.0243252981454134
+2016-07-31,The deal with Caesars Interactive Entertainment is a sign that investors are willing to pay increasingly large sums for smartphone games.,positive,0.8608961701393127
+2016-07-31,Chinese Group to Pay $4.4 Billion for Caesars’ Mobile Games,neutral,0.16053859889507294
+2016-08-09,What was once known as the land of cheap rip-offs may now offer a glimpse of the future — and American companies are taking notice.,neutral,0.2501039505004883
+2016-08-09,How China Is Changing Your Internet,neutral,0.08247984945774078
+2016-08-10,American internet companies have had a hard time getting into China.,negative,-0.8925755620002747
+2016-08-10,But Chinese internet companies have struggled to grow beyond its borders.,negative,-0.8701107501983643
+2016-08-10,Struggling to Break Out of Chinese Internet,neutral,-0.23998749256134033
+2016-08-11,The conglomerates Tencent and PCCW join existing investors in the Hollywood company known for midbudget films.,neutral,0.06738518178462982
+2016-08-11,"STX, Hollywood Start-Up Behind ‘Bad Moms,’ Gains Chinese Investors",neutral,-0.10051392763853073
+2016-09-01,"The Chinese insurer has made a global splash with its deals, but its ownership lacks the marquee investors that a major company typically boasts.",neutral,-0.37722650170326233
+2016-09-01,Behind China’s Anbang: Empty Offices and Obscure Names,neutral,-0.39490410685539246
+2016-09-02,"Owners of Anbang, a Chinese insurer behind a wave of multibillion-dollar deals, include relatives and friends of its politically connected chairman.",neutral,-0.050890326499938965
+2016-09-02,"Morning Agenda: A Chinese Mystery, Mylan’s Capitalist Nirvana, J.P.Morgan Faces Suit",neutral,-0.0971919596195221
+2016-09-14,"The company says it has not confirmed whether the automated driver assist feature was engaged during the crash, which occurred in January.",neutral,-0.34274327754974365
+2016-09-14,Autopilot Cited in Death of Chinese Tesla Driver,negative,-0.6646740436553955
+2016-09-30,Sixteen members of Congress are raising questions over the foreign acquisition of American movie theaters and studios.,neutral,-0.07237320393323898
+2016-09-30,Chinese Purchases of U.S. Companies Have Some in Congress Raising Eyebrows,neutral,-0.2952207326889038
+2016-10-17,"As experts warn about the soaring cost of housing, the growing use of mortgages could make the country’s latest property boom particularly unstable.",negative,-0.9270390272140503
+2016-10-17,"In China, Property Frenzy, Fake Divorces and a Bloating Bubble",negative,-0.7274210453033447
+2016-10-18,"The country’s energy sector has gone through a major reshaping, perhaps nowhere more so than in the city of Daqing, home to China’s biggest oil field.",positive,0.6519584655761719
+2016-10-18,"As China Shifts From Exporter to Importer, Fortunes Change",neutral,0.27712833881378174
+2016-10-19,Yahoo’s quarterly results revealed that traffic actually increased since it disclosed its hack in September.,positive,0.9142751693725586
+2016-10-19,But there are still concerns over Verizon’s agreement to buy the company.,negative,-0.8822507262229919
+2016-10-19,"Morning Agenda: Yahoo Traffic Increased, Veterans Get Disruptive, China Slows",negative,-0.7351909875869751
+2016-10-27,The delivery company connects retailers with shoppers in a vast market.,neutral,0.0888083279132843
+2016-10-27,It raised $1.4 billion in the biggest Chinese I.P.O.,positive,0.5694507956504822
+2016-10-27,in America since Alibaba’s.,neutral,0.01507268100976944
+2016-10-27,ZTO Express of China Has Largest U.S. I.P.O.,neutral,0.07710859924554825
+2016-10-27,This Year,neutral,0.10642495006322861
+2016-10-28,"The Swiss bank could face fines or suspensions from working on deals in the semiautonomous Chinese city, one of the world’s biggest markets for new offerings.",negative,-0.937968373298645
+2016-10-28,UBS Is Under Investigation in Hong Kong Over Its I.P.O.,negative,-0.9201365113258362
+2016-10-28,Work,neutral,0.033327244222164154
+2016-11-01,A whistle-blower working for GlaxoSmithKline began sending anonymous tips about fraud and corruption at its operation in China.,negative,-0.9022670984268188
+2016-11-01,Here’s what happened next.,neutral,-0.003598203882575035
+2016-11-01,Glaxo’s Fallout in China,negative,-0.6616731882095337
+2016-11-06,"Hundreds of rogue apps, most of which came from developers in China, have managed to slip through Apple’s review process.",negative,-0.8583008050918579
+2016-11-06,"Beware, iPhone Users: Fake Retail Apps Are Surging Before Holidays",negative,-0.8186196684837341
+2016-11-17,"Federal prosecutors, the S.E.C.",neutral,-0.213419109582901
+2016-11-17,and the Federal Reserve accused JPMorgan Chase of a vast foreign bribery scheme in China that may have spread to a number of Wall Street banks.,negative,-0.8146336078643799
+2016-11-17,Settlement on JPMorgan Bribery Charges,neutral,-0.4193526804447174
+2016-11-19,"John Paulson, a hedge fund billionaire, has invested in Didi Chuxing.",neutral,0.02932332269847393
+2016-11-19,Trump Adviser Takes Stake in China Ride-Sharing Company,neutral,0.053675226867198944
+2016-11-22,"While China would suffer under a 45 percent tariff, it might be able to take the blow and it would certainly counterpunch.",positive,0.5981057286262512
+2016-11-22,A Trade War Against China Might Be a Fight Trump Couldn’t Win,negative,-0.5805100202560425
+2016-11-23,"China is a tempting market for Facebook, which has been banned there since 2009.",negative,-0.582525372505188
+2016-11-23,"But to get in, the social network may have to compromise on its mission.",negative,-0.658753514289856
+2016-11-23,Daily Report: Facebook Courts China With Censoring Software,negative,-0.8712784647941589
+2016-11-29,"China is reopening mines amid worries about power supplies, demonstrating how difficult it will be to wean its giant economy from coal dependence.",negative,-0.2201746106147766
+2016-11-29,"Despite Climate Change Vow, China Pushes to Dig More Coal",positive,0.6666953563690186
+2016-12-02,The White House’s intervention could set the stage for President-elect Donald Trump to take a tougher stance on foreign deals.,negative,-0.52408766746521
+2016-12-02,Obama Moves to Block Chinese Acquisition of a German Chip Maker,negative,-0.8414846658706665
+2016-12-06,"Xu Xiang was detained in a police operation last year that involved sealing off the 22-mile Hangzhou Bay Bridge, one of the world’s longest.",negative,-0.8401510715484619
+2016-12-06,Top Chinese Financier Pleads Guilty to Insider Trading,negative,-0.7437728643417358
+2016-12-14,A newly approved measure could allow the country to become a rival to Asian gambling centers like Macau — even as other countries also ramp up competition.,positive,0.8865505456924438
+2016-12-14,"Japan, Looking for Money, Removes Ban on Casino Gambling",negative,-0.5906922221183777
+2016-12-16,Few companies have been able to keep Amazon at bay after it decides to target a new market.,negative,-0.882434070110321
+2016-12-16,"Zalando, Europe’s biggest online fashion retailer, is the latest to try.",neutral,0.08475204557180405
+2016-12-16,"In Shadow of Amazon, European Challenger Looks to China for Inspiration",neutral,0.03842660039663315
+2016-12-20,"More than a year after the country’s stock market crashed, the $9 trillion bond market, a crucial part of efforts to overhaul the economy, is suffering.",negative,-0.954050600528717
+2016-12-20,"To Problems With China’s Financial System, Add the Bond Market",neutral,-0.37777915596961975
+2016-12-26,"In a country where the government owns all land, a group of residents in one city will not have to pay a fee to extend the rights to the land under their homes.",neutral,0.035464294254779816
+2016-12-26,China Reassures Homeowners Worried About Land Rights,neutral,0.061956264078617096
+2016-12-28,"If President-elect Donald J. Trump makes good on the promise of punishing overseas companies, he will take aim at his own brand, and his daughter’s as well.",neutral,0.02720845490694046
+2016-12-28,"For the Trumps, ‘Made in U.S.A.’ May Be a Tricky Label to Stitch",neutral,-0.33441588282585144

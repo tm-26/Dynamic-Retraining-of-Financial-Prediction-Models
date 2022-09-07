@@ -1,0 +1,310 @@
+Date,Sentence,Prediction,sentimentScore
+2014-01-14,"If Charter Communications hopes to get a deal done to buy Time Warner Cable, it will probably have to pay a higher price based on a crucial measure.",neutral,0.15173175930976868
+2014-01-14,How Much Time Warner May Be Worth to a Suitor,neutral,0.027961215004324913
+2014-01-29,"Comcast, the nation’s largest cable provider and the owner of NBCUniversal, increased its net income 26 percent, to $1.9 billion, compared with a year ago.",positive,0.9271298050880432
+2014-01-29,"Comcast Profits Up Sharply, Along With TV Subscribers",positive,0.577344536781311
+2014-02-10,"Thomas M. Rutledge’s company may propose a full slate of replacement directors for its target and may have enlisted a powerful ally for a bid — both adept moves, says Jeffrey Goldfarb of Reuters Breakingviews.",neutral,0.06655208021402359
+2014-02-10,Charter C.E.O.,neutral,0.049029313027858734
+2014-02-10,Is Pressing All the Right Buttons on Time Warner Cable,neutral,0.03472747281193733
+2014-02-13,"The deal for Time Warner Cable appears set to generate a return on investment below Comcast’s cost of capital, which is not surprising given the medieval governance the Roberts family uses to oversee its fiefdom, write Rob Cox and Jeffrey Goldfarb of Reuters Breakingviews.",positive,0.7194805145263672
+2014-02-13,Caught Beneath the Wheels of the Comcast Juggernaut,negative,-0.33507388830184937
+2014-02-14,"Morgan Stanley, which advised Time Warner Cable, jumped ahead of competitors.",positive,0.7633803486824036
+2014-02-14,"Comcast’s advisers included James B. Lee Jr., JPMorgan Chase’s top deal maker.",neutral,0.027897510677576065
+2014-02-14,Comcast Deal Shakes Up Adviser Rankings,negative,-0.6126575469970703
+2014-02-15,Comcast’s deal to acquire Time Warner Cable won’t shake the industry’s game plan: Keep viewers wedded to cable.,neutral,0.23719993233680725
+2014-02-15,Comcast vs. the Cord Cutters,neutral,-0.016005925834178925
+2014-02-17,"With the Time Warner Cable deal, Comcast would not only lock up 30 percent of the cable market, but pricing leverage in all directions — with customers, networks and over-the-web providers like Netflix.",neutral,0.1626577377319336
+2014-02-17,"Stealthily, Comcast Fortifies Its Arsenal",neutral,0.11624250560998917
+2014-02-19,The stock of the jewelry retailer Signet rose after it agreed to buy its smaller rival Zale on Wednesday.,positive,0.8921716809272766
+2014-02-19,"That’s what happens when the cost savings effectively cover the purchase price, writes Jeffrey Goldfarb of Reuters Breakingviews.",neutral,0.08268313854932785
+2014-02-19,Signet and Zale Deal Casts 2 Other Deals in a Poor Light,negative,-0.5437836647033691
+2014-02-21,"The company is beginning a carefully orchestrated campaign, seeking support from members of Congress, state officials and leaders of nonprofit and minority-led groups.",neutral,0.2481382191181183
+2014-02-21,Comcast’s Web of Lobbying and Philanthropy,neutral,0.025755077600479126
+2014-02-23,Comcast and Netflix announced an agreement Sunday in which Netflix will pay Comcast for faster and more reliable access to Comcast’s subscribers.,positive,0.8243695497512817
+2014-02-23,Comcast and Netflix Reach Deal on Service,neutral,0.054663531482219696
+2014-02-24,Federal Reserve transcripts released on Friday provide the fullest picture yet of the thinking of top government officials on Lehman’s implosion in 2008.,neutral,-0.008786704391241074
+2014-02-24,"| Facebook’s deal for WhatsApp, which could be worth up to $19 billion, is all about the address book.",neutral,0.019553231075406075
+2014-02-24,| Greater pension fund disclosure may have helped Detroit avoid bankruptcy.,positive,0.8588892221450806
+2014-02-24,| Comcast and Netflix strike a deal on service.,positive,0.3805847465991974
+2014-02-24,A Clearer Picture on Lehman’s Collapse,neutral,0.14632579684257507
+2014-02-25,But a dispute over the placement of the company’s cable channel lineup on Comcast may not be over quite yet.,negative,-0.7652307152748108
+2014-02-25,Supreme Court Declines Tennis Channel Appeal,negative,-0.4889014959335327
+2014-03-04,"Comcast, which is preparing to ask federal regulators to approve its proposed takeover of Time Warner Cable, said Tuesday it would continue a program that gives low-cost broadband service and computers to poor families and give $1 million in neighborhood grants to support digital literacy.",positive,0.6436455249786377
+2014-03-04,Comcast Indefinitely Extends Low-Cost Broadband for Poor Families,positive,0.417927622795105
+2014-03-06,"The Justice Department official, William Baer, represented NBCUniversal during its takeover by Comcast and is therefore forbidden from considering the merger.",neutral,-0.34442248940467834
+2014-03-06,Top Official Can’t Rule on Cable Merger,negative,-0.4531588554382324
+2014-03-07,"For the big television industry event called upfront week, NBCUniversal will borrow a page from the playbook of its parent, Comcast, and bundle together its cable channels.",neutral,0.28981921076774597
+2014-03-07,NBCUniversal to Combine ‘Upfront’ Presentations for Its Cable Channels,neutral,0.06940454989671707
+2014-03-13,Charter has yet to withdraw the full slate of directors that it nominated to Time Warner Cable’s board just one day before Comcast swooped in.,negative,-0.727745771408081
+2014-03-13,Charter Still Hanging Around Time Warner Cable,neutral,0.050669196993112564
+2014-03-20,Robert D. Marcus will receive a severance payment that amounts to more than $1 million a day for the six weeks he ran Time Warner Cable before agreeing to sell.,neutral,0.0016947463154792786
+2014-03-20,$80 Million for 6 Weeks for Cable Chief,neutral,-0.11208789050579071
+2014-03-21,"Reed Hastings said that once Netflix agreed to pay Comcast for a better connection, Netflix customers no longer experienced delays streaming video.",positive,0.514816403388977
+2014-03-21,Netflix Chief Alters View on Net Neutrality,negative,-0.5998125076293945
+2014-03-26,"A poll of mergers bankers and lawyers finds that deal makers remain hopeful that acquisitions will continue, but they remain wary that dissident shareholders will still do their best to stir things up.",positive,0.43792223930358887
+2014-03-26,On Eve of M.&A.,neutral,0.051415469497442245
+2014-03-26,"Conference, Deal Makers Feel Hopeful, but Still Wary of Activists",negative,-0.3290990889072418
+2014-03-28,"If its acquisition of Time Warner Cable is approved, Comcast will become much more than a regional cable company, says its chief executive, Brian Roberts.",positive,0.6488257050514221
+2014-03-28,A Vision Beyond Cable for Comcast After Merger,neutral,0.4276760220527649
+2014-04-04,"To make its set-top box viable, Amazon will have to spend a lot of money.",neutral,0.2869108319282532
+2014-04-04,That’s something it’s never been afraid of doing.,neutral,0.005658432841300964
+2014-04-04,Amazon Channels a Cheaper Television Experience,neutral,0.03214797377586365
+2014-04-07,"Since Comcast announced its deal for Time Warner Cable, its shares have fallen about 10 percent, meaning Time Warner Cable investors are receiving about $140 a share instead of nearly $159.",negative,-0.966400146484375
+2014-04-07,"Comcast Shares Are Down, but Time Warner Cable Deal Is Still Safe",negative,-0.8898705840110779
+2014-04-08,"In papers relating to its proposed merger with Time Warner Cable, the company gives a nod to a future Apple set-top box, even though Apple hasn’t introduced one yet.",neutral,0.30182531476020813
+2014-04-08,Comcast Gives a Nod to a Future Apple Set-Top Box,neutral,0.37819457054138184
+2014-04-09,"An executive vice president of Comcast, David L. Cohen, and the chief executive of Public Knowledge, Gene Kimmelman, argued their cases before Congress on the proposed merger with Time Warner.",neutral,-0.2434467375278473
+2014-04-09,Executives Discuss Comcast Merger,neutral,-0.03358662500977516
+2014-04-12,"After a failed attempt to block the Comcast-NBC Universal merger, Senator Al Franken again finds himself playing a trustbusting role in Washington.",negative,-0.6166852116584778
+2014-04-12,Franken’s Campaign Against Comcast Is No Joke,neutral,-0.30060920119285583
+2014-04-18,"Paul J. Taubman has single-handedly accounted for $175 billion in deals over the last year, which has had Wall Street bankers buzzing with a mix of admiration and envy.",neutral,0.26269373297691345
+2014-04-18,"Goldman, Citi, UBS ... and a Guy in an Office",neutral,-0.12287157773971558
+2014-04-19,"David Cohen, Comcast’s executive vice president, is the point man for moving deals like the one for Time Warner Cable past regulatory hurdles.",neutral,0.10517066717147827
+2014-04-19,Comcast’s Real Repairman,neutral,0.055021584033966064
+2014-04-22,Discussions with Charter Communications could lead to a sale and a swap involving millions of cable subscribers.,neutral,0.22387422621250153
+2014-04-22,Comcast Seeks to Divest Subscribers to Win Approval for Time Warner Cable Deal,neutral,0.15384995937347412
+2014-04-23,Planned new rules would allow an Internet provider to negotiate separately with content companies like Disney or Google and charge for priority service.,neutral,0.056317251175642014
+2014-04-23,"F.C.C., in a Shift, Backs Fast Lanes for Web Traffic",neutral,0.2649756073951721
+2014-04-24,Planned new rules would allow an Internet provider to negotiate separately with content companies and charge them for priority service.,neutral,0.06468968093395233
+2014-04-24,Daily Report: F.C.C.,neutral,0.014069566503167152
+2014-04-24,to Propose a Web Fast Lane,neutral,0.06335309147834778
+2014-04-28,The three-part arrangement with Comcast would allow Charter Communications to become the country’s second-largest cable operator.,positive,0.7948521375656128
+2014-04-28,Charter and Comcast to End Fight Over Time Warner Cable,negative,-0.4285467565059662
+2014-05-02,"Most companies have not publicly spoken out against the proposed Comcast merger, partly to avoid antagonizing a company with which they do business.",negative,-0.7641876339912415
+2014-05-02,"As Netflix Resists, Most Firms Just Try to Befriend Comcast",neutral,-0.2695450782775879
+2014-05-08,"At a hearing of the antitrust subcommittee, some representatives questioned Comcast’s decision after its takeover of NBCUniversal to drop RFD-TV from cable service in two states.",negative,-0.9193816781044006
+2014-05-08,House Republicans Say Comcast Merger Risks Undue Sway on Channels,negative,-0.7827103137969971
+2014-05-13,"Investors are egging on companies to take on ever riskier transactions and are bidding up the shares of acquirers well beyond mathematical prudence, Rob Cox of Reuters Breakingviews writes.",neutral,0.24510324001312256
+2014-05-13,The Brewing M.&A.,neutral,0.03526260331273079
+2014-05-13,Bubble,neutral,0.04468230903148651
+2014-05-20,"Tom Wheeler, chairman of the Federal Communications Commission, said the agency needs to look at the type of paid-priority deal that Netflix struck with Comcast.",neutral,0.032652974128723145
+2014-05-20,Wheeler Says F.C.C.,neutral,0.05602170526981354
+2014-05-20,Will Examine Peering Arrangements,neutral,0.04408199340105057
+2014-05-29,"Trying to recalculate monthly bills by paying separate companies for high-speed Internet, cable television and landline telephone service.",neutral,-0.002175465226173401
+2014-05-29,Finally Breaking Up the Cable Bundles,neutral,0.09396539628505707
+2014-06-04,Netflix said its message was one of many ways it is testing to notify customers about how their viewing experience is affected by their Internet service provider’s network.,neutral,0.006475023925304413
+2014-06-04,Netflix Points at Verizon for Delays in Streaming,negative,-0.9141964316368103
+2014-06-13,The commission has begun an investigation of Internet service providers at the same time that it is trying to define whether it has jurisdiction over their businesses.,neutral,-0.06596361100673676
+2014-06-13,F.C.C.,neutral,0.030943963676691055
+2014-06-13,Begins Investigation Into Quality of Internet Download Speeds,neutral,0.023181866854429245
+2014-06-17,"Senator Patrick J. Leahy and Representative Doris Matsui, both Democrats, filed bills that would ban deals similar to the recent agreement that allows Netflix to connect directly to Comcast’s system to avoid network congestion.",negative,-0.7993760108947754
+2014-06-17,Lawmakers Introduce Bill to Ban Paid Prioritization,neutral,-0.08066339790821075
+2014-07-10,"A merger of Comcast and Time Warner Cable and a joining of AT&T and DirecTV would both pose competitive threats, Dish said.",neutral,-0.35130444169044495
+2014-07-10,Dish Asks F.C.C.,neutral,0.025127651169896126
+2014-07-10,to Block Comcast-Time Warner Cable Merger,negative,-0.7541490793228149
+2014-07-17,The story behind that Comcast customer-service call.,neutral,0.02279498614370823
+2014-07-17,Why it’s getting even harder to run a restaurant.,negative,-0.5607534050941467
+2014-07-17,Do we need a corporate income tax?,neutral,-0.046166643500328064
+2014-07-17,Today in Small Business: an App for Google AdWords Express,neutral,0.028388479724526405
+2014-07-21,"Faced with a worrisome loss in negotiating power, lesser players like AMC and Discovery Communications are seeking ways to secure their own relevance.",neutral,0.02365037053823471
+2014-07-21,Smaller Cable Networks Plan Their Survival Under the Feet of Giants,neutral,-0.038091011345386505
+2014-07-22,"The largest cable operator in the United States said second-quarter profit increased almost 15 percent despite a loss of 144,000 video customers.",positive,0.9369737505912781
+2014-07-22,"Comcast Posts a Strong $2 Billion Profit, and Says It’s Done Buying for Now",neutral,0.15030381083488464
+2014-07-23,A Miami diner that was a pioneer in race relations closes after six decades.,negative,-0.3964579403400421
+2014-07-23,"After many strike-outs, an entrepreneur hits a $44 million home run.",negative,-0.38487887382507324
+2014-07-23,And how Comcast trains its customer service representatives.,neutral,0.012523451820015907
+2014-07-23,Today in Small Business: Amazon’s ‘Unbreachable Moat’,negative,-0.3579166829586029
+2014-07-25,Antitrust experts said that a merger of 21st Century Fox and Time Warner Inc. posed far more serious regulatory issues than Comcast’s acquisition of NBCUniversal.,negative,-0.7567734122276306
+2014-07-25,When Media Mergers Limit More Than Competition,neutral,-0.0998542308807373
+2014-07-29,"BaubleBar, a purveyor of fast-fashion jewelry, plans to announce on Tuesday that it has raised $10 million in a new round of financing led by J. Christopher Burch’s investment firm.",positive,0.7148833274841309
+2014-07-29,"BaubleBar, an Upstart Jewelry Seller, Raises $10 Million",neutral,0.4340585470199585
+2014-08-08,"Cheap credit, lower tax bills and a desire for revenue, more than economic optimism, may be behind this year’s surge in corporate acquisitions.",positive,0.7668760418891907
+2014-08-08,"Stampede of Mergers Could Mean Growth, or Irrationality, Ahead",neutral,-0.2689221203327179
+2014-08-23,"Patrick Gottsch, the chairman of the Rural Media Group, has become one of the most vocal critics of Comcast’s proposed $45 billion purchase of Time Warner Cable.",negative,-0.7784950137138367
+2014-08-23,TV Chief Takes 2-by-4 to a Proposed Cable Merger,neutral,-0.081609807908535
+2014-08-24,"Monday is a deadline for comments in Comcast’s bid for Time Warner Cable, and Volvo on Tuesday will release its first auto under its new Chinese ownership.",neutral,0.10441762208938599
+2014-08-24,"Reviewing Comcast-Time Warner Cable Deal, and Second-Quarter Growth Data",neutral,-0.003977175801992416
+2014-09-08,"The acquisition is the latest move by Jeffrey R. Immelt, the chief of G.E., to refocus the conglomerate on its core industrial businesses.",positive,0.692501425743103
+2014-09-08,"In 2nd Try, Electrolux Reaches Deal to Buy G.E.",positive,0.5710814595222473
+2014-09-08,"Appliances Unit, for $3.3 Billion",neutral,0.014056632295250893
+2014-09-10,"The sites used a pinwheel icon, which means something is loading slowly, to show users what it would be like if Internet traffic was slowed.",neutral,-0.1258101910352707
+2014-09-10,Netflix and Other Big Websites Protest Proposed Net Neutrality Rules,negative,-0.8839946389198303
+2014-09-24,"In a filing with regulators, the company said opponents of the deal with Time Warner Cable first sought “various self-interested requests,” which were denied.",negative,-0.6178480982780457
+2014-09-24,Comcast Lashes Out at Rivals Opposed to Merger Plan,negative,-0.851529061794281
+2014-09-28,"Regardless of the company’s motive, the issues it raised are hugely important and won’t be brushed aside by bombast or counterattack.",neutral,0.0452243834733963
+2014-09-28,Growling by Comcast May Bring Tighter Leash,neutral,-0.282280296087265
+2014-10-08,The “most bountiful” holiday season in three years?,negative,-0.47558096051216125
+2014-10-08,The most innovative cities in America.,positive,0.7840279340744019
+2014-10-08,Did Comcast retaliate against an unhappy customer by getting him fired?,negative,-0.9450241327285767
+2014-10-08,Today in Small Business: The Bacon Boom,neutral,-0.014191150665283203
+2014-10-20,"Senator Patrick Leahy, the Vermont Democrat who chairs the Judiciary Committee, called on Comcast to commit to never allow so-called fast lanes, or paid prioritization, on its network, even beyond the expiration of a current promise to avoid the practice through 2018.",neutral,-0.10234270989894867
+2014-10-20,Senator Calls on Comcast to Extend Net Neutrality Pledge,positive,0.6236090064048767
+2014-10-23,"Stephen Burke, the NBCUniversal C.E.O., said he was surprised by announcements last week that HBO and CBS would start subscription streaming services.",positive,0.6506201028823853
+2014-10-23,A Comcast Executive Raises Doubts About Streaming Services,negative,-0.8432860374450684
+2014-11-12,"At a media event in San Francisco on Wednesday, Comcast showed a new version of X1, its new TV operating system, and answered questions about President Obama’s recent call for strict net neutrality rules.",neutral,0.20358431339263916
+2014-11-12,Comcast Reiterates Net Neutrality Position at Showcase for New Product,neutral,0.16246604919433594
+2014-11-13,"Comcast is locked into its deal with Time Warner Cable unless it gets a timely assist from the Federal Communications Commission, Steven Davidoff Solomon writes in the Deal Professor column.",neutral,-0.03961658850312233
+2014-11-13,Net Neutrality Review Could Give Comcast an Out in the Time Warner Cable Deal,negative,-0.8333364129066467
+2014-11-14,Net neutrality could give Comcast a way out of its Time Warner Cable acquisition.,positive,0.5567936897277832
+2014-11-14,| Warren E. Buffett’s deal for Duracell satisfies a number of his deal-making preferences.,neutral,0.053479310125112534
+2014-11-14,| Virgin America to begin trading.,neutral,0.06302998960018158
+2014-11-14,| Goldman seeks to lure tech talent.,neutral,0.2113829255104065
+2014-11-14,Morning Agenda: Net Neutrality’s Effect on Comcast,negative,-0.6036382913589478
+2014-12-03,"A collection of companies, public interest groups and labor unions said the deal with Comcast would harm both consumers and competition.",negative,-0.9203099608421326
+2014-12-03,Coalition Opposes Comcast-Time Warner Cable Merger,neutral,-0.4160335659980774
+2014-12-31,"Sony’s new partners will expand digital availability of the film, which will also have a wider theatrical release starting Friday.",positive,0.909452497959137
+2014-12-31,Sony’s ‘The Interview’ Is Set for On-Demand and Wider Online Viewing,neutral,0.04092256352305412
+2015-02-09,The air of inevitability around Comcast’s proposed $45 billion acquisition of Time Warner Cable has dissipated as the F.C.C.,negative,-0.8075693845748901
+2015-02-09,prepares to vote on a proposal to regulate the Internet like a utility.,neutral,0.24055995047092438
+2015-02-09,Comcast-Time Warner Cable Deal Still Up in the Air a Year Later,neutral,0.21687106788158417
+2015-02-20,A Breakingviews calculator puts the implied chances for success of the cable deal at 60 percent.,neutral,0.12288647890090942
+2015-02-20,Calculating the Odds of a Comcast-Time Warner Cable Deal,neutral,0.02775999717414379
+2015-02-23,Other business stories to look for in the coming week include Comcast’s fourth-quarter earnings and an F.C.C.,neutral,-0.028003409504890442
+2015-02-23,vote on net neutrality.,neutral,0.04573451355099678
+2015-02-23,"HSBC Earnings, Retailers’ Results, and Janet Yellen’s Testimony",neutral,-0.0029365159571170807
+2015-02-24,The F.C.C.,neutral,-0.008929532021284103
+2015-02-24,"will vote this week on whether the Internet should be regulated like a utility, a move that could substantially change the industry.",neutral,0.27644622325897217
+2015-02-24,Comcast Reports Small Profit Gain in the Face of Regulatory Uncertainty,positive,0.5759644508361816
+2015-03-17,"The service, which could be announced later this year, would offer a bundle of channels that is smaller and cheaper than a typical cable subscription, according to people briefed on the plans.",neutral,0.07094304263591766
+2015-03-17,"Apple Said to Plan Limited, Low-Cost Streaming Service",neutral,0.00916338711977005
+2015-03-31,"With Comcast-Time Warner Cable still in play, the cable landscape could still realign again.",positive,0.5410484671592712
+2015-03-31,Charter’s Deal May Not Be the Last Word on Bright House,neutral,-0.21752801537513733
+2015-04-05,Many letters to the government in support of the $45 billion deal are from groups that have received charitable or political donations from Comcast.,neutral,0.06060293689370155
+2015-04-05,Comcast Recruits Its Beneficiaries to Lobby for Time Warner Deal,neutral,0.0642194077372551
+2015-04-18,"The Justice Department staff is said to be leaning toward recommending blocking the merger with Time Warner, but higher officials can overrule any recommendation.",neutral,-0.15689373016357422
+2015-04-18,Review of Comcast Deal Is Said to Raise Concerns,negative,-0.5501363277435303
+2015-04-22,"Comcast’s record of compliance is now in the spotlight as regulators, and senators like Al Franken, scrutinize its proposed takeover of Time Warner Cable.",neutral,-0.11103701591491699
+2015-04-22,Comcast’s Track Record in Past Deals May Be Hitch for Merger With Time Warner Cable,neutral,0.042842619121074677
+2015-04-23,The merger would have united the country’s two largest cable operators and reshaped the country’s video and broadband markets.,positive,0.8849835991859436
+2015-04-23,Comcast Is Said to End $45 Billion Bid for Time Warner Cable,neutral,0.0388270802795887
+2015-04-24,The Justice Department confirmed that it had significant concerns that the merger “would make Comcast an unavoidable gatekeeper for Internet-based services that rely on a broadband connection to reach consumers.”,negative,-0.7750720977783203
+2015-04-24,"Under Regulators’ Scrutiny, Comcast and Time Warner Cable End Deal",neutral,-0.17842456698417664
+2015-04-25,"Congress has no direct power to approve or disapprove any merger, but endorsements can send a subtle but important message to regulators that the deal is in the public interest and should be cleared.",neutral,0.12715764343738556
+2015-04-25,Intense Lobbying Failed to Assure Comcast’s Deal,negative,-0.4930645823478699
+2015-04-27,"As soon as Comcast withdrew, Charter Communications was reported to be exploring a new bid for Time Warner Cable, but some predict consumers will lose no matter who buys whom.",negative,-0.812613844871521
+2015-04-27,Comcast-Time Warner Cable Deal’s Collapse Leaves Frustrated Customers Out in the Cold,negative,-0.891984760761261
+2015-04-30,First-quarter earnings were reported a week after Comcast abandoned its planned takeover of Time Warner Cable,neutral,-0.22770823538303375
+2015-04-30,Time Warner Cable Results Fall Short of Predictions,negative,-0.9099590182304382
+2015-05-03,This week’s business stories include Volkswagen’s shareholders’ meeting in Hanover; Tesla’s first-quarter earnings and the U.S. employment report.,neutral,0.055822283029556274
+2015-05-03,Earnings From Tesla; Volkswagen’s Annual Meeting,neutral,0.054869145154953
+2015-05-04,The cable operator said it counted more broadband users than video customers for the first time in the second quarter.,neutral,0.34887638688087463
+2015-05-04,Internet Customers Surpass Cable Subscribers at Comcast,neutral,0.0813993364572525
+2015-05-06,The AT&T-DirecTV deal has largely avoided scrutiny while a proposed Comcast-Time Warner merger was in the works.,neutral,-0.015385396778583527
+2015-05-06,Until now.,neutral,0.023659154772758484
+2015-05-06,"Now, Spotlight Turns to AT&T-DirecTV Deal",neutral,0.0923895612359047
+2015-05-11,"Mr. Cavanagh, a prominent figure on Wall Street, will succeed Michael Angelakis, Comcast’s C.F.O.",neutral,0.04621949791908264
+2015-05-11,since 2008.,neutral,0.04665684327483177
+2015-05-11,Comcast Hires Michael Cavanagh as Chief Financial Officer,neutral,0.024176819249987602
+2015-05-18,"If combined, the two cable operators may have enough firepower to pursue a new “friendly” consolidation with Time Warner Cable.",positive,0.8000004887580872
+2015-05-18,Charter and Bright House Pursuing Merger Even After Comcast’s Failed Deal,neutral,0.021686837077140808
+2015-05-25,"Charter is expected to announce on Tuesday a $55 billion deal for its larger rival and an approximately $10 billion takeover of a smaller competitor, Bright House Networks.",neutral,0.11262628436088562
+2015-05-25,Charter Deal for Time Warner Cable Signals Shift in TV Industry,neutral,0.08934034407138824
+2015-05-26,The $56.7 billion cable deal provides a big boost to the boutique investment banks involved.,positive,0.9149003624916077
+2015-05-26,Charter’s Advisers Stage a Comeback,neutral,-0.01974491775035858
+2015-05-27,"Charter Communications notes that it is a “very different” company from Comcast, which ended up withdrawing from its proposed takeover of Time Warner Cable.",neutral,0.03237857669591904
+2015-05-27,Charter’s Guarded Optimism That This Time a Merger Will Clear,neutral,0.3707813024520874
+2015-05-28,"The invisible hand of Netflix has been at work influencing policy and proposed mergers in the cable, broadband and media businesses.",neutral,0.028155803680419922
+2015-05-28,How Netflix Keeps Finding Itself on the Same Side as Regulators,neutral,0.13055218756198883
+2015-06-01,"The chief financial officer, Arthur Minson Jr., will become president and chief operating officer of the WeWork office space-sharing company.",neutral,0.04552994668483734
+2015-06-01,Time Warner Cable C.F.O.,neutral,0.0327896811068058
+2015-06-01,Leaves Company,neutral,-0.03066428005695343
+2015-06-19,"Mr. Roberts turned a small cable service in Tupelo, Miss., into the largest cable television company in the nation.",positive,0.6845025420188904
+2015-06-19,"Ralph Roberts, Cable TV Pioneer Who Built Comcast, Dies at 95",neutral,-0.25816982984542847
+2015-06-21,"The deal, if finalized, would combine two of the largest French mobile providers and oust Orange as France’s biggest mobile operator.",positive,0.6965653896331787
+2015-06-21,Altice Offers to Buy Bouygues Telecom for $11.3 Billion,neutral,0.09181196242570877
+2015-06-22,"The campaign, called Symphony, has been opened to outside advertisers.",neutral,0.09709488600492477
+2015-06-22,The idea is to use Comcast’s multiplatform range of assets for ad campaigns.,neutral,0.038193970918655396
+2015-06-22,Comcast and NBCUniversal Open Cross-Promotional Ad Strategy,neutral,0.03707943484187126
+2015-06-25,Charter wants to buy Time Warner Cable and Bright House.,neutral,0.018124882131814957
+2015-06-25,In an F.C.C.,neutral,-0.042435940355062485
+2015-06-25,"filing, it outlined why its ownership would be beneficial, all the while dissociating itself from Comcast’s failed takeover.",positive,0.5410363674163818
+2015-06-25,"Charter Makes Its Case for 2 Mergers, Telling F.C.C.",neutral,0.12813350558280945
+2015-06-25,It’s No Comcast,neutral,-0.04254251718521118
+2015-07-13,"The $15-a-month service, which will provide access to live and on-demand programming, reflects a mainstream cable company’s effort to stay relevant as streaming grows in popularity.",positive,0.7921630144119263
+2015-07-13,"Comcast Offers Its Alternative to Cable TV, Using the Web",neutral,0.049733880907297134
+2015-07-14,The money is meant to help the daily fantasy sports start-up gain customers and expand its global presence as the popularity of online sports betting draws big new entrants like Yahoo.,positive,0.8794205784797668
+2015-07-14,FanDuel to Announce It Has Raised $275 Million More,positive,0.6141425371170044
+2015-07-23,"The results show how Comcast, the country’s largest cable operator, is focusing on its businesses and moving on after it abandoned its $45 billion takeover of Time Warner Cable in April.",positive,0.6494892835617065
+2015-07-23,Comcast Results Buoyed by Strong Performance in Film Division,positive,0.9021419286727905
+2015-07-27,The multiyear agreement is a public olive branch after the two companies clashed during Comcast’s takeover attempt of Time Warner Cable.,negative,-0.8968064188957214
+2015-07-27,Comcast and Discovery Announce Long-Term Distribution Deal,neutral,0.07556766271591187
+2015-08-02,"After Comcast bought NBCUniversal four years ago, it surprised some by not only hanging onto the company’s theme parks, but investing heavily in their expansion.",positive,0.731134831905365
+2015-08-02,"Comcast Invests by the Billion in Theme Parks, Hogwarts and All",neutral,0.03980805352330208
+2015-08-05,"Shares in Comcast, Time Warner, 21st Century Fox, CBS, Viacom, Discovery and AMC Networks all were down, with some plunging by as much as 12 percent in midday trading.",negative,-0.9605372548103333
+2015-08-05,"Disney, Time Warner and Other Media Shares Fall as Investors Worry About TV’s Future",negative,-0.9311639070510864
+2015-08-12,"The media giant and digital upstart intend to blur the lines between their two worlds and collaborate on programming, advertising and technology.",neutral,0.18344025313854218
+2015-08-12,NBCUniversal Invests $200 Million in Vox Media,neutral,0.08180981874465942
+2015-08-20,"The studio has a string of nine hits out of its last 10 releases with a range of nonsuperhero films, including “Straight Outta Compton,” “Jurassic World” and “Minions.”",neutral,0.3132748305797577
+2015-08-20,"Universal Conquers the Box Office, Without a Superhero",positive,0.5943132042884827
+2015-09-28,The American media company said the $1.5 billion deal would help it expand its them park business worldwide.,positive,0.9165987968444824
+2015-09-28,Comcast Buying 51% of Universal Theme Park in Japan,neutral,0.034474268555641174
+2015-10-03,Companies are looking to win over frustrated customers with new marketing campaigns that make fun of the industry’s lousy reputation.,negative,-0.595392107963562
+2015-10-03,Cable and Satellite Ads Aim to Revamp the Industry’s Image,positive,0.5318164229393005
+2015-10-07,"With a performance by Selena Gomez on Monday, the morning show’s live-music feature will become the Citi Concert Series, ending Toyota’s sponsorship of the last 12 years.",neutral,0.10056298971176147
+2015-10-07,Citigroup to Become Sponsor of NBC ‘Today’ Show Concert Series,neutral,0.06152360141277313
+2015-10-14,The company told the F.C.C.,neutral,0.009702734649181366
+2015-10-14,that Charter’s proposed takeover of Time Warner Cable and Bright House would be “no better for the public interest” than Comcast’s failed deal for Time Warner Cable.,negative,-0.7444136142730713
+2015-10-14,Dish Network Seeks Rejection of 2 Deals Proposed by Charter,negative,-0.4950704574584961
+2015-10-26,"Fandango, a seller of movie tickets that hopes to position itself an entertainment hub, will debut a new mascot, Miles Mouvay, a film fanatic portrayed by Kenan Thompson, on Monday.",neutral,0.33893463015556335
+2015-10-26,"The New Face of Fandango, Born in a Movie Theater",neutral,0.07961507141590118
+2015-10-27,Third-quarter growth at the cable and entertainment conglomerate was fueled by its high-speed Internet and film businesses.,positive,0.8690112233161926
+2015-10-27,"Comcast Revenue Jumps 11%, Defying Media Gloom",positive,0.5969398021697998
+2015-11-03,Mr. Eatroff is leaving to become the cable giant’s executive vice president for global corporate development and strategy.,neutral,-0.027379298582673073
+2015-11-03,"Robert Eatroff, a Top Morgan Stanley Deal Maker, Is Joining Comcast",neutral,0.02465437538921833
+2015-11-18,"A longtime deal maker, Ms. Huang was appointed after the two former co-heads of M.&.A.",neutral,0.0042472463101148605
+2015-11-18,advising for the region left the Wall Street firm.,negative,-0.48602044582366943
+2015-11-18,Morgan Stanley Names Susie Huang to Lead Mergers in the Americas,neutral,0.02551954612135887
+2015-12-18,"The Federal Communications Commission said it was exploring whether new video streaming services from Comcast, T-Mobile USA and and AT&T violate net neutrality rules.",neutral,-0.4151368737220764
+2015-12-18,F.C.C.,neutral,0.030943963676691055
+2015-12-18,"Asks Comcast, AT&T and T-Mobile About ‘Zero-Rating’ Services",neutral,0.02433004043996334
+2015-12-22,"The merger market is on track for a $4 trillion-plus year, and deal makers are no doubt celebrating, but this is also a time for reflection.",neutral,0.2518458664417267
+2015-12-22,"In a Record Year for Deals, Success and a Few Missteps",neutral,-0.02769830822944641
+2015-12-23,Regulators ordered Facebook’s Indian partner to stop offering a free package of Internet services while it considers rules to govern all such programs.,negative,-0.8728905916213989
+2015-12-23,It is the latest setback in India for Mark Zuckerberg’s Internet.org project.,negative,-0.9507865905761719
+2015-12-23,Indian Regulators Suspend Facebook’s Free Basic Services,negative,-0.8972446918487549
+2016-01-13,"Although Netflix’s strategy is not without a fair amount of risk, it just keeps working — and the company’s prospects are steadily brightening.",positive,0.8726272583007812
+2016-01-13,Why Media Titans Would Be Wise Not to Overlook Netflix,neutral,-0.030170783400535583
+2016-01-22,"If approved, the deals are likely to include provisions meant to prevent Charter from using its market power to hurt rival streaming services.",neutral,0.02979910373687744
+2016-01-22,Cable Acquisitions by Charter Communications Face Rising Opposition,negative,-0.5857827663421631
+2016-02-04,"In conventional media, it’s all about the people, and the head of NBCUniversal has learned to stroke, cajole and get tough — and get results.",neutral,0.1374334841966629
+2016-02-04,"Under Steve Burke, Old-Media NBCUniversal Shows Off Some New Tricks",neutral,0.0588250607252121
+2016-02-05,"When calling cable and phone providers to negotiate better deals, employees of BillFixers impersonate their clients.",negative,-0.8369376063346863
+2016-02-05,"Whatever the ethics of this approach, their negotiating tactics have much to teach.",neutral,0.02808741107583046
+2016-02-05,Tips on Reducing Cable and Phone Bills From Ethically Ambiguous Experts,neutral,0.20826441049575806
+2016-03-10,The rules call for broadband providers to disclose how data about users’ online browsing may be collected and for better security of such data.,neutral,0.057906463742256165
+2016-03-10,F.C.C.,neutral,0.030943963676691055
+2016-03-10,Proposes Privacy Rules for Internet Providers,neutral,0.04472560063004494
+2016-03-28,Charter Communications is poised to gain F.C.C.,positive,0.63483065366745
+2016-03-28,"approval to join with Time Warner Cable and Bright House Networks, and streaming looms large in the deal.",positive,0.7460565567016602
+2016-03-28,Charter’s $67 Billion Cable Merger Hinges on the Cord Cutters,neutral,0.03718091920018196
+2016-04-01,"The round, which brings Slack’s venture financing to $540 million, was led by the new investors Thrive Capital with participation from GGV and Comcast Ventures.",positive,0.5149111747741699
+2016-04-01,"Slack, a Leading Unicorn, Raises $200 Million in New Financing",neutral,0.25903794169425964
+2016-04-24,"On-demand businesses like Uber have changed customers’ expectations, and the kinds of real-time maps the ride-hailing company uses are spreading to other services.",negative,-0.533531129360199
+2016-04-24,Was Your Dog Walked?,negative,-0.5022152066230774
+2016-04-24,Your Phone Can Show You,neutral,0.015472456812858582
+2016-04-27,"An expected acquisition would allow Comcast to build on its successful NBCUniversal entertainment business, which includes TV, film and theme parks.",positive,0.7692272067070007
+2016-04-27,DreamWorks Deal Would Serve Comcast’s Entertainment Strategy,neutral,0.35263004899024963
+2016-04-28,"Jeffrey Katzenberg energetically ran the boutique studio, but its fortunes often seemed star-crossed.",neutral,-0.04010479897260666
+2016-04-28,DreamWorks Animation Sale Leaves Jeffrey Katzenberg at a Crossroads,negative,-0.7008037567138672
+2016-04-29,"DreamWorks Animation is selling itself to Comcast, putting an end to an independent creative endeavor that brought “Shrek,” “Kung-Fu Panda” and “Madagascar” to the big screen — but also had its share of flops.",neutral,0.041273027658462524
+2016-04-29,DreamWorks Animation’s Hits — and Misses,neutral,0.0069337934255599976
+2016-05-05,"The studio, now being sold to Comcast, earned $13.8 million, an improvement from a loss in last year’s quarter.",positive,0.8314242362976074
+2016-05-05,DreamWorks Animation Manages a Quarterly Profit,neutral,-0.011911468580365181
+2016-06-12,"Giants like Comcast, AT&T and Verizon oppose plans to limit broadband providers’ ability to share users’ data and to open the market for set-top boxes.",negative,-0.7876734733581543
+2016-06-12,Cable Industry Mobilizes Lobbying Army to Block F.C.C.,neutral,-0.3346460461616516
+2016-06-12,Moves,neutral,0.03623265027999878
+2016-07-06,"The relationship between the two companies has often been rocky, but nothing brings out the olive branch like a business opportunity.",neutral,-0.017113424837589264
+2016-07-06,Détente for Netflix and Comcast,neutral,-0.09511157870292664
+2016-07-08,"He owns 11.5 percent of DreamWorks Animation but has 60 percent of the shareholder vote, which gives him control in a sale to NBCUniversal.",neutral,0.01397668570280075
+2016-07-08,Lawsuit Aims at Jeffrey Katzenberg and His Dual-Class Shares,negative,-0.7120183706283569
+2016-09-05,"Billboards, long used by big brands to promote their products, and more recently by tech companies, are flourishing compared with other traditional media.",neutral,-0.22624236345291138
+2016-09-05,"Look Up: In the Digital Age, Billboards Are Far From Dead",neutral,-0.012561094015836716
+2016-10-11,"Tech companies like Sprint, Comcast and Facebook are increasingly working to make high-speed internet available to every American.",neutral,0.27179163694381714
+2016-10-11,Tech Companies Expect Free High-Speed Internet for Poorer Americans to Pay Off Later,neutral,0.0484917014837265
+2016-10-14,"Live events running long can mess up your video recordings, but you can use a few workarounds to make sure you get the end of that game or show.",neutral,-0.22655591368675232
+2016-10-14,Making Sure You Record the Whole TV Show,neutral,0.01964981108903885
+2016-10-24,Much of the concern about AT&T’s $85.4 billion purchase of Time Warner is rooted in how consumers have fared since Comcast bought NBCUniversal.,negative,-0.9135415554046631
+2016-10-24,Swift Opposition to Resurrection of AT&T Giant,neutral,-0.052538156509399414
+2016-10-25,A look at where the AT&T deal leaves other prominent media companies and what some think they might attempt to do in response.,neutral,-0.00035217031836509705
+2016-10-25,A Chilly Reaction to AT&T-Time Warner Deal,negative,-0.7677527666091919
+2016-10-26,Comcast’s acquisition of NBCUniversal was prudent by today’s standards.,neutral,0.3910781741142273
+2016-10-26,AT&T Could Find a Lesson in Comcast’s Media Merger,neutral,0.09531915932893753
+2016-10-27,"The new rules require broadband providers to get permission to collect data on a subscriber’s web browsing, app use, location and financial information.",neutral,0.032051123678684235
+2016-10-27,Broadband Providers Will Need Permission to Collect Private Data,neutral,0.0007081180810928345
+2016-10-29,Farhad is going as sexy Donald Trump and Mike as Guy Fieri.,neutral,0.006216572597622871
+2016-10-29,Amazon gets them reminiscing about Matthew McConaughey in a 1990s stoner movie.,neutral,-0.03925847262144089
+2016-10-29,"Farhad and Mike’s Week in Tech: Microsoft, Apple and Halloween!",neutral,-0.018087387084960938
+2016-11-07,"Supporters of the AT&T-Time Warner deal have pointed to the success of a similar one between Comcast and NBCUniversal, where both sides are thriving.",positive,0.6658855080604553
+2016-11-07,How Comcast and NBCUniversal Used Minions to Fuse an Empire,neutral,-0.04768449440598488
+2016-11-11,"Mr. Trump has criticized AT&T’s planned merger with Time Warner and the merger of Comcast and NBCUniversal, and he may have a beef with big banks.",negative,-0.8141762018203735
+2016-11-11,Donald Trump Could Move From Deal Maker to Deal Slayer,neutral,0.07330651581287384

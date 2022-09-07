@@ -1,0 +1,157 @@
+Date,Sentence,Prediction,sentimentScore
+2014-01-15,The Italian energy giant has found that its drilling efforts have not produced enough natural gas to be commercially viable.,negative,-0.9577053189277649
+2014-01-15,Eni Is Said to Abandon Polish Shale Aspirations,neutral,-0.09257250279188156
+2014-01-27,Highlights of the business week will include Ford and Chrysler earnings and the first look at fourth-quarter economic output.,neutral,0.055381253361701965
+2014-01-27,"Apple’s Earnings, Bernanke’s Farewell",negative,-0.37921690940856934
+2014-01-30,"The oil giants’ reactions differed sharply: Shell plans to step up asset sales and cut investment, while Exxon Mobil pointed to its numerous projects.",negative,-0.677932620048523
+2014-01-30,Quarterly Earnings Fall at Exxon Mobil and Shell,negative,-0.963222861289978
+2014-01-31,"In the world of Wall Street executive compensation, the pay raise recommended for Jamie Dimon, chief of JPMorgan Chase, is not only defensible, but laudable.",positive,0.7909280061721802
+2014-01-31,Accounting for Dimon’s Big Jump in Pay,neutral,0.07724102586507797
+2014-02-04,The oil giant reported lower earnings for the fourth quarter as production declined and its refineries struggled to turn a profit.,negative,-0.9600069522857666
+2014-02-04,"Profit Drops for BP, but Still Beats Analysts’ Forecasts",negative,-0.7925518751144409
+2014-03-12,"Firms that track benefit plans are finding their terms are improving for many employees, in areas such as company matching, vesting and fees.",positive,0.9092703461647034
+2014-03-12,The Best 401(k)s Set a Higher Bar for Others,neutral,0.15036988258361816
+2014-03-20,The energy giant has been pressured by shareholders to show how it plans to cope with the risks posed to its holdings by potential limits on greenhouse gas emissions.,negative,-0.8630624413490295
+2014-03-20,"In Shift, Exxon Mobil to Report on Risks to Its Fossil Fuel Assets",neutral,0.04222555458545685
+2014-03-28,"Any stricter sanctions on Russia for its occupation of Crimea would likely be opposed by Exxon Mobil, BP and other companies with projects in Russia.",negative,-0.8092743158340454
+2014-03-28,Potential Crackdown on Russia Risks Also Punishing Western Oil Companies,negative,-0.8757989406585693
+2014-05-01,"Production volumes fell, but thanks to cost-cutting and rising natural gas prices, earnings still beat analysts’ expectations.",negative,-0.8601785898208618
+2014-05-01,Exxon Mobil Profit Falls for a Fourth Straight Quarter,negative,-0.9646338820457458
+2014-06-10,"BP, Exxon Mobil, Shell, Total and other big Western oil companies are striking deals and plowing money into Russia even as more sanctions loom.",negative,-0.3920286297798157
+2014-06-10,"For Western Oil Companies, Expanding in Russia Is a Dance Around Sanctions",neutral,0.07059904932975769
+2014-07-10,"With refining eroding into a money-losing area for most European players, Exxon Mobil is making a contrarian bet by expanding diesel production.",positive,0.20830336213111877
+2014-07-10,"Betting on Diesel Cars, Exxon Is Set to Expand Belgium Refinery",positive,0.5410184860229492
+2014-07-22,A rig set sail two days after the downing of a Malaysia Airlines jet in Ukraine led to mounting pressure for new sanctions against Russia.,negative,-0.9126324653625488
+2014-07-22,Exxon Mobil Moves Ahead With Russian Oil Drilling Project,neutral,0.20619551837444305
+2014-07-30,Industry executives are now acknowledging that the escalating tensions could sharply hurt companies with major investments in Russia.,negative,-0.9601386785507202
+2014-07-30,Energy Companies Rethinking Russia After New Round of Sanctions,neutral,-0.020033210515975952
+2014-08-11,The pipeline group Kinder Morgan plans to reorganize as a single corporation.,neutral,0.03824494034051895
+2014-08-11,| The drop in Treasury yields has confounded experts.,negative,-0.9157916307449341
+2014-08-11,| An investor group is considering legal action after being burned by losses on Portuguese bank bonds.,negative,-0.9335829019546509
+2014-08-11,| A Stanford finance professor is rapidly gaining a broader audience.,positive,0.49798983335494995
+2014-08-11,Morning Agenda: Kinder Morgan to Consolidate,neutral,0.033271439373493195
+2014-09-13,"The United States government took aim at Exxon’s project in the Arctic Ocean, ordering American companies to cut off exports to Russian oil exploration within 14 days.",negative,-0.8905302286148071
+2014-09-13,New Sanctions to Stall Exxon’s Arctic Oil Plans,negative,-0.7381668090820312
+2014-09-19,The latest round of sanctions by Washington and the European Union ordered companies to cut off help to Russian oil exploration in the Arctic.,negative,-0.9279894828796387
+2014-09-19,Exxon Halts Oil Drilling in Waters of Russia,negative,-0.8634355664253235
+2014-09-30,Qatar Petroleum wants to export American gas by converting the terminal to export from import at a cost of at least $10 billion.,positive,0.5301872491836548
+2014-09-30,A U-Turn for a Terminal Built in Texas to Import Natural Gas,neutral,0.06467825174331665
+2014-10-31,The two largest American oil companies said their refining businesses more than made up for the recent drop in the price of crude oil.,positive,0.23541100323200226
+2014-10-31,"At Exxon Mobil and Chevron, Refining Businesses Support Earnings",neutral,0.010166509076952934
+2015-01-09,"Oil’s price plunge hurt energy funds, but investors may still be able to make good bets by focusing on specific pieces of the industry.",negative,-0.8157909512519836
+2015-01-09,"Trying to Capitalize on Lower Oil Prices, Through E.T.F.s",positive,0.5383474826812744
+2015-01-30,After years of the industry making record profits both companies said that they lost money in the fourth quarter.,negative,-0.9465822577476501
+2015-01-30,"ConocoPhillips and Occidental Post Losses, Reflecting Oil Price Plunge",negative,-0.9611729383468628
+2015-01-31,"Energy experts said the sudden increase could be explained by various factors, including reports that the Islamic State terrorist group was advancing in an offensive near Iraq’s northern oil fields.",negative,-0.6703097224235535
+2015-01-31,Oil Prices Surge 8% After Long Slide Down,positive,0.2776618003845215
+2015-02-01,"The big corporate news of the week will be earnings reports from BP, Twitter and major carmakers.",neutral,0.05876513570547104
+2015-02-01,"But the January jobs report, on Friday, and news from Greece will overshadow it all.",negative,-0.6342808604240417
+2015-02-01,"January Job Data, Big Earnings Reports and the Greek Bailout",neutral,0.13468536734580994
+2015-02-02,The company said its fourth-quarter results were bolstered somewhat by asset sales and improved profits in its chemical business.,positive,0.9314674735069275
+2015-02-02,Exxon Mobil Revenue and Profit Off 21% on Oil Decline,negative,-0.9602184295654297
+2015-02-18,"Shell, Exxon Mobil and the Dutch government put revenue and energy supply from the Groningen field ahead of safety, an independent panel found.",neutral,0.12589621543884277
+2015-02-18,"Earthquake Dangers in Dutch Gas Field Were Ignored for Years, Safety Board Says",negative,-0.4478417932987213
+2015-03-18,"The company, called Plenti, will let customers earn points from several merchants, not just American Express.",neutral,0.11623984575271606
+2015-03-18,American Express to Start Multi-Business Loyalty Program,positive,0.5092164278030396
+2015-04-14,"Laurence D. Fink, chief of BlackRock, the world’s largest asset manager, warns of harm in dividends and stock buybacks.",negative,-0.9463347792625427
+2015-04-14,"BlackRock’s Chief, Laurence Fink, Urges Other C.E.O.s to Stop Being So Nice to Investors",negative,-0.782438337802887
+2015-04-30,Both companies reported huge drops in profit: a 46 percent decline at Exxon and a 56 percent drop at Shell.,negative,-0.9667730331420898
+2015-04-30,"Profits at Exxon and Shell Slide, Echoing Oil Prices’ Plunge",negative,-0.9151017069816589
+2015-05-13,Mr. Smith covered the oil industry for The Times before working at Exxon as a public relations specialist during the Exxon Valdez oil spill in 1989.,neutral,-0.021675264462828636
+2015-05-13,William D. Smith Dies at 79; Business Reporter Who Joined Oil Industry,neutral,-0.08823120594024658
+2015-07-01,"After decades of resistance, the oil behemoth is taking carefully considered steps to support gay, lesbian, bisexual and transgender employees.",positive,0.6823053956031799
+2015-07-01,Exxon Lumbers Along to Catch Up With Gay Rights,positive,0.44155552983283997
+2015-07-16,"The major oil companies did not bid, and only two blocks were successfully auctioned.",neutral,0.01655389741063118
+2015-07-16,Mexico Auctions Oil Blocks in Attempt to Increase Production,neutral,0.2700434625148773
+2015-07-31,Declining oil and natural gas prices contributed to the companies’ disappointing second-quarter results.,negative,-0.9513537883758545
+2015-07-31,Exxon and Chevron Report Worst Quarterly Results of Current Decade,negative,-0.9420583248138428
+2015-10-26,"This week, data on durable goods orders, consumer confidence and economic growth will be released.",neutral,0.0619041882455349
+2015-10-26,"In addition, several companies including Apple and Exxon Mobil will report earnings.",positive,0.5851646661758423
+2015-10-26,"Apple Earnings, United States Economic Data and Oil Results",neutral,-0.023495424538850784
+2015-10-30,Exxon Mobil reports a 37 percent drop in revenue and Chevron says it plans to cut up to 10 percent of its workforce.,negative,-0.9628379344940186
+2015-10-30,Chevron and Exxon Post Declining 3rd-Quarter Results,negative,-0.9689366817474365
+2015-10-31,"Environmental and social justice groups are calling for a federal investigation, claiming that the oil and gas company deceived the American public in order to protect profits.",negative,-0.8313859701156616
+2015-10-31,Exxon Mobil Accused of Misleading Public on Climate Change Risks,negative,-0.7709893584251404
+2015-11-03,The former vice president said he has been focused on helping his firm invest only in sustainable companies.,neutral,0.21613773703575134
+2015-11-03,Gore Calls for Exxon Mobil Inquiry on Climate Change,neutral,-0.37004804611206055
+2015-11-05,The sweeping inquiry focuses on whether the oil company lied to the public and investors over the risks of climate change.,negative,-0.7387484312057495
+2015-11-05,Exxon Mobil Investigated for Possible Climate Change Lies by New York Attorney General,negative,-0.5756849050521851
+2015-11-06,The start of an inquiry by the New York attorney general’s office into Exxon Mobil’s record on climate change could lead to additional legal actions involving other major energy companies.,negative,-0.5325368046760559
+2015-11-06,More Oil Companies Could Join Exxon Mobil as Focus of Climate Investigations,neutral,0.01926676742732525
+2015-11-07,"The tobacco industry largely hid evidence of the addictiveness of tobacco, while Exxon published peer-reviewed climate change research even as it raised doubts on the underlying science.",neutral,-0.19138018786907196
+2015-11-07,Exxon Inquiry Both Mirrors and Contrasts With Tobacco Industry Case,neutral,0.06236632168292999
+2015-11-14,"The renewed collapse in crude prices is helping to again drive down gasoline prices for American drivers, and a surge in production has led to a global stockpile of three billion barrels.",negative,-0.2773914635181427
+2015-11-14,An Oil-Soaked Globe as Production Keeps Climbing and Demand Falls,negative,-0.6905797123908997
+2015-12-01,The dean of Columbia’s Graduate School of Journalism rebuts suggestions that journalists from the school had produced inaccurate and misleading articles on Exxon Mobil.,negative,-0.9027062654495239
+2015-12-01,Response From Steve Coll to Exxon Mobil,neutral,0.10428789258003235
+2015-12-12,"Oil prices, down almost two-thirds over the past 16 months, declined again on Friday on reports that it may have even further to fall next year.",negative,-0.9595774412155151
+2015-12-12,Wall Street Slips on Oil’s Big Drop,negative,-0.8512235283851624
+2015-12-24,Business development companies are emerging from the shadows as controversy has increased over some of their tactics and results.,negative,-0.8218541741371155
+2015-12-24,Obscure Corner of Wall St.,neutral,-0.23152191936969757
+2015-12-24,Draws Skepticism From Investors,neutral,-0.24605926871299744
+2016-01-07,"A listing of shares could make Saudi Aramco, whose reserves are 10 times that of Exxon Mobil, the most valuable public company in the world.",positive,0.7774645686149597
+2016-01-07,Saudi Aramco I.P.O.,neutral,0.0404786691069603
+2016-01-07,Is Weighed by Kingdom,neutral,-0.126946821808815
+2016-01-21,California appears to have joined New York in weighing Exxon Mobil’s honesty in admitting to the risks posed by climate change.,positive,0.2711467742919922
+2016-01-21,California Said to Target Exxon in Climate Inquiry,neutral,-0.16396422684192657
+2016-02-01,"This week Exxon Mobil, BP and Royal Dutch Shell will report quarterly earnings, Navinder Singh Sarao is expected back in court and the Labor Department will release figures on hiring and unemployment.",negative,-0.4430062472820282
+2016-02-01,"Oil Company Earnings, Trader’s ‘Flash Crash’ Hearing and the Jobs Report",negative,-0.4180203974246979
+2016-02-02,"BP wrote down the value of its oil and gas assets by $1.6 billion in the fourth quarter of 2015, and said it would continue cutting jobs.",negative,-0.9594117403030396
+2016-02-02,Exxon Mobil’s Profits Fall and BP Cites Low Oil Prices in $3.3 Billion Loss,negative,-0.9546162486076355
+2016-02-03,"With the close of Tuesday’s trading, it was official: Alphabet, the newly formed holding company for Google, is the most highly valued company.",neutral,0.08455046266317368
+2016-02-03,"For Alphabet, the Path to Becoming the Most Valuable Company in the World",positive,0.6875693202018738
+2016-03-24,"A resolution, if approved, would force the energy giant to outline for investors how its profitability may be affected by climate change.",neutral,0.07316707074642181
+2016-03-24,S.E.C.,neutral,0.030168529599905014
+2016-03-24,Orders Exxon Mobil Shareholder Vote on Climate Data,neutral,-0.09886737912893295
+2016-03-25,Gas prices for the Easter weekend will be the lowest in over a decade.,negative,-0.9363308548927307
+2016-03-25,But don’t be fooled — they’re still going up.,neutral,0.09976228326559067
+2016-03-25,"Gas Prices Will Be Low for Easter, but Don’t Get Used to It",neutral,-0.04600638896226883
+2016-03-29,A group of attorneys general announced support for an investigation by Eric Schneiderman of New York into Exxon Mobil’s statements on global warming.,positive,0.6609385013580322
+2016-03-29,Exxon Mobil Climate Change Inquiry in New York Gains Allies,neutral,-0.2559134364128113
+2016-04-14,The Center for International Environmental Law released evidence that the energy industry had the underlying knowledge of climate change 60 years ago.,neutral,0.12469147890806198
+2016-04-14,Pressure on Exxon Over Climate Change Intensifies With New Documents,neutral,-0.13028199970722198
+2016-04-26,"The oil producer lost its AAA rating, leaving only two American companies with the highest rating: Microsoft and Johnson & Johnson.",negative,-0.9066210985183716
+2016-04-26,Exxon Mobil’s Sterling Credit Is Downgraded by Standard & Poor’s,negative,-0.8711552619934082
+2016-04-29,"Recovery in the oil industry will be slow and patchy, but the worst is probably past.",negative,-0.7303206920623779
+2016-04-29,Exxon Mobil May Have Hit Its Low Point,negative,-0.7457605600357056
+2016-05-05,"The energy giant is investing in FuelCell Energy’s technology for carbon capture and sequestration, a potential way to reduce greenhouse gas emissions.",positive,0.5441417694091797
+2016-05-05,Exxon Mobil Backs FuelCell Effort to Advance Carbon Capture Technology,positive,0.7148955464363098
+2016-05-17,Research shows that presidential election years paralyze businesses that fear making their next moves with the future so uncertain.,negative,-0.9056096076965332
+2016-05-17,Election Years Are Steeped in Markets’ Least Favorite Thing: Uncertainty,neutral,0.05760600045323372
+2016-05-23,"A gathering held four years ago in California outlined tactics for taking on the fossil fuel industry, drawing lessons from the fight over tobacco.",neutral,0.06289713084697723
+2016-05-23,Public Campaign Against Exxon Has Roots in a 2012 Meeting,neutral,-0.3763000965118408
+2016-05-25,Whether to negotiate new policies reflecting climate change or adopt a scorched-earth strategy has divided groups seeking change within the energy company.,negative,-0.5963461995124817
+2016-05-25,Climate Change Activists Either Prod Exxon Mobil or Dump It,negative,-0.8473895192146301
+2016-07-21,InterOil’s holdings in Papua New Guinea are a potential source for liquefied natural gas.,neutral,0.04778140038251877
+2016-07-21,Exxon Mobil Acquires InterOil for $2.5 Billion,neutral,0.056529395282268524
+2016-07-25,"Twitter, Facebook, Apple and Alphabet will report second-quarter results, as will BP, Shell and Exxon.",neutral,0.2851630747318268
+2016-07-25,And the Fed is expected to address the benchmark interest rate.,neutral,0.06731853634119034
+2016-07-25,"Oil and Tech Giants’ Earnings, a Fed Meeting and an Estimate of U.S. Growth",neutral,0.03616738319396973
+2016-08-19,Eric T. Schneiderman of New York said the investigation was concentrating on issues like the value the company puts on oil still in the ground.,neutral,-0.11193513870239258
+2016-08-19,Exxon Mobil Fraud Inquiry Said to Focus More on Future Than Past,neutral,-0.1185515895485878
+2016-09-21,"American corporate might is increasingly concentrated in just four states, reflecting a shift toward the technology and biotechnology industries.",neutral,0.039078786969184875
+2016-09-21,"Morning Agenda: Deepening Divides, ‘Gutless Leadership,’ Exxon’s Workings",negative,-0.528205394744873
+2016-09-26,Exxon Mobil says it’s not possible to predict how climate change will affect its business.,negative,-0.538296103477478
+2016-09-26,A bill in Congress says it shouldn’t be asked to.,negative,-0.43206924200057983
+2016-09-26,A New Debate Over Pricing the Risks of Climate Change,neutral,-0.005775228142738342
+2016-10-19,"Claudio Descalzi, the chief executive, backed geologists’ hunches with computing muscle and money, and his “revolution” produced a massive discovery.",neutral,0.18636968731880188
+2016-10-19,How Eni Bet Big and Won Big on Natural Gas off Egypt,neutral,0.27892619371414185
+2016-10-28,The company may have to concede that 3.6 billion barrels of oil-sand reserves and a billion barrels of other reserves are currently not profitable to produce.,negative,-0.929637610912323
+2016-10-28,Exxon Concedes It May Need to Declare Lower Value for Oil in Ground,negative,-0.851299524307251
+2016-11-03,"Major oil and gas companies, facing future loss of demand for their products as a result of climate change policies, search for new strategies.",neutral,0.055685944855213165
+2016-11-03,Big Oil Slowly Adapts to a Warming World,neutral,0.1036122515797615
+2016-12-06,"Looking beyond current low oil prices, the companies paid billions in an auction of deepwater drilling rights in the Gulf of Mexico.",positive,0.5935876369476318
+2016-12-06,Oil and Gas Industry Leaders Eagerly Take Stakes in Mexican Offshore Fields,neutral,0.17942018806934357
+2016-12-08,"Louis Allstadt, a retired Exxon executive, led an effort to divest a pension fund in Cooperstown, N.Y., of stock in oil, gas and coal, a plan that has ignited a furor.",negative,-0.7209003567695618
+2016-12-08,"Once an Oil Executive, Now a Crusader Against Fossil Fuel Stocks",neutral,0.05880613625049591
+2016-12-11,"Mr. Tillerson, Exxon Mobil’s chief executive and a secretary of state candidate, has a relationship with Russia that could be both a strength and his Achilles’ heel.",neutral,0.23143376410007477
+2016-12-11,"Rex Tillerson, an Aggressive Dealmaker Whose Ties With Russia May Prompt Scrutiny",neutral,0.13706038892269135
+2016-12-13,"The energy giant’s days as Big Oil’s unparalleled heavyweight are numbered, as rivals are coming up fast.",neutral,0.3958536982536316
+2016-12-13,Exxon’s Next Chief Will Lead a Weakened Empire,neutral,-0.11584431678056717
+2016-12-14,A tax provision allows incoming executive branch members to defer capital gains taxes on any divestments required under ethics rules.,neutral,0.03249583765864372
+2016-12-14,"For Trump’s Wealthy Cabinet, Prospect of a Sweet Tax Break",negative,-0.31266361474990845
+2016-12-15,"The oil giant said it would promote the heir apparent to chief, as Mr. Tillerson prepares to become secretary of state under Donald J. Trump.",neutral,0.3553885817527771
+2016-12-15,Exxon Mobil Taps Darren Woods to Replace Rex Tillerson,neutral,-0.060250960290431976
+2016-12-29,"Rex W. Tillerson, in line to be secretary of state, publicly backed a carbon tax in 2009.",neutral,0.298380047082901
+2016-12-29,Yet Exxon Mobil has done little or nothing to help put such taxes into effect.,neutral,0.00954284518957138
+2016-12-29,Tillerson Led Exxon’s Shift on Climate Change; Some Say ‘It Was All P.R.’,neutral,-0.01673230528831482

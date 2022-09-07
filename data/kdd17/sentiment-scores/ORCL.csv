@@ -1,0 +1,771 @@
+Date,Sentence,Prediction,sentimentScore
+2007-01-02,"Business groups have started using “speed networking,” a corporate equivalent of speed dating, to explore business prospects.",neutral,0.029700174927711487
+2007-01-02,The Hasty Hello,neutral,-0.07280126214027405
+2007-03-01,"Oracle is near a deal to acquire Hyperion Solutions, which makes business analysis software, for about $3 billion.",neutral,0.08802110701799393
+2007-03-01,Oracle Deal for Hyperion Is Expected,neutral,0.040366172790527344
+2007-03-01," Oracle said Thursday it would buy Hyperion Solutions, which makes software that allows corporations to analyze and track their performance, for $3.3 billion in cash.",neutral,0.22577066719532013
+2007-03-01,"The deal would be the latest trophy in a lengthy string of acquisitions for the database software giant, which has been struggling to grow from within.",neutral,0.4494349956512451
+2007-03-01,Oracle to Buy Hyperion for $3.3 Billion,neutral,0.030940499156713486
+2007-03-02,"The database software said it would buy Hyperion, which makes business analysis software, for $3.3 billion.",neutral,0.08138176798820496
+2007-03-02,Oracle Acquires Hyperion Solutions,neutral,0.048281099647283554
+2007-03-12,"Warren E. Buffett, dubbed the Oracle of Omaha for his savvy investments in publicly-traded companies, may be facing some competition from buyout shops.",negative,-0.39839738607406616
+2007-03-12,"BusinessWeek notes that private equity firms, with their coffers bulging with unprecedented amounts of cash, are taking minority stakes in public companies.",neutral,0.0926399901509285
+2007-03-12,"And, the magazine says, their involvement is causing the halo effect usually reserved for the likes of Mr. Buffett, signaling that there may be a new player to mimic in the market.",neutral,0.23344933986663818
+2007-03-12,Is Private Equity the Next Oracle of Omaha?,neutral,0.001879468560218811
+2007-03-13,"Oracle‘s $3.3 billion acquisition of Hyperion Solutions, announced March 1, is turning out to be a very sweet deal for some company insiders.",neutral,0.4464471638202667
+2007-03-13,"The announcement that Oracle would pay $52 dollar a share for the Santa Clara-based maker of business intelligence software, a big premium over the $42.84 the stock had closed at the previous day, caused Hyperion’s stock to jump 20.4 percent to $51.57 by the close of the market.",positive,0.8727235198020935
+2007-03-13,Timing Is Everything for Hyperion Insiders,neutral,0.01946042850613594
+2007-03-21,Lawrence J. Ellison’s three-year buying spree as chief executive of Oracle appears to be paying off.,positive,0.4787525534629822
+2007-03-21,Oracle Says Profit Rose 35% to Exceed Expectations,positive,0.9252926707267761
+2007-03-23,"Oracle has sued its rival SAP, accusing the big German software maker of intruding into its computer systems to carry out “corporate theft on a grand scale.”",negative,-0.9202996492385864
+2007-03-23,Oracle Says Rival Stole Its Software,negative,-0.8528425097465515
+2007-03-23,"The ferocious and long-running battle between Oracle and its German rival, SAP, for pole position in the business software industry took a turn for the courthouse Thursday.",negative,-0.4869897663593292
+2007-03-23,Oracle sued SAP accusing the world’s No.1 business software maker of intruding into its computer systems to carry out “corporate theft on a grand scale.”,negative,-0.9158947467803955
+2007-03-23,Oracle Says SAP Stole Its Software,negative,-0.8378448486328125
+2007-04-12,"Look out Bill Gates, here comes Carlos Slim Helu.",neutral,0.029697705060243607
+2007-04-12,"The Mexican telecoms mogul has breezed past Warren Buffett and is gaining on the Microsoft co-founder on the list of the world’s richest men, according to Forbes.",positive,0.4681868553161621
+2007-04-12,Mexican Midas Edges Out Oracle of Omaha on Forbes List,neutral,-0.022413820028305054
+2007-04-17,Who says venture capitalists have no sense of humor?,neutral,-0.32662150263786316
+2007-04-17,"Well, if anyone was saying it, a recent venture by Sequoia Capital would put the kibosh on that notion.",neutral,-0.04393445700407028
+2007-04-17,"The investment firm which has backed YouTube, Google, Yahoo, Oracle and Apple, among others, has partnered up up with funny man Will Ferrell and writer-director-producer Adam Mckay to launch FunnyOrDie.com, a comedy video site that began its beta release Thursday.",positive,0.5248825550079346
+2007-04-17,Sequoia Gets Its Kicks With Will Ferrell Web Site,neutral,0.03758424147963524
+2007-04-23,"In a deal that seems to have won only praise from analysts, Business Objects, a French-American software company, said it would acquire Cartesis for about $300 million in cash, bolstering its presence in financial enterprise software.",positive,0.9193442463874817
+2007-04-23,"Business Objects, which makes so-called business intelligence software, has felt pressure to cut a deal since Oracle bought a rival, Hyperion Solutions, for $3.3 billion last month.",negative,-0.943622887134552
+2007-04-23,Business Objects to Buy Cartesis for $300 Million,neutral,0.034026265144348145
+2007-04-24,Oracle is still hungry.,neutral,0.0482868030667305
+2007-04-24,"The database software giant, which has been making a steady stream of acquisitions as its organic growth has stalled, said Tuesday it would buy Lodestar, which makes software applications used by energy companies.",neutral,0.1001896858215332
+2007-04-24,Terms were not disclosed.,neutral,0.01439762394875288
+2007-04-24,Oracle to Buy Maker of Software for Utilities,neutral,0.04881174489855766
+2007-05-09,"The German software maker SAP said Tuesday that it had agreed to buy OutlookSoft, a planning, budgeting, forecasting, and consolidation software maker that competes with Oracle.",positive,0.8058708906173706
+2007-05-09,SAP Buys OutlookSoft to Advance in Battle Against Oracle,positive,0.6350895166397095
+2007-05-15,"In the latest crackdown on illicit pillow talk, the Securities and Exchange Commission on Monday accused a former Oracle vice president of improperly profiting from his wife’s knowledge about two deals engineered by her boss, Oracle’s chief executive, Lawrence J. Ellison.",negative,-0.9029973745346069
+2007-05-15,Another Couple’s Sweet Nothings Lead to Insider Trading Charges,negative,-0.5306587815284729
+2007-05-16,"The business software maker Oracle made yet another acquisition on Tuesday with a $495 million deal to buy Agile Software, which specializes in software that helps companies manage crucial products.",positive,0.6758766174316406
+2007-05-16,Oracle Buys Agile Software in Arms Race With SAP,neutral,0.27324268221855164
+2007-05-19,"Facing foot surgery, Harry Hurt III crisscrosses Manhattan in pursuit of a walking stick.",neutral,-0.1742595136165619
+2007-05-19,Walking Slowly and Carrying a Big Stick,neutral,0.05401121824979782
+2007-05-22,Agile Software had already seen two of its largest rivals snatched up before Oracle acquired it for $495 million.,neutral,0.0896473228931427
+2007-05-22,"The Agile deal brings Oracle head-to-head with SAP in the manufacturing-related ERP software arena, The 451 Group wrote in a report.",positive,0.8292765617370605
+2007-05-22,"Back in August, when Agile’s stock was in the low $5 range, The 451 Group said that it expected the company to be acquired.",neutral,0.04108854755759239
+2007-05-22,"Earlier this month, Oracle agreed to pay $8.10 a share for Agile.",neutral,0.3073977828025818
+2007-05-22,Behind Oracle’s Play for Agile,neutral,0.03432532399892807
+2007-06-05,"Big-ticket acquisitions by Cisco Systems, Oracle and a variety of buyout firms helped drive software mergers and acquisitions to record levels so far this year.",positive,0.8774888515472412
+2007-06-05,"An analyst firm, The 451 Group, takes a look at the nearly $28 billion in software deal activity in the first five months of 2007.",neutral,0.0012635737657546997
+2007-06-05,Software Deals Set Torrid Pace in 2007,negative,-0.8143453001976013
+2007-06-27,"The software company beat Wall Street’s projections as it claimed substantial gains over its rivals, SAP and I.B.M.",positive,0.883055567741394
+2007-06-27,Oracle Reports 23% Increase in Earnings,positive,0.8622647523880005
+2007-06-27,"The software company continued to ride its three-year buying spree, leading its executives to claim substantial gains over its competitors.",positive,0.9107732176780701
+2007-06-27,"Oracle’s Revenue Climbs 20%, Helped by Acquisitions",positive,0.9180163741111755
+2007-06-28,"For the social software side of Enterprise 2.0, there may be a short window of opportunity for M&A, according to the analyst firm The 451 Group, which takes a look at the potential buyers and sellers in the market for wiki and blogging software.",neutral,-0.012794796377420425
+2007-06-28,Among the potential acquisition targets named in the report are Six Apart and Atlassian Software Systems; 451 Group analyst Kathleen Reidy considers the software giant Oracle to be the most logical buyer of such assets.,neutral,0.12161292880773544
+2007-06-28,Will Blogging Software Firms Attract Buyers?,neutral,0.2273683100938797
+2007-06-28,"Oracle has its binge of acquisitions to thank for its better-than-expected quarterly profits and sales, according to the software company and some of the analysts who cover it.",positive,0.751345694065094
+2007-06-28,Oracle’s Deal Spree May Be Paying Off,neutral,0.3160632252693176
+2007-07-02,A new report from IDC shows Microsoft and Oracle giving new competition to the leaders in this rapidly growing market.,positive,0.7756925821304321
+2007-07-02,Business Intelligence Software Grows Up,neutral,0.15655528008937836
+2007-07-03,"NetSuite, the business software company controlled by the founder of Oracle, Larry Ellison, filed Monday with regulators to hold an initial public offering.",neutral,0.00794641487300396
+2007-07-03,The stock sale will use the auction-style process that Google employed in its closely watched offering three years ago.,neutral,0.036024995148181915
+2007-07-03,Ellison’s ‘Other Company’ Prepares for an I.P.O.,neutral,0.03461815416812897
+2007-07-03,What seemed like a petty dust up between SAP and Oracle may turn out to be a bigger fight now that the Justice Department is getting involved.,negative,-0.7864301800727844
+2007-07-03,Oracle Suit: More than a Stunt?,neutral,-0.11716745793819427
+2007-07-04,The German software company says an American subsidiary’s actions were “inappropriate” but contests a claim of espionage.,negative,-0.8064507246017456
+2007-07-04,SAP Admits Data Was Taken From Oracle,neutral,-0.0762815922498703
+2007-07-04,The company said a subsidiary had improperly obtained documents from its archrival Oracle but disputed the extent of the offense.,negative,-0.90901118516922
+2007-07-04,"SAP, German Software Giant, Admits to Illicit Downloads",negative,-0.7672085762023926
+2007-07-09,Coincidence or foresight?,neutral,-0.0946454256772995
+2007-07-09,A mysteriously prescient note about a wrestler’s wife’s death highlights the predictive possibilities of the Internet.,neutral,-0.038108959794044495
+2007-07-09,"In the Blink of a Byte, Future Becomes Past",neutral,0.051537126302719116
+2007-07-12,"DealBook slunk back to its table in The Inn after the noon break and was typing a few dreary items — and then suddenly heard an avuncular, folksy voice — the voice of God, only less scary, from the next table over.",neutral,-0.18509191274642944
+2007-07-12,"Sun Valley: The Oracle Speaks, Briefly",neutral,0.034014783799648285
+2007-08-29,"With news from Oracle, Nokia, Google and others.",neutral,0.06580185890197754
+2007-08-29,Quick Bits: A Slow Late-August Day,neutral,-0.34972500801086426
+2007-09-06,"Cognos, Canada’s biggest software company, said it planned to buy Applix, of Westborough, Mass., for $339 million to expand in financial performance management.",positive,0.6549224853515625
+2007-09-06,"The deal comes as many software companies, such as Oracle and Business Objects, have been making acquisitions to boost their performance-management offerings.",positive,0.900860607624054
+2007-09-06,Canada’s Cognos Snaps Up Applix,neutral,-0.07779215276241302
+2007-09-28,"Apple appointed Oracle‘s Daniel Cooperman on Friday as its new general counsel, less than a year after the company replaced its former top lawyer, who is embroiled in a federal investigation into her role in the backdating of stock options and awards at the company.",neutral,-0.03912918269634247
+2007-09-28,Apple Hires Oracle Lawyer as General Counsel,neutral,0.019822878763079643
+2007-10-08,"The move to buy Business Objects underlines the appeal of software that can cull through data to help companies cut costs, spot sales opportunities and outwit rivals.",positive,0.5584068298339844
+2007-10-08,SAP to Buy Maker of Business Software,neutral,0.03367213159799576
+2007-10-12,"Oracle’s unsolicited bid for the software maker, announced today, comes amid mounting competition from SAP of Germany and Microsoft.",positive,0.42530331015586853
+2007-10-12,BEA Says $6.66 Billion Bid by Oracle Is Too Low,negative,-0.8810313940048218
+2007-10-12,"Oracle said Friday it had bid $17 a share to acquire BEA Systems, a business-software maker that Carl Icahn has been urging to sell itself.",neutral,0.40754494071006775
+2007-10-12,"In a news release, Oracle said its bid was “the culmination of repeated conversations with BEA’s management over the last several years,” adding that “we look forward to completing a friendly transaction as soon as possible.”",positive,0.8114622235298157
+2007-10-12,Ellison Just Keeps Acquiring,neutral,-0.005741670727729797
+2007-10-12,"When Oracle offered $6.7 billion for BEA Systems on Friday, one of the Street’s longest-running rumors finally turned into fact.",neutral,0.09012548625469208
+2007-10-12,"For BEA, Years of Rumors Become Reality",neutral,-0.16273930668830872
+2007-10-12,"Oracle‘s latest acquisition target, BEA Systems, is hardly rushing into its suitor’s arms.",neutral,0.02511037141084671
+2007-10-12,BEA Systems Says Oracle Bid Is Too Low,negative,-0.8261219263076782
+2007-10-13,"BEA Systems, an Oracle rival in the market for corporate software known as middleware, is being pressured to sell by its largest shareholder, the investor Carl C. Icahn.",negative,-0.9449785351753235
+2007-10-13,"Oracle Bids $6.7 Billion for Rival BEA, Whose Officers Say It’s Worth More",neutral,0.15072891116142273
+2007-10-15,"The last time Oracle made an unsolicited bid for a company, the chief executive of the target firm, PeopleSoft, compared Lawrence J. Ellison to Genghis Khan and called his team a bunch of sociopaths.",negative,-0.7503314018249512
+2007-10-15,"BEA’s Oracle Response Is Business, Not Personal",neutral,0.005987633019685745
+2007-10-16,"Investors may be betting that BEA Systems will land a higher bid than the one offered by Oracle last week, but several Wall Street analysts have their doubts.",positive,0.46936291456222534
+2007-10-16,"Three brokers removed their buy ratings from BEA Systems on Monday, cutting the stock to the equivalent of neutral.",negative,-0.954042375087738
+2007-10-16,"Bidding War for BEA Doubtful, Analysts Say",neutral,0.40292996168136597
+2007-10-23,"Oracle is raising the pressure on its would-be acquisition target, BEA Systems.",positive,0.42318540811538696
+2007-10-23,Oracle Sets Sunday Deadline for BEA Bid,neutral,-0.07450193911790848
+2007-10-24,Breakingviews has outlined the many reasons it believes Oracle is bluffing in its move to pressure BEA Systems into accepting accept its $6.7 billion bid.,negative,-0.7321537733078003
+2007-10-24,Is Oracle’s BEA Deadline a Bluff?,negative,-0.5872095227241516
+2007-10-26,"Oracle rejected as “impossibly high” BEA’s offer to be acquired for about $8.2 billion, just two weeks after BEA refused Oracle’s $6.7 billion offer for the company.",negative,-0.8544108271598816
+2007-10-26,"With Oracle in Pursuit, the Quarry Sets Its Price",neutral,0.02796906977891922
+2007-10-26,"For $21 a share, BEA Systems says it is ready to sell.",neutral,0.1352664828300476
+2007-10-26,"Oracle Scoffs at BEA’s Price, but for How Long?",negative,-0.887586772441864
+2007-10-28,"The billionaire investor Carl C. Icahn has sued BEA Systems, demanding that the company hold an annual meeting and permit shareholders to vote on a sale.",negative,-0.8744213581085205
+2007-10-28,Icahn Sues Software Maker Seeking Vote on Offer,negative,-0.8324193954467773
+2007-10-29,"A preliminary proxy filing for SAP‘s $5.7 billion acquisition of Business Objects, a French software firm, reveals that two other bidders had stepped forward.",neutral,0.19008493423461914
+2007-10-29,"Oracle, I.B.M.",neutral,0.021050816401839256
+2007-10-29,Said to Have Bid for Business Objects,neutral,0.02969791740179062
+2007-10-29,"Oracle withdrew a $6.7 billion bid for the business software maker BEA Systems on Sunday, setting the stage for a proxy battle between the activist investor Carl Icahn and the BEA board.",negative,-0.9328773021697998
+2007-10-29,Oracle Lets BEA Bid Expire,neutral,0.015791621059179306
+2007-10-30,"After allowing Oracle’s buyout offer to expire on Sunday, BEA Systems defended its inaction in a letter to its largest shareholder, Carl C. Icahn, saying the offer was simply too low.",negative,-0.9088835716247559
+2007-10-30,BEA Defends Its Rebuff of the Takeover Attempt by Oracle,neutral,-0.17728254199028015
+2007-10-30,BEA Systems defended itself Monday in the face of mounting pressure to strike a deal to sell the company after it allowed Oracle‘s buyout offer to expire Sunday night.,negative,-0.9129889607429504
+2007-10-30,BEA Defends Its Rebuff of the Takeover Attempt by Oracle,neutral,-0.17728254199028015
+2007-11-01,Will OpenSocial make Facebook sweat?,negative,-0.3588154911994934
+2007-11-01,The Great Facebook Team-Up?,neutral,0.123938649892807
+2007-11-10,Some firms hire consultants to help them lay off staff; five predictors of success in a career; Nasdaq offers help to firms looking for board members and more.,neutral,0.09355513006448746
+2007-11-10,Letting a Stranger Do the Firing,neutral,-0.14777064323425293
+2007-11-15,Oracle Chief Executive Larry Ellison seems to be enjoying the catbird seat.,neutral,0.0557754784822464
+2007-11-15,Ellison Says New Bid for BEA Would Be Below $17 Per Share,negative,-0.4546884000301361
+2007-11-16,"The software-maker BEA Systems reported increases in net income and revenue, stoking its arguments that Oracle’s takeover offer is too low.",positive,0.9184202551841736
+2007-11-16,BEA Tries to Prove Its Worth to Oracle,neutral,0.18459175527095795
+2007-11-16,BEA Systems has been hoping to prove it is worth more than the $6.7 billion that Oracle offered to pay for it last month.,positive,0.7228206396102905
+2007-11-16,BEA Tries to Prove Its Worth to Oracle,neutral,0.18459175527095795
+2007-11-20,"The software maker SAP said Monday that it might sell its TomorrowNow business following an announcement that senior managers at the unit, which has embroiled the company in a legal dispute with a rival, Oracle, had resigned.",negative,-0.9093484282493591
+2007-11-20,SAP May Sell Unit as Senior Managers Resign,neutral,-0.002184281125664711
+2007-12-03,Don’t count on Warren E. Buffett’s purchase of TXU bonds from Goldman Sachs as a sign of confidence in the high-yield debt market.,positive,0.6044552326202393
+2007-12-03,The Oracle of Omaha himself doesn’t see it that way.,neutral,-0.1026792824268341
+2007-12-03,What Buffett’s TXU Play Doesn’t Mean,neutral,-0.082802414894104
+2007-12-17,What does BEA Systems‘s rejection of Oracle‘s takeover bid have to do with backdated stock options?,negative,-0.5173349380493164
+2007-12-17,Oracle Bid Adds New Element to BEA Backdating Suit,neutral,0.20089615881443024
+2007-12-18,"If all goes well, Evan Goldberg will have come a long way from the overcrowded Silicon Valley apartment that served as NetSuite’s first office nearly 10 years ago.",neutral,-0.03143439441919327
+2007-12-18,Going Public Caps Dream for a Maker of Software,neutral,0.08237272500991821
+2007-12-19,The business software company surpassed Wall Street’s projections as the company reported a sharp rise in new software licenses.,positive,0.8922255635261536
+2007-12-19,New Business Helps Oracle to a Strong Quarter,positive,0.9117812514305115
+2007-12-19,"Microsoft, Oracle, I.B.M.",neutral,0.0035173483192920685
+2007-12-19,and a host of private equity firms helped drive technology mergers and acquisitions to a fourth consecutive record year in 2007.,positive,0.7386305332183838
+2007-12-19,"The introduction to The 451 Group’s Technology M&A Outlook report lists the year’s significant deals, identifies M&A drivers and looks at the outlook for 2008.",neutral,0.04041373357176781
+2007-12-19,The Year in Technology M&A,neutral,0.09022485464811325
+2007-12-20,"The business software firm recorded some of its sharpest quarterly growth in a decade, easing fears it would be bruised by the mortgage crisis.",positive,0.6771903038024902
+2007-12-20,Oracle Beats Wall Street’s Expectations for Quarter,positive,0.4104461669921875
+2007-12-27,"The software maker NetSuite and its investors sold an additional 930,000 shares.",neutral,0.049489401280879974
+2007-12-27,"The stock, which had risen 49 percent since going public Dec. 20, fell back 6.6 percent.",negative,-0.8929206132888794
+2007-12-27,More NetSuite Sold,neutral,0.03745280206203461
+2008-01-16,"Just three months after BEA handily rejected its original unsolicited bid, Oracle said it would acquire BEA Systems for $8.5 billion.",neutral,0.12673266232013702
+2008-01-16,"Oracle, Sweetening Terms, Buys BEA",neutral,0.2185511291027069
+2008-01-16,"Oracle said Wednesday that it would finally acquire BEA Systems, an enterprise software maker, for about $8.5 billion in cash.",neutral,0.45081496238708496
+2008-01-16,BEA Accepts $8.5 Billion Bid From Oracle,positive,0.7593976259231567
+2008-01-17,"Oracle has finally won its prize, the rival BEA Systems, after sweetening the offer by 14 percent, just three months after BEA rejected its original bid.",positive,0.8976303935050964
+2008-01-17,An Improved Offer by Oracle Captures BEA Systems,positive,0.8712284564971924
+2008-01-17,Carl C. Icahn seemed pleased with himself Tuesday after BEA Systems agreed to a sweetened offer from Oracle.,positive,0.8592552542686462
+2008-01-17,"After BEA Deal, Icahn Pats Himself on the Back",negative,-0.4184327721595764
+2008-01-17,"With deals for open-source software companies heating up, The 451 Group asks whether Oracle, IBM, Novell and other acquirers will push the level of open-source mergers and acquisitions to another record in 2008.",positive,0.7518911361694336
+2008-01-17,The Outlook for Open Source Deal-Making,neutral,0.05775919556617737
+2008-02-07,It turns out that price wasn’t the only thing that Oracle and BEA Systems were far apart on as they haggled over what would eventually become an $8.4 billion takeover deal.,negative,-0.6381990313529968
+2008-02-07,BEA Backstory: The Break-Up Fee,neutral,0.0019462071359157562
+2008-02-13,Analysts and industry observers appeared split on whether a rumor that Salesforce.com has approached Oracle about an $8.9 billion deal to sell itself to Larry Ellison’s firm may become a reality.,negative,-0.7918887138366699
+2008-02-13,Speculation in the Valley: Oracle’s Next Big Deal?,neutral,0.06283532083034515
+2008-02-28,Oracle announced Wednesday it had received a green light from regulators to move forward on its merger plans with BEA Systems.,positive,0.8620216846466064
+2008-02-28,Oracle Gets Regulatory Nod for BEA Deal,positive,0.5567465424537659
+2008-03-11,"In Silicon Valley, where entrepreneurialism is a religion, people have long taken a dim view of acquisitions.",negative,-0.655855655670166
+2008-03-11,Hostility Has Its Rewards,neutral,0.06625920534133911
+2008-03-24,"COMPANY REPORTS It is a light week for earnings, with reports coming from Tiffany and Walgreen (Monday); SAIC (Tuesday); Oracle (Wednesday); the Apollo Group, ConAgra Foods, Lennar and Red Hat (Thursday); and KB Home (Friday).",positive,0.5749228596687317
+2008-03-24,The Week’s Major Economic Reports,neutral,-0.22626769542694092
+2008-03-27,"The business software company reported a 30 percent rise in quarterly profit, but a lower-than-expected increase in new software licenses caused shares to fall in after-hours trading.",negative,-0.914503812789917
+2008-03-27,"Oracle’s Profit Rises, but Shares Fall",negative,-0.8013660311698914
+2008-03-27,"The business software company reported a 30 percent rise in quarterly profit, but a lower-than-expected increase in new software licenses caused shares to fall in after-hours trading.",negative,-0.914503812789917
+2008-03-27,"Oracle Sales Fall Short, but Profit Is Up 30%",positive,0.7610906362533569
+2008-04-03,"Oracle sold $5 billion of bonds Wednesday, in what was the biggest corporate bond sale since January, according to Dealogic.",neutral,0.4027615189552307
+2008-04-03,The proceeds will help fund the software giant’s pending acquisition of BEA Systems.,neutral,0.19146662950515747
+2008-04-03,Oracle Raises $5 Billion in Bond Sale,positive,0.5079318284988403
+2008-04-06,"When leaders of a health care business and a coffin maker rang the opening bell at the NYSE last week, traders may have wondered if it was an April Fool’s prank.",negative,-0.6970666646957397
+2008-04-06,Life and Death at the Opening Bell,neutral,0.049263935536146164
+2008-04-07,Shareholders of BEA Systems approved the company’s acquisition by Oracle at a special meeting Friday.,positive,0.6983847618103027
+2008-04-07,BEA Shareholders Green-Light Oracle Deal,neutral,0.1427941918373108
+2008-05-21,An analyst who heard scoffing when he predicted $100-a-barrel oil now expects the price to reach $200.,negative,-0.853706419467926
+2008-05-21,An Oracle of Oil Predicts $200-a-Barrel Crude,neutral,-0.05490361154079437
+2008-05-21,Goldman Sachs‘s Arjun N. Murti remembers the pain of the oil shocks of the 1970s.,neutral,-0.15452805161476135
+2008-05-21,But he is bracing for something far worse now: He foresees a “super spike” – a price surge that will soon drive crude oil to $200 a barrel.,negative,-0.7390568852424622
+2008-05-21,An Oracle of Oil Predicts $200-a-Barrel Crude,neutral,-0.05490361154079437
+2008-05-22,Sun Microsystems‘ acquisition of MySQL gave it a chunk of the huge enterprise database market.,positive,0.5070810317993164
+2008-05-22,"The 451 Group takes a look at how Oracle, IBM and Microsoft might respond with more deal activity of their own.",neutral,0.08417494595050812
+2008-05-22,More Deals for Enterprise Database Companies?,neutral,0.0864124447107315
+2008-06-26,"Oracle sounded a warning bell that growth was likely to slow in the first quarter as the company absorbed its latest major acquisition, BEA Systems.",negative,-0.9615718722343445
+2008-06-26,Strong Sales of Software Lift Oracle’s Net Income,positive,0.9223970770835876
+2008-08-11,"Even Warren E. Buffett, dubbed the Oracle of Omaha, is feeling the pain.",negative,-0.7061392068862915
+2008-08-11,Buffett Reports Further Dip in Profit,negative,-0.8676595687866211
+2008-08-30,Two billionaires are fighting over whether the rules for the next America’s Cup disqualify a $10 million yacht.,negative,-0.8985786437988281
+2008-08-30,Billionaires’ Yacht Rivalry Spills Into Courtroom,neutral,-0.11153589189052582
+2008-09-02,"Godfrey Sullivan, former chief executive of Hyperion Solutions, has joined Splunk, a San Francisco start-up that makes a type of data analysis software, as chief executive.",neutral,0.03259875625371933
+2008-09-02,Godfrey Sullivan Takes Up Splunking,neutral,-0.1631084382534027
+2008-09-02,"Oracle announced Tuesday that it is buying ClearApp, an enterprise software maker, for an undisclosed price.",neutral,0.03942880779504776
+2008-09-02,"It’s the first challenger for Oracle’s new chief financial officer, Jeff Epstein, who was hired last week.",neutral,0.038736194372177124
+2008-09-02,The Oracle Acquisition Machine Swallows ClearApp,neutral,0.02995382994413376
+2008-09-18,The strong growth reported by the world’s second largest software company comes despite a tough economic environment.,positive,0.9292862415313721
+2008-09-18,Oracle Shrugs Off Turmoil in the Financial Markets,negative,-0.5771622657775879
+2008-09-23,Oracle makes its third attempt to go after Microsoft’s collaboration software with a new suite called Beehive.,neutral,0.25997936725616455
+2008-09-23,Oracle’s Homegrown Push to Out-Collaborate Microsoft,neutral,0.050580963492393494
+2008-09-25,"Oracle has teamed with Hewlett-Packard, rather than traditional partners Sun and Dell, on new data warehousing hardware.",positive,0.7878606915473938
+2008-09-25,Oracle Embraces H.P.,neutral,0.37377357482910156
+2008-09-25,in ‘Hardware’ Push,neutral,-0.08404020965099335
+2008-10-07,Warren E. Buffett is no fan of investment bankers.,neutral,-0.11389598250389099
+2008-10-07,"But when one Goldman Sachs executive calls, the Oracle of Omaha pays attention.",neutral,-0.05488405004143715
+2008-10-07,"When This Banker Talks, Even Buffett Listens",neutral,0.023878758773207664
+2008-10-09,"SAP may have a crack at the budding data warehouse market through an acquisition of Teradata, according to one Wall Street analyst.",positive,0.7205629348754883
+2008-10-09,Is SAP Data Warehouse Hunting?,neutral,-0.126045823097229
+2008-11-03,"As the customer relationship management industry heads into what may be a second round of consolidation, The 451 Group speculates that privately held InQuira could become a tempting takeover target.",neutral,0.22355139255523682
+2008-11-03,A Tempting Target for Oracle?,neutral,-0.0010125041007995605
+2008-12-18,The software maker is showing the effects of the troubled economy and the stronger dollar as it reported a 1 percent drop in net income.,negative,-0.9610722064971924
+2008-12-18,"Despite a Flat Quarter, Oracle Meets Expectations",positive,0.8887182474136353
+2008-12-28,"Hewlett-Packard has a tiny presence in the data warehousing business dominated by Teradata, I.B.M., Oracle and Microsoft, but is hoping to change the equation.",neutral,0.21878406405448914
+2008-12-28,A Page From an Old Playbook,neutral,-0.14972269535064697
+2009-02-17,"As the financial turmoil has reduced the price-tag for many companies, Oracle has been taking advantage of its cash-rich position to go on a major buying spree, The Wall Street Journal reported.",positive,0.5848009586334229
+2009-02-17,Oracle Goes Bargain-Hunting,neutral,-0.0012098103761672974
+2009-02-28,DealBook’s Andrew Ross Sorkin and a pool of other reporters are taking questions for Berkshire Hathaway’s Warren Buffett.,neutral,-0.031379878520965576
+2009-02-28,We’ll pick a few to ask the Oracle of Omaha — send them to us via e-mail or leave them in the comments.,neutral,-0.007822403684258461
+2009-02-28,Ask Warren Buffett a Question,neutral,-0.11219363659620285
+2009-03-17,"Cloudera, a new start-up company, will try to bring Hadoop’s analytical capabilities to industries as far afield as genomics, retailing and finance.",positive,0.7265598177909851
+2009-03-17,"Hadoop, a Free Software Program, Finds Uses Beyond Search",neutral,0.037430889904499054
+2009-03-18,"The investor, known for piquant and unsparing criticism of his own performance, has not spoken much on the Moody’s credit rating agency, of which he owns a 20 percent stake.",neutral,-0.18852831423282623
+2009-03-18,Buffett Is Unusually Silent on Rating Agencies,neutral,-0.2770240306854248
+2009-03-26,"Li Ka-Shing refuses to say whether the stock markets have bottomed out, though, and he advises against borrowing to invest.",negative,-0.8009724020957947
+2009-03-26,Hong Kong Billionaire Says It’s Time to Buy,neutral,0.09519723802804947
+2009-03-27,The oracle of Hong Kong has spoken.,neutral,0.016638975590467453
+2009-03-27,And his message: it’s time to consider buying stocks and real estate.,neutral,0.14289163053035736
+2009-03-27,Hong Kong Billionaire Says It’s Time to Buy,neutral,0.09519723802804947
+2009-04-20,Update | 8:38 a.m.,neutral,0.053341567516326904
+2009-04-20,The New York Times’s Ashlee Vance has more on the Oracle-Sun deal here.,neutral,0.03910430148243904
+2009-04-20,Oracle to Buy Sun for $7.4 Billion,neutral,0.031051432713866234
+2009-04-20,Oracle’s bid of $7.4 billion for Sun promises to make Oracle a more formidable competitor in the lucrative market for corporate computing.,positive,0.8776655793190002
+2009-04-20,"In Sun, Oracle Sees a Software Gem",neutral,-0.0016704928129911423
+2009-04-20,Oracle’s acquisition of Sun is the latest in a consolidation drive that is pressuring smaller firms in the computer industry to find buyers.,positive,0.6150118708610535
+2009-04-20,"Cash in Hand, Technology Giants Go Shopping",neutral,0.07698436826467514
+2009-04-20,"How badly does Oracle, a leader in business software, want to be the one-stop shop for corporate technology purchases?",neutral,-0.22846418619155884
+2009-04-20,Enough to spend $7.4 billion to buy an ailing Sun Microsystems and enter the computer hardware business.,neutral,0.11541738361120224
+2009-04-20,"Cash in Hand, Technology Giants Go Shopping",neutral,0.07698436826467514
+2009-04-21,"Kohlberg Kravis Roberts looks set to make its money back on a two-year-old investment in the debt of Sun Microsystems after the technology company agreed to a $7.4 billion deal to be acquired by Oracle, according to press reports.",neutral,0.39089104533195496
+2009-04-21,K.K.R.,neutral,0.06834582984447479
+2009-04-21,Said to Recoup Money on Sun Deal,neutral,0.0445653535425663
+2009-04-21,"In its acquisition of Sun Microsystems, Oracle sees a technology company that is a software gem, skillful in computer design and ripe for cost-cutting, The New York Times’s Steve Lohr writes.",positive,0.7198207378387451
+2009-04-21,"In Sun, Oracle Sees a Software Gem",neutral,-0.0016704928129911423
+2009-04-23,The biggest thing in mergers and acquisitions this month is Oracle’s $7.4 billion deal for Sun Microsystems.,neutral,0.19671742618083954
+2009-04-23,"So, I was happy to see that Sun filed its agreement to be acquired by Oracle on Monday evening rather than waiting the full four business days allowed under the Securities and Exchange Commission’s Form 8-K rules.",neutral,0.20521347224712372
+2009-04-23,"I would like to think they did so out of solicitude for Sun shareholders, but more likely it was done in order to notify any other third-party bidders of the deal protection devices that were included.",neutral,0.0758301243185997
+2009-04-23,Examining the Terms of the Sun-Oracle Deal,neutral,0.04035190865397453
+2009-04-28,The company reported results that pointed to the impact the global recession has had on the already struggling server computer maker.,positive,0.0683036744594574
+2009-04-28,Revenue and Profits Plunge at Sun Microsystems,negative,-0.9622806310653687
+2009-04-29,"As Oracle prepares to acquire Sun Microsystems, it is learning how the company it will buy has been battered by the recession and a hefty cost structure.",negative,-0.9161618947982788
+2009-04-29,"As Oracle Deal Nears, Sun Profits Plummet",negative,-0.9611783027648926
+2009-05-08,"Oracle Chief Executive Larry Ellison said he would not sell off the hardware business of Sun Microsystems, dispelling speculation that he only wanted the company for its software units, Reuters has reported.",neutral,-0.22912433743476868
+2009-05-08,Oracle Won’t Divest Sun’s Hardware Business,neutral,-0.19405727088451385
+2009-05-11,"Sun Microsystems is being sued by shareholders seeking to block its $7.4 billion deal to be acquired by Oracle, the company revealed in a filing with the Securities and Exchange Commission Friday.",negative,-0.9286131262779236
+2009-05-11,Sun Shareholders Sue to Block Oracle Deal,negative,-0.8828847408294678
+2009-05-12,"Sun Microsystems offered some new details about the wrangling before last month’s deal with Oracle, describing back-and-forth talks with I.B.M.",neutral,0.04929739236831665
+2009-05-12,and a mystery suitor called Party B.,neutral,-0.23482805490493774
+2009-05-12,Sun’s Deal Saga and the Mystery Suitor,neutral,-0.0019217468798160553
+2009-05-12,Sun Microsystems has offered up some new details about the wrangling before last month’s $7.4 billion deal with Oracle.,neutral,0.04795046150684357
+2009-05-12,Sun’s Deal Saga and the Mystery Suitor,neutral,-0.0019217468798160553
+2009-05-18,"Oracle’s deal for Sun raises questions about the future of MySQL, but The 451 Group argues that the open-source database business is more valuable alive than dead to the software giant.",negative,-0.45426374673843384
+2009-05-18,What Will Oracle Do With MySQL?,neutral,-0.006921019405126572
+2009-05-22,"Virtual Iron lost more than $15 million last year, according to financial documents obtained by The Times.",negative,-0.6868712306022644
+2009-05-22,"With Virtual Iron, Oracle Bought a Big Loss",neutral,0.10365855693817139
+2009-05-26,"The Bits blog takes a closer look at Oracle’s recent deal for Virtual Iron, a maker of virtualization software that appears to have been losing money.",neutral,0.07340717315673828
+2009-05-26,"With Virtual Iron, Oracle Bought a Big Loss",neutral,0.10365855693817139
+2009-06-15,"Sun Microsystems has canceled its Rock chip project after years of funding and toil, according to two people briefed on the matter.",negative,-0.9063352942466736
+2009-06-15,Sun Is Said to Cancel Big Chip Project,negative,-0.39994126558303833
+2009-06-30,"Oracle, the software giant, made no high-profile purchases in fiscal 2009, but still managed to quietly spend $1.2 billion buying other companies and assets during the period, MarketWatch reported.",neutral,0.18671657145023346
+2009-06-30,Hard Times Didn’t Stop Oracle’s Buying Spree,negative,-0.4548051953315735
+2009-07-03,"A Chinese businessman mentioned a Chinese company ahead of a meeting with Warren Buffett, and watched the shares soar.",neutral,0.42518067359924316
+2009-07-03,Winner of Lunch With Warren Buffett Gets a Windfall,neutral,0.07283801585435867
+2009-07-11,A would-be economic seer finds that there is more to forecasting the end of the recession than first meets the eye.,negative,-0.6990075707435608
+2009-07-11,There’s No Future in Being an Oracle,neutral,-0.13905766606330872
+2009-07-23,"Shares of Moody’s slumped Thursday after Berkshire Hathaway, run by the legendary investor Warren Buffett, reported that it had lowered its stake in the credit-rating agency.",negative,-0.9652143120765686
+2009-07-23,Buffett Trims Stake in Moody’s,neutral,-0.2701374888420105
+2009-07-31,"Lifted by its role in selling Sun Microsystems to Oracle, Credit Suisse was the top adviser in technology deals in the first half of the year, according to a ranking by The 451 Group.",positive,0.8780227899551392
+2009-07-31,Credit Suisse Tops Tech-Deal Ranking,positive,0.5883322358131409
+2009-08-04,"The European Commission has set a Sept. 3 deadline to decide whether or not to clear the planned $5.6 billion merger of Oracle and Sun Microsystems, MarketWatch reported.",neutral,-0.05412029102444649
+2009-08-04,E.U.,neutral,0.04360159859061241
+2009-08-04,Said to Set Deadline for Oracle-Sun Decision,neutral,0.05205906182527542
+2009-08-09,The German software giant is focused on its core business and says expanding into hardware would pose challenges.,neutral,-0.2655472755432129
+2009-08-09,"As Rivals Branch Out, SAP Is Sticking to Software",neutral,0.22980815172195435
+2009-08-21,Oracle said Thursday it has received the Justice Department’s approval to move forward with its $7.4 billion acquisition of former dot-com-era star Sun Microsystems.,positive,0.8529069423675537
+2009-08-21,Oracle Says Justice Approves $7.4 Billion Sun Deal,positive,0.6749580502510071
+2009-09-04,"Europeans are concerned that the combination could squelch the growth of a popular, free corporate database program owned by Sun.",negative,-0.9147905111312866
+2009-09-04,New Snag for Oracle in Sun Deal,neutral,0.32034364342689514
+2009-09-04,"European regulators delayed the proposed takeover of Sun Microsystems by the software company Oracle on Thursday, indicating that the combination could squelch the growth of a popular, free corporate database program owned by Sun.",negative,-0.9155689477920532
+2009-09-04,New Snag for Oracle in Sun Deal,neutral,0.32034364342689514
+2009-09-08,"After boldly buying when so many were selling assets, Warren E. Buffett’s Berkshire Hathaway, is pulling back.",negative,-0.8791710734367371
+2009-09-08,He offered a few aphorisms to The New York Times.,neutral,-0.04200324788689613
+2009-09-08,Warren Buffett Recalculates His Bets,neutral,0.0498223602771759
+2009-09-17,"After spending the day zigzagging in a tight range, shares on all three markets closed slightly lower after three days of higher closes.",negative,-0.951500654220581
+2009-09-17,"After an 11-Month High, Markets Take a Breather",neutral,0.14691410958766937
+2009-09-18,"Stocks fell slightly Thursday, pulling benchmark indexes down from 11-month highs on concern the rally outpaced prospects for earnings growth as FedEx and Oracle reported sales that missed analysts’ estimates.",negative,-0.9601556658744812
+2009-09-18,"After an 11-Month High, Markets Take a Breather",neutral,0.14691410958766937
+2009-09-22,Oracle Chief Executive Larry Ellison said Sun Microsystems is losing about $100 million a month as European regulators delay approving his company’s $7 billion purchase of the struggling hardware maker.,negative,-0.9610609412193298
+2009-09-22,Sun Losing $100 Million a Month Awaiting Deal Approval,negative,-0.7444759011268616
+2009-10-20,The jobs are to be eliminated over the next year as Sun awaits a takeover by Oracle.,negative,-0.9491786360740662
+2009-10-20,Sun to Cut 10 Percent of Its Workers,negative,-0.9231141805648804
+2009-10-21,"Sun Microsystems, waiting for European regulators to approve its acquisition by Oracle, plans to cut as many as 3,000 jobs, or about 10 percent of the work force, to pare expenses over the next 12 months.",negative,-0.9554808139801025
+2009-10-21,"Awaiting Green Light for Deal, Sun Cuts Jobs",neutral,-0.2584913372993469
+2009-10-22,The Deal Professor looks at the problems Oracle is having in Europe with its acquisition of Sun Microsystems and why this is a time when the regulatory covenants section of an acquisition agreement matter.,neutral,-0.01474238932132721
+2009-10-22,Weak Points of Sun Deal Come Out in Europe,negative,-0.762020468711853
+2009-11-05,"If Oracle decides to walk away from its $7.4 billion bid to buy Sun Microsystems, it may be no big deal for Oracle, but it could end up being a big problem for Sun, Forbes writes.",negative,-0.8928388357162476
+2009-11-05,And What If Oracle Drops Sun Deal?,negative,-0.5347752571105957
+2009-11-05,The European Commission must decide in the coming days whether or not to issue formal charges against Oracle’s $7.4 billion offer to acquire Sun Microsystems — and neither of its options looks appealing.,negative,-0.8174282908439636
+2009-11-05,E.U.,neutral,0.04360159859061241
+2009-11-05,Faces Tricky Decision on Oracle Deal,negative,-0.6982930302619934
+2009-11-09,"The Justice Department said the deal would not be anticompetitive, a statement that disagreed with the European Union’s position.",negative,-0.8899962306022644
+2009-11-09,U.S. and Europe Disagree on Sun-Oracle Deal,negative,-0.8857977986335754
+2009-11-10,"While American technology companies often say European regulators know little about technology, the Europeans cast the Americans as bullies.",negative,-0.7662922143936157
+2009-11-10,Cultural Bent Hangs Over Oracle’s Battle for Sun,neutral,0.025305412709712982
+2009-11-10,"Oracle may be about to get a taste of its own medicine, after lobbying the European Union to force one of its biggest competitors, Microsoft, to loosen its iron-like grip on software code and other intellectual property.",negative,-0.6111647486686707
+2009-11-10,Europe’s Challenge to Oracle Deal Has Deep Roots,neutral,0.018091723322868347
+2009-11-20,European Union regulators said Friday that they have extended until Jan. 27 a deadline to wrap up their antitrust review of Oracle’s planned $7.4 billion takeover of Sun Microsystems.,negative,-0.7210297584533691
+2009-11-20,E.U.,neutral,0.04360159859061241
+2009-11-20,Takes More Time to Review Oracle-Sun Deal,neutral,0.005932563915848732
+2009-11-30,European Commission reaction to Oracle’s acquisition of Sun Microsystems has stoked a tricky debate: Can open-source software live up to its populist traditions?,neutral,-0.02394566684961319
+2009-11-30,Open Source as a Model for Business Is Elusive,neutral,0.034057117998600006
+2009-12-01,"Another View: Bill George, a Harvard business professor and the author of “7 Lessons for Leading in Crisis,” puts forth some proposals to revive employment growth in a declining job market.",neutral,0.4402466416358948
+2009-12-01,Another View: Innovation Can Unlock Job Growth,positive,0.7546730041503906
+2009-12-10,The European Union’s top antitrust official said Wednesday she was ”still optimistic” that regulators could resolve a bitter dispute over an EU investigation into Oracle’s planned takeover of Sun Microsystems.,negative,-0.07664111256599426
+2009-12-10,European Regulator Optimistic About Oracle Resolution,positive,0.5396792888641357
+2009-12-14,"Oracle’s planned $7.4 billion acquisition of Sun Microsystems appeared to be gaining favor in Europe, after the company said it would to continue investing in Sun’s competing database software, to assuage antitrust regulators.",positive,0.8319916725158691
+2009-12-14,Oracle’s Sun Proposal Wins Favor in E.U.,positive,0.8643673658370972
+2009-12-15,Regulators in Europe were ready to clear the deal after Oracle promised that MySQL would continue to be free.,positive,0.4265561103820801
+2009-12-15,Oracle Makes Concessions in Sun Microsystems Bid,neutral,-0.021381013095378876
+2009-12-15,European regulators appeared ready on Monday to clear the way for Oracle’s $7.4 billion acquisition of Sun Microsystems after Oracle agreed to a series of concessions to allay antitrust concerns.,positive,0.38736236095428467
+2009-12-15,Oracle Makes Concessions in Sun Microsystems Bid,neutral,-0.021381013095378876
+2009-12-16,"Mergers and acquisitions languished in the technology sector this year, but bankers and corporate executives expect 2010 to be quite busy as technology companies seek to raise capital, divest noncore assets and acquire rivals.",neutral,0.030861318111419678
+2009-12-16,Tech M.&A.,neutral,0.07083290815353394
+2009-12-16,Expected to Rebound After Weak Year,positive,0.6355461478233337
+2009-12-18,"Oracle, reporting a 12.5 percent jump in profits in the last quarter, said that it expects the European Union will finally approve its $7.4 billion purchase of Sun Microsystems next month.",positive,0.8364245295524597
+2009-12-18,Oracle Expects Sun Deal Approval Next Month,neutral,0.21925096213817596
+2009-12-18,Nasdaq got a lift after Oracle and Research In Motion both beat analysts’ forecasts in earnings reports late Thursday.,positive,0.6667463183403015
+2009-12-18,"As Holiday Slowdown Nears, Markets Climb on a Choppy Day of Trading",negative,-0.8369541168212891
+2009-12-28,"In part one of his 2009 year in review, the Deal Professor examines the general trends of what he predicts will be a flatter deal-making landscape for some time to come.",neutral,0.052501779049634933
+2009-12-28,"The Deal Professor’s 2009 in Review, Part I: No Exit",neutral,0.011261619627475739
+2010-01-21,"Irene B. Rosenfeld, chief of Kraft Foods, is taking a chance by going against Warren E. Buffett’s objections to the Cadbury deal, Reuters Breakingviews says.",neutral,0.3244835436344147
+2010-01-21,Rosenfeld’s Gambit: Defying the Oracle,neutral,-0.04878329485654831
+2010-01-21,"Oracle Corp won unconditional European Union approval on Thursday for its $7 billion takeover of Sun Microsystems, a month after offering public pledges to sooth regulatory concerns.",positive,0.8938096165657043
+2010-01-21,Oracle Wins E.U.,positive,0.42446550726890564
+2010-01-21,Approval for Acquisition of Sun,neutral,0.06128985062241554
+2010-01-22,The approval of China and Russia is still needed for Oracle to complete its takeover of Sun Microsystems.,neutral,0.14974762499332428
+2010-01-22,Oracle’s Acquisition of Sun Wins Approval of Europeans,positive,0.8151739239692688
+2010-01-22,"Oracle’s co-president, Charles Phillips, acknowledges an affair after some unusual billboards featuring him appear in Times Square and elsewhere.",neutral,-0.37717026472091675
+2010-01-22,Oracle President Admits Affair After Billboards Appear,negative,-0.5163712501525879
+2010-01-27,"The $7.4 billion deal to acquire Sun Microsystems, which gives Oracle a vast hardware business for the first time, pits it against Hewlett-Packard, I.B.M., Dell and Cisco Systems.",positive,0.1867082715034485
+2010-01-27,"With Sun, Oracle Aims at Giants",neutral,0.24127702414989471
+2010-01-27,"Oracle, having spent the last nine months fighting rivals and regulators in order to own Sun Microsystems, has pushed itself into the middle of the scrum of technology heavyweights all jostling for the same corporate customers.",negative,-0.6399439573287964
+2010-01-27,"With Sun, Oracle Aims at Giants",neutral,0.24127702414989471
+2010-01-27,Oracle plans to take OpenOffice to the cloud and to keep selling the SunRay thin client.,neutral,0.1548396646976471
+2010-01-27,These moves have Oracle backing some of Sun’s more curious products.,neutral,0.14782457053661346
+2010-01-27,Oracle to Live the Life Quixotic With Sun Products,neutral,0.03264862671494484
+2010-01-28,"As if Larry Ellison didn’t have enough on hands after inking a $7.4 billion deal to buy Sun Microsystems, the Oracle chief said Wednesday he is interested in buying the Golden State Warriors.",neutral,0.030508030205965042
+2010-01-28,N.B.A.’s Warriors May Be Ellison’s Next Purchase,neutral,0.030707642436027527
+2010-01-29,Another View: Cameron Lester and Mike Kwatinetz of Azure Capital Partners examine why start-up companies need to be time-efficient as well as capital-efficient.,neutral,0.05781153589487076
+2010-01-29,Another View: The Challenges of Time for Start-Ups,neutral,0.04106114059686661
+2010-02-04,"Following his company’s acquisition by Oracle, Jonathan Schwartz bid adieu as chief executive of Sun Microsystems with a haiku on Twitter.",neutral,0.059248052537441254
+2010-02-04,Sun’s Chief Executive Tweets His Resignation,neutral,-0.04126834124326706
+2010-02-08,Companies are starting to see the advantages of being able to do large amounts of computing with technology built expressly for that purpose.,positive,0.5419864654541016
+2010-02-08,Bundling Hardware and Software to Do Big Jobs,neutral,0.02513544075191021
+2010-02-11,"Burlington Northern Santa Fe shareholders have approved the railroad’s sale to Berkshire Hathaway, controlled by Warren Buffett, paving the way for the Oracle of Omaha to complete his biggest acquisition.",positive,0.8489070534706116
+2010-02-11,Burlington Northern Investors Approve Berkshire Deal,positive,0.5201532244682312
+2010-02-18,"Nathan Myhrvold’s mission and the activities of the company he heads, Intellectual Ventures, a secretive $5 billion investment firm that has scooped up 30,000 patents, inspire admiration and angst, The New York Times writes.",negative,-0.58963942527771
+2010-02-18,Turning Patents Into ‘Invention Capital’,neutral,0.10777251422405243
+2010-03-01,"The entrepreneur-in-residence model has gained prominence as a calculated way for a venture capital firm to nurture a successful company into being and to increase the odds of solid returns, The New York Times writes.",positive,0.764711856842041
+2010-03-01,"6 Months, $90,000 and a Great Idea",positive,0.7040842771530151
+2010-03-04,"Elliott Associates’ $2 billion bid for Novell could draw out other suitors that have dawdled, Breakingviews says.",positive,0.6480330228805542
+2010-03-04,Will Elliott’s Novell Offer Lure Other Bidders?,neutral,0.15453815460205078
+2010-03-17,"The German software company, ridiculed for missing deadlines in the past, says it has embraced speedy software development to get back on track.",positive,0.652358889579773
+2010-03-17,SAP Bosses Say It’s Now Pedal to the Metal,negative,-0.49194395542144775
+2010-03-23,"Now that the Golden State Warriors have hung out the for-sale sign, will Oracle chief Larry Ellison make his move on the N.B.A.",neutral,0.054292917251586914
+2010-03-23,team?,neutral,-0.02768033742904663
+2010-03-23,Will Ellison Go To the Boards for the Warriors?,neutral,0.030593400821089745
+2010-03-31,"As Wall Street eagerly awaits signs that Facebook will offer shares to the public, the venture capitalists that prowl Silicon Valley are keeping close tabs on another hot commodity: the employees leaving Facebook, Reuters writes.",negative,-0.6038661599159241
+2010-03-31,Facebook Veterans in Venture Capital Spotlight,neutral,0.07550985366106033
+2010-04-03,"The median pay package for C.E.O.’s at big public companies declined last year, to $7.7 million.",negative,-0.9654478430747986
+2010-04-03,Many critics would say that’s still overpaying.,neutral,-0.35463032126426697
+2010-04-03,Bargain Rates for a C.E.O.,neutral,-0.11571723222732544
+2010-04-03,?,negative,-0.251367449760437
+2010-04-05,"The median pay package for C.E.O.’s at big public companies declined last year, to $7.7 million.",negative,-0.9654478430747986
+2010-04-05,"Many critics would say that’s still overpaying, Devin Leonard writes in The New York Times.",neutral,-0.3517918586730957
+2010-04-05,Bargain Rates for a C.E.O.,neutral,-0.11571723222732544
+2010-04-05,?,negative,-0.251367449760437
+2010-04-05,With I.B.M.,neutral,0.04231569170951843
+2010-04-05,"lagging rivals like Hewlett-Packard and Oracle in growth, some investors and analysts told Bloomberg News that Big Blue needs to start up its deal machine.",positive,0.6753762364387512
+2010-04-05,I.B.M.,neutral,0.042657434940338135
+2010-04-05,"Needs to Do Deals, Some Investors Say",neutral,0.13033635914325714
+2010-04-05,"The number of technology mergers and acquisitions announced in the first quarter of the year rose to its highest level since the financial crisis first gripped the market, but the dollar value fell because few big-ticket deals were announced.",negative,-0.9166496396064758
+2010-04-05,Tech M.&A.,neutral,0.07083290815353394
+2010-04-05,Shows More Signs of Rebounding,positive,0.6718500852584839
+2010-04-05,"Charles E. Phillips Jr., the Oracle co-president who acknowledged an affair after being displayed with an ex-girlfriend on New York billboards, is stepping down from Morgan Stanley’s board and will not seek re-election.",neutral,-0.30849289894104004
+2010-04-05,Oracle Co-President to Leave Morgan Stanley’s Board,negative,-0.644919753074646
+2010-04-16,Oracle said Friday that it had agreed to buy the drug data management software company Phase Forward for about $685 million in a deal aimed at bolstering its health sciences business.,positive,0.8171544671058655
+2010-04-16,Oracle to Buy Phase Forward for $685 Million,neutral,0.02899434231221676
+2010-04-27,"Oracle said Monday that Larry Ellison, its chief executive, set up a prearranged plan to sell up to 50 million shares — or about 4 percent of his stake in the company – over 10 months, The Associated Press reported.",neutral,0.033908382058143616
+2010-04-27,Oracle C.E.O.,neutral,0.022400200366973877
+2010-04-27,Sets Up Prearranged Trading Plan,neutral,0.024759121239185333
+2010-04-29,"As Berkshire Hathaway shareholders come out in droves this weekend for an audience with the Oracle of Omaha, Warren Buffett is likely to face questions about his seeming support of Goldman Sachs, Reuters writes.",neutral,-0.1571064591407776
+2010-04-29,Buffett to Face Goldman Questions at Annual Gala,neutral,-0.1310851275920868
+2010-05-12,"SAP, the German software giant, said Wednesday that it it had agreed to buy database software maker Sybase for $5.25 billion as it seeks to keep pace with Oracle.",positive,0.8156946897506714
+2010-05-12,SAP to Buy Sybase for $5.25 Billion,neutral,0.025592494755983353
+2010-05-13,"Under the $5.25 billion deal, Sybase will operate as a standalone unit within SAP under its current management.",neutral,0.030113713815808296
+2010-05-13,"SAP to Buy Sybase, Ally in Software",neutral,0.06795936822891235
+2010-05-14,"Former Lehman Brothers Asia executives, who headed the bank’s structured products division and its syndicate business, have launched their maiden hedge fund investing in distressed structured credit assets, Oracle Capital, Reuters reported.",neutral,0.2173359990119934
+2010-05-14,Ex-Lehman Executives Open a Hedge Fund,neutral,-0.037000417709350586
+2010-05-14,"SAP’s planned purchase of Sybase for $5.8 billion to move ahead of arch rival Oracle in the mobile data market has raised concerns the German software maker is paying too much, Reuters reported.",negative,-0.9158927798271179
+2010-05-14,Is SAP Overpaying for Sybase?,neutral,-0.0027853921055793762
+2010-05-14,"Jonathan Schwartz, who led Sun, had high, hard-to-believe praise for Larry Ellison, just days after the Oracle chief ripped Sun’s management in the press.",neutral,0.03045782446861267
+2010-05-14,Sun’s Chief Still Sunny After Drubbing From Ellison,neutral,-0.07056310772895813
+2010-05-24,I.B.M.’s software acquisition strategy is focused on companies that ease online transactions among businesses.,neutral,0.054069239646196365
+2010-05-24,I.B.M.’s Bet on ‘Smart Plumbing’ for Businesses,neutral,0.19319236278533936
+2010-06-21,"A new wave of specialized software and hardware is being built by and for Web titans like Facebook, Yahoo and Google to help them break down data.",neutral,0.18300580978393555
+2010-06-21,Big Web Operations Turn to Tiny Chips,negative,-0.6315066814422607
+2010-06-22,"Elon Musk, a serial entrepreneur who has made several fortunes, co-founded PayPal and is chairman of Tesla Motors, says he has no cash.",negative,-0.7041475772857666
+2010-06-22,"Elon Musk, of PayPal and Tesla Fame, Is Broke",neutral,0.0061418041586875916
+2010-07-16,"When it came to his bid for the Golden State Warriors, it seems that Oracle the chief, Larry Ellison, was a day late, if not a dollar short, after the owner of the N.B.A.",negative,-0.6264952421188354
+2010-07-16,team announced a deal on Thursday to sell the franchise for a record $450 million to Joe Lacob and Peter Guber.,neutral,0.06397975981235504
+2010-07-16,Ellison Beat Out in Record Warriors Sale,neutral,0.07247766852378845
+2010-07-27,"Larry Ellison, the founder and chief executive of Oracle, topped a list of the highest-paid chief executives over the past decade, according to a study by The Wall Street Journal.",neutral,0.14752532541751862
+2010-07-27,Ellison Tops Diller on C.E.O.,neutral,-0.2357916235923767
+2010-07-27,Pay List,neutral,-0.05961873382329941
+2010-07-30,"In a civil suit, the department said Oracle failed its contractual duty to give the government the same discounts it gave commercial customers.",negative,-0.8595321774482727
+2010-07-30,Justice Joins Whistle-Blower in Suit Accusing Oracle of Overcharging U.S.,negative,-0.8285928964614868
+2010-07-30,"The Justice Department has joined a whistle-blower in accusing Oracle, the business software giant, of defrauding the federal government by overcharging for software.",negative,-0.9250324368476868
+2010-07-30,D.O.J.,neutral,0.04685768857598305
+2010-07-30,Joins Suit Accusing Oracle of Overcharging U.S.,negative,-0.8390622138977051
+2010-08-09,"Lawrence Ellison, the head of Oracle, said Hewlett-Packard’s decision to remove Mark Hurd was not in the best interest of “employees, shareholders, customers and partners.”",negative,-0.7821367383003235
+2010-08-09,Oracle Chief Faults H.P.,neutral,-0.07341372966766357
+2010-08-09,Board for Forcing Hurd Out,negative,-0.6318066716194153
+2010-08-09,"Lawrence Ellison, the head of Oracle, said Hewlett-Packard’s decision to remove Mark Hurd was not in the best interest of “employees, shareholders, customers and partners.”",negative,-0.7821367383003235
+2010-08-09,Oracle Chief Faults H.P.,neutral,-0.07341372966766357
+2010-08-09,Board for Forcing Hurd Out,negative,-0.6318066716194153
+2010-08-17,"David Ellison, son of Oracle founder and chief executive Larry Ellison, has raised $350 million to co-finance movies with Paramount Pictures, The Los Angeles Times reported.",neutral,0.3355203866958618
+2010-08-17,Ellison Jr. in Paramount Deal,neutral,0.039630111306905746
+2010-08-23,The bidding war for 3Par — already at expensive levels — has only just begun.,neutral,0.06880521774291992
+2010-08-23,Other bidders may join Dell and Hewlett-Packard for the data storage company.,neutral,0.04086286202073097
+2010-08-23,How the Battle for 3Par Could Escalate,negative,-0.5007017850875854
+2010-08-26,"Jeffrey Sonnenfeld, a Yale business professor, examines the decision of Hewlett-Packard’s board to remove Mark V. Hurd as chief executive and finds much to like.",neutral,-0.16704893112182617
+2010-08-26,"Another View: At H.P., Governance Trumps Gossip",neutral,0.03757472708821297
+2010-08-30,"Now used by more big technology companies, open-source software has become a weapon in corporate warfare.",neutral,-0.03538580238819122
+2010-08-30,Software War Pits Oracle vs. Google,negative,-0.8026221990585327
+2010-09-05,"For Mark V. Hurd, landing a top position at Oracle would be a quick rebound after a tumultuous exit.",positive,0.7500742673873901
+2010-09-05,Former H.P.,neutral,-0.02944941073656082
+2010-09-05,Chief May Move to Oracle,neutral,-0.07859411835670471
+2010-09-06,"Mark V. Hurd, who resigned from H.P.",neutral,-0.2567509710788727
+2010-09-06,"a month ago, joined Oracle as president and a director.",neutral,0.02806641161441803
+2010-09-06,"Hurd Is Now a President at Oracle, H.P.’s Rival",neutral,0.02119089476764202
+2010-09-07,"Mark V. Hurd, who resigned from H.P.",neutral,-0.2567509710788727
+2010-09-07,"a month ago, joined Oracle as president and a director.",neutral,0.02806641161441803
+2010-09-07,"Hurd Is Now a President at Oracle, H.P.’s Rival",neutral,0.02119089476764202
+2010-09-07,Oracle’s co-presidency will now be shared by two executives known for their history of deal-making: Mark V. Hurd and Safra Catz.,neutral,0.04730386286973953
+2010-09-07,The 2 Deal Makers Who Share Oracle’s Presidency,neutral,0.017603345215320587
+2010-09-07,"In its lawsuit, filed in a California state court, H.P.",neutral,-0.10244733095169067
+2010-09-07,argued that it was seeking to enforce confidentiality clauses Mr. Hurd had signed.,neutral,-0.3091665208339691
+2010-09-07,H.P.,neutral,0.03744767978787422
+2010-09-07,Sues Hurd Over His New Job at Oracle,negative,-0.8366409540176392
+2010-09-07,"The lawsuit comes a day after the former Hewlett-Packard chief executive was hired by Oracle, the database software maker.",negative,-0.6332648992538452
+2010-09-07,H.P.,neutral,0.03744767978787422
+2010-09-07,Sues Its Ex-Chief in New Job,negative,-0.9156196117401123
+2010-09-08,"Mark Hurd will bring operational expertise to Oracle, as well as inside knowledge of its rival Hewlett-Packard.",neutral,0.13273777067661285
+2010-09-08,A New Lieutenant for Ellison’s War,neutral,-0.07829582691192627
+2010-09-15,"The chief executive of Oracle, Larry Ellison, is expected to present his new co-president, the former C.E.O.",neutral,0.010344995185732841
+2010-09-15,"of Hewlett-Packard, Mark V. Hurd, to investors on Thursday.",neutral,0.03525695204734802
+2010-09-15,Hurd to Comment on Oracle Move?,neutral,0.023915305733680725
+2010-09-16,"Revenue rose 48 percent as the company, which just hired the former chief of Hewlett-Packard, topped forecasts.",positive,0.9258900880813599
+2010-09-16,"Oracle Profit Rises 20%, Higher Than Forecast",positive,0.9025259613990784
+2010-09-17,"Fresh off a radical overhaul of its executive suite, Oracle posted better-than-expected results for its first quarter on the back of strong sales of new software products and higher maintenance and support revenue.",positive,0.9073928594589233
+2010-09-17,"Oracle Profit Rises 20%, Higher Than Forecast",positive,0.9025259613990784
+2010-09-19,"The potential of cloud computing, which is growing rapidly in the United States, is hamstrung in Europe by strict privacy laws.",negative,-0.8095623850822449
+2010-09-19,Cloud Computing Hits Snag in Europe,negative,-0.29083070158958435
+2010-09-20,I.B.M.’s planned $1.7 billion acquisition of Netezza could spur further bids in the data storage and analytics business.,positive,0.8194157481193542
+2010-09-20,I.B.M.,neutral,0.042657434940338135
+2010-09-20,May Face Rival in Bid for Netezza,neutral,-0.035873010754585266
+2010-09-20,"Under the terms of the settlement, Mr. Hurd will give up thousands of restricted stock units granted to him while he served as H.P.’s chief executive.",neutral,0.02981383353471756
+2010-09-20,H.P.,neutral,0.03744767978787422
+2010-09-20,and Oracle Settle Lawsuit Over Hiring of Hurd,negative,-0.8922418355941772
+2010-09-20,Hewlett-Packard had sued Mark Hurd over his joining Oracle.,negative,-0.8842588663101196
+2010-09-20,"The terms of the settlement were not disclosed, but H.P.",neutral,0.028815340250730515
+2010-09-20,did modify his separation agreement.,neutral,0.19832581281661987
+2010-09-20,H.P.,neutral,0.03744767978787422
+2010-09-20,Settles Lawsuit Against Hurd,negative,-0.44051676988601685
+2010-09-22,A string of acquisitions peaking with the purchase of Sun Microsystems puts Oracle in a position to control more of businesses’ technology purchases.,neutral,0.4244719445705414
+2010-09-22,Oracle Growth Plans Worry Rivals and Customers,negative,-0.8595930933952332
+2010-09-23,"Once again, Bill Gates is ranked the richest person in the United States, with $9 billion more than Warren E. Buffett, according to the Forbes 400 list.",neutral,0.20357464253902435
+2010-09-23,Gates and Buffett Remain Atop the Forbes 400,neutral,0.03721344470977783
+2010-09-24,"Oracle’s chief executive, Larry Ellison, says his company won’t follow one of the technology world’s hottest trends: buying services companies.",negative,-0.7887706756591797
+2010-09-24,"Oracle Isn’t Interested in Services Deals, Chief Says",neutral,-0.05060786008834839
+2010-10-09,"Hewlett-Packard’s board, which ousted its former chief executives for ethical lapses, may have ignored an ethical issue involving its new chief executive.",negative,-0.8877080678939819
+2010-10-09,A Double Standard at H.P.,neutral,0.04838644340634346
+2010-10-10,"While cloud computing is beginning to take off in Asia, its adoption is being hampered by regulations governing where data is stored, concerns about security and poor internet connections.",negative,-0.958931028842926
+2010-10-10,Regulations and Security Concerns Hinder Asia’s Move to Cloud Computing,negative,-0.9487141370773315
+2010-10-11,"H.P.’s incoming chairman defended the company’s new chief executive, Leo Apotheker, despite an intellectual property lawsuit filed by Oracle against his former employer, SAP.",negative,-0.8413219451904297
+2010-10-11,H.P.,neutral,0.03744767978787422
+2010-10-11,Defends Its New Chief,neutral,-0.059841468930244446
+2010-10-26,"The billionaire said that Todd Combs, the 39-year-old hired to run a portion of Berkshire Hathaway’s portfolio, is a top candidate to be the company’s next investment chief.",neutral,0.05289113149046898
+2010-10-26,Buffett Opens Up on Succession Planning,neutral,0.05375756323337555
+2010-10-27,"Oracle’s chief executive, Larry Ellison, said he can prove that Hewlett-Packard’s incoming C.E.O.",positive,0.8061891198158264
+2010-10-27,oversaw a scheme to steal Oracle’s software by rival SAP.,neutral,-0.2628779113292694
+2010-10-27,Ellison Claims Proof of Wrongdoing by New H.P.,neutral,-0.050194382667541504
+2010-10-27,Chief,neutral,0.031997859477996826
+2010-10-27,"U.S. companies are hoarding almost $1 trillion in cash, which they are more likely to spend on on share repurchases and mergers and acquisitions a the economy stabilizes, rather than expanding their business and hiring new employee, Moody’s Investors Service said on Tuesday.",negative,-0.705573320388794
+2010-10-27,U.S. Companies Hoarding Almost $1 Trillion in Cash,negative,-0.7148861885070801
+2010-10-27,"Larry Ellison of Oracle has escalated the rhetoric against rival Hewlett-Packard and its new C.E.O., Leo Apotheker, ahead of a corporate espionage trial that involves SAP, Mr. Apotheker’s former company.",negative,-0.8658056259155273
+2010-10-27,Oracle Escalates Tiff With H.P.,negative,-0.9039952158927917
+2010-10-28,"Oracle announced it has bought a 10.2 percent stake in Mellanox on the open market, but said it has no plans to make an unsolicited offer to take over the Israeli firm, Reuters reported.",neutral,0.059003252536058426
+2010-10-28,Oracle Takes 10.2% Stake in Mellanox,neutral,0.03212644159793854
+2010-11-02,A Silicon Valley legal drama that has enmeshed three of the world’s most powerful technology companies kicks into high gear on Tuesday as Oracle Corp lays out its case for seeking some $2 billion in damages from rival SAP.,positive,0.028499484062194824
+2010-11-02,Oracle-SAP Trial Gets Under Way,neutral,0.25594931840896606
+2010-11-02,"Oracle’s deal for the e-commerce software provider is the first it has announced since hiring Hewlett-Packard’s deal-making former chief executive, Mark V. Hurd.",neutral,0.47144678235054016
+2010-11-02,Oracle to Buy Art Technology Group for $1 Billion,neutral,0.02081708237528801
+2010-11-02,Oracle’s acquisition on Tuesday of the e-commerce software provider Art Technology Group follows several previous deals by Oracle to buy software makers that cater to merchants.,neutral,0.4248293936252594
+2010-11-02,Oracle Strikes in Search for Niche Software Makers,neutral,0.06199502944946289
+2010-11-03,A jury trial began over how much SAP will pay in damages to Oracle in a copyright scheme.,negative,-0.8260076642036438
+2010-11-03,Oracle has argued for $2 billion; SAP has set aside $160 million.,neutral,0.03397677093744278
+2010-11-03,Trial Opens Over Damages in Oracle Copyright Case With SAP,negative,-0.41306769847869873
+2010-11-04,"SAP has agreed to pay $120 million to settle part of a lawsuit brought by Oracle over copyright infringement, according to a source familiar with the matter.",positive,0.30103009939193726
+2010-11-04,"A Partial Settlement, but Oracle-SAP Trial Continues",negative,-0.4561643600463867
+2010-11-09,Licensing fees are a central point in the legal battle over how much SAP should pay in damages for stealing Oracle’s software.,negative,-0.7659027576446533
+2010-11-09,Licensing Fees the Main Topic of Oracle Testimony,neutral,-0.011646538972854614
+2010-11-23,A federal jury awarded Oracle $1.3 billion in damages in its copyright infringement case.,neutral,-0.041723430156707764
+2010-11-23,SAP Ordered to Pay Oracle $1.3 Billion,negative,-0.779544472694397
+2010-12-13,"In the race for storage space, Dell agrees to buy Compellent Technologies for $27.75 a share.",positive,0.5875170230865479
+2010-12-13,Which company will be the next to be taken over?,neutral,-0.021220188587903976
+2010-12-13,Dell Deal Leaves Few Data Firms to Acquire,neutral,-0.0941738486289978
+2010-12-16,"Oracle’s software and hardware businesses showed healthy gains, lifting the company’s second-quarter profit.",positive,0.9204778671264648
+2010-12-16,"Oracle’s Profit Up 28%, Beating Forecast",positive,0.8539129495620728
+2011-02-18,Who sat where when President Obama came to visit.,neutral,0.025462932884693146
+2011-02-18,"In a Seating Chart, Silicon Valley’s Pecking Order",neutral,-0.10944213718175888
+2011-03-24,Sales rose 37 percent as demand for corporate software and a more robust economy helped all sectors of the company.,positive,0.9292863607406616
+2011-03-24,Strong Software Sales Drive Oracle’s Profit Up 78%,positive,0.9288541674613953
+2011-03-25,Hundreds of enthusiastic Indians came out to greet Warren E. Buffett as the Oracle of Omaha looked for business opportunities in their country.,neutral,0.2952415943145752
+2011-03-25,Buffett Draws Fervent Fans in India With His Folksy Advice,neutral,0.11290036141872406
+2011-04-09,"After shrinking during the recession, paychecks are growing again for top American executives.",positive,0.754802405834198
+2011-04-09,The Drought Is Over (at Least for C.E.O.’s),neutral,0.06973177194595337
+2011-06-20,"Data will include existing and new home sales for May and the final first-quarter G.D.P., along with corporate results from FedEx, ConAgra Foods and Oracle.",neutral,0.031139705330133438
+2011-06-20,Economic Reports for the Week Ahead,neutral,0.0058092400431632996
+2011-06-24,"Oracle’s profit rose 36 percent in the fourth quarter, but poor hardware sales raised questions about the company’s ability to absorb Sun Microsystems.",positive,0.5097895860671997
+2011-06-24,"Oracle’s Profit Rises, but Weak Hardware Sales Are Worrisome",negative,-0.9552384614944458
+2011-06-24,A better-than-expected report on durable goods orders in May was offset by concerns over the health of some big Italian banks.,negative,-0.8479950428009033
+2011-06-24,European Worries Send U.S. Stocks Lower,negative,-0.9090216159820557
+2011-06-24,"Oracle, one of the most aggressive buyers in the technology sector, with more than 70 deals since 2005, calls a time-out – for now.",neutral,-0.0010123923420906067
+2011-06-24,"Larry Ellison Calls Assets Overpriced, Curbs Deal-Making",negative,-0.862013578414917
+2011-08-19,"While few expect a rival bid for the British software maker Autonomy, smaller companies with different slices of the enterprise market may become targets.",neutral,0.06364314258098602
+2011-08-19,"After H.P.’s Rich Offer, Deal-Making Spotlight Swings to Data Analysis",neutral,0.10233451426029205
+2011-08-25,Silicon Valley’s largest venture capital firms are raising their stakes in so-called enterprise companies.,positive,0.6487671136856079
+2011-08-25,"Behind the Glittery Web Start-Ups, Investors See Other Gold",neutral,0.050020527094602585
+2011-09-20,"While Cisco Systems and Hewlett-Packard retool, Oracle has expanded sales in a choppy economy.",positive,0.7692232131958008
+2011-09-20,Oracle Posts Solid Gains in a Sector in Turmoil,positive,0.9066318869590759
+2011-09-27,"Shareholders liked Warren Buffett’s stock buyback decision, but what’s good for Mr. Buffett might not be so good for other corporate bosses.",positive,0.47588494420051575
+2011-09-27,How to Mimic Berkshire’s Bet,neutral,0.060712024569511414
+2011-09-29,"While Autonomy has said that it never approached Oracle for a potential sale, Lawrence J. Ellison, Oracle’s chief executive, says that is not the case at all.",neutral,-0.0604693740606308
+2011-09-29,Oracle’s Ellison Says Autonomy Came Knocking,neutral,0.26067885756492615
+2011-09-29,Oracle contends the Autonomy C.E.O.,neutral,-0.008447937667369843
+2011-09-29,“inaccurately describes” an April meeting with the company; Autonomy says Oracle is “confused.”,negative,-0.7419167757034302
+2011-09-29,Barbs Fly in Autonomy-Oracle Feud,neutral,0.03888283297419548
+2011-10-03,"Oracle’s technology for storing and managing data is at the heart of the modern business world, and its annual event draws 45,000 people, and their expense accounts.",neutral,0.10931830108165741
+2011-10-03,Oracle Convention Engulfs San Francisco With a Party Atmosphere,neutral,0.047887712717056274
+2011-10-03,"An analysis suggests that even if Oracle paid a big premium, it could reap a hefty return from acquiring Hewlett-Packard.",positive,0.8723088502883911
+2011-10-03,A Potential Suitor for Hewlett-Packard,neutral,0.011700393632054329
+2011-10-07,Oracle decided to settle charges that it overbilled the federal government for nine years.,negative,-0.8620091080665588
+2011-10-07,Oracle to Pay $199.5 Million to Settle Overbilling Charges,negative,-0.5740455389022827
+2011-10-24,"As it builds out its portfolio of cloud-based offerings, Oracle has agreed to acquire RightNow Technologies, a provider of Web-based customer service solutions.",positive,0.6543363928794861
+2011-10-24,Oracle in $1.43 Billion Deal for RightNow,neutral,0.07322278618812561
+2011-12-06,"Lawrence Ellison, the chief executive of Oracle, has been buying companies, but must maintain its edge.",neutral,0.050769977271556854
+2011-12-06,Cisco’s Lesson for Oracle,neutral,0.08876863121986389
+2011-12-12,"Cloud computing, which Salesforce.com has been marketing for years, is now seen as such a good idea that I.B.M., SAP, Oracle and others are acquiring their own players.",positive,0.6417258977890015
+2011-12-12,A Leader in the Cloud Gains Rivals,positive,0.16727891564369202
+2011-12-29,"Warren E. Buffett, Groupon’s bankers, International Paper, Oracle and Silver Lake Partners are among those who demonstrated nerve and savvy in M.&.A.",positive,0.4889039993286133
+2011-12-29,in 2011.,neutral,0.05826086178421974
+2011-12-29,The Top of the Class in Deal-Making,neutral,0.16041821241378784
+2012-02-09,"Oracle is acquiring Taleo, a maker of online human resources software, as it continues to expand its footprint in so-called cloud services.",positive,0.8083497285842896
+2012-02-09,Oracle Embraces the Cloud With $1.9 Billion Taleo Deal,neutral,0.2438950538635254
+2012-03-21,"Oracle’s profit excluding certain one-time costs rose to 62 cents a share, topping 56 cents, the average estimate of analysts.",positive,0.9266762733459473
+2012-03-21,Software Licenses Help Oracle Beat Estimates,neutral,0.21580587327480316
+2012-05-07,A limited and split decision over copyright violations by Google all but guaranteed continuing litigation.,negative,-0.5162081718444824
+2012-05-07,U.S. Jury Hands Google Mixed Verdict on Oracle,negative,-0.6486942172050476
+2012-05-08,"With more litigation on the horizon, Google’s Android marches on.",neutral,0.07994095236063004
+2012-05-08,Business Day Live | Google in Court,neutral,-0.2037753164768219
+2012-05-22,"SAP, which battles with Oracle in the enterprise software sector, will be expanding its cloud-based services with the acquisition.",positive,0.8589111566543579
+2012-05-22,SAP Agrees to Acquire Ariba for $4.5 Billion,neutral,0.40285685658454895
+2012-06-05,"The technology giant said it had acquired Collective Intellect, a social media analysis firm, just a day after Salesforce.com agreed to buy Buddy Media for $689 million.",neutral,0.2069346308708191
+2012-06-05,Oracle Buys Collective Intellect to Bolster Social Media Analysis,neutral,0.18870899081230164
+2012-06-19,"Sales of new software licenses jumped, sending revenue higher for the quarter.",positive,0.8991807103157043
+2012-06-19,Oracle’s Results Surpass Analysts’ Expectations,positive,0.7385091781616211
+2012-10-01,"A look at Glencore's takeover of Xstrata, the merger shaking the commodities world.",neutral,0.010234102606773376
+2012-10-01,| Value reigns at the Paris Motor Show.,neutral,0.09868693351745605
+2012-10-01,| Oracle's Mark V. Hurd on investing in data.,neutral,0.043910637497901917
+2012-10-01,Creating a Mining Giant,neutral,0.038339920341968536
+2012-12-16,"Data will include housing starts and existing home sales for November, and the final third-quarter G.D.P., and companies reporting results will include Oracle, General Mills and Research in Motion.",neutral,0.01992861181497574
+2012-12-16,Economic Reports for the Week Ahead,neutral,0.0058092400431632996
+2013-01-12,Why don’t mutual funds say more about  corporate governance?,neutral,0.020180925726890564
+2013-01-12,"One reason may be that fund managers have many short-term incentives to outperform, but few to create long-term value.",neutral,0.08662649244070053
+2013-01-12,Funds Aren’t Wielding Much Power Over Executive Pay,neutral,-0.10479697585105896
+2013-02-04,"Oracle’s deal machine has come to life once more, as the enterprise software giant agreed on Monday to buy Acme Packet for $2.1 billion to bolster its communications product offerings.",positive,0.8749674558639526
+2013-02-04,Oracle to Buy Acme Packet for $2.1 Billion,neutral,0.029009811580181122
+2013-04-05,100 of the most highly paid chief executives at U.S. public companies in 2012.,neutral,0.19731858372688293
+2013-04-05,The Highest-Paid C.E.O.’s,neutral,0.09307779371738434
+2013-04-06,"For C.E.O.’s of some of the nation’s biggest companies, overall compensation rose only modestly last year.",positive,0.7707525491714478
+2013-04-06,But the amount of perks often soared.,positive,0.4690794050693512
+2013-04-06,The Infinity Pool of Executive Pay,neutral,0.01904001459479332
+2013-05-27,The rivalry between two cloud computing upstarts echoes a bitterly fought battle between Oracle and PeopleSoft.,negative,-0.29926633834838867
+2013-05-27,A Legacy Feud in Tech,negative,-0.3937065601348877
+2013-05-30,The European Union’s commissioner for digital policies is pressing for one set of rules governing the market for cellphones in Europe.,neutral,0.008822602219879627
+2013-05-30,Official Pushes for End to Roaming Fees in Europe,neutral,0.19220148026943207
+2013-06-20,"Oracle, one of the most prominent technology companies listed on the Nasdaq, is defecting to the New York Stock Exchange.",negative,-0.8809572458267212
+2013-06-20,Oracle to Leave Nasdaq for the Big Board,negative,-0.6684569120407104
+2013-06-29,"Among 200 top chief executives in 2012, the median compensation package jumped 16 percent.",positive,0.8818287253379822
+2013-06-29,So much for the idea that shareholders are getting through to companies about reining in pay.,neutral,0.3301852345466614
+2013-06-29,An Unstoppable Climb in C.E.O.,positive,0.8871360421180725
+2013-06-29,Pay,neutral,0.012934818863868713
+2013-09-23,Corporate technology buyers are looking at a growing number of new and old tech companies to manage their systems.,neutral,0.12236756086349487
+2013-09-23,Cutting Through the Cloud,neutral,-0.1234397143125534
+2013-09-26,The stock exchange SecondMarket is turning to the next new thing: bitcoin.,neutral,0.04567335546016693
+2013-09-26,"| Regulators missed an opportunity in going after JPMorgan, a columnist writes.",negative,-0.9039463996887207
+2013-09-26,| Detroit’s municipal pension fund made payments for decades above and beyond normal benefits.,neutral,0.009732453152537346
+2013-09-26,| Larry Ellison’s Oracle Team USA achieved victory in the 34th America’s Cup.,positive,0.6052207350730896
+2013-09-26,A Fund for Bitcoins,neutral,0.03276728093624115
+2013-10-08,The CtW Investment Group is expected to send a letter to shareholders on Tuesday urging them to again vote against the company’s executive compensation.,negative,-0.16442972421646118
+2013-10-08,Shareholder Adviser Plans to Escalate Fight Over Oracle Chief’s Pay,negative,-0.7927215099334717
+2013-10-31,A majority of the software giant’s shareholders voted against a nonbinding resolution on pay practices.,negative,-0.10521504282951355
+2013-10-31,Oracle Shareholders Oppose Compensation for Ellison,negative,-0.6098124980926514
+2013-11-06,Shareholders rejected the Oracle chief’s $78 million pay package in a nonbinding vote.,negative,-0.6104120016098022
+2013-11-06,But there are better ways to shrink C.E.O.,neutral,0.08264283835887909
+2013-11-06,pay.,neutral,0.07373037934303284
+2013-11-06,"A Vote Goes Against Outsize Executive Pay, but It’s Hardly a Blow",negative,-0.45658013224601746
+2013-12-20,The acquisition will extend Oracle’s reach into online marketing.,positive,0.9165078401565552
+2013-12-20,The software maker allows brands to coordinate advertising across the web.,neutral,0.01838398352265358
+2013-12-20,Oracle to Buy Responsys for $1.5 Billion,neutral,0.01991090551018715
+2013-12-23,"Acquisitions, combined with cost-cutting, tend to be a popular way for corporations to try to rejuvenate.",neutral,0.09068389981985092
+2013-12-23,"But as Robert Cyran of Reuters Breakingviews notes, it is often a losing proposition.",negative,-0.7816904187202454
+2013-12-23,Why Older Technology Companies May Attempt Desperate Deals,neutral,-0.07117623835802078
+2014-01-07,Oracle’s purchase of Corente pushes the once web-shy technology giant further into the Internet age.,positive,0.7912681102752686
+2014-01-07,Oracle Agrees to Buy Cloud-Based Service,positive,0.7882528305053711
+2014-02-19,"Opposition to outsize pay packages should not be reserved just for executives on Wall Street, Steven M. Davidoff writes.",neutral,-0.04225219413638115
+2014-02-19,"Outrage Over Wall St. Pay, but Shrugs for Silicon Valley?",negative,-0.7005049586296082
+2014-04-05,"Yes, Warren Buffett’s 49-year market record is stellar.",positive,0.4841282367706299
+2014-04-05,Just don’t count the last five.,neutral,-0.08617503196001053
+2014-04-05,"The Oracle of Omaha, Lately Looking a Bit Ordinary",neutral,-0.17170581221580505
+2014-04-12,"Larry Ellison, the chief executive of Oracle, may not care what you think about his $78.4 million in 2013 compensation, the highest in the Equilar 100 C.E.O.",neutral,0.02740117907524109
+2014-04-12,Pay Study.,neutral,0.006742022931575775
+2014-04-12,Still No.,negative,-0.3048599362373352
+2014-04-12,"1, and Doing What He Wants",neutral,0.07148919999599457
+2014-04-19,"For years, Linux has enjoyed the backing of a range of big tech companies.",neutral,0.4046827554702759
+2014-04-19,How has Linux flourished while other open-source efforts have begged for resources?,positive,0.6552857160568237
+2014-04-19,OpenSSL and Linux: A Tale of Two Open-Source Projects,neutral,0.03362186253070831
+2014-05-06,"SAP is offering much of its enterprise software and Hana, used for data analysis, on VWware’s cloud computing platform.",neutral,0.020300602540373802
+2014-05-06,EMC and Oracle have made their own announcements.,neutral,0.01950133964419365
+2014-05-06,More is expected.,neutral,0.05087488144636154
+2014-05-06,SAP and VMware Head for the Future Together,neutral,0.03357855603098869
+2014-06-02,Some analysts say the cloud-computing juggernaut is overly reliant on stock-based pay and that a prolonged slump in its share price could harm the health of its core operations.,negative,-0.9553477764129639
+2014-06-02,Salesforce Bottom Line Is Put at Risk by a Slide in the Company’s Stock,negative,-0.9158537983894348
+2014-06-04,"Nobody really knows if Valeant Pharmaceuticals is doing anything that makes money, or is just engaged in prestidigitation that never gets anywhere, writes Jesse Eisinger in The Trade.",neutral,-0.02193828672170639
+2014-06-04,"In Valeant’s Bid for Allergan, an Opaque Business Model Is Revealed",neutral,-0.44238224625587463
+2014-06-07,Executive compensation boards are now more independent and rewards are increasingly tied to results.,neutral,0.13332116603851318
+2014-06-07,But C.E.O.,neutral,-0.15265308320522308
+2014-06-07,pay remains enormous.,neutral,0.05813515931367874
+2014-06-07,"More Scrutiny, Still Spectacular",neutral,-0.2905155420303345
+2014-06-10,"Lawrence J. Ellison, a master salesman, has positioned the new version of his flagship database as a product that continually changes to meet the cutting edge of tech, while staying familiar to its corporate clientele.",neutral,0.25215959548950195
+2014-06-10,It’s a great marriage of stability and change from a company now worth more than IBM.,positive,0.7958437204360962
+2014-06-10,Oracle’s Database of Youth,neutral,-0.031694598495960236
+2014-06-23,"Oracle’s deal for Micros Systems, a maker of software for restaurants and hospitality providers, is its biggest since the takeover of Sun Microsystems five years ago.",positive,0.7890815138816833
+2014-06-23,Oracle to Buy a Software Maker Micros Systems for $5.3 Billion,neutral,0.04499637708067894
+2014-06-23,"Micros still gets the vast majority of its revenue from sales of less sexy hardware and services, making the deal more of an add-on for Oracle rather than a supercharged foray into cloud computing, Kevin Allison of Reuters Breakingviews writes.",neutral,0.09897066652774811
+2014-06-23,Oracle’s Deal Won’t Do Much for Its Cloud Computing Efforts,negative,-0.6246417760848999
+2014-07-29,"The Pacific Northwest city continues its rise as the world’s center of cloud computing, moving from infrastructure to applications.",positive,0.7261564135551453
+2014-07-29,"Oracle is kicking off a 100-person engineering facility, which over time is expected to affect sales, training, and much more of how Oracle works with customers.",neutral,0.05320729687809944
+2014-07-29,Seattle Takes Oracle’s Cloud,neutral,-0.051470451056957245
+2014-08-18,"Companies like Google are employing unorthodox criteria — say, whether a product is used daily, like a toothbrush — to size up their deal targets, and without the advice of Wall Street bankers.",neutral,-0.40353816747665405
+2014-08-18,"In Silicon Valley, Mergers Must Meet the Toothbrush Test",neutral,0.01217663660645485
+2014-09-18,"The top job at the database giant will be shared by Mark V. Hurd, now co-president, and Safra Catz, who is co-president and chief financial officer.",neutral,0.06586068868637085
+2014-09-18,Larry Ellison to Step Down as Oracle’s Chief,neutral,-0.24734953045845032
+2014-09-19,"The top job at the database giant will be shared by Mark V. Hurd, now co-president, and Safra Catz, who is co-president and chief financial officer.",neutral,0.06586068868637085
+2014-09-19,Daily Report: Ellison Retires as Oracle’s Chief,neutral,-0.17075364291667938
+2014-09-19,Alibaba is set to start trading on the New York Stock Exchange under the ticker symbol BABA.,neutral,0.038670822978019714
+2014-09-19,| Markets showed relief that the United Kingdom would not face a tumultuous breakup.,positive,0.7410666346549988
+2014-09-19,| Lawrence J. Ellison announced his retirement as chief executive of Oracle.,neutral,-0.0338609479367733
+2014-09-19,Morning Agenda: Alibaba Makes Its Debut,neutral,0.1495964378118515
+2014-09-19,"Mr. Ellison’s 25 percent stake in the company — and dual role as chairman and chief technology officer — ensure he’s far from relinquishing control, Robert Cyran of Reuters Breakingviews writes.",neutral,0.16482007503509521
+2014-09-19,Larry Ellison Keeps a Hand on the Wheel at Oracle,neutral,-0.06594530493021011
+2014-09-22,"The opening keynote at Oracle’s annual conference will be about its“unique opportunity to be the leader of the next generation of cloud,” according to Mark Hurd, the new co-chief.",positive,0.7546809911727905
+2014-09-22,Hurd: Oracle Takes On Microsoft in the Cloud,neutral,-0.2036106288433075
+2014-09-23,"The computer storage company’s talks with HP, Cisco and Oracle highlight the continuing problem with aging technology giants pursuing growth and relevance.",negative,-0.6432572603225708
+2014-09-23,Aging Tech Giants Like EMC Look to Deals to Help Bolster Revenue,neutral,0.33052709698677063
+2014-09-29,"Cisco has a novel approach for selling its big Internet vision, called Intercloud: There is no better way to impose government policies on the Internet.",neutral,0.029144061729311943
+2014-09-29,Cisco: The Internet Needs More Control,neutral,0.12895716726779938
+2014-10-08,"In a letter, Elliott Management criticized the tech company for being overly complex and suggested selling off a range of assets, including the separately traded cloud computing firm VMWare.",negative,-0.918626070022583
+2014-10-08,Paul Singer’s Hedge Fund Pushes Technology Giant EMC to Break Up,neutral,-0.31565356254577637
+2014-11-06,"Scott Stringer, the New York City comptroller who oversees five pension funds, is leading a drive to let shareholders nominate board directors.",neutral,0.06802807003259659
+2014-11-06,Effort Begins for More Say on Directors,neutral,0.0932513177394867
+2014-12-26,Oracle’s purchase of Datalogix sheds a light on an important side of the digital advertising business: connecting an ad you see with a product you buy.,positive,0.7551336884498596
+2014-12-26,"In Advertising, It’s About Who Gets Credit for the Sale",neutral,-0.028942551463842392
+2015-02-28,"Warren Buffett recalls missteps during his five decades with Berkshire Hathaway, a period that saw the company’s stock rise nearly 2 million percent.",negative,-0.5676928758621216
+2015-02-28,"After 50 Years, Oracle of Omaha Looks Back on Less Prescient Moves",neutral,0.13166479766368866
+2015-03-02,"There are two chief theories for why the company has been so successful, with important implications for imagining a future without Mr. Buffett.",neutral,0.2563285529613495
+2015-03-02,Why Warren Buffett Is Worth $72 Billion and You’re Not,neutral,-0.030629262328147888
+2015-04-10,"An analysis of recent company reports, however, finds that the widest gap exists between the chief executives and workers of Disney, Oracle, Qualcomm and Starbucks.",negative,-0.7619733810424805
+2015-04-10,"Despite Federal Regulation, C.E.O.-Worker Pay Gap Data Remains Hidden",negative,-0.9366810917854309
+2015-04-30,"Oracle and Microsoft want to increase cloud capacity, making them possible suitors.",positive,0.8347010016441345
+2015-04-30,Salesforce’s Slow Growth May Prompt Hunt for a Buyer,negative,-0.7592923045158386
+2015-05-16,"Despite rules empowering shareholders to rein in soaring pay packages, few have chosen to do so, perhaps because of a rising stock market.",neutral,-0.08296582102775574
+2015-05-16,Shareholders’ Votes Have Done Little to Curb Lavish Executive Pay,negative,-0.7035946846008301
+2015-06-29,A years-long copyright fight between Google and Oracle will continue.,negative,-0.915738582611084
+2015-06-29,"At issue are the bits of code that help pieces of software work together, called Application Programming Interfaces.",neutral,-0.008706586435437202
+2015-06-29,Supreme Court Declines to Hear Appeal in Google-Oracle Copyright Fight,negative,-0.6553095579147339
+2015-07-06,"The son of Larry Ellison, founder of Oracle, shifts from investing in films to steering them creatively, with ‘Genisys’ and the coming addition to the ‘Mission: Impossible’ franchise.",neutral,0.0979589894413948
+2015-07-06,"With ‘Terminator Genisys,’ David Ellison Stops Playing It Safe",neutral,-0.3482173681259155
+2015-09-14,"This week, the Fed announces whether it will raise interest rates, contract talks with Detroit’s three automakers enter the final stretch and an election in Greece will help determine its economic future.",neutral,0.27662408351898193
+2015-09-14,"Fed’s Decision on Interest Rates, Autoworkers’ Contract Talks and a Greek Election",neutral,-0.24567943811416626
+2015-10-07,Amazon Web Services is starting to offer capabilities that compete head-to-head with longtime business computing giants like Oracle and IBM.,positive,0.7949060797691345
+2015-10-07,Amazon Messes With Billions in Corporate Computing Dollars,negative,-0.7256337404251099
+2015-10-27,Oracle wants to do what it does best: build software that has the specific kinds of features that companies needs to manage their operations.,neutral,0.11771143972873688
+2015-10-27,Oracle Will Not Build a Giant Cloud System Like A.W.S.,neutral,-0.030348308384418488
+2015-11-02,"Mr. Benioff runs Salesforce.com with a “1-1-1” philosophy, annually donating 1 percent of its equity, 1 percent of its employee time and 1 percent of its product to nonprofits.",neutral,0.04599710553884506
+2015-11-02,He explains why.,neutral,0.05351370945572853
+2015-11-02,"Marc Benioff, Salesforce Chief, on the Strategic Benefits of Corporate Giving",neutral,0.09371927380561829
+2016-03-07,"Industry titans like Amazon and Oracle are duking it out for cloud engineers, taking swipes at the competition and attracting workers with salaries as high as $1 million.",neutral,0.06867138296365738
+2016-03-07,Tech Giants Battle for Top Cloud Talent,neutral,-0.005635246634483337
+2016-05-08,"As Oracle continues to sue Google for $8.8 billion, quarterly earnings reports are expected for Disney, Credit Suisse and Macy’s.",negative,-0.7558399438858032
+2016-05-08,Google Goes Back to Court Over Android Code and May Face Fines in Russia,negative,-0.9370460510253906
+2016-05-10,The right to use programming language is at issue in the latest round of a case filed nearly six years ago.,neutral,0.02052203379571438
+2016-05-10,Alphabet Chairman Testifies in Oracle Suit Against Google,neutral,-0.25194835662841797
+2016-05-11,The Java programming language was one of the most important tools of the late-1990s dot-com boom.,neutral,0.06965102255344391
+2016-05-11,Now it is the key to a court fight between tech giants.,neutral,0.011262968182563782
+2016-05-11,Oracle’s Suit Against Google Digs Up Old Bones,negative,-0.5310169458389282
+2016-05-16,The Oracle of Omaha and the owner of the Cleveland Cavaliers are unlikely bidders for the troubled Internet icon.,neutral,-0.012691641226410866
+2016-05-16,Warren Buffett and Dan Gilbert Bid for Yahoo,neutral,0.03353690356016159
+2016-05-20,"A trial in a San Francisco federal court centers on 11,000 out of 13 million lines of software code in Google’s Android operating system.",negative,-0.865098774433136
+2016-05-20,Oracle-Google Dispute Goes to Heart of Open-Source Software,neutral,-0.2594030201435089
+2016-05-20,The software giant Oracle says the search giant Google infringed on its copyrights.,negative,-0.9275408983230591
+2016-05-20,That brought Google’s boss to the courtroom Thursday morning.,negative,-0.531653106212616
+2016-05-20,A Cheery Elevator Ride With Larry Page,neutral,0.19720250368118286
+2016-05-26,"The decision, which will be appealed, means that Google owes its Silicon Valley rival nothing for code it used in the Android operating system.",negative,-0.8029265403747559
+2016-05-26,Google Prevails as Jury Rebuffs Oracle in Code Copyright Case,negative,-0.8314051628112793
+2016-05-27,"The companies have been fighting for six years over the use of Java, which Oracle acquired when it bought Sun Microsystems.",negative,-0.7676186561584473
+2016-05-27,"Google Bests Oracle in Court, but the Fight Isn’t Over",negative,-0.8095318675041199
+2016-05-28,Do tech venture capitalists really want to support a system in which moving fast results in company-ending lawsuits?,neutral,0.06020267307758331
+2016-05-28,Farhad and Mike’s Week in Tech: Techies vs. the Media,negative,-0.5157579779624939
+2016-06-08,"The Golden State Warriors are almost a metaphor for the way the tech industry improves, and also risks ruining, all that it touches.",neutral,0.06896288692951202
+2016-06-08,"Warriors, Tech’s Team, Are Soaring Out of Reach",neutral,-0.25731873512268066
+2016-07-28,"The deal, among the largest in Oracle’s history, is at the heart of the company’s fight to remake itself for the modern world of cloud computing.",positive,0.7161904573440552
+2016-07-28,Oracle’s $9.3 Billion Deal for NetSuite Will Bolster Its Cloud Offerings,positive,0.9324818253517151
+2016-07-28,"The purchase of NetSuite by Oracle makes strategic sense, but Lawrence J. Ellison appears to benefit from a side investment at Oracle’s expense.",neutral,0.16710364818572998
+2016-07-28,"Once Again, an Oracle Deal Benefits Ellison",positive,0.8081418871879578
+2016-07-29,"Oracle’s announced purchase of NetSuite is aimed at getting deeper into the game, while Amazon drew more than half its operating earnings from the segment.",neutral,0.21477054059505463
+2016-07-29,Gathering Cloud-Computing,neutral,0.025827530771493912
+2016-07-29,The business software omnivore is playing catch-up in one of the hotter fields of tech.,neutral,0.06665317714214325
+2016-07-29,Its NetSuite purchase is its latest thrust in that direction.,positive,0.6121007204055786
+2016-07-29,"For Oracle, Money’s Not the Problem.",neutral,-0.005907183513045311
+2016-07-29,It’s Coping With the Cloud.,neutral,0.21396152675151825
+2016-08-01,"The biggest business-software company thinks that information gathering could become a valuable adjunct to many of its database and applications efforts, and it has more data than anybody.",neutral,0.3176180422306061
+2016-08-01,"Oracle, Having Bet Billions on Its Future, Sets Sights on Data Analysis",neutral,0.2017676681280136
+2016-09-18,"As G.E., Oracle, Salesforce.com and others push their A.I.",neutral,0.06950756907463074
+2016-09-18,"products, it remains unclear whether potential customers understand how they will profit.",neutral,0.03152162954211235
+2016-09-18,Artificial Intelligence Software Is Booming.,positive,0.5705811381340027
+2016-09-18,But Why Now?,neutral,-0.239586740732193
+2016-10-02,"At annual presentations in San Francisco, tech companies deluge potential customers with data on their progress in cloud computing, machine learning and artificial intelligence.",neutral,-0.048679690808057785
+2016-10-02,Taking the Temperature Inside the (Feverish) Cloud,neutral,-0.06230350583791733
+2016-11-07,"Fear that Oracle would back away led NetSuite shareholders to accept a $9.3 billion offer over the objections of a major investor, T. Rowe Price.",negative,-0.11416962742805481
+2016-11-07,Larry Ellison’s Hardball Tactics Win NetSuite for Oracle,neutral,-0.010549157857894897
+2016-12-13,"The executives meeting with Mr. Trump in Manhattan on Wednesday include Elon Musk of Tesla, Timothy D. Cook of Apple and Jeff Bezos of Amazon.",neutral,-0.0027679726481437683
+2016-12-13,"When Trump Meets Tech Leaders, Jobs Will Be on the Agenda",neutral,0.030217908322811127

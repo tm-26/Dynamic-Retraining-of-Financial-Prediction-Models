@@ -1,0 +1,702 @@
+Date,Sentence,Prediction,sentimentScore
+2014-01-01,"The United States accounted for 43 percent of all deals worldwide, the biggest proportion since 2001.",neutral,0.16490502655506134
+2014-01-01,"Markets Buoyant, Merger Activity Picks Up",positive,0.7710220217704773
+2014-01-03,George Canellos oversaw and closed some of the highest profile investigations into the financial crisis.,neutral,-0.04708797112107277
+2014-01-03,His departure could portend a subtle shift in the agency’s enforcement agenda.,neutral,-0.278814435005188
+2014-01-03,"With Crisis Behind Him, S.E.C.’s Co-Chief of Enforcement Is Leaving",neutral,-0.08433115482330322
+2014-01-06,JPMorgan Chase nears $2 billion settlement in Madoff Case.,negative,-0.22841839492321014
+2014-01-06,| Men’s Wearhouse starts hostile bid.,negative,-0.5124630331993103
+2014-01-06,"| Investors are pouring money into start-ups, eclipsing the exuberance of the dot-com era more than a decade ago.",neutral,0.2076672464609146
+2014-01-06,| The S.E.C.,neutral,0.06686889380216599
+2014-01-06,announces a departure.,neutral,-0.19554319977760315
+2014-01-06,JPMorgan Near a Settlement in Madoff Case,negative,-0.22084560990333557
+2014-01-07,"JPMorgan Chase could have dug deeper despite an obligation to monitor accounts for suspicious activity, writes Peter J. Henning.",positive,0.008211255073547363
+2014-01-07,"But the victims of the fraud will be getting some repayment after prosecutors got creative, he says.",positive,0.7211540937423706
+2014-01-07,What the JPMorgan Settlement Means,neutral,0.03193055838346481
+2014-01-08,"In 2013, boutique and independent investment banks earned a combined 30 percent of fees for completed transactions, nearly twice what they did a decade ago.",positive,0.5671928524971008
+2014-01-08,"As the top banks continue to hold their own, it is the second-tier big banks that are getting squeezed.",negative,-0.701958179473877
+2014-01-08,30% of M.&A.,neutral,0.02308826893568039
+2014-01-08,Advisory Fees Went to Smaller Firms in 2013,neutral,-0.004806565120816231
+2014-01-09,"Documents released in connection with the federal penalties imposed on JPMorgan Chase showed that many people simply filled out and filed forms, oblivious to what they might indicate.",negative,-0.645606517791748
+2014-01-09,JPMorgan Lost Madoff in a Blizzard of Paper,negative,-0.8721827864646912
+2014-01-10,"Fines for banks’ role in mortgage crisis could total nearly $50 billion, not including JPMorgan’s settlement.",negative,-0.8737403154373169
+2014-01-10,| Ex-SAC trader falsified grades at Harvard.,negative,-0.9051195979118347
+2014-01-10,| A storied Washington law firm looks to merge.,neutral,0.11560624837875366
+2014-01-10,| Snapchat says sorry.,negative,-0.8523733615875244
+2014-01-10,Banks Brace for Reckoning,neutral,-0.22515863180160522
+2014-01-11,Notable quotes from business articles that appeared in The New York Times last week.,neutral,0.01611744984984398
+2014-01-11,"The Chatter for Sunday, Jan. 12",neutral,0.024546083062887192
+2014-01-12,"JPMorgan Chase and Wells Fargo, set to report fourth-quarter results on Tuesday, will kick off a flurry of bank earnings, and Intel will post its fourth-quarter results.",positive,0.5166770815849304
+2014-01-12,Economic Reports for the Week of Jan. 13,neutral,-0.19021853804588318
+2014-01-13,"By acquiring Switzerland-based Foster Wheeler, the British engineering and project management firm would expand its footprint, including increasing its presence in Latin America.",positive,0.9307335019111633
+2014-01-13,Amec Agrees to Buy Swiss Rival for $3.2 Billion,positive,0.8019096851348877
+2014-01-14,Car loan origination jumped at JPMorgan Chase and Wells Fargo in the fourth quarter amid disappointing mortgage demand.,negative,-0.5200580358505249
+2014-01-14,"Auto Loans Bring Growth, and Scrutiny, for Banks",neutral,0.20809388160705566
+2014-01-15,Few events are bigger in the world of corporate health care than JPMorgan Chase’s annual conference in San Francisco.,neutral,-0.0068039000034332275
+2014-01-15,"And this year, much of the buzz seems to surround the prospect of more deals.",neutral,0.2086569368839264
+2014-01-15,"At JPMorgan’s Health Care Conference, Deal Talk Abounds",neutral,0.06648216396570206
+2014-01-17,How well do you know your earnings reports?,neutral,0.0040318891406059265
+2014-01-17,Match the financial company with the quote about its latest earnings report.,neutral,0.02307698130607605
+2014-01-17,Weekend Reading: Bank Earnings Quiz,neutral,-0.127685084939003
+2014-01-18,Notable quotes from business articles that appeared in The New York Times last week.,neutral,0.01611744984984398
+2014-01-18,"The Chatter for Sunday, Jan. 19",neutral,0.02188579924404621
+2014-01-21,JPMorgan withdrew as a potential underwriter of a stock offering for Tianhe Chemicals.,neutral,0.01907130889594555
+2014-01-21,The bank once employed the daughter of Tianhe’s chairman.,neutral,-0.09531599283218384
+2014-01-21,JPMorgan Is Said to Drop Out of Another Offering in China,negative,-0.8882927894592285
+2014-01-24,"The board’s decision to give Jamie Dimon, its chairman and chief executive, a 73 percent raise is unjustifiable after last year’s performance, Antony Currie writes for Reuters Breakingviews.",negative,-0.43303507566452026
+2014-01-24,Dismay for Pay at JPMorgan Chase,negative,-0.5089189410209656
+2014-01-27,"JPMorgan Chase appears to have settled a dispute with Frank Bisignano, a former close confidant of its chairman, Jamie Dimon, the latest reminder that the inner circle that helped the bank weather the financial crisis is no more.",negative,-0.7705745697021484
+2014-01-27,Former JPMorgan Executive Said to Settle Hiring Dispute,negative,-0.5044220685958862
+2014-01-28,A JPMorgan Chase employee was killed after a fall from the office tower headquarters of the investment bank in London on Tuesday morning.,negative,-0.8821871280670166
+2014-01-28,Employee Falls to His Death at JPMorgan Building in London,negative,-0.709865927696228
+2014-01-29,"One hedge fund, Fir Tree Partners, is even trying to coax other investors out of participating in the $4.5 billion JPMorgan Chase settlement with private investors.",negative,-0.6368255615234375
+2014-01-29,Hedge Funds Sniff for Even Bigger Payouts From Banks,neutral,0.08755321800708771
+2014-01-31,"In the world of Wall Street executive compensation, the pay raise recommended for Jamie Dimon, chief of JPMorgan Chase, is not only defensible, but laudable.",positive,0.7909280061721802
+2014-01-31,Accounting for Dimon’s Big Jump in Pay,neutral,0.07724102586507797
+2014-02-04,"The art of the apology has become a choreographed dance: Say you’re sorry, act vulnerable, tell everyone you’re “taking responsibility” and end with, “I hope to put this behind me.”",neutral,-0.2774147093296051
+2014-02-04,Too Many Sorry Excuses for Apology,neutral,-0.2879030704498291
+2014-02-05,"Lazard looks more like Goldman Sachs, Morgan Stanley and JPMorgan Chase than smaller rivals like Greenhill, contends Antony Currie of Reuters Breakingviews.",neutral,0.08388687670230865
+2014-02-05,Lazard Swims With the Big Fish,neutral,0.036916688084602356
+2014-02-06,"JPMorgan Chase has been exploring strategic alternatives, including a possible sale or spinoff, for the business, which deals in physical commodities like metals and oil.",neutral,0.07220501452684402
+2014-02-06,Swiss Firm Mercuria in Talks to Buy JPMorgan’s Commodities Unit,neutral,0.05539531260728836
+2014-02-07,"Blythe Masters, the head of the commodities business at JPMorgan Chase, has declined an invitation to join an advisory committee of the C.F.T.C., the agency that regulates futures and swaps trading, people briefed on the matter said on Friday.",neutral,-0.23846761882305145
+2014-02-07,Blythe Masters of JPMorgan Is Said to Decline Advisory Post,neutral,-0.05067173391580582
+2014-02-10,"According to a lawsuit that a nonprofit group filed against the Justice Department on Monday, the crucial details of the deal were for the government’s eyes only.",neutral,-0.04234359785914421
+2014-02-10,Lawsuit Challenges Government’s $13 Billion Deal With JPMorgan,negative,-0.8337733745574951
+2014-02-11,"In an interview on Bloomberg TV on Tuesday, John J. Mack, the former chairman and chief executive of Morgan Stanley, called for an end to the harsh words that have been hurled at Jamie Dimon and Lloyd C. Blankfein over their pay.",negative,-0.7946119904518127
+2014-02-11,John Mack Calls for an End to ‘Beating Up’ on Wall St. C.E.O.’s,neutral,-0.14723730087280273
+2014-02-12,"George Canellos, the latest Wall Street regulator to switch sides, will start his new job in mid-March, two months after leaving the Securities and Exchange Commission.",neutral,-0.011748043820261955
+2014-02-12,Former Top S.E.C.,neutral,0.03461671993136406
+2014-02-12,Enforcer Returns to Milbank,neutral,-0.06254581362009048
+2014-02-13,"Comcast’s $45 billion takeover of Time Warner Cable is an unexpected win for the company’s advisers, including JPMorgan Chase, the rainmaker Paul J. Taubman and Barclays.",positive,0.9129730463027954
+2014-02-13,Comcast’s Deal for Time Warner Cable Is Big Win for Advisers,positive,0.6778043508529663
+2014-02-14,A look back on our reporting of the past week’s highs and lows in finance.,neutral,-0.000395752489566803
+2014-02-14,Weekend Reading: Cable Deals and JPMorgan Hiring,neutral,-0.043001726269721985
+2014-02-18,"JPMorgan stands to earn $55 million to $65 million in fees for advising Forest Laboratories in its acquisition by Actavis, according to estimates from Freeman & Company.",neutral,0.2577599287033081
+2014-02-18,Another Big Windfall for JPMorgan in Drug Maker Deal,positive,0.45774996280670166
+2014-02-19,"The deal would marry the Zales brand with the operator of Kay Jewelers and Jared the Galleria of Jewelry brands, which serve the middle of the jewelry market in the United States.",positive,0.5246033072471619
+2014-02-19,Signet Jewelers to Buy Zale in $900 Million Deal,neutral,0.05006035789847374
+2014-02-20,"The Federal Reserve has taken a laudable step on reining in foreign banks but continues to tolerate questionable choices for the board of the Federal Reserve Bank of New York, an economist writes.",positive,0.39402055740356445
+2014-02-20,Two Steps Forward and One Step Back for the Federal Reserve,neutral,0.06664923578500748
+2014-02-21,The bank also paid $196 million to settle charges that it advised clients in the United States without first registering with the Securities and Exchange Commission.,neutral,-0.22248169779777527
+2014-02-21,Credit Suisse Admits Guilt in Settling With S.E.C.,neutral,0.10047385096549988
+2014-02-26,"Pew Charitable Trusts has proposed a uniform explanation of terms, and JPMorgan Chase will adopt the format for its Liquid card.",neutral,0.08609015494585037
+2014-02-26,Disclosing the Fees on Prepaid Debit Cards,neutral,-0.02879454754292965
+2014-02-27,"One of JPMorgan Chase’s heads of debt capital markets, Andrew O’Brien, will take on a broader new role overseeing lending activity across the investment bank, the firm announced in an internal memo on Thursday.",neutral,0.06693846732378006
+2014-02-27,A JPMorgan Co-Head of Debt Capital Markets to Take a New Role,neutral,0.01710062101483345
+2014-03-01,JPMorgan Chase is trying to stop a shareholder’s proposal from going to a vote at its annual meeting.,negative,-0.8165680170059204
+2014-03-01,Break Up the Bank?,neutral,-0.2842232882976532
+2014-03-01,It’s Not for You to Ask,neutral,-0.22771364450454712
+2014-03-03,Berkshire Hathaway posted a record profit in 2013.,positive,0.7945947051048279
+2014-03-03,| Tensions in Ukraine rattle global financial markets.,negative,-0.9315667748451233
+2014-03-03,| A Mexican unit of Citigroup was defrauded of as much as $400 million.,negative,-0.9382973313331604
+2014-03-03,| A JPMorgan Chase shareholder has introduced a proposal to break up the bank.,neutral,-0.1838376224040985
+2014-03-03,| Mt.,neutral,-0.023376718163490295
+2014-03-03,Gox and a steady erosion of faith in the Bitcoin community.,negative,-0.9280580282211304
+2014-03-03,A Record Profit for Berkshire,positive,0.4016449451446533
+2014-03-05,A document sheds light on how a legal standoff has kept Bernard L. Madoff’s ties to JPMorgan’s shrouded in mystery.,neutral,-0.3834335505962372
+2014-03-05,| Moelis & Company files for an I.P.O.,neutral,-0.03622470796108246
+2014-03-05,| Wall Street’s latest hot thing could be appraisal rights.,neutral,0.00601070374250412
+2014-03-05,| The Supreme Court to hear arguments that could reshape securities fraud cases.,neutral,0.06713201850652695
+2014-03-05,| The website Silk Road had a digital outpost in Pennsylvania.,neutral,-0.008038138970732689
+2014-03-05,A Legal Standoff in the Madoff Case,negative,-0.7469609379768372
+2014-03-06,"The Justice Department may have feared reopening the debate about whether it adequately respects attorney-client privilege if it allowed regulators to pursue notes by JPMorgan Chase’s lawyers on the bank’s ties to Bernard L. Madoff, Peter J. Henning writes.",negative,-0.6806851029396057
+2014-03-06,The Hurdles in Getting Past a Wall of Silence,neutral,-0.08383318781852722
+2014-03-07,A Louisiana man who once worked for JPMorgan in its government insurance unit helped federal prosecutors make their case against the bank.,negative,-0.5744293928146362
+2014-03-07,Whistle-Blower Gets $63.9 Million as a Result of JPMorgan Settlement,neutral,0.08640547841787338
+2014-03-10,"Minerals Technologies agreed to pay about $1.7 billion, beating out Imerys of France, after a spirited back-and-forth for Amcol, a producer of specialty minerals and materials based in Illinois.",positive,0.8172205686569214
+2014-03-10,Minerals Technologies Wins Bidding War for Amcol International,positive,0.6357507705688477
+2014-03-12,"Julia Hoggett, a managing director at Bank of America Merrill Lynch, will join the Financial Conduct Authority in early May as head of investment banking as the regulator looks to bolster its expertise.",positive,0.5976588129997253
+2014-03-12,British Regulator Adds Industry Veteran to Supervise Investment Banks,neutral,0.02597517892718315
+2014-03-13,"Despite prosecutors’ recommendation for a prison sentence of at least 19 years, David Rubin of CDR Financial Products was sentenced to two years’ probation.",negative,-0.578719973564148
+2014-03-13,Financial Adviser Sidesteps Prison in Bond-Rigging Case,negative,-0.883202314376831
+2014-03-16,"In a post on its corporate blog, the company said it plans to list on an American stock market to become “a more global company.”",neutral,0.3665745258331299
+2014-03-16,Alibaba Confirms It Will Begin I.P.O.,neutral,0.0754157155752182
+2014-03-16,Process in U.S.,neutral,0.01532105915248394
+2014-03-17,Programs to help women return to the work force after a break to care for children or aging parents are increasing in the fields of finance and law.,neutral,0.2646739184856415
+2014-03-17,Helping Women Get Back in the Game,neutral,0.17128360271453857
+2014-03-18,"The nation’s four largest banks have more than fulfilled their financial obligations toward homeowners under a $25 billion settlement reached in 2012, according to a report.",positive,0.880987823009491
+2014-03-18,Big Banks Fulfill Part of Mortgage Deal,neutral,0.028236789628863335
+2014-03-19,"The privately held trading house Mercuria Energy Group, founded by two former oil traders, was already one of the four leading independent commodity traders in the world.",positive,0.5198866128921509
+2014-03-19,And that was before its $3.5 billion purchase of JPMorgan Chase’s physical commodities arm on Wednesday.,neutral,0.0017432421445846558
+2014-03-19,What Is Mercuria?,neutral,-0.03283578157424927
+2014-03-20,"The Fed, in its latest annual stress test of financial system, said the banks had adequate capital to withstand a severe downturn.",positive,0.8159893155097961
+2014-03-20,"Most Large Banks in U.S. Could Cope in Event of Turmoil, Fed Says",positive,0.8374555110931396
+2014-03-24,"A recent court ruling in a case involving Joseph P. Nacchio, the former chief executive of Qwest Communications, raises the question of how the tax code may be seen as indirectly subsidizing wrongdoing, Peter J. Henning writes in White Collar Watch.",neutral,-0.37290969491004944
+2014-03-24,Deducting the Costs of a Government Settlement,neutral,-0.015637509524822235
+2014-03-25,"The company hired Michael J. Cavanagh of JPMorgan Chase to be co-president with Glenn A. Youngkin, continuing a trend of going outside the firm for hiring.",neutral,0.24003192782402039
+2014-03-25,"For Carlyle, Recruiting an Outsider Is Not Unusual",neutral,0.009942162781953812
+2014-03-26,"Facebook to buy Oculus, a maker of a virtual reality headset.",neutral,0.35407575964927673
+2014-03-26,| A likely heir is leaving JPMorgan Chase.,neutral,-0.045915864408016205
+2014-03-26,| The maker of Candy Crush is set to trade on the N.Y.S.E.,neutral,0.03472051024436951
+2014-03-26,| The Murdochs take a step in succession planning.,neutral,0.16147953271865845
+2014-03-26,Facebook’s $2 Billion Deal for Oculus,neutral,0.07481680065393448
+2014-03-28,"Michael J. Cavanagh, the longtime JPMorgan Chase executive who is preparing to join the Carlyle Group, will make $7 million in salary and bonus, and will also receive restricted stock worth $32 million.",neutral,0.06856270879507065
+2014-03-28,Cavanagh to Receive $39 Million in Pay for Joining Carlyle,neutral,0.0199601873755455
+2014-03-31,"The collapse of Dewey & LeBeouf provides a good example of how a series of seemingly mundane accounting maneuvers led to guilty pleas and criminal charges, writes White Collar Watch columnist Peter J. Henning.",negative,-0.4095853269100189
+2014-03-31,Ordinary Decisions With Not So Ordinary Consequences,neutral,-0.17987464368343353
+2014-04-01,Technology that was once the stuff of James Bond movies and spy novels may soon turn up in local bank branches.,neutral,0.06564439088106155
+2014-04-01,Inside the (Smaller) Bank Branch of the Future,neutral,-0.013837732374668121
+2014-04-02,"In addition to running JPMorgan’s commodities business, Blythe Masters competes in horse shows occasionally and has enjoyed success recently in her equestrian pursuits.",neutral,0.05308288708329201
+2014-04-02,JPMorgan Executive May Trade Corporate Saddle for a Real One,neutral,-0.14570894837379456
+2014-04-03,"The JPMorgan executive’s exit from the bank could solve a longstanding search for a chairman of Glencore, the giant Swiss trading house, speculates Christopher Hughes of Reuters Breakingviews.",negative,-0.6355806589126587
+2014-04-03,A Vacant Chair for Blythe Masters,neutral,-0.3803456723690033
+2014-04-04,"Symantec is close to hiring JPMorgan Chase to defend the enterprise technology company against activist investors, people briefed on the matter say.",neutral,0.13712915778160095
+2014-04-04,Activists Seen as Possibly Circling Symantec,negative,-0.583103597164154
+2014-04-07,"Daniel E. Pinto, who two weeks ago became sole chief executive of JPMorgan Chase’s corporate and investment bank, has announced a number of executive shifts within his division.",neutral,-0.01366095244884491
+2014-04-07,JPMorgan to Shift Executives at Corporate and Investment Bank,negative,-0.6451737880706787
+2014-04-08,"The requirement could force the eight biggest banks in the United States to find as much as an additional $68 billion to put their operations on firmer financial footing, according to regulators’ estimates.",neutral,-0.18334004282951355
+2014-04-08,Banks Ordered to Add Capital to Limit Risks,neutral,0.03715486824512482
+2014-04-09,"“We came through it scarred but strengthened,” the JPMorgan chief executive says in his annual letter to shareholders.",positive,0.8944998979568481
+2014-04-09,Jamie Dimon Writes of ‘Nerve-Racking’ 2013,neutral,-0.29767942428588867
+2014-04-10,"In the last six months, many of the major banks have instituted what amounts to a radically new policy of urging junior staff members to take a few days off a month, on the weekends.",neutral,-0.15046411752700806
+2014-04-10,"Banks Ease Hours for Junior Staff, but Workload Stays Same",negative,-0.9302716851234436
+2014-04-11,"In its first quarter without significant special items, JPMorgan Chase still couldn’t make a case for clear sailing, Jeffrey Goldfarb writes for Reuters Breakingviews.",negative,-0.6850400567054749
+2014-04-11,"After the Squall, Chop Remains for JPMorgan Chase",neutral,-0.15457701683044434
+2014-04-14,"Top officers and directors of the social network, as well as its largest outside shareholder, say they will hang on to their shares when they get their first chance to sell in May.",neutral,0.08123738318681717
+2014-04-14,"That could prop up the stock, which is trading at half its record high, set in December.",positive,0.8845915198326111
+2014-04-14,The post also used an older name for the Benchmark venture capital firm.,neutral,0.01225021481513977
+2014-04-14,"The firm, long known as Benchmark Capital, changed its name to Benchmark in 2012.",neutral,0.05263395234942436
+2014-04-14,Twitter’s Biggest Shareholders Say They Won’t Sell Stock,negative,-0.4537080228328705
+2014-04-15,"On April 15, as individual taxpayers file, taking a look at a few opportunities for corporations that they may find slightly irksome.",neutral,-0.007719110697507858
+2014-04-15,Looking at Some Corporate Tax Loopholes Ordinary Citizens May Envy,neutral,-0.06654506921768188
+2014-04-16,"Bank of America’s $276 million loss provides some valuable perspective on the difficulties in running a big bank these days, Antony Currie of Reuters Breakingviews writes.",neutral,-0.08939707279205322
+2014-04-16,Bank of America Not Alone in Reporting Anemic Results,negative,-0.6896607875823975
+2014-04-21,"Investment banks, which rushed into the new territory of physical commodities starting at the turn of the century, are now beating a retreat.",neutral,-0.0636664405465126
+2014-04-21,Barclays Said to Join Commodity Exodus,neutral,0.04167664423584938
+2014-04-23,"The junk bond offering by Numericable, the French cable unit of Altice, is the largest in history and will help finance the acquisition of Vivendi’s mobile unit, SFR.",neutral,0.31118521094322205
+2014-04-23,Numericable Raises $10.9 Billion in Junk Bond Offering,neutral,0.07921356707811356
+2014-04-24,"The former JPMorgan Chase executive has been named a managing partner and the head of United States operations at Argentière Capital, a Swiss hedge fund founded less than a year ago.",neutral,0.08987432718276978
+2014-04-24,"Daley, Former White House Chief of Staff, Joins Hedge Fund",neutral,-0.08589330315589905
+2014-04-25,"Mr. Elliott, who is the global chairman of investment banking, will leave in June to spend more time on his ranch in Texas, according to the memo from Jeff Urwin, a co-head of global banking at the firm.",neutral,-0.07569790631532669
+2014-04-25,"Jimmy Elliott, a Senior JPMorgan Deal Adviser, to Retire",neutral,-0.009258506819605827
+2014-04-28,Bank of America was always expected to pay more than JPMorgan Chase’s $13 billion settlement.,neutral,0.3579927086830139
+2014-04-28,But how much more?,neutral,-0.08839374035596848
+2014-04-28,Doing the Math of a Bank of America Settlement,neutral,0.056042883545160294
+2014-05-01,"At a charity event on Wednesday, the chief of Goldman Sachs was overheard recounting a dinner with Jamie Dimon and Peter Sands, where they traded stories from the dark days of 2008.",neutral,-0.29973188042640686
+2014-05-01,A Dinner Among Survivors of the Financial Crisis,neutral,0.06637424230575562
+2014-05-07,"Six firms were listed as Alibaba’s lead underwriters, listed mostly in alphabetical order.",neutral,0.0070650698617100716
+2014-05-07,The I.P.O.,neutral,0.016673501580953598
+2014-05-07,could end up raising more than $20 billion.,neutral,0.13680274784564972
+2014-05-07,The Six Banks Leading Alibaba’s Giant I.P.O.,neutral,0.03691152110695839
+2014-05-08,"The $35 million investment by JPMorgan Chase and other firms is a vote of confidence in Motif Investing, an upstart online broker that lets investors buy a basket of stocks centered on a theme.",neutral,0.20710346102714539
+2014-05-08,"JPMorgan Backs an Online Broker, Motif Investing",neutral,-0.16175103187561035
+2014-05-09,Three executives of the social network sold stock on Tuesday after restrictions were lifted on insider selling after Twitter’s initial offering of stock.,neutral,0.011968187987804413
+2014-05-09,"A money manager that controlled 14.4 percent of Twitter’s stock also distributed its shares to its underlying investors, freeing them to sell, too.",neutral,0.051710259169340134
+2014-05-09,Twitter Insiders Sell After Lockup Expires,negative,-0.4538346827030182
+2014-05-13,"Even with new laws, derivatives remain mostly opaque, which means that the risks to governments and taxpayers are also opaque, Mayra Rodríguez Valladares writes in the Another View column.",neutral,-0.05449330806732178
+2014-05-13,"Derivatives Markets Growing Again, With Few New Protections",positive,0.6485636830329895
+2014-05-20,"European Commission competition authorities on Tuesday accused JPMorgan Chase, HSBC and Crédit Agricole of having colluded to fix benchmark interest rates tied to the euro.",negative,-0.9405906796455383
+2014-05-20,European Regulators Accuse 3 More Banks of Manipulating Interest Rates,negative,-0.8016658425331116
+2014-05-21,"The German lender Commerzbank said the traders were suspended for breaking internal rules, calling the incident “isolated” and stating that “the bank and the individuals concerned in no way profited.”",negative,-0.9155834317207336
+2014-05-21,Commerzbank Suspends 2 Currency Traders,negative,-0.8656889796257019
+2014-05-28,"Ian Hannam, JPMorgan’s former global chairman of equity capital markets, was accused by British regulators of improperly sharing inside information about a client and fined £450,000 in 2012.",negative,-0.8773810863494873
+2014-05-28,Former Top JPMorgan Banker in Britain Loses Appeal in Insider Case,negative,-0.7563245296478271
+2014-06-05,Henkel’s deal to acquire the Spotless Group from the European private equity firm BC Partners is expected to give a boost to the German company’s laundry and home care products unit.,positive,0.9301738142967224
+2014-06-05,Henkel to Buy French Detergent Maker for $1.3 Billion,neutral,0.05332586169242859
+2014-06-06,"You won’t find any Faulkner on JPMorgan’s summer reading list, but titles by Arianna Huffington and the physicist Michio Kaku made the cut.",neutral,0.06326262652873993
+2014-06-06,"Summer Reads, Courtesy of JPMorgan",neutral,0.006191389635205269
+2014-06-09,"TransferWise, which uses peer-to-peer technology to swap currencies without large bank transfer fees, says it has raised $25 million from investors.",positive,0.8177034258842468
+2014-06-09,A Lift for One of London’s Financial Tech Start-Ups,positive,0.7961282730102539
+2014-06-11,"Stricter regulations and low volatility are transforming the banking industry, driving banks to find additional, more stable sources of revenue or even to shift away from the business entirely, Steven M. Davidoff writes in the Deal Professor column.",neutral,0.30034545063972473
+2014-06-11,"In Tough Market, Investment Banks Seek Shelter or Get Out",negative,-0.7926186919212341
+2014-06-16,"The Bids for Kids Gala will honor the recently retired Yankees pitcher Mariano Rivera and James B. Lee Jr., vice chairman of JPMorgan Chase at an event expected to raise nearly $3 million.",neutral,0.32489925622940063
+2014-06-16,Mariano Rivera and JPMorgan’s James Lee Honored by Sports Charity,neutral,0.13747717440128326
+2014-06-19,"The First Data Corporation, a payment processing company owned by Kohlberg Kravis Roberts, is trying to improve its finances.",positive,0.8960727453231812
+2014-06-19,"Last year, it hired Frank Bisignano from JPMorgan Chase to be its chief executive.",neutral,0.06883839517831802
+2014-06-19,First Data to Raise $3.5 Billion to Reduce Debt,neutral,0.17344248294830322
+2014-06-25,"Lorin L. Reisner, who helped overhaul the S.E.C.’s enforcement unit before heading the criminal division of the United States attorney’s office in Manhattan, is expected to join a law firm.",neutral,0.04946564882993698
+2014-06-25,Senior U.S.,neutral,0.06418681144714355
+2014-06-25,Prosecutor Who Fought Wall St. Is Departing,neutral,-0.1368623673915863
+2014-07-01,"In an email to the bank’s employees and shareholders, Mr. Dimon said that doctors discovered the cancer at an early stage.",neutral,-0.017428182065486908
+2014-07-01,JPMorgan’s Jamie Dimon Has Throat Cancer That He Calls ‘Curable’,negative,-0.5780361890792847
+2014-07-02,Jamie Dimon has throat cancer.,neutral,-0.3021971583366394
+2014-07-02,| Puerto Rico’s power utility is struggling to pay its debts.,negative,-0.9548211097717285
+2014-07-02,| A single bidder won a Bitcoin auction by the U.S.,positive,0.732620358467102
+2014-07-02,Marshals Service.,neutral,0.01762997917830944
+2014-07-02,| Pershing Square has hired Credit Suisse as an adviser in its fight with Allergan.,neutral,0.039766017347574234
+2014-07-02,Morning Agenda: JPMorgan Chief Has ‘Curable’ Cancer,negative,-0.6100220680236816
+2014-07-03,Jamie Dimon is the latest leader to disclose an illness.,neutral,-0.15321269631385803
+2014-07-03,| The venture capitalist Tim Draper won the Bitcoin auction.,positive,0.5960416197776794
+2014-07-03,| A judge has narrowed the insider trading case against Rengan Rajaratnam.,negative,-0.7794202566146851
+2014-07-03,| Tyson has reached a deal for Hillshire.,neutral,0.4806661307811737
+2014-07-03,Morning Agenda: When the C.E.O.,neutral,0.0005850419402122498
+2014-07-03,Gets Sick,neutral,-0.034494489431381226
+2014-07-07,"The Spire Healthcare Group said it expected to price its offering at 2.10 pounds to 3 pounds a share, valuing the company at about $1.6 billion at the midpoint of that range.",neutral,0.1519976556301117
+2014-07-07,British Hospital Operator Spire Healthcare Sets Price Range for I.P.O.,neutral,0.028734467923641205
+2014-07-09,"AbbVie said it had “not received any written commitments of support” from shareholders of Shire for its latest takeover offer, which AbbVie has raised to about $51 billion.",positive,0.561552882194519
+2014-07-09,AbbVie Backtracks on Comments in Shire Bid,negative,-0.4587143659591675
+2014-07-10,The bank has recruited David Yi Li of UBS as it reshuffles management after an anti-bribery investigation.,neutral,0.08605767786502838
+2014-07-10,JPMorgan Hires New Chief for Its Operations in China,neutral,0.06750374287366867
+2014-07-14,"With this deal, the Italian insurer will have sold assets totaling 3.7 billion euros, or about $5 billion, as it focuses on its core insurance business and shores up its capital position.",positive,0.5977352857589722
+2014-07-14,Generali Sells Swiss Private Bank to BTG Pactual for $1.7 Billion,neutral,0.021855292841792107
+2014-07-15,The review by the Financial Stability Board is part of a series of proposals to potentially reshape foreign exchange markets.,neutral,0.2827927768230438
+2014-07-15,Review Board Examining Extending Currency Benchmark Window,neutral,0.04691508784890175
+2014-07-16,"Many existing backers seem to have returned to Gávea Investments’ new fund, suggesting there remains an appetite for investing in Latin America’s largest economy.",positive,0.743923544883728
+2014-07-16,Brazilian Private Equity Firm Near Closing on $1 Billion Fund,neutral,0.04050460457801819
+2014-07-23,The products provide a different kind of payout: good will from regulators and a chance to woo customers who might one day become profitable.,positive,0.5183287262916565
+2014-07-23,Lenders Offer Low-Cost Services for the Unbanked,neutral,0.02498125284910202
+2014-07-25,"DealBook looks back at the career of Alan C. Greenberg, who led Bear Stearns through its rise and fall, in his words and others’.",neutral,0.04780961200594902
+2014-07-25,"Remembering Ace Greenberg, Through Good Times and Bad",neutral,0.08228929340839386
+2014-07-29,"A selection of Wall Street’s old guard turned up on Tuesday to remember Alan C. Greenberg, the longtime leader of the firm, who died on Friday at 86.",neutral,0.09843919426202774
+2014-07-29,"Wall Street Bids Farewell to Alan Greenberg, Head of Bear Stearns",neutral,0.37243783473968506
+2014-07-30,Argentina has spent years battling a group of hedge funds that want full payment on bonds that defaulted in 2001.,negative,-0.7789132595062256
+2014-07-30,Some answers to questions about the dispute.,neutral,0.04729493334889412
+2014-07-30,Q. and A.: Exploring What’s Behind the Battle Over Argentina’s Debt,neutral,-0.007241817191243172
+2014-08-11,JPMorgan Chase’s spinoff deal with Lexington Partners and AlpInvest Partners will allow One Equity Partners to become an independent firm.,neutral,0.07747099548578262
+2014-08-11,JPMorgan Strikes Deal to Spin Off Its Private Equity Arm,neutral,-0.07330672442913055
+2014-08-12,"The appointment of Winfried Bischoff, who left the Lloyds Banking Group in April, comes as JPMorgan Chase and other banks seek to strengthen their international governance and put a greater emphasis on culture.",positive,0.7876110672950745
+2014-08-12,Winfried Bischoff Joins Board of JPMorgan in Europe,neutral,0.03702984005212784
+2014-08-22,Banks fear competition for top talent from companies like Google and Facebook that can offer similarly high pay combined with luxurious benefits.,negative,-0.8539234399795532
+2014-08-22,Wall Street Banks Dig Deeper to Keep Best and Brightest Junior Bankers,neutral,0.017725124955177307
+2014-08-25,The S.E.C.,neutral,0.014058640226721764
+2014-08-25,"may have to reconsider how it pursues cases if two challenges to its use of administrative proceedings are successful, Peter J. Henning writes in the White Collar Watch column.",neutral,0.046092160046100616
+2014-08-25,The S.E.C.’s Use of the ‘Rocket Docket’ Is Challenged,neutral,-0.0010713711380958557
+2014-08-27,"The hackers stole gigabytes of data, including account information.",negative,-0.8656870722770691
+2014-08-27,It is not yet clear if the attacks were financially motivated or part of a cyberespionage campaign.,negative,-0.5278337597846985
+2014-08-27,JPMorgan and Other Banks Struck by Hackers,negative,-0.7830339670181274
+2014-08-28,JPMorgan Chase and other United States banks struck by cyberattack.,negative,-0.9298864006996155
+2014-08-28,| Alibaba’s profit soared.,positive,0.922738790512085
+2014-08-28,| Lending Club filed to go public.,neutral,-0.10174363851547241
+2014-08-28,| Still work to be done to hold corporate malefactors accountable.,neutral,-0.05890299752354622
+2014-08-28,Morning Agenda: Hackers Hit U.S. Banks,negative,-0.9094051718711853
+2014-09-03,Bank and computer security company employees and law enforcement officials are tracing the track taken by the latest batch of stolen cards.,negative,-0.6882025599479675
+2014-09-03,Path of Stolen Credit Cards Leads Back to Home Depot Stores,negative,-0.527892529964447
+2014-09-08,"The deal to acquire Cheminova is expected to bolster FMC, a Philadelphia-based company that supplies insecticides, fungicides and other chemicals to the agriculture industry.",positive,0.9168190360069275
+2014-09-08,FMC to Acquire Danish Insecticide Maker for $1.4 Billion,neutral,0.04817681387066841
+2014-09-09,The Fed will propose capital requirements for big banks that will be higher than those demanded under international regulations.,neutral,0.11903656274080276
+2014-09-09,Federal Reserve Signals Intent to Pressure Largest Banks to Slim Down,neutral,-0.10063837468624115
+2014-09-10,"The Federal Reserve’s proposal and other rules could increase pressure on big banks to reduce, or even sell, traditionally profitable operations like lending to hedge funds.",negative,-0.8683278560638428
+2014-09-10,"Fed Proposes New Rule, and Wall St. Banks Feel the Pressure",neutral,0.12479358911514282
+2014-09-12,"Over two months, hackers gained entry to dozens of the bank’s servers, said three people with knowledge of the bank’s investigation into the episode.",negative,-0.8179022669792175
+2014-09-12,"After Breach, JPMorgan Still Seeks to Determine Extent of Attack",neutral,-0.15779753029346466
+2014-09-21,The following tax-exempt fixed-income issues are scheduled for pricing this week.,neutral,0.009301049634814262
+2014-09-21,Treasury Auctions Set for the Week of Sept. 22,neutral,-0.008648965507745743
+2014-09-23,"Russia, which was supposed to be a growth market for Wall Street, is turning out to be a potential financial and political nightmare amid the Ukraine situation and America’s sanctions.",negative,-0.9324413537979126
+2014-09-23,High Hopes for Russia Are Fading on Wall St.,negative,-0.8969192504882812
+2014-09-26,"The Financial Conduct Authority of Britain informed six of the world’s biggest banks this week that it hoped to strike a so-called global settlement by early November, said people briefed on the matter.",negative,-0.34494930505752563
+2014-09-26,British Regulators Discuss Settlement With Banks in Currency Case,neutral,0.08413219451904297
+2014-09-29,"Mr. Holder’s tenure as attorney general was marked by multibillion-dollar settlements with big banks but few prosecutions of executives, Peter J. Henning writes in the White Collar Watch column.",neutral,0.051901672035455704
+2014-09-29,Eric Holder’s Mixed Legacy on White-Collar Crime,neutral,-0.22434155642986298
+2014-09-30,"Among this year’s class of first-year bankers, known on Wall Street as analysts, 77.5 percent are men, a report by the recruiting start-up Vettery found.",neutral,0.02571827545762062
+2014-09-30,"Wall Street’s Young Bankers Are Still Mostly White and Male, Report Says",neutral,-0.11745305359363556
+2014-10-01,"The British media and marketing firm’s acquisition of Advanstar, a private company, would create the largest events organizer in the United States.",positive,0.7267121076583862
+2014-10-01,UBM to Buy U.S. Trade Show Organizer for $972 Million,neutral,0.04036862030625343
+2014-10-02,Regulatory filings and court documents tied the giant investment bank.,neutral,-0.20785263180732727
+2014-10-02,Documents on JPMorgan Chase,neutral,0.006054304540157318
+2014-10-03,Consumers can lessen the risk of financial harm to themselves from big data breaches like the one at JPMorgan Chase.,positive,0.5649369359016418
+2014-10-03,Ways to Protect Yourself After the JPMorgan Hacking,neutral,-0.035587795078754425
+2014-10-04,"As the breadth and potential source of the attack on JPMorgan Chase became clearer, Washington officials urgently expressed concern about the potential for more serious attacks in the future.",negative,-0.8969579339027405
+2014-10-04,Hackers’ Attack Cracked 10 Financial Firms in Major Assault,negative,-0.8394461870193481
+2014-10-06,"BCA, which is backed by the private equity firm Clayton, Dubilier & Rice, expects to raise 200 million pounds, or about $319 million, in its offering.",positive,0.5153564810752869
+2014-10-06,"The company sold more than 900,000 vehicles in 2013.",neutral,0.037923939526081085
+2014-10-06,Used-Car Auctioneer BCA Marketplace Plans I.P.O.,neutral,0.029519733041524887
+2014-10-06,in London,neutral,0.014151468873023987
+2014-10-07,"Around a dozen major banks are being investigated after being accused of colluding to set currency levels, and several are expected to plead guilty.",negative,-0.8720213770866394
+2014-10-07,Big Banks Face Another Round of U.S. Charges,negative,-0.8031572699546814
+2014-10-08,Officials say no one could answer what the president wanted to know most: What was the motive of the attack?,neutral,-0.4418986737728119
+2014-10-08,Obama Had Security Fears on JPMorgan Data Breach,negative,-0.6040211915969849
+2014-10-10,The deal may give other merger practitioners ideas.,neutral,0.0866294801235199
+2014-10-10,"The rise in global mergers may spawn a super-boutique or entice a big bank to buy an independent firm, Jeffrey Goldfarb of Reuters Breakingviews writes.",neutral,0.22273091971874237
+2014-10-10,Blackstone’s Move Could Set Off a Trend,negative,-0.4528377056121826
+2014-10-14,JPMorgan Chase’s earnings missed estimates thanks to legal and other costs.,negative,-0.9563337564468384
+2014-10-14,"The investment bank is punching below its weight, notes Antony Currie of Reuters Breakingviews.",negative,-0.8649246096611023
+2014-10-14,And cybersecurity is a growing worry.,neutral,-0.3641100525856018
+2014-10-14,Challenges Old and New for Jamie Dimon,neutral,0.24498432874679565
+2014-10-15,A $5.3 billion charge stemming from a record mortgage settlement overshadowed decent quarterly results in the bank’s investment banking business.,negative,-0.9132921695709229
+2014-10-15,Legal Charge for Mortgage Settlement Decreases Profit at Bank of America,negative,-0.9554625153541565
+2014-10-16,AbbVie walks away from its bid to acquire Shire.,negative,-0.9017959833145142
+2014-10-16,| JPMorgan cyberattack also hit its race website.,negative,-0.9193032383918762
+2014-10-16,| Fear returns to Wall Street.,negative,-0.756687581539154
+2014-10-16,Morning Agenda: AbbVie’s Cold Feet,negative,-0.40304267406463623
+2014-10-17,How well do you know Wall Street?,neutral,0.018494034186005592
+2014-10-17,"Match the statements from analysts , executives and spokesman from eight financial giants.",neutral,0.06962953507900238
+2014-10-17,Weekend Reading: Take the Wall St. Earnings Quiz,neutral,0.04785305634140968
+2014-10-20,"JPMorgan Chase is moving more of its bond trading to electronic platforms, following a trend on Wall Street in stock trading, which was transformed by automation years ago.",neutral,0.34554505348205566
+2014-10-20,Shouts on Bond-Trading Floor Yield to Robot Beeps,neutral,-0.08714659512042999
+2014-10-21,"Regulators are said to be discussing how to improve a critical area of cybersecurity: outside vendors, including law, accounting and marketing firms and even janitorial companies.",positive,0.637118935585022
+2014-10-21,"After JPMorgan Chase Breach, Push to Close Wall St. Security Gaps",negative,-0.6309338808059692
+2014-10-22,Federal authorities are stepping up efforts to fortify big banks against cyberattacks.,positive,0.47952717542648315
+2014-10-22,| States are easing laws that helped poor borrowers.,positive,0.48962992429733276
+2014-10-22,| Google places a big bet on augmented reality.,positive,0.47381043434143066
+2014-10-22,| Amgen is under pressure to break up.,negative,-0.5400323867797852
+2014-10-22,Morning Agenda: Push to Bolster Banks’ Cyberdefenses,positive,0.6992993950843811
+2014-10-27,"Over the last decade, the managing director of DBL Investors, Nancy Pfund, has quietly built a reputation as the go-to venture capitalist for companies looking to make a social impact.",neutral,0.3648544251918793
+2014-10-27,Venture Capital Firm Invests in Start-Ups With a Social Mission,neutral,0.04689802974462509
+2014-10-31,The bank was able to identify intruders on its network by looking for digital fingerprints seen on a trove of stolen data uncovered elsewhere.,neutral,0.2897898852825165
+2014-10-31,Luck Played Role in Discovery of Data Breach at JPMorgan Affecting Millions,neutral,0.09516191482543945
+2014-11-03,The bank added $1.3 billion to its estimate of the amount of legal costs it might face for current investigations.,neutral,0.19192039966583252
+2014-11-03,"Under Investigation, JPMorgan Increases Its Potential Legal Costs",negative,-0.5265675187110901
+2014-11-04,Sex and drug claims at Jefferies draw a risky retort.,negative,-0.8717390298843384
+2014-11-04,| JPMorgan lifts its estimate for legal costs.,negative,-0.19810333847999573
+2014-11-04,| Tough quarter for Sprint highlights lost promise of T-Mobile US deal.,negative,-0.9615814685821533
+2014-11-04,"Morning Agenda: Sex, Drugs and Investment Banking",neutral,-0.003122936934232712
+2014-11-06,"The website, which had been largely inoperable since hackers broke into the bank’s network this summer, is slowly returning after another security fix.",neutral,0.2571558952331543
+2014-11-06,Another Security Fix Is Made to JPMorgan Chase’s Race Website,neutral,0.2023753523826599
+2014-11-10,"Lawrence Baldwin is one of the more well-known and valuable allies of financial institutions in their fight against online crime, but the nature of his work means he keeps a very low profile.",neutral,-0.09175045043230057
+2014-11-10,"On the Hunt for Wall St. Hackers, but Not the Spotlight",neutral,-0.31903672218322754
+2014-11-11,"The next phase of the case will most likely present a greater test to the banks, as the focus shifts to criminal investigations and individual liability.",neutral,0.06982575356960297
+2014-11-11,"As Currency Settlement Draws Near, Barclays Gets Cold Feet",negative,-0.6875876188278198
+2014-11-12,Foreign exchange traders employed colorful code names like the 3 Musketeers as they plotted ways to “mangle” the currency markets.,neutral,-0.025836922228336334
+2014-11-12,"The Things Traders Say, Foreign Exchange Edition",neutral,0.030534788966178894
+2014-11-13,"The practice, under investigation by the Justice Department, affects tens of thousands of Americans, impairing their ability to secure housing and jobs.",negative,-0.9374697208404541
+2014-11-13,Debts Canceled by Bankruptcy Still Mar Consumer Credit Scores,negative,-0.7984031438827515
+2014-11-17,Two days of Senate hearings are the culmination of a two-year investigation into the role that Wall Street banks play in the commodities markets.,neutral,-0.09280698746442795
+2014-11-17,"Goldman, JPMorgan and Morgan Stanley Executives to Be Questioned at Commodities Hearing",neutral,-0.37716346979141235
+2014-11-19,"A two-year Senate-led investigation is throwing back the curtain on the outsized and sometimes hidden sway that Wall Street banks have gained over the markets for essential commodities like oil, aluminum and coal.",negative,-0.8227564692497253
+2014-11-19,Senate Report on Wall Street’s Role in Commodities,neutral,0.0337468646466732
+2014-11-21,"Firms are creating units to serve a variety of ethnic groups, races, genders and members of the lesbian, gay, bisexual and transgender communities.",neutral,0.08199118822813034
+2014-11-21,Private Banking Firms Turn to Niche Marketing for Clients,neutral,-0.03831726685166359
+2014-11-26,About 30 traders at various financial institutions have been suspended or fired after internal inquiries.,negative,-0.9464753866195679
+2014-11-26,Bank of New York Mellon Fires Currency Trader After Internal Review,negative,-0.8625984191894531
+2014-12-05,"A panel plans to hold a hearing next week on ways to “protect the financial sector” from cyberattacks, but for now there are no plans to have anyone from the financial services industry testify.",neutral,-0.11872705817222595
+2014-12-05,Senate to Hold Hearing on Cyberattacks Against Finance,neutral,-0.3431430459022522
+2014-12-10,A Federal Reserve official singled out JPMorgan Chase as the bank likely to have the biggest need for more capital under the rules.,neutral,0.20516422390937805
+2014-12-10,It could be required to increase its capital by $22 billion.,positive,0.7741314172744751
+2014-12-10,JPMorgan Chase Says It Hopes to Meet New Capital Rules With No Major Changes,positive,0.6000816822052002
+2014-12-11,"Finra fined the firms $43.5 million, saying they implicitly or explicitly offered favorable research coverage in return for a role in a planned I.P.O.",negative,-0.8831744194030762
+2014-12-11,10 Wall Street Firms Fined Over Conflicts in Toys ‘R’ Us I.P.O.,negative,-0.9407553672790527
+2014-12-17,"James E. Staley, a managing partner at the New York hedge fund BlueMountain Capital Management, is expected to be considered for the board during UBS’s annual meeting in May, and to join the bank’s risk committee.",neutral,0.01703009381890297
+2014-12-17,UBS to Nominate Former Head of JPMorgan’s Investment Bank to Board,neutral,-0.04029383137822151
+2014-12-23,"Companies still need to invest in cyberprotection and detection, says Richard Beales of Reuters Breakingviews.",neutral,0.049410611391067505
+2014-12-23,The Need for Bank Cyberinsurance,neutral,-0.06669978052377701
+2014-12-24,"JPMorgan is mostly laying out what it has already done after commissioning a report detailing how it has responded to crises, Antony Currie writes in Reuters Breakingviews.",neutral,0.11258238554000854
+2014-12-24,"In JPMorgan Chase Report, Worrying Admissions and Ideas for Improvement",neutral,-0.07181749492883682
+2015-01-08,"Figures recently released show that Goldman Sachs paid, on average, $4.7 million to 121 people classified as “material risk takers” in 2013.",neutral,-0.14919446408748627
+2015-01-08,"Top Bankers in Europe Making Big Bonuses, According to Latest Data",neutral,0.04094094783067703
+2015-01-13,"MetLife’s stance to challenge the decision to designate it a “systemically important financial institution” carries risks, writes Rob Cox of Reuters Breakingviews.",positive,0.09546118974685669
+2015-01-13,MetLife’s Decision to Challenge Regulators May Backfire,neutral,-0.037417441606521606
+2015-01-14,"More lending is doing little for results, revenue was down and expenses were up.",negative,-0.9622754454612732
+2015-01-14,"The outlook is not rosy for Jamie Dimon or his rivals, says Antony Currie of Reuters Breakingviews.",negative,-0.5845372080802917
+2015-01-14,JPMorgan Chase’s Results Augur a Year of Mediocrity for Big Banks,positive,0.24525406956672668
+2015-01-15,Banks are blaming market ups and downs for hurting earnings.,negative,-0.9355770349502563
+2015-01-15,"That’s rich after years of claiming conditions were too docile, writes Antony Currie of Reuters Breakingviews.",negative,-0.4665721654891968
+2015-01-15,Volatility Is the New Weather for Banks,neutral,0.010611481964588165
+2015-01-16,The business of hacking is an increasingly personal enterprise.,neutral,-0.006374159827828407
+2015-01-16,| Currency traders are reeling from the appreciation in the Swiss franc.,negative,-0.727451741695404
+2015-01-16,| A trading slowdown at Citigroup raised questions about the Wall Street trading machine.,negative,-0.8850990533828735
+2015-01-16,| Caesars is in a bitter standoff with creditors after putting a unit into bankruptcy.,negative,-0.9491671323776245
+2015-01-16,Morning Agenda: Hackers for Hire,neutral,-0.24028511345386505
+2015-01-19,Soaring stock prices and major advances in fighting diseases have some saying the industry has turned a corner and others watching for a bursting bubble.,positive,0.4867329001426697
+2015-01-19,"Riding High, Biotech Firms Remain Wary",neutral,-0.168306365609169
+2015-01-20,Douglas L. Braunstein and James C. Woolery plan to work hand-in-hand with management and boards rather than threatening to wage proxy fights.,neutral,0.07418204843997955
+2015-01-20,2 Wall Street Deal Makers Form an Activist Fund With a Twist,neutral,0.07291145622730255
+2015-01-22,"Jamie Dimon’s pay stayed flat at $20 million, but he is receiving $7.4 million in easier-to-access cash instead of restricted stock.",negative,-0.45708155632019043
+2015-01-22,"Lloyd Blankfein received a $1 million bump, to $24 million.",neutral,0.19149456918239594
+2015-01-22,JPMorgan Chase and Goldman Sachs Chiefs to Get a Sweeter Pay Package,neutral,0.03879794478416443
+2015-01-23,"With stock gains at the big banks slowing, cash bonuses may seem relatively more appealing to bank bosses.",neutral,-0.2134261578321457
+2015-01-23,"Investors should keep that in mind, Antony Currie of Reuters Breakingviews writes.",neutral,0.0981404259800911
+2015-01-23,Hint for Investors in Rise in Cash for Wall St. Chiefs’ Pay,neutral,0.14886778593063354
+2015-01-27,"Chief executives of successful companies may deserve handsome pay packages, but how do you value the contribution of the average worker?",neutral,0.18463680148124695
+2015-01-27,S.E.C.,neutral,0.030168529599905014
+2015-01-27,Has Yet to Set Rule on Tricky Ratio of C.E.O.’s Pay to Workers’,negative,-0.6768409609794617
+2015-02-10,The Justice Department is pushing banks to plead guilty to settle a currency inquiry.,negative,-0.7013433575630188
+2015-02-10,| A disproportionate number of companies led by women are the targets of activist investors.,neutral,-0.4113798439502716
+2015-02-10,| Puerto Rico’s debt plan is in jeopardy.,negative,-0.8951354622840881
+2015-02-10,| Profit at UBS rises.,positive,0.12731114029884338
+2015-02-10,Morning Agenda: U.S. Presses Banks for Guilty Pleas,negative,-0.6944917440414429
+2015-02-13,"Executives from Bloomberg, Citigroup, Deloitte, First Data, IAC/InterActiveCorp, IBM and Mohegan Sun joined officials from the F.B.I., the Secret Service and the Justice Department to discuss cooperation in fighting cybercrime.",neutral,0.40246373414993286
+2015-02-13,Hacking Conference Brings Together Corporate and Law Enforcement Heavyweights,neutral,0.04838806018233299
+2015-02-19,"Wall Street is in a transformation, as bonuses shrink, revenue growth stalls and business lines are cut, driven primarily by regulatory efforts.",negative,-0.927037239074707
+2015-02-19,New Rules Spur a Humbling Overhaul of Wall St. Banks,neutral,0.14691776037216187
+2015-02-23,Banks and law firms are planning to set up a group that would be affiliated with the banking industry’s forum for sharing data on online threats.,neutral,0.035684987902641296
+2015-02-23,Wall St. and Law Firms Plan Cooperative Body to Bolster Online Security,positive,0.5987745523452759
+2015-02-24,"Faced with regulations that will raise its costs, JPMorgan spent investor day highlighting the ways it would not get any bigger — and would be better off remaining whole.",neutral,0.07198300957679749
+2015-02-24,JPMorgan Chase Insists It’s Worth More as One Than in Pieces,neutral,0.044493418186903
+2015-02-25,"The German firm said that it had hired Jeff Urwin, JPMorgan’s co-head of global banking, to help lead its core investment banking and trading units.",neutral,0.24481934309005737
+2015-02-25,Deutsche Bank Poaches Senior Banker From JPMorgan,negative,-0.8300195336341858
+2015-02-26,Demands by a federal judge in Manhattan are said to have led JPMorgan Chase and Deutsche Bank to pull back on their deal preparations.,negative,-0.9165279269218445
+2015-02-26,Argentina Bond Sale Is Suspended Amid Hedge Fund Pressure,negative,-0.9167449474334717
+2015-02-28,A new paper says high-growth financial industries hurt the broader economy by dragging down overall growth and curbing productivity.,negative,-0.9526439309120178
+2015-02-28,Smothered by a Boom in Banking,negative,-0.3443535566329956
+2015-03-02,The diverging prospects for JPMorgan’s biggest businesses are reflective of a split within the broader financial industry.,negative,-0.5064330697059631
+2015-03-02,"At JPMorgan Chase, Business Tilts Toward the Consumer Side and Away From Wall St.",negative,-0.6194372773170471
+2015-03-03,"Warren E. Buffett, the billionaire chairman of Berkshire Hathaway, has released his annual shareholder letter, and it is unusually critical of the financial industry.",negative,-0.6314449310302734
+2015-03-03,A Warning From Buffett About Banks,negative,-0.3293118476867676
+2015-03-04,Anu Aiyengar and Henry Gosebruch will assume the newly created roles as JPMorgan continues to benefit from a strong deal-making environment.,positive,0.6916705369949341
+2015-03-04,JPMorgan Promotes Two to Run Mergers in North America,neutral,-0.0023720432072877884
+2015-03-11,"Bank of America must resubmit its capital plan, while units of Deutsche Bank and Santander of Spain failed the tests outright.",neutral,0.22345572710037231
+2015-03-11,"U.S. Banks Pass Stress Tests, Some With an Asterisk",neutral,0.0915343388915062
+2015-03-12,"Goldman Sachs, Morgan Stanley and JPMorgan Chase all had to pay shareholders less than they had originally requested.",negative,-0.865588366985321
+2015-03-12,Here is a back-of-the-envelope estimate of what was cut.,neutral,-0.0946093499660492
+2015-03-12,What 3 Banks May Have Cut to Pass the Stress Tests,negative,-0.6016266942024231
+2015-03-13,"As foreign investors clamored for a piece of China’s real estate boom, it was easy to overlook the type of risk that brought down the property developer Kaisa.",neutral,-0.11393743008375168
+2015-03-13,"In China, a Building Frenzy’s Fault Lines",negative,-0.8562308549880981
+2015-03-16,Deployed service members often cannot sue lenders for violating laws that protect them from repossessions and foreclosures because of legal language that forces them into arbitration.,negative,-0.8936183452606201
+2015-03-16,"Failed by Law and Courts, Troops Come Home to Repossessions",negative,-0.7183288335800171
+2015-03-19,"Banks will not like the scrutiny of having such a vote, but it’s a worthwhile debate to air publicly.",neutral,0.04586433619260788
+2015-03-19,Putting a Breakup of Bank of America to a Shareholder Vote,neutral,-0.009669266641139984
+2015-04-01,Total compensation of $22.5 million is more than Jamie Dimon’s at JPMorgan Chase but less than Lloyd Blankfein’s at Goldman Sachs.,neutral,0.026855334639549255
+2015-04-01,Morgan Stanley’s James Gorman Gets 25% Raise,neutral,0.13338245451450348
+2015-04-09,"Big banks that can cut costs by 2 percent while adding revenue and avoiding fines could achieve a combined 12 percent return on equity by 2017, a calculation shows.",positive,0.836456835269928
+2015-04-09,Investment Banks Are Within Reach of Adequate Returns,neutral,0.07416624575853348
+2015-04-10,JPMorgan Chase and Centerview Partners are in line to claim both large fees and great prestige in helping General Electric navigate its divestiture.,positive,0.7835619449615479
+2015-04-10,Longtime G.E.,neutral,0.07896066457033157
+2015-04-10,Advisers Tapped Again for Plum Assignment,neutral,-0.04105304181575775
+2015-04-13,"Emilio Saracho, who has been the deputy chief executive for the investment bank’s Europe, Middle East and Africa business, will become a vice chairman.",neutral,0.03143506497144699
+2015-04-13,JPMorgan Names Senior Executives for Europe,neutral,-0.019220637157559395
+2015-04-14,The bank experienced rebounds in some of the big businesses that had been lagging and fueling criticism of the company.,negative,-0.9426552653312683
+2015-04-14,JPMorgan Chase Profit Rises 12% on Strong Trading,positive,0.6233848333358765
+2015-04-15,"Wells Fargo reported a rare decline in first-quarter profit, and JPMorgan Chase lifted its overall performance in the quarter.",negative,-0.9153277277946472
+2015-04-15,Results at Wells Fargo and JPMorgan Show Slower Consumer Banking,negative,-0.9331244230270386
+2015-04-16,Michael J. Oppenheim is accused of embezzling money from his clients over the last four years.,negative,-0.6946945786476135
+2015-04-16,Former JPMorgan Chase Broker Charged in $20 Million Fraud,neutral,-0.3229268193244934
+2015-04-26,"As head of the asset forfeiture unit at the United States attorney’s office in Manhattan, Ms. Levin helped get corporate giants and others to pay some $15 billion in penalties.",neutral,0.03374318778514862
+2015-04-26,"Sharon Levin to Leave U.S. Attorney’s Office for WilmerHale, Joining Other Ex-Prosecutors",negative,-0.4601975977420807
+2015-04-28,"The drop comes as the bank prepares this year to replace its chief executive with William T. Winters, the former head of JPMorgan Chase’s investment bank.",negative,-0.9497393369674683
+2015-04-28,Standard Chartered Profit Declined 22 Percent in First Quarter,negative,-0.9704291820526123
+2015-05-01,"The first day of the month, which happened to land on a Friday, is said to have led to overwhelming traffic.",positive,0.7690991163253784
+2015-05-01,Chase Website Issue Said to Be Caused by Heavy Customer Use,negative,-0.860913872718811
+2015-05-08,The two banks have agreed to update borrowers’ reports within the next three months to reflect that the debts were canceled.,neutral,0.3607502579689026
+2015-05-08,Bank of America and JPMorgan Chase Agree to Erase Debts From Credit Reports After Bankruptcies,neutral,0.29847458004951477
+2015-05-12,"Keith Canton, formerly of Lehman Brothers and Barclays, will become head of private capital markets at the bank.",neutral,0.027531394734978676
+2015-05-12,JPMorgan Hires Banker for Private Financing,neutral,-0.025791505351662636
+2015-05-13,"Citing chat room messages replete with typos, jargon and vulgarities, regulators have fined big banks, accusing them of conspiring to manipulate the foreign currency markets and global interest rates.",negative,-0.9072291851043701
+2015-05-13,Settlements in Foreign Exchange and Interest Rate Cases,neutral,0.04426905885338783
+2015-05-14,"As much as prosecutors may want to punish the banks, which are accused of rigging the price of foreign currencies, they are mindful that too harsh a penalty could imperil the businesses.",negative,-0.8419439792633057
+2015-05-14,"5 Big Banks Expected to Plead Guilty to Felony Charges, but Punishments May Be Tempered",negative,-0.7684271335601807
+2015-05-20,Attorney General Loretta E. Lynch said that four of the world’s largest banks would pay more than $2.5 billion after pleading guilty to manipulating foreign exchange rate markets.,negative,-0.8106403946876526
+2015-05-20,Attorney General Announces Bank Fines,neutral,0.04530338570475578
+2015-05-26,The $56.7 billion cable deal provides a big boost to the boutique investment banks involved.,positive,0.9149003624916077
+2015-05-26,Charter’s Advisers Stage a Comeback,neutral,-0.01974491775035858
+2015-06-02,"If companies are going to fight activist investors who call for breakups or spinoffs, they should also be more honest about downsides of mergers.",neutral,0.3135814070701599
+2015-06-02,"Breaking Up Companies Creates Extensive Costs, Too",neutral,-0.4175165593624115
+2015-06-11,"The head of the bank’s technology, media and telecommunications team, Kurt Simon, will become global chairman of mergers and acquisitions.",neutral,0.026389198377728462
+2015-06-11,JPMorgan Shakes Up a Banking Team,negative,-0.5955191850662231
+2015-06-17,Mr. Lee was a vice chairman at JPMorgan Chase and was widely credited with developing the leveraged loan market in the United States.,neutral,0.16232725977897644
+2015-06-17,"Jimmy Lee, Investment Banking Force, Dies at 62",neutral,-0.27093061804771423
+2015-06-18,"The White House discouraged participation, but that reportedly didn’t stop 70 American chief executives and officers.",negative,-0.8422892689704895
+2015-06-18,And the European turnout was even greater.,positive,0.7971545457839966
+2015-06-18,"Despite Tensions, U.S. Company Officials Attend Russian Economic Forum",neutral,-0.0617545023560524
+2015-06-22,"Mr. Lee, who died on Wednesday, was responsible for securing some of the bank’s most prominent deals.",neutral,0.047349657863378525
+2015-06-22,Jimmy Lee of JPMorgan Chase Remembered for Shaping an Industry,neutral,0.10021473467350006
+2015-07-01,"The volume of deals announced in the first half of the year is approaching that of 2007, but some bankers fear an unforeseen crisis could upend the boom.",negative,-0.9114896655082703
+2015-07-01,"On Wall Street, Cautious Optimism as Merger Deals Near Peak Level",positive,0.421852171421051
+2015-07-06,Mr. Cutler will be succeeded as general counsel by Stacey Friedman next year.,neutral,0.01564611867070198
+2015-07-06,"Stephen Cutler, JPMorgan’s General Counsel, to Become Vice Chairman",neutral,0.024548355489969254
+2015-07-10,The resolution plans are intended to give the general public some idea of the progress that has been made toward preventing banks from being “too big to fail.”,neutral,0.3835219144821167
+2015-07-10,Banks’ ‘Living Wills’ Are Murky Guides,negative,-0.40421062707901
+2015-07-14,"The banking giant bolstered profits despite revenue declines in several divisions, including mortgage banking and fixed-income trading.",positive,0.7504259943962097
+2015-07-14,JPMorgan’s Profit Rises 5% as Its Expenses Fall,positive,0.6807985901832581
+2015-07-15,"The subprime auto lender, facing pressure from regulators, has selected a longtime JPMorgan executive who faced her own regulatory scrutiny.",neutral,-0.015164997428655624
+2015-07-15,Santander Consumer USA Names Blythe Masters Chairwoman,neutral,-0.015681622549891472
+2015-07-16,"An investigation into a trader whose risky bets cost JPMorgan Chase $6.2 billion has ended, but who, if anyone, will be held accountable remains an open question.",negative,-0.7986494898796082
+2015-07-16,Convictions Prove Elusive in ‘London Whale’ Trading Case,negative,-0.7332881093025208
+2015-07-20,"Under the regulations, the banks with the biggest Wall Street operations have to meet higher capital requirements or reduce their size.",neutral,0.038555826991796494
+2015-07-20,Federal Reserve Approves Capital Restraints for Big Banks,neutral,0.05567087233066559
+2015-07-21,Four men in Florida and Israel were arrested in connection with investment schemes that were said to be related to a cyberattack at JPMorgan Chase.,negative,-0.8853048086166382
+2015-07-21,4 Arrested in Schemes Said to Be Tied to JPMorgan Chase Breach,negative,-0.7401725649833679
+2015-07-24,The Justice Department asked Israel to arrest three men charged with running a stock manipulation scheme.,negative,-0.8293393850326538
+2015-07-24,U.S. Letter to Israel on Fraud Schemes,negative,-0.6800947189331055
+2015-07-27,"Online crime poses tough challenges for prosecutors, in which identifying defendants, let alone linking them to criminal activity, is proving hard.",neutral,-0.0991063117980957
+2015-07-27,"The World Wide Web, the New Frontier in Fraud",neutral,0.09917529672384262
+2015-07-29,Federal authorities say they believe that some of the people suspected in last summer’s big online attack against JPMorgan Chase also turned to friends and acquaintances to further their ends.,negative,-0.6574793457984924
+2015-07-29,U.S. Extends Investigation of JPMorgan Chase Hacking,neutral,0.14328983426094055
+2015-08-05,"The lower numbers came after William T. Winters, the former head of JPMorgan Chase’s investment bank, was brought in as chief executive.",negative,-0.9312015175819397
+2015-08-05,Standard Chartered Profit Fell 37% in First Half,negative,-0.9683836102485657
+2015-08-10,"Anthony Murgio, who is thought to have information about a cyberattack on JPMorgan Chase, appeared in court on Monday.",negative,-0.7005607485771179
+2015-08-10,Man Charged in Bitcoin Scheme Appears in New York Court,neutral,-0.3432074189186096
+2015-08-25,"Notably absent on the list of underwriters for what would be one of the biggest market debuts of the year is JPMorgan Chase, which recently settled a hiring dispute with First Data.",negative,-0.8023208975791931
+2015-08-25,First Data Names 15 Banks Chosen to Lead Public Offering,neutral,0.0022521428763866425
+2015-09-08,"At JPMorgan, Greg Mendelson will focus on advising both tech services companies and private equity firms.",neutral,0.014684529975056648
+2015-09-08,JPMorgan Hires Tech Banker Greg Mendelson From Bank of America Merrill Lynch,neutral,-0.08005353063344955
+2015-09-09,The firm’s quarterly results could offer some insight into just how much the Volcker Rule helps or hinders investment banks in volatile markets.,neutral,0.17929913103580475
+2015-09-09,Jefferies May Be Canary in Wall Street’s Shuttered Mine,negative,-0.398692786693573
+2015-09-16,"Mr. Gosebruch, 42, who was promoted in March to co-head of North American mergers, has been one of the bank’s top deal makers for the pharmaceutical industry.",neutral,0.19141267240047455
+2015-09-16,"Henry Gosebruch, Rising Star at JPMorgan, Is Departing for AbbVie",neutral,-0.11606442928314209
+2015-09-22,Mr. Blankfein said in a letter to shareholders and employees that he had a “highly curable” form of cancer.,neutral,-0.10986290872097015
+2015-09-22,"Lloyd Blankfein, Goldman Sachs C.E.O., Has Lymphoma",neutral,-0.2687358856201172
+2015-09-29,The case of the hedge fund manager Boaz Weinstein has elicited warnings of a panic that could lead to the next financial crisis.,negative,-0.8867422938346863
+2015-09-29,The Perils of Forcing a Sale of Illiquid Assets,negative,-0.4898037016391754
+2015-10-03,The deaths of young bankers have raised concern about jobs known for long hours and heavy workloads and how they affect the junior workers who do them.,negative,-0.8995333909988403
+2015-10-03,Deaths Draw Attention to Wall Street’s Grueling Pace,negative,-0.668608546257019
+2015-10-09,The reduction in management is part of a plan announced in July to streamline businesses and cut costs by $1.8 billion by the end of 2017.,negative,-0.25176388025283813
+2015-10-09,Standard Chartered to Cut Senior Staff by 25 Percent,negative,-0.9486586451530457
+2015-10-12,"Mr. Staley, now with the hedge fund Blue Mountain Capital, might be a provocative choice, not least because he’s American.",neutral,-0.009031157940626144
+2015-10-12,"Barclays Said to Weigh James Staley, Ex-JPMorgan Banker, as Chief",neutral,-0.016223464161157608
+2015-10-13,"A gain in the bank’s earnings was driven largely by certain tax benefits, lower expenses and a decline in the amount put aside to cover credit losses.",positive,0.8984978795051575
+2015-10-13,JPMorgan Chase Reports Decline in Revenue but a Surge in New Mortgages,negative,-0.9475208520889282
+2015-10-15,"Cutting costs and eliminating huge legal bills have helped the bank, but its rivals are ahead on efficiency, among other areas.",positive,0.9021619558334351
+2015-10-15,Bank of America’s Hunt for Growth,neutral,0.0694541186094284
+2015-10-19,"Researchers also show that consumers use their savings to buy more gasoline, a tendency behavioral economists call “mental accounting.”",neutral,-0.24841129779815674
+2015-10-19,"When Gas Becomes Cheaper, Americans Buy More Expensive Gas",neutral,0.07233373075723648
+2015-10-20,"A deal would push Highbridge Capital Management’s $22 billion private equity portfolio outside JPMorgan Chase, though the bank would still keep a minority stake.",positive,0.7653993368148804
+2015-10-20,JPMorgan Is Said to Be Near Deal to Spin Off Private Equity Unit,neutral,-0.0814187154173851
+2015-10-21,"Through the online firm Motif Investing, the bank will offer a sliver of access on some of the deals in which it is lead underwriter.",neutral,0.10602198541164398
+2015-10-21,JPMorgan to Offer a Taste of I.P.O.s to the Masses,neutral,0.1777314841747284
+2015-10-26,"After resisting calls for more information, the bank says it will make a public disclosure any time it claws back money from any member of the company’s operating committee.",neutral,-0.11950132995843887
+2015-10-26,JPMorgan Says It Will Publicly Disclose Pay Clawbacks,neutral,-0.1345854550600052
+2015-10-28,"He will replace Antony Jenkins, who was ousted this summer after directors lost confidence in his ability to improve returns at the British bank.",negative,-0.3184288740158081
+2015-10-28,"James Staley, Ex-JPMorgan Banker, Named C.E.O.",neutral,-0.0024184975773096085
+2015-10-28,of Barclays,neutral,0.027921833097934723
+2015-11-02,Credit facilities can signal a transition point for a start-up as it moves to a stage with a more nuanced capital structure.,neutral,0.418496698141098
+2015-11-02,WeWork Said to Seek $750 Million Credit Facility,neutral,0.0345396026968956
+2015-11-05,The British regulator faulted the deal’s advisers for failing to seek its view on whether two parties were “acting in concert” as part of the deal.,negative,-0.904487669467926
+2015-11-05,Regulator Censures Credit Suisse and Law Firms Over Bumi Deal,negative,-0.8877308964729309
+2015-11-09,The Financial Stability Board estimates that 30 of the world’s largest banks would collectively need to raise as much as $1.2 trillion by 2022.,neutral,0.2275693416595459
+2015-11-09,Regulators Propose New Rules to Ease Strain of Bank Failures,neutral,0.34762200713157654
+2015-11-10,"Preet Bharara, the United States attorney for the Southern District of New York, announced charges in the the largest hacking case ever uncovered.",negative,-0.5565299987792969
+2015-11-10,U.S. Unseals Indictment in Hacking Case,negative,-0.7758941054344177
+2015-11-12,"The move is part of an overhaul by John Cryan, the new co-chief executive, to simplify the structure of the lender and improve its returns.",positive,0.8939049243927002
+2015-11-12,Deutsche Bank Names Management Team for New Investment Division,neutral,0.05527273193001747
+2015-12-01,"The White House and groups like the Gates Foundation announced 10 initiatives to provide access to credit, and checking and savings accounts.",positive,0.5479609370231628
+2015-12-01,Broad Effort Aims to Expand Financial Services to Low-Income Consumers,positive,0.7646473050117493
+2015-12-03,The rise of new banking-focused start-ups like Number26 is forcing traditional players like Deutsche Bank and JPMorgan Chase to respond to people’s desire to access financial services through their smartphones.,negative,-0.46259546279907227
+2015-12-03,"Number26, German Banking Start-Up, Expands Across Europe",positive,0.7852258086204529
+2015-12-04,"Clients of the broker, Johnny Burris, say a JPMorgan Chase employee wrote the complaints attributed to them and which were filed with the Financial Industry Regulatory Authority.",negative,-0.794262707233429
+2015-12-04,JPMorgan Wrote Complaints After Firing a Whistle-Blower,negative,-0.865160346031189
+2015-12-10,"Johnny Burris filed complaints with his bosses, and when the bank fired him, he got no chance to defend himself, he says, and then black marks appeared on his record.",negative,-0.887734055519104
+2015-12-10,He Was a JPMorgan Chase Whistle-Blower.,neutral,-0.07932068407535553
+2015-12-10,Then Came the Blowback.,negative,-0.5807404518127441
+2015-12-18,The S.E.C.,neutral,0.014058640226721764
+2015-12-18,said JPMorgan did not divulge conflicts of interest in steering clients to products in its asset management unit.,neutral,-0.013832200318574905
+2015-12-18,JPMorgan to Pay $307 Million for Steering Clients to Own Funds,neutral,0.00874221883714199
+2015-12-21,"Lars Thunell, a director since 2012, will step down at the end of January and David Philbrick Conner will join as a director at the beginning of the year, the bank said.",neutral,-0.034503065049648285
+2015-12-21,Standard Chartered Announces Additional Changes to Board,neutral,0.03999892249703407
+2015-12-23,"Some top banks — including JPMorgan Chase, Bank of America and Citigroup — will not accept the cards as a primary ID, even though federal regulators have approved their use.",neutral,-0.19162127375602722
+2015-12-23,"Banks Reject New York City IDs, Leaving ‘Unbanked’ on Sidelines",negative,-0.6922619938850403
+2015-12-29,Blythe Masters’s new venture Digital Asset Holdings has a multimillion-dollar commitment from JPMorgan Chase but is struggling to find other investors.,neutral,-0.09898048639297485
+2015-12-29,Start-Up With Bitcoin in Its DNA Stumbles on Fund-Raising Trail,negative,-0.9531794190406799
+2015-12-30,Mr. Dimon put the bank in a good position to avoid the worst of the financial crisis and to weather its aftermath.,positive,0.7139542698860168
+2015-12-30,Jamie Dimon of JPMorgan Still Strong After 10 Years as Chief,positive,0.5239778757095337
+2016-01-05,"The bank already paid $2 billion in a 2013 settlement with the Office of the Comptroller of the Currency, but did not meet all the obligations of that earlier settlement.",negative,-0.7991496324539185
+2016-01-05,JPMorgan Pays $48 Million More to Settle Mortgage Servicing Issues,neutral,0.02770361676812172
+2016-01-06,"The bank falsely stated on one of its websites that its private bank advisers were paid based on their performance for clients, regulators said.",negative,-0.8150588274002075
+2016-01-06,J.P. Morgan Securities Fined $4 Million for False Statements to Clients,negative,-0.9152197241783142
+2016-01-14,The bank is lending more and reducing drags on capital.,positive,0.8848190903663635
+2016-01-14,Yet its fourth-quarter return on equity was only 9 percent.,negative,-0.783033549785614
+2016-01-14,New technology could bolster revenue and savings.,positive,0.917843222618103
+2016-01-14,JPMorgan Results Offer Strong Case for Financial Technology,positive,0.8143306374549866
+2016-01-15,A fourth-quarter fizzle for most large banks is followed by a steep drop in their market value in the first two weeks of the first quarter.,negative,-0.9595456719398499
+2016-01-15,Rocky Road Ahead for Big Banks,negative,-0.3482658267021179
+2016-01-20,A perk allows bank executives heading for top government jobs to be paid their unvested stock and equity awards when they leave.,neutral,0.14005830883979797
+2016-01-20,A.F.L.-C.I.O.,neutral,0.03901325911283493
+2016-01-20,Seeks to Curb Payouts to Bankers Who Go to Washington,negative,-0.7384558320045471
+2016-01-21,The bank cut the chief executive’s cash bonus and paid its top executives largely in stock awards tied to the company’s performance.,negative,-0.9074857234954834
+2016-01-21,"Jamie Dimon’s Compensation at JPMorgan Chase Rises 35%, to $27 Million",positive,0.7997386455535889
+2016-01-22,"Despite the endless complaining about how difficult Washington has made things for bankers, Wall Street has entered a Golden Age.",positive,0.7520859241485596
+2016-01-22,‘Too Big to Fail’ Banks Thriving a Few Years After Financial Crisis,negative,-0.42025288939476013
+2016-01-26,"Octo Telematics of Italy, whose devices help auto insurers set rates, is preparing its United States offering at a difficult time for market debuts.",negative,-0.6528189778327942
+2016-01-26,"Octo Telematics, Whose Technology Monitors Driving, Prepares I.P.O.",neutral,0.0411493219435215
+2016-01-29,C.S.,neutral,0.06850886344909668
+2016-01-29,"Venkatakrishnan, the head of operational risk at JPMorgan, would join the British bank as its chief risk officer in May.",neutral,0.04682852327823639
+2016-01-29,Barclays Hires JPMorgan Chase Veteran as Chief Risk Officer,neutral,0.027511566877365112
+2016-02-08,"Timothy Geithner, the president of Warburg Pincus and former Treasury secretary, arranged a line of credit with JPMorgan Chase to invest in the firm’s funds.",neutral,0.3346801996231079
+2016-02-08,JPMorgan Backs Geithner’s Investments With Warburg Pincus,neutral,0.044942475855350494
+2016-02-09,"Paul H. Compton, who most recently served as JPMorgan’s chief administrative officer, will join Barclays in May.",neutral,0.01779983378946781
+2016-02-09,Barclays Hires JPMorgan Chase Veteran as Chief Operating Officer,neutral,0.02341175638139248
+2016-02-12,"The falling share price of Bank of America, Citigroup and JPMorgan Chase can be traced to investors’ deep doubts about reforms as well as to market turmoil.",negative,-0.9628451466560364
+2016-02-12,"Battered Bank Stocks Reflect Not Just Jitters, but Mistrust",negative,-0.8961687088012695
+2016-02-19,"Whomever James Staley, Barclays’s chief, appoints will need to help differentiate the bank from its competition.",neutral,0.12200722098350525
+2016-02-19,Next Barclays Investment Banking Chief May Signal Staley’s Strategy,neutral,-0.025327689945697784
+2016-02-23,The bank forecast another record profit this year and good tidings for the United States economy.,positive,0.8653234243392944
+2016-02-23,But its stock still dropped 4 percent.,negative,-0.9616503715515137
+2016-02-23,JPMorgan Tries to Calm Investors on Its Outlook and Oil Defenses,neutral,-0.3842615485191345
+2016-02-26,What Wall Street leaders need to do to get their stocks moving is to cut compensation.,negative,-0.5129715204238892
+2016-02-26,They should reverse-engineer their income statements to increase their profits.,positive,0.6729100346565247
+2016-02-26,"Cut Compensation at Investment Banks, Then Take Cover",neutral,-0.04757319390773773
+2016-03-01,"A move into investment banking could help Wells Fargo grow globally, but it would push the lender deeper into businesses it does not know well.",positive,0.8665661811828613
+2016-03-01,A Taunt From Dimon That Wells Fargo Would Be Reckless to Heed,negative,-0.6671478748321533
+2016-03-16,A recommendation from an advocate of stronger rules on Wall Street asks investors to vote on whether to study the benefits of breaking the banks up.,neutral,0.21838116645812988
+2016-03-16,Proposal at JPMorgan and Citigroup Raises Prospect of Split-Up,negative,-0.49712711572647095
+2016-03-21,"After helping to drive Wall Street’s profits for generations, the coal industry is in a free fall, and even daring investors are reluctant to risk trying to save it.",negative,-0.8363094329833984
+2016-03-21,"As Coal’s Future Grows Murkier, Banks Pull Financing",negative,-0.9302270412445068
+2016-04-06,"Tech companies, banks and stores have bet big on the future of mobile payments, yet a tiny fraction of total purchases are being made with phones.",neutral,0.06772968918085098
+2016-04-06,"Why We Are Still Reaching for Wallets, Not Phones, at the Checkout",neutral,-0.03481714800000191
+2016-04-07,The annual letter from the JPMorgan Chase chief addresses subjects like patriotism and the growth of financial technology.,neutral,0.06668269634246826
+2016-04-07,Jamie Dimon Slams the Big Bank Breaker-Uppers,negative,-0.43468424677848816
+2016-04-11,It is shaping up to be another grim year for the nation’s biggest banks.,negative,-0.9213942289352417
+2016-04-11,They were hit hard by a bad environment for trading and deal-making.,negative,-0.9425681829452515
+2016-04-11,Wall Street Earnings: A Grim Quarter for Big Banks,negative,-0.9540414214134216
+2016-04-13,"The bank said that both revenue and profit slid in the first quarter, from a year earlier, largely as a result of bad market conditions.",negative,-0.9706899523735046
+2016-04-13,JPMorgan Chase Reports Lower Quarterly Profit,negative,-0.9543333649635315
+2016-04-14,"The banks struggled with declining oil prices, low interest rates and choppy financial markets in the first quarter.",negative,-0.9489641189575195
+2016-04-14,A Tough Year for Banking Takes Shape,negative,-0.6297145485877991
+2016-04-15,"The family-owned Mexican company is working with JPMorgan Chase and Morgan Stanley to prepare for the deal, according to people with knowledge of the matter.",neutral,0.08327072858810425
+2016-04-15,Jose Cuervo Said to Be Making Arrangements for an I.P.O.,neutral,0.10760822147130966
+2016-04-21,The Saudi kingdom is enmeshed in a global oil price war while opposing Iran in proxy conflicts in Yemen and Syria.,negative,-0.6206716895103455
+2016-04-21,$10 Billion Loan to Saudi Arabia Carries Risks,neutral,0.10696293413639069
+2016-05-06,"The JPMorgan chief complained that personal finance start-ups exploit banking data, but much of what he said misses the mark.",negative,-0.7690970301628113
+2016-05-06,Jamie Dimon Wants to Protect You From Innovative Start-Ups,neutral,0.08678483217954636
+2016-05-10,JPMorgan paid its C.E.O.,neutral,-0.007430464029312134
+2016-05-10,$27 million in 2015.,neutral,0.03734055534005165
+2016-05-10,"In another Wall Street universe, the hedge fund manager Ken Griffin made $1.7 billion.",neutral,0.0057030245661735535
+2016-05-10,Top 10 Hedge Fund Chiefs Took Home a Combined $10.07 Billion,neutral,0.1640651822090149
+2016-05-13,"In the book, she describes the ruthless ambition that affected the people close to her and tries to make amends for her years of boorish behavior.",neutral,-0.3309827744960785
+2016-05-13,"In Memoir, Erin Callan Steps Back From Lehman Legacy",neutral,-0.22922249138355255
+2016-05-18,"Concerned by a change in the political mood, Wall Street is withholding support from a bill to repeal the Dodd-Frank Act.",negative,-0.9209038615226746
+2016-05-18,Big Banks Back Off From Attacks on Financial Reform,negative,-0.7199767827987671
+2016-06-02,"The $3.5 billion investment in Uber could put JPMorgan Chase and the law firm Skadden, Arps, Slate, Meagher & Flom in line for more big Saudi deals.",positive,0.7742944359779358
+2016-06-02,Saudi Stake in Uber Lifts Advisory Companies to Prime Positions,positive,0.8785054087638855
+2016-06-03,"The bank told its workers on Friday that it was relaxing its dress code, but there are still rules.",neutral,0.055389150977134705
+2016-06-03,"Denim is considered inappropriate, along with athletic clothing, shorts and hats.",neutral,-0.4027496576309204
+2016-06-03,JPMorgan Chase Embraces Business Casual,neutral,0.12494106590747833
+2016-06-14,"As Saudi Arabia considers selling shares in its state oil company, the real eye-opening development will be where it lists the shares.",neutral,0.013798180967569351
+2016-06-14,The Global Stakes of a Saudi Aramco I.P.O.,neutral,0.007403068244457245
+2016-06-21,"Frustrated by thieves stealing personal data from millions of customers, banks are investing in biometric technology to offer better security.",negative,-0.8673704862594604
+2016-06-21,"Goodbye, Password.",neutral,-0.06889762729406357
+2016-06-21,Banks Opt to Scan Fingers and Faces Instead.,neutral,-0.10813174396753311
+2016-06-28,"While first results from the Federal Reserve suggest banks are prepared for a severe downturn, they may have to hold on to more of their own capital.",positive,0.16878488659858704
+2016-06-28,Bank Stress Tests May Also Test Stockholders,neutral,-0.21428290009498596
+2016-07-08,"When a checking account is overdrawn, the bank can cover the shortfall (for a fee) or another account can serve as a backup (for a fee).",neutral,-0.007908698171377182
+2016-07-08,But there are also ways to avoid overdrawing at all.,neutral,0.131567120552063
+2016-07-08,Protecting Your Checking Account From Overdraft Fees,neutral,0.03470618277788162
+2016-07-13,"Return on equity at the nation’s lenders and investment banks remains too low, and banks need to try something new.",negative,-0.9091024994850159
+2016-07-13,A Need for Wall Street to Improve Efficiency,positive,0.7664788365364075
+2016-07-14,The bank said that it was seeing broad demand for loans from consumers and businesses in the United States.,positive,0.8830869793891907
+2016-07-14,JPMorgan Chase Has Strong Quarter as Earnings Top Estimates,positive,0.4375779628753662
+2016-07-15,"The jury is still out on whether negative yields will spur economic growth, but central banks have engineered short-term gains for American bond investors.",positive,0.6457338929176331
+2016-07-15,Good News for Bond Buyers That May Be Fleeting,neutral,0.13181498646736145
+2016-07-20,What started as a small investing project became a larger effort to digitize Detroit’s property information and to establish channels between the public and the city.,neutral,0.3064301311969757
+2016-07-20,"Mapping Detroit, Inch by Inch",neutral,-0.03966955840587616
+2016-07-21,"In a series of meetings, titans of business and finance grappled with what they see as a problem of too much money going and staying private.",negative,-0.45242562890052795
+2016-07-21,C.E.O.s Meet in Secret Over the Sorry State of Public Companies,negative,-0.5578466653823853
+2016-07-27,"LionTree Advisors, which recently helped Verizon acquire Yahoo for $4.8 billion, has hired Jake Donovan as the president of its European operation.",neutral,0.056128039956092834
+2016-07-27,LionTree Hires JPMorgan Banker to Lead European Division,neutral,0.038500767201185226
+2016-08-01,"Wells Fargo joined three other banks in allowing instant payments, a market that has been taken over by services like Apple Pay and PayPal’s Venmo.",positive,0.6084275245666504
+2016-08-01,"Under Pressure, Big Banks Vie for Instant Payment Market",neutral,0.03972895070910454
+2016-08-12,"Wall Street banks are seeking until 2022 to offload investments banned by the rule, but the effort makes them appear to be trying to avoid oversight.",negative,-0.5700721144676208
+2016-08-12,Foot-Dragging on Volcker Rule Gives Banks’ Critics Ammunition,negative,-0.6381286382675171
+2016-08-21,"In return for helping states to enforce securities fraud laws and protect residents from financial harm, confidential informants earn a piece of the penalty.",neutral,0.041013218462467194
+2016-08-21,"To Crack Down on Securities Fraud, States Reward Whistle-Blowers",negative,-0.6378291249275208
+2016-08-23,"Sean Stewart is likely to go to jail after his father, who made $150,000 from trading on tips passed by his son, refused to testify in his defense.",negative,-0.8001307845115662
+2016-08-23,An Insider Trading Case That Pits Father Against Son,negative,-0.7937098145484924
+2016-09-01,The investment bank was advising both Good and BlackBerry at the time of a sale.,neutral,0.007512734271585941
+2016-09-01,"Good Technology Investors Sue J.P. Morgan, Claiming Conflicts",negative,-0.7924139499664307
+2016-09-02,"Owners of Anbang, a Chinese insurer behind a wave of multibillion-dollar deals, include relatives and friends of its politically connected chairman.",neutral,-0.050890326499938965
+2016-09-02,"Morning Agenda: A Chinese Mystery, Mylan’s Capitalist Nirvana, J.P.Morgan Faces Suit",neutral,-0.0971919596195221
+2016-09-05,Tim Throsby will join Barclays in January as president of its corporate and international business and as chief executive of its corporate and investment bank.,neutral,0.028358664363622665
+2016-09-05,Barclays Hires JPMorgan Executive to Head Investment Bank,neutral,0.0032006539404392242
+2016-09-12,Cards that were once more about elite service are now emphasizing their bottom-line value proposition — even when it comes with a hefty annual fee.,positive,0.6005721688270569
+2016-09-12,Value-Seekers Warm to a $450 Annual Credit Card Fee,neutral,0.03725006431341171
+2016-09-20,"Mr. Combs, who becomes the 12th director on the board, has been an investment officer at Berkshire Hathaway since 2010.",neutral,0.021785810589790344
+2016-09-20,"JPMorgan Picks Todd Combs, a Warren Buffett Protégé, to Join Board",neutral,0.040786050260066986
+2016-09-22,"The bank’s top regulators are seeking to impose their own penalties in the China hiring case, according to people briefed on the investigations.",negative,-0.7347669005393982
+2016-09-22,JPMorgan May Face New Scrutiny in China Hiring Case,negative,-0.7125391364097595
+2016-09-23,"Yahoo already had plenty of problems, but the theft of data on 500 million users has thrown another wrench in the works.",negative,-0.9369946122169495
+2016-09-23,"Morning Agenda: Yahoo’s Hacking, Princeling Problem, Test for the Justice Dept.",neutral,-0.28939732909202576
+2016-09-26,"The company announced that it had raised $189 million, the biggest round of fund-raising in its 17-year history.",positive,0.6878949403762817
+2016-09-26,FreshDirect Secures New Backing Despite Growing Competition in Online Groceries,positive,0.8748166561126709
+2016-09-30,"Despite clawback provisions at a number of companies, their actual use is somewhat rare, and they are often too weak to pose much of a punitive threat.",negative,-0.7021006345748901
+2016-09-30,"Executive Pay Clawbacks Are Gratifying, but Not Particularly Effective",negative,-0.8525687456130981
+2016-10-02,"Deutsche has cultivated bankers with expertise in cutting-edge financial instruments, but that could be a liability in today’s market.",neutral,-0.10861971974372864
+2016-10-02,Deutsche Bank’s Appetite for Risk Throws Off Its Balance,negative,-0.8657642602920532
+2016-10-06,Big lenders had hoped to piggyback on Wells Fargo’s small Wall Street presence to resist proposals to curb pay and ban merchant banking.,negative,-0.6821220517158508
+2016-10-06,Wells Fargo Scandal Blunts a Weapon in Banks’ Regulatory Fight,negative,-0.6908285617828369
+2016-10-14,"The bank has avoided large penalties for creating unauthorized products, but its competitors are leaping ahead in investment banking and trading.",negative,-0.4596657156944275
+2016-10-14,Wells Fargo’s Problems Go Beyond Sham Accounts Scandal,neutral,-0.3515806794166565
+2016-10-17,"The bank reported its best pretax quarterly earnings in a decade on Monday, but a decent return on equity remains a long way off.",positive,0.6483926773071289
+2016-10-17,Bank of America Inches Toward Long-Term Goal,positive,0.6414139866828918
+2016-10-23,"A deal with Time Warner would create a combined debt of about $175 billion, which experts say represents one of the biggest risks in the merger.",neutral,0.14537422358989716
+2016-10-23,"To Secure a Mega-Merger, AT&T Plans to Shoulder Mega-Debt",neutral,0.3441328704357147
+2016-11-17,"Federal prosecutors, the S.E.C.",neutral,-0.213419109582901
+2016-11-17,and the Federal Reserve accused JPMorgan Chase of a vast foreign bribery scheme in China that may have spread to a number of Wall Street banks.,negative,-0.8146336078643799
+2016-11-17,Settlement on JPMorgan Bribery Charges,neutral,-0.4193526804447174
+2016-12-07,"Crédit Agricole, HSBC and JPMorgan Chase are the latest to be penalized by the bloc’s regulators for manipulating the cost of borrowing.",negative,-0.8705590963363647
+2016-12-07,E.U.,neutral,0.04360159859061241
+2016-12-07,Fines Three Banks About $520 Million for Interest Rate Collusion,negative,-0.6394312977790833
+2016-12-24,Financial companies have paid at least $164 billion in more than 100 mortgage-related settlements since 2009.,neutral,-0.37030285596847534
+2016-12-24,Where Does the Mortgage Settlement Money Go?,neutral,-0.031602367758750916
+2016-12-30,"Glimmers of hope emerged on some consumer irritants of the year, including airline and rental-car fees, and college tuition transparency.",positive,0.31812360882759094
+2016-12-30,Want Hopeful Signs From 2016?,neutral,0.24217601120471954
+2016-12-30,Look to Some of Its Aggravations,neutral,-0.010484099388122559

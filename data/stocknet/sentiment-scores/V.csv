@@ -1,0 +1,351 @@
+Date,Sentence,Prediction,sentimentScore
+2014-01-10,Mr. Jones was one of the last of the swashbuckling breed of aerospace-industry titans who were almost synonymous with their corporations and the aircraft they produced.,neutral,-0.004846509546041489
+2014-01-10,"Thomas V. Jones, Builder of Northrop Into Big Military Contractor, Dies at 93",neutral,0.0037212297320365906
+2014-01-12,"“It’s everywhere you want to be,” has become “Everywhere you want to be” to highlight many options available under the Visa brand umbrella, including mobile and electronic payments.",neutral,0.11593148857355118
+2014-01-12,Visa Trims Slogan to Expand Meaning,positive,0.7357028126716614
+2014-01-13,"It’s a faster, sportier and more agile companion to the Continental GT V8.",positive,0.4957098960876465
+2014-01-13,Bentley Adds a Fourth Model to Its Continental Line,neutral,0.23251837491989136
+2014-01-19,"Chet Kanojia’s company, Aereo, has figured out how to grab over-the-air television signals and stream them to subscribers on the Internet.",neutral,0.15197405219078064
+2014-01-19,It is an invention that could topple TV titans.,neutral,-0.20812419056892395
+2014-01-19,A Tiny Antenna Threatens the TV Networks’ Airspace,negative,-0.6577496528625488
+2014-01-20,"Two brands of Greek-style yogurt, Chobani and Dannon Oikos, have bought commercial time during the game.",neutral,0.05610079690814018
+2014-01-20,Yogurt Joins Super Bowl Snack Parade,neutral,0.048894986510276794
+2014-01-27,"The latest in a string of cable tie-ups sees Liberty Global, John Malone’s company, take full control of its Dutch rival Ziggo.",neutral,0.1106671392917633
+2014-01-27,"Deal making has proved trickier for telecommunications companies, but activity should start to rise, Quentin Webb writes in Reuters Breakingviews.",positive,0.906062126159668
+2014-01-27,European Telecommunications Companies May Follow Cable’s Lead,neutral,0.08255856484174728
+2014-01-30,"The world’s biggest private equity fund, known as Blackstone Capital Partners V, represents a potentially lucrative source of profit for Blackstone — but one that remains locked up for the immediate future.",neutral,0.18107597529888153
+2014-01-30,"For Blackstone, a Pot of Gold Remains Out of Reach",neutral,-0.333291620016098
+2014-02-17,A group of investors led by an affiliate of Maurice R. Greenberg and the Swiss investment firm Partners Group announced on Monday that it had acquired MultiPlan.,neutral,0.0758480429649353
+2014-02-17,C.V. Starr and Partner Buy Health Care Concern in a $4.4 Billion Deal,neutral,0.07370515167713165
+2014-02-18,"McLaren announces its new 650S, another twin-turbo V8 supercar; pickup manufacturers agree to standardize towing capability testing.",positive,0.8153349161148071
+2014-02-18,Wheelies: The Next McLaren Supercar Edition,neutral,0.05342274159193039
+2014-02-28,"A look at some of the highlights, lowlights and more awkward happenings that took place at the annual RSA security conference this week.",neutral,-0.034075889736413956
+2014-02-28,"At the RSA Security Conference, Things Get Testy and Then They Get Awkward",negative,-0.6385525465011597
+2014-03-02,"The report, from leading security experts, also found that while the government has focused on the high-voltage power grid, less work has been done on the lower-voltage distribution system.",negative,-0.633965015411377
+2014-03-02,Report Calls for Better Backstops to Protect Power Grid From Cyberattacks,positive,0.63577800989151
+2014-03-04,Market tensions ease after Russia appears to back away from further action in Ukraine.,positive,0.14776065945625305
+2014-03-04,| A Citigroup affiliate in Los Angeles receives a federal subpoena.,negative,-0.7395583391189575
+2014-03-04,| A small-business owner continues his battle against U.S. Bancorp.,negative,-0.8312700390815735
+2014-03-04,| Men’s Wearhouse and Jos.,neutral,0.0024479106068611145
+2014-03-04,A.,neutral,0.07888311892747879
+2014-03-04,"Bank reach a nondisclosure accord, paving the way for a merger.",positive,0.8684486746788025
+2014-03-04,A Calming of Global Markets,neutral,0.14044630527496338
+2014-03-06,"Janine Gibson, the paper’s editor in chief of its United States operations, will return to London and will be replaced by Katherine Viner.",negative,-0.6400728821754456
+2014-03-06,Guardian to Make Management Changes,neutral,-0.02803664654493332
+2014-03-07,First American Bank in Chicago got publicity but little satisfaction after it identified a source of debit card theft and tried to stop it.,negative,-0.9145879149436951
+2014-03-07,"After Debit Card Fraud, a Chicago Bank Feels Its Customers’ Frustration",negative,-0.8903694152832031
+2014-03-12,A car-themed hotel in Germany offers beds made out of classic cars; N.T.S.B.,neutral,0.005756653845310211
+2014-03-12,head steps down to lead safety advocacy non-profit.,neutral,-0.009942937642335892
+2014-03-12,Wheelies: The V8 Hotel Edition,neutral,0.053914740681648254
+2014-03-13,"Vanessa Friedman, the fashion editor of The Financial Times, will lead global fashion coverage on all publishing platforms.",neutral,0.04596753045916557
+2014-03-13,The New York Times Hires Critic and Fashion Director,neutral,-0.08530549705028534
+2014-03-20,"A stable Ukraine, with an economy that catches up to its neighbors, is the best defense against disintegration.",positive,0.5349443554878235
+2014-03-20,two economists write.,neutral,-0.15110597014427185
+2014-03-20,The Economics of Limiting Russia’s Expansion,neutral,-0.006909020245075226
+2014-03-28,G.M.,neutral,0.048085395246744156
+2014-03-28,will build Buicks at its Opel plant in Germany; Ford will build its new V6 Ecoboost truck engines at its factory in Ohio.,neutral,0.02401816099882126
+2014-03-28,Wheelies: The Euro-Buick Edition,neutral,0.0574355274438858
+2014-04-01,"Efforts to increase card security have long been underway, but recent hacking incidents at Target, Neiman Marcus and Michaels have added urgency to strengthening safeguards using smart chips and advanced computer programming.",positive,0.8448305726051331
+2014-04-01,"The Credit Card of Tomorrow: Software, Not Plastic",neutral,0.004280120134353638
+2014-04-02,"A federal district court’s view on a sale of a piece of a loan is problematic, writes Stephen J. Lubben in the In Debt column.",negative,-0.8219385147094727
+2014-04-02,Giving a Debtor a Big Club Against Lenders,neutral,-0.2405610978603363
+2014-04-15,Chevrolet shares details of its 625-horsepower droptop Corvette variant.,neutral,0.05688517913222313
+2014-04-15,Chevrolet Corvette Z06 Convertible: A New V8 Engine Roars Inside,neutral,0.23303022980690002
+2014-04-21,"Dmytro Firtash has made billions brokering gas deals, but he now faces both a criminal indictment and a racketeering lawsuit in United States courts.",negative,-0.6098007559776306
+2014-04-21,Ukrainian Gas Broker Faces Scrutiny,negative,-0.45462897419929504
+2014-04-29,"With the latest round of sanctions over the Ukraine crisis, relationships between Russian state-owned businesses and large multinational companies look increasingly complicated.",negative,-0.8702975511550903
+2014-04-29,Sanctions Over Ukraine Cause Headaches in the Energy Sector,negative,-0.841797411441803
+2014-04-30,"Benjamin M. Lawsky, New York State’s top financial regulator, is sending cease-and-desist letters to 20 companies suspected of making illegal payday loans.",negative,-0.7792118787765503
+2014-04-30,New York State Makes New Efforts to Combat Payday Lenders,positive,0.5124556422233582
+2014-05-05,"If you wanted to see clearly into how all the various components of the modern media ecosystem interact, you could not come up with a better real-time experiment than the Donald Sterling story.",neutral,0.043155696243047714
+2014-05-05,"A Key Player in a Scandal, V. Stiviano Feeds the Media’s Appetite",neutral,-0.09533476084470749
+2014-05-07,"Immigration agencies around the world have learned to use technology, including Facebook, Google and Twitter, to screen travelers for evidence of a criminal record, political activism or intention to work without a visa.",neutral,0.11717291176319122
+2014-05-07,Your Digital Trail Follows You to the Border,neutral,0.04049278050661087
+2014-05-09,"Ford will raffle a one-of-a-kind Mustang GT convertible, to benefit multiple sclerosis research; Subaru anticipates 20 percent sales growth by 2020.",positive,0.7742281556129456
+2014-05-09,Wheelies: The Philanthropic Pony Car Edition,neutral,0.05460190773010254
+2014-05-16,Kia announces nationwide rollout of its K900 luxury sedan; 1999 Packard Twelve prototype to go up for sale in July auction.,positive,0.645710825920105
+2014-05-16,Wheelies: The Top-Shelf Kia Edition,neutral,0.0624300017952919
+2014-05-18,A hacking of customer data at Target has intensified the pace of changing the way Americans pay for goods.,positive,0.6534146666526794
+2014-05-18,Cashless Customers Hold Riches for Retailers,neutral,-0.3033962845802307
+2014-05-23,"A luxury chicken coop, a China-Russia gas deal and more car recalls at General Motors.",negative,-0.9021742343902588
+2014-05-23,Pictures From the Week in Business,neutral,-0.02614821493625641
+2014-05-28,"The investment firm, long known for its shareholder activism, agreed to invest $150 million into Magnum Hunter Resources through a private offering.",neutral,0.42622116208076477
+2014-05-28,"Relational Takes Stake in Magnum Hunter, an Oil and Gas Driller",neutral,-0.01771112158894539
+2014-06-03,The payment processor plans to create a special designation that will alert consumers to cards that meet criteria involving fees and terms.,neutral,0.090571328997612
+2014-06-03,Visa Is Preparing a Standard for Prepaid Debit Cards,neutral,0.05898771807551384
+2014-06-23,"Oracle’s deal for Micros Systems, a maker of software for restaurants and hospitality providers, is its biggest since the takeover of Sun Microsystems five years ago.",positive,0.7890815138816833
+2014-06-23,Oracle to Buy a Software Maker Micros Systems for $5.3 Billion,neutral,0.04499637708067894
+2014-07-15,"Ralph V. Whitworth, who has served on several boards and led HP through a tumultuous period, will go on leave Wednesday.",neutral,-0.29267069697380066
+2014-07-15,The company did not reveal his condition or say how long he would be away.,neutral,-0.1375700980424881
+2014-07-15,HP Chairman Ralph Whitworth Exits to Focus on Health,neutral,-0.07417722791433334
+2014-07-17,"Energy companies form the backbone of the Russian economy, and they increasingly turn to China when they need cheap capital.",neutral,0.019119853153824806
+2014-07-17,Russian Reliance on Chinese Loans May Blunt the Impact of U.S. Sanctions,negative,-0.8318509459495544
+2014-07-18,TerraForm raised about $500 million from the offering and $65 million from two additional private stock sales conducted at the I.P.O.,neutral,0.17031672596931458
+2014-07-18,price.,neutral,0.043540243059396744
+2014-07-18,"TerraForm Power, Operator of Solar Plants, Prices I.P.O.",neutral,0.06251689791679382
+2014-07-18,at Top of Range,neutral,-0.016290895640850067
+2014-07-23,"The Affordable Care Act was designed to make health care more affordable and more uniform, but court rulings could deepen the disparities among states.",negative,-0.6543704867362976
+2014-07-23,"Two Americas on Health Care, and Danger of Further Division",negative,-0.6222123503684998
+2014-08-10,The European Union’s languishing case against the Russian gas company may underscore a reality: Gas is off the table when it comes to sanctions.,negative,-0.7933416366577148
+2014-08-10,Stalled Gazprom Antitrust Case May Suggest Unease for Energy Sanctions,negative,-0.8746361136436462
+2014-08-26,"The Jehovah’s Witnesses have moved their headquarters upstate, and their Watchtower complex in Dumbo is attracting tech start-ups.",neutral,0.38567161560058594
+2014-08-26,Tech Tenants Filling a Slice of Brooklyn Called Dumbo Heights,neutral,-0.021458864212036133
+2014-09-01,Ketchum’s staff members who provide public relations advice to Russia must avoid being seen as defending acts contrary to American interests while still providing some luster for a lucrative client.,neutral,-0.39676153659820557
+2014-09-01,P.R.,neutral,0.051445938646793365
+2014-09-01,Firm for Putin’s Russia Now Walking a Fine Line,neutral,0.15123498439788818
+2014-09-09,Mercedes says the electronics-laden grand touring car works well on the track and the highway.,neutral,0.42912352085113525
+2014-09-09,Mercedes Introduces the 2016 AMG GT,neutral,0.06208831071853638
+2014-09-10,"Chris Pratt, from NBC’s “Parks and Recreation,” and Sarah Silverman, a “Saturday Night Live” alumna, will each host one of the first two “S.N.L.” shows this year.",neutral,0.059533096849918365
+2014-09-10,‘Live From New York’: First Hosts for 40th Year,neutral,0.051595937460660934
+2014-09-12,The eagerness of banks and card companies to work with Apple on its mobile payment system suggests Apple’s clout and the concern financial players have for their future.,positive,0.7004575729370117
+2014-09-12,Banks Did It Apple’s Way in Payments by Mobile,neutral,-0.01476982980966568
+2014-09-16,"European Union and American sanctions have pushed Russia to a point between growth and recession, said Aleksei Kudrin, a former finance minister.",negative,-0.9113673567771912
+2014-09-16,Former Putin Aide Reinforces Dangers of Sanctions,negative,-0.48785147070884705
+2014-09-18,"The top job at the database giant will be shared by Mark V. Hurd, now co-president, and Safra Catz, who is co-president and chief financial officer.",neutral,0.06586068868637085
+2014-09-18,Larry Ellison to Step Down as Oracle’s Chief,neutral,-0.24734953045845032
+2014-09-19,"Mr. Ellison’s 25 percent stake in the company — and dual role as chairman and chief technology officer — ensure he’s far from relinquishing control, Robert Cyran of Reuters Breakingviews writes.",neutral,0.16482007503509521
+2014-09-19,Larry Ellison Keeps a Hand on the Wheel at Oracle,neutral,-0.06594530493021011
+2014-09-22,"The opening keynote at Oracle’s annual conference will be about its“unique opportunity to be the leader of the next generation of cloud,” according to Mark Hurd, the new co-chief.",positive,0.7546809911727905
+2014-09-22,Hurd: Oracle Takes On Microsoft in the Cloud,neutral,-0.2036106288433075
+2014-09-23,"Russia, which was supposed to be a growth market for Wall Street, is turning out to be a potential financial and political nightmare amid the Ukraine situation and America’s sanctions.",negative,-0.9324413537979126
+2014-09-23,High Hopes for Russia Are Fading on Wall St.,negative,-0.8969192504882812
+2014-09-24,"The former Soviet bloc country depends heavily on its status as a transportation hub for Russia-bound goods, including its own agricultural products.",neutral,0.07841029763221741
+2014-09-24,Lithuania Feels Squeeze in Sanctions War With Russia,negative,-0.8451405167579651
+2014-09-25,The top-of-the-line C63 S features a new 503-horsepower 4-liter twin-turbo V8 engine.,neutral,0.22548483312129974
+2014-09-25,"More Power, and a New Name, for the Mercedes-AMG C63",positive,0.8150638341903687
+2014-09-26,"Benefits like car rental insurance and replacement of damaged goods are available through many credit cards, but holders have to do the research.",neutral,0.03063102625310421
+2014-09-26,Lesser-Known Credit Card Perks Hide in Plain Sight,neutral,-0.2097465991973877
+2014-10-01,"Relational Investors, one of the most prominent activist investors around, is planning to start up a new fund that will give more day-to-day control to the firm’s younger executives, a person briefed on the matter says.",neutral,0.08708029240369797
+2014-10-01,"Relational Investors, an Activist Firm, Is Said to Plan a New Fund",neutral,-0.0008436776697635651
+2014-10-02,President Vladimir V. Putin said Russia remained committed to developing an open market economy despite sanctions.,positive,0.7788679003715515
+2014-10-02,Putin Discusses Russia’s Economy,neutral,0.049477025866508484
+2014-10-07,"Next year, more than 30 storefronts will open in the concourse of Columbus Circle, which is one of the seven busiest subways in the New York City system.",neutral,0.12601564824581146
+2014-10-07,"In Depths of Columbus Circle, a Retail Hub Blooms",neutral,0.04034992679953575
+2014-10-08,The legislation aims to arm the Putin government with a way to compensate insider businessmen who the West had hoped would convince the Russian leader to reverse his course in Ukraine.,neutral,0.40891408920288086
+2014-10-08,Russia Seeks Sanctions Tit for Tat,negative,-0.8741311430931091
+2014-10-10,Construction and real estate executives said the company was taking over a building on 34th Street and that the space would be used for offices and a distribution center.,neutral,0.03054472804069519
+2014-10-10,Daily Report: Amazon Seeks Real Estate in Manhattan,neutral,0.0040804725140333176
+2014-10-13,Lewis Hamilton won another Formula One race; post-race tempers flared at a Nascar race; Marc Márquez locked in the MotoGP season championship.,neutral,-0.15871483087539673
+2014-10-13,Monday Motorsports: Hamilton and Harvick Score Wins; Márquez Clinches MotoGP Title,positive,0.48439857363700867
+2014-10-18,"Private equity firms demand strict confidentiality from investors regarding fund documents, contending that they would reveal trade secrets if disclosed.",neutral,-0.3310576379299164
+2014-10-18,Investors in private equity deals agree to these requests by heavily redacting broad sections of fund documents.,neutral,0.2799181342124939
+2014-10-18,An example of how extensive these redactions can be is apparent in this Carlyle Partners V limited partnership agreement.,neutral,0.03832743689417839
+2014-10-18,Redacted Carlyle Partners Limited Partnership Agreement,neutral,0.03638274222612381
+2014-10-22,The challenge for IBM today is very different from the crisis it faced in the 1990s.,neutral,0.09801193326711655
+2014-10-22,"It is financially strong and more nimble, but there are echoes of the past.",neutral,0.13345405459403992
+2014-10-22,The Nature of the IBM ‘Crisis’,neutral,-0.1478407084941864
+2014-11-10,"Taking over in 1989, Mr. Shields opened stores in college towns and gentrifying communities, raising annual sales to $2 billion, from $132 million, by the time he retired in 2001.",positive,0.8809691667556763
+2014-11-10,"John V. Shields Jr., Who Turned Trader Joe’s Into National Chain, Dies at 82",neutral,-0.0010941475629806519
+2014-11-14,"Powered by a modified aluminum twin-turbo 3.6-liter V6, the 600-horsepower car meets F.I.A.",neutral,0.28735700249671936
+2014-11-14,"GT3 racing specifications, Cadillac says.",neutral,0.057380083948373795
+2014-11-14,Cadillac Unveils ATS-V.R.,neutral,0.1632290780544281
+2014-11-14,Racecar,neutral,0.018877752125263214
+2014-11-19,"The sixth-generation Mustang gets Shelby treatment, including a 500-plus-horsepower V8 engine and track-oriented components.",positive,0.7905532717704773
+2014-11-19,Ford Unleashes a Powerful Mustang,neutral,0.2547513544559479
+2014-11-20,Arizona’s lawsuit contends G.M.,neutral,-0.3781161606311798
+2014-11-20,"intentionally misled consumers through its advertising, website and public statements, and that some of its top leaders were complicit in the alleged misdeeds.",negative,-0.8791159391403198
+2014-11-20,It seeks $3 billion in compensation.,negative,-0.5972176194190979
+2014-11-20,State of Arizona v. General Motors,neutral,-0.13952481746673584
+2014-12-02,"Contractors with billions of dollars at stake could be big losers, but European Union officials said a meeting next week on the project would still take place.",negative,-0.8495279550552368
+2014-12-02,Putin’s Surprise Call to Scrap South Stream Gas Pipeline Leaves Europe Reeling,neutral,-0.0507073849439621
+2014-12-10,"Alan Rusbridger will leave the post next summer, and will head the Scott Trust, the sole shareholder in the newspaper that has become a global brand.",neutral,0.0025199484080076218
+2014-12-10,Editor of The Guardian to Step Down Next Year,neutral,-0.19376909732818604
+2014-12-16,"Despite the Russian central bank’s extraordinary effort to defend the ruble, the currency fell to record lows, inducing further panic in the nation’s financial industry.",negative,-0.939367413520813
+2014-12-16,Russia’s Steep Rate Increase Fails to Stem Ruble’s Decline,negative,-0.9195143580436707
+2014-12-17,"The country’s Finance Ministry said it was prepared to sell as much as $7 billion of its foreign currency reserves to support the ruble, which an official called “extremely undervalued.”",negative,-0.49096331000328064
+2014-12-17,Ruble Crisis Is Testing Russia’s Resources,negative,-0.8646216988563538
+2014-12-22,The collapse of the sale of the trading unit is the latest energy-related deal to encounter difficulties after tensions arose between the West and Russia over Ukraine,negative,-0.9263083934783936
+2014-12-22,Sale of Morgan Stanley Oil Trading Business to Rosneft Is Aborted,neutral,0.02021467499434948
+2014-12-24,The announcement was the first open acknowledgment that the Kremlin would use its controlling votes on the boards of directors of major companies to force economic policy decisions.,neutral,0.10690983384847641
+2014-12-24,"As Ruble Falters, Russia Forces Exporters to Reduce Foreign Currency",negative,-0.9300657510757446
+2014-12-26,Other banks are also expected to need bailouts as a result of the recent currency crisis.,negative,-0.42426151037216187
+2014-12-26,Scaled-Up Banking Rescue to Push Russian Budget Into Deficit,positive,0.10728234052658081
+2014-12-29,"After taking a 7.7 percent sake, Carl Icahn becomes the second activist investor this year to urge a breakup.",neutral,0.054778020828962326
+2014-12-29,Icahn Calls for Manitowoc to Split in Two,neutral,-0.05905725434422493
+2015-01-20,"While Davos has long hosted controversial conversations, the issue of gay rights had seemed off limits at the World Economic Forum.",negative,-0.5705961585044861
+2015-01-20,"This year, it’s on the official agenda.",neutral,0.04604329168796539
+2015-01-20,Debates at Davos Get Around to Gay Rights,neutral,0.05486922711133957
+2015-01-21,"In the face of European Union opposition to the South Stream pipeline project, Gazprom is moving to an alternate route.",neutral,-0.2671975791454315
+2015-01-21,Russia Presses Ahead With Plan for Gas Pipeline to Turkey,positive,0.6610198020935059
+2015-01-23,"Federal prosecutors are mounting a challenge to an appellate court’s verdict in an effort to reverse it, or at least narrow it.",negative,-0.7919090986251831
+2015-01-23,U.S. Attorney Preet Bharara Challenges Insider Trading Ruling,negative,-0.8122994899749756
+2015-01-29,"In a victory for Carl Icahn and Ralph Whitworth’s Relational Investors, Manitowoc said it would separate its crane manufacturing and food service businesses, betting that the two would be more valuable as independent companies.",positive,0.5395308136940002
+2015-01-29,Manitowoc to Split in Two After Pressure From Activists,negative,-0.7032572627067566
+2015-02-02,"An appeals court ruling that narrows the grounds for insider trading cases may not be the cataclysm that the government contends it will be, Peter J. Henning writes in the White Collar Watch column.",neutral,-0.1582840383052826
+2015-02-02,"Court Sets Up a Hurdle, Not a Barrier, for Insider Trading Cases",neutral,0.042492303997278214
+2015-02-03,"As the French operators of a popular historical theme park look to expand into Crimea, one question is, whose version of history will the park depict?",neutral,0.05341465026140213
+2015-02-03,Proposal for a Theme Park Draws From Crimea’s Distant Past,neutral,0.03938755765557289
+2015-02-09,"Elvira S. Nabiullina, governor of the Bank of Russia, views the ruble’s steep drop as a painful but necessary step to wean the nation off imports.",negative,-0.5311872959136963
+2015-02-09,Ruble’s Fall Tests Governor of Russia’s Central Bank,negative,-0.7172089219093323
+2015-02-10,"The Jaguar produces a thrilling growl from its supercharged 5-liter, 550 horsepower V8 engine.",neutral,0.06140484660863876
+2015-02-10,Video Review: The Jaguar F-Type R Conducts Its Own Symphony,neutral,0.026280518621206284
+2015-02-13,Severing an exclusive deal with the warehouse retailer has swiped some $8 billion in market value from the card company.,negative,-0.16008836030960083
+2015-02-13,"Gains at MasterCard and Visa offset only part of that, note Rob Cox and Stephanie Rogan of Reuters Breakingviews.",positive,0.8332934975624084
+2015-02-13,Costco Customers May Come Out Ahead in Amex Divorce,neutral,0.03309865668416023
+2015-02-25,"The lender, federal prosecutors said, illegally seized cars from members of the armed forces, some deployed thousands of miles away.",negative,-0.8224665522575378
+2015-02-25,Santander Consumer Reaches $9.35 Million Settlement Over Military Repossessions,positive,0.24970686435699463
+2015-02-26,The automaker said certain Chrysler 200s with V6 engines could not be shifted into park.,neutral,-0.38152801990509033
+2015-02-26,"25,000 Chrysler Cars Recalled for Transmission Problem",negative,-0.9405065774917603
+2015-03-07,David C. Duncan Dekker makes his New York Times crossword debut.,neutral,0.03830360993742943
+2015-03-07,Science as a Vocation,neutral,-0.006022199988365173
+2015-03-16,"Two bills would broaden the law, but the proposed changes could make it even harder to recognize the line between permissible and illegal trades.",positive,0.4304491877555847
+2015-03-16,"Court Strikes on Insider Trading, and Congress Lobs Back",negative,-0.844929575920105
+2015-03-17,"The Cross Country is quiet, controlled and supremely comfortable during long trips, coddling occupants with seats that may be the best in the business.",neutral,0.06437430530786514
+2015-03-17,"Video Review: Volvo V60 Cross Country, Good for the Long Haul",neutral,0.3510708212852478
+2015-03-24,The S.U.V.,neutral,0.02895432710647583
+2015-03-24,is built on the chassis of the F-150 pickup and has replaced its V8 with a more powerful EcoBoost V6.,neutral,0.10942157357931137
+2015-03-24,"Video Review: Lincoln Navigator, a Behemoth With Leather and Attitude",neutral,0.005384434014558792
+2015-03-25,A federal judge had ruled the credit card company’s practice of banning retailers from encouraging customers to use lower-cost options violated antitrust laws.,negative,-0.8595703840255737
+2015-03-25,Amex to Ask for Stay of Ruling Prohibiting Merchants From Promoting Other Cards,negative,-0.3076806664466858
+2015-03-30,A meeting next week between Greece’s prime minister and Russia’s president raises questions as European leaders said a reform plan had fallen short.,negative,-0.9277057647705078
+2015-03-30,Greece Looks to Russia as Deal With Europe Stumbles,negative,-0.8803668022155762
+2015-04-06,Prosecutors and the S.E.C.,neutral,-0.21459266543388367
+2015-04-06,will most likely take a wait-and-see approach on the new limitations to the law against insider trading.,neutral,0.04021098092198372
+2015-04-06,U.S. Weighs Whether to Act or Wait on Insider Trading,negative,-0.5015038251876831
+2015-04-07,"Starting Monday a group of lawyers and advocates connected to Adnan Syed, the subject of the podcast “Serial,” will debut another podcast, “Undisclosed: The State v. Adnan Syed.”",neutral,-0.028584608808159828
+2015-04-07,"Another ‘Serial’ Chapter, From Group of Lawyers",neutral,0.010076090693473816
+2015-04-22,"The energy giant, charged with antitrust violations in Europe, has long been used by President Vladimir Putin to further Russia’s interests.",neutral,-0.09630507230758667
+2015-04-22,Gazprom Faces Effects of Politics on Its Bottom Line,negative,-0.6929852962493896
+2015-05-09,"The deal, which could be worth up to $20 billion, would rejoin Visa, the world’s biggest payment network, with a subsidiary it spun off in 2007.",neutral,0.38413915038108826
+2015-05-09,Visa and Visa Europe Are Said to Consider Reunification,neutral,0.04328455030918121
+2015-05-14,The credit card company is said to be in talks to buy Visa Europe for as much as $20 billion.,neutral,0.11444474756717682
+2015-05-14,A deal would bring global dominance and cost savings.,positive,0.8955243229866028
+2015-05-14,A Good Time for Visa to Take Europe,neutral,0.13647198677062988
+2015-05-22,"The prize, shared with The Washington Post, was awarded for articles based on documents leaked by the former National Security Agency contractor Edward J. Snowden.",neutral,0.3921937048435211
+2015-05-22,"Janine Gibson, Editor Who Led Team That Won Pulitzer, Leaves The Guardian",neutral,-0.3265209496021271
+2015-06-05,"The prime minister, in a speech to rally his party’s dissenters, took a defiant stand but said Athens’s negotiating strategy would “soon bear fruit.”",negative,-0.612209677696228
+2015-06-05,Tsipras Declares Creditors’ Debt Proposal for Greece ‘Absurd’,negative,-0.8606312274932861
+2015-06-09,"With companies increasing their disclosures about contributions, perhaps campaign finance reformers should turn their attention elsewhere.",neutral,0.20248693227767944
+2015-06-09,Corporations Open Up About Political Spending,neutral,-0.011082544922828674
+2015-06-16,"Ms. Gibson, who left The Guardian after being passed over for the editor in chief post, will oversee an expansion of BuzzFeed news staff in Britain.",neutral,0.4450586438179016
+2015-06-16,"Janine Gibson, a Former Guardian Editor, Will Head BuzzFeed’s British Operation",neutral,0.010311242192983627
+2015-06-18,"The White House discouraged participation, but that reportedly didn’t stop 70 American chief executives and officers.",negative,-0.8422892689704895
+2015-06-18,And the European turnout was even greater.,positive,0.7971545457839966
+2015-06-18,"Despite Tensions, U.S. Company Officials Attend Russian Economic Forum",neutral,-0.0617545023560524
+2015-06-20,"Don Blankenship, former chief of Massey Energy, will stand trial over safety violations related to a deadly mine explosion in West Virginia in 2010.",negative,-0.8364931344985962
+2015-06-20,The People v. the Coal Baron,neutral,-0.041603222489356995
+2015-07-03,"Auto policies and some credit cards will often cover rentals, but such coverage can come with restrictions.",neutral,-0.020421180874109268
+2015-07-03,Check Insurance Coverage When Renting a Car,neutral,0.02571018598973751
+2015-07-08,The news comes on top of Visa Inc. announcing in September that it was “considering its options” regarding the stake.,neutral,0.10378190875053406
+2015-07-08,Visa Europe to Reduce Its Stake in Mobile Payment Company Monitise,negative,-0.9359833002090454
+2015-07-28,The San Francisco-based digital payments start-up now has a $5 billion valuation and a partnership with Visa to help it compete.,positive,0.7983031868934631
+2015-07-28,"Stripe, Digital Payments Start-Up, Raises New Funding and Partners With Visa",positive,0.532397449016571
+2015-07-31,The European Commission said it had concerns that the $4.8 billion merger could decrease competition and lead to higher prices for consumers.,negative,-0.9040325284004211
+2015-07-31,FedEx-TNT Express Deal to Be Investigated in Europe,neutral,-0.4484317898750305
+2015-08-05,"Citing “egregious conduct” in text messages and emails between two lawyers, a federal judge scrapped a proposed $75 million settlement between American Express and a group of retailers.",negative,-0.9226850867271423
+2015-08-05,Judge Rejects Settlement in American Express Case,negative,-0.7996914982795715
+2015-08-07,A still-going suit brought by Eliot Spitzer against Maurice Greenberg and another executive in 2005 shows the effectiveness of certain tactics in prolonging proceedings.,negative,-0.46088045835494995
+2015-08-07,The Never-Ending Lawsuit Against 2 Former A.I.G.,negative,-0.8147823214530945
+2015-08-07,Executives,neutral,0.029414333403110504
+2015-09-16,"The Justice Department asked the Supreme Court to review an insider trading case, but an S.E.C.",negative,-0.5820487141609192
+2015-09-16,administrative judge might have undercut its argument.,negative,-0.8846704363822937
+2015-09-16,S.E.C.,neutral,0.030168529599905014
+2015-09-16,Judge May Have Weakened Justice Dept.,negative,-0.8785102963447571
+2015-09-16,Stance in Insider Trading Case,neutral,-0.007733426988124847
+2015-10-06,"The contract the justices were considering barred mass arbitration, a form of class actions pursued before an arbitrator.",neutral,-0.0389038547873497
+2015-10-06,Supreme Court Sees DirecTV Class Action as Too Big and Too Small,negative,-0.7589752674102783
+2015-10-22,"The deal, if it is completed, would broaden Liberty Global’s presence in the Caribbean and Latin America.",positive,0.9217168092727661
+2015-10-22,Liberty Global in Talks to Acquire Cable & Wireless Communications,neutral,0.027294103056192398
+2015-10-27,Oracle wants to do what it does best: build software that has the specific kinds of features that companies needs to manage their operations.,neutral,0.11771143972873688
+2015-10-27,Oracle Will Not Build a Giant Cloud System Like A.W.S.,neutral,-0.030348308384418488
+2015-11-02,"The two companies had operated separately since 2007, splitting shortly before Visa went public in an $18 billion initial public offering.",neutral,0.04201973229646683
+2015-11-02,Visa to Buy Back Former Europe Unit for Up to $23.3 Billion,neutral,0.04245901107788086
+2015-11-04,Some say the United States v. Newman will prompt the Justice Department and the S.E.C.,neutral,-0.4146186411380768
+2015-11-04,to push to toughen and expand the laws on insider trading.,positive,0.711813747882843
+2015-11-04,Market Changes May Prompt New Definition of Insider Trading,neutral,-0.02710326761007309
+2015-11-05,"As capable as Mercedes-Benz AMG and BMW M cars, ATS-V is letter-perfect in its driving dynamics.",neutral,0.47046181559562683
+2015-11-05,"Now, if Cadillac can get enthusiasts to understand that.",neutral,0.25341111421585083
+2015-11-05,"Video Review: Cadillac’s ATS-V, a Socially Refined Muscle Car",neutral,0.08372774720191956
+2015-12-08,"Alphabet, the holding company that owns Google, has renamed its Life Sciences division Verily as the company transitions to its new structure.",neutral,0.018161283805966377
+2015-12-08,Alphabet’s Life Sciences Business Has a New Name: Verily,neutral,0.052068859338760376
+2015-12-21,Congress wants to prevent the agency from issuing a rule that would require public companies to disclose their political spending.,negative,-0.711870014667511
+2015-12-21,Hindering the S.E.C.,negative,-0.9031808376312256
+2015-12-21,From Shining a Light on Political Spending,neutral,0.09166459739208221
+2016-01-04,"Fidelity will end the partnership it has had with American Express for its cards, which are considered to have one of the more generous rewards program.",neutral,0.011775225400924683
+2016-01-04,Fidelity Switches to Visa for Credit Card Branding,neutral,0.07761764526367188
+2016-01-11,"The declines came as President Vladimir Putin said that the drops had a positive side, in that they would lead Russia to improve financial policies.",positive,0.26572251319885254
+2016-01-11,Russian Shares and Ruble Fall as Oil Prices Continue to Tumble,negative,-0.940027117729187
+2016-01-22,"The government-backed Russian Direct Investment Fund is in the spotlight for making a big loan to Sibur, two of whose major owners have ties to President Vladimir Putin.",positive,0.8679006099700928
+2016-01-22,Russian Fund Under Scrutiny for Loan to Company Linked to Kremlin,negative,-0.8200252056121826
+2016-01-31,The cable network FX is betting that its 10-episode drama about O.J.,neutral,0.12345640361309052
+2016-01-31,Simpson’s trial will resonate with viewers much as the real trial did 21 years ago.,positive,0.6968854665756226
+2016-01-31,O.J.,neutral,0.058277327567338943
+2016-01-31,"Simpson Drama Depicts an Old Trial, and Renewed Tensions",neutral,0.06565035134553909
+2016-02-11,Its 5-liter V8 provides plenty of oomph and growl.,neutral,0.09560760855674744
+2016-02-11,To find 467 horsepower and 389 pound-feet of torque under the hood of a Lexus is heartening.,positive,0.582326352596283
+2016-02-11,"Video Review: With the RC F, Lexus Abandons Its Beige Image",neutral,-0.13188232481479645
+2016-02-26,"Its owner, Chris Hughes, said he had sold the magazine to Win McCormack, who planned to name a former Nation publisher to lead it.",neutral,9.137392044067383e-05
+2016-02-26,The New Republic Is Sold,neutral,0.09206493198871613
+2016-03-02,"Long before Facebook or Twitter, Mr. Kimsey was a co-founder of AOL, connecting a nascent online audience with news and information as never before.",neutral,0.07785643637180328
+2016-03-02,Jim Kimsey Dies at 76; AOL Co-Founder Influenced Generation of Net Providers,neutral,0.01909291185438633
+2016-03-08,"Ms. Paulson, who performs the role of the prosecutor in “The People v. O.J.",neutral,-0.009683717042207718
+2016-03-08,"Simpson,” discusses the sixth episode, which addresses the withering scrutiny Ms. Clark faced.",neutral,-0.24837377667427063
+2016-03-08,Sarah Paulson on Playing the Bruising Role of Marcia Clark,neutral,-0.08739954978227615
+2016-03-10,"A powerful V8 and adaptive suspension give this luxury ride serenity, but the mesmerizing cabin lighting seems to take a cue from the Las Vegas Strip.",neutral,0.11268360912799835
+2016-03-10,"Video Review: The BMW 750i xDrive, Tranquillity With a Touch of Vegas",neutral,0.06286992132663727
+2016-03-11,"A discussion about why shows like “American Crime story” and “Fargo,” which change settings, characters and story lines each season, are here to stay.",neutral,0.037074945867061615
+2016-03-11,"Anthology TV Can Draw Higher-Level Actors, FX Executive Says",positive,0.6876788139343262
+2016-03-17,Gustavo Martinez was accused in a lawsuit filed by the ad agency’s chief communications officer of subjecting employees to racist and sexist behavior.,negative,-0.8148257732391357
+2016-03-17,J. Walter Thompson Chief Resigns After Suit Accuses Him of Bias,negative,-0.8076371550559998
+2016-03-19,"After J. Walter Thompson’s chief steps down, questions are raised about Madison Avenue’s culture and diversity in an era posing new challenges.",neutral,0.0075834691524505615
+2016-03-19,Accusations of Sexism and Racism Shake Ad Agency and Industry,negative,-0.8998083472251892
+2016-03-22,"Many complications were widely predicted, but a lag in certifying payment terminals has added an unexpected wrinkle — and lots of finger-pointing.",negative,-0.8866612911224365
+2016-03-22,Chip-Card Payment System Delays Frustrate Retailers,negative,-0.8986615538597107
+2016-03-24,A conference in Miami aimed at charting the industry’s future was instead heavy with discussion about sexism in the workplace.,negative,-0.6817725896835327
+2016-03-24,Advertising Industry Wrestles With Bias After a Lawsuit,negative,-0.7958558797836304
+2016-03-29,A judge sealed all business information in the trademark case against a Salt Lake copycat.,neutral,-0.33947616815567017
+2016-03-29,"In Comic-Con v. Comic Con, Proceedings Are Opaque",neutral,-0.03698580712080002
+2016-04-07,"While a securities fraud case awaits argument in the Supreme Court, a conflict remains over what is needed to prove a trading violation.",negative,-0.8739867806434631
+2016-04-07,The Rocky Road of Insider Trading Law,neutral,0.024807676672935486
+2016-04-19,Visa said its software would allow customers to dip and remove their chip cards from payment terminals in two seconds or less.,neutral,-0.033869095146656036
+2016-04-19,Visa Speeds Up Chip Cards With Software Upgrade,neutral,0.17186714708805084
+2016-04-23,More than a half-dozen prominent former national security officials support Apple in the debate over balancing privacy and security in the digital age.,neutral,0.031186822801828384
+2016-04-23,"On Encryption Battle, Apple Has Advocates in Ex-National Security Officials",neutral,-0.3143243193626404
+2016-04-29,"Two women in the advertising department accuse the chief executive of The Times and a vice president of race, age and gender bias.",negative,-0.8148043751716614
+2016-04-29,Suit Accuses New York Times Executives of Bias,negative,-0.7097760438919067
+2016-05-11,Flat design wins again over skeuomorphism.,positive,0.767879068851471
+2016-05-11,"You’ll get over it, experts say.",neutral,0.06096652150154114
+2016-05-11,The Great Instagram Logo Freakout of 2016,neutral,-0.031141072511672974
+2016-05-25,"The recall affects 271,000 pickups in model years 2013-14 equipped with 3.5-liter V-6 engines.",negative,-0.7020500898361206
+2016-05-25,Ford Recalls Some F-150 Pickups for Potential Brake Problem,negative,-0.9389838576316833
+2016-05-26,"Warner Bros.’ “Batman v Superman” would seem to have the box-office edge, but “Captain America: Civil War” has surged past it.",neutral,-0.01712620258331299
+2016-05-26,Disney v. Warner: How Captain America Beat Batman and Superman,neutral,0.08453501015901566
+2016-05-31,"In banding together, the company’s board of directors has sided with chief executive Philippe P. Dauman, who was dismissed from Sumner M. Redstone’s trust and the board of National Amusements.",negative,-0.9266522526741028
+2016-05-31,Viacom’s Directors Vow to Fight Any Removal Efforts by Redstone Family,neutral,-0.3137638568878174
+2016-06-13,"If Britain leaves the European Union, visa rules would have a profound impact on employees in the restaurant, hotel and construction industries.",negative,-0.8215124607086182
+2016-06-13,‘Brexit’ Vote Has European Workers in Britain Unsure of Future,negative,-0.6722922921180725
+2016-06-17,"Viacom’s lead independent director, Frederic Salerno, is disputing his dismissal in court, but Sumner Redstone’s National Amusements has the upper hand.",negative,-0.8524197340011597
+2016-06-17,Viacom Director Has Uphill Battle in Case Against Redstone,negative,-0.32881563901901245
+2016-06-22,"Preserving the consideration of race in college admissions is critical, but a broader view of the issue is necessary.",neutral,0.0519934818148613
+2016-06-22,Affirmative Action as a Tool for a Racially Integrated Society,neutral,0.22247596085071564
+2016-06-23,"Citigroup, which is issuing the new Visa cards for Costco, has logged more than 1.5 million customer service calls on them.",neutral,0.06623508036136627
+2016-06-23,Costco’s Transition to Visa Cards Riddled With Problems,negative,-0.8207966089248657
+2016-06-30,A federal appeals court said the historic settlement was void because the same lawyers represented the retailers and the card processing companies.,negative,-0.8171452879905701
+2016-06-30,MasterCard-Visa Settlement With Retailers Is Overturned,positive,0.7230245471000671
+2016-07-28,This two-passenger car clearly says “let’s race.” The throbbing V8 and force of the lateral Gs during cornering simply must be experienced to comprehend.,neutral,0.060524046421051025
+2016-07-28,"Video Review: With GT S, Mercedes Builds a Performance Classic",positive,0.8902398943901062
+2016-08-01,"Wells Fargo joined three other banks in allowing instant payments, a market that has been taken over by services like Apple Pay and PayPal’s Venmo.",positive,0.6084275245666504
+2016-08-01,"Under Pressure, Big Banks Vie for Instant Payment Market",neutral,0.03972895070910454
+2016-09-01,"Mr. Chan will join the film editor Anne V. Coates, the documentarian Frederick Wiseman and the casting director Lynn Stalmaster in being honored at the Governors Awards.",neutral,0.1555861383676529
+2016-09-01,Jackie Chan Is Among Winners of Honorary Oscars,neutral,0.17803560197353363
+2016-09-08,"While Matt Lauer, the NBC “Today” show host, drew pointed criticism for his performance, Nielsen said the event beat many of the primary debates.",negative,-0.5527400970458984
+2016-09-08,"Clinton-Trump Presidential Forum Draws 15 Million Viewers, and Many Critics",neutral,-0.07533930242061615
+2016-10-12,"Male partners either bring in more big cases or get more credit for doing so, according to a survey from a legal research firm.",neutral,0.15587520599365234
+2016-10-12,"A 44% Pay Divide for Female and Male Law Partners, Survey Says",neutral,0.19347114861011505
+2016-10-18,"With land scarce and costly, developers are turning to multiuse projects, as the Durst Organization is with its building on the Avenue of the Americas.",neutral,0.033728599548339844
+2016-10-18,Business and Housing Move in Together in Crowded Cities,neutral,-0.33590012788772583
+2016-10-20,A hotel project in Texas promotes a connection to “the world’s leading developer” and a path to a visa in the United States.,positive,0.698180615901947
+2016-10-20,"Luring Chinese Investors With Trump’s Name, and Little Else",neutral,-0.20981617271900177
+2016-10-31,"Moore’s Law, the axiom that chips will ever be more powerful and cheaper, is reaching its limits.",neutral,0.14422455430030823
+2016-10-31,"But human ingenuity, with better algorithms and new hardware circuits, is pushing ahead.",positive,0.8015487790107727
+2016-10-31,Beyond Silicon: Squeezing More Out of Chips,neutral,0.09111592173576355
+2016-12-05,"Nadya Tolokonnikova, who was imprisoned for a 2012 performance, sees similarities between the situation in Russia and post-election America.",neutral,-0.14558541774749756
+2016-12-05,A Warning for Americans From a Member of Pussy Riot,neutral,-0.2143164724111557
+2016-12-06,The Supreme Court will hear arguments about how much flexibility a bankruptcy court should have regarding longstanding rule over creditor priority.,neutral,0.004650365561246872
+2016-12-06,Deciding Who Should Get First Dibs in Bankruptcy Liquidations,neutral,0.020730379968881607
+2016-12-07,"Justices reaffirmed a broad approach to proving insider trading on tips, in contrast with a ruling by New York’s circuit court.",positive,0.5484117269515991
+2016-12-07,Supreme Court Shores Up Insider Trading Law,negative,-0.574713945388794
+2016-12-11,"Mr. Tillerson, Exxon Mobil’s chief executive and a secretary of state candidate, has a relationship with Russia that could be both a strength and his Achilles’ heel.",neutral,0.23143376410007477
+2016-12-11,"Rex Tillerson, an Aggressive Dealmaker Whose Ties With Russia May Prompt Scrutiny",neutral,0.13706038892269135
+2016-12-14,Kathryn Marinello becomes chief facing missed third-quarter estimates and a cut in the company’s full-year guidance.,negative,-0.9428101778030396
+2016-12-14,New Hertz Chief Faces a Tough Road,negative,-0.7455654740333557

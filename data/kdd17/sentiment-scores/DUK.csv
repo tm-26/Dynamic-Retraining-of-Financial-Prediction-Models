@@ -1,0 +1,86 @@
+Date,Sentence,Prediction,sentimentScore
+2007-03-07,"James E. Rogers, the chief executive of Duke Energy, is walking a climate change tightrope.",neutral,-0.16659337282180786
+2007-03-07,A Coal Executive With a Cleanup Mission,neutral,-0.23064453899860382
+2007-07-10,"As talk of building new power plants rises sharply, a new fleet of coal-fired power plants and a revival of nuclear construction are both looking tougher due to rising costs.",negative,-0.7030491232872009
+2007-07-10,Costs Surge for Building Power Plants,negative,-0.8046146035194397
+2007-11-21,"The Indiana Utility Regulatory Commission approved Duke Energy’s application yesterday to build a new coal-fired power plant, and ordered the company to submit a plan within six months on how to capture some of the carbon dioxide it would produce.",positive,0.5629960298538208
+2007-11-21,"Plant Approved, With Carbon Study",neutral,0.036156415939331055
+2008-06-02,The difficult bottom line in the negotiations is that dealing with climate change will almost certainly hurt some industries and enrich others.,negative,-0.9266601204872131
+2008-06-02,Industries Allied to Cap Carbon Differ on the Details,neutral,-0.2547435462474823
+2008-06-27,"In a privately negotiated deal, Diamond Castle Holdings has sold Catamount Energy to Duke Energy for $320 million including debt.",neutral,0.021870721131563187
+2008-06-27,Duke Energy Acquires Catamount in $320 Million Deal,neutral,0.03683451935648918
+2009-02-14,"With regulations to address climate change looming, coal power looks increasingly expensive.",negative,-0.7294117212295532
+2009-02-14,Is America Ready to Quit Coal?,neutral,0.0029222816228866577
+2009-03-17,"The federal stimulus bill has allocated $3.4 billion for clean coal technologies, and companies are lining up with projects.",positive,0.6064351797103882
+2009-03-17,Stimulus Money Puts Clean Coal Projects on a Faster Track,positive,0.6576949954032898
+2009-05-06,"Duke Energy is on the lookout for certain distressed wind energy assets, executives said in a conference call Tuesday held to discuss its earnings for the first quarter of 2009.",neutral,-0.020076274871826172
+2009-05-06,Duke Energy Keeps Eye Peeled for Distressed Wind Assets,neutral,-0.11285810172557831
+2009-10-10,"Having a sense of what employees do every day can help a chief executive lead them where he wants to go, says James E. Rogers of Duke Energy.",neutral,0.1995944082736969
+2009-10-10,The C.E.O.,neutral,-0.002326488494873047
+2009-10-10,as General (and Scout),neutral,0.07525993883609772
+2009-11-19,"At a conference in California, investors and entrepreneurs considered the myriad obstacles facing the development of a digitally enhanced electric grid.",neutral,0.08064549416303635
+2009-11-19,In Pursuit of a Smarter Grid,neutral,0.10702449828386307
+2009-11-26,"Much of corporate America has already been thinking about how to comply with sharp cuts when they come, and that day seems to have moved closer.",positive,0.4834405183792114
+2009-11-26,Businesses in U.S. Brace for New Rules on Emissions,neutral,-0.06810420006513596
+2010-03-01,"Duke Energy and PPL Energy are reportedly engaged in competing bids for German power giant E.On’s United States operations, according to SparkSpread, an energy industry news Web site.",neutral,0.2287781983613968
+2010-03-01,Bids Reported for E.On’s U.S. Operations,neutral,-0.004428660497069359
+2010-04-26,"E.On, the world’s largest utility by sales, has shortlisted three bidders for the multi-billion euro sale of its U.S. business, Reuters reported.",positive,0.582044243812561
+2010-04-26,E.On Said to Shortlist 3 Bidders For U.S. Business,neutral,0.12628749012947083
+2010-04-28,"The sale of the U.S. arm of the German utility E.ON for over $6 billion was given the go-ahead by the company’s supervisory board Tuesday, The Wall Street Journal reported.",positive,0.5358638763427734
+2010-04-28,E.On Said to Approve $6 Billion Sale of U.S. Assets,neutral,0.4334878623485565
+2010-07-09,"Ford Motor has expanded its board to 14 members by adding Sprint Nextel Chairman James Hance Jr. as a director, The Associated Press reported.",positive,0.8001068234443665
+2010-07-09,Ford Adds Sprint Nextel’s Hance to Board,neutral,-0.04472342133522034
+2010-07-30,"Deep in the credit crisis, the bond market started on a rally that has refused to slacken, leading to some of the lowest borrowing costs ever seen, which companies are now running to take advantage of, The Wall Street Journal reported.",positive,0.3681158423423767
+2010-07-30,Low Borrowing Costs See Race to Sell Debt,neutral,0.03273364156484604
+2011-01-09,"A deal, which would value Progress at a little over $13.1 billion and unite two of the biggest energy companies in the South, could be announced as soon as Monday.",positive,0.5657065510749817
+2011-01-09,Duke Nears Deal to Buy Progress Energy,neutral,0.14528417587280273
+2011-01-10,The acquisition would create the nation’s largest utility company and it could advance the two companies’ nuclear ambitions.,positive,0.8649371862411499
+2011-01-10,Duke to Buy Progress Energy for $13.7 Billion,neutral,0.02875719778239727
+2011-01-10,"The Fed’s $80 billion profit | Progress Energy lobbyist found dead | Carlyle, the corporate citizen | Madoff son’s will request nixed",negative,-0.7517820000648499
+2011-01-10,Buzz Tracker,neutral,0.06716665625572205
+2011-01-11,"Barely more than a single business week into the new year, and companies have already inaugurated the first true “merger Monday” of 2011 with $21 billion in announced deals.",positive,0.49601900577545166
+2011-01-11,Tallying Up the First Merger Monday of 2011,neutral,0.1114286482334137
+2011-04-13,"Charlotte, N.C., badly hurt in the financial crisis by troubles in the banking industry, is luring companies from energy, the military and other sectors.",negative,-0.8712279200553894
+2011-04-13,A New South City Looks to a Future Not Built on Banking,neutral,0.07933861017227173
+2011-04-20,"The energy producer AES agreed to acquire DPL, the parent company of Dayton Power & Light, as industry consolidation continues.",neutral,0.36062538623809814
+2011-04-20,AES to Buy Ohio Utility for $3.5 Billion,neutral,0.02611171081662178
+2011-06-17,"As technological advances hold the line on power consumption, major electricity players are looking to get bigger to protect their bottom lines.",positive,0.5087301135063171
+2011-06-17,Utilities Turn to Mergers as Demand for Power Slows,negative,-0.8324451446533203
+2012-05-25,"Replacements Limited, of North Carolina, lost customers and got a lot of hate mail when it and its founder urged voters to reject a gay marriage ban.",negative,-0.9569568037986755
+2012-05-25,"A Company’s Stand for Gay Marriage, and Its Cost",neutral,-0.0027787312865257263
+2012-07-03,The North Carolina-based company said it completed its $32 billion merger with Progress Energy a few hours after South Carolina gave final approval.,positive,0.7108298540115356
+2012-07-03,Duke and Progress Energy Become Largest U.S. Utility,neutral,0.4428057372570038
+2012-07-06,A former director involved in the merger that formed the nation’s largest electric utility is lashing out at an abrupt leadership change at the combined company.,negative,-0.8895469307899475
+2012-07-06,Duke Energy Power Play Provokes an Uproar,neutral,-0.18163816630840302
+2012-07-09,"A boardroom coup at Duke Energy, the nation’s largest electric utility, is expected to come under scrutiny on Tuesday when North Carolina regulators question the company’s chief executive, James E. Rogers.",negative,-0.8772772550582886
+2012-07-09,Regulators Looking Into Coup at Duke Energy,neutral,-0.10935337841510773
+2012-07-11,The chief of Duke Energy told regulators that the board had a list of worries about the man chosen to preside over the newly merged utility.,neutral,-0.142508402466774
+2012-07-11,Duke Energy’s Chief Defends Abrupt Dismissal of His Predecessor,negative,-0.8144940733909607
+2012-07-13,"William D. Johnson, the former chief executive of Progress, and four Duke board members will testify next week before North Carolina’s utilities commission.",neutral,-0.014747889712452888
+2012-07-13,More Officials Called to Testify on Duke Energy’s Boardroom Coup,neutral,0.013105832040309906
+2012-07-14,"James Rogers spoke about the boardroom coup that installed him as chief at Duke Energy, growth slowed in China and JPMorgan Chase disclosed that its huge trading blunder may exceed $7 billion.",negative,-0.9227078557014465
+2012-07-14,The Week’s Business News in Pictures,neutral,-0.03863398730754852
+2012-07-19,"At a hearing before North Carolina’s utilities commission, William Johnson, the former chief executive of Progress Energy, indicated that the relationship between the two companies soured after Duke tried to back out of the deal, dooming his tenure chief of the newly merged utility.",negative,-0.9408745765686035
+2012-07-19,"Duke Energy Tried to Stop Merger, Former Progress Chief Says",negative,-0.47652971744537354
+2012-07-24,"There is little solid research on what makes an effective chief executive, which makes choosing a candidate the product of a board’s vision and personalities rather than one of careful contemplation.",neutral,-0.06800559163093567
+2012-07-24,When Picking a C.E.O.,neutral,-0.03444285690784454
+2012-07-24,Is More Random Than Wise,neutral,-0.09365812689065933
+2012-07-28,"In separate statements, two former directors of Progress Energy said the merged company needed a new chief to restore confidence among investors and regulators.",positive,0.6700531244277954
+2012-07-28,"Protesting Coup at Duke Energy, 2 Board Members Step Down",negative,-0.8708627820014954
+2012-11-05,"William D. Johnson, the ousted chief executive of Duke Energy, was named the new head of the Tennessee Valley Authority, the government-created provider of wholesale power in Tennessee and parts of six other southern states.",neutral,0.05290496349334717
+2012-11-05,Ousted Duke Energy Chief Named Head of Tennessee Utility,neutral,-0.2573913633823395
+2012-11-30,"Duke Energy’s chairman and chief executive, James E. Rogers, will retire at the end of 2013 as part of a wide-ranging settlement with regulators in North Carolina.",neutral,-0.005589589476585388
+2012-11-30,Duke Energy’s Latest C.E.O.,neutral,0.01974482089281082
+2012-11-30,Drama,neutral,0.026289619505405426
+2013-11-03,"Adding waste wood from paper mills, furniture factories and logging operations has been used with varying levels of success.",neutral,0.08280747383832932
+2013-11-03,Power Plants Try Burning Wood With Coal to Cut Carbon Emissions,neutral,-0.21851983666419983
+2013-11-23,The chief executive of Duke Energy says managerial skill is about “whether you can be effective in leading a diverse team.”,neutral,0.3509751260280609
+2013-11-23,"Lynn Good of Duke Energy, on Effective Leaders",neutral,0.09690704941749573
+2013-12-05,"More than two dozen major American corporations are preparing to pay climate-related taxes, departing from conservative orthodoxy and exposing divisions between the Republican Party and its business supporters.",negative,-0.8954348564147949
+2013-12-05,Large Companies Prepared to Pay Price on Carbon,neutral,-0.1607550084590912
+2014-08-22,The power producer is buying ownership stakes in coal and natural gas plants from Duke Energy and the private equity firm Energy Capital Partners.,neutral,0.09150076657533646
+2014-08-22,Dynegy to Buy Power Assets for $6.25 Billion,neutral,0.031329698860645294
+2014-08-22,"Dynegy’s deals look sensible, says Christopher Swann of Reuters Breakingviews, but the lesson from their bankruptcy is to avoid getting carried away.",neutral,0.3566494286060333
+2014-08-22,Dynegy’s Deals Mark Return of Ambition,neutral,0.06918736547231674
+2015-10-26,"By acquiring the natural gas distributor, Duke Energy will add about one million customers in North Carolina, South Carolina and Tennessee.",positive,0.7480401992797852
+2015-10-26,Duke Energy to Acquire Piedmont for $4.9 Billion,neutral,0.015180046670138836

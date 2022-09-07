@@ -1,0 +1,1589 @@
+Date,Sentence,Prediction,sentimentScore
+2007-01-18,"Vincent Reinhart, a top adviser on interest rates, is planning to leave the central bank.",negative,-0.4545212686061859
+2007-01-18,A Fed Adviser Plans to Leave,neutral,-0.09860901534557343
+2007-01-25,Hewlett-Packard is once again at the center of a cloak-and-dagger brouhaha.,neutral,0.0945664495229721
+2007-01-25,"A former Hewlett executive accused by the company of stealing trade secrets is now saying that he was instructed by the company’s management to spy on a rival, Dell, CNet News.com reported.",negative,-0.8781406879425049
+2007-01-25,"Karl Kamb, Hewlett’s former vice president of business development and strategy, was named as a defendant in a federal lawsuit filed by the computer maker in 2005 alleging that he used trade secrets to launch a rival flat-screen TV company of his own while still on the payroll.",negative,-0.8151496648788452
+2007-01-25,"At H-P, More Spying Allegations Fly",negative,-0.7798967361450195
+2007-01-25,"Bill Miller, the legendary stock picker who manages the Legg Mason Value Trust mutual fund, says he is often asked whether, on some level, he is relieved that his streak — 15 years of besting the Standard & Poor’s 500 — is over.",neutral,0.1619558036327362
+2007-01-25,"“The answer is no,” he wrote in his latest letter to shareholders of the fund, which ended 2006 up 5.9 percent, far below the 15.8 percent gain in the S&P.",negative,-0.19059434533119202
+2007-01-25,He goes on to suggest that it is actually a silly question.,negative,-0.4196525812149048
+2007-01-25,Bill Miller on Luck and the End of ‘The Streak’,neutral,-0.1088884025812149
+2007-01-27,"In an era of niches, when exclusion is as vital as inclusion, Gap has become an anachronism: a single chain, selling only its own brand.",neutral,-0.19159084558486938
+2007-01-27,Gap Is in Need of a Niche,neutral,-0.25341129302978516
+2007-01-30,"As Ben S. Bernanke celebrates his first anniversary as Fed chief, the Fed is still far away from acting on his major proposal of setting an explicit target for inflation.",negative,-0.5146527886390686
+2007-01-30,Fed Has Yet to Set Target on Inflation,neutral,-0.01586281508207321
+2007-02-02,"A week after ousting its chief executive, Gap removed his top deputy and former Disney colleague, Cynthia Harriss, as president of the Gap brand.",negative,-0.7855756878852844
+2007-02-02,Retailer’s Shake-Up Continues as Executive in Charge of Gap Resigns,negative,-0.8575436472892761
+2007-02-05,"Robert D. Novak, the writer who first named a C.I.A.",neutral,-0.005804326385259628
+2007-02-05,"spy, has remained on the sidelines of a game he started.",negative,-0.46361055970191956
+2007-02-05,Skipping Merrily Along as Others Take the Heat,neutral,0.06459870934486389
+2007-02-06,The five biggest stocks in America are lagging this year.,negative,-0.9581875205039978
+2007-02-06,Too Big to Rise?,neutral,-0.3042506277561188
+2007-02-11,Traders probably do not expect anything as seductive as a promise to cut interest rates in Ben S. Bernanke’s update to Congress on the economy and Federal Reserve policy.,negative,-0.7105363607406616
+2007-02-11,An Eye on Inflation as Growth Picks Up,neutral,0.0505133718252182
+2007-02-15,Ben S. Bernanke predicted that unemployment was likely to remain low over the next two years even as inflation declined slightly.,negative,-0.5503150820732117
+2007-02-15,Fed Chief Says Outlook Is Positive,positive,0.6696425676345825
+2007-02-15,Wall Street began a rally today after Ben S. Bernanke said that economic growth is under control.,positive,0.8159824013710022
+2007-02-15,Fed Chief Suggests Rates  Will Hold Steady,neutral,0.16172552108764648
+2007-02-17,Welcome news about the economy and interest rates touched off a stock market rally that lifted the Dow Jones industrial average to a record.,positive,0.8134137988090515
+2007-02-17,"Mostly Good Reports on the Economy, but See Footnotes",neutral,0.040343593806028366
+2007-03-14,The revelations that a dysfunctional board spied on its members and on journalists still casts a shadow on a company that by most measures is performing well.,negative,-0.8061065673828125
+2007-03-14,H.P.,neutral,0.03744767978787422
+2007-03-14,Restarts as Spy Case Lingers On,negative,-0.575496256351471
+2007-03-14,"Mark V. Hurd, the chairman and chief executive of Hewlett-Packard, would prefer that the discussion at the annual meeting Wednesday afternoon not focus on the revelations of last fall that a dysfunctional board spied on its members and on journalists.",negative,-0.4873797595500946
+2007-03-14,H.P.,neutral,0.03744767978787422
+2007-03-14,Restarts as Spy Case Lingers On,negative,-0.575496256351471
+2007-03-27,A sign of true distress in the housing market?,negative,-0.5829123854637146
+2007-03-27,Housing Hopes,neutral,0.058694593608379364
+2007-03-29,But Ben S. Bernanke reiterated his view that the U.S. economy is likely to expand at a moderate pace.,positive,0.8923637270927429
+2007-03-29,Fed Chairman Says ‘Uncertainties’ Have Grown,negative,-0.5855729579925537
+2007-03-29,Ben S. Bernanke said he did not expect subprime lending problems to damage the overall economy.,negative,-0.8972920179367065
+2007-03-29,Manageable Threats Seen by Fed Chief,neutral,0.06721510738134384
+2007-04-03,"Profit growth slows, but analysts think it will pick up in late 2007.",negative,-0.4139142632484436
+2007-04-03,Earnings Growth Slows,negative,-0.9407497048377991
+2007-04-04,Executives and investment bankers are using a proliferation of code names to disguise the parties in a potential deal.,negative,-0.5686246752738953
+2007-04-04,Mission: Acquirable?,neutral,0.021034151315689087
+2007-04-04,Breaking the Code,negative,-0.39861905574798584
+2007-04-30,"As with most things on Wall Street, last week’s surge in Amazon.com‘s stock created some big winners and big losers.",neutral,0.2539454698562622
+2007-04-30,"In the winners’ column: Bill Miller, the mutual-fund manager from Legg Mason whose legendary 15-year streak of beating the S&P 500 ended last year when some of his value fund’s top stock picks — including Amazon — failed to pay off.",neutral,-0.12512604892253876
+2007-04-30,"As recently as January, Mr. Miller doggedly defended his Amazon pick, writing in a letter to shareholders of his fund that “investors wrongly believe today’s low operating margins [at Amazon] are going to be the norm for years.”",negative,-0.7584681510925293
+2007-04-30,Amazon Giveth and Taketh Away,neutral,-0.08637414872646332
+2007-05-05,"It has taken 88 months, or nearly three-quarters of the decade, but the American stock market is finally back to where it ended the last decade.",positive,0.6702868342399597
+2007-05-05,A Comeback for the S.&P.,positive,0.503334105014801
+2007-05-05,(If the Yardstick Is Dollars),neutral,-0.002178959548473358
+2007-05-13,Some executives are much more hands-on than others.,neutral,-0.017135635018348694
+2007-05-13,That was made clear last week during a panel discussion titled “Power Couples — How They Live and Work.”,neutral,0.08849126100540161
+2007-05-13,Did That Power Dad Get His Hands Dirty?,negative,-0.5091104507446289
+2007-05-18,Ben S. Bernanke said problems in the subprime market were unlikely to have a major effect on the economy.,negative,-0.5699055790901184
+2007-05-18,Fed Chairman Sees Mortgage Damage as Limited,negative,-0.5348057746887207
+2007-05-19,A private equity fund and some well-known billionaires were in acquisitive moods this week.,neutral,0.14945781230926514
+2007-05-19,"Shoppers Are Holding Back, but Billionaires Are Buying",negative,-0.632655918598175
+2007-05-25,Is Upper Deck‘s bid for venerable bubble gum and card maker Topps really a back-door move to spy on its rival?,negative,-0.4781453311443329
+2007-05-25,Upper Deck’s Topps Bid: Sneaky or Sincere?,neutral,-0.04624117910861969
+2007-05-30,The S&P.,neutral,0.020709073171019554
+2007-05-30,"500 hits a new high, something most American stocks have been doing for many months.",positive,0.525067150592804
+2007-05-30,Indexes Can Mislead,negative,-0.7357199788093567
+2007-05-31,A modest rally pushed the most widely followed benchmark of U.S. stocks past a previous high set amid the dot-com boom.,positive,0.6935752630233765
+2007-05-31,S.&P.,neutral,0.031057283282279968
+2007-05-31,500 Breaks Record Set in 2000,neutral,0.06048315763473511
+2007-06-01,"William S. Lerach, one of the most powerful securities class-action lawyers in the nation, is considering plans to leave the law firm he founded three years ago.",neutral,-0.09058815985918045
+2007-06-01,"Top Lawyer, Under Fire, May Depart",negative,-0.44363051652908325
+2007-06-06,The stock market stumbled as Wall Street seemed to grasp that the Federal Reserve is in no hurry to lower interest rates.,negative,-0.8300920724868774
+2007-06-06,Fed Chief Dims Hopes for a Rate Cut,negative,-0.6365249156951904
+2007-06-10,"Although the markets regained some lost ground recently, a full calendar of economic reports could mean treacherous going for traders.",negative,-0.8004099130630493
+2007-06-10,"This Time, Sensitivity to Prices",neutral,0.047508254647254944
+2007-06-21," As Wall Street workers consider new guidelines on how and when to use their BlackBerrys, Paris has taken the issue a bit further, deciding that the ubiquitous hand-held devices may pose a threat to French national security.",negative,-0.7667456865310669
+2007-06-21,BlackBerrys: A Spy Tale of Three Cities,neutral,0.06331093609333038
+2007-06-24,"As Ben S. Bernanke, the chairman of the Federal Reserve, meets with policy makers to set interest rates this week, it is clear that he has earned credibility with Wall Street.",positive,0.8092203140258789
+2007-06-24,How Bernanke Made Them Believe,neutral,-0.07294344156980515
+2007-06-26,Home prices are falling across most of America.,negative,-0.9434154629707336
+2007-06-26,Housing Keeps Sinking,neutral,-0.08905845880508423
+2007-07-06,"The Federal Reserve Board named Brian F. Madigan as a top adviser on interest rates to its chairman, Ben S. Bernanke.",neutral,0.1047077625989914
+2007-07-06,Fed Names Rates Adviser,neutral,0.01839631050825119
+2007-07-10,The July issue of IEEE Spectruman article on cellphone technology that reads like a spy thriller.,neutral,-0.07270625233650208
+2007-07-10,Because it is.,neutral,0.20481359958648682
+2007-07-10,A look at how the cellphone of the Greek prime minister was bugged and questions about whether that could happen in the United States.,negative,-0.4755553603172302
+2007-07-10,Engineers as Counterspies: How the Greek Cellphone System Was Bugged,negative,-0.5624340176582336
+2007-07-11,Fed Chairman Ben S. Bernanke said Americans are likely to let short-term events shape their long-term perceptions about price increases.,neutral,-0.10449449717998505
+2007-07-11,Fed Chairman Cites Inflation Threat,neutral,-0.2025260031223297
+2007-07-18,"Ben S. Bernanke said he expected “moderate” growth, but that problems in housing had tempered the forecast.",negative,-0.7622755765914917
+2007-07-18,Fed Chief Is Cautious on Economy,negative,-0.46338608860969543
+2007-07-19,"Ben S. Bernanke said he expected “moderate” growth, but that problems in housing had tempered the forecast.",negative,-0.7622755765914917
+2007-07-19,Fed Trims Its Forecast for Growth,negative,-0.7601413726806641
+2007-07-26,David Pogue explores the good and bad aspects of three pen scanners.,neutral,0.011518532410264015
+2007-07-26,"Here Is Your Pen Scanner, Mr.",neutral,-0.014724090695381165
+2007-07-26,Bond,neutral,0.06116223335266113
+2007-08-10,Little “i”s have proliferated in product names and commercial brands like the iPod and iVillage.,neutral,0.06145022436976433
+2007-08-10,"For Many Campaigns, the Little i’s Have It",neutral,0.0496261827647686
+2007-08-15,"The disquiet on Wall Street showed no signs of letting up as the Dow industrials closed below 13,000 for the first time since April and the S.&P.",negative,-0.8121868968009949
+2007-08-15,500 erased its gains for the year.,negative,-0.940525233745575
+2007-08-15,Dow Off 167 Points in Late Swoon,negative,-0.8623125553131104
+2007-08-22,Here are excerpts from some of the comments that Alan Greenspan and Ben S. Bernanke have made about the housing market over the last six years.,neutral,-0.006926966831088066
+2007-08-22,Greenspan and Bernanke: Evolving Views,neutral,0.06630135327577591
+2007-08-27,"LOOKING TO THE FED While the markets have stabilized a bit, investors still wonder whether the Federal Reserve will cut the federal funds rate.",negative,-0.662355899810791
+2007-08-27,"They will be scrutinizing any remarks made on Friday by the Fed chairman, Ben S. Bernanke, at the annual symposium of the Federal Reserve Bank of Kansas City, Mo., in Jackson Hole, Wyo., which continues Saturday.",neutral,-0.08115102350711823
+2007-08-27,Looking Ahead,neutral,0.013165891170501709
+2007-08-30,"Ben S. Bernanke said the Federal Reserve was “prepared to act as needed” to prevent market woes from spreading, while the Dow closed up nearly 250 points as investors went bargain-hunting.",neutral,0.10394957661628723
+2007-08-30,Stocks Rally as Investors Chase Deals,negative,-0.18085215985774994
+2007-08-31,The Fed chief said that the central bank “stands ready to take additional actions as needed” to limit the effect of the financial market disorder on the economy.,positive,0.4736858308315277
+2007-08-31,Bernanke Says Fed Is Prepared to Act,neutral,0.1902932971715927
+2007-08-31,"Kathleen Corbet, president of the credit rating company Standard & Poor’s, resigned after lawmakers and investors criticized the company for failing to judge the risks of securities backed by subprime mortgages.",negative,-0.8476329445838928
+2007-08-31,President of S&P Steps Down Amid Criticism,negative,-0.5537427067756653
+2007-09-06,"Sweaty computer-gaming fetishists may catch a breeze from the Blackbird 002, the first of a new line of ultrafast PCs from Hewlett-Packard’s Voodoo division.",neutral,0.2835654616355896
+2007-09-06,"H.P.’s Blackbird 002, the Spy Plane of Gaming PCs",neutral,0.029473409056663513
+2007-09-08,"So far this decade, the inflation adjusted total return of the S.&P.",neutral,0.07251431047916412
+2007-09-08,"500 is worse than the 1930s, during the Great Depression.",negative,-0.9092617034912109
+2007-09-08,Not the Decade to Go Shopping With a Wallet Full of Stocks,neutral,-0.2610759139060974
+2007-09-11,Ben S. Bernanke expressed concern today over trade imbalances between emerging and industrial nations.,negative,-0.9409105777740479
+2007-09-11,Fed Chief Concerned on Trade Balance,neutral,-0.10990477353334427
+2007-09-12,"From AAA to bad junk, in two easy steps",neutral,0.2611977756023407
+2007-09-12,The Vanishing Rating,neutral,-0.025243110954761505
+2007-09-14,"Next week’s meeting of the Fed’s policy makers is likely to focus on how much to cut rates and may mark a defining moment for the Ben S. Bernanke, the Fed chairman.",neutral,0.03751447796821594
+2007-09-14,"For Fed, a Question of Whom to Rescue, and When to Dive In",neutral,-0.07252031564712524
+2007-09-19,"There are good reasons to believe that the real estate slump has a long way to go, and that’s the main reason the Fed went further than most analysts expected in cutting interest rates.",neutral,0.3508150577545166
+2007-09-19,Will the Fed Reverse the Housing Slump?,neutral,0.33209681510925293
+2007-09-20,"Back in mid-June — which somehow seems a long, long time ago — Steven Rattner, the co-founder of investment firm Quadrangle Group, offered a warning.",negative,-0.6905218958854675
+2007-09-20,"In a commentary in The Wall Street Journal, he said that the market for high-yield corporate debt, the lifeblood of the leveraged buyout industry, was headed for trouble.",negative,-0.909841775894165
+2007-09-20,Rattner and S&P See Big Debt Trouble Ahead,negative,-0.9016830921173096
+2007-09-22,"A Federal Reserve governor, Kevin M. Warsh, said Friday that the Fed should be “extremely wary” of protecting banks or investors from losses resulting from the sell-off in credit markets.",neutral,0.0709114521741867
+2007-09-22,Fed Governor Warns Against Shielding Investors From Their Losses,neutral,-0.2559029757976532
+2007-10-11,An advisory group of hedge fund executives said that the funds should disclose indirect investments in companies and do a better job of informing clients of risks.,neutral,0.44251400232315063
+2007-10-11,"In Britain, Pressing Hedge Funds for Clarity",neutral,-0.27419182658195496
+2007-10-12,The investment banking and alternative investment units will be brought under one leader.,neutral,0.033002812415361404
+2007-10-12,"This morning, an analyst at Deutsche Bank downgraded the stock.",negative,-0.9178096652030945
+2007-10-12,Big Shake-Up as Citigroup Combines Two Key Units,positive,0.4007223844528198
+2007-10-14,"The National Security Agency sought to enlist Qwest in a domestic surveillance program in February 2001, according to the company’s former chief executive.",neutral,0.0035223588347434998
+2007-10-14,Former Phone Chief Says Spy Agency Sought Surveillance Help Before 9/11,neutral,-0.25626498460769653
+2007-10-18,"Despite a report showing inflation in check, a worsening housing slump and a mixed economic outlook could put the Fed in a tight spot as it considers its next steps.",negative,-0.9419265985488892
+2007-10-18,"Core Inflation Remains Steady, Presenting a Puzzle to the Fed",neutral,-0.0043945759534835815
+2007-10-31,"Even though oil prices fell by more than $3 a barrel, stock investors hunkered down amid expectations that the Fed will cut interest rates by a quarter-point.",negative,-0.9100154042243958
+2007-10-31,A Cautious Market Awaits Fed’s Move on Rates,negative,-0.4219030737876892
+2007-11-01,"Following is the text of a statement released by the Federal Reserve yesterday after the Fed’s monetary policy panel, the Federal Open Market Committee, decided to lower interest rates by a quarter of a percentage point:.",neutral,-0.011424824595451355
+2007-11-01,Text of the Fed’s Statement on Cutting Interest Rates,neutral,0.050702303647994995
+2007-11-05,"Robert E. Rubin, named chairman of Citigroup, will seek to revive the troubled bank, which said it would take an additional $8 billion to $11 billion write-down.",neutral,0.0964554101228714
+2007-11-05,Fixing Citigroup Will Test Rubin,neutral,-0.09185478091239929
+2007-11-08,"Among the investing cognoscenti, Edward S. Lampert is often mentioned in the same breath as Warren E. Buffett, but a recent investment in Citibank might tarnish that reputation.",negative,-0.9005953669548035
+2007-11-08,Bet on Citigroup Hurts a Prominent Investor,neutral,-0.12503919005393982
+2007-11-14,The Federal Reserve announced plans today to take some of the mystery out of its policy-making.,neutral,0.06731581687927246
+2007-11-14,Fed to Reveal More About Its Forecasts,neutral,0.045115917921066284
+2007-11-15,"The Federal Reserve said that it would take some of the mystery out of its decision-making, disclosing far more information about its economic forecasts.",neutral,0.03655640035867691
+2007-11-15,Fed to Share More of Its Thinking in Its Reports,neutral,0.13978226482868195
+2007-11-26,The S.&P.,neutral,0.019525134935975075
+2007-11-26,"500 and Dow Jones indexes are officially in correction territory, down more than 10 percent from their peak on Oct. 9.",negative,-0.9652174711227417
+2007-11-26,Stocks Plummet; Bond Yields Sag,negative,-0.9417388439178467
+2007-11-30,"Ben S. Bernanke said a “fresh wave of investor concern” led to tougher credit conditions, reinforcing views that the Fed will cut interest rates at its next meeting.",negative,-0.26170918345451355
+2007-11-30,Fed Chief Offers New Hint on a Rate Cut,neutral,0.20353364944458008
+2007-12-01,"Citigroup is closing in on a chief executive and the board appears to be leaning toward an insider, Vikram S. Pandit, who joined the company seven months ago.",neutral,0.023235134780406952
+2007-12-01,"At Citigroup, a Favorite Emerges for the Top Job",neutral,0.06370578706264496
+2007-12-11,"Vikram S. Pandit confronts the daunting task of shoring up the company, which has been brought to its knees by the mortgage crisis.",neutral,0.028817757964134216
+2007-12-11,Troubled Citigroup Names Pandit as Chief Executive,neutral,-0.20026330649852753
+2007-12-12,Stocks fell sharply and investors rushed to the safety of Treasuries after the Fed announced that it had made only a quarter-point cut in the rate that financial firms pay to borrow from the central bank.,negative,-0.6638998985290527
+2007-12-12,Shares Fall on a Rate Cut Considered a Disappointment to Fed Watchers,negative,-0.9094904065132141
+2007-12-12,"In announcing the cut, the Federal Reserve signaled its concern that the credit crisis may be damaging the broader economy.",negative,-0.9220610857009888
+2007-12-12,The Dow fell nearly 300 points.,negative,-0.8983010053634644
+2007-12-12,Credit Crisis Prompts Fed to Roll Back Rates Again,negative,-0.7864823341369629
+2007-12-12,"Following is the text of a statement released by the Federal Reserve on Tuesday after the Fed’s monetary policy panel, the Federal Open Market Committee, decided to lower interest rates by a quarter of a percentage point:.",neutral,-0.06245608627796173
+2007-12-12,Text of the Fed Statement,neutral,0.03802558034658432
+2007-12-17,"A decade ago, the company now known as GameStop was bankrupt, but now it says it’s the world’s largest video game retailer and is about to join the S.&P.",neutral,0.15096040070056915
+2007-12-17,500.,neutral,0.03894622251391411
+2007-12-17,"Once Broke, GameStop Moves Up to S.&P.",neutral,0.35394036769866943
+2007-12-17,500,neutral,0.040608689188957214
+2007-12-19,"The move by Standard & Poor’s could force Merrill Lynch, CIBC and other investment banks to write down the value of securities they had bought insurance on by billions of dollars.",negative,-0.92229825258255
+2007-12-19,S.&P.,neutral,0.031057283282279968
+2007-12-19,Cuts Rating on Bond Insurer,neutral,-0.012140139937400818
+2007-12-19,The new rules would force companies to show that customers can realistically afford their mortgages.,neutral,0.13257816433906555
+2007-12-19,"In Reversal, Fed Approves Plan to Curb Risky Lending",positive,0.6223317384719849
+2007-12-19,"Citing deepening problems in the mortgage market, Standard & Poor’s on Wednesday cut the rating of one troubled bond insurer, ACA Financial, and assigned a negative outlook to ratings of four other companies that guarantee debts tied to home loans.",negative,-0.9242662191390991
+2007-12-19,S&P Cuts Rating on Bond Insurer ACA,negative,-0.6282354593276978
+2008-01-02,The maven of S.&P.,neutral,0.025240954011678696
+2008-01-02,"numbers, Howard Silverblatt, points out that today ranks No.",neutral,0.2228807806968689
+2008-01-02,6 among the worst first days of a year for the S.&P.,negative,-0.9452654123306274
+2008-01-02,500.,neutral,0.03894618898630142
+2008-01-02,The index fell by 1.4 percent.,negative,-0.9459856748580933
+2008-01-02,"Bad Start, Recession Near?",negative,-0.8381298184394836
+2008-01-07,Trade deficit figures headline a light week for economic data.,negative,-0.33248239755630493
+2008-01-07,The Week’s Economic Reports,neutral,-0.19062328338623047
+2008-01-10,Ben S. Bernanke sent a strong signal that the central bank will lower interest rates again this month as it attempts to stave off a recession.,positive,0.09540542960166931
+2008-01-10,Fed Chief Signals Further Rate Cut,neutral,-0.18591323494911194
+2008-01-10,"Many argue that with the stock market falling and the economy flirting with recession, the Fed’s chairman should be more aggressive than he has been so far.",neutral,-0.318489670753479
+2008-01-10,"For Bernanke, a Question of Toughness",neutral,-0.07690483331680298
+2008-01-14,The producer price index and testimony from Federal Reserve Chairman Ben Bernanke on the near-term economic outlook are this week’s highlights.,neutral,0.08742145448923111
+2008-01-14,The Economic Week,neutral,-0.21013474464416504
+2008-01-16,"The chairman of the Federal Reserve told members of Congress he would back tax cuts or spending measures, so long as they are temporary.",neutral,0.34162044525146484
+2008-01-16,Bernanke Is Said to Support Stimulus Measures,neutral,0.3564523756504059
+2008-01-17,"Ben S. Bernanke endorsed quick passage of a stimulus package and aggressive action by the Fed, but said that a recession is probably not on the horizon.",neutral,0.18755121529102325
+2008-01-17,Fed Chief Backs Quick Action to Aid Economy,positive,0.585143506526947
+2008-01-17,The Dow Jones industrial average plunged 306.95 points Thursday as investors confronted new chapters of a well-worn story: the economy is in trouble.,negative,-0.9319807291030884
+2008-01-17,Dow Plunges More Than 300 Points on Grim Outlook,negative,-0.9283398985862732
+2008-01-18,The package is expected to include more than $100 billion in one-time tax rebates for individuals and an opportunity for businesses to rapidly write off their capital investments.,positive,0.5275298357009888
+2008-01-18,Bush to Offer Stimulus Plan; Tax Rebates Expected,neutral,0.18567630648612976
+2008-01-23,"James Stock, a Harvard economist, coined the phrase “the great moderation” while writing a research paper with Mark Watson of Princeton earlier in this decade.",neutral,-0.11608722805976868
+2008-01-23,"You can read the paper — “Has the Business Cycle Changed and Why” — <a href=""http://ksghome.harvard.edu/~JStock/pdf/stock&watson_macroannual.pdf"">here</a>.",neutral,-0.022899501025676727
+2008-01-23,Origins of ‘The Great Moderation’,neutral,0.039138298481702805
+2008-01-27,"The problem, analysts say, boils down to this: Customers are avoiding Sears stores in droves.",negative,-0.9369288086891174
+2008-01-27,Saving Sears Doesn’t Look Easy Anymore,neutral,-0.2518026828765869
+2008-01-28,"Moving to show investors he is serious about a turnaround at Sears, Edward S. Lampert, the retailer’s billionaire chairman, said the company’s chief executive, Aylwin B. Lewis, would step down.",neutral,-0.009750992059707642
+2008-01-28,Chief of Sears to Step Down,neutral,-0.20404911041259766
+2008-01-29,"Edward S. Lampert has a new strategy for Sears: less Edward S. Lampert, humbly admitting that  his  style and strategy for Sears and Kmart are not working.",neutral,-0.31111815571784973
+2008-01-29,Sears’ Chairman Will Take a Step Back,neutral,-0.20831628143787384
+2008-01-29,"Wall Street keeps bidding up the prices of homebuilding stocks, secure in the belief that the bottom is nigh.",neutral,0.3274974822998047
+2008-01-29,The S&P 1500 homebuilder index is up 48 percent from its low earlier this month.,positive,0.9147447347640991
+2008-01-29,Psst.,neutral,0.05763427913188934
+2008-01-29,Wanna Buy a House?,neutral,0.011396341025829315
+2008-01-30,"After a stunning cut one week ago, the Federal Reserve appears poised to announce another rate cut on Wednesday as insurance against a recession.",negative,-0.047837913036346436
+2008-01-30,Fed’s Issue on Rates: How Low?,negative,-0.4016295075416565
+2008-01-30,"Sometime before Feb. 1, 2010, the next president will have to decide whether Federal Reserve Chairman Ben Bernanke should get a second term.",neutral,-0.08765307068824768
+2008-01-30,Bernanke’s Midterm Tests,neutral,-0.3046821057796478
+2008-01-30,"In lowering its benchmark rate by a half-point to 3 percent, the Fed said that it was worried mainly about an economic slowdown, not rising inflation.",negative,-0.30233681201934814
+2008-01-30,Fed Reduces Rate by Half-Point; 2nd Cut in 8 Days,negative,-0.8510507941246033
+2008-01-31,The text of a statement released after the Federal Open Market Committee decided to lower interest rates by half a percentage point.,neutral,0.09267178177833557
+2008-01-31,Text of Federal Reserve Statement,neutral,0.029226891696453094
+2008-02-06,"Whatever the outcome of Microsoft’s bid for Yahoo, the move and Google’s countermoves mark  an escalation in the confrontation between the two companies.",negative,-0.9208760857582092
+2008-02-06,Microsoft Adversary Rises Instinctively at Yahoo Bid,negative,-0.6877337694168091
+2008-02-06,"Commercial and investment banks could see their credit ratings cut if the bond insurers that hedge some of their assets were themselves downgraded, Standard & Poor’s said on Tuesday, as billionaire investor Wilbur Ross mulled whether to invest $1 billion or more in the sector.",negative,-0.9117439389228821
+2008-02-06,S.&P.,neutral,0.031057283282279968
+2008-02-06,Warns on Banks’ Exposure to Bond Insurers,neutral,-0.25114721059799194
+2008-02-11,A look at some of this week’s major business events coming this week.,neutral,0.020072977989912033
+2008-02-11,This Week’s Major Business Events,neutral,-0.014667071402072906
+2008-02-14,"While continuing to avoid predictions of a recession, Ben S. Bernanke told a Senate panel on Thursday that the economic outlook had worsened.",negative,-0.9414283633232117
+2008-02-14,Fed Chief Leaves Room for More Rate Cuts,negative,-0.38876163959503174
+2008-02-14,Hewlett-Packard has agreed to a financial settlement with The New York Times and three Business Week magazine journalists in connection with the company’s spying scandal.,positive,0.5748542547225952
+2008-02-14,Hewlett-Packard Settles Spying Case,negative,-0.6763018369674683
+2008-02-14,"Howard Silverblatt of Standard & Poor’s reports that St. Valentine’s Day tends to be a poor day in the stock market, with the S.&P.",negative,-0.8878609538078308
+2008-02-14,"500 rising only 39 percent of the time, and fallling 57 percent of the time.",neutral,-0.26366662979125977
+2008-02-14,"Sell Stocks, Buy Flowers",neutral,0.026142194867134094
+2008-02-27,The fate of the Fed’s strategy could depend on foreign confidence in the dollar and willingness to keep financing the United States’ huge external debt.,neutral,-0.06779782474040985
+2008-02-27,Fed Chief Signals He’s Open to More Rate Cuts,neutral,0.07487834990024567
+2008-03-03,"The ailing retailer seeks to revive slumping sales with a new media campaign with the theme, “Reimagine You.”",neutral,0.28223294019699097
+2008-03-03,Sears Joins With Hearst for a Multimedia Blitz,neutral,0.05476641282439232
+2008-03-04,Ben S. Bernanke urged mortgage lenders and investors to reduce the principal on loans for many homeowners.,neutral,0.20292562246322632
+2008-03-04,Fed Chief Urges Breaks for Some Home Borrowers,negative,-0.5352911949157715
+2008-03-05,"Investors and analysts have urged a breakup of Citigroup, saying the company has become too unwieldy to be managed effectively.",negative,-0.912986159324646
+2008-03-05,"Assurances From Citigroup, but Skepticism on Wall Street",negative,-0.5283597111701965
+2008-03-11,"The bank will inject $1 billion across six highly leveraged municipal bond funds with $15 billion in assets, which were sold under the names ASTA and MAT.",neutral,0.08727207034826279
+2008-03-11,Citigroup Acts to Bolster Hedge Funds,neutral,0.18890784680843353
+2008-03-14,"Warning about a gathering wave of home foreclosures, Ben S. Bernanke pledged new regulations to limit the impact and crack down on predatory mortgage lending.",positive,0.4888860285282135
+2008-03-14,Fed Chief Warns Anew on Foreclosures,negative,-0.6398594379425049
+2008-03-27,"Citigroup said it would pay $1.66 billion to the Enron Bankruptcy Estate, which represented Enron creditors caught up in one of the biggest corporate scandals.",neutral,0.028001338243484497
+2008-03-27,Citigroup Resolves Claims That It Helped Enron Deceive Investors,negative,-0.611312210559845
+2008-04-02,The chairman of the Federal Reserve warned a Congressional committee that the economy could contract in the first half of this year.,negative,-0.9437766671180725
+2008-04-02,Bernanke Nods at Possibility of a Recession,neutral,-0.04952964186668396
+2008-04-07,The corporate love of buying back stock — which Wall Street encourages as much as it can — reached new heights late last year.,positive,0.5970677733421326
+2008-04-07,"Standard & Poor’s, which has been tracking buyback data for the S.&P.",neutral,0.009146817028522491
+2008-04-07,"500 since 1998, reports that in the fourth quarter of last year, companies in the index had net reported profits of $68 billion — and spent $141 billion buying back stock.",neutral,0.08819038420915604
+2008-04-07,That was the first quarter in which the companies managed to spend double their net income in buybacks.,positive,0.7483859658241272
+2008-04-07,The third quarter of 2007 had been the first time that buybacks exceeded profits for the companies.,positive,0.43819236755371094
+2008-04-07,"Profits Plunge, Buybacks Don’t",negative,-0.8449733257293701
+2008-04-09,"Betting that the long-frozen credit markets are starting to thaw, Apollo Management, TPG Capital and the Blackstone Group have agreed in principle to buy about $12.5 billion of loans from Citigroup.",positive,0.8550098538398743
+2008-04-09,Citi Is Said to Be Near Deal to Sell $12.5 Billion of Loans,neutral,0.05358699709177017
+2008-04-18,"The results contained few surprises, and investors responded to the bank’s $5.1 billion loss by pushing markets sharply higher.",positive,0.7270524501800537
+2008-04-18,"Citigroup Records a Loss and Plans 9,000 Layoffs",negative,-0.9402598738670349
+2008-04-19,"The results contained few surprises, and investors responded to the bank’s $5.1 billion loss by pushing markets sharply higher.",positive,0.7270524501800537
+2008-04-19,"Citigroup Records a Loss and Plans 9,000 Layoffs",negative,-0.9402598738670349
+2008-05-03,"The chief executive of Citigroup, Vikram S. Pandit, finds himself in the position of having to restructure or make changes at the hedge fund he co-founded and that Citigroup purchased.",negative,-0.8895986080169678
+2008-05-03,Investors Flee Chief’s Fund at Citigroup,negative,-0.7315321564674377
+2008-05-07,"After six years of stumbling against the euro, the dollar may be showing signs of getting back on its feet.",positive,0.7113319635391235
+2008-05-07,Some Signs of an Upturn for the Dollar,negative,-0.6410207152366638
+2008-05-08,"Hoping to establish a stronger foothold in the oil-rich region, Citigroup is sending Alberto J. Verme, a co-head of investment banking, to Dubai by the end of the month.",positive,0.7906557321548462
+2008-05-08,Citi to Send a Top Banker to Dubai,neutral,-0.0014892444014549255
+2008-05-09,"Since becoming Citigroup’s chief executive in December, Vikram S. Pandit has been clearing out the corporate attic of weak businesses and unloading worrisome assets.",negative,-0.5301955342292786
+2008-05-09,Blue-Light Specials at Citigroup as Its New Chief Plans a Revival,neutral,0.3292153775691986
+2008-05-10,"At Vikram Pandit’s first major presentation to investors and analysts, Citigroup said that it planned to sell about $400 billion in assets in the next two to three years.",neutral,0.03406641632318497
+2008-05-10,Citi’s Chief Says Change Will Take Time and Patience,neutral,0.05314592644572258
+2008-05-12,"Replacing a tagline that fizzled last year, Citigroup’s new slogan, “Citi Never sleeps”, had previously been scratched.",negative,-0.4971950054168701
+2008-05-12,Citi’s New Slogan Is Said to Be Second Choice,neutral,0.19614815711975098
+2008-05-16,"Ben S. Bernanke, the Federal Reserve chairman, urged banks to keep raising capital in the aftermath of losses from the credit crisis to avert deeper damage to the economy.",positive,0.6931378245353699
+2008-05-16,Bernanke Says Banks Need More Capital,neutral,0.15384958684444427
+2008-06-03,"Melvyn I. Weiss, the prominent class-action lawyer, was sentenced to 30 months in prison by a federal district judge in Los Angeles for his role in concealing illegal kickbacks to plaintiffs.",negative,-0.8083922863006592
+2008-06-03,Class-Action Lawyer Gets 30 Months in Prison,negative,-0.7112839221954346
+2008-06-04,Federal Reserve Chairman Ben Bernanke speaks about the economy and inflation at Harvard University.,neutral,0.030936695635318756
+2008-06-04,Bernanke: Learning From the 1970s,neutral,0.09916041791439056
+2008-06-05,Ben S. Bernanke spoke about the economic pressures created by high oil prices and inflation at his alma mater.,neutral,-0.05277048796415329
+2008-06-05,"At Harvard, They Hail a Fed Chief",neutral,-0.07240258157253265
+2008-06-14,"If a Yahoo shareholder had bought the stock in January at about $19 a share, the price before Microsoft unveiled its original offer to buy the company, he’d still be doing better than the market in general.",positive,0.6600267887115479
+2008-06-14,Yahoo Stock Outpaces the S.&P.,negative,-0.06456568837165833
+2008-06-14,500,neutral,0.040608689188957214
+2008-06-16,"The economy is stalling and corporate earnings are off, but the paychecks for chief executives at the largest companies generally got fatter last year.",negative,-0.9273766279220581
+2008-06-16,John Thain Topped S&P Peers in 2007 Pay,positive,0.7163727879524231
+2008-06-19,"A half-dozen members of the Thomson Reuters  research department are moving to Standard & Poor’s to form a new department to produce market research for hedge funds and other Wall Street players, The Wall Street Journal reported.",neutral,0.04928622767329216
+2008-06-19,Thomson Reuters Said to Team With S&P for Hedge Fund Research,neutral,0.2101665735244751
+2008-07-09,"Steve & Barry’s, the clothing chain made famous for its cheap celebrity fashion, is preparing to file for bankruptcy protection, according to people briefed on the talks.",neutral,-0.1343604177236557
+2008-07-09,Retail Chain Said to Face Bankruptcy,negative,-0.47245949506759644
+2008-07-15,"A proposal to buck up Citigroup will do nothing to cushion blows that are likely to come in the days and weeks ahead, when it is is expected to report yet more grim quarterly results.",negative,-0.7523112297058105
+2008-07-15,Appointments With Red Ink,neutral,-0.07143780589103699
+2008-07-16,A sense of gloom gripped Washington as the Federal Reserve chairman warned of the risks of a slowdown.,negative,-0.7639893889427185
+2008-07-16,Fed Chief Bleak on Economic Outlook,negative,-0.5531781911849976
+2008-07-16,"The Fed chief warned of the risks of a long slowdown and higher inflation as the president, speaking nearby, said the country’s economic pillars remained sound.",positive,0.6184067726135254
+2008-07-16,"Bernanke Is Pessimistic, but Bush Urges a ‘Deep Breath’",neutral,0.09098951518535614
+2008-07-22,"Citigroup’s investment banking chairman, Michael Klein, will leave the bank, extending a management shake-up after Vikram S. Pandit’s appointment as chief executive in December.",negative,-0.7703958749771118
+2008-07-22,Investment Banking Leader at Citigroup Is Leaving,neutral,-0.011680908501148224
+2008-08-08,"During the 24 trading days since the July 4 weekend, there were 13 days in which the S.&P.",neutral,-0.044621311128139496
+2008-08-08,"500 moved at least 1 percent, including five days when it rose or fell more than 2 percent.",neutral,-0.2322210967540741
+2008-08-08,The More Prices Change .,neutral,-0.26477280259132385
+2008-08-08,.,neutral,0.09478545188903809
+2008-08-08,.,neutral,0.09478545188903809
+2008-08-15,One of the largest private banking scandals in years in Liechtenstein has brought to light a group of characters worthy of a spy thriller.,neutral,-0.061616331338882446
+2008-08-15,Banking Scandal Unfolds Like a Thriller,neutral,0.0016706287860870361
+2008-08-22,The chairman of the Federal Reserve outlined an ambitious proposal for overseeing the credit markets and preventing a rerun of the current crisis.,neutral,0.08117455989122391
+2008-08-22,Fed Chairman Urges Broader Market Oversight,neutral,0.12403108179569244
+2008-08-26,"The rate would be raised in an effort to slow inflation, but Fed policy makers have not agreed to a timetable for the move, documents show.",neutral,-0.14061492681503296
+2008-08-26,Fed Hints It Will Raise Benchmark Interest Rate,neutral,0.2659188210964203
+2008-09-04,"Until today, the latest sell-off in the stock market had not reflected the panic of early July, when some banks were trading as if the end was near.",negative,-0.810987114906311
+2008-09-04,The Standard & Poor’s index of the financials in the S.&P.,neutral,0.02097349427640438
+2008-09-04,"500 rose 3 percent in the first two trading days of the week, while the overall market was falling.",negative,-0.1005319356918335
+2008-09-04,A Whiff of Panic Returns to Wall Street,neutral,-0.004843235015869141
+2008-09-05,"Wall Street managed a slight gain on Friday, a day after concerns about the economy, and in particular the labor market, sent the Dow plunging.",negative,-0.2754004895687103
+2008-09-05,Markets in Europe and Asia ended the day lower.,negative,-0.9325643181800842
+2008-09-05,Stocks Withstand Jump in Jobless Rate,negative,-0.851931095123291
+2008-09-16,"Standard & Poor’s downgraded the American International Group‘s long-term and short-term counterparty ratings on Monday night, a move that could presage the eventual collapse of the insurance giant.",negative,-0.9109992384910583
+2008-09-16,S.&P.,neutral,0.031057283282279968
+2008-09-16,Downgrades A.I.G.’s Counterparty Rating,negative,-0.6942726969718933
+2008-09-16,The Times's Gretchen Morgenson explains why today's decision by the Fed not to change rates may not harm consumers.,negative,-0.7002791166305542
+2008-09-16,Morgenson on Fed's Holding Rates Pat,neutral,-0.015570282936096191
+2008-09-17,It is traditional to proclaim a bear market when an index falls at least 20 percent from a high.,negative,-0.8056487441062927
+2008-09-17,That has been true for some time in the S.&P.,neutral,0.06644038110971451
+2008-09-17,"500, but that was mostly because of the collapse of the financials.",negative,-0.7066311836242676
+2008-09-17,Bear Bites the Real Economy,negative,-0.37691211700439453
+2008-09-18,Morgan Stanley and Goldman Sachs were thought to be in a separate class from weaker banks like Bear Stearns.,neutral,-0.00010270252823829651
+2008-09-18,"As Fears Grow, Wall St. Titans See Shares Fall",negative,-0.9040950536727905
+2008-09-20,"While the proposed bailout and the newly buoyant market raise Citi’s prospects, the large bank still isn’t out of the woods.",positive,0.44345080852508545
+2008-09-20,Citigroup: Above the Fray?,neutral,-0.032319486141204834
+2008-09-23,"Sallie L. Krawcheck, who led Citigroup’s global wealth management division, was pushed out after months of friction with the chief executive.",negative,-0.9224423170089722
+2008-09-23,Most Prominent Woman on Wall Street Is Out at Citi,neutral,-0.15214398503303528
+2008-09-23,"Here is the text of the testimony prepared for delivery before the Senate Committee on Banking, Housing, and Urban Affairs on Tuesday by Ben S. Bernanke, the chairman of the Federal Reserve Board, as released by Mr. Paulson’s office (including one footnote)..",neutral,0.022553008049726486
+2008-09-23,Prepared Text of Bernanke’s Statement,neutral,0.026456087827682495
+2008-10-06,The S&P 500 is now 46 percent below the peak it hit in 2000.,negative,-0.9315487146377563
+2008-10-06,Stocks Approach a Grim Milestone,negative,-0.6557984948158264
+2008-10-07,Vikram Pandit is playing a dangerous game with Citigroup’s public image in his battle for Wachovia.,negative,-0.8096326589584351
+2008-10-07,Citi’s Lawsuit Could Hurt Image,negative,-0.7350199818611145
+2008-10-07,"In an address that was at once sobering but hopeful, Ben S. Bernanke hinted strongly that the Fed would lower interest rates at its meeting this month.",negative,-0.5603002905845642
+2008-10-07,"With Outlook Dim, Bernanke Says Fed May Act on Rates",neutral,0.2896801829338074
+2008-10-07,The Standard & Poor 500 is now 48 percent below its peak.,negative,-0.911429762840271
+2008-10-07,Ever Closer to S.&P.,neutral,0.2954675555229187
+2008-10-07,967,neutral,0.061682671308517456
+2008-10-10,Tracking John McCain’s poll numbers against the S.&P.,neutral,0.013068415224552155
+2008-10-10,500.,neutral,0.03894622251391411
+2008-10-10,S.&P.,neutral,0.031057283282279968
+2008-10-10,500 and McCain’s Poll Numbers,neutral,-0.05812806636095047
+2008-10-20,"Amid signs that credit was beginning to flow more easily, investors sent the Dow up 413 points.",positive,0.875510036945343
+2008-10-20,The S.&P.,neutral,0.019525134935975075
+2008-10-20,gained 4.8 percent.,neutral,0.3791370391845703
+2008-10-20,Signs of Easing Credit and Stimulus Talk Lift Wall Street,positive,0.4946042597293854
+2008-10-20,The chairman of the Federal Reserve told Congress that he supported a round of additional spending measures.,positive,0.6832881569862366
+2008-10-20,Fed Chairman Endorses New Round of Stimulus,neutral,0.14379656314849854
+2008-10-22,"If your company needs to borrow to get through the recession, good luck",neutral,0.28413864970207214
+2008-10-22,The Recession Bites,negative,-0.3034580647945404
+2008-10-31,"Development of a system that allows deserving borrowers to obtain mortgages while minimizing risks to the financial system must be “high on the policy agenda,” the Fed chief said.",neutral,0.4450719356536865
+2008-10-31,Bernanke Says Mortgage System Needs Safeguards,neutral,0.057795535773038864
+2008-11-15,Sallie L. Krawcheck’s departure from Citigroup was not related to the glass ceiling but the result of an old-fashioned corporate bar brawl.,negative,-0.8917790651321411
+2008-11-15,When Citi Lost Sallie,neutral,-0.17376606166362762
+2008-11-18,There’s more bad news for Kenneth C. Griffin’s Citadel Investment Group: The counterparty credit ratings for two of its hedge funds were cut Tuesday by Standard & Poor’s because of market losses.,negative,-0.9588358998298645
+2008-11-18,S.&P.,neutral,0.031057283282279968
+2008-11-18,Cuts Its Ratings on 2 Citadel Hedge Funds,negative,-0.9128130674362183
+2008-11-18,Do you have any stocks that are up this year?,neutral,0.10680567473173141
+2008-11-18,In the S&P.,neutral,0.04392295330762863
+2008-11-18,"500, there are only 16 of them, making this a year of bad breadth unlike any in memory.",negative,-0.8664417862892151
+2008-11-18,Bad Breadth,negative,-0.6042840480804443
+2008-11-21,"The greatest banking turmoil is setting in around Citigroup, which has lost half its value in four days.",negative,-0.9481377005577087
+2008-11-21,Citigroup Tries to Stop the Drop in Its Share Price,negative,-0.6732008457183838
+2008-11-24,A rescue plan for Citigroup turned into a boon for Wall Street.,positive,0.8444386720657349
+2008-11-24,"The Dow rose nearly 400 points, and the S.&P.",positive,0.7952032685279846
+2008-11-24,was up 6.47 percent.,positive,0.7435408234596252
+2008-11-24,Markets Surge for a Second Day; Dow Up Nearly 400,positive,0.5415897369384766
+2008-11-25,The Dow climbed in the last hour of trading after giving up early gains spurred by the announcement of new government moves to ease the credit crisis.,positive,0.5691123008728027
+2008-11-25,The Nasdaq and S&P were flat.,negative,-0.8738510608673096
+2008-11-25,Wall Street Mixed After Credit Moves,negative,-0.6618801951408386
+2008-11-26,Wall Street held onto gains for a fourth day after weathering a series of discouraging economic reports.,positive,0.40316241979599
+2008-11-26,Stocks Post Their Fourth Straight Increase,positive,0.1803150624036789
+2008-12-01,The Fed chairman and Treasury secretary expressed optimism and pledged to deal with the crisis aggressively.,positive,0.8305338621139526
+2008-12-01,Officials Warn That Economy Will Remain Weak,negative,-0.7772560715675354
+2008-12-02,"For better or worse, you, fellow taxpayer, are an investor in Citigroup and other banks.",neutral,0.029543334618210793
+2008-12-02,You have a vested interest in Citigroup’s success.,neutral,0.06309083104133606
+2008-12-02,"If this giant falls, we all lose.",neutral,-0.14769509434700012
+2008-12-02,Putting a Value on a C.E.O.,neutral,0.00895075872540474
+2008-12-03,"The banking giant’s chief isn’t known for making good deals, but this one’s a killer.",neutral,-0.08270402997732162
+2008-12-03,Vikram Pandit Scores a Great Deal for Citigroup,neutral,0.16110609471797943
+2008-12-04,"Foreclosures remain “too high,” hurting not only homeowners but lenders and the broader economy, the Fed chief said.",negative,-0.9373621344566345
+2008-12-04,Bernanke Calls for More Help for Homeowners,positive,0.41815218329429626
+2008-12-19,Call it Wall Street’s holiday credit-rating massacre of 2008.,neutral,0.4234650433063507
+2008-12-19,S.&P.,neutral,0.031057283282279968
+2008-12-19,Turns More Bearish on Banks,negative,-0.6370274424552917
+2008-12-19,"These Stocks Suffered, But They Still Look Bigger",neutral,0.1189756989479065
+2008-12-19,Big No Longer,negative,-0.3167647123336792
+2009-01-06,"Meeting last month, Fed officials worried that even a dramatic cut in interest rates would not be enough to cauterize the country’s economic troubles quickly.",negative,-0.8773118853569031
+2009-01-06,"In Fed Rate Cut, Fears of Long Recession",negative,-0.891446590423584
+2009-01-12,"In an effort to restore confidence, federal regulators are pressing the bank to replace Winfried F. W. Bischoff.",neutral,0.24687258899211884
+2009-01-12,Citi Is Urged to Replace Its Chairman,neutral,-0.3366090953350067
+2009-01-13,"It seemed as if Citigroup was regaining a bit of trust on Wall Street, but as the struggling giant moved toward a deal with Morgan Stanley, all the old demons returned.",positive,0.13584479689598083
+2009-01-13,A Cash Machine Runs Low,neutral,-0.053791046142578125
+2009-01-13,"More capital injections into the banking sector might be needed for a long-term recovery, the Federal Reserve chairman said.",positive,0.7475327253341675
+2009-01-13,"Stimulus Alone Won’t End Crisis, Bernanke Says",neutral,0.26645201444625854
+2009-01-13,"Citigroup is moving to dismantle large parts of its troubled financial empire, undoing the landmark merger that created the company a decade ago.",neutral,-0.00583118200302124
+2009-01-13,"Citigroup Plans to Split Itself Up, Taking Apart the Financial Supermarket",neutral,-0.0011943671852350235
+2009-01-21,"The owners of The Evening Standard announced that it would be sold to a Russian tycoon, Aleksandr Y. Lebedev, a former K.G.B.",neutral,0.006547078490257263
+2009-01-21,agent.,neutral,0.045550622045993805
+2009-01-21,Ex-K.G.B.,neutral,0.023460784927010536
+2009-01-21,Agent Buying London Tabloid,neutral,0.027350138872861862
+2009-01-21,"The owner of London’s Evening Standard said Wednesday it has agreed to sell a majority stake in the newspaper to Aleksandr Lebedev, the Russian tycoon and former KGB spy, for what it described as “a nominal sum.”",neutral,0.06252522766590118
+2009-01-21,Ex-KGB Spy Buys London’s Evening Standard,neutral,-0.13710984587669373
+2009-02-10,The world’s largest chip maker is holding itself up as a model for others to follow by increasing capital spending during a deep economic slump.,positive,0.8482299447059631
+2009-02-10,Intel’s Chief Calls for Investments in U.S.,neutral,0.16549214720726013
+2009-02-18,"Ben S. Bernanke vowed to do whatever it took to pull the economy out of its downward spiral, even as he acknowledged that recent indicators were “dismal.”",positive,0.0868423581123352
+2009-02-18,Fed Chief Defends Steps Taken to Contain Crisis,neutral,0.04534535109996796
+2009-02-23,Investors pushed the Dow and S.&P.,neutral,0.014720320701599121
+2009-02-23,500 down to 1997 levels as losses piled up in technology and major industrial companies.,negative,-0.9297640323638916
+2009-02-23,Stocks Slump on Corporate Woes; Indexes Fall by 3.4%,negative,-0.9599109888076782
+2009-02-25,"3i, the publicly listed British buyout firm, had its credit rating cut on Monday, despite moves to cut down its 2 billion pound ($2.9 billion) debt load.",negative,-0.9145147800445557
+2009-02-25,S&P Cuts 3i’s Credit Rating,negative,-0.9318195581436157
+2009-02-27,"Across corporate America, executives like Citigroup’s Vikram S. Pandit are striving to keep increasingly thankless jobs.",negative,-0.7918855547904968
+2009-02-27,"Once Coveted, Bank Chiefs’ Jobs Have Turned Sour",negative,-0.5831207633018494
+2009-02-27,"The Treasury’s stake in the bank would reach between 30 and 40 percent, people close to the deal said.",neutral,0.0721307098865509
+2009-02-27,U.S. Is Said to Agree to Raise Stake in Citigroup,positive,0.7428600788116455
+2009-03-02,The stock market is down to where it was when Alan Greenspan asked how we could know if asset prices had been inflated by “irrational exuberance.”,negative,-0.8017513155937195
+2009-03-02,The Return to Irrational Exuberance,neutral,-0.12015873193740845
+2009-03-03,"Pressing for quick action on the economy, Ben S. Bernanke also scolded A.I.G.",negative,-0.7537834644317627
+2009-03-03,for exploiting “a huge gap in the regulatory system.”,negative,-0.3922094404697418
+2009-03-03,Fed Chief Says Insurance Giant Acted Irresponsibly,negative,-0.7184957265853882
+2009-03-03,"Standard & Poor’s cut its credit rating on Bank of America to A from A+ on Tuesday afternoon, citing the weak economy and warning that its Merrill Lynch and Countrywide Financial units were likely to continue to weigh on the bank’s earnings.",negative,-0.9559221863746643
+2009-03-03,S.&P.,neutral,0.031057283282279968
+2009-03-03,Cuts Bank of America’s Rating Again,negative,-0.6018050909042358
+2009-03-10,"Clearly, it’s an ugly market out there, with the Dow Jones industrial average under 7,000 and the S&P 500 under 700.",negative,-0.8994889855384827
+2009-03-10,"Despite that, we haven’t heard many stories about disgruntled investors going ballistic on the people who sold them whatever stock, mutual fund or other investment is in the dumps.",negative,-0.5989962220191956
+2009-03-10,"For Ameriprise, Safety Starts at Home",neutral,0.050710804760456085
+2009-03-10,The Fed chairman called for a broad reworking of how the government regulates the financial system to prevent future collapses.,neutral,0.11095254868268967
+2009-03-10,Bernanke Says Financial Rules Need an Overhaul,neutral,0.038295917212963104
+2009-03-16,Wall Street struggled to hold onto its weeklong winning streak on Monday as stocks faltered in late trading on weakness in the technology sector.,negative,-0.960219144821167
+2009-03-16,Wall Street Falters Late in the Day,negative,-0.7988258600234985
+2009-03-18,"In the Nixon administration, Mr. Brinegar helped create Conrail and institute a national 55-mile-an-hour speed limit after the first Arab oil embargo.",positive,0.46603959798812866
+2009-03-18,Claude S. Brinegar Is Dead at 82; Supported Mass Transit and Conrail,neutral,-0.026455916464328766
+2009-03-25,"The billionaire Warren E. Buffett’s company, Berkshire Hathaway, may lose its “AAA” credit rating from Standard & Poor’s within a year if the insurance and investment company’s capital levels or value of its equity holdings face more downward pressure.",negative,-0.94025719165802
+2009-03-25,S.&P.,neutral,0.031057283282279968
+2009-03-25,May Cut Berkshire’s ‘AAA’ Rating,negative,-0.8642048835754395
+2009-03-25,"In an unusual move, the ratings agency Standard & Poor’s has weighed in on the proxy contest between the activist investor William A. Ackman and the discount retailer Target.",negative,-0.5262608528137207
+2009-03-25,S.&P.,neutral,0.031057283282279968
+2009-03-25,‘Closely Monitoring’ Target Proxy Contest,neutral,0.022587383165955544
+2009-04-04,"Compensation for the highest-paid chief executives at public companies fell in 2008, largely dragged down by smaller bonuses.",negative,-0.9641362428665161
+2009-04-04,Who Moved My Bonus?,neutral,-0.2823866009712219
+2009-04-04,Executive Pay Makes a U-Turn,neutral,-0.1683572679758072
+2009-04-17,"McGraw-Hill Companies has been the target of some harsh criticism lately, in large part because of the rosy ratings that its Standard & Poor’s unit gave to assets that now look radioactive.",negative,-0.9208090305328369
+2009-04-17,(An S&P analyst’s e-mail about rating deals “structured by cows” didn’t help on that score.),negative,-0.5214875340461731
+2009-04-17,McGraw-Hill’s Charm Offensive,neutral,0.33790600299835205
+2009-04-22,"At a shareholders meeting on Tuesday, investors’ frustrations touched on credit card fees, the health of the company, the $400 million spent to sponsor Citi Field and more.",negative,-0.9376670122146606
+2009-04-22,"Citi Directors Face Angry, Coffee-Less Shareholders",negative,-0.8749998807907104
+2009-04-22,"A Hollywood spy tracking device can be slipped into luggage or a glove compartment, assuming you’re O.K.",neutral,-0.22022485733032227
+2009-04-22,with the ethics.,neutral,0.04000360518693924
+2009-04-22,"Zoombak Tracks Your Dog, Your Car, Even Your Children",neutral,-0.073313407599926
+2009-05-04,"As stocks climbed on Monday, a leading stock index crossed a milestone that seemed unthinkable during the worst declines of the bear market: It turned positive for the year.",positive,0.7714681625366211
+2009-05-04,S.&P.,neutral,0.031057283282279968
+2009-05-04,500 Erases 2009 Losses as Stocks Jump,negative,-0.8973099589347839
+2009-05-05,"For many investors, breaking even never felt so good.",neutral,0.22717583179473877
+2009-05-05,S.&P.,neutral,0.031057283282279968
+2009-05-05,500 Erases 2009 Losses as Stocks Jump,negative,-0.8973099589347839
+2009-05-05,The Fed chairman said that the economy appeared to be stabilizing on many fronts but cautioned that a recovery was months away and that “sizable job losses” would continue.,negative,-0.12251633405685425
+2009-05-05,Bernanke Sees Hopeful Signs but No Quick Recovery,neutral,0.006188258528709412
+2009-05-13,"The 19 biggest banks may have passed the Treasury’s stress tests on how they would weather a deep recession, but Standard & Poor’s, the credit rating agency, thinks that many banks are far from a recovery and that the banking crisis has merely entered a new phase.",negative,-0.3576081097126007
+2009-05-13,S.&P.,neutral,0.031057283282279968
+2009-05-13,Warns of Further Challenges for Banks,negative,-0.5369563102722168
+2009-06-03,"Ben S. Bernanke said the government needed to turn its attention to restoring fiscal balance, even as it tries to spend its way out of the economic crisis.",positive,0.6639284491539001
+2009-06-03,"As Deficits Mount, Fed Chief Calls for a Path to Fiscal Balance",positive,0.570978581905365
+2009-06-11,"As other banks prepare to exit the bailout program, the government is tightening its grip on Citigroup, calling for change at the bank.",negative,-0.39012035727500916
+2009-06-11,U.S. Pushes a Troubled Citigroup to Heal Itself,positive,0.4962542951107025
+2009-06-17,Analysts said that growing unemployment and a deepening recession would force many weaker banks to close over the rest of the year.,negative,-0.9387238621711731
+2009-06-17,S.&P.,neutral,0.031057283282279968
+2009-06-17,"Cuts Credit Ratings at 22 Banks, 5 to Junk",negative,-0.7722457647323608
+2009-06-19,"Vikram S. Pandit has not been perfect as chief executive of Citigroup, but most of the bank’s problems preceded him.",negative,-0.7198048830032349
+2009-06-19,Citigroup’s Chief Deserves More Patience,neutral,0.09460677951574326
+2009-06-19,"The Dow and the S&P 500-stock index gained Thursday, breaking a three-day losing streak, as data on the job market and regional manufacturing revived hope.",positive,0.8004255294799805
+2009-06-19,Stocks Rise Moderately on Jobless Data,positive,0.003328979015350342
+2009-06-23,Ben Bernanke has been a forceful proponent of giving the Fed a larger role in regulating the economy.,neutral,0.46829935908317566
+2009-06-23,"Behind the Scenes, Fed Chief Advocates Bigger Role",neutral,0.05354900285601616
+2009-06-25,"In testimony before a House committee, the Federal Reserve chief said he did not pressure bank management to complete the deal.",neutral,0.1073838323354721
+2009-06-25,Bernanke Defends Role on Merrill,neutral,0.06763385981321335
+2009-06-25,The announcement was a sign that the credit crisis was easing and that officials wanted to curtail some extraordinary rescue efforts.,positive,0.1998005509376526
+2009-06-25,Fed Scaling Back Some Emergency Lending Programs,negative,-0.22954502701759338
+2009-06-30,Markets rose as higher oil prices lifted energy shares and speculation grew that the recession was easing.,positive,0.5518439412117004
+2009-06-30,S.&P.,neutral,0.031057283282279968
+2009-06-30,500 Stays on Track for a Strong Quarter,positive,0.22388936579227448
+2009-06-30,Markets rose as higher oil prices lifted energy shares and speculation grew that the recession was easing.,positive,0.5518439412117004
+2009-06-30,S.&P.,neutral,0.031057283282279968
+2009-06-30,500 Stays on Track for a Strong Quarter,positive,0.22388936579227448
+2009-07-10,"The warrant valuations matter; if banks are solid enough to pay back their bailout loans and buy back the warrants, it is appropriate for the Treasury to negotiate hard on price.",neutral,0.08732639998197556
+2009-07-10,Treasury Drives a Hard Bargain,neutral,-0.09675022959709167
+2009-07-21,"Despite positive signs, Ben S. Bernanke said the labor market was weak and interest rates would likely stay low.",negative,-0.9173104763031006
+2009-07-21,Fed Aims to Hold Down Interest Rates,neutral,-0.08575387299060822
+2009-07-22,"Reversing its evaluation of a group of mortgage bonds backed by commercial property, Standard & Poor’s lifted the ratings Tuesday on several securities it downgraded a week ago, The Wall Street Journal reported.",positive,0.812641441822052
+2009-07-22,The Strange Destiny of Mortgage Bonds at S&P,neutral,0.0329560749232769
+2009-07-22,"Standard & Poor’s Ratings Services placed American Airlines and United Airlines and their corporate parents on CreditWatch with negative implications, meaning that their debt is likely to be downgraded.",negative,-0.862444281578064
+2009-07-22,S.&P.,neutral,0.031057283282279968
+2009-07-22,Puts American and United on CreditWatch,neutral,0.015324939042329788
+2009-07-23,The Air Force envisions drones that could do the work of bombers and cargo planes and miniature ones that could spy inside a room.,neutral,-0.00460221990942955
+2009-07-23,Air Force Report Envisions a Broader Use of Drones,neutral,0.03915683925151825
+2009-07-30,A vanishing $61 billion in dividends,neutral,0.04069941118359566
+2009-07-30,Remember Dividends?,neutral,-0.0004978030920028687
+2009-08-03,"Reports on manufacturing and housing sent the S. & P. index past 1,000 for the first time since early November.",positive,0.4092191755771637
+2009-08-03,Markets Rise on Signs of Economic Growth,positive,0.6710777282714844
+2009-08-07,"U.S. stocks have entered a new bull market, and the S&P 500 index could rise as much as 10 percent from current levels by the end of this year, Goldman Sachs strategist Abby Joseph Cohen said on CNBC on Thursday.",positive,0.9103565216064453
+2009-08-07,Goldman’s Cohen Says New Bull Market Has Begun,neutral,-0.0007998049259185791
+2009-08-24,"Six months on, almost every stock is up.",neutral,0.3372182846069336
+2009-08-24,"Six Months On, (Almost) Everything Up",neutral,0.03910783678293228
+2009-09-03,"A U.S. federal judge ruled that Morgan Stanley and two credit rating agencies must defend fraud charges in a class-action lawsuit accusing them of masking the risks of an investment linked to subprime mortgages, and which eventually collapsed.",negative,-0.8128039240837097
+2009-09-03,"Morgan Stanley, Moody’s, S.&P.",neutral,0.02000506967306137
+2009-09-03,to Defend in Fraud Suit,neutral,-0.06704940646886826
+2009-09-03,Investors find little in a series of economic reports to push the market higher after a four-day slide.,positive,0.445144385099411
+2009-09-03,"Financials Rise, Helping to End 4 Losing Days for S.&P.",positive,0.22726228833198547
+2009-09-03,500,neutral,0.040608689188957214
+2009-09-15,"Ben S. Bernanke said the U.S. economy was probably growing now, but it would not be sufficient to prevent the unemployment rate from rising.",positive,0.35315829515457153
+2009-09-15,Fed Chief Says Recession Is ‘Very Likely Over’,negative,-0.6424803137779236
+2009-09-18,Standard & Poor’s reported that stock buybacks by companies in the S.&P.,neutral,-0.012349449098110199
+2009-09-18,500 fell to $24.2 billion in the second quarter — the lowest amount since S.&P.,negative,-0.9701613187789917
+2009-09-18,started keeping records in 1998.,neutral,0.03247521072626114
+2009-09-18,"On Share Buybacks, Companies Love to Buy High",neutral,0.04792969673871994
+2009-10-01,"Ben S. Bernanke, the Fed chairman, said the Fed should regulate financial institutions but a council could monitor broader risks.",neutral,0.023149868473410606
+2009-10-01,"Bernanke, in Nod to Critics, Suggests Board of Regulators",neutral,-0.026650235056877136
+2009-10-02,"The smart money in the millennium’s first decade — or at least its final year — was in junk bonds, and the junkier the better.",neutral,0.17141364514827728
+2009-10-02,"Great Year, but S.&P.",negative,-0.6483211517333984
+2009-10-02,Closes in on its Worst Decade Ever,negative,-0.695294201374054
+2009-10-15,"Standard & Poor’s Ratings Services said Thursday that it had cut its long-term ratings for Southwest Airlines to BBB from BBB-plus, even though the airline narrowed its loss during the third quarter.",negative,-0.8689069747924805
+2009-10-15,It said the outlook for Southwest was negative.,negative,-0.9214848875999451
+2009-10-15,Southwest Posts Loss and S.&P.,negative,-0.9587559103965759
+2009-10-15,Cuts Its Rating,negative,-0.8332095146179199
+2009-10-21,"A lawsuit details Bernard L. Madoff’s life in federal prison, saying the convicted swindler shares a cell with a drug offender, eats pizza cooked by a child molester and hangs around with a mob boss and a convicted spy.",negative,-0.6376187205314636
+2009-10-21,Lawsuit Describes Madoff’s Life in Prison,neutral,-0.15985983610153198
+2009-10-21,"The Fed said regional economies in most parts of the country are on the mend, largely because home sales are rebounding and manufacturers are stirring back to life.",positive,0.8492231965065002
+2009-10-21,Beige Book Sees Signs That Growth Is Stirring,positive,0.516947329044342
+2009-10-31,"Citigroup has received government aid several times in the past 80 years, and this time around, some investors see its infusion of federal cash as a good sign.",positive,0.8600768446922302
+2009-10-31,Can Citigroup Carry Its Own Weight?,neutral,0.05664471536874771
+2009-11-04,New York’s attorney general charged the company with abusing its dominant position in the chip market.,negative,-0.9051539301872253
+2009-11-04,State Accuses Intel in an Antitrust Suit,negative,-0.8246446251869202
+2009-11-04,"The Federal Reserve signaled that it wasn’t close to raising interest rates, saying the economy was still weak.",negative,-0.5361722111701965
+2009-11-04,Fed Sees No Need to Raise Interest Rates Soon,neutral,0.12412931770086288
+2009-11-16,"The chairman of the Federal Reserve, Ben S. Bernanke, warned that high unemployment and reluctance of banks to make loans were likely to slow recovery.",negative,-0.9178074598312378
+2009-11-16,Continuing Unemployment Is Predicted by Fed Chief,negative,-0.8084794282913208
+2009-11-19,"Standard & Poor’s has joined Moody’s in withdrawing its application to supply ratings of corporate bonds and other debt-based securities to retail investors in Australia, after new rules were announced this month by the Australian Securities and Investments Commission.",negative,-0.5289756059646606
+2009-11-19,S&P Joins Moody’s to Scale Back Australia Ratings,neutral,-0.330279141664505
+2009-11-28,"In an op-ed article for The Washington Post, Ben Bernanke warns that legislation “would strip the Fed of all its bank regulatory powers.”",negative,-0.5711157321929932
+2009-11-28,Bernanke Warns of Risks in Push to Revamp Fed,neutral,-0.2763175666332245
+2009-12-02,"The move is unlikely to derail Ben S. Bernanke’s reappointment as chairman of the Federal Reserve, but it could give the Fed’s critics more time to press their case.",negative,-0.8044046759605408
+2009-12-02,Senator Moves to Hold Up Bernanke Confirmation,negative,-0.463053822517395
+2009-12-03,"Under fire from both parties, Ben S. Bernanke conceded that “I did not anticipate a crisis of this magnitude.”",negative,-0.702910840511322
+2009-12-03,Bernanke Says Fed ‘Should Have Done More’,neutral,0.15120165050029755
+2009-12-16,"Two days after Citigroup moved to untangle itself from Washington, the Treasury backed away from plans to immediately sell a portion of its stake in the bank, according to a person briefed on the situation.",negative,-0.8123410940170288
+2009-12-16,Government Reconsiders Quick Sale of Citigroup Stake,neutral,-0.024084895849227905
+2009-12-19,"Aleksandr Y. Lebedev, the former Soviet spy turned businessman, is seeking to expand his publishing empire.",positive,0.5464576482772827
+2009-12-19,Russian Publisher in Talks to Buy British Newspapers,neutral,-0.004124633967876434
+2009-12-21,"Santa came early for Wall Street this year by giving the S&P 500 a 22 percent gain for 2009, and with just eight trading days left in the year, stock investors are not expecting to find much more under the tree.",positive,0.3885105848312378
+2009-12-21,"For Stocks, Santa’s Bag May Be Light",neutral,-0.08832516521215439
+2009-12-29,"The latest home price index showed a small gain in October, but prices, seasonally adjusted, are coming down again in some of the worst hit markets.",negative,-0.9280314445495605
+2009-12-29,Bubbles Keep Bursting,neutral,0.016452908515930176
+2010-01-03,Ben S. Bernanke’s remarks came as he awaited confirmation for a second term as Fed chairman and as he sought greater authority from Congress.,neutral,0.23303528130054474
+2010-01-03,"Lax Oversight Caused Crisis, Bernanke Says",negative,-0.6818678975105286
+2010-01-04,Why do the first trading days of months turn out to show better performance than other days?,positive,0.47376763820648193
+2010-01-04,Day One Joys,neutral,0.0880931168794632
+2010-01-10,So much video intelligence is coming out of Afghanistan that military analysts are finding it hard to keep up.,negative,-0.8887284994125366
+2010-01-10,Military Is Awash in Data From Drones,neutral,0.07005174458026886
+2010-01-11,The S&P 500 is acting like it was 1987 again.,neutral,-0.2268126904964447
+2010-01-11,1987 Redux?,neutral,0.11356936395168304
+2010-01-19,"After billions of dollars in losses at Citigroup, Vikram S. Pandit must make a profit in 2010, or risk losing his job as chief executive.",negative,-0.5586076974868774
+2010-01-19,Pandit Is Running Out of Time to Clean Up Citigroup,negative,-0.7029299736022949
+2010-01-19,"The $182 billion rescue has sparked public outrage and demands in Congress for more information about the lifelines, beginning in 2008, provided to the company.",negative,-0.5123339295387268
+2010-01-19,Bernanke Wants an Audit of Fed’s Bailout of A.I.G.,neutral,0.04397977516055107
+2010-01-22,"Even if Ben S. Bernanke’s nomination is approved, the anxiety surrounding it shows how both parties are trying to understand anger toward the government and Wall Street.",negative,-0.8637977838516235
+2010-01-22,Bernanke’s Bid for a Second Term at the Fed Hits Resistance,neutral,-0.14561395347118378
+2010-01-27,"Standard & Poor’s said it will add Warren E. Buffett’s Berkshire Hathaway to its flagship S&P 500 stock index, as the company prepares to acquire railroad operator Burlington Northern Santa Fe.",neutral,0.2334945648908615
+2010-01-27,Berkshire to Join S.&P.,neutral,0.025644812732934952
+2010-01-27,"500, and Its Shares Soar",neutral,0.29662302136421204
+2010-02-03,The ceremony marking a second four-year term as Fed chief had none of the pomp and praise of four years ago.,neutral,0.013222254812717438
+2010-02-03,"Bernanke Takes Oath at Fed, Quietly",neutral,0.023486603051424026
+2010-02-09,"Standard & Poor’s lowered its credit rating outlooks on Bank of America and Citigroup to negative from stable on Tuesday, saying the government appeared less likely to provide a further bailout if either bank needed it in the future.",negative,-0.9121337532997131
+2010-02-09,S.&P.,neutral,0.031057283282279968
+2010-02-09,Issues Negative Outlooks for BofA and Citi,negative,-0.9282249212265015
+2010-02-10,Ben S. Bernanke now faces the task of beginning to pull the Federal Reserve out of its extraordinary effort to prop up the economy.,negative,-0.4350148141384125
+2010-02-10,Fed to Reveal Its Strategy for Raising Interest Rates,neutral,0.09848788380622864
+2010-02-19,"The National Intelligence Service of Greece, cooperating with officials from several other countries in an investigation over speculation against Greek bonds, has identified additional players shorting the troubled country’s debt, according to TO BHMA, an Athens daily.",negative,-0.6767537593841553
+2010-02-19,Greek Spy Agency Said to Identify More Speculators,negative,-0.7375931739807129
+2010-02-24,"Ben S. Bernanke did not change his outlook on the economy, but he did announce two significant steps to improve accountability of the Fed.",positive,0.7854480147361755
+2010-02-24,Bernanke Expects Extended Low Rates,negative,-0.3436550498008728
+2010-02-25,"A credit ratings agency upgraded its outlook on 3i Group, saying the British private equity firm has ”significantly” reduced its net debt levels, The Associated Press reported.",negative,-0.16883182525634766
+2010-02-25,S.&P.,neutral,0.031057283282279968
+2010-02-25,Raises Outlook on 3i Group,positive,0.49743881821632385
+2010-02-25,"The Fed chairman urged senators not to strip the Fed of its oversight authority, saying it was uniquely positioned to provide “strong, consolidated supervision.”",neutral,0.14656153321266174
+2010-02-25,Bernanke Defends Fed’s Ability to Supervise Banks,neutral,0.1338898092508316
+2010-02-25,The Federal Reserve is examining the stratagems devised by Goldman Sachs and other big banks to help Greece mask its burgeoning debt over the last decade.,neutral,0.04205495864152908
+2010-02-25,"In Greece’s Crisis, Fed Studies Wall St.’s Activities",neutral,-0.1359451711177826
+2010-02-26,"Thursday’s highlights of overlooked, unusual or just plain interesting technology news from around the Web.",neutral,0.04055706411600113
+2010-02-26,"What We’re Reading: Patents, E-Books and Spy Software",neutral,-0.04654344916343689
+2010-03-01,A burst of enthusiasm was not enough to propel the Dow Jones industrial average above its Dec. 31 close.,positive,0.5717934370040894
+2010-03-01,Nasdaq and S.&P.,neutral,0.023837726563215256
+2010-03-01,Positive for the Year,positive,0.6343950629234314
+2010-03-02,"Wall Street reached a milestone on Monday that had eluded it for some time: two major stock indexes crossed into positive territory for the year, The New York Times reported.",positive,0.8722468018531799
+2010-03-02,Nasdaq and S.&P.,neutral,0.023837726563215256
+2010-03-02,Positive for the Year,positive,0.6343950629234314
+2010-03-04,Members of a government committee questioned whether the support that Citigroup received could pose future risks for the financial system.,negative,-0.7286507487297058
+2010-03-04,Panelists Question Citigroup’s ‘Government Guarantee’,negative,-0.749327540397644
+2010-03-10,Connecticut’s attorney general sued Moody’s Investors Service and Standard & Poor’s on Wednesday over ratings that they issued on risky investments.,negative,-0.933257520198822
+2010-03-10,Connecticut Sues Moody’s and S.&P.,negative,-0.8424995541572571
+2010-03-10,Over Ratings,neutral,0.013285644352436066
+2010-03-18,"Germany’s finance minister said that the country may have to employ spies to track currency speculators, as political pressure increases in Europe gauge the effects of recent speculation on Greek debt and the euro, Bloomberg News reported.",negative,-0.5687108039855957
+2010-03-18,Germany Eyes Spy Plan Aimed at Currency Speculators,neutral,-0.1188284382224083
+2010-03-22,"The U-2 spy plane, the aircraft that was often at the heart of cold war suspense, has become a sought-after intelligence gatherer in a very different war in Afghanistan.",neutral,0.1177385151386261
+2010-03-22,"The U-2 Spy Plane, From the Cold War to Afghanistan",neutral,0.018628673627972603
+2010-03-22,The plane that was often at the heart of cold war suspense is now being used to gather intelligence in Afghanistan.,neutral,0.02596840262413025
+2010-03-22,U-2 Spy Plane Evades the Day of Retirement,negative,-0.7322461605072021
+2010-04-01,A federal judge in Manhattan threw out a class-action lawsuit accusing the ratings agencies of defrauding investors about the safety of $63.4 billion of mortgage debt.,negative,-0.8859590291976929
+2010-04-01,Judge Throws Out Suit Against Moody’s and S.&P.,negative,-0.6720557808876038
+2010-04-05,"Economic data, corporate earnings, industry announcements, government hearings and international business developments coming this week.",neutral,0.013613143935799599
+2010-04-05,Looking Ahead,neutral,0.013165891170501709
+2010-04-06,Citigroup’s chief executive is shedding the bank’s complex businesses and shrinking its balance sheet.,negative,-0.9616910815238953
+2010-04-06,"Citigroup’s Chief Shrinks Company, Eyeing Growth",neutral,-0.10784034430980682
+2010-04-14,"The Standard & Poor’s 500-stock index surged above the 1,200-point threshold for the first time since the beginning of the financial crisis.",positive,0.8629777431488037
+2010-04-14,S.&P.,neutral,0.031057283282279968
+2010-04-14,at Highest Level Since 2008,neutral,0.3051244914531708
+2010-04-14,"A “credible plan” could help long-term interest rates and raise confidence, Ben S. Bernanke said to a Congressional panel.",positive,0.8708021640777588
+2010-04-14,"U.S. Must Start to Rein In Deficit, Fed Chief Says",positive,0.7361799478530884
+2010-04-17,"The Obama administration’s push for financial reform has three front-line generals who handle the day-in, day-out bargaining and drudgery that such efforts entail.",neutral,-0.03224331513047218
+2010-04-17,Trench Warfare: Send In the Deputies,neutral,-0.03878431022167206
+2010-05-07,"Hoping to spread the message that it has a strong slate of series in development, NBC orders up three more new series.",positive,0.8087134957313538
+2010-05-07,NBC Orders Up Three New Series,neutral,0.0792243555188179
+2010-05-15,The chairman of the Federal Reserve hasn’t had much time to reflect on whether history’s verdict on his extraordinary actions of recent years will be harsh or forgiving.,negative,-0.6340151429176331
+2010-05-15,Is Ben Bernanke Having Fun Yet?,neutral,-0.10487571358680725
+2010-05-17,"Pressing the reset button after a few years it would like to forget, NBC unveiled new dramas and sitcoms to advertiser clients Monday morning.",neutral,0.28931546211242676
+2010-05-17,"Upfronts: NBC, Claiming Momentum, Unveils Its New Programs",positive,0.6458040475845337
+2010-05-18,The Securities and Exchange Commission will try circuit breakers that will pause trading in stocks if their price moves by 10 percent or more in a five-minute period.,negative,-0.5028218030929565
+2010-05-18,New Rules Would Limit Trades in Volatile Market,neutral,-0.005306970328092575
+2010-05-27,Investors focused on buying opportunities and reassuring comments from China on European debt.,positive,0.7678853273391724
+2010-05-27,U.S. Markets Rebound; S.&P.,positive,0.5255362391471863
+2010-05-27,Rises 3.3%,positive,0.077362060546875
+2010-05-28,"Once again, the stock market swung wildly on Thursday — only this time, it swung up, as investors rallied around a bit of good news: The Chinese government dismissed reports that it might pare its European investments.",positive,0.7588056921958923
+2010-05-28,U.S. Markets Rebound; S.&P.,positive,0.5255362391471863
+2010-05-28,Rises 3.3%,positive,0.077362060546875
+2010-06-01,A federal judge in Manhattan ruled Tuesday that it was unfair to hold Moody’s Investors Service and Standard & Poor’s liable as “underwriters” on securities offerings needing their ratings.,negative,-0.8337711095809937
+2010-06-01,Judge Rules Moody’s and S.&P.,neutral,-0.0026010535657405853
+2010-06-01,Aren’t Underwriters,neutral,-0.09306946396827698
+2010-06-03,Ben S. Bernanke said that banks needed to increase lending to small businesses to reduce unemployment and help the economic recovery.,positive,0.7822545170783997
+2010-06-03,Fed Chief Urges Banks to Do More for Small Business,positive,0.4622865617275238
+2010-06-07,"Economic reports, corporate earnings and hearings this week in Washington.",neutral,0.02378758415579796
+2010-06-07,Looking Ahead to Economic Reports This Week,neutral,0.009946927428245544
+2010-06-08,"“My best guess is that we’ll have a continued recovery, but it won’t feel terrific,” the Fed chief says.",positive,0.6585706472396851
+2010-06-08,Bernanke Forecasts a Fitful Recovery,neutral,-0.29610109329223633
+2010-06-09,"The chairman of the Federal Reserve, Ben S. Bernanke, said that “the federal budget appears to be on an unsustainable path.”",negative,-0.7761132121086121
+2010-06-09,Bernanke Warns of ‘Unsustainable’ Debt,negative,-0.5782985687255859
+2010-06-16,"Standard & Poor’s is growing increasingly concerned that many companies in the United States could find it difficult to refinance their enormous debt loads in the coming years, possibly leading to an explosion of defaults and bankruptcies.",negative,-0.9484010934829712
+2010-06-16,S.&P.,neutral,0.031057283282279968
+2010-06-16,Warns of Rising Corporate Defaults,negative,-0.4040670096874237
+2010-06-16,"Mathew Van Hoven, who since last September has been presiding over a Mediabistro blog called Agency Spy is joining a new agency in New York, Skinny, in a new post, communications director.",neutral,0.016623107716441154
+2010-06-16,Ad Blogger Jumps the Fence,neutral,-0.1286897361278534
+2010-06-17,Standard & Poor’s cut its credit ratings for BP and warned that it might downgrade its ratings again because of the growing liabilities from the enormous oil spill in the Gulf of Mexico.,negative,-0.9487513899803162
+2010-06-17,S.&P.,neutral,0.031057283282279968
+2010-06-17,"Cuts BP Ratings, Citing Liabilities and Politics",negative,-0.8680152893066406
+2010-06-22,Ben Bernanke thinks that growth is too slow but that it shouldn’t be accelerated.,neutral,-0.14955176413059235
+2010-06-22,"With unemployment high, that’s risky.",negative,-0.6573641896247864
+2010-06-22,When Caution Carries Risk,neutral,0.04606340080499649
+2010-06-23,A team of S.&P.,neutral,0.045249130576848984
+2010-06-23,"analysts has put together an intriguing shopping list for American companies looking for deals in Europe, with potential targets including AstraZeneca and Vivendi.",neutral,0.4319431781768799
+2010-06-23,"For American Companies, a European Shopping List",neutral,-0.00973527692258358
+2010-06-24,The Federal Reserve said economic conditions were likely to warrant exceptionally low levels of the federal funds rate for an extended period.,neutral,-0.38347703218460083
+2010-06-24,Text of the Federal Open Market Committee Statement,neutral,0.02526378259062767
+2010-06-29,"Standard & Poor’s said it was likely to cut its credit ratings for Moody’s, its biggest competitor, warning that the financial regulatory bill would increase the risks that Moody’s — and itself — could be sued.",negative,-0.9415428638458252
+2010-06-29,S.&P.,neutral,0.031057283282279968
+2010-06-29,Warns of Risks for Moody’s — and Itself,neutral,-0.051032520830631256
+2010-06-30,Investors tread cautiously a day after a broad selloff and two days before the government’s monthly jobless report is released.,negative,-0.566437840461731
+2010-06-30,Second Quarter Ends With Dow Down 10% and S.&P.,negative,-0.965874433517456
+2010-06-30,500 Off 12%,negative,-0.7562505006790161
+2010-06-30,The alleged Russian spy ring broken up this week had set its sights on a big name in venture capital circles: Alan Patricof.,neutral,-0.040562551468610764
+2010-06-30,The Russian Spy Ring and the V.C.,neutral,-0.23999711871147156
+2010-07-12,The Fed chief said that stepped up lending to creditworthy businesses would bolster the recovery and reduce unemployment.,positive,0.9113050699234009
+2010-07-12,"Small-Business Lending Is Down, but Reasons Still Elude the Experts",negative,-0.8220409154891968
+2010-07-21,"The Federal Reserve’s chairman, Ben S. Bernanke, may be willing to pursue additional stimulus measures, but not quite yet.",neutral,0.3299894630908966
+2010-07-21,Fed in Hot Seat Again on Economic Stimulus,neutral,-0.14556020498275757
+2010-07-22,"In testimony to Congress, Ben Bernanke outlined three possible steps if the economy continued to languish.",neutral,0.060577310621738434
+2010-07-22,"Fed Would Act if Needed, Chairman Says",positive,0.47524577379226685
+2010-07-27,Tiffany Montague used to fly spy planes and now she leads Google’s efforts to put robots on the moon.,neutral,0.025330543518066406
+2010-07-27,Meet Google’s Space Commander,neutral,0.060536306351423264
+2010-08-06,"If you had put money into an S&P 500 index fund 20 years ago and just left it there — no buying, no selling, just investing and forgetting about it — you would have earned (minus fees) about 8 percent.",neutral,0.13781720399856567
+2010-08-06,But real people don’t invest that way.,neutral,-0.035014763474464417
+2010-08-06,Investors Are Still Behaving Badly,negative,-0.44816285371780396
+2010-08-12,The decision to buy up debt was a fairly easy one.,neutral,0.05508816987276077
+2010-08-12,But even Ben S. Bernanke has expressed uncertainty about whether the strategy will work.,neutral,-0.29824399948120117
+2010-08-12,"For Fed, the Choices Get Harder",neutral,-0.08057186007499695
+2010-08-27,Ben S. Bernanke signaled that the Fed was prepared to take several steps if the economy continued to weaken.,neutral,0.3487725853919983
+2010-08-27,"Fed Ready to Dig Deeper to Aid Growth, Chief Says",positive,0.8347299098968506
+2010-08-30,"The Fed chairman, Ben S. Bernanke, has made it clear that the Fed cannot simply conjure up a recovery.",neutral,-0.21399813890457153
+2010-08-30,Bernanke Manages Expectations for Fed Role,neutral,0.009401433169841766
+2010-09-20,"At a meeting this week, the Fed is likely to weigh the merits of resuming large-scale purchases of Treasury securities to push interest rates even lower.",neutral,0.08736246824264526
+2010-09-20,Fed Expected to Weigh More Stimulus,neutral,-0.04840053617954254
+2010-09-20,The U.S. stock market hits a four-month high on hopes for a decent economic recovery.,positive,0.4991653263568878
+2010-09-20,The Rally Continues,neutral,0.08366839587688446
+2010-09-26,"Michael Mayo knows what tie he will be wearing to a meeting he has tried for nearly two years to arrange with Citi’s chief, Vikram Pandit.",neutral,-0.0017421673983335495
+2010-09-26,"After a Long Wait, a Critic of Citigroup Wins a Meeting With Top Executives",neutral,-0.16087357699871063
+2010-09-27,"Mr. Sayle was a legend within the clan of globetrotting journalists, shrewd enough to locate a defected British spy, adventurous enough to track Che Guevara in Bolivian jungles.",neutral,0.07063758373260498
+2010-09-27,"Murray Sayle, Reporter and Adventurer, Is Dead at 84",neutral,-0.3674491047859192
+2010-09-28,"Standard & Poor’s estimate that Ireland will have to pour 35 billion euros into Anglo Irish Bank looks increasingly realistic and any amount beyond that could trigger rating downgrades, an S&P analyst was quoted on Tuesday as saying, Reuters reported.",negative,-0.5467267036437988
+2010-09-28,A $47 Billion Bailout for Anglo-Irish?,neutral,0.21193143725395203
+2010-10-04,"John Doerr, the well-known venture capitalist, and his brother, Dr. Tom Doerr, a physician and software designer, see a possible turning point for their business with Apple’s iPad and a national mandate for digital medical records.",positive,0.6779932379722595
+2010-10-04,Doerr Brothers Spy Turning Point on Medical E-Records,neutral,0.09227858483791351
+2010-10-05,Shares jumped after a better-than-expected report on the American service sector and measures by the Bank of Japan to support the economy.,positive,0.7797968983650208
+2010-10-05,Wall Street Extends Its Rally as S.&P.,positive,0.6644906401634216
+2010-10-05,Rises 2.1%,negative,-0.06477326154708862
+2010-10-08,"Standard & Poor’s did not predict an all-out crisis, as it believed most governments would eventually take steps to slim down retirement programs.",neutral,-0.04514576494693756
+2010-10-08,S.&P.,neutral,0.031057283282279968
+2010-10-08,Says Cost to Care for Elderly Will Spiral,negative,-0.7065612077713013
+2010-10-08,"Mitchells stores, a Connecticut clothier to hedge funds and corporate chiefs, sees its California counterpart as the path to growth, Bloomberg News reports.",positive,0.8105027079582214
+2010-10-08,Wall Street Tailor Looks West,neutral,-0.0426289439201355
+2010-10-15,"The Federal Reserve chairman, Ben S. Bernanke, indicated that the bank would take steps to try to fight unemployment and low inflation.",positive,0.6648439764976501
+2010-10-15,Bernanke Weighs Risks of New Action,neutral,-0.008871108293533325
+2010-10-17,The Fed is having to shift substantially from the approach that has defined it and from which it has long derived its institutional self-esteem.,neutral,0.07272066175937653
+2010-10-17,A New Quandary for the Federal Reserve: Grappling With Low Inflation,neutral,-0.092993825674057
+2010-10-18,"As countries expand efforts to gain Western technology, U.S. firms risk having employees expose secrets.",negative,-0.9079867601394653
+2010-10-18,New Spy Game: Firms’ Secrets Sold Overseas,neutral,0.07283686101436615
+2010-10-20,"The Federal Reserve’s monthly survey said the economic expansion was continuing but still sluggish, as housing and construction remained weak.",negative,-0.5840961933135986
+2010-10-20,"Economic Activity Is Expanding Modestly, the Federal Reserve Says",positive,0.7731691002845764
+2010-10-26,The move came shortly after the government said the British economy grew more rapidly in the third quarter than many economists had expected.,positive,0.7186338305473328
+2010-10-26,Rating Agency Raises Outlook for Britain After Cuts,neutral,-0.12227380275726318
+2010-10-28,"Even though women represent about half of the nation’s work force, most companies in the S.&P.",neutral,-0.19257429242134094
+2010-10-28,"100 have no female or minority representation in their highest-paid executive positions, Calvert Investments concluded in a report released Thursday.",neutral,-0.19368161261081696
+2010-10-28,Still Few Women at the Top in Most Big U.S. Companies,neutral,-0.08841797709465027
+2010-11-01,"Whatever the election outcome, the Federal Reserve is widely expected to take new steps this week to spur the nation’s snail-paced recovery.",positive,0.7772574424743652
+2010-11-01,"Awaiting Fed’s Plans, Markets Are in Limbo",negative,-0.727746307849884
+2010-11-11,"Ben S. Bernanke, the Fed chairman, may long for some of the praise that was once lavished on Alan Greenspan.",neutral,0.10261506587266922
+2010-11-11,Fed Efforts to Revive Economy Find Critics,positive,0.5418819189071655
+2010-11-19,The Fed chief said that undervalued currencies are hindering the cooperation needed for global economic expansion.,negative,-0.954580545425415
+2010-11-19,"Echoing Obama, Bernanke Presses China on Imbalances",neutral,-0.11338949203491211
+2010-11-19,Unconventional monetary policy rhetoric from the chairman of the Federal Reserve.,neutral,-0.2865145802497864
+2010-11-19,Bernanke Plays Offense,neutral,0.04706984758377075
+2010-11-23,"The Federal Reserve has debated setting a formal inflation target, as well as press briefings to explain its decision-making, minutes of recent meetings show.",neutral,0.03439614549279213
+2010-11-23,Fed Debated a Target for Inflation,neutral,-0.03755858913064003
+2010-11-29,"Jon S. Corzine, who led both Goldman Sachs and the state of New Jersey, was married to Sharon Elghanayan last week before the Thanksgiving holidays.",neutral,-0.06633225828409195
+2010-11-29,A Year of New Beginnings for Corzine,positive,0.44533899426460266
+2010-12-01,"Faster growth and recovery are being held back by uncertainty created by the high level of joblessness, the Fed chairman said.",negative,-0.9323359131813049
+2010-12-01,"Before Business Leaders, Bernanke Discusses Unemployment’s Toll on Americans",neutral,-0.1833067536354065
+2010-12-01,Thomas F. O’Neill is leaving the investment bank to become chairman of Ranieri Partners Financial Services Group.,neutral,-0.07772313058376312
+2010-12-01,A Founder of Sandler O’Neill Is Retiring,neutral,0.0012178048491477966
+2010-12-06,Federal Reserve Chairman Ben S. Bernanke said on “60 Minutes” that the tax code should be made more efficient.,neutral,0.4131300747394562
+2010-12-06,"In Interview, Bernanke Backs Tax Code Shift",neutral,0.10240647196769714
+2010-12-22,"Sales at Sears are worse than at its major competitors, and many of the company’s 2,200 Sears and Kmart stores are run-down and in undesirable locations.",negative,-0.9619956612586975
+2010-12-22,A Tough Sell at Sears,negative,-0.532641589641571
+2010-12-27,"As the Federal Reserve debates its $600 billion effort to nurse the economic recovery in 2011, four men will have a newly prominent role in influencing the central bank’s path.",neutral,0.20023494958877563
+2010-12-27,New Voters May Sway Fed Actions,negative,-0.5715595483779907
+2010-12-30,The modest stock losses came after the S.&.P 500 index gained 6.6 percent in December and 13 percent for the year.,negative,-0.902813732624054
+2010-12-30,Shares Slip Back From 2-Year Highs,negative,-0.8731651902198792
+2011-01-07,The Fed chief told Congress that consumer spending and business investment were on the rise but that the housing and labor markets remained depressed.,negative,-0.4874038100242615
+2011-01-07,Bernanke Expects a ‘Moderately Stronger’ Recovery,neutral,0.018575608730316162
+2011-01-08,"A French official played down the possibility of Chinese involvement in the spy case, saying the government would wait for the results of an investigation.",negative,-0.5915663838386536
+2011-01-08,"Renault Espionage Gained No Key Secrets, Official Says",neutral,-0.17360490560531616
+2011-01-11,The S.& P. 500-stock index has gained 88 percent since its March 2009 low.,positive,0.9151879549026489
+2011-01-11,Wall Street Manages to Close Higher,neutral,0.14159169793128967
+2011-01-19,Goldman Sach's partners are its highest executives and its biggest stars.,neutral,0.10041587799787521
+2011-01-19,An examination of filings by The New York Times reveals the power and wealth of this secretive group.,neutral,-0.057371802628040314
+2011-01-19,The Golden Ticket at Goldman Sachs,neutral,0.3186039924621582
+2011-01-22,A statement from Viacom.,neutral,0.043644461780786514
+2011-01-22,Statement from Viacom,neutral,0.06977594643831253
+2011-01-27,The credit rating agency Standard & Poor’s said the Japanese government’s already high debt burden was likely to continue to rise.,positive,0.7974017858505249
+2011-01-27,S.&P.,neutral,0.031057283282279968
+2011-01-27,Downgrades Japan as Debt Concerns Spread,negative,-0.7731448411941528
+2011-01-28,"Two recessions, two bear markets and 12 years after the Standard & Poor’s 500-stock index first hit 1,300, it reached that mark again, briefly, this week.",neutral,0.22041523456573486
+2011-01-28,The S.&P.,neutral,0.019525134935975075
+2011-01-28,"Meanders Back to 1,300",neutral,-0.22808095812797546
+2011-02-01,"Standard & Poor’s would pay less attention to a bank’s bottom line, instead scrutinizing whether the bank had put away enough capital for a rainy day.",neutral,-0.34696513414382935
+2011-02-01,S.&P.,neutral,0.031057283282279968
+2011-02-01,Proposes New Method for Rating Banks,neutral,0.13719742000102997
+2011-02-04,"Companies reported strong earnings and the jobless rate declined to 9 percent, sending the S.& P. higher.",positive,0.22848504781723022
+2011-02-04,S.&P.,neutral,0.031057283282279968
+2011-02-04,Continues to Climb as Earnings Top Estimates,positive,0.8304380774497986
+2011-02-09,"Ben S. Bernanke, the Federal Reserve chairman, faced tough questions before the new Republican majority.",neutral,-0.33678174018859863
+2011-02-09,"In Congress, Bernanke Faces Questions About Inflation",neutral,-0.3527648448944092
+2011-02-26,"For Federal Reserve policy makers, the main dispute is between those who say “inflation is unlikely at 9 percent unemployment” and those who say “inflation could bite us at any moment.”",negative,-0.7591139078140259
+2011-02-26,The Debate That’s Muting the Fed’s Response,neutral,-0.19246210157871246
+2011-03-01,The Fed chief cautioned in testimony before the Senate Banking Committee that a sustained rise in oil prices could be a threat to growth.,negative,-0.8373891711235046
+2011-03-01,Optimism and Caution In Bernanke Testimony,neutral,0.32041382789611816
+2011-03-14,The arrest of the security agent is the latest development as the case against three Renault executives accused of industrial espionage continues to unravel.,negative,-0.7202951312065125
+2011-03-14,Renault Apologizes to Employees Fired in Spy Case,negative,-0.9311668872833252
+2011-03-24,"In an effort to build public support, the Federal Reserve says it will hold regular news conferences.",positive,0.49457216262817383
+2011-03-24,Fed to Take a Step Out From Behind the Veil,neutral,-0.1090569943189621
+2011-03-24,The credit rating agency says it “remains wary of banks aggressively increasing capital returns to shareholders at this juncture of the economic recovery.”,positive,0.055469363927841187
+2011-03-24,S.&P.,neutral,0.031057283282279968
+2011-03-24,Warns About ‘Excessive’ Bank Dividends,negative,-0.6103904247283936
+2011-03-29,"It was the second downgrade for Portugal in a week, and the Greek rating was lowered to BB-.",negative,-0.9435383081436157
+2011-03-29,S.&P.,neutral,0.031057283282279968
+2011-03-29,Downgrades Portugal and Greece Again,negative,-0.8252506256103516
+2011-03-30,Merger and acquisition activity heightens confidence in stocks and an employment report shows private-sector jobs creation in March.,positive,0.6069716811180115
+2011-03-30,"Shares Rise on Job Gains, Extending S.&P.",positive,0.4826638102531433
+2011-03-30,Rally,neutral,0.0042931437492370605
+2011-04-11,"Carlos Ghosn, Renault’s chief, escaped with his job Monday, but a debacle over false charges of industrial spying cost the carmaker’s chief operating officer and six others their posts.",negative,-0.9142641425132751
+2011-04-11,Shake-Up at Renault Over ‘Chain of Failures’,negative,-0.8918049335479736
+2011-04-18,Stocks fell on Monday as Standard & Poor’s said there was a risk that American lawmakers would not address “long-term fiscal pressures.”,negative,-0.9677104949951172
+2011-04-18,S.&P.,neutral,0.031057283282279968
+2011-04-18,"Lowers Outlook for U.S., Sending Stocks Down",negative,-0.8890053629875183
+2011-04-18,"The bank took another halting step forward in its long march back from the brink, reporting a $3 billion profit in the first quarter, in spite of continuing losses in its mortgage unit.",positive,0.7774908542633057
+2011-04-18,Citigroup’s Earnings Fall 32%,negative,-0.9663621783256531
+2011-04-18,The S.&P.’s negative outlook on America’s credit should help provide a reality check on the country’s debt situation.,positive,0.44756215810775757
+2011-04-18,S.&P.,neutral,0.031057283282279968
+2011-04-18,States the Obvious,neutral,-0.0035773664712905884
+2011-04-19,"A day after the nation was given a negative credit outlook, President Obama and Treasury Secretary Timothy F. Geithner tried to reassure investors.",negative,-0.12493196129798889
+2011-04-19,Administration Defends Effort on Debt After Credit Warning,neutral,0.192491352558136
+2011-04-19,"In a CNBC interview, Treasury Secretary Timothy F. Geithner sought to assuage concerns about the possibility of a political impasse over federal restrictions on debt levels, which Standard & Poor’s recently said could lead to defaults.",negative,-0.8440519571304321
+2011-04-19,Geithner Responds to Debt Warning,neutral,0.059635914862155914
+2011-04-21,"A ratings agency’s warning about the nation’s debt failed to note the greatest danger to the economy, the climb in health-care costs, an economist writes.",negative,-0.9018690586090088
+2011-04-21,Behind the S.&P.,neutral,0.047545988112688065
+2011-04-21,Warning on the Deficit,neutral,-0.1775701940059662
+2011-04-27,The Fed chairman will hold a news conference on Wednesday.,neutral,0.02272319793701172
+2011-04-27,The media should ask him tough questions about unemployment.,neutral,-0.19937123358249664
+2011-04-27,Holding Bernanke Accountable,neutral,-0.22881942987442017
+2011-04-27,Federal Reserve Chairman Ben S. Bernanke argued that the bank was doing all it could to increase employment without risking higher inflation.,positive,0.8260977268218994
+2011-04-27,Bernanke Defends Fed’s Role in Running Economy,neutral,0.11583743989467621
+2011-05-09,Standard & Poor’s said private holders of Greek debt may share the pain if Europe lowers rates on bailout loans.,negative,-0.9421355128288269
+2011-05-09,S.&P.,neutral,0.031057283282279968
+2011-05-09,"Cuts Rating on Greek Debt, Shaking Confidence",negative,-0.7611989378929138
+2011-05-09,"The government wants to raise money by selling stakes in three utilities, the Greek railway, the racetrack, the national lottery and unused facilities.",neutral,0.08497536927461624
+2011-05-09,Unease About Greece Grows as S.&P.,negative,-0.6884763836860657
+2011-05-09,Downgrades Its Debt Again,negative,-0.8104645609855652
+2011-06-07,Ben Bernanke said Tuesday that the pace of recovery “seems likely” to increase during the rest of the year and he continues to see no evidence of enduring inflation despite recent increases in commodities prices.,positive,0.4977378845214844
+2011-06-07,Fed Wants Priority Put On Deficit,neutral,0.12828533351421356
+2011-06-13,"If investors accepted Groupon’s fantastical form of accounting, all sorts of companies would be worth billions more, too.",neutral,0.22945968806743622
+2011-06-13,Fuzzy Accounting Enriches Groupon,neutral,0.07424195110797882
+2011-06-13,The three-notch downgrade by Standard & Poor’s is the latest sign that the market believes that Greece will be forced to default on its debt.,negative,-0.9160222411155701
+2011-06-13,Agency Cuts Greece’s Debt Rating Again,negative,-0.9053756594657898
+2011-06-24,"For those contending that the economic recovery has merely hit some bumps on the way to renewed growth, the auto industry may offer evidence.",neutral,-0.05470015108585358
+2011-06-24,Cars as a Harbinger of an Upturn,negative,-0.45107242465019226
+2011-07-05,"The move to Federal District Court from United States Bankruptcy Court could result in the dismissal of some lawsuits against prominent banks and limit the amount the Madoff trustee, Irving H. Picard, can recover for investors.",negative,-0.5784702301025391
+2011-07-05,"In Shift to New Court, Risks for Madoff Trustee’s Case",negative,-0.7596677541732788
+2011-07-24,"Third Point’s founder, Daniel S. Loeb, has again picked up his pen to criticize the White House’s leadership in the hedge fund’s latest letter to investors.",negative,-0.8778219819068909
+2011-07-24,"Writing Again, Third Point’s Loeb Takes Swipe at Obama",neutral,0.03024381399154663
+2011-07-27,"Standard & Poor’s cut the rating of Greece further, while Moody’s Investors Service cut Cyprus’s rating.",negative,-0.9323969483375549
+2011-07-27,Greek and Cyprus Credit Ratings Cut,neutral,0.014246523380279541
+2011-07-27,The Dow was down nearly 200 points and the S.&P.,negative,-0.9420822858810425
+2011-07-27,500 more than 2 percent.,negative,-0.5760536789894104
+2011-07-27,Debt Impasse Fuels Sharp Fall in Stocks,negative,-0.9210118055343628
+2011-07-27,A top official from one of the largest rating agencies told a House panel the American credit rating could be lowered.,negative,-0.7558943033218384
+2011-07-27,Credit Agency Tells Congress a Default Is Unlikely,negative,-0.6728963851928711
+2011-07-28,Standard & Poor’s said it was re-examining its criteria for evaluating certain types of “conduit” securities.,neutral,0.025026146322488785
+2011-07-28,Goldman and Citigroup’s Bond Sale Thwarted by S.&P.,negative,-0.6804521083831787
+2011-08-02,"Despite countless delays and budget battles, the Air Force is betting that a $12 billion program of unmanned drones is ready to gather intelligence from heights only dreamed of.",positive,0.750505268573761
+2011-08-02,Costly Drone Is Poised to Replace U-2 Spy Plane,neutral,0.062005750834941864
+2011-08-06,"Standard & Poor’s removed the United States government from its list of risk-free borrowers, dropping the rating on concerns about federal debt.",negative,-0.9463551640510559
+2011-08-06,S.& P. Downgrades Debt Rating of U.S. for the First Time,negative,-0.9150452017784119
+2011-08-06,"A day after Standard & Poor’s downgraded the creditworthiness of the United States government, it defended its decision and warned that further downgrades may come.",negative,-0.174198716878891
+2011-08-06,"Amid Criticism on Downgrade of U.S., S.&P.",negative,-0.8264220356941223
+2011-08-06,Fires Back,neutral,-0.11152563989162445
+2011-08-08,"The ratings agency lowers its outlook for Warren E. Buffett’s company and four other insurers, citing the downgrade on United States debt.",negative,-0.9231404662132263
+2011-08-08,S.&P.,neutral,0.031057283282279968
+2011-08-08,‘Negative’ on Berkshire Hathaway,negative,-0.4423706531524658
+2011-08-09,Markets around the world saw sharp declines on Monday in the wake of the S&P downgrade of the United States’ credit rating.,negative,-0.9565939903259277
+2011-08-09,Stocks Plunge in Global Sell-Off,negative,-0.9208122491836548
+2011-08-09,Standard & Poor’s says the “predictability” of federal fiscal decisions is not what it used to be.,negative,-0.8508222699165344
+2011-08-09,But once it seemed to accept forecasts that the federal debt would be eliminated.,neutral,-0.03702476620674133
+2011-08-09,Fiscal Forecasting at S.&P.,neutral,0.025380805134773254
+2011-08-10,The ratings agency objected to a Securities and Exchange Commission proposal to require it to publicly disclose its mistakes.,negative,-0.8364179730415344
+2011-08-10,"S.&P., Accused of Faulty Math, Fights Error Disclosure Rule",negative,-0.878418505191803
+2011-08-12,Occasions when the S.&P.,neutral,-0.016213461756706238
+2011-08-12,500 rose or fell more than 4 percent in each of four sessions.,negative,-0.43517670035362244
+2011-08-12,Four Consecutive Days of Market Volatility Are Rare,neutral,-0.1491881012916565
+2011-08-18,The Justice Department is investigating whether Standard & Poor’s rated mortgage securities improperly leading up to the financial crisis.,negative,-0.8423097133636475
+2011-08-18,U.S. Inquiry Is Said to Focus on S.&P.,neutral,-0.022528521716594696
+2011-08-18,Ratings,neutral,0.053060419857501984
+2011-08-18,The S.&P.,neutral,0.019525134935975075
+2011-08-18,dropped 4.5 percent amid heightened concerns over the impact of the euro zone debt crisis; Asia-Pacific markets fell sharply in early trading on Friday.,negative,-0.965111494064331
+2011-08-18,Stocks Fall Anew on Debt Worries and the Economy,negative,-0.9250456094741821
+2011-08-24,"The appointment of Douglas Peterson as the new president of Standard & Poor’s is not likely to ease investor pressure on its parent company, McGraw-Hill, to break itself up.",negative,-0.2972768545150757
+2011-08-24,New S.&P.,neutral,0.027204718440771103
+2011-08-24,Chief Knows Crisis and Change,neutral,-0.061970122158527374
+2011-08-24,Highlights from the DealBook newsletter.,neutral,0.030878622084856033
+2011-08-24,Morning Take-Out,neutral,0.07331109046936035
+2011-08-24,"But it could be hard to track down Deep Shah, the only defendant criminally charged in the government’s insider trading investigation centered on Raj Rajaratnam to have not pleaded guilty or been convicted.",negative,-0.7584693431854248
+2011-08-24,He is believed to be in Mumbai.,neutral,-0.22871963679790497
+2011-08-24,Fugitive Moody’s Analyst Ordered to Pay $35 Million to S.E.C.,neutral,-0.2609105706214905
+2011-08-26,"Markets recovered even after the Fed chairman, Ben S. Bernanke, failed to promise stimulus measures for the weak economy.",positive,0.3522936701774597
+2011-08-26,Stocks End a Volatile Week With Strong Gains,positive,0.5077458620071411
+2011-08-26,"The Federal Reserve chairman, Ben S. Bernanke, said that the nation’s long-term prospects were strong but suggested that the American fiscal system was broken.",negative,-0.3459741473197937
+2011-08-26,Bernanke Blames Politics for Financial Upheaval,negative,-0.4435710906982422
+2011-09-01,"USA’s executives objected to suggestions that the channel is a factory for dramas and instead said that they were looking to produce more aspirational, stylish shows.",negative,-0.6934598088264465
+2011-09-01,"Turning to More Provocative Shows, a Cable Channel Woos Back Some Viewers",neutral,-0.21094487607479095
+2011-09-02,"Ben Bernanke has become a favorite target of criticism, but many of the missives about him are without substance.",negative,-0.6710143685340881
+2011-09-02,"Lots of Vitriol for Fed Chief, Despite Facts",neutral,-0.06873168051242828
+2011-09-08,"“Even taking into account the many financial pressures that they face, households seem exceptionally cautious,” said Ben S. Bernanke, the Federal Reserve chairman.",negative,-0.6537203192710876
+2011-09-08,Fed Chief Describes Consumers as Too Bleak,negative,-0.553212583065033
+2011-09-21,The Federal Reserve is shifting $400 billion from short- to long-term Treasury securities to push interest rates down and encourage companies to borrow and spend.,positive,0.460441917181015
+2011-09-21,Fed Will Shift Debt Holdings to Lift Growth,neutral,0.28764206171035767
+2011-09-22,"The Clearing House Association, one of Wall Street’s oldest and most influential lobbying groups, has tapped Citigroup’s chief executive, Vikram S. Pandit, to lead its supervisory board.",neutral,0.12226264923810959
+2011-09-22,Pandit Named Chairman of Clearing House Board,neutral,0.046146828681230545
+2011-09-26,The federal agency is considering whether to recommend civil legal action against the company over its rating of a 2007 mortgage security.,negative,-0.5742077827453613
+2011-09-26,S.&P.,neutral,0.031057283282279968
+2011-09-26,Target of Inquiry in Securities,neutral,0.010471433401107788
+2011-09-30,Major stock indexes declined in the third quarter on worries about the economy in the United States and abroad.,negative,-0.9640383124351501
+2011-09-30,S.&P.,neutral,0.031057283282279968
+2011-09-30,500 Declined 14% in 3rd Quarter,negative,-0.9666181802749634
+2011-11-02,The Federal Reserve said it remained concerned about the United States economy over the next two years but announced no new stimulus measures or rate changes.,neutral,0.12210650742053986
+2011-11-02,"Fed Lowers Its Forecast for Growth, but Takes No Steps",neutral,-0.2967754602432251
+2011-11-04,"Jon S. Corzine has hired Andrew J. Levander, a leading white-collar criminal defense lawyer, according to three people briefed on the matter, as he deals with fallout from the collapse of MF Global.",neutral,-0.018893547356128693
+2011-11-04,Corzine Is Said to Hire Criminal Lawyer,neutral,-0.24773511290550232
+2011-11-04,"Jon Corzine, the former governor of New Jersey who stepped down as chairman and chief executive of the bankrupt brokerage, will not seek $12 million severance payments.",negative,-0.5611854791641235
+2011-11-04,Corzine Resigns From MF Global,negative,-0.6087552309036255
+2011-11-09,"Vikram S. Pandit of Citigroup is championing an idea to make it easier to compare the way banks assess risk, but it faces long odds.",neutral,0.13255786895751953
+2011-11-09,Pandit Proposes Benchmark for Comparing Banks’ Risks,neutral,0.09130877256393433
+2011-11-11,French officials demanded an investigation after an e-mail erroneously sent to some Standard & Poor’s subscribers resulted in bond yields soaring.,negative,-0.9064876437187195
+2011-11-11,France Demands Inquiry Into S.&P.,neutral,-0.126555934548378
+2011-11-11,Error,neutral,0.023165248334407806
+2011-11-11,The European Commission wants information about Standard & Poor’s mistake on France as the group prepares to announce plans to regulate credit rating agencies.,neutral,0.010094456374645233
+2011-11-11,S.&P.,neutral,0.031057283282279968
+2011-11-11,Error on Rating of France Incites Inquiry,negative,-0.8837325572967529
+2011-11-25,The move was the latest in a string of downgrades issued this week on European countries and banks.,negative,-0.8434155583381653
+2011-11-25,"On Thursday, agencies lowered the ratings of Portugal and Hungary to junk.",negative,-0.9301902055740356
+2011-11-25,S.&P.,neutral,0.031057283282279968
+2011-11-25,Cuts Belgium’s Rating to AA,negative,-0.34229618310928345
+2011-11-29,"Using a new standard announced recently, Standard and Poor’s reduced the credit rating for seven of the top eight American banks, as well as banks in Europe.",negative,-0.9306834936141968
+2011-11-29,S.&P.,neutral,0.031057283282279968
+2011-11-29,Cuts Its Ratings for 15 Banks,negative,-0.8656912446022034
+2011-12-05,Fifteen euro zone nations had their credit ratings placed on a watch list with “negative implications” on Monday.,negative,-0.4221557378768921
+2011-12-05,S.&P.,neutral,0.031057283282279968
+2011-12-05,Warns Euro Zone of Ratings Downgrades,negative,-0.8678233623504639
+2011-12-29,"In creating Sears Holdings, Edward Lampert used financial alchemy to produce gold from retail dross.",neutral,0.03188988193869591
+2011-12-29,"But now he plans to cut costs, fire employees and sell real estate.",negative,-0.8406875729560852
+2011-12-29,"At Sears, Excessive Confidence Has a Price",negative,-0.5340282917022705
+2011-12-30,The S.&P.,neutral,0.019525134935975075
+2011-12-30,"500 was statistically unchanged for the year, while the Dow was up 5.5 percent.",positive,0.22069838643074036
+2011-12-30,Major European and Asian indexes declined by double-digit percentages.,negative,-0.9615621566772461
+2011-12-30,Wall Street Ends Back Where It Started,neutral,-0.28133562207221985
+2011-12-30,"It was a down year for the American stock market, at least by one measure.",negative,-0.9331399202346802
+2011-12-30,But the margin was tiny.,negative,-0.7729584574699402
+2011-12-30,A Razor-Thin Decline in Stocks,negative,-0.8576722145080566
+2012-01-21,The disclosure of stock awards to Wall Street’s top tier comes as lower-level employees are finding out that their own bonuses will be much smaller than a year ago.,negative,-0.8434730172157288
+2012-01-21,Bad Year for Wall St. Not Reflected in Chiefs’ Pay,negative,-0.4544471800327301
+2012-01-24,Wall Street shares were little changed as talks to resolve Greece’s debt crisis went on and analysts pointed to a possible lull after five days of gains.,negative,-0.6683052778244019
+2012-01-24,Impasse Over Greece Sends S.&P.,negative,-0.6793696284294128
+2012-01-24,Down,neutral,0.025066077709197998
+2012-01-27,"In a round of budget tightening, the Pentagon said that it would stretch out purchases, cancel a high-flying spy drone and delay work on a new missile submarine.",negative,-0.931020975112915
+2012-01-27,Spy Drone and Missile Sub Are on Military’s Budget-Cutting List,neutral,-0.1582234501838684
+2012-01-27,"Standard & Poor’s lowered its outlook on the Jefferies Group and Cantor Fitzgerald to negative from stable, saying the European debt crisis could weigh on their profits.",negative,-0.9461036920547485
+2012-01-27,S.&P.,neutral,0.031057283282279968
+2012-01-27,Lowers Outlook on Jefferies and Cantor,negative,-0.3621556758880615
+2012-02-11,The credit ratings agency said it expected weak performance for Italian banks in the years ahead.,negative,-0.9530814290046692
+2012-02-11,Italian Banks Downgraded; S.&P.,negative,-0.8060720562934875
+2012-02-11,Cites Lending Risk,neutral,0.016516808420419693
+2012-02-11,Information has become easier to steal over the Internet because employees can carry proprietary data around.,neutral,-0.1422930806875229
+2012-02-11,Traveling Light in a Time of Digital Thievery,neutral,0.18113937973976135
+2012-02-17,"An interview with Shaun Donovan, secretary of housing and urban development | James B. Stewart discusses his column about inequities in the tax code.",neutral,0.0015255101025104523
+2012-02-17,"Business Day Live | February 17, 2012",neutral,0.0013945624232292175
+2012-02-24,"Investors have moved past psychological barriers of late, but analysts say the economy is still not back to full strength.",negative,-0.6516799330711365
+2012-02-24,S.&P.,neutral,0.031057283282279968
+2012-02-24,500 at Highest Close Since ’08,negative,-0.39153194427490234
+2012-02-29,Ben S. Bernanke said the recent rise in oil prices had not affected the Fed’s view that the economy would expand at from 2.2 to 2.7 percent this year.,positive,0.5614807605743408
+2012-02-29,Federal Reserve Chairman Sees Modest Growth,neutral,-0.08725033700466156
+2012-03-01,"Ben S. Bernanke, the Federal Reserve chairman, had one of his shortest and least contentious appearances on Capitol Hill since the recession started five years ago.",negative,-0.7054102420806885
+2012-03-01,Bernanke Has a Day of Sedate Testimony,neutral,-0.141521155834198
+2012-03-09,"Before an adult child returns, the family needs to have a conversation laying out everyone’s expectations and agreeing on the rules.",neutral,0.04897993430495262
+2012-03-09,Rules for When the Chicks Return to the Nest,neutral,-0.004071146249771118
+2012-03-13,"The Federal Reserve acknowledged the improving job market and increased spending, but said that rising oil prices would result in a temporary increase in inflation.",positive,0.7736407518386841
+2012-03-13,"In Otherwise Dour Report From Fed, the Tiniest Touch of Optimism",negative,-0.6429803967475891
+2012-03-15,"The Standard & Poor’s 500-stock index rose above 1,400 for the first time in almost four years and is on pace for the best first quarter since 1998.",positive,0.8994138836860657
+2012-03-15,Shares Continue Surge as S.&P.,positive,0.7621176838874817
+2012-03-15,"Breaks 1,400",neutral,-0.039136260747909546
+2012-03-19,"The Standard & Poor’s 500-stock index climbed on Monday to a level last reached nearly four years ago, with help from Apple’s latest announcement.",positive,0.9028139114379883
+2012-03-19,"Apple Elevates Markets, Especially the S.&P.",positive,0.8950309157371521
+2012-03-19,500,neutral,0.040608689188957214
+2012-03-21,The Federal Reserve’s chairman lectured students at George Washington about why returning to the gold standard would be a mistake.,negative,-0.3746557831764221
+2012-03-21,"Bernanke, as Professor, Tries to Buff Fed’s Image",neutral,0.0514102503657341
+2012-03-26,The Federal Reserve chief said further job gains would require a more robust economy.,positive,0.7557840943336487
+2012-03-26,Bernanke Says Faster Growth Is Needed to Bolster Job Market,positive,0.7969877123832703
+2012-04-01,"Elan Frank wants to make a film about Arnon Milchan, a Hollywood film producer who moonlighted for an Israeli intelligence agency, but Mr. Milchan has declined interview requests.",neutral,-0.07294757664203644
+2012-04-01,A Filmmaker Chases an Israeli Spy Story,negative,-0.35713058710098267
+2012-04-07,Although the growth in C.E.O.,positive,0.6076963543891907
+2012-04-07,"compensation slowed last year, the pay numbers are still eye-popping.",negative,-0.8934381604194641
+2012-04-07,"In Executive Pay, a Rich Game of Thrones",neutral,0.018684349954128265
+2012-04-10,"In a speech Monday night, the Federal Reserve chairman highlighted the lack of progress in overhauling something called the tri-party repo market, through which banks and other financial firms borrow and lend money.",negative,-0.8172268271446228
+2012-04-10,Bernanke Quietly Criticizes Lack of Repo Reforms,negative,-0.8084361553192139
+2012-04-17,"The online retailer acquired 14 titles in the Ian Fleming series featuring the famous British spy, and will release them beginning this summer.",neutral,0.20027880370616913
+2012-04-17,Amazon Acquires Rights to James Bond Books,neutral,0.06463375687599182
+2012-04-21,"As more shareholders speak up about executive compensation, one group could become an especially formidable force: workers who own stock in their own companies.",neutral,-0.1583879590034485
+2012-04-21,"Employees, Too, Want a Say on the Boss’s Pay",neutral,-0.04621613025665283
+2012-04-25,The Federal Reserve also said it would not expand its stimulus campaign despite the slow pace of job growth.,positive,0.43663492798805237
+2012-04-25,Fed Cuts U.S. Growth Forecast for 2013 and 2014,negative,-0.911931574344635
+2012-04-27,"The downgrade came with Spain emerging as a looming problem for Europe, with fears that the country will be next in line for a huge bailout, after Greece.",negative,-0.9385389685630798
+2012-04-27,S.&P.,neutral,0.031057283282279968
+2012-04-27,"Cuts Its Rating on Spain, Citing Debt",negative,-0.8990848064422607
+2012-06-07,"Lackluster jobs data and economic storm clouds have not convinced Federal Reserve officials that growth is slowing or that they should respond, the Fed’s chairman, Ben S. Bernanke, said on Thursday.",negative,-0.9104721546173096
+2012-06-07,Bernanke Offers No Clear Sign of New Action,neutral,-0.08970341831445694
+2012-06-18,"Thirteen novels, including “The Good Earth,” which won the Pulitzer Prize in 1932, will be published in e-book format by Open Road Integrated Media.",neutral,0.04201493412256241
+2012-06-18,Pearl Buck Novels to Be Published as E-Books,neutral,0.017021240666508675
+2012-06-26,The computer crime arrests were made on four continents in an undercover operation.,negative,-0.45474812388420105
+2012-06-26,F.B.I.,neutral,0.035103652626276016
+2012-06-26,Says 24 Are Arrested in Credit Card Theft Plan,negative,-0.8493945002555847
+2012-07-11,Mr. Traub turned retailing on its ear by making Bloomingdale’s a trendsetting international showcase that drew movie stars and royalty.,positive,0.6427637934684753
+2012-07-11,"Marvin S. Traub, Impresario of Bloomingdale’s, Dies at 87",neutral,-0.15324218571186066
+2012-07-18,Republicans suggested to the agency’s chairman that he had exhausted his tools for stimulating growth responsibly.,negative,-0.6841573715209961
+2012-07-18,Democrats were happy to hear him recount the Fed’s successes.,positive,0.7153593897819519
+2012-07-18,G.O.P.,neutral,0.031348817050457
+2012-07-18,Says Fed Action Could Hurt Economy,negative,-0.8272245526313782
+2012-07-24,"Rosneft announced that it had begun negotiations to buy BP’s share of its Russian joint venture, as Russia’s oil industry faces challenges to finding new sources of oil to replace aging fields.",positive,0.797980010509491
+2012-07-24,"In Bid for BP’s Stake of Venture, a Former Spy Becomes the Focus",neutral,-0.017563506960868835
+2012-07-24,A growing number of officials have concluded that the Federal Reserve needs to expand its stimulus campaign unless the economy soon shows signs of improvement.,positive,0.5084942579269409
+2012-07-24,Fed Leaning Closer to New Stimulus if No Growth Is Seen,neutral,0.3377087414264679
+2012-07-26,The Federal Reserve is weighing its options as economic growth remains sluggish.,neutral,-0.3148467242717743
+2012-07-26,Fed Sees Both Benefits and Risks in New Moves,neutral,0.21033863723278046
+2012-08-21,"In my exchanges with economists so far, globalization is among the most commonly cited factors for the income slowdown.",neutral,-0.09674180299043655
+2012-08-21,American workers today face vastly more competition from foreign workers — especially foreign workers who earn much less money than the typical American — compared with past decades.,negative,-0.8997999429702759
+2012-08-21,Globalization and the Income Slowdown,negative,-0.4959477186203003
+2012-08-29,"The Commerce Department raised its estimate of growth in the second quarter slightly, but the economy remained weak by historical standards.",negative,-0.7628815174102783
+2012-08-29,Economy Still Stuck in Low Gear,negative,-0.7340822815895081
+2012-08-31,Two researchers say an off-the-shelf computer program has been used to monitor and spy on dissidents in countries around the world.,negative,-0.4943956434726715
+2012-08-31,Software Meant to Fight Crime Is Used to Spy on Dissidents,neutral,-0.2508351504802704
+2012-09-10,"Gary Gensler, who is overhauling an array of financial rules as head of the Commodity Futures Trading Commission, cracked several ribs on Sunday when he fell at his Maryland home.",negative,-0.9000590443611145
+2012-09-10,"With Gensler in Hospital, Agency Scraps Public Vote",negative,-0.8138821125030518
+2012-09-12,"The Federal Reserve said it does not consider politics when setting policy, but it is again poised to announce an economic stimulus effort during an election season.",neutral,0.04064193367958069
+2012-09-12,Economic Stimulus as the Election Nears?,neutral,0.29629796743392944
+2012-09-12,It’s Been Done Before,neutral,0.17564472556114197
+2012-09-13,The major stock indexes jumped after a Federal Reserve decision to help the economy by buying long-term mortgage securities.,positive,0.5038999319076538
+2012-09-13,Fed Action Spurs Broad Rally; S.&P.,positive,0.7479802966117859
+2012-09-13,Rises 1.6%,positive,0.044234663248062134
+2012-09-13,Federal Reserve officials are expected to announce new measures to aid the ailing American recovery this afternoon.,positive,0.5835351347923279
+2012-09-13,Federal Reserve Expected to Act to Spur Economy,neutral,0.31373313069343567
+2012-10-04,"Policy makers at the Federal Reserve were nearly united last month in their decision to support the economic recovery, according to an official account of the meeting.",positive,0.5199440717697144
+2012-10-04,Fed Members in Accord on Bond-Buying Plan,positive,0.5394440293312073
+2012-10-15,"Alvin Roth and Lloyd Shapley were given the award for their work on market design and matching theory, and how to help make markets work better.",positive,0.638857901096344
+2012-10-15,2 From U.S.,negative,-0.7548390030860901
+2012-10-15,Win Nobel in Economics,positive,0.36033180356025696
+2012-10-15,"Links on the work and lives of Alvin E. Roth and Lloyd S. Shapley, recipients of this year’s Nobel Memorial Prize in Economic Science for their research on market design.",neutral,0.03469791263341904
+2012-10-15,The Nobel Winners: A Reading List,neutral,0.032353829592466354
+2012-10-16,"October 16, 2012 - Vikram Pandit resigns as chief executive of Citigroup.",negative,-0.7991034984588623
+2012-10-16,Citigroup C.E.O.,neutral,0.0410318449139595
+2012-10-16,Steps Down,neutral,0.07834557443857193
+2012-10-20,Time will tell whether Citigroup’s new chief executive will shrink the bank to a more manageable size and protect American taxpayers from future bailouts.,positive,0.35272014141082764
+2012-10-20,Citi’s Torch Has Passed.,neutral,-0.07683812081813812
+2012-10-20,Now Find a Knife.,neutral,-0.05628945678472519
+2012-10-25,Standard & Poor’s cited the growing risks to French banks from the weak euro zone economy and the prospect of a downturn in French real estate prices.,negative,-0.5317714810371399
+2012-10-25,S.&P.,neutral,0.031057283282279968
+2012-10-25,Cuts Rating on BNP Paribas,neutral,0.26902011036872864
+2012-10-26,"Once he became chairman, Michael O’Neill meticulously built a case for Vikram Pandit’s ouster, drawing in one person after another until Mr. Pandit had virtually no allies left.",negative,-0.4704735279083252
+2012-10-26,Citi Chairman Is Said to Have Planned Chief’s Exit Over Months,neutral,-0.4198695421218872
+2012-12-29,"After pricing its once-obscure drug, Acthar, in the stratosphere, Questcor gained many fans on Wall Street.",positive,0.519619882106781
+2012-12-29,But the company has also drawn some doubters.,negative,-0.6062403917312622
+2012-12-29,"Questcor Finds Profits, at $28,000 a Vial",neutral,0.13671615719795227
+2013-01-09,"Edward S. Lampert, the company’s majority owner and chairman, will become chief executive at the struggling retailer.",neutral,-0.019841479137539864
+2013-01-09,Analysts Skeptical as Majority Owner Takes Role as Chief Executive of Sears,neutral,-0.01906847208738327
+2013-01-11,"Led by Apple, tech companies took over from consumer staples as the largest payer of dividends to investors.",neutral,0.1250247061252594
+2013-01-11,Information Technology Dividends Outpace All Others,neutral,0.07133075594902039
+2013-01-18,"The Federal Reserve has released the full record of its discussions in 2007, when the housing market, the financial system and the economy took a fateful turn.",neutral,0.009426248259842396
+2013-01-18,"Days Before Housing Bust, Fed Doubted Need to Act",neutral,0.11406645178794861
+2013-01-22,"Lawyers for Rajat Gupta, a former Goldman Sachs director, have made several arguments on appeal.",neutral,-0.16228125989437103
+2013-01-22,Among the most significant is that the government should not have been allowed to use certain wiretap evidence during his trial.,neutral,-0.3624858856201172
+2013-01-22,Rajat Gupta Seeks Reversal of Insider Trading Conviction,negative,-0.655055046081543
+2013-01-24,"A conversation with the Princeton economist, a former vice chairman of the Fed, about his new book, “After the Music Stopped.”",neutral,0.00444784015417099
+2013-01-24,Alan Blinder on the Lessons of the Financial Crisis,neutral,-0.053249165415763855
+2013-01-26,The S. & P. 500 has recently been approaching levels close to its 2007 peak.,positive,0.7276301383972168
+2013-01-26,A Steady Ascent,neutral,0.10456261783838272
+2013-01-27,"The Federal Reserve has left little doubt about its immediate plans, but inside the central bank, debate is moving from whether the Fed should do more to boost the economy to when it should start doing less.",neutral,-0.014135554432868958
+2013-01-27,"At Fed, Nascent Debate on When to Slow Asset Buying",neutral,-0.1456136703491211
+2013-02-02,Federal Reserve officials believe the bank could do more to increase the pace of inflation and aid growth.,positive,0.8629011511802673
+2013-02-02,They simply are not persuaded that the benefits outweigh potential costs.,negative,-0.6780966520309448
+2013-02-02,"As U.S. Growth Lags, Some Press the Fed to Do Still More",neutral,0.006860166788101196
+2013-02-04,The Justice Department has filed civil fraud charges in federal court in Los Angeles against Standard & Poor’s over its ratings of mortgage-related securities.,negative,-0.9207490086555481
+2013-02-04,U.S.,neutral,-0.05536564439535141
+2013-02-04,Accuses S. & P. of Fraud in Suit on Loan Bundles,negative,-0.8286055326461792
+2013-02-05,"Standard & Poor’s Ratings Services defended its corporate practices on Tuesday, saying a civil lawsuit filed against it by the Justice Department was unjustified.",negative,-0.9003615379333496
+2013-02-05,S.&P.,neutral,0.031057283282279968
+2013-02-05,Calls Government’s Suit ‘Meritless’,negative,-0.5963826179504395
+2013-02-05,The Justice Department accused the credit ratings agency of inflating its assessment of mortgage investments that spurred the 2008 financial crisis,negative,-0.9331568479537964
+2013-02-05,U.S.,neutral,-0.05536564439535141
+2013-02-05,Accuses S.&P.,negative,-0.6170428395271301
+2013-02-05,of Fraud,neutral,0.01590723544359207
+2013-02-05,"In 2006, some executives at Standard & Poor’s pushed to revise the firm’s rating models in hopes of preserving market share, while others expressed deep concerns about the poor performance of the securities, according to court documents.",negative,-0.791071891784668
+2013-02-05,The credit rating agency has called the suit “meritless.”,negative,-0.873287558555603
+2013-02-05,S.& P. E-Mails on Mortgage Crisis Show Alarm and Gallows Humor,negative,-0.8481143712997437
+2013-02-05,The Justice Department’s suit against Standard & Poor’s over mortgage-related securities says computer programs assessing risk were manipulated to ensure high ratings and big profits.,negative,-0.775993824005127
+2013-02-05,U.S.,neutral,-0.05536564439535141
+2013-02-05,Contends S.& P. Purposely Used Faulty Models,negative,-0.865119218826294
+2013-02-07,A federal suit paints Standard & Poor’s as willing to cut corners to keep its customers — much as the accounting firm did in the Enron scandal.,negative,-0.8949071168899536
+2013-02-07,"In Actions, S.&P.",neutral,0.025933174416422844
+2013-02-07,Risked Andersen’s Fate,negative,-0.33992844820022583
+2013-02-08,David Einhorn sues Apple over its plan for stocks.,negative,-0.9124159812927246
+2013-02-08,| E-mails imply JPMorgan knew some mortgage deals were bad.,negative,-0.8770663142204285
+2013-02-08,| A guilty plea and a big fine for the Royal Bank of Scotland in the rate-rigging case.,negative,-0.5468882322311401
+2013-02-08,| A look back on our reporting of the past week’s highs and lows in finance.,neutral,0.0022904984652996063
+2013-02-08,Week in Review: Just CC the Justice Department on Those E-Mails,neutral,-0.21984028816223145
+2013-02-11,The government’s lawsuit against Standard & Poor’s over credit ratings suggests that we may see fewer settlements and more court cases involving financial institutions in the future.,negative,-0.7026664614677429
+2013-02-11,S.&P.,neutral,0.031057283282279968
+2013-02-11,Lawsuit Draws New Line in the Sand,negative,-0.6459705233573914
+2013-02-15,The debate over a currency war arrived in Moscow as finance officials from the Group of 20 sparred over Japan’s proposed expansive policies.,negative,-0.36951667070388794
+2013-02-15,U.S.,neutral,-0.05536564439535141
+2013-02-15,Signals Support for Japan’s Yen Policy,positive,0.46480435132980347
+2013-02-19,"The mining company said Marius Kloppers would retire this year and be succeeded by Andrew Mackenzie, one of his first hires after becoming chief executive in 2007.",neutral,0.011361846700310707
+2013-02-19,BHP Billiton Chief to Retire; an Insider Will Succeed Him,neutral,-0.0918787494301796
+2013-02-26,"Ben S. Bernanke told senators that the central bank saw its campaign as necessary and effective, reassuring them that its benefits outweighed any risks.",positive,0.8114855885505676
+2013-02-26,Fed Defends Stimulus in Testimony to Senate,positive,0.48866552114486694
+2013-02-27,"In an excerpt from his article in the latest Vanity Fair, William D. Cohan recounts what was supposed to have been a friendly long-distance bike ride involving William A. Ackman and Daniel S. Loeb in the Hamptons.",neutral,-0.047285426408052444
+2013-02-27,It didn’t end well for Mr. Ackman.,negative,-0.8067272901535034
+2013-02-27,A Race Against Loeb That Left Ackman Breathless,negative,-0.5392374396324158
+2013-03-02,"Born in rugged terrain, Alaska Airlines fortified itself — and has resisted the cycle of bankruptcy and mergers buffeting its industry.",positive,0.78913414478302
+2013-03-02,"Alaska Airlines, Flying Above an Industry’s Troubles",positive,0.4475317597389221
+2013-03-09,"Over the long term, investors in equity mutual funds have underperformed the S.&.P.",negative,-0.6784858703613281
+2013-03-09,500.,neutral,0.03894622251391411
+2013-03-09,Buying High and Selling Low,neutral,-0.08985596150159836
+2013-03-12,President Vladimir V. Putin’s nomination of Elvira Nabiullina signaled that the bank’s independence may now be subject to more direct Kremlin control.,neutral,0.24276778101921082
+2013-03-12,"Extending His Sway, Putin Names Loyalist to Head Russian Central Bank",neutral,0.13227984309196472
+2013-03-17,Concerns about the effects of the Federal Reserve’s stimulus policy can dilute the policy’s impact by causing investors to doubt that rates will remain low.,negative,-0.7952823638916016
+2013-03-17,"To Reassure Investors, Fed Stresses It Will Not End Stimulus",neutral,-0.2945200204849243
+2013-03-20,"“We need to see sustained improvement,” the Fed’s chairman, Ben Bernanke, said on Wednesday.",positive,0.902880847454071
+2013-03-20,“One or two months doesn’t cut it.”,negative,-0.7160999774932861
+2013-03-20,Fed to Maintain Stimulus Efforts Despite Jobs Growth,positive,0.5994305610656738
+2013-03-20,The Fed’s statement announcing it was holding its base federal funds target rate at a record low between zero and 0.25 percent:,neutral,-0.34778106212615967
+2013-03-20,Monetary Policy Statement From the Federal Reserve,neutral,0.04510462284088135
+2013-03-28,The S.&P.,neutral,0.019525134935975075
+2013-03-28,"500 is widely seen as a broader reflection of the stock market than the blue-chip Dow Jones industrial average, which passed its own 2007 milestone this month.",neutral,0.40367695689201355
+2013-03-28,Broad-Based S.&P.,neutral,0.030060961842536926
+2013-03-28,500-Stock Index Ends at Record High,positive,0.4421616196632385
+2013-03-29,"The S. & P. 500 overtook its previous 2007 high on Thursday, to close at 1,569.15",positive,0.5247229337692261
+2013-03-29,A New High,neutral,-0.11766718327999115
+2013-04-03,"John Breit, the former top risk manager at Merrill Lynch, says that mathematical models fail because they don’t account for human frailty.",negative,-0.7704024314880371
+2013-04-03,Finding the Human Factor in Bank Risk,neutral,0.05399487167596817
+2013-04-04,A benchmark based on secured loans makes more sense than the London interbank offered rate.,neutral,0.13909171521663666
+2013-04-04,Finding a Rate That’s Fairer Than Libor,neutral,0.18722382187843323
+2013-04-16,A 2010 paper argued that countries with heavy debt loads tended to experience slower rates of growth.,negative,-0.5342235565185547
+2013-04-16,"A new study argues that the paper was flawed, in part because of calculation errors.",negative,-0.9458562731742859
+2013-04-16,A Study That Set the Tone for Austerity Is Challenged,neutral,-0.032046034932136536
+2013-04-18,"Despite a slump in global sales of personal computers, the company said its software product sales drove the increase, which exceeded Wall Street estimates.",positive,0.8668034672737122
+2013-04-18,"Software Sales Bolster Microsoft, Leading to a 19% Rise in Profit",positive,0.9240036606788635
+2013-04-22,"Powerful political arguments have been made on flawed data, and it’s time that such research was better policed, an economist writes.",neutral,0.23074029386043549
+2013-04-22,Replicating Research: Austerity and Beyond,neutral,0.01964046247303486
+2013-04-22,"Standard & Poor’s says the government is overreaching in its civil case, which asserts that firm inflated its ratings to win business.",negative,-0.9036796689033508
+2013-04-22,S.&P.,neutral,0.031057283282279968
+2013-04-22,Seeks Dismissal of U.S. Suit Over Rating of Mortgage Debt,negative,-0.48495328426361084
+2013-04-25,"If Janet Yellin is not selected as the next chief of the Federal Reserve, three widely known men are possibilities.",neutral,-0.09963340312242508
+2013-04-25,"If Not Yellen at the Fed, Perhaps One of These",neutral,-0.12331423163414001
+2013-05-01,Wall Street bankers and foreign finance ministers are waging a campaign to block American financial regulators from extending their policing powers far beyond the nation’s shores.,negative,-0.7594473958015442
+2013-05-01,Banks Rally Against Strict Controls of Foreign Bets,negative,-0.5821322798728943
+2013-05-03,"Shares opened sharply higher, with the Standard & Poor’s 500-stock index pushing beyond 1,600 points, and the Dow Jones industrial average briefly exceeding 15,000 points.",positive,0.534020185470581
+2013-05-03,S.&P.,neutral,0.031057283282279968
+2013-05-03,"500 Surpasses 1,600 as Job Gains Top Forecast",positive,0.018313348293304443
+2013-05-16,"Standard & Poor’s cut the credit rating of Berkshire Hathaway one notch on Thursday after changing its methodology for evaluating insurers, but it affirmed the company’s overall financial strength.",negative,-0.8823098540306091
+2013-05-16,Berkshire’s Rating Is Cut After S.&P.,negative,-0.9420192241668701
+2013-05-16,Revises Its Methodology,neutral,0.03398524224758148
+2013-05-16,"Vikram Pandit, the former Citigroup chief executive, and his business partner Hari Aiyar have bought a 3 percent stake in the Indian firm JM Financial.",neutral,0.08003786951303482
+2013-05-16,Mr. Pandit will also help manage a new $100 million distressed asset fund.,neutral,0.0711408481001854
+2013-05-16,Pandit Rejoins Banking With Stake in Indian Financial Firm,neutral,0.045211516320705414
+2013-05-22,"The Fed chairman, Ben S. Bernanke, supported the central bank’s bond-buying effort, but some officials were already thinking about scaling it back.",neutral,0.09018991887569427
+2013-05-22,"Fed Endorses Stimulus, but the Message Is Garbled",neutral,0.00015462934970855713
+2013-05-24,"The Standard & Poor’s 500-stock index has more than doubled since Barack Obama took office, an accomplishment achieved by only four other presidents.",positive,0.8812326192855835
+2013-05-24,Measured by S.&P.,neutral,0.021363181993365288
+2013-05-24,"Returns, Obama Is on a Short List",neutral,-0.27360799908638
+2013-05-28,The S.&P.,neutral,0.019525134935975075
+2013-05-28,"Case-Shiller home price index rose by 10.9 percent over the last year, a gain that reinforces housing’s role in driving the economy.",positive,0.9004713892936707
+2013-05-28,"Home Prices Rise, Putting Country in Buying Mood",positive,0.25982069969177246
+2013-05-31,"Jonathan Evans, the former director general of MI5, Britain’s domestic security and counterintelligence agency, may find that a new career in banking will suit him just fine.",neutral,0.15176349878311157
+2013-05-31,HSBC on Friday named him as an independent nonexecutive director of its board.,neutral,0.10413520038127899
+2013-05-31,"At HSBC, a Board Member Who Can Keep Secrets",neutral,0.03131626546382904
+2013-06-03,"After market close on Thursday, G.M.",neutral,0.07155623286962509
+2013-06-03,"will replace H. J. Heinz in Standard & Poor’s famous 100- and 500-stock indexes, amid the auto maker’s continued efforts to repay the federal government for its taxpayer-financed bailout.",neutral,0.14417293667793274
+2013-06-03,G.M.,neutral,0.048085395246744156
+2013-06-03,to Replace Heinz in the S.&P.,neutral,0.08460678160190582
+2013-06-03,500,neutral,0.040608689188957214
+2013-06-06,"The agency said easing the ban would allow security workers to focus on “higher threat” items, but attendants saw a danger to crew and passengers.",negative,-0.8350389003753662
+2013-06-06,T.S.A.,neutral,0.05328432098031044
+2013-06-06,Drops an Effort to Allow Some Knives on Planes,negative,-0.6137754321098328
+2013-06-07,"Many on Wall Street agreed that the 175,000 jobs created in May could keep the economy on a steady path but would not  encourage the Fed to let up on its stimulus sooner than expected.",positive,0.6093873977661133
+2013-06-07,"Trying to Divine Intent of Fed, Wall St. Climbs",neutral,-0.047699641436338425
+2013-06-08,Negotiations with the government shed a light on how Internet companies like Facebook and Google interact with the spy agencies that look to their vast trove of information.,neutral,0.345045268535614
+2013-06-08,Tech Companies Concede to Surveillance Program,neutral,0.0451790988445282
+2013-06-18,The president praised Ben S. Bernanke’s leadership of the Federal Reserve but suggested that he could nominate a new Fed chairman later this year.,positive,0.6064051985740662
+2013-06-18,Obama Raises Possibility of Change at the Fed,neutral,0.09440970420837402
+2013-06-19,"George Zimmer, the founder of Men’s Wearhouse and a frequent presence in its commercials, was fired by the company’s board on the day of its shareholders’ meeting.",negative,-0.8803638815879822
+2013-06-19,"Dumping the Face, and Founder, of Men’s Wearhouse",neutral,-0.07263924926519394
+2013-06-20,The S.&P.,neutral,0.019525134935975075
+2013-06-20,500 ended down 2.5 percent and the Dow fell 2.3 percent over concern about a credit crunch in China and the Federal Reserve’s plans for winding down its stimulus efforts.,negative,-0.9325256943702698
+2013-06-20,Markets Slump Over Fed Exit Plan and China Credit Squeeze,negative,-0.9307658076286316
+2013-06-21,"Charts showing Federal Reserve assets, S.&P.",neutral,0.011825807392597198
+2013-06-21,"500 stock index, unemployment rate and employment-to-population ratio.",neutral,0.01980775222182274
+2013-06-21,Is It Time Yet for the Fed to Slow Down?,negative,-0.430935800075531
+2013-06-28,"Though today’s lower yields provide less of a cushion, bonds still remain the best, if imperfect, foil to stocks.",positive,0.6646175384521484
+2013-06-28,Taking a Cue From Bernanke a Little Too Far,neutral,-0.2501267194747925
+2013-06-29,"A reader responds to “The Fed’s Framers Would Be Shocked” (Hindsight, June 23).",neutral,-0.04342116788029671
+2013-06-29,A Not-So-Powerful Federal Reserve,neutral,-0.010485909879207611
+2013-07-06,Many mutual funds slumped near the end of the second quarter amid signs that the Federal Reserve might pull back on its bond-buying.,negative,-0.9662570357322693
+2013-07-06,"For investors, the future now looks harder to read.",negative,-0.582554280757904
+2013-07-06,"From the Fed, Mixed Signals for Main Street",negative,-0.7970674633979797
+2013-07-06,Hmm.,neutral,0.07156211137771606
+2013-07-06,"If the government can spy on my online life, maybe I should be able to profit.",neutral,0.1600765436887741
+2013-07-06,Want Your Data Back?,neutral,0.03785225376486778
+2013-07-06,Pay Me,neutral,0.05390971899032593
+2013-07-29,The Transportation Security Administration has an ambitious goal of enrolling 25 percent of all passengers in its popular PreCheck initiative by the end of 2013.,neutral,0.383649617433548
+2013-07-29,Fast Airport Screening Is in Store for More,neutral,0.008081711828708649
+2013-07-30,"Companies may no longer fear the threat of a hostile takeover, but their focus has shifted to activist investors.",neutral,0.048280566930770874
+2013-07-30,"With Fewer Barbarians at the Gate, Companies Face a New Pressure",negative,-0.6913251876831055
+2013-07-31,"The Federal Reserve said its purchase of $85 billion a month in securities would continue, citing the weak pace of growth during the first half of the year.",negative,-0.6166215538978577
+2013-07-31,"Bond Purchases by Fed Will Continue, at Least for Another Month",positive,0.5726746320724487
+2013-08-01,"S.& P. has been giving higher ratings than its big rivals to certain mortgage-backed securities just as Wall Street is eagerly trying to revive the market for these investments, according to an analysis conducted for The Times.",positive,0.8059467077255249
+2013-08-01,Banks Find S.&P.,neutral,0.01684442348778248
+2013-08-01,More Favorable in Bond Ratings,positive,0.4630841910839081
+2013-08-02,"The employment gains in July, which were fewer than expected, were not on track to absorb the backlog of unemployed workers anytime soon.",negative,-0.9346311092376709
+2013-08-02,The jobless rate ticked down to 7.4%.,negative,-0.9452696442604065
+2013-08-02,U.S.,neutral,-0.05536564439535141
+2013-08-02,"Adds 162,000 Jobs as Growth Remains Sluggish",negative,-0.2119445502758026
+2013-08-02,Former trader is found liable in fraud case.,negative,-0.8448514938354492
+2013-08-02,| Trader’s hiring offers a glimpse of SAC practices.,neutral,0.13981127738952637
+2013-08-02,| Banks find S.&P.,neutral,-0.04900628328323364
+2013-08-02,more favorable in bond ratings.,positive,0.8276507258415222
+2013-08-02,| Million denied bank accounts for past errors.,negative,-0.9114199280738831
+2013-08-02,Week in Review: Trial Sends Message to Midlevel Employees,neutral,0.41580337285995483
+2013-08-31,"The so-called activist investors flocking to Wall Street are major shareholders with hedge fund money, and they are using their clout to push around companies like Dell, Sony and Apple.",neutral,0.0596657358109951
+2013-08-31,"Shareholders, Supersized",neutral,0.0252126045525074
+2013-09-04,"The investors in the current round of seed financing include top executives or former executives of Zillow, eHarmony, Expedia, Loopnet and Starwood Capital.",neutral,0.03848244994878769
+2013-09-04,Start-Up Brings an Internet Sensibility to Time Shares,neutral,0.10482390969991684
+2013-09-09,"In its defense against a Justice Department lawsuit, Standard & Poor’s argues that it was improperly targeted because it lowered the credit rating on federal debt two years ago.",negative,-0.8863306045532227
+2013-09-09,How far it will get with that argument is an open question.,neutral,0.031494833528995514
+2013-09-09,S.&P.’s Counterattack on the Government,neutral,0.02745375782251358
+2013-09-13,The Federal Reserve is trying to reassure investors about its effort to stimulate the economy as it prepares a shake-up of its policy-making committee.,positive,0.6575512886047363
+2013-09-13,"Fed Prepares for Change in Policy, and in Policy Makers",neutral,0.09451280534267426
+2013-09-18,"As banks began reviving the market for bonds tied to home loans, S.& P.’s tough stance was hurting the bottom line.",negative,-0.9603655338287354
+2013-09-18,S.&P.,neutral,0.031057283282279968
+2013-09-18,Bond Deals Are on the Rise Since It Relaxed Rating Criteria,positive,0.5426422953605652
+2013-09-18,"In a reversal that stunned economists and investors, the Federal Reserve said it would continue to buy bonds to encourage growth, at least for another month and quite possibly into next year.",positive,0.5664422512054443
+2013-09-18,"In Surprise, Fed Decides to Maintain Pace of Stimulus",positive,0.27456408739089966
+2013-09-21,"More trouble hit JPMorgan Chase, a possible I.P.O.",negative,-0.893833577632904
+2013-09-21,"loomed for the Empire State Building, and the Fed stunned the economic world by delaying its plan to ease its stimulus efforts.",negative,-0.8778346180915833
+2013-09-21,Pictures From the Week in Business,neutral,-0.02614821493625641
+2013-10-02,"The accusations, made over several years in lawsuits that have been merged into two cases, ask whether Google went too far in collecting user data in Gmail and Street View.",negative,-0.8616397380828857
+2013-10-02,Google Accused of Wiretapping in Gmail Scans,negative,-0.7862416505813599
+2013-10-04,"It happened in 1790 and 1933, according to economic historians.",neutral,-0.052178796380758286
+2013-10-04,The U.S. Has Defaulted Before,neutral,-0.06824523210525513
+2013-11-08,"The agency cut its rating for France to AA, saying tax and labor reforms would probably not have much impact on growth in the medium term.",negative,-0.8664654493331909
+2013-11-08,S.&P.,neutral,0.031057283282279968
+2013-11-08,Downgrade Deals Blow to French Government,negative,-0.8623552918434143
+2013-11-11,"After trying to ignore shareholder activism, companies are realizing that preparation and engagement can bring better results.",positive,0.8199086785316467
+2013-11-11,Boardrooms Rethink Tactics to Defang Activist Investors,negative,-0.6657822728157043
+2013-11-22,"It is hard to compare today’s stock market with the one in 2000, as measured by the S.&.P 500, and not just because of inflation.",neutral,-0.14905592799186707
+2013-11-22,A Record Market Is Not All That It Seems,neutral,-0.054641373455524445
+2013-11-25,The troubled smartphone maker said its chief operating officer and chief marketing officer were gone from the company.,negative,-0.7736029028892517
+2013-11-25,The chief financial officer has been replaced.,negative,-0.6349409818649292
+2013-11-25,Blackberry Chief Removes Some Top Executives,negative,-0.581291139125824
+2013-11-26,Security experts said they believe that government spies bypassed Google and Yahoo and targeted the fiber-optic cables that connect their data centers.,negative,-0.8603720664978027
+2013-11-26,N.S.A.,neutral,0.05338255316019058
+2013-11-26,May Have Hit Internet Companies at a Weak Spot,negative,-0.8096728920936584
+2013-12-06,"As anemic as the job market recovery has been in the United States, recoveries after financial crises around the world have historically been even worse.",negative,-0.9630113840103149
+2013-12-06,"Financial-Crisis Recoveries, Compared",negative,-0.5640050172805786
+2013-12-07,"Beards are back as a fashion statement, but many bankers have yet to get the memo.",neutral,0.037966057658195496
+2013-12-07,Whiskers Unlimited?,neutral,-0.06279849261045456
+2013-12-07,Not on Wall St.,neutral,-0.36828166246414185
+2013-12-12,Facebook stock jumped close to 4 percent in after-hours trading on news that it would join the Standard & Poor’s 500-stock index at the end of next week.,positive,0.8192548751831055
+2013-12-12,Facebook to Join S.&P.,neutral,0.032812826335430145
+2013-12-12,500,neutral,0.040608689188957214
+2013-12-14,Notable quotes from business articles that appeared in The New York Times last week.,neutral,0.01611744984984398
+2013-12-14,"The Chatter for Sunday, Dec. 15",neutral,0.023364296182990074
+2013-12-20,"The ratings agency cited less “cohesion” in the bloc in removing its AAA badge of approval, but the impact of the move was negligible.",negative,-0.880460262298584
+2013-12-20,S.&P.,neutral,0.031057283282279968
+2013-12-20,Cuts European Union’s Credit Rating,negative,-0.5126872062683105
+2013-12-20,Revenue dropped 56 percent in the latest quarter as its business continued to shrink.,negative,-0.9694086909294128
+2013-12-20,The company also said it would enter a partnership with the Asian manufacturer Foxconn.,positive,0.8136664628982544
+2013-12-20,"BlackBerry Staggers to a Deeper, $4.4 Billion Loss",negative,-0.1174306869506836
+2013-12-31,"This year, the S.&P.",neutral,0.0018314104527235031
+2013-12-31,500 had its highest total return since 1997.,positive,0.6482988595962524
+2013-12-31,Returns for the S.&P.,neutral,0.03583639860153198
+2013-12-31,500 Are Best in 16 Years,neutral,-0.006867766380310059
+2014-01-06,"As chairwoman, Ms. Yellen will face an arduous task overseeing the gradual unwinding of stimulus measures, despite an uncomfortably high unemployment rate of 7 percent and subdued inflation.",neutral,0.30555346608161926
+2014-01-06,Yellen Wins Backing of Senators to Lead Fed,positive,0.4485991597175598
+2014-01-07,"Detail on the nine systemic financial crises the United States has suffered since 1814, taken from a new paper about post-crisis recoveries.",neutral,0.001215234398841858
+2014-01-07,200 Years of American Financial Crises,neutral,0.0687481015920639
+2014-01-18,The video subscription service was the S.&P.,neutral,0.005978187546133995
+2014-01-18,"500’s biggest winner last year, but some analysts worry about the stock’s dizzying climb.",negative,-0.9018509387969971
+2014-01-18,"A Netflix Scoreboard: 3 Emmys, a Golden Globe and a Soaring Stock",neutral,0.18678909540176392
+2014-01-23,The retailer will award grants for new production processes as it pushes for more American-made products.,positive,0.8485091328620911
+2014-01-23,Walmart Fund to Support U.S. Manufacturing,neutral,0.19509387016296387
+2014-02-01,"Mr. Engel represented many famous entertainers, including singers, actors and authors, in contract disputes.",neutral,-0.16067631542682648
+2014-02-01,"Donald S. Engel, Persistent Contract Lawyer to the Stars, Dies at 84",neutral,-0.282540887594223
+2014-02-04,"Brenda Priddy, an automotive spy photographer, has turned her lens away from manufacturers’ desert testing areas toward detail-oriented imagery.",neutral,-0.04491385072469711
+2014-02-04,Photographer Shifts from Automotive Espionage to Fine Art,neutral,0.025446049869060516
+2014-02-04,"The move intensified a cash squeeze for the commonwealth, whose financial condition is of outsize importance to the rest of the United States because its debt is widely held by individual investors through mutual funds.",negative,-0.3735015392303467
+2014-02-04,S.&P.,neutral,0.031057283282279968
+2014-02-04,Lowers Puerto Rico Debt to Junk Status,neutral,0.0429958701133728
+2014-02-05,Standard & Poor’s lowers Puerto Rico’s debt to junk status.,negative,-0.8271214365959167
+2014-02-05,| Morgan Stanley reaches a $1.25 billion mortgage settlement with the F.H.F.A.,positive,0.6934038996696472
+2014-02-05,| Microsoft names a new chief executive.,neutral,-0.01209503784775734
+2014-02-05,| The Deal Professor discusses Herbalife’s volatile stock price.,neutral,-0.1178223043680191
+2014-02-05,A Debt Downgrade for Puerto Rico,negative,-0.8735233545303345
+2014-02-12,"The director of national intelligence acknowledged Tuesday that nearly a year after the contractor Edward J. Snowden “scraped” highly classified documents from the National Security Agency’s networks, the technology was not yet fully in place to prevent another insider from stealing top-secret data on a similarly large scale.",negative,-0.6633129119873047
+2014-02-12,Daily Report: Spy Chief Says Snowden Took Advantage of Security Lapses,negative,-0.8381508588790894
+2014-02-21,"The transcripts provide new insights into the debates, miscalculations and actions of the Federal Reserve in assessing and countering the financial crisis.",neutral,0.04586879909038544
+2014-02-21,"Fed Misread Crisis in 2008, Records Show",negative,-0.8736015558242798
+2014-02-25,"Standard & Poor’s is seeking information about certain meetings between President Obama and Timothy F. Geithner in 2011, hoping the details will help show that a lawsuit filed by the government in 2013 against the company was done in retaliation for a ratings downgrade of American debt.",neutral,-0.07862856239080429
+2014-02-25,"S.&P., in Lawsuit Defense, Seeks Documents About Obama-Geithner Meetings",neutral,-0.15043044090270996
+2014-02-28,"Accounts based on documents supplied by Edward J. Snowden say images — many sexually explicit — were collected from Yahoo users, even those not suspected of illegal activity.",negative,-0.7738999724388123
+2014-02-28,Daily Report: British Spy Agency Is Said to Have Collected Yahoo Webcam Photos,negative,-0.5837274193763733
+2014-03-08,"Outrage at the very wealthy may be impeding a national discussion of how to raise the living standards of the bottom 20 percent, an economist writes.",negative,-0.9377935528755188
+2014-03-08,A Top-Heavy Focus on Income Inequality,neutral,0.05907290428876877
+2014-03-17,"When the United States ends its wartime military presence in Afghanistan at the end of 2014, President Obama will most likely recast the terms under which the government uses technology to fight terror and spy on people, says a former diplomat.",neutral,0.038505811244249344
+2014-03-17,That could matter for privacy laws.,neutral,-0.3433740437030792
+2014-03-17,Privacy in the War Without End,neutral,-0.24793824553489685
+2014-03-19,The abrupt rise and increasing success of activist investors are forcing big money managers to reassess their traditionally passive role as shareholders.,neutral,-0.30266064405441284
+2014-03-19,New Alliances in Battle for Corporate Control,neutral,0.14626923203468323
+2014-03-27,"Several Aston Martins, a couple of BMWs and even a jet pack are among the memorabilia on display through the end of 2014.",neutral,0.04495488852262497
+2014-03-27,James Bond Cars Take Up Residence at London Film Museum,neutral,0.00752025842666626
+2014-03-28,"BlackBerry has had relentlessly bad financial news, but analysts are no longer raising concerns that the company is rapidly heading toward collapse.",negative,-0.9005001187324524
+2014-03-28,BlackBerry Sees Hope for Future in Security,positive,0.6970335245132446
+2014-03-31,Questions are once again being raised about “an all-too-cozy relationship” between former National Highway Traffic Safety Administration officials and the automobile industry.,neutral,-0.3235008716583252
+2014-03-31,Carmakers’ Close Ties to Regulator Scrutinized,neutral,-0.15727771818637848
+2014-04-01,Technology that was once the stuff of James Bond movies and spy novels may soon turn up in local bank branches.,neutral,0.06564439088106155
+2014-04-01,Inside the (Smaller) Bank Branch of the Future,neutral,-0.013837732374668121
+2014-04-05,"A chief executive says she prefers people who know how to manage down: “If I find someone whose team would walk across hot coals for them, that’s the person I want to work with.”",neutral,0.08049090951681137
+2014-04-05,"Kim Bowers of CST Brands, on Managing Up vs.",positive,0.5292174816131592
+2014-04-05,Managing Down,neutral,0.04786176607012749
+2014-04-06,"Palbociclib, a drug being developed by Pfizer, sharply cut the risk that advanced cancer would worsen among patients taking part in a Phase 2 study, researchers said.",positive,0.5089088678359985
+2014-04-06,Guarded Optimism After Breast Cancer Drug Shows Promising Results,positive,0.5025991797447205
+2014-04-08,"Companies are finding that their greatest cybersecurity threats can hide in third-party systems, like networked air-conditioning equipment.",negative,-0.5875779390335083
+2014-04-08,Daily Report: The Spy in the Soda Machine,neutral,-0.3620058000087738
+2014-04-25,The move is intended to help halt a slide in the country’s currency and stem the flight of investment capital from the country.,positive,0.8244890570640564
+2014-04-25,Russia Raises Rate to Bolster Economy After S.&P.,positive,0.4131653904914856
+2014-04-25,Cuts Its Debt Rating,negative,-0.8565425872802734
+2014-05-01,"Investors are desperate for better returns on their investments, but are largely having to settle for lesser quality these days.",negative,-0.5800470113754272
+2014-05-01,"Searching for Yield, at Almost Any Price",neutral,-0.02832496166229248
+2014-05-02,"A new book argues that more people can and should become angel investors, but that they must expect plenty of failures along with the rare big win.",neutral,0.17810805141925812
+2014-05-02,Billions Not Required for Angel Investing,neutral,0.029458019882440567
+2014-05-10,"In a rough year for many of its shoppers, adjusted financial results meant higher incentive pay for some of its executives.",positive,0.19901132583618164
+2014-05-10,Making Ends Meet at Walmart,neutral,-0.03922674059867859
+2014-05-14,"Many studies of very old people look at how they achieved their longevity, but some researchers are examining how those at or approaching 100 actually feel.",neutral,-0.029301922768354416
+2014-05-14,Get to 100 and Life Actually Doesn’t Feel so Bad,neutral,-0.04434577375650406
+2014-05-21,United States officials say the N.S.A.,negative,-0.5191189050674438
+2014-05-21,"is free to spy on trade negotiators to help American trade officials, and by extension, American industries and workers they are trying to bolster.",neutral,-0.027767738327383995
+2014-05-21,Fine Line Seen in U.S.,negative,-0.06663694977760315
+2014-05-21,Spying on Companies,neutral,-0.21770137548446655
+2014-05-26,"Next Big Sound is bringing its data analytics to book sales, with Next Big Book.",neutral,0.19984552264213562
+2014-05-26,It has also struck a partnership with Macmillan.,positive,0.8454334139823914
+2014-05-26,Music Data Analyst Turns Sights to Books,neutral,-0.10641893744468689
+2014-06-07,Internet companies like Google and Facebook are working to keep governments and their spy agencies out of their servers after revelations that they had been invaded.,negative,-0.8406630754470825
+2014-06-07,Internet Giants Erect Barriers to Spy Agencies,neutral,-0.20497086644172668
+2014-06-12,The RTB 500 is meant to provide the real-time price of media on 500 leading publishers’ sites.,neutral,0.013111373409628868
+2014-06-12,Mimicking the S.&P.,neutral,0.06224815547466278
+2014-06-12,With an Index for Ad Prices at 500 Publishers,neutral,0.023169733583927155
+2014-06-17,"A government document cites the right to intercept communications that go through services like Facebook, even if they are between people in Britain.",neutral,-5.187466740608215e-05
+2014-06-17,British Spy Agencies Assert Power to Intercept Web Traffic,neutral,-0.0756366029381752
+2014-06-17,Privacy groups say the government contends that data transmitted through foreign-based services like Facebook lacks the legal protection of domestic communication.,negative,-0.8681881427764893
+2014-06-17,Daily Report: British Spy Agencies Are Said to Claim Right to Intercept Web Communications,neutral,-0.02865271270275116
+2014-06-17,A Ford source confirms that the toy truck seen at the Dearborn Development Center is a Power Wheels interpretation of the next-generation F-150 pickup.,neutral,-0.011365707963705063
+2014-06-17,Spy Photographers Capture Camouflaged Mini F-150,neutral,-0.18068107962608337
+2014-07-04,"Mr. Amos pushed the company to market its insurance policies at companies, not door to door.",neutral,0.10506808012723923
+2014-07-04,"Paul S. Amos, a Co-Founder of Aflac, Dies at 88",neutral,-0.21174924075603485
+2014-07-23,McGraw Hill said the S.E.C.,neutral,0.047244131565093994
+2014-07-23,had sent the company a Wells notice over commercial mortgage-backed securities that were rated by its S.&P.’s Ratings Services subsidiary.,neutral,-0.013228759169578552
+2014-07-23,S.E.C.,neutral,0.030168529599905014
+2014-07-23,Scrutinizes McGraw Hill Over Commercial Mortgage Securities,neutral,-0.1060740053653717
+2014-07-30,"Vintage will release English translations of the spy thrillers by Gérard de Villiers, the French novelist who died of cancer last fall.",neutral,0.04281127452850342
+2014-07-30,"De Villiers May Gain an American Audience, Posthumously",neutral,0.18787267804145813
+2014-07-30,"After more than five hours of mediated talks between the government and the hedge funds on Wednesday, neither side appeared closer to a deal.",positive,0.39051032066345215
+2014-07-30,S.&P.,neutral,0.031057283282279968
+2014-07-30,Says Argentina Has Defaulted,neutral,-0.19794711470603943
+2014-08-04,Companies like Addepar are using data-filtering techniques honed at spy agencies to help track and value clients’ diverse holdings.,neutral,-0.010995209217071533
+2014-08-04,Wealth Managers Enlist Spy Tools to Map Portfolios,neutral,-0.06097178906202316
+2014-08-11,"DuJour magazine and Gilt, the retailer, will broaden their promotion of content, products and services.",positive,0.7109628915786743
+2014-08-11,Two Luxury Names Expand Their Marketing Collaboration,positive,0.6950541734695435
+2014-08-18,"A passenger posed as a screener at a San Francisco airport that uses a private contractor overseen by the T.S.A., part of a program that has been criticized.",negative,-0.8574115037918091
+2014-08-18,Fake Security Screener Highlights a Concern,negative,-0.6006227135658264
+2014-08-25,"The Standard & Poor’s 500-stock index briefly topped 2,000 before closing a bit shy of the mark following a meeting of central bankers in Jackson Hole, Wyo., last weekend.",negative,-0.7521400451660156
+2014-08-25,Signs From Central Bankers Send S.&P.,neutral,0.20609983801841736
+2014-08-25,"500 Over 2,000 for First Time",neutral,-0.024121947586536407
+2014-08-27,"The Standard & Poor’s 500-stock index reached the milestone tentatively, on lazy trading and only barely above the 2,000 mark.",positive,0.20952355861663818
+2014-08-27,"For First Time, S.&P.",neutral,0.1966281533241272
+2014-08-27,"500 Closes Above 2,000",neutral,-0.14077536761760712
+2014-08-27,Detroit is silent on a proposal to use its art as collateral.,neutral,-0.24094831943511963
+2014-08-27,| Global financial connections in Burger King’s deal for Tim Hortons.,neutral,0.3861306309700012
+2014-08-27,| Companies are invoking their attorney-client privilege to shelter wrongdoing.,neutral,-0.019769400358200073
+2014-08-27,| The S.&P.,neutral,0.030172519385814667
+2014-08-27,"500 closes above 2,000 for the first time.",neutral,-0.10117024183273315
+2014-08-27,Morning Agenda: Unusual Offer for Detroit’s Art,neutral,0.3082866072654724
+2014-09-17,"Blue Origin, owned by Jeff Bezos, agreed to work with United Launch Alliance, which has sent nearly all United States spy and military satellites into space in the last decade.",positive,0.7577290534973145
+2014-09-17,A Bezos Company Will Make Engines for Rockets,neutral,0.02062767930328846
+2014-10-14,"The targets were often linked to the standoff in Ukraine, said iSight Partners, the computer security firm that released the report.",neutral,-0.1447106897830963
+2014-10-14,"Russian Hackers Used Bug in Microsoft Windows for Spying, Report Says",negative,-0.8781117796897888
+2014-10-14,"Russian hackers used a bug in Microsoft Windows to spy on several Western governments, NATO and the Ukrainian government, according to a computer security firm.",negative,-0.881808340549469
+2014-10-14,Daily Report: Russian Hackers Exploit Flaw in Microsoft Windows to Spy on Governments,negative,-0.9080284237861633
+2014-10-29,McGraw Hill Financial said its Standard & Poor’s unit was in “active discussions” with regulators on a possible settlement over ratings on commercial mortgage-backed securities issued in 2011.,positive,0.4062633514404297
+2014-10-29,S.&P.,neutral,0.031057283282279968
+2014-10-29,in Settlement Talks Over Mortgage Securities,neutral,-0.15674516558647156
+2014-11-19,"Extremely low interest rates and a thirst for speculation have made the junk bond market bigger than ever, and one market veteran says the next wave of defaults will be bigger than ever, too.",negative,-0.2465018928050995
+2014-11-19,"Junk Bonds Flourish Amid Low Interest Rates, but So Do Default Worries",neutral,0.0862719938158989
+2014-11-24,The security company released a report Sunday night indicating that a powerful program that could only have been created by a “nation state” has been finding its way into computer systems for six years.,neutral,0.037954069674015045
+2014-11-24,Symantec Discovers ‘Regin’ Spy Code Lurking on Computer Networks,negative,-0.6198499798774719
+2014-12-02,"The number of people who enrolled in programs to expedite passage through security checkpoints rose, John Pistole says, as did the number of guns found during screenings.",positive,0.8026430606842041
+2014-12-02,"Considering the Year in Airport Security, With the T.S.A.",neutral,0.2150936871767044
+2014-12-02,Chief,neutral,0.031997859477996826
+2014-12-04,"The company, which also owns Kmart, announced a loss of $548 million for its third quarter, though sales figures improved.",negative,-0.37033388018608093
+2014-12-04,Sears Loss Widens as It Strives for Rebound,neutral,0.01572909951210022
+2014-12-16,"Despite the Russian central bank’s extraordinary effort to defend the ruble, the currency fell to record lows, inducing further panic in the nation’s financial industry.",negative,-0.939367413520813
+2014-12-16,Russia’s Steep Rate Increase Fails to Stem Ruble’s Decline,negative,-0.9195143580436707
+2014-12-21,Southern California Edison plans to retire some power plants and replace them with storage — including conventional batteries and giant ice packs — as well as other power generators.,neutral,0.020550251007080078
+2014-12-21,Energy-Storage Plans Gain Ground in California,positive,0.6795090436935425
+2015-01-13,"On television and in the courtroom, the credit rating agency has waged war against a Justice Dept.",negative,-0.827082097530365
+2015-01-13,lawsuit.,negative,-0.4365161955356598
+2015-01-13,"But behind the scenes, it wants nothing more than to buy peace.",neutral,0.08804302662611008
+2015-01-13,S.&P.,neutral,0.031057283282279968
+2015-01-13,Nears Settlement With Justice Dept.,neutral,0.15623721480369568
+2015-01-13,Over Inflated Ratings,neutral,-0.12182028591632843
+2015-01-13,S.&P.,neutral,0.031057266518473625
+2015-01-13,is nearing a settlement with the Justice Department over inflated ratings.,negative,-0.31790342926979065
+2015-01-13,| Antonio Weiss withdraws from consideration to be a Treasury under secretary.,negative,-0.6663957238197327
+2015-01-13,| Oil prices plunge.,negative,-0.924822986125946
+2015-01-13,| Ethical questions of investing in pot.,neutral,0.002392219379544258
+2015-01-13,Morning Agenda: S.&P.,neutral,0.026150498539209366
+2015-01-13,Seeks Peace,neutral,0.08138400316238403
+2015-01-16,"Age discrimination is a fact of life for many older applicants, but some find ways around it by pursuing jobs at smaller organizations.",neutral,-0.4253273010253906
+2015-01-16,Older Job Seekers Find Ways to Avoid Age Bias,neutral,-0.17192330956459045
+2015-01-21,Shareholders are facing a quandary in the battle for Family Dollar.,negative,-0.8960427045822144
+2015-01-21,| President Obama sets agenda to help the middle class.,neutral,0.30117368698120117
+2015-01-21,| S.&P.,neutral,0.028978630900382996
+2015-01-21,is nearing costly settlements with the U.S. | Profit at Morgan Stanley disappoints.,negative,-0.9049180746078491
+2015-01-21,Morning Agenda: Dollar Store Predicament,neutral,-0.4071125090122223
+2015-01-21,"The agreements, reached with the S.E.C.",neutral,0.09794875979423523
+2015-01-21,"and the attorneys general of New York and Massachusetts, also require S.&P.",neutral,0.015402376651763916
+2015-01-21,to take a one-year “timeout” from rating certain commercial mortgage investments.,neutral,0.0647558867931366
+2015-01-21,S.&.P.,neutral,0.04147837683558464
+2015-01-21,to Pay Nearly $80 Million to Settle Fraud Cases,neutral,-0.1572331041097641
+2015-01-21,"The Canadian central bank reduced its overnight rate to 0.75 percent from 1 percent, in the first change since 2010.",negative,-0.8856030106544495
+2015-01-21,Canada’s Central Bank Cuts a Key Rate,negative,-0.8263732194900513
+2015-01-26,"Between Western sanctions on Russia and the sliding price of oil, the ratings agency cited narrowing possibilities for its government and companies to service their debt.",negative,-0.547502875328064
+2015-01-26,S.&P.,neutral,0.031057283282279968
+2015-01-26,Cuts Russian Debt One Notch to Junk Level,negative,-0.6051621437072754
+2015-01-27,"Mr. Aschendorf is a founder and principal of APF Properties, a real estate investment company that specializes in Class B office buildings.",neutral,0.03053133189678192
+2015-01-27,A Conversation With Kenneth S. Aschendorf,neutral,0.02711968496441841
+2015-01-30,"The central bank’s move, prompted by the country’s economic weakness, weighed on the ruble.",negative,-0.8162190318107605
+2015-01-30,"Reversing Course, Russia Cuts Interest Rate",negative,-0.8834494352340698
+2015-02-02,"As part of a $1.37 billion settlement, S.&P.",neutral,0.09063077718019485
+2015-02-02,is expected to say it never found evidence of retaliation for cutting the credit rating of the United States.,negative,-0.8519740700721741
+2015-02-02,"Settling Case, S.&P.",neutral,0.111355260014534
+2015-02-02,Backs Off Claims of U.S. ‘Retaliation’,neutral,-0.10033798217773438
+2015-02-02,S.&P.,neutral,0.031057266518473625
+2015-02-02,is backing off claims of government ‘retaliation’ for its decision to cut the credit rating of the U.S. | The E.C.B.,negative,-0.8670006990432739
+2015-02-02,is again considering aiding Greek banks.,neutral,0.07992424815893173
+2015-02-02,| Two judges issue rulings to protect borrowers against financial giants.,neutral,0.1283014565706253
+2015-02-02,| The cement makers Lafarge and Holcim agree to sell assets.,neutral,0.06419283151626587
+2015-02-02,Morning Agenda: S.&P.,neutral,0.026150498539209366
+2015-02-02,Walks Back ‘Retaliation’ Claims,negative,-0.5733191967010498
+2015-02-03,An overflow crowd of government regulators spent a day last month ticking off their demands before eventually negotiating a $1.37 billion settlement of an array of lawsuits against S.&P.,positive,0.018126100301742554
+2015-02-03,A Heated Path Toward S.&P.’s Legal Settlement With Prosecutors,neutral,0.20942865312099457
+2015-02-03,"S.&.P.’s settlement ends a heated, two-year fight with regulators.",positive,0.3825640082359314
+2015-02-03,| President Obama’s corporate tax reform irks the business world.,negative,-0.8541153073310852
+2015-02-03,| Slump in oil prices brings pressure.,negative,-0.9191151857376099
+2015-02-03,| Ally chief steps down.,negative,-0.659338116645813
+2015-02-03,Morning Agenda: The Road to S.&P.’s Settlement,neutral,0.05825664848089218
+2015-02-03,Attorney General Eric H. Holder Jr. announced that the agency will pay $1.37 billion to settle an array of government lawsuits that accused S.&P.,neutral,0.36904218792915344
+2015-02-03,of inflating subprime mortgage investment ratings.,neutral,-0.06568799912929535
+2015-02-03,Holder on S.&P.’s Settlement,neutral,0.01641334779560566
+2015-02-04,"In the wake of the financial crisis, when rating agencies were blamed for feeding a subprime mortgage frenzy, Congress used the Dodd-Frank Act to adopt a battery of changes for the rating industry.",neutral,0.07486264407634735
+2015-02-04,S.&P.,neutral,0.031057283282279968
+2015-02-04,Settlement Leaves Future Unclear for Ratings,negative,-0.4628513753414154
+2015-02-04,S.&P.’s settlement leaves the future unclear for ratings.,negative,-0.6491951942443848
+2015-02-04,| A lesson for deal makers.,neutral,0.215987429022789
+2015-02-04,| Smucker announces it will buy Big Heart Pet Brands.,neutral,0.23864254355430603
+2015-02-04,| Staples and Office Depot are in advanced talks to combine.,neutral,0.14581704139709473
+2015-02-04,Morning Agenda: What S.&P.’s Settlement Means,neutral,0.03100506402552128
+2015-02-24,"At the SuperReturn International conference, executives said that they were returning capital to investors, rather than taking on risky investments.",neutral,0.43967482447624207
+2015-02-24,Private Equity Leaders Focusing on Returning Money to Investors,neutral,0.10165610909461975
+2015-03-05,"A recurring theme in 1,600 pages of transcripts released Wednesday is sweating the small stuff when the global economy was burning.",neutral,-0.04775478318333626
+2015-03-05,The Fed Knew the Economy Was a Disaster in 2009.,negative,-0.8032122850418091
+2015-03-05,Here’s What They Talked About Instead.,neutral,0.027014583349227905
+2015-03-09,Under a previous T.S.A.,neutral,0.018030043691396713
+2015-03-09,"request for proposals, private companies would have been allowed to use social media to determine air passengers’ eligibility.",neutral,0.04265499487519264
+2015-03-09,PreCheck Expansion Plan Raises Privacy Concerns,negative,-0.7359201908111572
+2015-03-12,A closer look at a recent Republican tax proposal that has something for almost everyone — which is both its strength and its weakness.,neutral,0.04741600155830383
+2015-03-12,Marco Rubio’s Puppies-and-Rainbows Tax Plan,neutral,0.05502334237098694
+2015-03-18,The purchase by the private equity unit of Neuberger Berman is a sign that activist investors are gaining broader acceptance.,positive,0.8643035292625427
+2015-03-18,Investment Firm Buys Stake in Activist Hedge Fund Jana Partners,neutral,0.10797829180955887
+2015-04-07,"Judge Jed S. Rakoff, who has been critical of the agency, issued a ruling that signals insider trading cases may not be hamstrung by new limitations.",neutral,0.08812345564365387
+2015-04-07,S.E.C.,neutral,0.030168529599905014
+2015-04-07,Gains Support From an Unexpected Quarter,positive,0.3029787540435791
+2015-04-10,"The tool, with a few tweaks, could allow Beijing to spy on anyone making a request through a Chinese server.",neutral,-0.04701519012451172
+2015-04-10,Daily Report: China Is Said to Use Powerful New Weapon to Censor Internet,neutral,-0.24150869250297546
+2015-04-10,JPMorgan Chase and Centerview Partners are in line to claim both large fees and great prestige in helping General Electric navigate its divestiture.,positive,0.7835619449615479
+2015-04-10,Longtime G.E.,neutral,0.07896066457033157
+2015-04-10,Advisers Tapped Again for Plum Assignment,neutral,-0.04105304181575775
+2015-04-21,"Employers’ bargaining power and practices, and the forces of automation and globalization — a double whammy — are sending salaries sinking.",negative,-0.8450886011123657
+2015-04-21,Why American Workers Without Much Education Are Being Hammered,negative,-0.622902512550354
+2015-04-24,Mr. Rosenstein says Laurence Fink wasn’t after all activist investors in his open letter to C.E.O.’s attacking short-term thinking.,neutral,-0.062288764864206314
+2015-04-24,Jana Partners’ Barry Rosenstein Has Different Take on BlackRock C.E.O.’s Missive,neutral,-0.10093789547681808
+2015-04-29,The former Federal Reserve chairman was hired in a similar capacity by the hedge fund Citadel.,neutral,0.025103118270635605
+2015-04-29,Pimco Hires Ben Bernanke as a Senior Adviser,neutral,0.0008366070687770844
+2015-05-03,"No political party has done more for hedge funds and bankers recently than Britain’s Conservatives, and the party in turn has been well rewarded.",positive,0.8479390740394592
+2015-05-03,"Long Before British Vote, Financiers Weigh In",negative,-0.6338697671890259
+2015-05-05,Most hedge funds were poor performers in 2014; only half of the top 10 earners beat the S.&P.,negative,-0.9440423250198364
+2015-05-05,500 — yet the top 25 earned $11.62 billion.,neutral,0.05269872769713402
+2015-05-05,"For Top 25 Hedge Fund Managers, a Difficult 2014 Still Paid Well",negative,-0.7430267333984375
+2015-05-09,"A National Weather Service flood forecaster in Ohio faced federal economic espionage charges, until her case was dropped as abruptly as it had upended her life.",negative,-0.8213925361633301
+2015-05-09,"Accused of Spying for China, Until She Wasn’t",negative,-0.5180906653404236
+2015-05-21,The premium network is to announce its first foray into the TV series competition with the comedy “Graves” and the spy thriller “Berlin Station.”,neutral,0.45835795998573303
+2015-05-21,Epix Joining the World of Scripted TV With Two Original Series,neutral,0.11632020771503448
+2015-05-29,Two vacancies give the regulator a chance to add market expertise.,positive,0.7753817439079285
+2015-05-29,"Critics may gripe about the revolving door, but it pays to know how the financial world works.",neutral,-0.03539416939020157
+2015-05-29,Why the S.E.C.,neutral,-0.15493637323379517
+2015-05-29,Could Use Commissioners With Wall Street Experience,neutral,0.04325883463025093
+2015-06-12,"The hedge fund manager Edward S. Lampert, who controls Sears, is getting about $2.6 billion, but the danger is that the retailer will waste the cash.",negative,-0.8018465042114258
+2015-06-12,REIT Gambit Buys Sears Time but Little Else,neutral,0.06852556765079498
+2015-06-14,"Mr. Carroll, a widely admired newspaper editor, restored the reputation and credibility of The Los Angeles Times in the early 2000s even as he fought bitterly with the paper’s corporate parent.",positive,0.5280802249908447
+2015-06-14,"John Carroll, Editor Who Reinvigorated The Los Angeles Times, Is Dead at 73",neutral,-0.3789861500263214
+2015-06-20,Jana Partners is ready to restructure ConAgra’s board and there may be some appetite for the company’s myriad brands.,positive,0.5846497416496277
+2015-06-20,"With an Activist Investor, ConAgra Is Primed to Be Carved Up",neutral,0.46866488456726074
+2015-07-06,The proposed Securities and Exchange Commission rules could have the unintended result of increasing executive compensation.,positive,0.5808315873146057
+2015-07-06,Threat of Pay ‘Clawbacks’ May Be as Powerful as Recoveries,negative,-0.49113452434539795
+2015-07-27,The deal is expected to strongly complement S&P Capital IQ’s offerings in banking and insurance and expand the analytics and capability of Platts.,positive,0.926986813545227
+2015-07-27,McGraw Hill Financial Buys SNL Financial for $2.2 Billion,neutral,0.12534931302070618
+2015-08-24,A look at the last five times the stock market lost 5 percent in a week.,negative,-0.8529213666915894
+2015-08-24,The Stock Market Loses 5 Percent In a Week: What Happens Next,negative,-0.9252710342407227
+2015-08-27,The S.&P.,neutral,0.019525134935975075
+2015-08-27,500 and the Dow rose strongly and the Nasdaq turned positive for the year as better economic news buoyed trading.,positive,0.8386272192001343
+2015-08-27,World Markets Jump as Investors Seek Signals in the Noise,negative,-0.42185133695602417
+2015-09-09,"Mr. Hallac, the first official employee to be hired by the fledgling asset management firm in 1988, developed its computerized investment platform, Aladdin.",neutral,0.062439195811748505
+2015-09-09,"Charles S. Hallac, Co-President of BlackRock, Dies at 50",neutral,-0.22640365362167358
+2015-09-14,Economic events during formative years might exert an outsize influence on how policy makers see the world.,neutral,-0.08659439533948898
+2015-09-14,That’s an argument for studying history.,neutral,0.046167075634002686
+2015-09-14,Which Fed Leaders Fear Inflation?,neutral,-0.27071428298950195
+2015-09-14,Look at When They Grew Up,neutral,-0.00838363915681839
+2015-09-16,"The Justice Department asked the Supreme Court to review an insider trading case, but an S.E.C.",negative,-0.5820487141609192
+2015-09-16,administrative judge might have undercut its argument.,negative,-0.8846704363822937
+2015-09-16,S.E.C.,neutral,0.030168529599905014
+2015-09-16,Judge May Have Weakened Justice Dept.,negative,-0.8785102963447571
+2015-09-16,Stance in Insider Trading Case,neutral,-0.007733426988124847
+2015-09-25,"In its latest earnings report, the company said it was not giving up on the BlackBerry 10, even as it announced the Android phone.",neutral,0.1144968718290329
+2015-09-25,BlackBerry to Sell Android-Based Smartphone,neutral,0.14923349022865295
+2015-10-08,"After already securing the biggest tech buyout, the computer maker has set its sights on a much bigger target.",positive,0.6683886647224426
+2015-10-08,Dell Is the Straw That Stirs Tech M.&.A.,neutral,-0.11518307030200958
+2015-10-12,Many investment banks and law firms reprised their roles from the 2013 leveraged buyout of Dell.,neutral,0.08931605517864227
+2015-10-12,Legions of Advisers for Dell-EMC Deal,neutral,0.01425244566053152
+2015-10-13,"Because of the planned tracking stock in VMware, the computer maker will be subject to all the disclosure requirements of a public company.",neutral,0.03611161187291145
+2015-10-13,"With EMC Deal, Dell Returns to Public Markets",neutral,0.11191190779209137
+2015-11-05,One reason for the mistrial in the Dewey & LeBoeuf criminal case may have been the requirement for a unanimous decision.,neutral,-0.16980624198913574
+2015-11-05,Dewey Jury’s Deadlock Exposes a System’s Flaws,negative,-0.43195003271102905
+2015-11-11,"The Federal Reserve’s decisions may have inflated the price of financial assets, but Ben Bernanke says they kept a bad financial situation from getting worse.",negative,-0.42084813117980957
+2015-11-11,A Debate With Bernanke Over the Fed’s Easy Money Policies,negative,-0.36942625045776367
+2015-12-17,Cerberus will acquire an 80 percent stake in Avon North America and acquire a 16.6 percent stake in Avon Products.,neutral,0.06372483819723129
+2015-12-17,Avon in Deal to Split Off North American Business,neutral,-0.24041277170181274
+2015-12-22,"With more television networks bypassing cable packages and offering à la carte subscriptions, some predict trouble ahead for ESPN.",negative,-0.9451890587806702
+2015-12-22,"Beyond ‘Star Wars,’ a Dark Force Looms for Disney: Cord-Cutting",neutral,-0.011281564831733704
+2015-12-23,"After big, last-minute investments, the company that finds patterns for spy agencies and business is valued at $20 billion.",neutral,0.039358966052532196
+2015-12-23,"Palantir, a Silicon Valley Start-Up, Raises Another $880 Million",neutral,0.3264507055282593
+2016-01-04,The overturning of a previous conviction in an insider trading case will test the S.E.C.’s efforts in two similar cases.,negative,-0.42371392250061035
+2016-01-04,In Cohen and I.B.M.,neutral,0.036237701773643494
+2016-01-04,"Insider Trading Cases, Challenges for the S.E.C.",neutral,-0.159059077501297
+2016-01-29,C.S.,neutral,0.06850886344909668
+2016-01-29,"Venkatakrishnan, the head of operational risk at JPMorgan, would join the British bank as its chief risk officer in May.",neutral,0.04682852327823639
+2016-01-29,Barclays Hires JPMorgan Chase Veteran as Chief Risk Officer,neutral,0.027511566877365112
+2016-01-30,"Derek F. Foran, a commercial litigator in San Francisco, had never worked on an abortion-related lawsuit, and his involvement has turned into a full-time job.",neutral,-0.28261303901672363
+2016-01-30,Unfamiliar Terrain for Corporate Lawyer in Planned Parenthood Drama,neutral,-0.3628234267234802
+2016-03-15,"A father of game theory, which tries to explain the choices that competitors make in situations that require strategic thinking.",neutral,0.057970624417066574
+2016-03-15,"Lloyd S. Shapley, 92, Nobel Laureate and a Father of Game Theory, Is Dead",neutral,-0.3138238787651062
+2016-04-01,"The company reported quarterly sales of 600,000 phones, a decline of 100,000 from the previous period.",negative,-0.9649533033370972
+2016-04-01,It did not say how many were its Android model.,neutral,-0.010409651324152946
+2016-04-01,BlackBerry Falls Short in Attempt at Android-Based Revival,negative,-0.8057180047035217
+2016-04-12,"Though the bank’s book value has grown, shares trade about 4 percent below their level of five and 10 years ago.",negative,-0.9491568803787231
+2016-04-12,Goldman Should Expect Its Stock to Stay in a Rut,neutral,0.12451528012752533
+2016-04-20,"Amer Sajed joined the British bank from Citigroup in 2006, and he has served as interim chief executive of the credit card business since May 2015.",neutral,0.009673332795500755
+2016-04-20,Barclays Names Permanent C.E.O.,neutral,-0.0035925451666116714
+2016-04-20,for Barclaycard Business,neutral,0.006657272577285767
+2016-04-29,"Ms. Lee, the chief executive of University of Utah Health Care, says she has learned to ignore critics of her consultative decision-making process.",neutral,-0.12310027331113815
+2016-04-29,Vivian Lee: Trust in Your Own Leadership Style,neutral,0.09822233021259308
+2016-04-29,"In acquiring TiVo, Rovi will get access to analytics about viewing habits and add 10 million households to its own 18 million.",positive,0.8260061144828796
+2016-04-29,Rovi Buys TiVo in $1.1 Billion Deal,neutral,0.04224620759487152
+2016-05-26,"If you would like to see who (or what) is tapped into your wireless network, you can take a peek with router utilities and mobile apps.",neutral,-0.0022012442350387573
+2016-05-26,I Spy on My Own Wi-Fi,neutral,-0.05506698787212372
+2016-06-05,"John Kerry is to lead economic talks in Beijing, while legislation in Britain could force tech companies to share encrypted messages with the government.",neutral,-0.16624417901039124
+2016-06-05,Negotiating Tariffs With China as Britain Considers Surveillance Laws,neutral,-0.041644975543022156
+2016-06-06,A recent court decision may present the Justice Department with a substantial hurdle to show that its evidence can support a conviction for wire fraud.,neutral,0.1597553789615631
+2016-06-06,Libor-Rigging at Deutsche Bank May Be Harder to Prove,negative,-0.7663060426712036
+2016-06-06,Mr. Lamb covered the war in Vietnam and later opened a news bureau there; his work as a foreign correspondent led to books on the Arabs and Africans.,neutral,0.04737547039985657
+2016-06-06,"David Lamb, Author and War Correspondent in Vietnam, Dies at 76",neutral,-0.31998002529144287
+2016-07-01,"The moves call into question the future of Williams, where directors had been divided over whether to accept Energy Transfer’s initial approaches a year ago.",negative,-0.7038551568984985
+2016-07-01,Half of Williams’s Board Resigns After Vote to Oust C.E.O.,negative,-0.9273515343666077
+2016-07-01,Falls Short,negative,-0.49335959553718567
+2016-07-15,"Mr. Glaser, the chief of Marsh & McLennan, says the world is full of smart people who love complicating things, so it’s important to simplify.",neutral,0.053459785878658295
+2016-07-15,Daniel S. Glaser: The Challenge of Keeping It Simple,neutral,0.051119908690452576
+2016-07-17,The eclectic comic book publisher plans to team up the Bionic Woman and Wonder Woman in a mini-series and bring back Nancy Drew and the Hardy Boys.,neutral,0.25660017132759094
+2016-07-17,Dynamite Entertainment Taps ’70s TV to Expand Lineup of Comics,positive,0.7094900608062744
+2016-08-02,"Internet-adept rivals like Dollar Shave Club, which Unilever just bought for $1 billion, threaten to steal customers and cut into P.&G.’s margins.",negative,-0.9557027220726013
+2016-08-02,Online Upstarts Pose a Threat to Procter & Gamble,negative,-0.8310533165931702
+2016-08-25,Apple has patched its mobile operating system after investigators found flaws that were exploited to spy on dissidents and journalists.,negative,-0.9366103410720825
+2016-08-25,IPhone Users Urged to Update Software After Security Flaws Are Found,negative,-0.7624319791793823
+2016-08-25,"He weathered the recession by investing Travelers’ insurance premiums in stable vehicles, like fixed-income securities.",neutral,0.26818785071372986
+2016-08-25,"Jay Fishman, Who Led Travelers Safely Through the Financial Crisis, Dies at 63",neutral,-0.06726690381765366
+2016-09-02,"The NSO Group sells expensive surveillance tools for criminal and terrorism inquiries, but critics say they are also used to track journalists and rights activists.",neutral,-0.24786251783370972
+2016-09-02,How Spy Tech Firms Let Governments See Everything on a Smartphone,neutral,-0.01487608253955841
+2016-09-16,An S&P Global study found that companies more often than not underperform their peers after making a large acquisition.,negative,-0.7626399397850037
+2016-09-16,Big Deals Like Bayer’s Often Fail to Deliver High Performance,negative,-0.7468022108078003
+2016-09-28,"BlackBerry, the Canadian company whose name was once synonymous with the smartphone, is exiting the hardware business and will license the brand to an Indonesian group.",neutral,-0.02002405747771263
+2016-09-28,BlackBerry Abandons Its Phone,negative,-0.7537415027618408
+2016-11-12,"About a billion people in the developing world have basic smartphones, and for many of them, it’s their only computer and communication device.",neutral,-0.01770547777414322
+2016-11-12,"Where Cellphones Are Lifelines, Start-Ups Spy Opportunities",neutral,-0.06756187975406647
+2016-12-30,"With its rise as a trading powerhouse, Deutsche got mixed up in some of finance’s riskier, and most penalized, gambits.",negative,-0.8557772636413574
+2016-12-30,Deutsche Bank Flew and Fell.,negative,-0.9078599810600281
+2016-12-30,Some Paid a High Price.,neutral,0.058212168514728546

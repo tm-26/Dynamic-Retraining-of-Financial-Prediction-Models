@@ -1,0 +1,547 @@
+Date,Sentence,Prediction,sentimentScore
+2007-01-03,Younger customers are at the forefront of a boom in air fresheners as companies pour money into advertisements making the products seem cool.,neutral,0.21659252047538757
+2007-01-03,Sensing Opportunity in Dormitory Air,neutral,0.10792200267314911
+2007-01-08,Proctor & Gamble is hoping that a youthful ad campaign can refresh its musty Old Spice brand.,positive,0.8715682029724121
+2007-01-08,Old Spice Tries a Dash of Humor to Draw Young Men,neutral,-0.006707273423671722
+2007-01-12,Employment contracts have been blamed for virtually guaranteeing huge payouts even when an executive fails.,negative,-0.7974504232406616
+2007-01-12,"Hire by the Contract Now, Risk a Big Regret Later",negative,-0.5603632926940918
+2007-01-17,"In a bid to regain the sales lead from its rival Colgate-Palmolive, Procter & Gamble has introduced Crest Pro-Health, which claims to deliver everything a consumer could possibly want in a toothpaste.",positive,0.666657030582428
+2007-01-17,"In a Battle of Toothpastes, It’s Information vs. Emotion",negative,-0.4336736500263214
+2007-01-31,"The companies introduced dozens of new products, and sales in countries like China have increased as consumers’ incomes expand.",positive,0.827102780342102
+2007-01-31,New Products and Demand in Emerging Markets Fatten Profits at P.& G. and Colgate,negative,-0.8877360224723816
+2007-03-13,Procter & Gamble said on Monday it had agreed to sell its European tissue operations to a Swedish hygiene and paper product maker SCA for 512 million euros ($672 million).,neutral,0.12921969592571259
+2007-03-13,"SCA said the acquisition would give it a batch of new brands, including Tempo, the market leader in paper handkerchiefs in western Europe and Hong Kong.",positive,0.8789787292480469
+2007-03-13,Procter & Gamble Disposes of European Tissue Business,neutral,0.00028158538043498993
+2007-03-14,Folgers has opened a new flank in the coffee war: a “stomach friendly” coffee for Americans who think they can no longer handle the hard stuff.,neutral,0.16747206449508667
+2007-03-14,Decaf Being Joined by De-Heartburn,neutral,-0.013128578662872314
+2007-04-12,"For years, Gillette knew how to talk to men and Procter & Gamble knew women.",neutral,0.02381734922528267
+2007-04-12,Now both sides say they have learned from each other’s methods.,positive,0.7279024720191956
+2007-04-12,Procter and Gillette Learn From Each Other’s Marketing Ways,neutral,0.057850830256938934
+2007-05-11,The Motion Picture Association of America said portrayals of smoking would be considered alongside sex and violence in assessing the suitability of movies for young viewers.,neutral,0.13281826674938202
+2007-05-11,Puffing Away That PG Rating,negative,-0.3245241045951843
+2007-07-24,"Procter & Gamble makes a powder that purifies water, which it sells at cost to poverty stricken countries.",neutral,-0.01753026619553566
+2007-07-24,Now it wants to sell that product for a profit in the United States.,neutral,0.0725233405828476
+2007-07-24,A Reverse Profit Strategy Faces a Commercial Test,neutral,-0.020698286592960358
+2007-07-24,"When Procter & Gamble bought Gillette for $57 billion, it picked up a lot more than just razors: The deal gave it Duracell batteries and Braun, whose products include coffeemakers and blenders.",neutral,0.3461832106113434
+2007-07-24,"Less than two years later, Wall Street is wondering whether it may be time for P&G, a giant of the consumer products business, to tidy up a bit.",neutral,0.061649203300476074
+2007-07-24,Should Procter & Gamble Clean House?,neutral,0.07898429036140442
+2007-07-28,Some American Express card members have raised questions about one of the five finalists in a contest to select a philanthropic idea that will win up to $5 million.,neutral,-0.12913915514945984
+2007-07-28,P.& G. Link in Amex Contest Raises Questions of Fairness,neutral,-0.29558682441711426
+2007-08-03,Unilever is preparing to reduce its work force 11 percent over the next four years to speed up a recovery program aimed at narrowing the gap with Procter & Gamble.,negative,-0.9492630362510681
+2007-08-03,"Unilever to Cut 20,000 Jobs",negative,-0.9363539814949036
+2007-09-19,Procter & Gamble was ordered Tuesday to stop advertising that its Vicks foaming sanitizer for hands prevents the spread of viruses that cause colds.,negative,-0.7815800905227661
+2007-09-19,F.D.A.,neutral,0.04497655853629112
+2007-09-19,Warns Procter on Hand Sanitizer Advertising,neutral,-0.35723447799682617
+2007-10-03,"Procter & Gamble has hired the Blackstone Group to explore a sale of its Duracell batteries, Pringles chips and Folgers and Millstone coffee businesses, The Financial Times reported.",neutral,0.08363436162471771
+2007-10-03,Procter & Gamble Said to Hire Blackstone for Asset Sales,neutral,0.0513116680085659
+2007-10-04,"Goodwin Procter has poached Wilson Sonsini Goodrich & Rosati‘s venture fund formation group for its nascent Palo Alto, Calif., office.",negative,-0.529935359954834
+2007-10-04,Goodwin Procter Recruits Venture-Fund Group,neutral,0.04472189396619797
+2007-10-15,"The consumer products giant has created “Crescent Heights,” a new online soap opera that aims to reach young viewers where they watch most — their PCs and cellphones.",neutral,0.13242456316947937
+2007-10-15,"P.&G., the Pioneer of Mixing Soap and Drama, Adds a Web Installment",neutral,0.0679331049323082
+2007-10-22,Webdenda.,neutral,0.004875680431723595
+2007-10-22,People and Accounts of Note,neutral,0.0014222487807273865
+2007-11-09,"In contrast to global giants like Procter & Gamble and General Electric, Citigroup lacks a bench of seasoned leaders ready to take over the company.",neutral,-0.18434807658195496
+2007-11-09,Next Chief at Citigroup Likely to Be an Outsider,neutral,-0.06597473472356796
+2007-11-10,"With water systems aging and environmentalists attacking bottled water for defiling the planet with plastic, its a great time to be selling water filters and reusable bottles.",neutral,0.04341396689414978
+2007-11-10,Two Growing Markets That Start at Your Tap,neutral,0.1024080142378807
+2007-11-19,"NBC Universal and Procter & Gamble have set up a Web portal that looks something like a Yahoo or AOL for pet owners, with a bit of Facebook and MySpace thrown in.",neutral,0.03231383115053177
+2007-11-19,"A Web Site for Pet Lovers, and Marketers Who Love Them",neutral,0.00935293547809124
+2007-12-19,"With the increasing interest among marketers in embedding brands in entertainment programming, a viral campaign is arriving that spoofs the concept — while at the same time playing up the product.",neutral,-0.25747913122177124
+2007-12-19,"Laugh at the Web Clips, Then Buy the Gel",neutral,-0.008056331425905228
+2008-01-11,"Tide, the biggest detergent brand in America — sold by the biggest advertiser in America — will appear for the first time on the biggest day for advertising in America.",positive,0.5894312858581543
+2008-01-11,Tide to Make Its Super Bowl Debut,neutral,0.15491648018360138
+2008-02-07,Two Chinese companies and an American importer were indicted  on charges of intentionally defrauding American manufacturers about poisonous ingredients used in pet food.,negative,-0.8919546008110046
+2008-02-07,Pet Food Indictments for 3 Firms,negative,-0.7741168737411499
+2008-02-21,"Procter & Gamble is launching a major ad campaign for the Gillette Venus Embrace, the first five-blade razor for women.",neutral,0.28877541422843933
+2008-02-21,Embracing Women’s Inner Goddess,neutral,0.20194153487682343
+2008-02-28,"The chairwoman of the Federal Trade Commission is expected to resign her post next month, according to people briefed on her plans.",negative,-0.6948792338371277
+2008-02-28,Top F.T.C.,neutral,0.04686696454882622
+2008-02-28,Official Expected to Resign,neutral,-0.03827580809593201
+2008-02-28,"The chairwoman of the Federal Trade Commission is expected to resign her post next month to take a senior position at Procter & Gamble, according to press reports.",negative,-0.6725525259971619
+2008-02-28,Top F.T.C.,neutral,0.04686696454882622
+2008-02-28,Official Expected to Resign,neutral,-0.03827580809593201
+2008-03-24,Webdenda.,neutral,0.004875680431723595
+2008-03-24,People and Accounts of Note,neutral,0.0014222487807273865
+2008-04-07,The campaign is indicative of efforts by mainstream marketers to alter their media mixes as consumers change their media habits.,neutral,0.14401419460773468
+2008-04-07,BMW Turns to the Web for Its 1-Series,neutral,0.004338942468166351
+2008-05-10,"The importance of brand in sales raises the question of the market’s future stability as sales of perfume, a product that has few cultural roots in China, have recently risen exponentially.",positive,0.8035639524459839
+2008-05-10,Fragrance Market Is Establishing a Foothold in China,positive,0.6689748764038086
+2008-05-24,"In a recent conversation, A.G. Lafley, the chief executive of Procter & Gamble, elaborated on his views about innovation — and on why a chief executive would become an author.",neutral,0.043239742517471313
+2008-05-24,Changing the Game With Innovations,neutral,0.038714244961738586
+2008-06-04,J.M.,neutral,0.05378586798906326
+2008-06-04,"Smucker Company said Wednesday it would buy the Folgers coffee business from Procter & Gamble in a stock deal it valued at about $3.3 billion, including the assumption of about $350 million of Folgers debt.",neutral,0.09828254580497742
+2008-06-04,Smucker Shines to Folgers’ Crystals,neutral,0.22288474440574646
+2008-06-05,The maker of jams and jellies announced agreed to buy the Folgers unit from Procter & Gamble for $2.95 billion in stock.,neutral,0.1280006468296051
+2008-06-05,Smucker to Pay $3 Billion for Folgers Coffee,neutral,0.021557971835136414
+2008-07-07,"Procter & Gamble, the consumer goods giant, is part of a wave of companies getting into the music business to promote their own products.",neutral,0.22565951943397522
+2008-07-07,It’s American Brandstand: Marketers Underwrite Performers,neutral,0.03050844371318817
+2008-07-13,Social scientists have learned that there is power in tying certain behaviors to habitual cues through relentless advertising.,neutral,0.19502311944961548
+2008-07-13,Warning: Habits May Be Good for You,neutral,-0.030185483396053314
+2008-08-29,"British regulators are investigating potential antitrust violations involving an unnamed Procter & Gamble subsidiary, the consumer products company said Thursday in a Securities and Exchange Commission filing.",negative,-0.9211432337760925
+2008-08-29,Procter & Gamble Discloses E.U.,neutral,-0.07396730780601501
+2008-08-29,Antitrust Probes,neutral,-0.4413907825946808
+2008-09-04,"Procter & Gamble announced Wednesday that it has snapped up Nioxin Research Laboratories, a maker of products to help combat thinning hair.",negative,-0.5339145660400391
+2008-09-04,Procter & Gamble Buys Maker of Thinning-Hair Products,neutral,0.06273536384105682
+2008-09-16,Amgen’s experimental bone drug reduced the risk of spinal fractures in women with osteoporosis by 68 percent in a pivotal clinical trial.,positive,0.6382471919059753
+2008-09-16,Good Results for Bone Drug Buoy Amgen,positive,0.9094280004501343
+2008-09-19,Folgers is trying to lure customers with an approach to roasting that it calls “the biggest innovation since the launch of decaf.,neutral,0.36108431220054626
+2008-09-19,Folgers Markets a New Coffee to Cost-Cutting Home Brewers,neutral,0.4794471859931946
+2008-10-09,A partnership between Ann Taylor Loft and Procter & Gamble is turning stores into launching pads for two new products that claim to cut down on dry cleaning bills by helping clothes look newer longer.,positive,0.6807671785354614
+2008-10-09,A Way to Save and Still Have Crisp Clothes,neutral,0.2617112398147583
+2008-11-08,The United States Patent and Trademark Office upheld Procter & Gamble’s patent used for a Folgers-brand plastic coffee container.,negative,-0.6991400718688965
+2008-11-08,Patent Office Backs P.&G.,negative,-0.4770587682723999
+2008-11-08,in Infringement Case,negative,-0.5308231711387634
+2008-12-13,Web advertising experts see a myriad of difficulties in making brand advertising work on social networking sites.,negative,-0.6396631598472595
+2008-12-13,Advertisers Face Hurdles on Social Networking Sites,negative,-0.7888225317001343
+2009-02-18,"The billionaire Warren E. Buffett’s Berkshire Hathaway  reduced stakes in the health care company Johnson & Johnson and the consumer products company Procter & Gamble, as he found high-yielding investments elsewhere, and suffered big paper losses by holding onto investments in big United States financial companies.",negative,-0.9448204040527344
+2009-02-18,"Buffett Shuffles Portfolio, Holding Firm on Financials",neutral,-0.12000979483127594
+2009-03-19,"Ads for tampon brands have grown less oblique in recent years, and a new campaign for Tampax uses candor and even humor.",negative,-0.46996721625328064
+2009-03-19,A Campaign That Erases a Layer of Euphemisms,neutral,0.015272624790668488
+2009-04-01,"The Procter & Gamble Company has sold its ethnic hair-care products unit, Johnson Products, to a group of investors, including a husband-and-wife team of industry veterans.",neutral,0.06394341588020325
+2009-04-01,Investors Buy Johnson Products from P&G,neutral,0.010859496891498566
+2009-04-27,Q: (Reader).,neutral,-0.002631932497024536
+2009-04-27,Q & A with Stuart Elliott,neutral,0.022084038704633713
+2009-05-04,"The proposed tax overhaul, aimed at benefits enjoyed by those harboring cash in offshore accounts, could help raise $210 billion, the administration estimates.",positive,0.8310427665710449
+2009-05-04,Obama Calls for Curbs on Offshore Tax Havens,neutral,-0.3028513491153717
+2009-06-02,The reluctance of consumers to spend has left even the savviest marketers scrambling to reconsider their strategies.,negative,-0.9090319275856018
+2009-06-02,Trying to Pitch Products to the Savers,neutral,0.015014279633760452
+2009-06-17,"Macy’s, General Mills, and Procter & Gamble are among companies with 2009 ad campaigns recalling aspects of the ’60s.",neutral,0.04505927115678787
+2009-06-17,"Kickin’ Down Madison Ave., Feelin’ Groovy",neutral,0.08217909187078476
+2009-06-29,Accounts.,neutral,0.022526929154992104
+2009-06-29,"Accounts, People & Miscellany",neutral,0.0048941802233457565
+2009-07-13,Q & A with Stuart Elliott.,neutral,-0.0018088538199663162
+2009-07-13,Q & A with Stuart Elliott,neutral,0.022084038704633713
+2009-07-14,"Shiseido and Estee Lauder may be possible acquisition targets if Procter & Gamble wants to add more beauty products and increase penetration in emerging markets, a Sanford C. Bernstein analyst predicted.",positive,0.8474302291870117
+2009-07-14,Procter & Gamble May Hunt for Beauty Company,neutral,0.013668127357959747
+2009-07-23,A technology convention may not be the natural venue to introduce a cleaning product.,neutral,-0.042143501341342926
+2009-07-23,"But in an effort to harness the viral marketing of social media, Procter & Gamble is sponsoring an event before the BlogHer 2009 conference in Chicago to roll out a new product.",neutral,0.4126124382019043
+2009-07-23,"Harnessing Bloggers, Any Way They Can",neutral,0.11721795052289963
+2009-07-24,"One of its biggest headaches — Chrysler — is over, but it lost some of its 51 percent stake in GMAC in the government bailout.",negative,-0.9307624697685242
+2009-07-24,Past Missteps Haunt Cerberus,negative,-0.5388795137405396
+2009-07-27,Procter & Gamble sponsored a “pampering party” before the BlogHer 2009 conference in Chicago to present its updated cleaning mop.,neutral,0.08489789068698883
+2009-07-27,Getting Bloggers to Pay Heed to a Floor Mop,neutral,-0.2928268015384674
+2009-08-14,"As commentary on cable news reaches a rhetorical boiling point, advertisers may become more skittish about being near it.",negative,-0.910260021686554
+2009-08-14,Host Loses Some Sponsors After an Obama Remark,negative,-0.8584709167480469
+2009-08-16,"Old Spice is pushing the notion “Residue Is Evil,” with bizarre ads to persuade men to use its new Ever Clear deodorant line.",negative,-0.569165825843811
+2009-08-16,Bold Imagery to Play on a New Insecurity: Deodorant Aesthetics,neutral,0.362690806388855
+2009-08-17,"If there are 50 ways to leave your lover, as Paul Simon once suggested, a brand of snack chips wants to double the ante.",neutral,0.092784583568573
+2009-08-17,How Do I Pop Thee?,neutral,-0.04187888652086258
+2009-08-17,Let Me Count the Ways,neutral,-0.044270046055316925
+2009-08-24,"Warner Chilcott has agreed to buy Procter & Gamble’s prescription drug business, people briefed on the matter told DealBook on Sunday.",neutral,0.43678125739097595
+2009-08-24,Warner Chilcott to Buy Procter & Gamble Unit,neutral,0.022809330374002457
+2009-08-24,A deal to sell Procter & Gamble’s prescription drug business to Warner Chilcott for $3 billion may be announced as early as Monday.,neutral,0.03434674069285393
+2009-08-24,Deal Said to Be Reached for Drug Unit,neutral,0.08539040386676788
+2009-08-24,"Procter & Gamble said Monday that it agreed to sell its pharmaceuticals unit to Warner Chilcott for $3.1 billion in cash, as P&G seeks to focus on its consumer health and personal care businesses.",neutral,0.14196448028087616
+2009-08-24,P&G Sells Drug Unit for $3.1 Billion,neutral,0.0098959906026721
+2009-08-24,"Warner Chilcott has agreed to buy Procter & Gamble’s prescription drug business, a move that could more than double its revenue.",positive,0.8497878313064575
+2009-08-24,"With Sale, P.& G. Exits Global Drug Business",neutral,0.00047057680785655975
+2009-08-25,"With Warner Chilcott’s $3.1 billion deal to buy Procter & Gamble’s drug business, JPMorgan’s former private equity arm is minting cash.",neutral,0.2268577516078949
+2009-08-25,"It’s understandable if the bank’s shareholders felt a twinge of remorse, Breakingviews writes.",negative,-0.5500287413597107
+2009-08-25,But they have a bonanza of fees to salve the pain.,neutral,-0.0775052160024643
+2009-08-25,JPMorgan Shareholders Should Be Comforted by Fees,neutral,0.3251516819000244
+2009-09-11,Investors pushed stocks up on Wall Street on Thursday after a drop in weekly unemployment claims and an upbeat forecast from Procter & Gamble.,positive,0.7405998706817627
+2009-09-11,U.S. Stocks Rise After Jobs Report,positive,0.05635926127433777
+2009-09-16,Companies struggle to look environmentally friendly while keeping their “secret sauces” away from competitors.,negative,-0.6151255369186401
+2009-09-16,Fight Grows Over Labels on Household Cleaners,negative,-0.9065126776695251
+2009-09-25,"Ads about cleaning up birds after oil spills bring scrutiny of Procter & Gamble’s ambivalence toward animals, mixing environmentalism with animal testing.",negative,-0.8423780202865601
+2009-09-25,"Tough on Crude Oil, Soft on Ducklings",neutral,-0.042375314980745316
+2009-09-29,"After apologizing for her angry language, a tennis star kept old endorsements, and new ads will appear as planned.",neutral,-0.016013145446777344
+2009-09-29,Serena Williams’s Ad Deals Survive Her Outburst on Court,negative,-0.514522135257721
+2009-09-29,A flurry of mergers in the last month suggest that corporate America may have a more optimistic outlook on the economy than some people thought.,neutral,0.3236686587333679
+2009-09-29,Big Merger Deals Signal Restored Confidence,positive,0.36335551738739014
+2009-10-23,"Procter & Gamble is in talks to buy part of Sara Lee’s international household products unit, sources told Bloomberg News.",neutral,0.04643239453434944
+2009-10-23,P.&G.,neutral,0.03712895140051842
+2009-10-23,Said to Seek Sara Lee Air-Care Unit,neutral,0.017220135778188705
+2009-11-20,"Procter & Gamble does not see acquisitions as a core part of its growth plan and has started to buy back shares again, the consumer products conglomerate’s chief financial officer said on Friday.",neutral,0.18488195538520813
+2009-11-20,P.&G.,neutral,0.03712895140051842
+2009-11-20,"May Slow Down Deal-Making, Financial Chief Says",negative,-0.9398625493049622
+2009-12-11,"Food maker Sara Lee says consumer products giant Procter & Gamble is buying its air care business, Ambi Pur, for $320 million euros, or $470 million.",neutral,0.3811913728713989
+2009-12-11,Sara Lee to Sell Air Care Unit to P.&G.,neutral,-0.0010395720601081848
+2009-12-12,"With new leadership, the consumer products giant wants to start winning over new customers in places like Nigeria, India and Somalia.",positive,0.8849232196807861
+2009-12-12,P.& G. Sees the World as Its Client,neutral,0.040694620460271835
+2010-01-08,"Procter and Gamble’s new ads for Tide, the best-selling detergent in America, grew out of research gathered when the economy started to nosedive.",neutral,0.11530224978923798
+2010-01-08,A Campaign Linking Clean Clothes With Stylish Living,neutral,0.13750414550304413
+2010-02-03,A company called Method is taking a quirky stance as it tries to compete with detergent giants like Procter & Gamble.,negative,-0.6501918435096741
+2010-02-03,A Clean Break With Staid Detergent Ads,neutral,0.4105897545814514
+2010-02-15,"Swiffer hopes Cesar Millan, from “Dog Whisperer,” can persuade pet owners to replace mops and brooms with its cleaning products.",positive,0.5798932909965515
+2010-02-15,Teaching Pet-Friendly Homes New Cleaning Tricks,neutral,0.10335977375507355
+2010-02-16,"Warren E. Buffett’s company, Berkshire Hathaway, sold a fair portion of its stakes in Johnson & Johnson and Proctor & Gamble late last year in order to help pay for its acquisition of Burlington Northern Santa Fe.",neutral,0.03224176540970802
+2010-02-16,What Buffett Sold to Pay for His Railroad,neutral,0.062238361686468124
+2010-03-03,"CauseWorld combines the trends of mobile, location, shopping, virtual goods and bite-size philanthropy.",neutral,0.04713040217757225
+2010-03-03,An App for Donating Money While You Shop,neutral,-0.015787195414304733
+2010-03-04,"From mainstream companies to others that are more off-putting, advertisers on Facebook are a motley bunch.",negative,-0.48702263832092285
+2010-03-04,Ads Posted on Facebook Strike Some as Off-Key,negative,-0.894733190536499
+2010-03-15,The consumer products giant Procter & Gamble is bringing a sustainability initiative to the United States that takes a different tack from those introduced by competitors like Clorox and S.C. Johnson.,neutral,0.33328625559806824
+2010-03-15,Procter Goes Greener With ‘Friendly’ Persuasion,neutral,0.10447388887405396
+2010-04-08,"Clayton, Dubilier & Rice, the New York-based private firm, has added another high-profile former chief executive to its roster: A. G. Lafley, the former chief of Procter & Gamble.",neutral,0.08067303150892258
+2010-04-08,"Former P&G Chief Joins Clayton, Dubilier & Rice",neutral,0.003272516652941704
+2010-04-14,"Hangers Cleaners, an environmentally safe dry cleaner in Kansas City, Mo., goes toe-to-toe with an industry giant’s new service.",positive,0.8440443277359009
+2010-04-14,A Local Dry Cleaner Tries to Compete Against P.&G.,negative,-0.14211955666542053
+2010-04-14,Joe Runyon thought he could freshen up the dry cleaning industry — and then Procter & Gamble started testing Tide Dry Cleaners right down the street.,neutral,0.3635691702365875
+2010-04-14,Is Hangers Cleaners Taking the Right Steps?,positive,0.46393391489982605
+2010-04-19,"If razors get any more blades, they will be hard to maneuver.",negative,-0.7351886630058289
+2010-04-19,So Schick is focusing on making the shave ever smoother.,neutral,0.1282452642917633
+2010-04-19,"New Razors Place Focus on Comfort, Not Blade Count",neutral,0.04150533676147461
+2010-04-20,"It is no accident that advertisements for Stanley Steemer, Hoover and similar brands seem to be in heavy rotation during spring-cleaning season.",neutral,-0.04414373263716698
+2010-04-20,In the Mood to Clean?,neutral,-0.11250780522823334
+2010-04-20,They Know,neutral,0.006997153162956238
+2010-04-21,Oprah Winfrey’s new cable network signs its first major deal with an advertiser — Procter & Gamble.,positive,0.8290119171142578
+2010-04-21,Winfrey’s Channel Gets First Major Advertiser,positive,0.5936194658279419
+2010-05-06,"Procter & Gamble, the nation’s largest advertiser, is resuming a campaign honoring mothers, which the company described as among its most popular and successful.",neutral,0.25854218006134033
+2010-05-06,"Procter & Gamble Says ‘Hello, Mother’ As It Resumes a Campaign",neutral,0.12382256984710693
+2010-05-17,"Berkshire Hathaway, controlled by the billionaire investor Warren E. Buffett, says it cut its holdings in a dozen companies in the first quarter, including Kraft Foods and Procter & Gamble.",negative,-0.9623481631278992
+2010-05-17,Buffett Cuts Holdings in Kraft and P.&G.,negative,-0.909271240234375
+2010-06-23,"Pampers, the Procter & Gamble brand, said it recognized the expanding role of fathers in parenting.",positive,0.6389246582984924
+2010-06-23,Getting Dad to Do Diaper (Buying) Duty,neutral,0.03964300453662872
+2010-06-28,"In its new campaign, the paper towel that once was “the quicker picker upper” emphasizes value.",neutral,0.11140936613082886
+2010-06-28,Bounty Now Promises a Competent Clean,neutral,0.10642104595899582
+2010-07-01,"Aware that consumers often say they want healthy snacks but choose fatty ones, Pringles said it did extensive sampling on its new product.",neutral,0.07084567844867706
+2010-07-01,The Chip That Stacks Adds a Multigrain Twist,neutral,-0.000675838440656662
+2010-07-08,"McNeil Consumer Healthcare, a unit of Johnson & Johnson, expanded a recall of Tylenol, Motrin and Benadryl, but did not follow a customary practice.",neutral,-0.1517462432384491
+2010-07-08,Pill Maker Declines to Specify Size of a Recall,neutral,-0.4201682209968567
+2010-07-15,"Using creative videos, Old Spice aggressively markets to women shower gel made for men.",neutral,0.0981396958231926
+2010-07-15,But will real men abandon bar soap for body wash?,neutral,-0.08684965968132019
+2010-07-15,Old Spice Argues That Real Men Smell Good,neutral,0.007087722420692444
+2010-07-26,The manufacturer warned consumers about Iams Veterinary Formula Feline Renal dry cat food in 5.5-pound bags.,negative,-0.7742800712585449
+2010-07-26,Prescription Cat Food Recalled Over Fears About Salmonella,negative,-0.9244637489318848
+2010-08-02,"Federal reports will include unemployment for July, and companies reporting quarterly earnings will include Humana and Procter & Gamble.",neutral,-0.009440848603844643
+2010-08-02,Economic Reports This Week,neutral,-0.17925965785980225
+2010-08-09,A Procter & Gamble laundry detergent updates its message.,neutral,0.18711650371551514
+2010-08-09,Q. and A.,neutral,0.0380171574652195
+2010-08-09,With Stuart Elliott,neutral,0.02111242711544037
+2010-09-03,A Febreze air freshener marketing campaign is directed at women and aims in part to debunk the gender stereotype that women are not N.F.L.,neutral,0.12484290450811386
+2010-09-03,fans.,neutral,0.05897917225956917
+2010-09-03,"N.F.L.’s Official Air Freshener Aims at Female Fans, and the Cleanup",neutral,0.06616725027561188
+2010-09-20,The public will get a say in adding a number of categories to the People’s Choice Awards.,neutral,0.1034131646156311
+2010-09-20,People’s Choice Awards Will Give More Choices,neutral,0.08516167104244232
+2010-09-21,The Jennie-O Turkey Store unit of the Hormel Foods Corporation is starting a campaign that carries the theme “Make the switch.”,neutral,0.057935312390327454
+2010-09-21,Turkey ‘Pops Up’ on a Day Other Than Thanksgiving,neutral,-0.11936333775520325
+2010-10-11,Two nearly forgotten brands — Sure and Pert Plus — get their first new advertising campaigns in years to see if they can be made relevant to younger consumers.,positive,0.6953871846199036
+2010-10-11,‘Ghost’ Brands Come Alive With New Ads,neutral,0.19477716088294983
+2010-10-25,"Reports will include existing home sales for September and corporate results from Ford, Procter & Gamble, Microsoft and Exxon Mobil.",neutral,0.0424601212143898
+2010-10-25,Looking Ahead: Economic Reports This Week,neutral,-0.09844644367694855
+2010-11-18,"The consumer-goods giant Procter & Gamble, long associated with women’s products, is pitching to men with new ads for its Art of Shaving brand.",neutral,0.3446216285228729
+2010-11-18,"A Lucky Few, This Band of Brothers, and the Less Blood Shed the Better",positive,0.43590018153190613
+2010-12-01,A little-noticed filing shows that Durk Jager has resigned from the board of the fruit company with a scathing email.,negative,-0.9022671580314636
+2010-12-01,Not a Happy Split From Chiquita,negative,-0.38580819964408875
+2010-12-08,"Tide Dry Cleaners is a new chain of franchises, and a way for Procter & Gamble to expand the Tide brand name.",positive,0.8126367330551147
+2010-12-08,Smelling an Opportunity,neutral,0.05178023874759674
+2010-12-10,"Tor Myhren’s promotion is the first time Grey New York will be led by its chief creative officer, a position he will keep.",neutral,0.13067197799682617
+2010-12-10,Grey New York to Be Led by Its Chief Creative Officer,neutral,0.02823793515563011
+2010-12-10,Can a sense of humor help one small-business owner compete with Procter & Gamble?,positive,0.46007174253463745
+2010-12-10,How One Dry Cleaner Competes With Tide,neutral,0.07475492358207703
+2011-01-05,Procter & Gamble seeks to burnish its corporate image by expanding a campaign declaring the company to be a “proud sponsor of moms.”,positive,0.7285551428794861
+2011-01-05,Procter & Gamble Expands Its ‘Moms’ Campaign,neutral,0.4161718189716339
+2011-01-12,"Omnicom, the second largest Madison Avenue holding company, hopes that acquiring Nancy Bailey & Associates will strengthen its brand and corporate licensing stable.",positive,0.9196873903274536
+2011-01-12,Omnicom Adds to Its Repertoire in Brand Licensing,neutral,0.3470585346221924
+2011-01-13,"After learning that men often turned to women’s Web sites for advice on recipes and relationships, P.& G. started the Web site ManoftheHouse.com.",neutral,0.04737873002886772
+2011-01-13,As the Web Turns,neutral,0.024563618004322052
+2011-03-02,"The Securities and Exchange Commission has filed charges against Rajat Gupta, a prominent business executive, accusing him of passing illegal tips to Raj Rajaratnam, the indicted hedge fund manager.",negative,-0.898139238357544
+2011-03-02,Rajat Gupta Charged With Insider Trading,negative,-0.8572912812232971
+2011-03-04,"Rajat Gupta, who worked at McKinsey for 34 years, was accused by regulators of leaking inside information on Goldman Sachs and Procter & Gamble.",negative,-0.8683005571365356
+2011-03-04,Can McKinsey Keep a Secret?,neutral,-0.03837452828884125
+2011-03-07,"Nearly a week after being accused of insider trading, the former Goldman Sachs and Procter & Gamble director Rajat K. Gupta resigns from the board of American Airlines.",negative,-0.8737176060676575
+2011-03-07,Gupta Resigns From AMR Board,negative,-0.6911905407905579
+2011-03-21,White Collar Watch examines the issues involved as the S.E.C.,neutral,0.005626125261187553
+2011-03-21,seeks to pursue an insider trading case against Rajat K. Gupta before an administrative law judge.,neutral,-0.12255080044269562
+2011-03-21,Behind Galleon Figure’s Court Challenge to S.E.C.,negative,-0.5278787016868591
+2011-03-28,"In the grand tradition of Winston commercials, Gain goes beyond “good” to “good’er.”",neutral,0.29948508739471436
+2011-03-28,Q.,neutral,0.054783470928668976
+2011-03-28,& A.,neutral,0.060080841183662415
+2011-03-28,With Stuart Elliott,neutral,0.02111242711544037
+2011-04-05,"Diamond Foods will merge with Pringles, a unit of Procter & Gamble, in a deal valued at $2.35 billion.",neutral,0.10053029656410217
+2011-04-05,Diamond Foods and Pringles to Merge,neutral,0.01409921981394291
+2011-04-06,"Procter & Gamble’s sale of Pringles, which began as such a dud that some called for the company to dump the brand, concludes a sometimes zany 50-year experiment in engineered food.",neutral,0.02783174067735672
+2011-04-06,"Once a Great Flop, Now Sold for Billions",neutral,-0.32119590044021606
+2011-04-13,European regulators fined the two companies $456 million for being part of a cartel in eight European countries.,negative,-0.8963091969490051
+2011-04-13,Unilever and P.&G.,neutral,0.03123573772609234
+2011-04-13,Fined for Fixing Price of Detergent,negative,-0.805372953414917
+2011-05-13,"A picture in Fortune magazine features the directors of Procter & Gamble, including Rajat K. Gupta — weeks before regulators accused him of leaking insider information to Raj Rajaratnam.",negative,-0.6189298033714294
+2011-05-13,The Photo P.&G.,neutral,0.03938812017440796
+2011-05-13,Probably Wanted to Retouch,neutral,-0.253379225730896
+2011-06-03,"After tornadoes in Missouri and Alabama, Procter & Gamble provided Tide- and Duracell-branded trailers and crews for cleaning clothes and supplying batteries, flashlights and more to stricken areas.",neutral,-0.00556635856628418
+2011-06-03,A Direct Approach to Disaster Relief From Procter & Gamble,neutral,0.10051123797893524
+2011-06-13,The Era brand of detergent uses the image of the actor and martial artist Chuck Norris in a series of tongue-in-cheek spots.,neutral,-0.058647118508815765
+2011-06-13,Is This a New ‘Era’ for Detergent Advertising?,neutral,0.05467261001467705
+2011-06-16,"Rob Zombie, director of undead excess, is helping out with a Woolite campaign.",neutral,0.09019653499126434
+2011-06-16,Chuck Norris is the guiding spirit of a campaign for Era detergent.,neutral,0.04733811691403389
+2011-06-16,Laundry Soaps Try a Hint of Horror and Some Tough-Guy Talk,neutral,-0.12357412278652191
+2011-06-30,Febreze from Procter & Gamble is trying a less predictable and harder-hitting approach to promoting its product in commercials.,neutral,-0.0015946924686431885
+2011-06-30,Diving Into Reeking Squalor to Test an Air Freshener,neutral,-0.050369992852211
+2011-07-11,"Judge Rakoff ruled that Rajat K. Gupta, the former Goldman Sachs and Procter & Gamble director, can proceed with a lawsuit that accuses the Securities and Exchange Commission of violating his constitutional rights.",negative,-0.8061862587928772
+2011-07-11,Rakoff Allows Gupta’s Lawsuit Against S.E.C.,negative,-0.5677957534790039
+2011-07-11,to Proceed,neutral,0.02798246592283249
+2011-08-04,"Instead of an administrative proceeding, the S.E.C.",neutral,-0.02689434215426445
+2011-08-04,can still sue the former director of Goldman Sachs and Procter & Gamble in federal court.,negative,-0.6960713863372803
+2011-08-04,S.E.C.,neutral,0.030168529599905014
+2011-08-04,Drops Proceeding Against Rajat Gupta,negative,-0.447851300239563
+2011-08-06,"The Procter & Gamble Company said Friday that its quarterly profit rose 15 percent as sales gained in emerging markets, and forecast annual revenue that topped some analysts’ estimates.",positive,0.9291195273399353
+2011-08-06,Emerging Markets Lift Results at Procter & Gamble,neutral,-0.0926431268453598
+2011-09-16,The modest sales of cold-water laundry detergents suggest that skeptical consumers are more concerned about getting the clothes clean than being green.,neutral,-0.25456324219703674
+2011-09-16,Cold-Water Detergents Get a Cold Shoulder,neutral,-0.351205438375473
+2011-09-29,"The consumer products company claims that customers will confuse Willa, a fledgling line of skin care products for young girls, with Wella, its hair care line.",negative,-0.8629524111747742
+2011-09-29,A Start-Up Takes On Procter & Gamble Over a Name,neutral,-0.028395134955644608
+2011-10-03,Taking the fight to the court of public opinion can pay off for the smaller company.,neutral,-0.0005098432302474976
+2011-10-03,Defending David Against Goliath,neutral,0.07425589859485626
+2011-10-15,A Connecticut woman will be allowed to name her line of skin care products after her daughter Willa.,neutral,0.10266906768083572
+2011-10-15,Procter & Gamble contended consumers would confuse the brand with its Wella hair care products.,negative,-0.8755439519882202
+2011-10-15,Procter & Gamble Settles Trademark Dispute With Small Company,negative,-0.8066375255584717
+2011-10-24,"The convicted hedge fund billionaire tells Newsweek about his initial interrogation, his connection to P.G.",neutral,-0.10681459307670593
+2011-10-24,Wodehouse and ola leaves.,neutral,-0.043858110904693604
+2011-10-24,Raj Rajaratnam Speaks,neutral,0.06350353360176086
+2011-10-25,"Rajat K. Gupta, a former director of Goldman Sachs and the most prominent executive ensnared in an aggressive insider trading investigation, is expected to surrender to authorities.",negative,-0.6935707330703735
+2011-10-25,U.S. Expected to Charge Executive Tied to Galleon Case,negative,-0.7564164400100708
+2011-10-26,"Rajat K. Gupta was “the illegal eyes and ears in the boardroom” for a friend on Wall Street, Raj Rajaratnam, prosecutors asserted as they filed criminal charges.",negative,-0.6934784054756165
+2011-10-26,"With Gupta’s Arrest, Insider Inquiry Goes Beyond Wall St.",neutral,-0.2812126576900482
+2011-11-08,"One of Procter and Gamble’s oldest and best-known brands gets new packaging, advertising and a Facebook page.",positive,0.526561439037323
+2011-11-08,"Ivory Soap Refreshes Its Ads and Its Look, but Is Resolutely Simple",neutral,0.22973690927028656
+2011-11-21,"Mr. Smale was the chief executive of Procter & Gamble at a time of extraordinary growth, and he later helped lead a shake-up at General Motors.",neutral,0.20092277228832245
+2011-11-21,"John G. Smale, Procter & Gamble Chief, Dies at 84",neutral,-0.16979467868804932
+2011-11-21,"Vicks VapoRub uses Drew Brees, the quarterback of the New Orleans Saints, in a campaign that emphasizes his role as a father.",neutral,-0.04636131227016449
+2011-11-21,How Do VapoRub Ads Spell Relief?,neutral,-0.11513403058052063
+2011-11-21,‘D-A-D’,neutral,-0.0339808315038681
+2011-11-21,"Among those who may be deposed are John H. Bryan, a Goldman director and former chief executive of Sara Lee; Jon Winkelried, a former Goldman co-president; and W. James McNerney Jr., a Procter & Gamble director and Boeing chief executive.",negative,-0.4591771960258484
+2011-11-21,Goldman Executives May Figure Prominently in Gupta Case,neutral,-0.016316905617713928
+2011-11-29,Short-sellers have challenged Diamond Foods’ accounting over a payment for walnuts.,negative,-0.9383357763290405
+2011-11-29,A subsequent drop in the company’s stock has cast a shadow over a deal to acquire Pringles from Procter & Gamble.,negative,-0.956337571144104
+2011-11-29,"At Diamond Foods, Accounting Weighs on Pringles Deal",negative,-0.8239877223968506
+2011-11-30,The company’s $2.4 billion plan to buy Pringles from Procter & Gamble has run into accounting and other issues.,negative,-0.9211323857307434
+2011-11-30,Diamond Foods Makes Odd Moves,neutral,-0.11370717734098434
+2011-11-30,"New advertisements for Pepto-Bismol, the upset stomach remedy, feature feasts, as well as facts about food and an antihunger campaign.",neutral,0.03830818086862564
+2011-11-30,Too Much Holiday Food?,negative,-0.4997539520263672
+2011-11-30,This Campaign’s for You,neutral,0.06355787813663483
+2011-12-16,"A fuel subsidy proposal in the House, if passed, would enrich Nancy Pelosi because of her stake in a “green” firm that stands to benefit.",positive,0.7437515258789062
+2011-12-16,A Congressional Conflict of Interest,negative,-0.7472313046455383
+2011-12-19,"The growth was a “barely palpable” 0.4 percent, Kantar Media reported.",positive,0.5693858861923218
+2011-12-19,"While midsize advertisers increased their spending, the largest companies decided to become very conservative in their spending.",neutral,0.1858479380607605
+2011-12-19,"Ad Spending Slowed to a Crawl in the 3rd Quarter, Report Finds",negative,-0.9580494165420532
+2011-12-21,"The ad, which promoted mascara, was criticized because its photo of the country music star  had been altered to show thicker eyelashes.",negative,-0.9375988841056824
+2011-12-21,CoverGirl Withdraws ‘Enhanced’ Taylor Swift Ad,negative,-0.5501014590263367
+2012-01-06,"Federal prosecutors say they are likely to file a new indictment against Rajat K. Gupta, possibly adding new criminal charges in the insider trading case against the former head of McKinsey & Company.",negative,-0.5210552215576172
+2012-01-06,New Charges Possible in Insider Case Against Gupta,neutral,-0.4094066023826599
+2012-01-13,"The campaign, which carries the theme “Thank you, Mom,” will go global at the Olympics, involving about 30 big Procter brands.",neutral,0.11206554621458054
+2012-01-13,Procter & Gamble to Extend Mother-Centric Campaign at Olympics,positive,0.7702705264091492
+2012-01-30,"Ajit Jain could be a witness in the trial of Rajat K. Gupta, a former director at Goldman Sachs and Procter & Gamble who is charged with leaking information about those companies.",neutral,-0.4006117284297943
+2012-01-30,Insider Jury May Hear From a Top Aide at Berkshire,neutral,-0.025449205189943314
+2012-01-31,"The government contends that Rajat K. Gupta called in to a Goldman Sachs board meeting in 2007 and, minutes later, leaked Raj Rajaratnam secret information about the bank.",negative,-0.8640260100364685
+2012-01-31,Gupta Faces New Charges in Insider Trading Case,negative,-0.8292104601860046
+2012-02-01,A new Procter & Gamble co-branding campaign has an Old Spice pitchman interrupt commercials for Charmin and Bounce products.,neutral,0.05140070617198944
+2012-02-01,A Brand Too Strong to Stay in Its Own Ad,negative,-0.44110092520713806
+2012-02-08,The comments come after Diamond Foods announces it has ousted its top two executives and will restate two years of financial earnings amid questionable accounting practices.,negative,-0.917739748954773
+2012-02-08,P.&G.,neutral,0.03712895140051842
+2012-02-08,Ready to Re-Evaluate Pringles Deal,neutral,0.07126763463020325
+2012-02-09,Why Procter & Gamble appears to have very good grounds to walk away from the sale of Pringles to Diamond Foods.,neutral,0.09468668699264526
+2012-02-09,Diamond Foods Debacle May Crack Open a MAC,negative,-0.6205584406852722
+2012-02-13,"The issue for Diamond Foods is no longer whether the government will find evidence of a violation, but how it will pursue enforcement actions under the range of remedies available.",neutral,-0.06704846024513245
+2012-02-13,Next Steps in Diamond Foods Accounting Inquiry,neutral,0.03619634360074997
+2012-02-15,P.& G. is among the manufacturers trying to deliver distinctive new products that pique the curiosity of tech-conscious consumers.,neutral,0.31027814745903015
+2012-02-15,A Product to Add Sparkle and Pop to Laundry Day,neutral,0.07794680446386337
+2012-02-15,"Procter & Gamble has agreed to sell the chip brand for $2.695 billion to Kellogg, after its deal with Diamond Foods fell apart.",neutral,0.11078818887472153
+2012-02-15,Kellogg to Buy Procter & Gamble’s Pringles Group,neutral,0.03214599937200546
+2012-02-15,Highlights from the DealBook newsletter.,neutral,0.030878622084856033
+2012-02-15,Morning Take-Out,neutral,0.07331109046936035
+2012-02-15,The implosion of Diamond Foods’ $2.4 billion deal for Pringles meant a second opportunity for Kellogg to get its hands on the snack business.,positive,0.6903470158576965
+2012-02-15,Diamond Fiasco Gave Kellogg Second Chance for a Pringles Deal,neutral,-0.0942537933588028
+2012-02-15,The loss of Pringles by Diamond Foods shows how deal makers tend to repeatedly ignore the basic lessons of successful mergers and acquisitions.,negative,-0.7619787454605103
+2012-02-15,The Lessons Learned From Diamond’s Pringles Fiasco,neutral,0.12282413244247437
+2012-02-16,"The $2.7 billion deal with Procter & Gamble will add a prominent brand to Kellogg’s existing snack offerings, helping the company increase its presence in snacks.",positive,0.9191331267356873
+2012-02-16,Kellogg Wins Pringles After Diamond Deal Falls Apart,negative,-0.4549906849861145
+2012-04-16,"Federal prosecutors say that Rajat K. Gupta, a former director at Goldman Sachs and Procter & Gamble, tipped Raj Rajaratnam about Procter & Gamble’s sales forecasts in late 2008.",negative,-0.7056384682655334
+2012-04-16,Ex-Goldman Director Faces New Insider Trading Claim,negative,-0.8872734904289246
+2012-04-17,"Tied to the Summer Olympics, the new campaign is an extension of a celebration of mothers that began with the Vancouver Olympics in 2010.",neutral,0.1850283145904541
+2012-04-17,Mothers Will Get the Glory in P.&G.’s Campaign,neutral,0.23154951632022858
+2012-04-19,"Federal prosecutors in California are investigating whether a Goldman Sachs executive leaked confidential information about two publicly traded companies to Raj Rajaratnam, the convicted former hedge fund manager.",negative,-0.8170804977416992
+2012-04-19,U.S. Investigates a Goldman Executive Over Insider Trading,negative,-0.9067745804786682
+2012-04-21,"In a world with less time for cereal, the Kellogg team in Battle Creek, Mich., is leaping into new snack markets — as reflected in its pending deal for Pringles.",positive,0.6612874269485474
+2012-04-21,When a Sugar High Isn’t Enough,neutral,-0.38135695457458496
+2012-05-01,"Prosecutors are seeking to have three wiretap recordings featuring the convicted hedge fund manager Raj Rajaratnam admitted as evidence at the trial of Rajat Gupta, a former Goldman Sachs board member.",negative,-0.4749119281768799
+2012-05-01,Government Makes Case for Wiretaps Against Gupta,neutral,-0.0121731236577034
+2012-05-10,"In a new Febreze commercial, blindfolded volunteers are asked what a gym smells like as sweaty Azerbaijani wrestlers grapple and lift weights nearby.",neutral,-0.06814654171466827
+2012-05-10,Combating Olympic-Class Odors,neutral,0.05689801275730133
+2012-05-16,Judge Jed S. Rakoff says that he intends to allow the jury in the trial of Rajat Gupta to hear four wiretapped conversations involving Raj Rajaratnam and colleagues of the Galleon Group hedge fund.,neutral,-0.020473241806030273
+2012-05-16,Judge May Permit Wiretaps as Evidence in Insider Case,neutral,-0.2129858136177063
+2012-05-17,"Possible witnesses who could be called to testify — or whose names may come up during the trial — include Lloyd C. Blankfein, Goldman’s chief executive, and A.G. Lafley, the former chief executive of Procter & Gamble.",neutral,-0.05098745971918106
+2012-05-17,The Boldface Names on the Witness List for Gupta’s Trial,neutral,-0.0652184784412384
+2012-05-21,"A freelance beauty consultant, a fourth-grade teacher and a psychiatric nurse are among the 12 New Yorkers who will decide the fate of Rajat K. Gupta, a former director of Goldman Sachs and Procter & Gamble.",neutral,-0.07370462268590927
+2012-05-21,Jury Is Seated in Rajat Gupta Trial,neutral,0.011921882629394531
+2012-05-22,"The trial of Rajat K. Gupta, a former director of Goldman Sachs and Procter & Gamble, began on Monday.",neutral,-0.36214742064476013
+2012-05-22,Mr. Gutpa is accused of leaking boardroom secrets about those two companies to a friend and business associate.,negative,-0.8152554631233215
+2012-05-22,Dueling Portrayals of Former Goldman Director at Insider Trading Trial,negative,-0.561488151550293
+2012-05-24,"The government showed the jury e-mails to suggest that Rajat Gupta, the former director at Goldman Sachs and Procter & Gamble, harbored affection for the hedge fund titan Raj Rajaratnam.",negative,-0.6669811010360718
+2012-05-24,Prosecutors Seek to Show Gupta and Rajaratnam Were Close Friends,negative,-0.5877901911735535
+2012-05-25,"Prosecutors used e-mails and phone calls to suggest that Rajat K. Gupta, a former director at Goldman Sachs and Procter & Gamble, was close friends with Raj Rajaratnam, who was convicted of insider trading last year.",negative,-0.6705965995788574
+2012-05-25,Prosecutors Seek to Show Gupta’s Close Ties to Rajaratnam,neutral,-0.41682782769203186
+2012-05-29,"The testimony of a former trader for the Galleon Group who has pleaded guilty to insider trading took center stage at the trial of Rajat K. Gupta, a former board member of Goldman Sachs and Procter & Gamble who is accused of passing corporate tips.",negative,-0.5564805865287781
+2012-05-29,P.&G.,neutral,0.03712895140051842
+2012-05-29,Takes Center Stage at Gupta Trial,neutral,0.06739705801010132
+2012-05-30,"To discredit prosecution witnesses, lawyers defending Rajat K. Gupta, a former director of Goldman Sachs and Procter & Gamble, sought to portray the Galleon Group hedge fund as a place where traders routinely boasted about their inside connections that did not exist.",negative,-0.8898268938064575
+2012-05-30,Name-Dropping at Gupta Trial,negative,-0.6024668216705322
+2012-06-01,"A private banker’s notes indicate that Rajat K. Gupta’s net worth was $84 million in 2008, the year when prosecutors say he leaked confidential corporate information to Raj Rajaratnam.",neutral,-0.351482093334198
+2012-06-01,Gupta’s Wealth in Spotlight at Trial,neutral,-0.10621484369039536
+2012-06-06,Judge Jed S. Rakoff asked a law student attending the insider trading trial of Rajat K. Gupta to stop sending him letters about the case.,negative,-0.7775492072105408
+2012-06-06,Gupta Trial Judge Reprimands Law Student Spectator,negative,-0.7711017727851868
+2012-06-13,"Closing statements were heard in the trial of Rajat K. Gupta, the highest profile individual to be ensnared by the government’s insider trading crackdown.",negative,-0.49445614218711853
+2012-06-13,"Prosecutors Draw ‘Secret Pipeline’ Pattern; Defense Asks, ‘Where’s the Beef?’",neutral,-0.4182981252670288
+2012-06-14,"In final statements in the trial of the former Goldman director Rajat K. Gupta, prosecutors tried to connect the dots among reams of evidence but defense lawyers said there was no evidence of wrongdoing.",negative,-0.712809145450592
+2012-06-14,Jury Gets Insider Case of Ex-Goldman Director,neutral,-0.005515038967132568
+2012-06-15,"Rajat K. Gupta, the retired head of the consulting firm McKinsey & Company and a former Goldman Sachs board member, is the most prominent executive convicted in the government’s sweeping investigation into insider trading on Wall Street.",negative,-0.5740284323692322
+2012-06-15,Rajat Gupta Convicted of Insider Trading,negative,-0.8152651786804199
+2012-06-19,"Goldman Sachs must continue to pay Mr. Gupta’s bills until the case is completely resolved, a process that could take a couple of years.",neutral,-0.11981981247663498
+2012-06-19,"Goldman Stuck With a Defense Tab, and Awaiting a Payback",neutral,0.016645409166812897
+2012-07-12,"The hedge fund manager confirmed on Thursday that he has taken a big stake in Procter & Gamble, setting up a potential battle between the activist investor and the maker of Tide and Gillette.",neutral,-0.01859627664089203
+2012-07-12,Ackman Takes a Stake in Procter & Gamble,neutral,0.021464506164193153
+2012-07-18,"Directors at Procter & Gamble have backed the consumer products giant’s chief executive, Robert A. McDonald, and his plan to turn around the company, setting up a potential fight with the activist investor William A. Ackman.",negative,-0.7942166328430176
+2012-07-18,Procter & Gamble Board Backs Company’s Chief,neutral,-0.323208749294281
+2012-08-03,"Tide has enlisted Betty White in its campaign to introduce Tide Vivid White and Bright, new names for Tide with Bleach Alternative and Tide with Bleach powder.",positive,0.5208632349967957
+2012-08-03,A Detergent Picks a Star Who Shares Its Name,neutral,0.01201910525560379
+2012-08-28,Companies like Tide and General Motors are preparing for the N.F.L.,neutral,-0.0033218786120414734
+2012-08-28,"season, which may be the most effective advertising delivery system ever invented.",neutral,0.43257468938827515
+2012-08-28,Companies Court 181 Million Viewers for N.F.L.,neutral,0.04195896536111832
+2012-08-28,Season,neutral,0.008123070001602173
+2012-11-16,"Online advertising shifts to follow consumers online, the BBC’s legal woes mount, and how both sides in the conflict over Gaza are using social networks.",neutral,-0.2890593111515045
+2012-11-16,"The Breakfast Meeting: Targeted Ads Reshape Online Media, and Gaza Conflict on the Internet",negative,-0.5091388821601868
+2013-01-16,"Eric Ryan, a founder of the cleaning products maker Method, says that finding a suitor with similar values — in this case, the Belgian company Ecover — was important to the company.",neutral,0.3693167269229889
+2013-01-16,A Soap Maker Sought Compatibility in a Merger Partner,neutral,0.16684427857398987
+2013-01-18,Kraft Foods and Procter & Gamble plan to share part — but not all — of their Super Bowl commercials before the game.,neutral,0.04810166358947754
+2013-01-18,Some Marketers Rethink Super Bowl Ad Previews,neutral,-0.4140533208847046
+2013-02-01,The advertising campaign for Old Spice’s new line emphasizes a subtle smell that still has a sophisticated yet primal appeal.,neutral,0.1884879320859909
+2013-02-01,"A Man, Not a Scent, That Conquers a Room",neutral,0.067024827003479
+2013-02-23,"The hapless, bumbling father is a stock character in product marketing.",negative,-0.44821077585220337
+2013-02-23,The so-called daddy bloggers who attended the recent Dad 2.0 Summit are pushing to change that.,neutral,0.0228421688079834
+2013-02-23,"Don’t Call Him Mom, or an Imbecile",neutral,-0.3496541678905487
+2013-04-01,Retailers and advertising agencies started their April Fool’s campaigns early this year for much the same reason that they front-run Christmas and Super Bowl campaigns: the ability of social media to convey and amplify marketing messages.,neutral,0.05628560483455658
+2013-04-01,Madison Avenue Springs April Fool’s Pranks Early,neutral,-0.2841886281967163
+2013-04-04,"Mathew Martoma, the former SAC Capital Advisors portfolio manager facing insider trading charges, has switched lawyers, replacing Charles A. Stillman with Richard M. Strassberg of Goodwin Procter.",neutral,-0.16004593670368195
+2013-04-04,"Martoma, Former SAC Employee, Changes Lawyers in Insider Case",negative,-0.7930150032043457
+2013-04-19,"A 30-minute documentary that aims to empower African-American women was backed by Procter & Gamble, but the filmmakers maintained creative freedom.",neutral,0.04007298871874809
+2013-04-19,Celebrating Black Beauty and Advocating Diversity,neutral,0.13346737623214722
+2013-04-29,"Procter & Gamble, which acquired Gillette in 2005, is shifting the account — and its hundreds of millions of dollars in advertising — to Grey.",neutral,-0.03618554398417473
+2013-04-29,"After Decades, Gillette and BBDO Ad Agency Part Ways",neutral,0.10694614052772522
+2013-05-07,"A new work by Sebastian Faulks will chronicle the aristocratic Bertie Wooster and his faithful valet, Jeeves, with the approval of the estate of their creator, P.G.",neutral,0.06131527200341225
+2013-05-07,Wodehouse.,neutral,0.01998712122440338
+2013-05-07,"Jeeves Lives, as New Author Picks Up Where Wodehouse Left Off",neutral,0.06699207425117493
+2013-05-08,"William A. Ackman, who has been embroiled in controversy with Herbalife and J.C. Penney, focused on his investment in Procter & Gamble on Wednesday.",neutral,0.01194026879966259
+2013-05-08,"For Ackman, a Day Without Drama",neutral,-0.269817054271698
+2013-05-24,"The hedge fund manager William Ackman had criticized Robert A. McDonald, the chief, for the company’s poor stock performance.",negative,-0.9083124995231628
+2013-05-24,"Abruptly, P.&G.",neutral,-0.028034143149852753
+2013-05-24,Chief Ends Career of 33 Years,neutral,0.004661686718463898
+2013-05-24,"Procter & Gamble said on Thursday that its chief executive, Robert A. McDonald, had resigned.",negative,-0.6855924725532532
+2013-05-24,| Four executives of SAC Capital Advisors have received subpoenas to testify before a grand jury.,neutral,-0.36461248993873596
+2013-05-24,"| In a push to soften financial regulations, bank lobbyists are helping lawmakers draft legislation.",neutral,0.0691412091255188
+2013-05-24,| Congressional concern over SoftBank’s bid for Sprint Nextel is growing.,negative,-0.9011402130126953
+2013-05-24,P.&G.,neutral,0.03712895140051842
+2013-05-24,Chief Is Out,neutral,-0.060250669717788696
+2013-05-24,The departure of Robert McDonald as Procter & Gamble’s chief executive was yet another victory for the hedge fund manager William A. Ackman.,positive,0.6763126850128174
+2013-05-24,But how is the activist investor doing in his other big bets?,neutral,-0.014028839766979218
+2013-05-24,An Ackman Investment Scorecard,neutral,0.06207809969782829
+2013-06-02,Companies like Procter & Gamble are promoting their value by introducing less expensive alternatives to their premium products to court cost-conscious shoppers.,positive,0.6734296083450317
+2013-06-02,Courting Thrifty Shoppers With Value and Quality,neutral,0.04779905825853348
+2013-06-05,Federal prosecutors have accused Mathew Martoma of making more than $276 million in a combination of illegal profits and avoided losses trading in the shares of the pharmaceutical companies Elan and Wyeth.,negative,-0.8906453251838684
+2013-06-05,Trial Date Set for Former SAC Trader in Insider Case,neutral,-0.23170772194862366
+2013-06-28,"BET Networks, the television network owned by Viacom, is the latest media company to create a festival — pairing an array of marquee events with big sponsors.",neutral,0.18242159485816956
+2013-06-28,"On the Concert Stage, BET Festival Offers a Broad Brand Experience",neutral,0.09202016144990921
+2013-07-25,Advertisers took to social media to send congratulatory messages to the royal family — examples of how brands are increasingly trying to become part of news-driven cultural moments.,neutral,0.10153111070394516
+2013-07-25,Welcoming a Royal Baby While Trying Not to Steal the Spotlight,neutral,0.009701251983642578
+2013-08-13,"If the hedge fund tycoon gets a reputation as a loose-cannon director, it will give him fewer options as an activist investor, the authors note.",negative,-0.7569764852523804
+2013-08-13,Backing down so quickly at J.C. Penney may help him avoid that fate.,positive,0.4865262508392334
+2013-08-13,Ackman’s Plate-Spinning Act Gets Dangerous,neutral,-0.19125179946422577
+2013-08-26,"While shareholder activists like Carl Icahn, William Ackman, Nelson Peltz and Ron Burkle often cloak their demands in the language of long-term actions, the author writes, their real goal is a short-term bump in the stock price.",neutral,-0.03804934769868851
+2013-08-26,"Activists Seek Short-Term Gain, Not Long-Term Value",neutral,-0.06026940792798996
+2013-10-25,Procter & Gamble is transporting trailers with about 20 restrooms — stocked with the company’s Charmin toilet paper — to N.F.L.,neutral,0.0650942325592041
+2013-10-25,stadiums for pregame revelers to use.,neutral,-0.0006892383098602295
+2013-10-25,Winning Sports Fans’ Hearts by Giving Them Somewhere to Go,neutral,0.19862020015716553
+2014-02-05,"In a cause-marketing coupon campaign, High Ridge Brands, which makes soap and hair care brands like Zest, Coast and Alberto VO5, is donating its products to families in need.",neutral,0.19032178819179535
+2014-02-05,A Crusade for the Financially Devastated,neutral,0.12211903184652328
+2014-02-07,Coca-Cola presumably gave Green Mountain Coffee a comprehensive review before deciding to buy a stake.,neutral,0.12560343742370605
+2014-02-07,"But the hedge fund manager David Einhorn can’t be easily dismissed either, Kevin Allison writes in Reuters Breakingviews.",negative,-0.6393917202949524
+2014-02-07,Coke and Einhorn Take Opposite Sides of Green Mountain Bet,neutral,0.027635639533400536
+2014-02-17,"While unisex personal care products proliferated a generation ago, the shampoo aisle remained a haven for unisex products, but that, too, is shifting.",neutral,0.019518952816724777
+2014-02-17,"In Shampoo Ads for Men, It’s Not Just the Hair, It’s What It Does for You",neutral,0.02184806764125824
+2014-03-11,"Procter & Gamble and ConAgra, two consumer-product giants that once battled each other for market share, are combining their ad dollars to advance a good cause.",positive,0.8267207741737366
+2014-03-11,Former Rivals Come Together in a Campaign to End Childhood Hunger,neutral,0.046070441603660583
+2014-04-02,A ruling by a California state court allows venture capital firms to control the amount of information they disclose.,neutral,-0.02652117982506752
+2014-04-02,But is it the best solution?,neutral,0.04210273176431656
+2014-04-02,"Probably not, says Jonathan Axelrad, a partner at Goodwin Procter.",neutral,-0.19996771216392517
+2014-04-02,Venture Capital’s Need for Secrecy Collides With Public’s Right to Know,neutral,-0.13368742167949677
+2014-04-03,"Mr. Black, a commercial artist, drafted the original rendering of Procter & Gamble’s trademark “genie in a bottle.”",neutral,0.07912648469209671
+2014-04-03,"Richard Black, 92, Artist Who Conjured ‘Mr.",neutral,-0.1346433311700821
+2014-04-03,"Clean,’ Dies",neutral,0.14126336574554443
+2014-04-09,"The $2.9 billion sale of the brands, including Iams and Eukanuba, was championed by the activist investor William A. Ackman.",neutral,0.12945406138896942
+2014-04-09,"To Slim Down, Procter & Gamble Sells Most of Its Pet Food Brands to Mars",neutral,0.0036978088319301605
+2014-04-10,Junior bankers are still working long hours despite new policies.,negative,-0.9065737128257751
+2014-04-10,| Four rival offers for Detroit’s art could be an obstacle for the city as it tries to resolve its bankruptcy.,negative,-0.6738656759262085
+2014-04-10,| Ally prepares for its I.P.O.,neutral,-0.03376336395740509
+2014-04-10,| Procter & Gamble sells most of its pet food brands to Mars.,neutral,0.00845502782613039
+2014-04-10,Morning Agenda: Junior Banker Blues,neutral,0.005780015140771866
+2014-04-30,"The main challenge is mustering enough resources to take on the consumer products behemoth Procter & Gamble, writes Kevin Allison of Reuters Breakingviews.",neutral,0.42548447847366333
+2014-04-30,Energizer Split Leaves Biggest Problem Intact,negative,-0.5864424109458923
+2014-05-19,The socially conservative entertainment company that produced “The Chronicles of Narnia” trilogy is now seeking to collaborate with more risqué partners.,neutral,0.44026580452919006
+2014-05-19,"Walden Media, PG Filmmaker, Seeks Studio Partners Across Cultural Divide",neutral,0.169049933552742
+2014-07-09,"An overvalued bolívar meant the country had been a major source of profits for foreign firms, but they evaporated for many with a new exchange rate.",neutral,0.14055676758289337
+2014-07-09,Profits Vanish in Venezuela After Currency Devaluation,negative,-0.8929082751274109
+2014-07-14,"A New York-only campaign for Procter & Gamble products, and Kenny Rogers is a good sport for Geico.",neutral,0.03038676455616951
+2014-07-14,Q. and A.,neutral,0.0380171574652195
+2014-07-14,With Stuart Elliott,neutral,0.02111242711544037
+2014-08-01,The company is facing investor pressure to pare its product lineup and trim costs.,positive,0.7471834421157837
+2014-08-01,"Procter & Gamble to Streamline Offerings, Dropping Up to 100 Brands",negative,-0.958387017250061
+2014-09-08,"Mathew Martoma’s parents asked why his former boss, Steven A. Cohen, was not also charged with insider trading if their son had done something wrong.",negative,-0.8174245357513428
+2014-09-08,"Martoma, SAC Capital Ex-Trader, Gets 9 Years in Prison",negative,-0.4866056442260742
+2014-09-17,"Companies once had little interest in lower-end consumers, but some now recognize the potential of that vast market.",neutral,0.07321217656135559
+2014-09-17,Multinational Companies Court Lower-Income Consumers,negative,-0.6385212540626526
+2014-10-24,"In announcing a plan to split off Duracell, Procter & Gamble will give the battery maker something it hasn’t had in nearly two decades: life as an independent company.",neutral,0.3829420804977417
+2014-10-24,"Procter & Gamble Sets Duracell on New, Independent Course",neutral,0.050683844834566116
+2014-10-24,"After a weak first quarter, Procter & Gamble said it would get rid of about half of its portfolio of brands, including Duracell batteries.",negative,-0.5665974617004395
+2014-10-24,"Cleaning House, P.&G.",neutral,0.022681772708892822
+2014-10-24,Plans Duracell Spinoff,neutral,-0.011471092700958252
+2014-10-24,"The Duracell spinoff may be more valuable for the signal it telegraphs, Kevin Allison of Reuters Breakingviews writes.",neutral,0.283272385597229
+2014-10-24,Procter & Gamble’s Step in the Right Direction,positive,0.6563332080841064
+2014-11-10,"Procter & Gamble, the consumer products giant that makes items as varied as razors and household cleaners, led advertising spenders in the third quarter, but consumer products as a whole does not dominate.",neutral,0.21693181991577148
+2014-11-10,Popular Demand,neutral,0.06970230489969254
+2014-11-13,"Berkshire Hathaway, the conglomerate run by Warren E. Buffett, will acquire Duracell using a transaction aimed at lowering the tax bill.",neutral,0.224173441529274
+2014-11-13,Warren Buffett to Buy Duracell in $4.7 Billion Stock Deal,neutral,0.029978293925523758
+2014-11-13,"The one drawback for Procter & Gamble is that it is losing a longtime shareholder, Robert Cyran and Kevin Allison of Reuters Breakingviews write.",negative,-0.953948974609375
+2014-11-13,Both Sides Gain in Buffett-Duracell Deal,negative,-0.1394413709640503
+2014-12-07,The magazine and cosmetics company are paying more than $2 million to sponsor of the New Year’s Eve celebration in Times Square.,neutral,0.11043806374073029
+2014-12-07,Cosmo and CoverGirl Will Unite to Ring in 2015 in Times Square,neutral,0.2024657428264618
+2015-01-21,"David S. Taylor will take over the company’s beauty unit in a move interpreted to put him one step closer to succeeding the chief executive, A.G. Lafley.",neutral,0.3605705797672272
+2015-01-21,Executive Shake-Up at Procter & Gamble,neutral,-0.28009510040283203
+2015-02-02,"Ads broadcast during the game were not devoid of the usual celebrities and slapstick comedy, but commercials celebrating fatherhood and public proclamations of love dominated.",neutral,-0.06993050873279572
+2015-02-02,"Super Bowl Commercials Go for Heart, Not Just Funny Bone",neutral,0.023911187425255775
+2015-02-02,"The Budweiser ad, which also featured the brand’s Clydesdale horses, scored big on social media, while a Nationwide spot angered viewers.",positive,0.3245641589164734
+2015-02-02,"In Super Bowl Commercials, Puppy Is a Winner",neutral,-0.03570345789194107
+2015-02-06,Baby boomers are turning to the growing number of firms that specialize in placing older workers in part-time or temporary positions in specific industries.,neutral,0.001900017261505127
+2015-02-06,Consulting as a Bridge Between Full-Time Work and Retirement,neutral,0.027598345652222633
+2015-03-08,"Companies like Ford, Procter & Gamble, Under Armour and the Spanish bank BBVA are working to outmaneuver start-ups for dominance on mobile devices.",positive,0.5924381613731384
+2015-03-08,Surge in Smartphones Sets Off New Wave of Corporate Self-Reinvention,positive,0.7869149446487427
+2015-03-18,"The country’s largest marketers are slashing their advertising budgets because digital offers more, for less money.",negative,-0.9464588165283203
+2015-03-18,Biggest Advertisers Are Sending Their Dollars to Digital,neutral,0.027391470968723297
+2015-04-02,"The largest contiguous parcel of undeveloped private land east of the Mississippi River, owned by Foley Lumber and Land, is expected to bring in $1 billion or more.",neutral,0.37369173765182495
+2015-04-02,"560,000-Acre Swath of Florida Land Going on the Market",neutral,-0.003519304096698761
+2015-04-06,"To help their cash flows, food and packaged goods companies are delaying payments to suppliers, a practice that at one time signaled trouble.",negative,-0.951280951499939
+2015-04-06,"Big Companies Pay Later, Squeezing Their Suppliers",negative,-0.8570448756217957
+2015-05-22,"On Friday, the California State Assembly passed a bill that could become the strictest ban in the United States on the particles, which can carry pollutants into the food chain.",neutral,0.23685914278030396
+2015-05-22,Fighting Pollution From Microbeads Used in Soaps and Creams,neutral,0.04607204347848892
+2015-07-09,"The deal includes hair products like Nice & Easy and VS Salonist, as well as cosmetics and fine fragrances from Gucci and Dolce & Gabbana.",neutral,0.05771642178297043
+2015-07-09,P.&G.,neutral,0.03712895140051842
+2015-07-09,Sells 43 Beauty Brands to Coty,neutral,0.03168400377035141
+2015-07-28,"David S. Taylor, a group president who joined P.&G.",neutral,0.008734541945159435
+2015-07-28,"in 1980, takes charge of a company that has spent months vigorously slimming down.",neutral,0.022876903414726257
+2015-07-28,A Smaller P.&G.,neutral,-0.0006630346179008484
+2015-07-28,Sets Its Next Leader,neutral,0.0065879374742507935
+2015-08-28,"It is rare to meet actual orphans with stock portfolios, let alone ones who have hung on to investments for nearly 50 years.",neutral,-0.03328315541148186
+2015-08-28,"Steady Financial Advice, With Friendship as a Bonus",neutral,0.06835183501243591
+2015-09-08,How will you rate Jacob Stulberg’s puzzle?,neutral,0.03722982853651047
+2015-09-08,Somewhat Family-Friendly,neutral,0.07722293585538864
+2015-09-23,"Major companies including Johnson & Johnson, Starbucks and Walmart are setting long-term targets for powering operations entirely with renewable energy.",neutral,0.08193618059158325
+2015-09-23,Global Companies Joining Climate Change Efforts,neutral,0.048419445753097534
+2015-10-08,"The tiny abrasives, used in exfoliators and other care products, have the same effect as grinding up plastic water bottles and dumping them into the ocean, environmentalists say.",neutral,-0.2568802535533905
+2015-10-08,California Becomes Latest State to Ban Plastic Microbeads,neutral,-0.09905385971069336
+2015-10-19,"EDF Renewable Energy will produce 370,000 megawatt-hours of electricity annually for P.&G.",neutral,0.07918442785739899
+2015-10-19,to power all of its North American fabric and home care products plants.,neutral,0.02571481466293335
+2015-10-19,Procter & Gamble to Run Its Factories With Wind Power,neutral,0.004195112735033035
+2015-10-26,"Procter & Gamble, the maker of Tampax, and Kimberly-Clark, the maker of Kotex, yield to public concern about materials in their pads and tampons.",negative,-0.913259744644165
+2015-10-26,"Under Pressure, Feminine Product Makers Disclose Ingredients",neutral,-0.06499660760164261
+2015-12-08,Procter & Gamble announced it was moving the bulk of its North American media buying and planning business to Omnicom from Publicis Groupe.,neutral,0.02389204129576683
+2015-12-08,"Procter & Gamble, the World’s Biggest Advertiser, Switches Agencies",neutral,-0.15185609459877014
+2016-08-02,"Internet-adept rivals like Dollar Shave Club, which Unilever just bought for $1 billion, threaten to steal customers and cut into P.&G.’s margins.",negative,-0.9557027220726013
+2016-08-02,Online Upstarts Pose a Threat to Procter & Gamble,negative,-0.8310533165931702

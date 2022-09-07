@@ -1,0 +1,85 @@
+Date,Sentence,Prediction,sentimentScore
+2007-06-20,"PetroChina is planning the nation’s biggest share sale this year to raise as much as $6 billion in Shanghai for overseas acquisitions, increased oil drilling and refinery construction.",positive,0.8106065988540649
+2007-06-20,Petrochina Seeks $6 Billion in Shanghai Share Sale,neutral,0.03285405784845352
+2007-07-17,"UBS has been hired to help China’s largest oil and gas group, PetroChina, raise up to $6 billion in what will be one of the biggest listings on the country’s mainland market.",positive,0.7822904586791992
+2007-07-17,The Financial Times said that the deal highlights UBS’s determination to grab a big slice of the Chinese public offerings market.,positive,0.723583459854126
+2007-07-17,UBS To Help PetroChina Raise $6 Billion in I.P.O.,positive,0.680085301399231
+2007-09-13,Warren E. Buffett sold about 1.1 billion Hong Kong dollars worth ($141 million) of shares in the PetroChina Company.,neutral,0.027167020365595818
+2007-09-13,China: Buffett Sells Petrochina Shares,neutral,-0.0037007946521043777
+2007-09-13,"Warren E. Buffett sold about HK$1.1 billion worth ($141 million) of shares in PetroChina, his second sale in two months, amid calls for United States investors to reduce holdings in China’s biggest oil producer because of its links to Sudan.",negative,-0.9163722395896912
+2007-09-13,Buffett Sells PetroChina Shares Amid Calls to Cut Ties With Sudan,negative,-0.8939484357833862
+2007-09-18,"For the oil giant PetroChina, a share listing in Shanghai will raise money for a new pipeline and refinery, among other projects.",positive,0.8880572319030762
+2007-09-18,"For coal miner China Shenhua Energy, it means cash for possible mine acquisitions abroad.",positive,0.5304570198059082
+2007-09-18,"In China, a Rush to Market",neutral,-0.046194449067115784
+2007-09-28,"Warren Buffett further reduced his stake in the listed shares of the PetroChina Company to 7.99 percent from 8.21 percent, according to a filing to the Hong Kong stock exchange Friday.",negative,-0.9511362314224243
+2007-09-28,Warren Buffett Sells More of His PetroChina Stake,neutral,0.058763548731803894
+2007-10-09,"Warren E. Buffett’s Berkshire Hathaway sold a block of listed shares in PetroChina for the fifth time in three months, dropping its stake in the company’s share capital to 6.97 percent, according to a filing to the Hong Kong stock exchange Monday.",negative,-0.9596281051635742
+2007-10-09,Buffett Continues Cutting PetroChina Stake,negative,-0.834004819393158
+2007-10-10,"Berkshire Hathaway, controlled by Warren E. Buffett, sold shares of the PetroChina Company, the biggest oil producer in China, valued at 2.8 billion Hong Kong dollars ($364 million).",neutral,0.05470582842826843
+2007-10-10,"Berkshire sold 220.5 million shares at an average of 12.80 Hong Kong dollars a share on Sept. 25, cutting its stake to 5.44 percent of the stock not controlled by the Chinese government, according to a filing with the Hong Kong stock exchange.",negative,-0.9507482647895813
+2007-10-10,"Mr. Buffett has sold almost half of his holding this year, according to calculations based on filings and Berkshire’s annual report.",neutral,0.018906090408563614
+2007-10-10,The stock has jumped sevenfold since Berkshire bought its stake in April 2003.,positive,0.8863856792449951
+2007-10-10,China: Buffett Cuts Petrochina Stake Further,negative,-0.9501578211784363
+2007-10-22,"PetroChina, China’s largest oil and gas producer, said on Sunday it plans to make an initial public offering of shares in Shanghai that may be China’s largest, raising more than $9 billion.",positive,0.6884607076644897
+2007-10-22,PetroChina to Sell Shares on Shanghai Market,neutral,-0.03712363913655281
+2007-10-30,"PetroChina, China’s biggest oil and gas conglomerate, said Monday it had raised 66.8 billion yuan ($8.93 billion) from its initial public offering in Shanghai, making it the country’s largest domestic initial public offering so far.",positive,0.9052948355674744
+2007-10-30,PetroChina Raises $8.9 Billion in Stock Offering,positive,0.49113407731056213
+2007-11-05,"PetroChina, the state oil and gas giant, became the world’s first company to pass $1 trillion in market capitalization when it debuted on the Shanghai Stock Exchange today.",positive,0.8789476752281189
+2007-11-05,PetroChina Shares Triple in Debut,neutral,0.25619328022003174
+2007-11-05,"Soon after PetroChina makes its debut Monday on the Shanghai Stock Exchange, some expect the firm to surpass Exxon Mobil as the world’s largest company by market capitalization.",positive,0.8760603070259094
+2007-11-05,PetroChina May Become Top Company,neutral,0.05731049180030823
+2007-11-05,"PetroChina, the state oil and gas giant, became the world’s first company to pass $1 trillion in market capitalization when it debuted on the Shanghai Stock Exchange on Monday.",positive,0.8630844354629517
+2007-11-05,PetroChina Skyrockets in Debut,negative,-0.24561436474323273
+2007-11-05,"Scanning the headlines on Monday reveals a blizzard of articles on Citigroup, IAC/InterActiveCorp and PetroChina.",neutral,-0.033493950963020325
+2007-11-05,Decidedly less obvious is the fact that another hedge fund has gone public in the United States — even though it rang the opening bell Monday morning.,negative,-0.6547576189041138
+2007-11-05,The Quiet Hedge Fund I.P.O.,neutral,0.011182509362697601
+2007-11-06,"Super-heated markets in China drove the value of the state oil and gas company above $1 trillion, giving it the highest market capitalization in corporate history.",positive,0.8405144810676575
+2007-11-06,PetroChina Shares Triple in Debut,neutral,0.25619328022003174
+2009-09-09,"China National Petroleum Corp., parent of the state-run oil and gas giant PetroChina, announced Wednesday that it had received a low-interest $30 billion loan to finance overseas acquisitions.",positive,0.8599539995193481
+2009-09-09,PetroChina Parent Gets $30 Billion for Acquisitions,neutral,0.06787703931331635
+2009-12-30,A deal that would give PetroChina a 60 percent stake in two Alberta oil sands projects is being reviewed by the Canadian government.,neutral,0.2078806757926941
+2009-12-30,China’s Oil Ambitions in Canada Receiving New Government Scrutiny,neutral,0.05140768736600876
+2010-01-08,A member of the United States-China Economic and Security Review Commission comments on China’s forays into Canada’s giant oil patch.,neutral,0.18892964720726013
+2010-01-08,Reflections on China’s Oil Sands Bid,neutral,0.056925199925899506
+2010-03-08,"Arrow Energy of Australia said Monday that it had received a takeover offer worth about $3 billion from a company owned by Royal Dutch Shell and PetroChina, the state-run gas and oil giant.",positive,0.7898683547973633
+2010-03-08,Shell and PetroChina Bid $3 Billion for Coal Gas Firm,neutral,0.09253241866827011
+2010-03-09,"The joint venture offered $4.04 a share for the Australian energy company, which produces natural gas from coal beds.",positive,0.4966457188129425
+2010-03-09,Shell Joins PetroChina in an Offer in Australia,neutral,0.08317957818508148
+2010-03-09,"Lacking a clear consensus about the strength of the recovery, Wall Street fell into a seesaw pattern on Monday.",negative,-0.9478753209114075
+2010-03-09,Hesitation on Wall Street Leaves Shares Flat,negative,-0.6089398264884949
+2010-03-15,"Cnooc, China’s top offshore oil explorer, said on Sunday that it had secured a South American beachhead by agreeing to pay $3.1 billion in cash for a stake in one of the largest Argentine oil explorers, with fields in Argentina, Bolivia and Chile.",positive,0.889585554599762
+2010-03-15,Deal for Oil Fields Extends China’s Quest for Energy,positive,0.7387544512748718
+2010-03-15,"Australia’s Arrow Energy is set to reject as too low a $3 billion joint takeover offer from Royal Dutch Shell and PetroChina, the Australian Financial Review reported, a move that could prompt the bidders to return with a higher, hostile bid.",negative,-0.7709499597549438
+2010-03-15,Arrow Energy May Reject $3 Billion Bid,neutral,-0.2729088366031647
+2010-03-17,"Arrow Energy of Australia has opened its books to Royal Dutch Shell and PetroChina so that they conduct due diligence for their joint takeover offer worth at least 3.3 billion Australian dollars ($3.03 billion), Reuters reported.",positive,0.7283097505569458
+2010-03-17,"Arrow Opens Books to Bidders, Report Says",positive,0.7748526334762573
+2010-03-19,"Arrow Energy of Australia asked for trading in its shares to be suspended on Friday, stoking speculation that Royal Dutch Shell and PetroChina would sweeten their joint $3 billion offer for the coal-seam gas producer.",negative,-0.9066050052642822
+2010-03-19,Arrow Energy Suspends Shares as Offer Looms,negative,-0.9010241031646729
+2010-03-22,"The Australian gas company Arrow Energy agreed on Monday to accept a sweetened 3.5 billion Australian dollar bid by Shell and PetroChina for its Australian assets, the latest in a string of acquisitions and investments in the global energy sector.",positive,0.8605084419250488
+2010-03-22,Arrow Agrees to Sell Assets to PetroChina and Shell,neutral,0.09703320264816284
+2010-03-24,"BG Group said it had agreed to supply China National Offshore Oil Corp., or Cnooc, 3.6 million tons of Australian liquefied natural gas annually for the next 20 years, in a deal one analyst estimated to be worth up to $70 billion, while selling the state-run company a small stake in BG’s coal bed gas assets.",positive,0.8708893656730652
+2010-03-24,BG Group and Cnooc Sign $70 Billion Gas Deal,positive,0.7310858964920044
+2010-03-29,"China Petroleum & Chemical, or Sinopec, Asia’s top oil refiner, will buy a stake in upstream assets in Angola for $2.46 billion and said it wanted more such deals, which could shield it from high oil prices that hit margins in the fourth quarter, Reuters reported.",positive,0.7053142189979553
+2010-03-29,Sinopec Stakes $2.5 Billion Upstream Foothold,neutral,0.06839090585708618
+2010-07-12,"The Chinese oil giant PetroChina would ”welcome” closer ties with BP as the company continues to grapple with the massive oil spill in the Gulf of Mexico, The Financial Times reported.",positive,0.8810219764709473
+2010-07-12,PetroChina Open to Improved Ties with BP,positive,0.8871021270751953
+2010-12-28,"PetroChina is selling its stake in a gas pipeline operator to the Kunlun Energy Company for $2.85 billion, the latest in a flurry of energy deals.",neutral,0.05469929054379463
+2010-12-28,PetroChina to Sell Gas Pipeline Stake for $2.85 Billion,neutral,0.005930041894316673
+2011-03-14,"Chinese energy companies competing with multinational giants on their own turf, striking partnerships and joint ventures in the United States, Canada and Latin America.",positive,0.575177788734436
+2011-03-14,China’s Energy Industry Pushes Into Developed Markets,positive,0.8398284912109375
+2011-06-21,"Encana said on Tuesday that discussions about forming a joint venture with PetroChina had fallen apart, a blow for the state-backed oil giant, which has lagged behind Chinese competitors in acquiring North American assets.",negative,-0.9495657682418823
+2011-06-21,Encana’s Natural Gas Deal with PetroChina Collapses,neutral,0.03199958801269531
+2013-08-05,"The gun maker PTR Industries is moving from Connecticut to South Carolina, as tightening restrictions drive the firearms industry to gun-friendly states.",negative,-0.3572435975074768
+2013-08-05,Luring Away Gunmakers,negative,-0.3740529417991638
+2013-08-05,"After gun laws were strengthened in several states in the wake of the Newtown, Conn., school shooting, some manufacturers are relocating to more gun-friendly states.",neutral,0.04087768495082855
+2013-08-05,"For Some Gun Makers, Moving Lock, Stock and Barrel",neutral,-0.04697663336992264
+2013-08-10,Notable quotes from business articles that appeared in The New York Times last week.,neutral,0.01611744984984398
+2013-08-10,"The Chatter for August 11, 2013",neutral,0.01620756834745407
+2013-08-27,The authorities announced that four executives of the state-owned China National Petroleum Corporation were under investigation.,negative,-0.7919092774391174
+2013-08-27,China Expands Inquiry on Graft to Oil Industry,neutral,0.04244442284107208
+2013-09-02,Hua Bangsong became the fifth senior industry figure in a week to become enmeshed in a corruption investigation that continues to reach higher into China’s political and economic elite.,negative,-0.6783288717269897
+2013-09-02,China Graft Inquiry Sweeps Up Billionaire Oil Entrepreneur,negative,-0.7324822545051575
+2013-10-07,The company that operates the Grangemouth complex is seeking concessions from a union that is protesting the treatment of a labor representative.,negative,-0.9274480938911438
+2013-10-07,Union Action at Scottish Refinery Could Escalate,negative,-0.9040926098823547
+2015-07-24,"The country has invested billions in Ecuador and elsewhere, using its economic clout to win diplomatic allies and secure natural resources around the world.",positive,0.8072132468223572
+2015-07-24,"China’s Global Ambitions, Cash and Strings Attached",neutral,0.05912221595644951

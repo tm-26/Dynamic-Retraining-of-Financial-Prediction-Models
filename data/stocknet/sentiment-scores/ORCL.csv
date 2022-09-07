@@ -1,0 +1,117 @@
+Date,Sentence,Prediction,sentimentScore
+2014-01-07,Oracle’s purchase of Corente pushes the once web-shy technology giant further into the Internet age.,positive,0.7912681102752686
+2014-01-07,Oracle Agrees to Buy Cloud-Based Service,positive,0.7882528305053711
+2014-02-19,"Opposition to outsize pay packages should not be reserved just for executives on Wall Street, Steven M. Davidoff writes.",neutral,-0.04225219413638115
+2014-02-19,"Outrage Over Wall St. Pay, but Shrugs for Silicon Valley?",negative,-0.7005049586296082
+2014-04-05,"Yes, Warren Buffett’s 49-year market record is stellar.",positive,0.4841282367706299
+2014-04-05,Just don’t count the last five.,neutral,-0.08617503196001053
+2014-04-05,"The Oracle of Omaha, Lately Looking a Bit Ordinary",neutral,-0.17170581221580505
+2014-04-12,"Larry Ellison, the chief executive of Oracle, may not care what you think about his $78.4 million in 2013 compensation, the highest in the Equilar 100 C.E.O.",neutral,0.02740117907524109
+2014-04-12,Pay Study.,neutral,0.006742022931575775
+2014-04-12,Still No.,negative,-0.3048599362373352
+2014-04-12,"1, and Doing What He Wants",neutral,0.07148919999599457
+2014-04-19,"For years, Linux has enjoyed the backing of a range of big tech companies.",neutral,0.4046827554702759
+2014-04-19,How has Linux flourished while other open-source efforts have begged for resources?,positive,0.6552857160568237
+2014-04-19,OpenSSL and Linux: A Tale of Two Open-Source Projects,neutral,0.03362186253070831
+2014-05-06,"SAP is offering much of its enterprise software and Hana, used for data analysis, on VWware’s cloud computing platform.",neutral,0.020300602540373802
+2014-05-06,EMC and Oracle have made their own announcements.,neutral,0.01950133964419365
+2014-05-06,More is expected.,neutral,0.05087488144636154
+2014-05-06,SAP and VMware Head for the Future Together,neutral,0.03357855603098869
+2014-06-02,Some analysts say the cloud-computing juggernaut is overly reliant on stock-based pay and that a prolonged slump in its share price could harm the health of its core operations.,negative,-0.9553477764129639
+2014-06-02,Salesforce Bottom Line Is Put at Risk by a Slide in the Company’s Stock,negative,-0.9158537983894348
+2014-06-04,"Nobody really knows if Valeant Pharmaceuticals is doing anything that makes money, or is just engaged in prestidigitation that never gets anywhere, writes Jesse Eisinger in The Trade.",neutral,-0.02193828672170639
+2014-06-04,"In Valeant’s Bid for Allergan, an Opaque Business Model Is Revealed",neutral,-0.44238224625587463
+2014-06-07,Executive compensation boards are now more independent and rewards are increasingly tied to results.,neutral,0.13332116603851318
+2014-06-07,But C.E.O.,neutral,-0.15265308320522308
+2014-06-07,pay remains enormous.,neutral,0.05813515931367874
+2014-06-07,"More Scrutiny, Still Spectacular",neutral,-0.2905155420303345
+2014-06-10,"Lawrence J. Ellison, a master salesman, has positioned the new version of his flagship database as a product that continually changes to meet the cutting edge of tech, while staying familiar to its corporate clientele.",neutral,0.25215959548950195
+2014-06-10,It’s a great marriage of stability and change from a company now worth more than IBM.,positive,0.7958437204360962
+2014-06-10,Oracle’s Database of Youth,neutral,-0.031694598495960236
+2014-06-23,"Micros still gets the vast majority of its revenue from sales of less sexy hardware and services, making the deal more of an add-on for Oracle rather than a supercharged foray into cloud computing, Kevin Allison of Reuters Breakingviews writes.",neutral,0.09897066652774811
+2014-06-23,Oracle’s Deal Won’t Do Much for Its Cloud Computing Efforts,negative,-0.6246417760848999
+2014-07-29,"The Pacific Northwest city continues its rise as the world’s center of cloud computing, moving from infrastructure to applications.",positive,0.7261564135551453
+2014-07-29,"Oracle is kicking off a 100-person engineering facility, which over time is expected to affect sales, training, and much more of how Oracle works with customers.",neutral,0.05320729687809944
+2014-07-29,Seattle Takes Oracle’s Cloud,neutral,-0.051470451056957245
+2014-08-18,"Companies like Google are employing unorthodox criteria — say, whether a product is used daily, like a toothbrush — to size up their deal targets, and without the advice of Wall Street bankers.",neutral,-0.40353816747665405
+2014-08-18,"In Silicon Valley, Mergers Must Meet the Toothbrush Test",neutral,0.01217663660645485
+2014-09-18,"The top job at the database giant will be shared by Mark V. Hurd, now co-president, and Safra Catz, who is co-president and chief financial officer.",neutral,0.06586068868637085
+2014-09-18,Larry Ellison to Step Down as Oracle’s Chief,neutral,-0.24734953045845032
+2014-09-19,"Mr. Ellison’s 25 percent stake in the company — and dual role as chairman and chief technology officer — ensure he’s far from relinquishing control, Robert Cyran of Reuters Breakingviews writes.",neutral,0.16482007503509521
+2014-09-19,Larry Ellison Keeps a Hand on the Wheel at Oracle,neutral,-0.06594530493021011
+2014-09-22,"The opening keynote at Oracle’s annual conference will be about its“unique opportunity to be the leader of the next generation of cloud,” according to Mark Hurd, the new co-chief.",positive,0.7546809911727905
+2014-09-22,Hurd: Oracle Takes On Microsoft in the Cloud,neutral,-0.2036106288433075
+2014-09-23,"The computer storage company’s talks with HP, Cisco and Oracle highlight the continuing problem with aging technology giants pursuing growth and relevance.",negative,-0.6432572603225708
+2014-09-23,Aging Tech Giants Like EMC Look to Deals to Help Bolster Revenue,neutral,0.33052709698677063
+2014-09-29,"Cisco has a novel approach for selling its big Internet vision, called Intercloud: There is no better way to impose government policies on the Internet.",neutral,0.029144061729311943
+2014-09-29,Cisco: The Internet Needs More Control,neutral,0.12895716726779938
+2014-10-08,"In a letter, Elliott Management criticized the tech company for being overly complex and suggested selling off a range of assets, including the separately traded cloud computing firm VMWare.",negative,-0.918626070022583
+2014-10-08,Paul Singer’s Hedge Fund Pushes Technology Giant EMC to Break Up,neutral,-0.31565356254577637
+2014-11-06,"Scott Stringer, the New York City comptroller who oversees five pension funds, is leading a drive to let shareholders nominate board directors.",neutral,0.06802807003259659
+2014-11-06,Effort Begins for More Say on Directors,neutral,0.0932513177394867
+2014-12-26,Oracle’s purchase of Datalogix sheds a light on an important side of the digital advertising business: connecting an ad you see with a product you buy.,positive,0.7551336884498596
+2014-12-26,"In Advertising, It’s About Who Gets Credit for the Sale",neutral,-0.028942551463842392
+2015-02-28,"Warren Buffett recalls missteps during his five decades with Berkshire Hathaway, a period that saw the company’s stock rise nearly 2 million percent.",negative,-0.5676928758621216
+2015-02-28,"After 50 Years, Oracle of Omaha Looks Back on Less Prescient Moves",neutral,0.13166479766368866
+2015-03-02,"There are two chief theories for why the company has been so successful, with important implications for imagining a future without Mr. Buffett.",neutral,0.2563285529613495
+2015-03-02,Why Warren Buffett Is Worth $72 Billion and You’re Not,neutral,-0.030629262328147888
+2015-04-10,"An analysis of recent company reports, however, finds that the widest gap exists between the chief executives and workers of Disney, Oracle, Qualcomm and Starbucks.",negative,-0.7619733810424805
+2015-04-10,"Despite Federal Regulation, C.E.O.-Worker Pay Gap Data Remains Hidden",negative,-0.9366810917854309
+2015-04-30,"Oracle and Microsoft want to increase cloud capacity, making them possible suitors.",positive,0.8347010016441345
+2015-04-30,Salesforce’s Slow Growth May Prompt Hunt for a Buyer,negative,-0.7592923045158386
+2015-05-16,"Despite rules empowering shareholders to rein in soaring pay packages, few have chosen to do so, perhaps because of a rising stock market.",neutral,-0.08296582102775574
+2015-05-16,Shareholders’ Votes Have Done Little to Curb Lavish Executive Pay,negative,-0.7035946846008301
+2015-06-29,A years-long copyright fight between Google and Oracle will continue.,negative,-0.915738582611084
+2015-06-29,"At issue are the bits of code that help pieces of software work together, called Application Programming Interfaces.",neutral,-0.008706586435437202
+2015-06-29,Supreme Court Declines to Hear Appeal in Google-Oracle Copyright Fight,negative,-0.6553095579147339
+2015-07-06,"The son of Larry Ellison, founder of Oracle, shifts from investing in films to steering them creatively, with ‘Genisys’ and the coming addition to the ‘Mission: Impossible’ franchise.",neutral,0.0979589894413948
+2015-07-06,"With ‘Terminator Genisys,’ David Ellison Stops Playing It Safe",neutral,-0.3482173681259155
+2015-09-14,"This week, the Fed announces whether it will raise interest rates, contract talks with Detroit’s three automakers enter the final stretch and an election in Greece will help determine its economic future.",neutral,0.27662408351898193
+2015-09-14,"Fed’s Decision on Interest Rates, Autoworkers’ Contract Talks and a Greek Election",neutral,-0.24567943811416626
+2015-10-07,Amazon Web Services is starting to offer capabilities that compete head-to-head with longtime business computing giants like Oracle and IBM.,positive,0.7949060797691345
+2015-10-07,Amazon Messes With Billions in Corporate Computing Dollars,negative,-0.7256337404251099
+2015-10-27,Oracle wants to do what it does best: build software that has the specific kinds of features that companies needs to manage their operations.,neutral,0.11771143972873688
+2015-10-27,Oracle Will Not Build a Giant Cloud System Like A.W.S.,neutral,-0.030348308384418488
+2015-11-02,"Mr. Benioff runs Salesforce.com with a “1-1-1” philosophy, annually donating 1 percent of its equity, 1 percent of its employee time and 1 percent of its product to nonprofits.",neutral,0.04599710553884506
+2015-11-02,He explains why.,neutral,0.05351370945572853
+2015-11-02,"Marc Benioff, Salesforce Chief, on the Strategic Benefits of Corporate Giving",neutral,0.09371927380561829
+2016-03-07,"Industry titans like Amazon and Oracle are duking it out for cloud engineers, taking swipes at the competition and attracting workers with salaries as high as $1 million.",neutral,0.06867138296365738
+2016-03-07,Tech Giants Battle for Top Cloud Talent,neutral,-0.005635246634483337
+2016-05-08,"As Oracle continues to sue Google for $8.8 billion, quarterly earnings reports are expected for Disney, Credit Suisse and Macy’s.",negative,-0.7558399438858032
+2016-05-08,Google Goes Back to Court Over Android Code and May Face Fines in Russia,negative,-0.9370460510253906
+2016-05-10,The right to use programming language is at issue in the latest round of a case filed nearly six years ago.,neutral,0.02052203379571438
+2016-05-10,Alphabet Chairman Testifies in Oracle Suit Against Google,neutral,-0.25194835662841797
+2016-05-11,The Java programming language was one of the most important tools of the late-1990s dot-com boom.,neutral,0.06965102255344391
+2016-05-11,Now it is the key to a court fight between tech giants.,neutral,0.011262968182563782
+2016-05-11,Oracle’s Suit Against Google Digs Up Old Bones,negative,-0.5310169458389282
+2016-05-16,The Oracle of Omaha and the owner of the Cleveland Cavaliers are unlikely bidders for the troubled Internet icon.,neutral,-0.012691641226410866
+2016-05-16,Warren Buffett and Dan Gilbert Bid for Yahoo,neutral,0.03353690356016159
+2016-05-20,The software giant Oracle says the search giant Google infringed on its copyrights.,negative,-0.9275408983230591
+2016-05-20,That brought Google’s boss to the courtroom Thursday morning.,negative,-0.531653106212616
+2016-05-20,A Cheery Elevator Ride With Larry Page,neutral,0.19720250368118286
+2016-05-26,"The decision, which will be appealed, means that Google owes its Silicon Valley rival nothing for code it used in the Android operating system.",negative,-0.8029265403747559
+2016-05-26,Google Prevails as Jury Rebuffs Oracle in Code Copyright Case,negative,-0.8314051628112793
+2016-05-27,"The companies have been fighting for six years over the use of Java, which Oracle acquired when it bought Sun Microsystems.",negative,-0.7676186561584473
+2016-05-27,"Google Bests Oracle in Court, but the Fight Isn’t Over",negative,-0.8095318675041199
+2016-05-28,Do tech venture capitalists really want to support a system in which moving fast results in company-ending lawsuits?,neutral,0.06020267307758331
+2016-05-28,Farhad and Mike’s Week in Tech: Techies vs. the Media,negative,-0.5157579779624939
+2016-06-08,"The Golden State Warriors are almost a metaphor for the way the tech industry improves, and also risks ruining, all that it touches.",neutral,0.06896288692951202
+2016-06-08,"Warriors, Tech’s Team, Are Soaring Out of Reach",neutral,-0.25731873512268066
+2016-07-28,"The purchase of NetSuite by Oracle makes strategic sense, but Lawrence J. Ellison appears to benefit from a side investment at Oracle’s expense.",neutral,0.16710364818572998
+2016-07-28,"Once Again, an Oracle Deal Benefits Ellison",positive,0.8081418871879578
+2016-07-29,The business software omnivore is playing catch-up in one of the hotter fields of tech.,neutral,0.06665317714214325
+2016-07-29,Its NetSuite purchase is its latest thrust in that direction.,positive,0.6121007204055786
+2016-07-29,"For Oracle, Money’s Not the Problem.",neutral,-0.005907183513045311
+2016-07-29,It’s Coping With the Cloud.,neutral,0.21396152675151825
+2016-08-01,"The biggest business-software company thinks that information gathering could become a valuable adjunct to many of its database and applications efforts, and it has more data than anybody.",neutral,0.3176180422306061
+2016-08-01,"Oracle, Having Bet Billions on Its Future, Sets Sights on Data Analysis",neutral,0.2017676681280136
+2016-09-18,"As G.E., Oracle, Salesforce.com and others push their A.I.",neutral,0.06950756907463074
+2016-09-18,"products, it remains unclear whether potential customers understand how they will profit.",neutral,0.03152162954211235
+2016-09-18,Artificial Intelligence Software Is Booming.,positive,0.5705811381340027
+2016-09-18,But Why Now?,neutral,-0.239586740732193
+2016-10-02,"At annual presentations in San Francisco, tech companies deluge potential customers with data on their progress in cloud computing, machine learning and artificial intelligence.",neutral,-0.048679690808057785
+2016-10-02,Taking the Temperature Inside the (Feverish) Cloud,neutral,-0.06230350583791733
+2016-11-07,"Fear that Oracle would back away led NetSuite shareholders to accept a $9.3 billion offer over the objections of a major investor, T. Rowe Price.",negative,-0.11416962742805481
+2016-11-07,Larry Ellison’s Hardball Tactics Win NetSuite for Oracle,neutral,-0.010549157857894897
+2016-12-13,"The executives meeting with Mr. Trump in Manhattan on Wednesday include Elon Musk of Tesla, Timothy D. Cook of Apple and Jeff Bezos of Amazon.",neutral,-0.0027679726481437683
+2016-12-13,"When Trump Meets Tech Leaders, Jobs Will Be on the Agenda",neutral,0.030217908322811127

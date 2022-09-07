@@ -1,0 +1,619 @@
+Date,Sentence,Prediction,sentimentScore
+2007-01-04,A scientists’ organization accused Exxon of spending millions to manipulate public opinion on the seriousness of global warming.,negative,-0.832895040512085
+2007-01-04,Exxon Accused of Trying to Mislead Public,negative,-0.6564372777938843
+2007-01-12,Employment contracts have been blamed for virtually guaranteeing huge payouts even when an executive fails.,negative,-0.7974504232406616
+2007-01-12,"Hire by the Contract Now, Risk a Big Regret Later",negative,-0.5603632926940918
+2007-01-18,Exxon Mobil said output from its $17 billion Sakhalin Island development in the Pacific off Russia jumped 40 percent in the last month.,positive,0.9026626944541931
+2007-01-18,"Oil and natural gas production from the Sakhalin-1 development has risen to the equivalent of more than 200,000 barrels of crude a day, according to Stuart McGill, senior vice president.",positive,0.9118931889533997
+2007-01-18,"Exxon, which operates and owns a 30 percent stake in the project, expects output eventually to reach the equivalent of 317,000 barrels a day.",positive,0.7179092168807983
+2007-01-18,"Production at Sakhalin-1 was about 160,000 barrels a day in early December, a Bear Stearns analyst, Nicole Decker, said in a Dec. 13 note to clients after an analysts’ lunch with Exxon’s chief executive, Rex W. Tillerson.",neutral,-0.14686265587806702
+2007-01-18,Exxon began producing crude from the Chayvo field off Sakhalin Island’s ice-choked coastline in October 2005.,neutral,0.047790221869945526
+2007-01-18,"Exxon’s partners in Sakhalin-1 are a Japanese group known as Sodeco, the Oil and Natural Gas Corporation of India and the state-run Russian oil company Rosneft.",neutral,0.01522798277437687
+2007-01-18,Russia: Sakhalin Production Increases,neutral,-0.08939105272293091
+2007-02-01,"The $39.5 billion profit topped the previous record for a U.S. company, which Exxon set in 2005.",positive,0.8368669152259827
+2007-02-01,Exxon Sets Record on Annual Profits,neutral,0.22955265641212463
+2007-02-01,"Exxon Mobil Capital Spending Rises, But Not As Rapidly As Its Sharebuybacks",positive,0.8905631303787231
+2007-02-01,What Exxon Mobil Does With Its Money,neutral,0.004332408308982849
+2007-02-02,Exxon’s profit of $39.5 billion broke the record it set last year for the largest profit ever by an American company.,positive,0.8122255802154541
+2007-02-02,Exxon and Shell Report Record Profits for 2006,neutral,0.22254161536693573
+2007-02-03,The economy expanded faster than expected in the last quarter of 2006 and remains strong.,positive,0.9143345952033997
+2007-02-03,"Good News on Economy, Except for a Dell Executive",neutral,0.12496054917573929
+2007-02-10,"If Exxon Mobil doesn’t learn to talk more straightforwardly about its beliefs, it will never stop being the world’s whipping boy.",negative,-0.43597471714019775
+2007-02-10,Exxon Mobil Just Wants to Be Loved,neutral,0.05225316435098648
+2007-02-14,Rex W. Tillerson suggested a more accommodating position than the hard-nosed stance his company had held.,neutral,0.09346526116132736
+2007-02-14,Exxon Chief Cautions Against Rapid Action to Cut Carbon Emissions,negative,-0.35767990350723267
+2007-02-21,Exxon Mobil announced it would abandon a project to produce clean-burning diesel in partnership with Qatar’s state-run oil and gas company.,negative,-0.8395055532455444
+2007-02-21,Exxon to Abandon a Big Investment in Qatar,negative,-0.7409027218818665
+2007-03-05,"Technology has unlocked more oil from old fields, challenging forecasts that  reserves are drying out.",negative,-0.9320245981216431
+2007-03-05,Oil Innovations Pump New Life Into Old Wells,neutral,0.1762269139289856
+2007-03-08,Exxon said it would spend much of the record $39.5 billion it earned last year by increasing investment in oil and natural gas projects.,positive,0.8080219626426697
+2007-03-08,Exxon Plans to Lift Output a Million Barrels a Day,negative,-0.7822503447532654
+2007-03-20,"Exxon Mobil, Chevron, BP and others have poured billions into Angola in the last decade to unlock petroleum resources, and the payoffs are finally coming in.",negative,-0.8032981753349304
+2007-03-20,"Nowadays, Angola Is Oil’s Topic A",neutral,0.016581285744905472
+2007-04-10,A showdown between President Hugo Chávez and U.S. and European companies over key oil projects could wind up with all sides losing.,negative,-0.8695245981216431
+2007-04-10,High Stakes: Chávez Plays the Oil Card,neutral,0.03126751631498337
+2007-04-23,QUARTERLY REPORTS A decline in oil and gas prices is expected to translate into lower profits for the big oil companies.,negative,-0.9613562822341919
+2007-04-23,"Earnings are scheduled to be reported by BP (Tuesday), ConocoPhillips (Wednesday), Exxon Mobil (Thursday) and Chevron (Friday).",neutral,0.014948861673474312
+2007-04-23,"Lower oil prices may help the profits of transportation companies, including the airlines JetBlue (Tuesday), UAL (Wednesday) and US Airways (Thursday).",positive,0.0733325183391571
+2007-04-23,Looking Ahead,neutral,0.013165891170501709
+2007-04-27,"The oil company reported another surge on stronger earnings from its refining, marketing and chemicals businesses.",positive,0.9113805890083313
+2007-04-27,Exxon Mobil Earnings Rise 10 Percent,positive,0.4324467182159424
+2007-06-27,"ConocoPhillips and Exxon Mobil refused to meet Venezuela’s deadline for ceding control of major oil ventures, a move that could mean the loss of billions in investments.",negative,-0.9359025955200195
+2007-06-27,2 Oil Firms Are Defiant in Venezuela,negative,-0.5240403413772583
+2007-07-27,"The results were in contrast with those of Royal Dutch Shell, which reported a strong jump in quarterly earnings.",positive,0.17861732840538025
+2007-07-27,"Despite a Decline, Exxon Mobil’s Quarterly Profit Again Tops $10 Billion",positive,0.6265095472335815
+2007-07-27,"The results were in contrast with those of Royal Dutch Shell, which reported a strong jump in quarterly earnings.",positive,0.17861732840538025
+2007-07-27,"Exxon Profit Slips, Surprisingly",negative,-0.9528324007987976
+2007-08-22,"The warning came amid official anger over lengthy delays and large cost overruns at the field, discovered in 2000.",negative,-0.9504213929176331
+2007-08-22,Kazakhstan Threatens to Halt Work on Big Offshore Oil Project,negative,-0.8983166813850403
+2007-08-23,A 15-month standoff between the Canadian province of Newfoundland and Labrador and several major oil companies over an offshore oil project ended Wednesday.,negative,-0.9349350333213806
+2007-08-23,Deal Restarts Newfoundland Oil Project,neutral,0.114722840487957
+2007-09-06,Exxon Mobil said it would build a second chemicals factory in Singapore to meet rising demand in Asia.,positive,0.8005273342132568
+2007-09-06,Singapore: New Plant for Exxon,neutral,0.24415822327136993
+2007-10-30,"Exxon argued that given the $3.5 billion it has paid in cleanup costs, fines and settlements after the Valdez oil spill, the $2.5 billion in punitive damages is beyond constitutional due process.",negative,-0.8458811044692993
+2007-10-30,Justices to Hear Exxon’s Challenge to Punitive Damages,negative,-0.4971882700920105
+2007-11-01,"The Dow Jones industrials closed down more than 360 points today, a sell-off set in motion by weak earnings from Exxon Mobil and concern over Citigroup.",negative,-0.9621967673301697
+2007-11-01,Stocks Fall on Exxon Earnings and Citi Woes,negative,-0.9421977996826172
+2007-11-02,Many investors appeared to have second thoughts about their first reaction to the Fed’s move to lower rates.,neutral,-0.2626184821128845
+2007-11-02,"In Wild Swing, Stocks Give Up Rate-Cut Gains",negative,-0.1470228135585785
+2007-11-02,"Brazil’s state-run Petroleo Brasileiro, or Petrobras, will acquire Exxon Mobil‘s majority stake in a Japan-based refinery, Nansei Sekiyu, MarketWatch reported, citing a story in Nikkei News.",neutral,0.1764167994260788
+2007-11-02,Petrobas to Take Exxon’s Stake in Japanese Refinery,neutral,0.018274035304784775
+2007-11-05,"PetroChina, the state oil and gas giant, became the world’s first company to pass $1 trillion in market capitalization when it debuted on the Shanghai Stock Exchange today.",positive,0.8789476752281189
+2007-11-05,PetroChina Shares Triple in Debut,neutral,0.25619328022003174
+2007-11-05,"Soon after PetroChina makes its debut Monday on the Shanghai Stock Exchange, some expect the firm to surpass Exxon Mobil as the world’s largest company by market capitalization.",positive,0.8760603070259094
+2007-11-05,PetroChina May Become Top Company,neutral,0.05731049180030823
+2007-12-11,"Exxon Mobil said it plans to build a $1 billion floating natural-gas terminal about 20 miles off the New Jersey coast, a move it thinks could help deflect potential opposition to the project.",positive,0.5241547226905823
+2007-12-11,Gas Terminal Proposed Off New Jersey,neutral,-0.17046621441841125
+2007-12-12,The company said Tuesday that it would like to build a $1 billion floating terminal for liquefied natural gas about 20 miles off the coast of New Jersey.,neutral,0.3871486186981201
+2007-12-12,"Wary of Protests, Exxon Plans Natural Gas Terminal in the Atlantic",neutral,-0.3570028245449066
+2008-02-01,Exxon’s $40.6 billion in net income in 2007 exceeded the company’s own record for profits at a U.S. corporation.,positive,0.7735567688941956
+2008-02-01,Exxon Mobil Profit Sets Record Again,positive,0.3516940474510193
+2008-02-02,"Like most oil companies, Exxon benefited from a near doubling of oil prices, as well as higher demand for gasoline last year.",positive,0.9242463707923889
+2008-02-02,Exxon Sets Profit Record: $40.6 Billion Last Year,positive,0.6099776029586792
+2008-02-08,The oil giant won court orders freezing as much as $12 billion in petroleum assets controlled by Venezuela’s government.,negative,-0.8398597240447998
+2008-02-08,Court Bars Sale of Billions in Oil Assets by Venezuela,negative,-0.4307096302509308
+2008-02-08,The oil giant Exxon Mobil has won court orders freezing as much as $12 billion in petroleum assets controlled by Venezuela’s government in an escalation of a dispute over efforts by President Hugo Chávez to assert greater control over the country’s oil industry.,negative,-0.8318939805030823
+2008-02-08,Court Bars Sale of Billions in Oil Assets by Venezuela,negative,-0.4307096302509308
+2008-02-20,Crude oil vaulted through a longstanding psychological barrier amid persistent concern about whether production can keep up with rising global demand.,negative,-0.545413613319397
+2008-02-20,Supply Fears Push Oil to Triple Digits,negative,-0.82093745470047
+2008-03-02,Barack Obama is clearly an intelligent man.,neutral,0.13383200764656067
+2008-03-02,So it may not be too early to start a process of education about oil companies and why attacking them is not smart.,neutral,-0.05167318880558014
+2008-03-02,Exxon Mobil Needs a Hug,neutral,0.017575539648532867
+2008-03-05,"CNBC interviews Rex Tillerson, ExxonMobil's chief executive, about meeting the world's growing demand for energy.",neutral,0.1838652342557907
+2008-03-05,Exxon Chief Discusses Oil Prices,neutral,-0.10049646347761154
+2008-03-09,Who Profits Most.,neutral,0.06988829374313354
+2008-03-09,Letters,neutral,0.04351068288087845
+2008-03-19,A British court overturned an earlier ruling that froze as much as $12 billion in petroleum assets controlled by the government of President Hugo Chávez.,negative,-0.8845759630203247
+2008-03-19,Court Orders Freeing of Some Venezuelan Oil Assets,negative,-0.564990758895874
+2008-04-16,"Private equity bidders were reportedly lining up this week to submit 1.5 billion pound ($2.96 billion) bids for Infineum, an oil additives venture between Exxon Mobil and Royal Dutch Shell, in what would be one of the biggest buyouts in Britain this year.",positive,0.7062519192695618
+2008-04-16,Buyout Shops Said to Table $2.9 Billion Bids for Infineum,neutral,0.055733490735292435
+2008-05-01,"Exxon’s shares fell after the company reported that first-quarter net income rose 17 percent, slightly below expectations.",negative,-0.9593533277511597
+2008-05-01,"For Exxon Mobil, $10.9 Billion Profit Disappoints",negative,-0.9259418845176697
+2008-05-02,"Exxon Mobil, the world’s largest publicly traded oil company, said its net income rose 17 percent in the first quarter, buoyed by high oil prices.",positive,0.9376922845840454
+2008-05-02,"Exxon Posts Its 2nd-Best Quarter, but It’s Not Enough for Wall St.",negative,-0.9329633712768555
+2008-05-04,"Descendants of John D. Rockefeller, who formed the company that was to become Exxon Mobil, would like to see the company invest more in alternative energy.",neutral,0.37405088543891907
+2008-05-04,Can Rockefeller Heirs Turn Exxon Greener?,positive,0.6080322861671448
+2008-05-15,Work on a large oil sands project was delayed after the Federal Court of Canada rejected an appeal by Imperial Oil to reinstate a permit that was voided in March.,negative,-0.9408078193664551
+2008-05-15,Canadian Oil Sands Project Is Delayed,neutral,-0.04810488224029541
+2008-05-27,A shareholder move supported by the Rockefeller family is prodding Exxon Mobil to shift its priorities and take the threat of global warming more seriously.,positive,0.7179691195487976
+2008-05-27,Rockefellers Seek Change at Exxon,neutral,-0.2280864715576172
+2008-05-28,The oil industry is known to be very conservative.,neutral,0.02237914875149727
+2008-05-28,"And Exxon Mobil, the world’s largest publicly traded oil company, may be the most conservative of the bunch.",neutral,-0.33305585384368896
+2008-05-28,"It refuses to invest in projects that would lower its industry-leading return on capital employed, which is now around 35 percent.",negative,-0.9182493686676025
+2008-05-28,"Rather than use its phenomenal cash flow for huge, dilutive acquisitions, it prefers to spend billions of dollars to buy back its own stock.",neutral,0.028825948014855385
+2008-05-28,Exxon’s Texas-Size War Chest,neutral,-0.10597698390483856
+2008-05-29,"Rex W. Tillerson, Exxon Mobil’s chairman and chief executive, beat back a shareholder effort to take away one of his jobs, avoiding a serious rebuke to his authority.",negative,-0.9052799940109253
+2008-05-29,Exxon Rejects Proposals Backed by Rockefellers,negative,-0.7954751253128052
+2008-05-29,"Exxon Mobil‘s chairman and chief executive, Rex W. Tillerson, defeated a shareholder effort on Wednesday to take away one of his jobs at an annual meeting punctuated by a debate of the company’s policy toward renewable energy and global warming.",negative,-0.8951646089553833
+2008-05-29,Exxon Rejects Proposals Backed by Rockefellers,negative,-0.7954751253128052
+2008-05-31,Arguments about global warming have become so bitter and passionate that they can divide families.,negative,-0.8318696022033691
+2008-05-31,Even the Rockefellers.,neutral,0.018595736473798752
+2008-05-31,At Exxon’s Can’t-Miss Meeting,neutral,-0.1467651128768921
+2008-06-07,Several factors could explain the disconnect between skyrocketing oil prices and the mediocrity of the stock performance of the three biggest American oil companies.,negative,-0.5563202500343323
+2008-06-07,Big Oil Is Owed Some Love,neutral,0.0704420879483223
+2008-06-13,"Exxon Mobil said on Thursday that it was withdrawing from the retail gas business in the United States, citing the “very challenging” business conditions for its service stations.",negative,-0.9130020141601562
+2008-06-13,Exxon Plans to Sell Its Gas Stations,neutral,-0.013654697686433792
+2008-07-19,"Rex W. Tillerson, the chief executive of Exxon Mobil, shared his views on oil prices, a world increasingly dominated by state-owned energy giants and the future for alternative fuels.",neutral,0.09922808408737183
+2008-07-19,Chief Says Exxon Will Keep Doing What It’s Doing,neutral,0.42894312739372253
+2008-07-31,Here are a few facts about Exxon-Mobil quarterly profits announced today:,neutral,0.005609175190329552
+2008-07-31,Bad News from Exxon?,negative,-0.7495177984237671
+2008-08-01,"Record earnings for Exxon, the world’s largest publicly traded oil company, have become routine as the surge of oil prices in recent years has filled its coffers.",neutral,0.4100426137447357
+2008-08-01,Exxon’s Second-Quarter Earnings Set a Record,positive,0.7062010765075684
+2008-08-05,"Returning from vacation, I arrived home to find at my doorstop the latest issue of Portfolio, the not-quite-new Conde Nast business magazine, whose media critic is one Howell Raines, the former executive editor of The New York Times who left a couple of years before I got here.",neutral,-0.11533521115779877
+2008-08-05,"Anyway, I just read, somewhat dumbfounded, his latest column.",neutral,-0.07429870963096619
+2008-08-05,"It’s about how all of us in business journalism are being sandbagged by those awful people running Exxon Mobil and the other major oil companies, who are busy gouging us while tossing the press their “malarkey” about supply and demand being behind the rise in oil prices.",negative,-0.5588545203208923
+2008-08-05,"Raines, apparently, is among the legions who believe it’s all a big plot by Big Oil, which could bring down the price with a snap of its powerful finger.",neutral,-0.19043011963367462
+2008-08-05,"Howell Raines, Conspiracy Theorist",neutral,-0.26104527711868286
+2008-08-19,"Though eager to expand, the major Western oil companies are finding it harder than ever to find new prospects.",negative,-0.8889286518096924
+2008-08-19,"As Oil Giants Lose Influence, Supply Drops",negative,-0.84223872423172
+2008-09-11,"For the second time in two weeks, a powerful hurricane is forcing oil companies to shut down major production and refining facilities.",negative,-0.942939281463623
+2008-09-11,Oil Companies Brace for a 2nd Blow,neutral,-0.17058518528938293
+2008-09-15,"Crude oil prices fell to $91.39 a barrel in early trading on Tuesday, after closing under the symbolic $100-a-barrel threshold on Monday.",negative,-0.9607530236244202
+2008-09-15,Crude Oil Continues Decline,neutral,0.08215869963169098
+2008-09-16,"After an initial drop, stocks rose, overcoming an initial drop after the Federal Reserve decided to keep interest rates steady.",positive,0.8411697745323181
+2008-09-16,"The Fed Holds Rates Steady, and Wall Street Turns a Bad Start Around",negative,-0.8882959485054016
+2008-10-30,"In what might be the high-water mark for corporate profits, Exxon Mobil reported quarterly income of $14.8 billion as oil prices hit a record this summer.",positive,0.261004775762558
+2008-10-30,Exxon’s Profit Jumped to a Record in Quarter,positive,0.881823718547821
+2008-10-30,Exxon faces a challenge to its profits as falling prices pressure oil-producing nations to keep more for themselves.,negative,-0.9410204887390137
+2008-10-30,"Suddenly, Exxon Is Challenged",neutral,0.0004280209541320801
+2008-11-15,"As the world begins to shun dirty fuels, an undaunted Exxon Mobil says oil will power economies for decades.",neutral,-0.03435292840003967
+2008-11-15,"At Exxon, Making the Case for Oil",neutral,0.01586604118347168
+2008-12-29,The giant Russian natural gas monopoly is deep in debt and negotiating a government bailout.,negative,-0.6738849878311157
+2008-12-29,"Gazprom, Once Mighty, Is Reeling",neutral,0.07928608357906342
+2009-01-11,The managers of three of the better-performing funds in the fourth quarter found refuge in far-flung places and divergent strategies.,neutral,-0.3199678361415863
+2009-01-11,How Three Mutual Funds Steered Away From the Cliff,negative,-0.3597787916660309
+2009-01-30,"Exxon’s fourth-quarter income fell 33 percent as prices dropped, but its profit for the year was $45.2 billion, a record for an American corporation.",negative,-0.9649929404258728
+2009-01-30,Exxon Posts Record 2008 Profit Despite Slip in 4th Quarter,positive,0.3800670802593231
+2009-03-05,The oil company is bucking the trend in these troubled economic times.,positive,0.6161216497421265
+2009-03-05,"Despite Recession and Prices, Exxon Plans to Expand",positive,0.7776641845703125
+2009-03-06,"Exxon Mobil put on a show of strength on Thursday, pledging to increase investments in coming years, chiding rivals for mistimed acquisitions and reminding everyone it had the financial strength to make headway even as other companies pulled back, The New York Times’s Jad Mouawad reported.",positive,0.846969485282898
+2009-03-06,Exxon Mobil Sets Sights on Expansion,neutral,0.08823550492525101
+2009-04-07,"The Obama administration wants to spend $150 billion to diversify energy sources by encouraging more renewable sources, but oil giants are hanging back.",neutral,-0.1496458351612091
+2009-04-07,Oil Giants Loath to Follow Obama’s Green Lead,negative,-0.5330290794372559
+2009-04-30,"The company’s shares have lost 25 percent of their value in the last year, compared with a 37 percent drop on the Standard & Poor’s 500-stock index.",negative,-0.9648420810699463
+2009-04-30,Lower Oil Prices Reduce Exxon’s Quarterly Profit,negative,-0.9530311226844788
+2009-05-27,Initiatives on topics ranging from pollution to executive pay failed at Exxon Mobil’s annual shareholders’ meeting.,neutral,0.07925988733768463
+2009-05-27,Proposed Exxon Changes Rejected,neutral,-0.004556778818368912
+2009-06-12,The oil company’s participation bolsters a plan by the Canadian pipeline operator TransCanada and deals a blow to a rival project from BP and ConocoPhillips.,positive,0.7561625242233276
+2009-06-12,Exxon Joins Plan to Build Natural Gas Pipeline From Alaska,neutral,0.3228340744972229
+2009-06-30,Oil and gas companies were demanding far more for their services than the Iraqis were ready to pay.,negative,-0.7896744608879089
+2009-06-30,Few Bidders to Develop Iraqi Oil and Gas Fields,neutral,0.06319408118724823
+2009-07-14,The program is a joint venture with a biotech company founded by the genomics pioneer J. Craig Venter.,neutral,0.19625362753868103
+2009-07-14,Exxon to Invest Millions to Make Fuel From Algae,neutral,0.09661667048931122
+2009-07-14,"Exxon Mobil is to announce Tuesday an investment of $600 million in producing liquid transportation fuels from algae, in partnership with a biotechnology company founded by the genomics pioneer J. Craig Venter.",neutral,0.40395301580429077
+2009-07-14,Exxon to Invest Millions to Make Fuel From Algae,neutral,0.09661667048931122
+2009-07-30,Exxon’s report caps a week of lower earnings in the energy industry after the tumble of oil prices since last year.,negative,-0.9593137502670288
+2009-07-30,Profit Dropped 66% at Exxon Mobil,negative,-0.9689921736717224
+2009-07-31,"Oil is getting much harder to find and costlier to extract, and that won’t change.",neutral,-0.1812560111284256
+2009-07-31,Price Drop Reveals Big Oil’s Problem,negative,-0.6812576055526733
+2009-09-23,"New oil discoveries have totaled about 10 billion barrels this year, on a pace to reach the highest level since 2000.",positive,0.8180017471313477
+2009-09-23,Oil Industry Sets a Brisk Pace of New Discoveries,neutral,0.3006976544857025
+2009-10-06,Energy companies have shown intense interest in the Western African coastline.,neutral,0.30893585085868835
+2009-10-06,Exxon Said to Pay $4 Billion for Oil Field,neutral,0.005855683237314224
+2009-10-07,"Exxon Mobil has agreed to pay about $4 billion for a minority stake in a oil field off the coast of Ghana, a region that has emerged as a major new petroleum province, a person with knowledge of the matter said Tuesday.",positive,0.7111063599586487
+2009-10-07,Exxon Said to Pay $4 Billion for Oil Field,neutral,0.005855683237314224
+2009-10-13,"The oil exploration company confirmed the sale on Monday, which includes access to the untapped Jubilee oil field off the West African nation’s coast.",positive,0.5481401085853577
+2009-10-13,Kosmos Confirms Sale of Oil Stake,neutral,0.06301718950271606
+2009-10-13,"Kosmos Energy, an oil explorer backed by the Blackstone Group and Warburg Pincus, confirmed on Monday that it had agreed to sell assets in Ghana to the Exxon Mobil.",neutral,0.2454363852739334
+2009-10-13,Kosmos Energy Confirms Sale of Ghana Oil Stake,neutral,0.16815398633480072
+2009-10-27,A short list of behavioral changes that may limit greenhouses gases and other energy and environment news from around the Web.,neutral,0.03266504406929016
+2009-10-27,On Our Radar…,neutral,0.06087939813733101
+2009-10-29,"Exxon’s profit fell 68 percent in the third quarter, hurt by weakness at its production and development unit.",negative,-0.969997227191925
+2009-10-29,Exxon’s Earnings Reflect Decline in Energy Prices,negative,-0.9249706864356995
+2009-11-16,"Warren E. Buffett’s investment company, Berkshire Hathaway, on Monday disclosed its stakes in Exxon Mobil and Nestlé, as well as in the waste disposal company Republic Services and the Travelers Companies.",neutral,0.007916482165455818
+2009-11-16,Buffett Discloses Stakes in Exxon and Nestlé,neutral,0.01281041745096445
+2009-12-08,"In its latest outlook on world energy trends, Exxon Mobil advocates for a carbon tax and highlights the contributions of energy efficiency.",neutral,0.37672170996665955
+2009-12-08,Exxon Forecasts Efficiency Gains,neutral,0.1354154348373413
+2009-12-10,"A lawsuit says ExxonMobil divided the state into 100 zones, and set different prices for the same grade of fuel in different zones.",neutral,-0.3402481973171234
+2009-12-10,New Jersey Gas Dealers Say Exxon Overcharges,negative,-0.9221259355545044
+2009-12-14,"Exxon Mobil said Monday that it has agreed to buy XTO Energy, a natural gas producer, for $31 billion in stock and the assumption of $10 billion in debt, in one of the biggest energy mergers of recent years.",positive,0.7395820021629333
+2009-12-14,Exxon Mobil to Buy XTO Energy for $31 Billion,neutral,0.018745502457022667
+2009-12-14,"Exxon Mobil said Monday that it has agreed to buy XTO Energy, a natural gas producer, for $31 billion in stock and the assumption of $10 billion in debt, in one of the biggest energy mergers of recent years.",positive,0.7395820021629333
+2009-12-14,ExxonMobil to Buy XTO Energy for $41 Billion,neutral,0.015028122812509537
+2009-12-14,"The acquisition of XTO by Exxon is a bet on natural gas, a fossil fuel with reserves that are expanding in hard-to-reach areas.",neutral,0.05765190348029137
+2009-12-14,"In Exxon Deal, Signs of the New Gusher",neutral,0.018871746957302094
+2009-12-14,Exxon Mobil’s acquisition of XTO Energy amounts to a $31 billion wager on natural gas becoming the fossil fuel of choice for power generation in the United States.,positive,0.6919658780097961
+2009-12-14,Behind Exxon Mobil’s Big Bet on Natural Gas,neutral,-0.08953256905078888
+2009-12-14,Exxon Mobil finally unlocked its huge treasury share vault on Monday to acquire XTO Energy.,positive,0.6887071132659912
+2009-12-14,"By using its treasury shares to pay for XTO, Exxon still has billions of dollars left over to spend.",neutral,0.1151910051703453
+2009-12-14,Exxon Mobil Opens  Its Huge War Chest,neutral,0.06486015021800995
+2009-12-14,"Exxon Mobil agreed to buy XTO Energy, a domestic producer of natural gas.",positive,0.5051882863044739
+2009-12-14,The acquisition extends Exxon's bet that fossil fuels will remain a critical part of the nation's energy supplies for decades.,positive,0.8537482023239136
+2009-12-14,Exxon Mobil Will Buy XTO Energy,neutral,0.028101926669478416
+2009-12-15,Exxon Mobil’s $31 billion deal to buy XTO Energy is the latest and most significant signal that large companies are moving to make major investments in shale fields in the United States.,positive,0.7476592063903809
+2009-12-15,"In Exxon Deal, Signs of the New Gusher",neutral,0.018871746957302094
+2009-12-18,The oil company is acquiring XTO Energy for a price that is more than 30 percent below its June 2008 high.,neutral,0.008449748158454895
+2009-12-18,"Merger Lessons
+In the Oil Patch",neutral,0.023040711879730225
+2009-12-18,"In its deal for XTO Energy, it seems Exxon Mobil has learned from ConocoPhillips’s big bet on Burlington Resources, Breakingviews says.",positive,0.8799691796302795
+2009-12-18,Merger Lessons In the Oil Patch,neutral,0.023040711879730225
+2009-12-28,"In part one of his 2009 year in review, the Deal Professor examines the general trends of what he predicts will be a flatter deal-making landscape for some time to come.",neutral,0.052501779049634933
+2009-12-28,"The Deal Professor’s 2009 in Review, Part I: No Exit",neutral,0.011261619627475739
+2009-12-31,"The $15.4 billion Mackenzie Valley project faces two more regulatory hurdles, and in the end, it still may not be built.",negative,-0.8110917806625366
+2009-12-31,Canadian Board Approves Western Gas Pipeline,neutral,0.3796602487564087
+2010-01-04,The French oil giant Total said Monday that it was acquiring a 25 percent stake in tens of thousands of acres of natural gas fields in Texas controlled by Chesapeake Energy in a joint venture deal valued at $2.25 billion.,positive,0.6164796352386475
+2010-01-04,Total Joins Chesapeake in Gas Joint Venture,neutral,0.05198492854833603
+2010-02-01,"The company, which reported lower earnings, has taken advantage of the recession to buy rivals and increase operations.",positive,0.8660082221031189
+2010-02-01,Exxon Grew as Oil Industry Contracted,neutral,0.23621465265750885
+2010-02-01,"Cosan, the Brazilian sugar and biofuel giant, said Monday it will merge its ethanol and fuel distribution units with Royal Dutch Shell in a joint venture worth up to $12 billion, extending the trend of growing foreign investment in alternative fuels.",positive,0.8894685506820679
+2010-02-01,Shell to Join Brazil’s Cosan in Ethanol Joint Venture,neutral,0.3094334006309509
+2010-02-16,The world’s energy giants are expected to open their checkbooks to buy fast-growing small companies with reserves or promising oil and natural gas fields.,neutral,0.32121407985687256
+2010-02-16,Energy Company Mergers Are Expected to Rise,neutral,-0.049539804458618164
+2010-02-18,"Exxon Mobil replaced 100 percent of 2009 oil production with new reserves, but the oil will be harder to extract and of lower value to investors.",negative,-0.8820950388908386
+2010-02-18,Barrels in Reserve but Harder to Get,negative,-0.5597259402275085
+2010-02-22,"Schlumberger’s $11 billion takeover of Smith Industries is a big bet on the future of unconventional natural gas production in the United States, according to no less than the oil services giant’s own chief executive.",neutral,0.3327651023864746
+2010-02-22,Behind Schlumberger’s Smith Deal: A Big Gas Bet,neutral,0.15347447991371155
+2010-02-23,"Volatility returned to Wall Street on Monday, ending a four-day winning streak for stocks, as worries over the energy sector overshadowed hopes that banks would continue to bring in generous profits, The New York Times reported.",positive,0.48131054639816284
+2010-02-23,Wall Street Exchanges Turn Lower in Closing Minutes,negative,-0.914445161819458
+2010-03-16,"Consol Energy may be getting a bargain with its $3.5 billion deal to buy assets from Dominion Resources, but the coal company risks confusing investors and sealing in a conglomerate discount, Breakingviews says.",negative,-0.4365025758743286
+2010-03-16,Does Dominion Deal Put Consol at Risk?,neutral,-0.06390149891376495
+2010-03-30,"A brighter outlook for the American consumer and signs that foreign debt troubles were easing helped propel Wall Street higher on Monday, The New York Times reported.",positive,0.8928611278533936
+2010-03-30,Optimism About Recovery Lifts Shares,positive,0.3617452383041382
+2010-04-08,"Wall Street investors were rattled on Wednesday by the prospect of higher interest rates and new signs that consumers were reluctant to spend again, The New York Times writes.",negative,-0.8972502946853638
+2010-04-08,A Call for Fed to Raise Rates Unsettles Investors,negative,-0.39895695447921753
+2010-04-14,"Wall Street traders took in the first batch of quarterly earnings reports on Tuesday, but nobody seemed quite sure what to make of the numbers, The New York Times reports.",neutral,0.041632577776908875
+2010-04-14,A Modest Gain as Investors Digest Earnings Reports,positive,0.4570596516132355
+2010-04-15,"The recent flurry of deal activity in the energy industry — $130 billion so far this year and counting — is once again making them the most valuable clients for the world’s merger advisers, Breakingviews says.",positive,0.736488401889801
+2010-04-15,"With Oil Deals, Merger Advisers Rejoice",neutral,0.040262214839458466
+2010-04-21,"Renewed confidence about an economic recovery helped a rally on Wall Street on Tuesday, with energy and banking stocks leading the way, The New York Times reported.",positive,0.7861615419387817
+2010-04-21,Energy and Banking Shares Lift Wall Street,positive,0.7650848031044006
+2010-04-26,"Stocks pushed higher on Friday as the Dow Jones industrial average rose for a fifth consecutive day, and analysts saw little economic news on the horizon that would upset market sentiment next week.",positive,0.36494091153144836
+2010-04-26,"Dow Ends Week Up, Extending Streak to 5 Days",positive,0.2901080846786499
+2010-05-13,"Wall Street indexes climbed higher on Wednesday amid new evidence that the United States economy could be staging a recovery, The New York Times reported.",positive,0.8616114258766174
+2010-05-13,Gold Jumps as Wall Street Steadily Rises,positive,0.48864832520484924
+2010-05-20,"An oil separation technology firm, which Kevin Costner bought from the government in 1995 and put $24 million of his own money into developing, may be now help BP clean up the current spill in the gulf, Green Inc. reports.",positive,0.5479270815849304
+2010-05-20,If You Build It … Kevin Costner and the Oil Spill,neutral,0.043369926512241364
+2010-05-25,"Stocks declined on Monday, dragged down by late-day losses in the financial sector, which has been mired in uncertainty over financial reforms and European debt troubles.",negative,-0.9528595209121704
+2010-05-25,Wall Street Slips at the Close,negative,-0.845461368560791
+2010-06-07,"White Collar Watch examines the potential criminal and civil liability that BP, Transocean, Halliburton and others may face in the enormous oil spill in the Gulf of Mexico.",neutral,-0.12043337523937225
+2010-06-07,Looking for Liability in BP’s Gulf Oil Spill,neutral,-0.03484971076250076
+2010-06-08,"With BP shares plunging since the oil rig accident, many are speculating about the company’s options, Andrew Ross Sorkin writes in his latest DealBook column.",negative,-0.9193622469902039
+2010-06-08,Imagining the Worst in BP’s Future,neutral,-0.15196308493614197
+2010-06-09,"Stocks were mostly higher on Tuesday, partly in response to encouraging comments late Monday by Federal Reserve chairman Ben S. Bernanke, as increases in energy and material shares helped to offset a down day for technology.",positive,0.8537098169326782
+2010-06-09,Energy and Chemical Companies Help Lift Market,neutral,0.12094306945800781
+2010-06-10,"Investors were shaken Wednesday by the prospect that BP might cut its dividend, pulling down the broader market.",negative,-0.9399805068969727
+2010-06-10,"In the last hour of trading, the major indexes on Wall Street — led by energy shares — turned lower, erasing gains of more than 120 points on the Dow Jones industrial average.",negative,-0.9579088091850281
+2010-06-10,BP Concerns Drag Down Other Stocks,negative,-0.8158704042434692
+2010-06-14,"As the oil spill in the Gulf of Mexico follows on the heels of the financial crisis, we can discern a toxic recipe for catastrophe, Richard H. Thaler writes in a column in The New York Times.",neutral,-0.16610905528068542
+2010-06-14,"Recipes for Ruin, in the Gulf or on Wall Street",neutral,-0.31084302067756653
+2010-06-15,"In their remarks to a House panel, the executives of oil drillers tried to cast the BP spill as a rare event that their companies were not likely to repeat.",negative,-0.7484921216964722
+2010-06-15,Oil Executives Break Ranks in Testimony,negative,-0.5111576318740845
+2010-06-17,"President Obama would be wise to think about the perils of lax regulation, be it in Big Finance or Big Oil, an economist writes.",neutral,-0.1442953646183014
+2010-06-17,Why Living Wills Fail,neutral,-0.025973469018936157
+2010-06-19,"In the last five years, BP had two accidents that should have raised its focus on safety, and that makes the gulf disaster even more unforgivable.",negative,-0.1636442244052887
+2010-06-19,BP Ignored the Omens of Disaster,neutral,0.023871898651123047
+2010-06-21,"Lucian A. Bebchuk, a Harvard law professor, argues that Congress should reject attempts to impose severe limits on the ability of shareholders to place director candidates on the corporate ballot.",neutral,-0.3570263087749481
+2010-06-21,Another View: Don’t Gut Proxy Access,neutral,-0.050577834248542786
+2010-06-21,The Deal Professor examines how BP may have come out ahead by agreeing to set up a $20 billion fund for damage claims from the oil spill in the Gulf of Mexico.,positive,0.5027903914451599
+2010-06-21,Is the $20 Billion Fund Actually a Victory for BP?,neutral,0.18408901989459991
+2010-06-23,Stock prices fell sharply on Tuesday on renewed worries about the housing market and weakness in energy shares after the Obama administration said it would appeal a ruling by a federal judge blocking a moratorium on deep-water drilling.,negative,-0.9475610256195068
+2010-06-23,Shares Slide on Weakness in Energy,negative,-0.9094059467315674
+2010-07-06,"BP has approached sovereign wealth funds with a view to securing a strategic investor to fend off takeover bids while the British oil company deals with its massive U.S. oil spill, according to press reports.",neutral,0.3416779637336731
+2010-07-06,"BP In Talks With Wealth Funds, Reports Say",neutral,0.07710815966129303
+2010-07-09,"Gas prices have tumbled since the company agreed to pay $31 billion for the gas producer, but that doesn’t make the deal a bust, says Breakingviews.",negative,-0.7291109561920166
+2010-07-09,Exxon’s XTO Deal Is Proving a Long Hedge,neutral,0.08965576440095901
+2010-07-12,"The world’s largest oil company empowered everyone, even contractors, to speak up about safety problems after the environmental disaster in Prince William Sound.",neutral,0.3570905327796936
+2010-07-12,New Culture of Caution at Exxon After Valdez,neutral,-0.14072860777378082
+2010-07-13,"Despite a catalog of crises and near misses in recent years, BP has been chronically unable or unwilling to learn from its mistakes, an examination of its record shows, The New York Times reports.",negative,-0.9140058755874634
+2010-07-13,"BP’s Record, a History of Boldness and Blunders",neutral,0.12558868527412415
+2010-07-20,"Exxon Mobil on Monday said it is offering to buy up to $2.7 billion in outstanding debt securities issued by its new subsidiary, XTO Energy, The Associated Press reported.",neutral,0.4390353560447693
+2010-07-20,Exxon Offers to Buy $2.7 Billion in XTO Debt,neutral,0.27109295129776
+2010-07-21,Four large oil  companies are committing $1 billion to set up a system to deal with oil spills in the Gulf of Mexico.,neutral,0.4238506555557251
+2010-07-21,4 Oil Firms Commit $1 Billion for Gulf Rapid-Response Plan,neutral,0.4163433611392975
+2010-07-26,"While dozens of companies, as well as many academic laboratories, are racing to produce algae as a source of green energy, efforts to genetically engineer certain strains worry some experts because of the vital role it plays in the environment.",neutral,-0.001070905476808548
+2010-07-26,Exploring Algae as Fuel,neutral,0.027634598314762115
+2010-07-30,Disgruntled investors have wiped more than $40 billion off the value of Exxon Mobil since its splurge on the gas giant XTO Energy.,negative,-0.9484671354293823
+2010-07-30,Exxon Shares Have Fallen Too Much,negative,-0.8890634775161743
+2010-07-30,"While disgruntled investors have wiped more than $40 billion off the value of Exxon Mobil since its splurge on the gas giant XTO Energy, it would be wrongheaded to assume that XTO has zero value, Reuters Breakingviews says.",negative,-0.9381746053695679
+2010-07-30,Have Investors Unfairly Punished Exxon?,negative,-0.8590124845504761
+2010-08-05,Reliance Industries’ $392 million deal with Carrizo Oil and Gas is the latest in a series in which Reliance has been paying top dollar to tap into the American natural gas market.,positive,0.6028653979301453
+2010-08-05,Reliance’s Big Bet on a Pricey Shale Deal,neutral,0.09292727708816528
+2010-08-16,"SAC Capital Advisors, the hedge fund firm run by the billionaire Steven A. Cohen, increased its stakes in Exxon Mobil and BP during the second quarter.",positive,0.8147075176239014
+2010-08-16,Cohen Moves Deeper Into Oil,neutral,-0.030711457133293152
+2010-08-18,"Kosmos Energy, the U.S.-based oil explorer focusing on West Africa, ended its plans for a $4 billion sale of fields in Ghana to Exxon Mobil.",negative,-0.6554607152938843
+2010-08-18,Kosmos Scuttles Plans for $4 Billion Sale,neutral,-0.2884379029273987
+2010-09-03,"The private equity backers of oil firm Kosmos Energy are considering taking it public in either the U.K. or U.S., which could value the company at around $5 billion, Reuters said, citing a report in The Financial Times Thursday.",neutral,0.09704440087080002
+2010-09-03,Would a Public Kosmos be Worth $5 Billion?,neutral,0.04172345623373985
+2010-10-21,"Big oil companies want to use a route in the American Northwest to ship loads of equipment, but residents object.",negative,-0.8195884823799133
+2010-10-21,Oil Sands Effort Turns on a Fight Over a Road,negative,-0.7852430939674377
+2010-10-25,"Reports will include existing home sales for September and corporate results from Ford, Procter & Gamble, Microsoft and Exxon Mobil.",neutral,0.0424601212143898
+2010-10-25,Looking Ahead: Economic Reports This Week,neutral,-0.09844644367694855
+2010-10-28,"Royal Dutch Shell also reported strong results, following a ConocoPhillips report on Wednesday that its quarterly income had nearly doubled.",positive,0.9098052382469177
+2010-10-28,Exxon Profit Soars 55% as Oil Prices Rebound,positive,0.23350870609283447
+2010-11-01,"Oil and Natural Gas Corp., the Indian state-run explorer, is in talks with Exxon Mobil’s Angolan arm to buy its 25 percent stake in an oil field for about $2 billion, The Economic Times reported.",neutral,0.3479999005794525
+2010-11-01,Indian Firm May Bid on Exxon Stake in Angola,neutral,0.07208756357431412
+2010-11-16,Recent discoveries of oil and natural gas fields and new mining technology have combined to help increase the world’s supply of energy for decades to come.,positive,0.894476592540741
+2010-11-16,There Will Be Fuel,neutral,0.08226925134658813
+2010-11-22,"The deal will make Energy XXI the third-largest oil producer on the Gulf of Mexico shelf, said John D. Schiller Jr., its chief executive.",positive,0.838631808757782
+2010-11-22,Exxon Mobil to Sell $1 Billion in Gulf Assets,neutral,-0.006413765251636505
+2010-11-23,"With the help of Ralph Eads III, nine of the 10 biggest shale transactions in the last three years have included Jefferies & Company as an adviser.",neutral,0.04023321345448494
+2010-11-23,Small Player on Wall Street Carves Out a Niche,neutral,0.09562244266271591
+2011-01-25,"Separating high-growth exploration activities from sluggish refining and marketing businesses could add billions to market valuations, some analysts say.",neutral,0.4714713990688324
+2011-01-25,Split Up Oil Companies to Unlock Their Value,neutral,-0.06622755527496338
+2011-01-27,"A deal reached Thursday commits Exxon to spend about $1 billion looking for oil on the Black Sea coast, and holds the promise of sharing in the prize if it is discovered.",positive,0.5370079278945923
+2011-01-27,"Despite Politics, Oil Companies Are Lured by Russian Petroleum",neutral,0.10582130402326584
+2011-01-28,Exxon committed to spend about $1 billion looking for oil on the Black Sea coast.,neutral,0.16350531578063965
+2011-01-28,Other large oil companies have also found the allure of Russian petroleum too strong to resist.,negative,-0.726371705532074
+2011-01-28,"Despite Politics, Oil Giants Lured by Russian Petroleum",neutral,0.05033966153860092
+2011-01-31,Oil companies have benefited not only from strengthening oil prices but also from improved margins in their refinery businesses.,positive,0.938387393951416
+2011-01-31,"Exxon’s Profit Rises in Quarter, Helped by Higher Oil Prices",positive,0.8521531224250793
+2011-02-15,"Energy producers declined, led by Exxon Mobile, which fell 2.3 percent, its biggest drop since August..",negative,-0.9530474543571472
+2011-02-15,Markets Retreat as Exxon Leads Energy Shares Down,negative,-0.8139901757240295
+2011-03-23,ConocoPhillips plans to sell $5 billion to $10 billion of noncore assets over the next two years and use the proceeds to buy back shares and invest in its business.,neutral,0.04138808697462082
+2011-03-23,ConocoPhillips to Sell Up to $10 Billion of Assets,neutral,0.024069087579846382
+2011-03-28,"Foreign powers can help by showing they’re interested in Egypt, not simply in bombing neighboring Libya.",neutral,0.21066264808177948
+2011-03-28,Egypt Needs a Rebuilding Fund,neutral,-0.1693662703037262
+2011-04-09,"Albert Meyer, a money manager, sees some international companies as models of pay practices that show more respect for shareholders than similar American companies do.",neutral,0.05366044491529465
+2011-04-09,Enriching a Few at the Expense of Many,neutral,0.19135946035385132
+2011-04-10,"Though Shell, known for being ultracautious, would be unlikely to make a hostile offer, Exxon Mobil must be tempted.",neutral,0.05405092239379883
+2011-04-10,BP Fast Becoming a Takeover Target,neutral,-0.06213229149580002
+2011-04-28,The biggest oil companies in the United States and Europe benefited from higher oil prices and earnings from refining.,positive,0.8939151763916016
+2011-04-28,Profit Jumps at Exxon and Shell,negative,-0.10913026332855225
+2011-05-12,Executives of five of the largest oil companies said the $2.1 billion they received annually in tax breaks were legitimate tax deductions.,neutral,0.03650848567485809
+2011-05-12,"Oil Executives, Defending Tax Breaks, Say They’d Cede Them if Everyone Did",negative,-0.5005858540534973
+2011-05-24,The admissions policies of elite colleges don’t matter just to high school seniors; they’re a matter of national interest.,neutral,0.024479849264025688
+2011-05-24,"Top Colleges, Largely for the Elite",neutral,-0.021072082221508026
+2011-06-10,"The Marcellus shale has offered some of the hottest wildcat real estate in recent years, but if Exxon Mobil’s recent $1.7 billion acquisition is any indication, the days of eye-watering prices are over.",neutral,0.10982990264892578
+2011-06-10,Prices Fall for Some Gas-Rich Shale Land,negative,-0.9117287993431091
+2011-07-28,"Exxon’s earnings were a bit lower than analysts had expected despite strong revenue growth, reflecting a record $10.3 billion in capital and exploration expenditures.",negative,-0.9668039083480835
+2011-07-28,Higher Prices Buoy Profits as Oil Companies Scramble for New Fields,positive,0.639596700668335
+2011-07-29,The smaller shops have been able to prosper despite the slowdown.,positive,0.8875848650932312
+2011-07-29,Boutique Firms Are Bearing Up,neutral,-0.027808591723442078
+2011-08-03,"Hanging over the debt ceiling talks has been the threat of the United States losing its AAA credit rating, but in corporate America, the top status long ago became an anachronism.",negative,-0.864363431930542
+2011-08-03,AAA Rating Is a Rarity in Business,neutral,0.08597816526889801
+2011-08-10,A close look at earnings ratios and growth suggests the company may actually be worth $1 trillion.,neutral,0.15471409261226654
+2011-08-10,Apple May Be Underpriced,negative,-0.7992417216300964
+2011-08-10,"Apple surpassed Exxon Mobil as the stock markets’ most valuable company, although Exxon finished the day in the lead.",positive,0.7140769958496094
+2011-08-10,"Briefly, Apple Reigns as the Most Valuable Company",neutral,0.16999319195747375
+2011-08-30,Exxon Mobil struck an agreement to explore for oil in a Russian sector of the Arctic Ocean that is opening for drilling in a deal that could grow to $500 billion over time.,positive,0.8997529745101929
+2011-08-30,Exxon Reaches Arctic Oil Deal With Russians,positive,0.7422869205474854
+2011-08-31,"Splitting up conglomerates, such as with the recent breakups of Marathon Oil and Motorola, seems to be benefiting investors.",positive,0.8166393637657166
+2011-08-31,The Advantages of Breaking Up,neutral,0.116767019033432
+2011-08-31,A raid of BP office’s in Moscow underscored the uncertain nature of dealing with state-run companies.,negative,-0.8149401545524597
+2011-08-31,Memo to Exxon: Business With Russia Might Involve Guns and Balaclavas,neutral,-0.3370058238506317
+2011-09-10,An analysis shows that the Pipeline and Hazardous Materials Safety Administration is struggling to safeguard a transport network laced with risks.,negative,-0.9497718214988708
+2011-09-10,Pipeline Spills Put Safeguards Under Scrutiny,negative,-0.6248072981834412
+2011-10-12,An energy conference was told that new extraction processes could reduce dependence on foreign oil.,positive,0.8666338324546814
+2011-10-12,Oil Executive Promotes Shale Gas to Europeans,neutral,0.11006838828325272
+2011-10-27,The two largest oil companies in the United States and in Europe reported strong earnings for the third quarter.,positive,0.9340119361877441
+2011-10-27,Oil Industry Hums as Higher Prices Bolster Quarterly Profits at Exxon and Shell,positive,0.39600870013237
+2011-12-23,An oil deal in Kurdistan could be delaying a $50 million payment that Exxon Mobil wants from the Iraq government for improvements it made to an oil field.,negative,-0.9263354539871216
+2011-12-23,Exxon Spars With Iraq Over Lack of Payment,negative,-0.9256133437156677
+2012-01-01,"An international arbitration panel says that Venezuela must pay Exxon Mobil for assets it nationalized in the Orinoco Belt, a region rich with heavy oil deposits.",negative,-0.8806267380714417
+2012-01-01,Venezuela Is Ordered to Pay $900 Million to Exxon Mobil,negative,-0.8550305962562561
+2012-01-03,"After a nationalization ruling, the American oil company could receive as much as $555 million and be released from debts totaling about $352 million.",neutral,0.0964217409491539
+2012-01-03,Arbitration Award for Exxon Is Detailed,neutral,0.13130930066108704
+2012-01-07,"The Exxon Mobil Corporation and Kenneth Salazar, the interior secretary, agreed to settle a lawsuit in which Exxon challenged the government’s decision to cancel offshore leases.",negative,-0.5063344836235046
+2012-01-07,Exxon and Salazar in Settlement on Offshore Leases,neutral,-0.2847968339920044
+2012-01-21,"Apple’s iPhone is a model of American ingenuity, but most of its components are manufactured somewhere else.",neutral,0.059345543384552
+2012-01-21,The decline of manufacturing led to the loss of other kinds of jobs.,negative,-0.9230696558952332
+2012-01-21,The iPhone Economy,neutral,0.03095875307917595
+2012-01-29,"Exxon Mobil said on Sunday that it has agreed to sell its Japanese subsidiary to TonenGeneral Sekiyu, a major refinery operator in Japan, for about $3.9 billion.",neutral,0.21340426802635193
+2012-01-29,Exxon Mobil to Sell Its Japanese Arm for $3.9 Billion,neutral,-0.03692595288157463
+2012-01-31,"The world’s largest publicly traded oil company reported net income of $9.4 billion for the quarter, up from $9.25 billion the year before.",positive,0.916329562664032
+2012-01-31,Higher Oil Prices Raise Earnings at Exxon Mobil,positive,0.5601969957351685
+2012-02-08,"Rising oil prices and a boom in shale exploration are leading companies to add office space in the Houston area, most notably Exxon Mobil.",positive,0.6121753454208374
+2012-02-08,Energy Spurs a Recovery in Houston,positive,0.7586745023727417
+2012-02-12,"Mr. Aaron was one of the most notable deal-makers of his generation, having counseled a long list of blue-chip clients that included General Motors, Time Warner and Pfizer.",neutral,0.07807905972003937
+2012-02-12,"Roger S. Aaron, Top Deal Lawyer, Dies at 69",neutral,-0.2613641321659088
+2012-03-29,"The gift to the Masterpiece Trust, the largest it has received, came from the San Diego philanthropist Darlene Shiley, and followed another successful season of the popular show “Downton Abbey.”",positive,0.5766348242759705
+2012-03-29,$1 Million Gift to PBS’s ‘Masterpiece’,neutral,0.21510128676891327
+2012-04-16,"The agreement will form joint venture, while a Rosneft subsidiary will acquire shares in shale and oil fields in West Texas and western Canada and Exxon oil and gas fields in the Gulf of Mexico.",neutral,0.13232067227363586
+2012-04-16,Exxon and Russia’s Oil Company in Deal for Joint Projects,neutral,0.2965819537639618
+2012-04-26,"The oil company’s profit in the first quarter was less than analysts had expected, while Royal Dutch Shell’s earnings beat forecasts.",negative,-0.9619278907775879
+2012-04-26,Exxon Mobil Earnings Disappoint,negative,-0.7670060396194458
+2012-07-19,"The move, the second by an American oil major, underlines that the autonomous region, which is often at odds with Baghdad, is becoming an increasingly attractive investment.",positive,0.8417515754699707
+2012-07-19,Chevron Makes Oil Exploration Deal in Iraqi Kurdistan,neutral,0.0568879097700119
+2012-07-22,"Data will include new home sales for June and the second quarter’s gross domestic product; companies reporting results will include McDonald’s, Apple, Facebook, Ford and Exxon Mobil.",neutral,0.023656638339161873
+2012-07-22,Economic Reports for the Week Ahead,neutral,0.0058092400431632996
+2012-07-26,"Profits at Exxon Mobil fell by 22 percent from last year’s second quarter and by 13 percent at Royal Dutch Shell, but industry analysts remained optimistic.",negative,-0.9691987633705139
+2012-07-26,"For Exxon Mobil and Shell, Earnings Fall With Energy Prices",negative,-0.964692234992981
+2012-07-31,"Credit Suisse has hired Bruce Cox to serve as the head of acquisition and divestiture in its investment banking division’s oil and gas group, according to an internal memorandum reviewed by DealBook.",neutral,0.0879395604133606
+2012-07-31,Credit Suisse Hires Oil and Gas Banker From BMO,positive,0.3380538821220398
+2012-10-06,"With gasoline supplies already tight, a power failure at Exxon Mobil’s Torrance, Calif., refinery on Monday crimped production even further, but normal operations have resumed.",negative,-0.9473719000816345
+2012-10-06,California Struggles With High Gas Prices,negative,-0.6426624655723572
+2012-10-17,Exxon Mobil has agreed to buy Celtic Exploration for about $3.1 billion in cash and stock to expand its presence in the energy-rich shale formations of western Canada.,positive,0.8452702164649963
+2012-10-17,Exxon to Buy Canadian Oil and Gas Company for $3.1 Billion,neutral,0.039991073310375214
+2012-10-28,"Data to be released includes construction spending for September and the October unemployment figures, and companies reporting earnings include General Motors, Exxon Mobil and Starbucks.",neutral,-0.0006348341703414917
+2012-10-28,Economic Reports for the Week Ahead,neutral,0.0058092400431632996
+2012-11-01,"Exxon Mobil and Royal Dutch Shell reported lackluster third-quarter earnings because of declining oil and natural gas production and weak domestic gas prices, but refinery operations were strong.",negative,-0.8462460041046143
+2012-11-01,"Exxon and Shell Earnings, Hurt by Natural Gas, Are Helped by Refining",negative,-0.9534205198287964
+2012-11-14,"The Kurds are intent on maintaining their autonomy in developing their own oil resources, while federal government insists that only it has authority to grant access to Iraq’s natural resources.",neutral,0.06813570111989975
+2012-11-14,Iraqi Government and Kurdistan at Odds Over Oil Production,negative,-0.8136376738548279
+2013-01-05,Global demand for natural gas — which would be shipped from the United States in a condensed form — could taper off by the time new and costly export terminals are ready.,negative,-0.941413164138794
+2013-01-05,Exports of American Natural Gas May Fall Short of High Hopes,negative,-0.9321443438529968
+2013-02-01,The No.,neutral,-0.2351313829421997
+2013-02-01,"1 American oil company reported strong earnings on its refining and chemical businesses, compensating for disappointing results in oil and gas.",positive,0.8846944570541382
+2013-02-01,Refining Helps Profit at Exxon Mobil,positive,0.36707431077957153
+2013-04-25,Earnings fell at ConocoPhillips as low natural gas prices hurt oil and gas production companies.,negative,-0.9658500552177429
+2013-04-25,Exxon Mobil’s Profit Is Flat,neutral,0.0813135951757431
+2013-05-12,"A shareholder vote on whether to split Jamie Dimon’s roles as chief executive and chairman could turn on whether the board’s lead director, Lee Raymond, is seen as strong enough to stand up to Mr. Dimon.",neutral,0.13519102334976196
+2013-05-12,Big Vote on Dimon May Hinge on Views on JPMorgan’s Top Director,negative,-0.7353523373603821
+2013-05-24,"More than 88 percent of Fortune 500 companies have adopted written policies prohibiting bias on the basis of sexual orientation, but Exxon Mobil has refused.",neutral,-0.29615676403045654
+2013-05-24,Exxon Defies Calls to Add Gays to Anti-Bias Policy,neutral,-0.2598000466823578
+2013-05-24,The Times's James B. Stewart on an example of a company resisting wider social pressures for less discrimination against gay employees.,neutral,0.07356037199497223
+2013-05-24,Exxon Mobil's Stance on Gay Rights,neutral,-0.08959564566612244
+2013-06-26,A race to develop cleaner technologies is one part of an industrywide campaign in Canada aimed at winning the Obama administration’s approval for a pipeline extension.,positive,0.8025772571563721
+2013-06-26,"In Bid for Keystone, Visions of a Greener Pipeline",positive,0.548180103302002
+2013-07-03,"Mr. Warner steered the company through the Arab oil embargo of 1973, lurches in the oil market and ever more delicate dealings with oil-producing nations.",neutral,0.15445014834403992
+2013-07-03,"Rawleigh Warner Jr., Brash Chairman of Mobil, Dies at 92",neutral,-0.22361987829208374
+2013-07-25,Less ice along the Northeast Passage means Russian energy companies have more places to drill and a clear shipping lane to reach customers in China.,positive,0.7847607135772705
+2013-07-25,Polar Thaw Opens Shortcut for Russian Natural Gas,negative,-0.25789523124694824
+2013-08-01,"Shell said problems in Nigeria and North America weakened its second-quarter results, and Exxon was hurt by lower margins and reduced volumes at its refineries.",negative,-0.9666788578033447
+2013-08-01,Earnings at Shell and Exxon Fall Sharply in 2nd Quarter,negative,-0.9707691073417664
+2013-08-26,"While shareholder activists like Carl Icahn, William Ackman, Nelson Peltz and Ron Burkle often cloak their demands in the language of long-term actions, the author writes, their real goal is a short-term bump in the stock price.",neutral,-0.03804934769868851
+2013-08-26,"Activists Seek Short-Term Gain, Not Long-Term Value",neutral,-0.06026940792798996
+2013-09-11,"The initial production is just 26,000 barrels a day, but eventually the project could yield 1.5 million barrels a day, about what Libya produces.",neutral,0.051446668803691864
+2013-09-11,Kazakhstan Oil Field Begins Production After Years of Delay,positive,0.6258971095085144
+2013-09-20,A striking militia opened the valves on a pipeline between two major western oil fields and Mediterranean port terminals.,negative,-0.8153913021087646
+2013-09-20,"Pipeline Reopens in Libya, Bolstering Oil Production",positive,0.8876196146011353
+2013-09-28,"The Exxon Mobil Corporation, which has drawn criticism for policies related to its gay and lesbian workers, said that it would extend health insurance to married same-sex couples effective Oct. 1.",neutral,0.351946085691452
+2013-09-28,Exxon to Extend Health Care to Married Same-Sex Couples,positive,0.6258870959281921
+2013-10-08,"American consumers are using less gasoline, and despite upheaval in the Middle East and elsewhere, domestic oil production and other sources should ease supply issues for now.",positive,0.8005807399749756
+2013-10-08,Oil Shocks Ahead?,negative,-0.5002118945121765
+2013-10-08,Probably Not,neutral,-0.2966861128807068
+2013-10-27,"Many big-name companies are reporting earnings, including Apple, Exxon Mobil, Facebook, General Motors and Chrysler, and the Fed is expected to keep up its stimulus efforts.",positive,0.7062664031982422
+2013-10-27,Economic Reports for the Week of Oct. 28,neutral,-0.1281532198190689
+2013-10-31,Weak margins in refining hurt results at the largest European and American oil companies.,negative,-0.9665831327438354
+2013-10-31,Profit Margins Squeeze Shell and Exxon Mobil,negative,-0.9595452547073364
+2013-10-31,Weak margins in refining hurt results at the largest European and American oil companies.,negative,-0.9665831327438354
+2013-10-31,Profit Margins Squeeze Exxon Mobil and Shell,negative,-0.9565202593803406
+2013-11-15,"Warren E. Buffett’s firm owned roughly 40 million shares of Exxon Mobil at the end of September, less than 1 percent of the oil giant’s 4.4 billion outstanding shares.",negative,-0.5812647342681885
+2013-11-15,Berkshire Buys $3.45 Billion Stake in Exxon Mobil,neutral,0.07723090052604675
+2013-12-05,"More than two dozen major American corporations are preparing to pay climate-related taxes, departing from conservative orthodoxy and exposing divisions between the Republican Party and its business supporters.",negative,-0.8954348564147949
+2013-12-05,Large Companies Prepared to Pay Price on Carbon,neutral,-0.1607550084590912
+2013-12-27,"A look back at a year of change at Netflix and Exxon Mobil, the continuing insider trading case at SAC Capital Advisors and a bruising yet profitable year at Tesla Motors.",negative,-0.6909279823303223
+2013-12-27,"In 2013: Rebounds, Traders and Rights",neutral,0.009939948096871376
+2014-01-15,The Italian energy giant has found that its drilling efforts have not produced enough natural gas to be commercially viable.,negative,-0.9577053189277649
+2014-01-15,Eni Is Said to Abandon Polish Shale Aspirations,neutral,-0.09257250279188156
+2014-01-27,Highlights of the business week will include Ford and Chrysler earnings and the first look at fourth-quarter economic output.,neutral,0.055381253361701965
+2014-01-27,"Apple’s Earnings, Bernanke’s Farewell",negative,-0.37921690940856934
+2014-01-30,"The oil giants’ reactions differed sharply: Shell plans to step up asset sales and cut investment, while Exxon Mobil pointed to its numerous projects.",negative,-0.677932620048523
+2014-01-30,Quarterly Earnings Fall at Exxon Mobil and Shell,negative,-0.963222861289978
+2014-01-31,"In the world of Wall Street executive compensation, the pay raise recommended for Jamie Dimon, chief of JPMorgan Chase, is not only defensible, but laudable.",positive,0.7909280061721802
+2014-01-31,Accounting for Dimon’s Big Jump in Pay,neutral,0.07724102586507797
+2014-02-04,The oil giant reported lower earnings for the fourth quarter as production declined and its refineries struggled to turn a profit.,negative,-0.9600069522857666
+2014-02-04,"Profit Drops for BP, but Still Beats Analysts’ Forecasts",negative,-0.7925518751144409
+2014-03-12,"Firms that track benefit plans are finding their terms are improving for many employees, in areas such as company matching, vesting and fees.",positive,0.9092703461647034
+2014-03-12,The Best 401(k)s Set a Higher Bar for Others,neutral,0.15036988258361816
+2014-03-20,The energy giant has been pressured by shareholders to show how it plans to cope with the risks posed to its holdings by potential limits on greenhouse gas emissions.,negative,-0.8630624413490295
+2014-03-20,"In Shift, Exxon Mobil to Report on Risks to Its Fossil Fuel Assets",neutral,0.04222555458545685
+2014-03-28,"Any stricter sanctions on Russia for its occupation of Crimea would likely be opposed by Exxon Mobil, BP and other companies with projects in Russia.",negative,-0.8092743158340454
+2014-03-28,Potential Crackdown on Russia Risks Also Punishing Western Oil Companies,negative,-0.8757989406585693
+2014-05-01,"Production volumes fell, but thanks to cost-cutting and rising natural gas prices, earnings still beat analysts’ expectations.",negative,-0.8601785898208618
+2014-05-01,Exxon Mobil Profit Falls for a Fourth Straight Quarter,negative,-0.9646338820457458
+2014-06-10,"BP, Exxon Mobil, Shell, Total and other big Western oil companies are striking deals and plowing money into Russia even as more sanctions loom.",negative,-0.3920286297798157
+2014-06-10,"For Western Oil Companies, Expanding in Russia Is a Dance Around Sanctions",neutral,0.07059904932975769
+2014-07-10,"With refining eroding into a money-losing area for most European players, Exxon Mobil is making a contrarian bet by expanding diesel production.",positive,0.20830336213111877
+2014-07-10,"Betting on Diesel Cars, Exxon Is Set to Expand Belgium Refinery",positive,0.5410184860229492
+2014-07-22,A rig set sail two days after the downing of a Malaysia Airlines jet in Ukraine led to mounting pressure for new sanctions against Russia.,negative,-0.9126324653625488
+2014-07-22,Exxon Mobil Moves Ahead With Russian Oil Drilling Project,neutral,0.20619551837444305
+2014-07-30,Industry executives are now acknowledging that the escalating tensions could sharply hurt companies with major investments in Russia.,negative,-0.9601386785507202
+2014-07-30,Energy Companies Rethinking Russia After New Round of Sanctions,neutral,-0.020033210515975952
+2014-08-11,The pipeline group Kinder Morgan plans to reorganize as a single corporation.,neutral,0.03824494034051895
+2014-08-11,| The drop in Treasury yields has confounded experts.,negative,-0.9157916307449341
+2014-08-11,| An investor group is considering legal action after being burned by losses on Portuguese bank bonds.,negative,-0.9335829019546509
+2014-08-11,| A Stanford finance professor is rapidly gaining a broader audience.,positive,0.49798983335494995
+2014-08-11,Morning Agenda: Kinder Morgan to Consolidate,neutral,0.033271439373493195
+2014-09-13,"The United States government took aim at Exxon’s project in the Arctic Ocean, ordering American companies to cut off exports to Russian oil exploration within 14 days.",negative,-0.8905302286148071
+2014-09-13,New Sanctions to Stall Exxon’s Arctic Oil Plans,negative,-0.7381668090820312
+2014-09-19,The latest round of sanctions by Washington and the European Union ordered companies to cut off help to Russian oil exploration in the Arctic.,negative,-0.9279894828796387
+2014-09-19,Exxon Halts Oil Drilling in Waters of Russia,negative,-0.8634355664253235
+2014-09-30,Qatar Petroleum wants to export American gas by converting the terminal to export from import at a cost of at least $10 billion.,positive,0.5301872491836548
+2014-09-30,A U-Turn for a Terminal Built in Texas to Import Natural Gas,neutral,0.06467825174331665
+2014-10-31,The two largest American oil companies said their refining businesses more than made up for the recent drop in the price of crude oil.,positive,0.23541100323200226
+2014-10-31,"At Exxon Mobil and Chevron, Refining Businesses Support Earnings",neutral,0.010166509076952934
+2015-01-09,"Oil’s price plunge hurt energy funds, but investors may still be able to make good bets by focusing on specific pieces of the industry.",negative,-0.8157909512519836
+2015-01-09,"Trying to Capitalize on Lower Oil Prices, Through E.T.F.s",positive,0.5383474826812744
+2015-01-30,After years of the industry making record profits both companies said that they lost money in the fourth quarter.,negative,-0.9465822577476501
+2015-01-30,"ConocoPhillips and Occidental Post Losses, Reflecting Oil Price Plunge",negative,-0.9611729383468628
+2015-01-31,"Energy experts said the sudden increase could be explained by various factors, including reports that the Islamic State terrorist group was advancing in an offensive near Iraq’s northern oil fields.",negative,-0.6703097224235535
+2015-01-31,Oil Prices Surge 8% After Long Slide Down,positive,0.2776618003845215
+2015-02-01,"The big corporate news of the week will be earnings reports from BP, Twitter and major carmakers.",neutral,0.05876513570547104
+2015-02-01,"But the January jobs report, on Friday, and news from Greece will overshadow it all.",negative,-0.6342808604240417
+2015-02-01,"January Job Data, Big Earnings Reports and the Greek Bailout",neutral,0.13468536734580994
+2015-02-02,The company said its fourth-quarter results were bolstered somewhat by asset sales and improved profits in its chemical business.,positive,0.9314674735069275
+2015-02-02,Exxon Mobil Revenue and Profit Off 21% on Oil Decline,negative,-0.9602184295654297
+2015-02-18,"Shell, Exxon Mobil and the Dutch government put revenue and energy supply from the Groningen field ahead of safety, an independent panel found.",neutral,0.12589621543884277
+2015-02-18,"Earthquake Dangers in Dutch Gas Field Were Ignored for Years, Safety Board Says",negative,-0.4478417932987213
+2015-03-18,"The company, called Plenti, will let customers earn points from several merchants, not just American Express.",neutral,0.11623984575271606
+2015-03-18,American Express to Start Multi-Business Loyalty Program,positive,0.5092164278030396
+2015-04-14,"Laurence D. Fink, chief of BlackRock, the world’s largest asset manager, warns of harm in dividends and stock buybacks.",negative,-0.9463347792625427
+2015-04-14,"BlackRock’s Chief, Laurence Fink, Urges Other C.E.O.s to Stop Being So Nice to Investors",negative,-0.782438337802887
+2015-04-30,Both companies reported huge drops in profit: a 46 percent decline at Exxon and a 56 percent drop at Shell.,negative,-0.9667730331420898
+2015-04-30,"Profits at Exxon and Shell Slide, Echoing Oil Prices’ Plunge",negative,-0.9151017069816589
+2015-05-13,Mr. Smith covered the oil industry for The Times before working at Exxon as a public relations specialist during the Exxon Valdez oil spill in 1989.,neutral,-0.021675264462828636
+2015-05-13,William D. Smith Dies at 79; Business Reporter Who Joined Oil Industry,neutral,-0.08823120594024658
+2015-07-01,"After decades of resistance, the oil behemoth is taking carefully considered steps to support gay, lesbian, bisexual and transgender employees.",positive,0.6823053956031799
+2015-07-01,Exxon Lumbers Along to Catch Up With Gay Rights,positive,0.44155552983283997
+2015-07-16,"The major oil companies did not bid, and only two blocks were successfully auctioned.",neutral,0.01655389741063118
+2015-07-16,Mexico Auctions Oil Blocks in Attempt to Increase Production,neutral,0.2700434625148773
+2015-07-31,Declining oil and natural gas prices contributed to the companies’ disappointing second-quarter results.,negative,-0.9513537883758545
+2015-07-31,Exxon and Chevron Report Worst Quarterly Results of Current Decade,negative,-0.9420583248138428
+2015-10-26,"This week, data on durable goods orders, consumer confidence and economic growth will be released.",neutral,0.0619041882455349
+2015-10-26,"In addition, several companies including Apple and Exxon Mobil will report earnings.",positive,0.5851646661758423
+2015-10-26,"Apple Earnings, United States Economic Data and Oil Results",neutral,-0.023495424538850784
+2015-10-30,Exxon Mobil reports a 37 percent drop in revenue and Chevron says it plans to cut up to 10 percent of its workforce.,negative,-0.9628379344940186
+2015-10-30,Chevron and Exxon Post Declining 3rd-Quarter Results,negative,-0.9689366817474365
+2015-10-31,"Environmental and social justice groups are calling for a federal investigation, claiming that the oil and gas company deceived the American public in order to protect profits.",negative,-0.8313859701156616
+2015-10-31,Exxon Mobil Accused of Misleading Public on Climate Change Risks,negative,-0.7709893584251404
+2015-11-03,The former vice president said he has been focused on helping his firm invest only in sustainable companies.,neutral,0.21613773703575134
+2015-11-03,Gore Calls for Exxon Mobil Inquiry on Climate Change,neutral,-0.37004804611206055
+2015-11-05,The sweeping inquiry focuses on whether the oil company lied to the public and investors over the risks of climate change.,negative,-0.7387484312057495
+2015-11-05,Exxon Mobil Investigated for Possible Climate Change Lies by New York Attorney General,negative,-0.5756849050521851
+2015-11-06,The start of an inquiry by the New York attorney general’s office into Exxon Mobil’s record on climate change could lead to additional legal actions involving other major energy companies.,negative,-0.5325368046760559
+2015-11-06,More Oil Companies Could Join Exxon Mobil as Focus of Climate Investigations,neutral,0.01926676742732525
+2015-11-07,"The tobacco industry largely hid evidence of the addictiveness of tobacco, while Exxon published peer-reviewed climate change research even as it raised doubts on the underlying science.",neutral,-0.19138018786907196
+2015-11-07,Exxon Inquiry Both Mirrors and Contrasts With Tobacco Industry Case,neutral,0.06236632168292999
+2015-11-14,"The renewed collapse in crude prices is helping to again drive down gasoline prices for American drivers, and a surge in production has led to a global stockpile of three billion barrels.",negative,-0.2773914635181427
+2015-11-14,An Oil-Soaked Globe as Production Keeps Climbing and Demand Falls,negative,-0.6905797123908997
+2015-12-01,"The university rebutted Exxon’s accusation that articles about the oil company, produced by journalists from the school, were misleading and inaccurate.",negative,-0.8910536170005798
+2015-12-01,Columbia Disputes Exxon Mobil on Climate Risk Articles,negative,-0.6316503286361694
+2015-12-01,The dean of Columbia’s Graduate School of Journalism rebuts suggestions that journalists from the school had produced inaccurate and misleading articles on Exxon Mobil.,negative,-0.9027062654495239
+2015-12-01,Response From Steve Coll to Exxon Mobil,neutral,0.10428789258003235
+2015-12-12,"Oil prices, down almost two-thirds over the past 16 months, declined again on Friday on reports that it may have even further to fall next year.",negative,-0.9595774412155151
+2015-12-12,Wall Street Slips on Oil’s Big Drop,negative,-0.8512235283851624
+2015-12-24,Business development companies are emerging from the shadows as controversy has increased over some of their tactics and results.,negative,-0.8218541741371155
+2015-12-24,Obscure Corner of Wall St.,neutral,-0.23152191936969757
+2015-12-24,Draws Skepticism From Investors,neutral,-0.24605926871299744
+2016-01-07,"A listing of shares could make Saudi Aramco, whose reserves are 10 times that of Exxon Mobil, the most valuable public company in the world.",positive,0.7774645686149597
+2016-01-07,Saudi Aramco I.P.O.,neutral,0.0404786691069603
+2016-01-07,Is Weighed by Kingdom,neutral,-0.126946821808815
+2016-01-21,California appears to have joined New York in weighing Exxon Mobil’s honesty in admitting to the risks posed by climate change.,positive,0.2711467742919922
+2016-01-21,California Said to Target Exxon in Climate Inquiry,neutral,-0.16396422684192657
+2016-02-01,"This week Exxon Mobil, BP and Royal Dutch Shell will report quarterly earnings, Navinder Singh Sarao is expected back in court and the Labor Department will release figures on hiring and unemployment.",negative,-0.4430062472820282
+2016-02-01,"Oil Company Earnings, Trader’s ‘Flash Crash’ Hearing and the Jobs Report",negative,-0.4180203974246979
+2016-02-02,"BP wrote down the value of its oil and gas assets by $1.6 billion in the fourth quarter of 2015, and said it would continue cutting jobs.",negative,-0.9594117403030396
+2016-02-02,Exxon Mobil’s Profits Fall and BP Cites Low Oil Prices in $3.3 Billion Loss,negative,-0.9546162486076355
+2016-02-03,"With the close of Tuesday’s trading, it was official: Alphabet, the newly formed holding company for Google, is the most highly valued company.",neutral,0.08455046266317368
+2016-02-03,"For Alphabet, the Path to Becoming the Most Valuable Company in the World",positive,0.6875693202018738
+2016-03-24,"A resolution, if approved, would force the energy giant to outline for investors how its profitability may be affected by climate change.",neutral,0.07316707074642181
+2016-03-24,S.E.C.,neutral,0.030168529599905014
+2016-03-24,Orders Exxon Mobil Shareholder Vote on Climate Data,neutral,-0.09886737912893295
+2016-03-25,Gas prices for the Easter weekend will be the lowest in over a decade.,negative,-0.9363308548927307
+2016-03-25,But don’t be fooled — they’re still going up.,neutral,0.09976228326559067
+2016-03-25,"Gas Prices Will Be Low for Easter, but Don’t Get Used to It",neutral,-0.04600638896226883
+2016-03-29,A group of attorneys general announced support for an investigation by Eric Schneiderman of New York into Exxon Mobil’s statements on global warming.,positive,0.6609385013580322
+2016-03-29,Exxon Mobil Climate Change Inquiry in New York Gains Allies,neutral,-0.2559134364128113
+2016-04-14,The Center for International Environmental Law released evidence that the energy industry had the underlying knowledge of climate change 60 years ago.,neutral,0.12469147890806198
+2016-04-14,Pressure on Exxon Over Climate Change Intensifies With New Documents,neutral,-0.13028199970722198
+2016-04-26,"The oil producer lost its AAA rating, leaving only two American companies with the highest rating: Microsoft and Johnson & Johnson.",negative,-0.9066210985183716
+2016-04-26,Exxon Mobil’s Sterling Credit Is Downgraded by Standard & Poor’s,negative,-0.8711552619934082
+2016-04-29,"Exxon Mobil on Friday posted its smallest profit for any quarter since 1999, while Chevron reported a large first-quarter loss of $725 million.",negative,-0.9486910700798035
+2016-04-29,Low Oil Prices Pinch Exxon and Chevron Earnings,negative,-0.9270113110542297
+2016-04-29,"Recovery in the oil industry will be slow and patchy, but the worst is probably past.",negative,-0.7303206920623779
+2016-04-29,Exxon Mobil May Have Hit Its Low Point,negative,-0.7457605600357056
+2016-05-05,"The energy giant is investing in FuelCell Energy’s technology for carbon capture and sequestration, a potential way to reduce greenhouse gas emissions.",positive,0.5441417694091797
+2016-05-05,Exxon Mobil Backs FuelCell Effort to Advance Carbon Capture Technology,positive,0.7148955464363098
+2016-05-17,Research shows that presidential election years paralyze businesses that fear making their next moves with the future so uncertain.,negative,-0.9056096076965332
+2016-05-17,Election Years Are Steeped in Markets’ Least Favorite Thing: Uncertainty,neutral,0.05760600045323372
+2016-05-23,"Also, activist shareholders at Exxon Mobil and Chevron are expected to make climate change an issue at annual meetings, while workers plan to protest at the McDonald’s shareholder meeting.",negative,-0.8429257273674011
+2016-05-23,"Russia Seeks Changes for Growth, and Greek Debt Talks Linger",neutral,0.06428118050098419
+2016-05-23,A growing chorus of shareholders is worried the energy giant is not adequately preparing for tighter times in light of the Paris accord.,negative,-0.9558296203613281
+2016-05-23,"Exxon Investors Seek Assurance as Climate Shifts, Along With Attitudes",positive,0.5022963881492615
+2016-05-23,"A gathering held four years ago in California outlined tactics for taking on the fossil fuel industry, drawing lessons from the fight over tobacco.",neutral,0.06289713084697723
+2016-05-23,Public Campaign Against Exxon Has Roots in a 2012 Meeting,neutral,-0.3763000965118408
+2016-05-25,Whether to negotiate new policies reflecting climate change or adopt a scorched-earth strategy has divided groups seeking change within the energy company.,negative,-0.5963461995124817
+2016-05-25,Climate Change Activists Either Prod Exxon Mobil or Dump It,negative,-0.8473895192146301
+2016-07-21,InterOil’s holdings in Papua New Guinea are a potential source for liquefied natural gas.,neutral,0.04778140038251877
+2016-07-21,Exxon Mobil Acquires InterOil for $2.5 Billion,neutral,0.056529395282268524
+2016-07-25,"Twitter, Facebook, Apple and Alphabet will report second-quarter results, as will BP, Shell and Exxon.",neutral,0.2851630747318268
+2016-07-25,And the Fed is expected to address the benchmark interest rate.,neutral,0.06731853634119034
+2016-07-25,"Oil and Tech Giants’ Earnings, a Fed Meeting and an Estimate of U.S. Growth",neutral,0.03616738319396973
+2016-08-19,Eric T. Schneiderman of New York said the investigation was concentrating on issues like the value the company puts on oil still in the ground.,neutral,-0.11193513870239258
+2016-08-19,Exxon Mobil Fraud Inquiry Said to Focus More on Future Than Past,neutral,-0.1185515895485878
+2016-09-21,"At issue is how the company values its oil reserves in light of potential climate change regulations, and environmentalists applauded the scrutiny.",positive,0.5893148183822632
+2016-09-21,S.E.C.,neutral,0.030168529599905014
+2016-09-21,Is Latest to Look Into Exxon Mobil’s Workings,neutral,-0.040115948766469955
+2016-09-21,"American corporate might is increasingly concentrated in just four states, reflecting a shift toward the technology and biotechnology industries.",neutral,0.039078786969184875
+2016-09-21,"Morning Agenda: Deepening Divides, ‘Gutless Leadership,’ Exxon’s Workings",negative,-0.528205394744873
+2016-09-26,Exxon Mobil says it’s not possible to predict how climate change will affect its business.,negative,-0.538296103477478
+2016-09-26,A bill in Congress says it shouldn’t be asked to.,negative,-0.43206924200057983
+2016-09-26,A New Debate Over Pricing the Risks of Climate Change,neutral,-0.005775228142738342
+2016-10-19,"Claudio Descalzi, the chief executive, backed geologists’ hunches with computing muscle and money, and his “revolution” produced a massive discovery.",neutral,0.18636968731880188
+2016-10-19,How Eni Bet Big and Won Big on Natural Gas off Egypt,neutral,0.27892619371414185
+2016-10-28,The company may have to concede that 3.6 billion barrels of oil-sand reserves and a billion barrels of other reserves are currently not profitable to produce.,negative,-0.929637610912323
+2016-10-28,Exxon Concedes It May Need to Declare Lower Value for Oil in Ground,negative,-0.851299524307251
+2016-11-03,"Major oil and gas companies, facing future loss of demand for their products as a result of climate change policies, search for new strategies.",neutral,0.055685944855213165
+2016-11-03,Big Oil Slowly Adapts to a Warming World,neutral,0.1036122515797615
+2016-12-06,"Looking beyond current low oil prices, the companies paid billions in an auction of deepwater drilling rights in the Gulf of Mexico.",positive,0.5935876369476318
+2016-12-06,Oil and Gas Industry Leaders Eagerly Take Stakes in Mexican Offshore Fields,neutral,0.17942018806934357
+2016-12-08,"Louis Allstadt, a retired Exxon executive, led an effort to divest a pension fund in Cooperstown, N.Y., of stock in oil, gas and coal, a plan that has ignited a furor.",negative,-0.7209003567695618
+2016-12-08,"Once an Oil Executive, Now a Crusader Against Fossil Fuel Stocks",neutral,0.05880613625049591
+2016-12-11,"Mr. Tillerson, Exxon Mobil’s chief executive and a secretary of state candidate, has a relationship with Russia that could be both a strength and his Achilles’ heel.",neutral,0.23143376410007477
+2016-12-11,"Rex Tillerson, an Aggressive Dealmaker Whose Ties With Russia May Prompt Scrutiny",neutral,0.13706038892269135
+2016-12-13,"Mr. Tillerson, Exxon Mobil’s chief executive, has decades of experience making deals around the world but has no foreign policy experience outside his work.",neutral,-0.004121866077184677
+2016-12-13,"Meet Exxon’s Rex Tillerson, Trump’s Choice for Secretary of State",neutral,0.08627884089946747
+2016-12-13,"The energy giant’s days as Big Oil’s unparalleled heavyweight are numbered, as rivals are coming up fast.",neutral,0.3958536982536316
+2016-12-13,Exxon’s Next Chief Will Lead a Weakened Empire,neutral,-0.11584431678056717
+2016-12-14,"Exxon’s chief has extensive international business experience and has argued for gay rights, but is a target of environmentalists.",negative,-0.473092257976532
+2016-12-14,"Rex Tillerson, Trump’s Secretary of State Nominee, Is a Flexible Pragmatist",neutral,-0.046414412558078766
+2016-12-14,The guidelines issued Wednesday are some of the most comprehensive about how companies should measure and disclose the effects of extreme weather.,neutral,0.04039624705910683
+2016-12-14,"Tell Investors of Climate Risks, Energy Sector Is Urged",neutral,0.02465539611876011
+2016-12-14,A tax provision allows incoming executive branch members to defer capital gains taxes on any divestments required under ethics rules.,neutral,0.03249583765864372
+2016-12-14,"For Trump’s Wealthy Cabinet, Prospect of a Sweet Tax Break",negative,-0.31266361474990845
+2016-12-15,"The oil giant said it would promote the heir apparent to chief, as Mr. Tillerson prepares to become secretary of state under Donald J. Trump.",neutral,0.3553885817527771
+2016-12-15,Exxon Mobil Taps Darren Woods to Replace Rex Tillerson,neutral,-0.060250960290431976
+2016-12-29,"Rex W. Tillerson, in line to be secretary of state, publicly backed a carbon tax in 2009.",neutral,0.298380047082901
+2016-12-29,Yet Exxon Mobil has done little or nothing to help put such taxes into effect.,neutral,0.00954284518957138
+2016-12-29,Tillerson Led Exxon’s Shift on Climate Change; Some Say ‘It Was All P.R.’,neutral,-0.01673230528831482

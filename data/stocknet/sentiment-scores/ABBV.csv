@@ -1,0 +1,115 @@
+Date,Sentence,Prediction,sentimentScore
+2014-06-20,More health prescription plans are refusing to cover certain drugs unless the companies charge less for them.,negative,-0.7361920475959778
+2014-06-20,Health Insurers Pressing Down on Drug Prices,negative,-0.7900496125221252
+2014-06-23,"Shire last week turned down a $46 billion bid from Chicago-based AbbVie, but it may be entertaining a higher offer soon.",neutral,0.10083623230457306
+2014-06-23,Shire Said to Hire Goldman Sachs as an Adviser,neutral,0.0259152390062809
+2014-06-25,"Though AbbVie, based in Chicago, stopped short of raising its $46 billion takeover offer, its presentation and investor call on Wednesday made the case for a deal with Shire.",positive,0.6373063325881958
+2014-06-25,AbbVie Signals It Will Continue to Pursue Irish Drug Maker Shire,neutral,0.3052777647972107
+2014-07-08,Shire’s board still has some leverage.,neutral,0.0784369558095932
+2014-07-08,"For one, there’s AbbVie’s own weakness, because roughly 58 percent of its sales come from one drug, Neil Unmack and Robert Cyran of Reuters Breakingviews write.",negative,-0.9156444072723389
+2014-07-08,Shire Can Get Higher Bid From AbbVie,neutral,0.39704692363739014
+2014-07-09,"AbbVie said it had “not received any written commitments of support” from shareholders of Shire for its latest takeover offer, which AbbVie has raised to about $51 billion.",positive,0.561552882194519
+2014-07-09,AbbVie Backtracks on Comments in Shire Bid,negative,-0.4587143659591675
+2014-07-11,"The talks follow AbbVie’s revised offer to pay about $51 billion for Shire, which has its headquarters in Ireland and is listed in London.",neutral,0.3123171329498291
+2014-07-11,Shire confirmed the talks on Friday but did not provide details of the discussions.,neutral,0.005068032070994377
+2014-07-11,Drug Makers AbbVie and Shire Officials Meet to Discuss Merger,neutral,0.03129984065890312
+2014-07-14,"Playing hard to get may simply have been a calculated bet by Susan Kilsby, Shire’s board chairwoman and a veteran deal maker at Credit Suisse for many years.",neutral,-0.17331531643867493
+2014-07-14,AbbVie’s Bid Played Into Hands of Shire Board’s Merger Expert,neutral,0.05146348476409912
+2014-07-15,"Another company is moving its headquarters to Europe, in part to pay lower taxes.",neutral,0.25873613357543945
+2014-07-15,"This time, it’s led by the daughter of a United States senator.",neutral,-0.0003482215106487274
+2014-07-15,"Reluctantly, Patriot Flees Homeland for Greener Tax Pastures",positive,0.3975612223148346
+2014-07-16,The Obama administration and Congress appear unlikely to take any action to stem the tide of such deals anytime soon.,neutral,-0.37930142879486084
+2014-07-16,"Treasury Urges End to Foreign Tax Flights, but Quick Action Is Unlikely",neutral,0.015863865613937378
+2014-07-17,"The biggest wedding of the year comes as the Treasury and Congress prepare legislation to prevent tax inversions, possibly retroactively.",positive,0.3697504997253418
+2014-07-17,What provision AbbVie has made for that is unclear.,neutral,0.005739226937294006
+2014-07-17,"AbbVie-Shire Deal Is Expected, in a Flight to a Lower-Tax Locale",neutral,0.37824535369873047
+2014-07-18,AbbVie agreed on Friday to buy the Irish drug maker Shire for around $54 billion.,neutral,0.21376024186611176
+2014-07-18,| Alibaba has pushed its I.P.O.,negative,-0.5596975684165955
+2014-07-18,to September.,neutral,0.053301651030778885
+2014-07-18,| Growth in wealth management bolstered Morgan Stanley’s second-quarter profit.,positive,0.9324846863746643
+2014-07-18,| New York State’s top financial regulator has proposed regulations for virtual currency companies.,neutral,0.13271649181842804
+2014-07-18,Morning Agenda: AbbVie Wins Deal for Shire,positive,0.8112658262252808
+2014-07-21,Alibaba’s I.P.O.,neutral,0.039769627153873444
+2014-07-21,could be a bonanza for the scions of Chinese leaders.,neutral,0.020268481224775314
+2014-07-21,| The market for subprime auto loans is booming.,positive,0.7882038354873657
+2014-07-21,| Dell shareholders’ appraisal efforts hit a snag.,negative,-0.8555576205253601
+2014-07-21,| AbbVie has sealed a $54 billion deal for Shire.,positive,0.7725234031677246
+2014-07-21,Morning Agenda: Chinese Elite Tied to Alibaba I.P.O.,neutral,0.006639713421463966
+2014-07-22,"Lawmakers spoke out against American companies reincorporating abroad, but there was no consensus on how to address the issue.",negative,-0.7249612808227539
+2014-07-22,Senate Panel Takes On Tax Inversions,neutral,-0.09983619302511215
+2014-07-23,"Sales of Sovaldi reached $3.5 billion in the second quarter, testifying to the effectiveness of the drug, which can essentially cure over 80 percent of patients with few side effects.",positive,0.8746715784072876
+2014-07-23,"Gilead’s Hepatitis C Drug, Sovaldi, Is on Pace to Become a Blockbuster",positive,0.7376080751419067
+2014-07-25,"Kenneth C. Griffin, the head of Citadel, has filed for divorce from his wife, Anne Dias Griffin.",negative,-0.5693914294242859
+2014-07-25,| President Obama on Thursday called for an end to so-called inversions.,neutral,-0.045264147222042084
+2014-07-25,| How AbbVie wooed Shire.,neutral,0.05163151025772095
+2014-07-25,| A secret in the bank bailout of Cyprus stirs resentment.,negative,-0.916097104549408
+2014-07-25,Morning Agenda: Hedge Fund Managers Headed for Divorce,neutral,0.006428159773349762
+2014-07-29,"The bill, called the No Federal Contracts for Corporate Deserters Act, would withhold government contracts from companies that seek tax relief by moving overseas.",neutral,-0.4227372705936432
+2014-07-29,New Legislation Targets Inversions From Different Angle,neutral,0.046529415994882584
+2014-08-06,"A backlash against corporate emigration may have affected the drug store chain’s decision, but harder numbers probably mattered more, Kevin Allison of Reuters Breakingviews writes.",negative,-0.6169353723526001
+2014-08-06,Walgreen May Be the Exception to the Logic of Inversions,neutral,-0.1253875195980072
+2014-08-08,"Cheap credit, lower tax bills and a desire for revenue, more than economic optimism, may be behind this year’s surge in corporate acquisitions.",positive,0.7668760418891907
+2014-08-08,"Stampede of Mergers Could Mean Growth, or Irrationality, Ahead",neutral,-0.2689221203327179
+2014-08-09,"By allowing a telecom company to spin off part of itself into a real estate investment trust, the I.R.S.",neutral,0.06312476098537445
+2014-08-09,has opened a window to a way for many corporations to have lower tax bills.,positive,0.82729172706604
+2014-08-09,A Corporate Tax Break That’s Closer to Home,neutral,-0.2476373165845871
+2014-09-02,Public pension funds have major stakes in American companies moving overseas to cut their tax bills.,neutral,0.042774081230163574
+2014-09-02,"But they are saying little about the strategy, which could hurt the nation’s tax base.",negative,-0.8298264741897583
+2014-09-02,Public Pension Funds Stay Mum on Corporate Expats,neutral,-0.21372202038764954
+2014-09-03,"A Google-backed biotech company plans to build a new Bay Area-based facility to research diseases that afflict the elderly, such as neurodegeneration and cancer.",neutral,0.4101119637489319
+2014-09-03,"Calico, Google’s Anti-Aging Company, Announces New Research Facility",neutral,0.31531763076782227
+2014-09-23,Some American-led transactions may survive on strategic logic.,neutral,0.25052589178085327
+2014-09-23,"But pure tax-avoiding combinations look tricky, Neil Unmack and Robert Cyran of Reuters Breakingviews write.",neutral,-0.0016821026802062988
+2014-09-23,U.S. Curbs on Inversions May Deter Some Pharmaceutical Deals,negative,-0.9492151141166687
+2014-10-15,"The American drug company’s retreat, writes Neil Unmack of Reuters Breakingviews, will make it difficult for the board of any European company to approve an inversion bid in the future.",negative,-0.9324026703834534
+2014-10-15,AbbVie’s U-Turn Shows Shire Deal Was Driven by Taxes,neutral,0.10558541119098663
+2014-10-16,AbbVie walks away from its bid to acquire Shire.,negative,-0.9017959833145142
+2014-10-16,| JPMorgan cyberattack also hit its race website.,negative,-0.9193032383918762
+2014-10-16,| Fear returns to Wall Street.,negative,-0.756687581539154
+2014-10-16,Morning Agenda: AbbVie’s Cold Feet,negative,-0.40304267406463623
+2014-10-17,The deal would have united two of the biggest fertilizer producers in the world.,positive,0.8460032939910889
+2014-10-17,It is the latest multinational deal to fall apart amid unsteady markets and questions about so-called inversion deals.,negative,-0.9418318271636963
+2014-10-17,Yara of Norway and CF Industries Call Off Merger Talks,negative,-0.8755533695220947
+2014-10-20,AbbVie will now pay Shire a $1.635 billion breakup fee – just weeks after the Treasury Department announced new rules taking aim at inversion deals.,neutral,0.05191941186785698
+2014-10-20,"After Tax Inversion Rules Change, AbbVie and Shire Agree to Terminate Their Deal",neutral,-0.20407482981681824
+2014-10-21,The truth hidden behind IBM’s buybacks.,neutral,-0.08334992080926895
+2014-10-21,| Private equity firms look to attract smaller investors.,neutral,0.1663581132888794
+2014-10-21,| Regulator warns on banks’ bad behavior.,negative,-0.5622528791427612
+2014-10-21,| AbbVie and Shire agree to terminate their deal.,negative,-0.5173531174659729
+2014-10-21,Morning Agenda: IBM’s Ugly Truth,negative,-0.690911591053009
+2014-11-18,"A pair of deals announced on Monday, worth $100 billion, brought the year’s total for American companies to $1.5 trillion, the highest since 2000.",positive,0.8604357242584229
+2014-11-18,Mega-Mergers Popular Again on Wall Street,neutral,0.42692553997039795
+2014-12-19,"Insurers are hoping that a new competitor to Gilead Sciences’ drugs for the disease will drive down prices, though the new drug’s price is higher than was hoped.",negative,-0.8247585296630859
+2014-12-19,"Hepatitis C Treatment Wins Approval, but Price Relief May Be Limited",positive,0.4264002740383148
+2014-12-22,"Express Scripts, the nation’s largest manager of prescriptions, has negotiated a “significant discount” for Viekira Pak, a new entrant to the expensive class of hepatitis C medications.",positive,0.8620110154151917
+2014-12-22,AbbVie Deal Heralds Changed Landscape for Hepatitis Drugs,positive,0.684615433216095
+2015-01-06,"The agreement partly offsets a similar pact between the pharmacy benefit manager Express Scripts and AbbVie, another maker of a costly hepatitis C drug.",positive,0.6804274916648865
+2015-01-06,Gilead Strikes Hepatitis Drug Deal With CVS Health,neutral,0.13535892963409424
+2015-01-11,"The Irish drug maker Shire is paying a premium for NPS Pharmaceuticals, which is based in New Jersey, as part of its effort to recover from its botched sale to AbbVie last year.",neutral,0.25669875741004944
+2015-01-11,Shire to Buy NPS Pharmaceuticals for $5.2 Billion,neutral,0.04516954347491264
+2015-01-12,"Shire is paying a 51 percent premium for NPS, and it is making a potentially risky deal ahead of an important regulatory ruling, Neil Unmack of Reuters Breakingviews writes.",neutral,0.05954378843307495
+2015-01-12,Shire Gambles AbbVie Breakup Fee on a Risky Deal,negative,-0.7840628027915955
+2015-03-04,"AbbVie announced that it has agreed to buy Pharmacyclics, a maker of a cancer drug that some analysts predict will eventually become one of the best-selling treatments.",positive,0.8219292163848877
+2015-03-04,"AbbVie to Pay $21 Billion for Pharmacyclics, Maker of a Promising Cancer Drug",neutral,0.2712721824645996
+2015-03-05,"With a $21 billion deal, the pharmaceutical giant gets a blockbuster drug, but at a high cost: It must share profits with rival Johnson & Johnson.",neutral,0.4046466648578644
+2015-03-05,Why AbbVie May Have Overpaid for Cancer Drug Maker,neutral,0.03248147666454315
+2015-03-06,"Strategically, the $21 billion deal for Pharmacyclics seems to make sense for AbbVie, but at least some analysts said the company had paid too much.",negative,-0.5204010605812073
+2015-03-06,"AbbVie Wins Bidding War for Maker of Cancer Drug, Then Goes on Defensive",positive,0.6918277740478516
+2015-04-28,It’s estimated that about three million Americans have celiac disease.,neutral,-0.1769246757030487
+2015-04-28,"And even though a gluten-free diet can help alleviate symptoms, it’s not a cure-all.",neutral,-0.24370414018630981
+2015-04-28,"As Celiac and Gluten Sensitivities Gain Prominence, Drug Companies Race to Find Treatments",neutral,0.051198624074459076
+2015-08-04,The deal has industrial logic as well as tax benefits.,neutral,0.2320423424243927
+2015-08-04,"Shire shareholders, however, might have preferred being bought out to taking on a takeover.",neutral,-0.01765834167599678
+2015-08-04,Shire’s Merger Machine Stumbles on Baxalta Bid,negative,-0.9391130208969116
+2015-09-16,"Mr. Gosebruch, 42, who was promoted in March to co-head of North American mergers, has been one of the bank’s top deal makers for the pharmaceutical industry.",neutral,0.19141267240047455
+2015-09-16,"Henry Gosebruch, Rising Star at JPMorgan, Is Departing for AbbVie",neutral,-0.11606442928314209
+2015-10-06,"Rather than bargain with a single maker, the pharmacy benefits manager says it will offer both Repatha and Praluent, promising but expensive products.",neutral,0.1743994802236557
+2015-10-06,Express Scripts Says It Will Cover 2 New Cholesterol Drugs,neutral,0.0902407094836235
+2015-11-02,The transaction would be the latest in an acquisition spree by Shire since its tentative agreement to be bought by the drug maker AbbVie was terminated.,neutral,0.11057540774345398
+2015-11-02,Irish Drug Maker Shire Agrees to Buy Dyax in Deal Worth Up to $6.5 Billion,positive,0.7804312109947205
+2016-04-28,AbbVie agreed to pay $5.8 billion to acquire Stemcentrx as it continues its big push into cancer treatment.,positive,0.7548663020133972
+2016-04-28,AbbVie to Buy Cancer Treatment Start-Up,neutral,0.12613141536712646
+2016-04-29,Deals worth over $40 billion were announced Thursday as companies teamed up to become leading providers and gain clout to negotiate with hospitals and insurers.,positive,0.8772256970405579
+2016-04-29,Health Care Companies See Scale as the Only Way to Compete,neutral,0.0403885543346405
+2016-07-15,"Six years after the Affordable Care Act cleared the way for biosimilars, as the generic versions of biotechnology drugs are called, progress has been slow.",negative,-0.9299867153167725
+2016-07-15,Makers of Humira and Enbrel Using New Drug Patents to Delay Generic Versions,negative,-0.7021155953407288

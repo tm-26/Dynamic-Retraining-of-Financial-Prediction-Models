@@ -1,0 +1,514 @@
+Date,Sentence,Prediction,sentimentScore
+2014-01-06,"Samsung Electronics will report its fourth-quarter earnings estimates, the insider trading trial of Mathew Martoma will begin and the European Central Bank will review its monetary policy.",neutral,0.0030735358595848083
+2014-01-06,Economic Reports for the Week of Jan. 6,neutral,-0.17609253525733948
+2014-01-10,"Using an analysis based on a settlement paid in the residential mortgage crisis by JPMorgan Chase, the banking industry calculated what the rest of the banks might pay.",neutral,-0.02433212473988533
+2014-01-10,Wall Street Predicts $50 Billion Bill to Settle U.S. Mortgage Suits,positive,0.48399704694747925
+2014-01-11,"After a review, Bank of America Merrill Lynch said its lowest-level employees should try to take four weekend days off each month.",negative,-0.8938177227973938
+2014-01-11,Wall St.,neutral,0.032495319843292236
+2014-01-11,"Shock: Take a Day Off, Even a Sunday",negative,-0.5103743672370911
+2014-01-13,Suntory of Japan is buying Jim Beam for $13.6 billion.,neutral,0.03592678904533386
+2014-01-13,| Bank of America tells its junior bankers to take a day off.,negative,-0.6630764603614807
+2014-01-13,| Sides trade harsh words at trial of former SAC trader.,negative,-0.9292828440666199
+2014-01-13,| Bank regulators back down on leverage ratio.,negative,-0.9462197422981262
+2014-01-13,Suntory’s Deal for Jim Beam,neutral,0.036133501678705215
+2014-01-15,"While Bank of America and Wells Fargo reported healthy profits in the last quarter, some observers are concerned that the banks are quickly depleting their rainy day funds.",negative,-0.9290246963500977
+2014-01-15,Skeptics Question Banks’ Bottom Lines,negative,-0.6543384194374084
+2014-01-16,"Citigroup and Goldman both reported significant slides in fixed-income revenue, and banks tried to blame many factors for that drop-off.",negative,-0.9414483904838562
+2014-01-16,"Fixed Income Drops at Some Big Banks, but Who’s to Blame?",negative,-0.7457794547080994
+2014-01-17,"Detroit officials spent Friday reshuffling legal and financial plans, a day after a federal bankruptcy judge barred the city from paying $165 million to end some troublesome interest-rate swaps that have been tying up money the city needs.",negative,-0.9051227569580078
+2014-01-17,Detroit Officials Scramble on Financing,negative,-0.5373160243034363
+2014-01-21,"Funds advised by the private equity firm Apax Partners are acquiring all of the Trader Media Group, which operates the automobile website AutoTrader in Britain and other online auto sales brands.",neutral,0.14513075351715088
+2014-01-21,Apax Partners to Acquire All of Online Auto Sales Company Trader Media,neutral,0.04978445917367935
+2014-01-27,"After its initial offer was rebuffed four months ago, Liberty Global is buying Ziggo in a cash-and-stock deal that values the entire company at about $13.7 billion.",neutral,0.07578092068433762
+2014-01-27,Liberty Global to Buy Dutch Cable Provider Ziggo,neutral,0.0829637199640274
+2014-01-30,"Although central bankers and national regulators agreed to support a low leverage ratio for banks, the chairman of the Basel Committee on Bank Supervision suggested that the panel could still recommend stiffer requirements.",positive,0.5382081270217896
+2014-01-30,Banks Could Still Face Tougher Capital Requirements to Prevent Crises,negative,-0.760780930519104
+2014-01-31,"A New York State judge blessed the 2011 agreement to cover some of the investors’ mortgage losses, but she also said that some of the legal claims by the investors were excluded from the settlement.",neutral,-0.08860185742378235
+2014-01-31,Bank of America Settlement on Bonds That Soured Is Approved,neutral,-0.10983998328447342
+2014-02-01,The city contends that some of the complex transactions set up to finance pensions were illegal.,negative,-0.713411808013916
+2014-02-01,Detroit Sues to Cancel Some Costly Contracts,negative,-0.9095745086669922
+2014-02-04,Financial institutions that helped raise money for Detroit’s pension system are dismayed now to see themselves portrayed as shady characters in the city’s lawsuit.,negative,-0.9187455773353577
+2014-02-04,Detroit Turns Bankruptcy Into Challenge of Banks,negative,-0.3709307610988617
+2014-02-05,The American International Group gained a minor victory on Tuesday when a New York judge scheduled a new hearing on the $8.5 billion settlement.,positive,0.3324155807495117
+2014-02-05,A.I.G.,neutral,0.045108746737241745
+2014-02-05,Seeks to Delay Bank of America Mortgage Settlement,negative,-0.48801901936531067
+2014-02-06,The markets barely responded to a downgrade of Puerto Rico’s credit rating.,negative,-0.583901047706604
+2014-02-06,| The jury in the insider-trading trial of a former SAC manager seeks to review transcripts.,neutral,-0.10906083881855011
+2014-02-06,| The currency trading industry is in flux.,negative,-0.5705457925796509
+2014-02-06,| A.I.G.,neutral,0.03916233777999878
+2014-02-06,is seeking to delay the $8.5 billion Bank of America mortgage settlement.,negative,-0.8887662291526794
+2014-02-06,A Shrug at Puerto Rico’s Debt Downgrade,negative,-0.5072287321090698
+2014-02-11,"Winthrop H. Smith Jr., a senior Merrill Lynch executive and son of one of the firm’s founding partners, argues in a new book that E. Stanley O’Neal helped sow the seeds of Merrill’s fall by failing to hold true to Merrill’s founding principles.",negative,-0.8850867748260498
+2014-02-11,One View of Merrill Lynch’s Fall,neutral,-0.09504607319831848
+2014-02-12,It has long been a feature of Wall Street that women are underrepresented in the executive ranks.,negative,-0.8933677077293396
+2014-02-12,"But since the financial crisis, the situation has gotten worse, said Sallie L. Krawcheck, a former executive at Bank of America and Citigroup, in an interview on Bloomberg TV.",negative,-0.9239771962165833
+2014-02-12,Krawcheck Says Women on Wall Street Have ‘Gone Backwards’,negative,-0.5383124351501465
+2014-02-20,"During Brian Moynihan’s tenure as chief executive, Bank of America has been digging out from mortgage problems, shoring up its capital levels and laying off employees.",negative,-0.954638659954071
+2014-02-20,Bank of America’s Chief Receives $12.5 Million in Stock,neutral,0.06118420138955116
+2014-02-25,Bank of America said that it was facing new investigations related to its activities in foreign currency exchange markets as well as its handling of government-backed mortgages in the United States.,negative,-0.5718308091163635
+2014-02-25,Bank of America Discloses 2 New Investigations,neutral,-0.012124240398406982
+2014-02-26,The apparent collapse of Mt.,negative,-0.7654224634170532
+2014-02-26,"Gox, the most prominent Bitcoin exchange, late Monday night stirred ire, but also hope for the virtual currency.",negative,-0.36860185861587524
+2014-02-26,| A Senate report says Credit Suisse helped American clients hide billions in assets.,negative,-0.7497549057006836
+2014-02-26,| Bank of America is facing two new investigations.,negative,-0.6450453996658325
+2014-02-26,| Argentina is asking the United States Supreme Court to throw out a lower-court ruling on its debt.,negative,-0.9021980166435242
+2014-02-26,A Silver Lining in Bitcoin’s Stumble,neutral,0.16172263026237488
+2014-03-05,A small solar company in Shanghai has said it is unlikely to meet a Friday deadline for an annual interest payment owed to investors.,negative,-0.9088161587715149
+2014-03-05,Bond Market in China May See First Local Default,neutral,0.06915228813886642
+2014-03-06,"Piraeus Bank, Greece’s largest lender, is planning to issue a bond that will be a significant test of investor interest.",positive,0.5184152126312256
+2014-03-06,Greek Bank Set to Be First in 5 Years to Tap Capital Markets,positive,0.7640069127082825
+2014-03-07,First American Bank in Chicago got publicity but little satisfaction after it identified a source of debit card theft and tried to stop it.,negative,-0.9145879149436951
+2014-03-07,"After Debit Card Fraud, a Chicago Bank Feels Its Customers’ Frustration",negative,-0.8903694152832031
+2014-03-12,"Julia Hoggett, a managing director at Bank of America Merrill Lynch, will join the Financial Conduct Authority in early May as head of investment banking as the regulator looks to bolster its expertise.",positive,0.5976588129997253
+2014-03-12,British Regulator Adds Industry Veteran to Supervise Investment Banks,neutral,0.02597517892718315
+2014-03-13,"Despite prosecutors’ recommendation for a prison sentence of at least 19 years, David Rubin of CDR Financial Products was sentenced to two years’ probation.",negative,-0.578719973564148
+2014-03-13,Financial Adviser Sidesteps Prison in Bond-Rigging Case,negative,-0.883202314376831
+2014-03-14,UniCredit’s announcement of a 15 billion euro loss is seen as an attempt to get out in front of a European Central Bank review of large banks.,negative,-0.36056414246559143
+2014-03-14,A Review of Banks in Europe Gets Results,neutral,-0.041614800691604614
+2014-03-18,"The nation’s four largest banks have more than fulfilled their financial obligations toward homeowners under a $25 billion settlement reached in 2012, according to a report.",positive,0.880987823009491
+2014-03-18,Big Banks Fulfill Part of Mortgage Deal,neutral,0.028236789628863335
+2014-03-19,"Robert Mock, who once sold financial derivatives at Bank of America Merrill Lynch, has found new success making seaweed chips.",neutral,0.056874264031648636
+2014-03-19,"The venture has attracted backers including Jerry Yang, a co-founder of Yahoo.",positive,0.5247783660888672
+2014-03-19,"After Derivatives, a Bet on Crispy Seaweed",neutral,0.024666868150234222
+2014-03-20,"The Fed, in its latest annual stress test of financial system, said the banks had adequate capital to withstand a severe downturn.",positive,0.8159893155097961
+2014-03-20,"Most Large Banks in U.S. Could Cope in Event of Turmoil, Fed Says",positive,0.8374555110931396
+2014-03-25,"RSA expects to issue 1.38 billion shares at 56 pence a share, giving shareholders the right to buy three shares for every eight they own.",neutral,0.21418482065200806
+2014-03-25,The insurer is looking to bolster its balance sheet after problems in its Irish business.,positive,0.9273611307144165
+2014-03-25,British Insurer RSA Aims to Raise $1.27 Billion in Rights Issue,neutral,0.4306900203227997
+2014-03-26,The lawsuit arose out of troubled mortgage-backed securities that the bank cobbled together and sold to Fannie Mae and Freddie Mac in the run-up to the financial crisis.,negative,-0.5031429529190063
+2014-03-26,Bank of America to Pay $6.3 Billion to Settle Mortgage Securities Suit,neutral,-0.007169246673583984
+2014-03-28,The recommendation to toss out a Justice Department lawsuit over a soured mortgage deal at Bank of America could inspire other banks to test their luck in court.,negative,-0.151898592710495
+2014-03-28,Judge Urges Dismissal of Mortgage Suit Against Bank of America,neutral,-0.23320965468883514
+2014-04-01,"The ruling sided with the Federal Reserve, whose regulations reduced transaction fees for most retailers — but not as much as they were hoping.",negative,-0.601869523525238
+2014-04-01,Merchants Disappointed by Court Ruling on Debit Swipe Fees,negative,-0.9443540573120117
+2014-04-02,"A federal district court’s view on a sale of a piece of a loan is problematic, writes Stephen J. Lubben in the In Debt column.",negative,-0.8219385147094727
+2014-04-02,Giving a Debtor a Big Club Against Lenders,neutral,-0.2405610978603363
+2014-04-03,Federal authorities have opened a criminal investigation into fraud involving Citigroup’s Mexican unit.,negative,-0.7793809175491333
+2014-04-03,"| Blythe Masters, the head of JPMorgan Chase’s commodities unit, is leaving the bank.",negative,-0.5544374585151672
+2014-04-03,| China’s answer to Wall Street.,neutral,0.09049999713897705
+2014-04-03,| Rendering a strong case against Bank of America weak.,negative,-0.9065607786178589
+2014-04-03,Shadows Over Citigroup,neutral,-0.03291533887386322
+2014-04-05,Giving back is something many people of means want to do.,neutral,0.05674467980861664
+2014-04-05,But not all boards are the same.,neutral,-0.016635196283459663
+2014-04-05,"Before Joining a Board, Size Up the Job and the Mission",neutral,0.03635922819375992
+2014-04-09,The Consumer Financial Protection Bureau said that the bank “illegally charged” its customers for credit services that were not received.,negative,-0.925868809223175
+2014-04-09,The bank was ordered to refund more than a million customers.,negative,-0.8796238899230957
+2014-04-09,$772 Million Penalty for Bank of America Credit Card Practices,negative,-0.8820229768753052
+2014-04-10,"In the last six months, many of the major banks have instituted what amounts to a radically new policy of urging junior staff members to take a few days off a month, on the weekends.",neutral,-0.15046411752700806
+2014-04-10,"Banks Ease Hours for Junior Staff, but Workload Stays Same",negative,-0.9302716851234436
+2014-04-11,A federal judge held up the bankrupt city’s settlement as an example of “the very spirit of negotiation and compromise” that he hoped other creditors would follow.,neutral,0.09179169684648514
+2014-04-11,Detroit Wins Judge’s Nod for Contract Settlement,positive,0.5021028518676758
+2014-04-12,"At the World Bank and International Monetary Fund annual spring meetings, finance ministers and central bankers also discussed the possibility of new penalties for Russia.",neutral,0.01578608900308609
+2014-04-12,Finance Officials Push for Bold Action to Sustain Economic Growth,positive,0.7826929092407227
+2014-04-13,"Citigroup, Bank of America, Morgan Stanley and Goldman Sachs will report earnings, and the E.U.",neutral,0.06980013847351074
+2014-04-13,is expected to pass laws aimed at reducing nations’ vulnerability to the problems of their big banks.,neutral,0.303872674703598
+2014-04-13,"Big Banks’ Earnings Reports, and E.U.",neutral,-0.22671936452388763
+2014-04-13,to Act on Bank Laws,neutral,0.011164028197526932
+2014-04-14,"Despite Citi’s strong earnings, the bank is trading at just 83 percent of its tangible book value, the only major financial firm currently stuck at less than its net worth, Antony Currie writes in Reuters Breakingviews.",negative,-0.697053074836731
+2014-04-14,Citi’s Stock Seems Priced for More Mediocrity,neutral,0.07745035737752914
+2014-04-16,"Bank of America’s $276 million loss provides some valuable perspective on the difficulties in running a big bank these days, Antony Currie of Reuters Breakingviews writes.",neutral,-0.08939707279205322
+2014-04-16,Bank of America Not Alone in Reporting Anemic Results,negative,-0.6896607875823975
+2014-04-17,"Morgan Stanley’s chief executive, James P. Gorman, presided over a far better start to the year than in 2013, and momentum seems to be building toward increasing the firm’s return on equity, writes Antony Currie of Reuters Breakingviews.",positive,0.9339082837104797
+2014-04-17,Morgan Stanley Gets Most Relief From First-Quarter Earnings,neutral,-0.148912250995636
+2014-04-25,The New York State attorney general accused accused the bank’s top executives of withholding material information related to its 2008 merger with Merrill Lynch.,negative,-0.8767054677009583
+2014-04-25,Ex-Finance Chief at Bank of America to Pay $7.5 Million in Settlement,neutral,-0.09941186010837555
+2014-04-28,"If a new accounting rule had been in effect, it appears that the bank could not have made the mistake that forced it to withdraw its capital plan.",negative,-0.7180055975914001
+2014-04-28,Bank of America’s Bad Accounting,negative,-0.676588237285614
+2014-04-30,Do big banks have strong enough management of their risks and good internal controls to detect accounting problems?,neutral,0.35870689153671265
+2014-04-30,Mayra Rodríguez Valladares examines the problem in Another View.,neutral,-0.029617559164762497
+2014-04-30,What Bank of America’s Accounting Mistake Can Teach the Market,negative,-0.4066048264503479
+2014-05-01,"At a charity event on Wednesday, the chief of Goldman Sachs was overheard recounting a dinner with Jamie Dimon and Peter Sands, where they traded stories from the dark days of 2008.",neutral,-0.29973188042640686
+2014-05-01,A Dinner Among Survivors of the Financial Crisis,neutral,0.06637424230575562
+2014-05-03,An accounting error has cast a shadow over a bank’s comeback — and shareholders may well want some answers at the annual meeting.,negative,-0.7256754636764526
+2014-05-03,"At Bank of America, a $4 Billion Wet Blanket on the Party",negative,-0.8073838353157043
+2014-05-05,"Jeff Rose, a managing director in the mergers group focused on consumer and retail at Bank of America Merrill Lynch, will join Deutsche Bank as head of its consumer and retail investment banking coverage in the Americas.",neutral,0.05739283934235573
+2014-05-05,Deutsche Bank Hires Consumer M.&A.,neutral,0.038614191114902496
+2014-05-05,Adviser,neutral,0.06029317528009415
+2014-05-07,"Bank officials said they were conducting a “third-party review” of how the problem happened, but declined to name the firm conducting the review.",neutral,-0.25645893812179565
+2014-05-07,Bank of America Shareholders Press Officials After $4 Billion Error,neutral,-0.05606463551521301
+2014-05-12,"When investors get to speak at the annual meeting of banks, anger, scorn and even singing can result.",negative,-0.8003621697425842
+2014-05-12,"Telling Off the C.E.O., Once a Year",neutral,0.024163974449038506
+2014-05-13,"Even with new laws, derivatives remain mostly opaque, which means that the risks to governments and taxpayers are also opaque, Mayra Rodríguez Valladares writes in the Another View column.",neutral,-0.05449330806732178
+2014-05-13,"Derivatives Markets Growing Again, With Few New Protections",positive,0.6485636830329895
+2014-05-16,"Zale’s largest shareholder, TIG Advisors, is highlighting Bank of America’s conflict of interest in a sale to Signet Jewelers.",negative,-0.883512556552887
+2014-05-16,"That and other factors may lead shareholders to reject the deal, Steven M. Davidoff writes in the Deal Professor column.",negative,-0.6043634414672852
+2014-05-16,Deal for Zales May Be Done In by Bank of America’s Conflicts,neutral,0.06515420973300934
+2014-05-19,"Even for the telecommunications industry, AT&T’s $48.5 billion bid for DirecTV is a blockbuster deal.",positive,0.640682578086853
+2014-05-19,"And should it be completed, the deal could bestow a wealth of fees upon the advisers who worked on it.",neutral,0.340717077255249
+2014-05-19,The Advisers Behind the Deal for DirecTV,neutral,0.02959653176367283
+2014-05-20,The British aerospace company Cobham will pay about $920 million for the wireless communications company Aeroflex Holding Corporation and assume $540 million in debt.,neutral,0.028080377727746964
+2014-05-20,Cobham Acquires Wireless Communications Company for $1.46 Billion,neutral,0.06295297294855118
+2014-06-11,Bank of America’s mortgage settlement is said to be deadlocked.,negative,-0.7280661463737488
+2014-06-11,| The manager of Harvard’s endowment plans to step down.,neutral,-0.29232552647590637
+2014-06-11,| A.I.G.,neutral,0.03916233777999878
+2014-06-11,has named its next chief executive.,neutral,0.04731486737728119
+2014-06-11,| The banking industry is trying to adapt to stricter regulations and low market volatility.,positive,0.7486198544502258
+2014-06-11,Morning Agenda: An Impasse in Bank of America Settlement,negative,-0.8836017847061157
+2014-06-12,"UBS has hired Jerry Marcus, a former head of Bank of America Merrill Lynch’s retail investment banking group, as a vice chairman for its Americas investment bank, the Swiss firm said on Thursday.",neutral,0.11951848864555359
+2014-06-12,UBS Hires Veteran Bank of America Executive,neutral,-0.0615808367729187
+2014-06-16,"The Financial Industry Regulatory Authority ordered Merrill Lynch to pay a fine and restitution for overcharging about 41,000 small businesses and 6,800 charities over upfront sales fees on certain mutual funds.",negative,-0.9167963862419128
+2014-06-16,Merrill Lynch to Pay More than $32 Million for Overcharging Clients,negative,-0.7909420728683472
+2014-06-17,"Complex mergers in recent years often have been an excuse to bring in extra investment bankers but the $43 billion Medtronic-Covidien deal bucked the trend, Antony Currie writes in Reuters Breakingviews.",positive,0.5167534947395325
+2014-06-17,Medtronic-Covidien Deal Rewards Just 2 Advisory Firms,neutral,-0.0028481073677539825
+2014-06-18,SunTrust has agreed to pay $968 million over “excessive” problems with mortgages that continued well after the 2008 crisis.,positive,0.4685415029525757
+2014-06-18,SunTrust Settles With Justice Dept.,neutral,0.06564828753471375
+2014-06-18,Over Mortgages; Talks Continue for Citigroup and Bank of America,neutral,0.07797333598136902
+2014-06-19,"Synchrony Bank, the new name of GE Capital Retail Bank, agreed on Thursday to pay $225 million to consumers to settle claims of illegal and discriminatory credit card practices that affected 746,000 consumers.",positive,0.6795731782913208
+2014-06-19,G.E.,neutral,0.0415060818195343
+2014-06-19,Consumer Finance Unit Reaches Settlements,neutral,0.05339784920215607
+2014-06-23,"A survey by Markit Economics indicated that the French economy may again be shrinking, slowing the pace of the bloc’s overall expansion.",negative,-0.9565114974975586
+2014-06-23,"France Puts Drag on Euro Zone Growth, Report Shows",negative,-0.6341056823730469
+2014-06-30,"Mr. Murphy is the latest investment banker to depart Barclays, which is seeking to reduce the size of its investment bank in response to stiffer regulations.",negative,-0.5411660075187683
+2014-06-30,Jeremy Murphy Leaves Barclays for Bank of America,neutral,-0.21824240684509277
+2014-07-02,"The deal, if completed, would be the latest example of an American company seeking to reincorporate overseas to avoid higher corporate taxes.",positive,0.5980604290962219
+2014-07-02,Destination Maternity Rebuffed Twice in Bid for British Retailer Mothercare,negative,-0.9066965579986572
+2014-07-04,Ian Ferguson and Michael Findlay were named the new co-heads for the investment banking business in Britain and Ireland.,neutral,0.08534356206655502
+2014-07-04,Bank of America Names Co-Heads of Investment Banking in Britain,neutral,-0.010649049654603004
+2014-07-07,"The Spire Healthcare Group said it expected to price its offering at 2.10 pounds to 3 pounds a share, valuing the company at about $1.6 billion at the midpoint of that range.",neutral,0.1519976556301117
+2014-07-07,British Hospital Operator Spire Healthcare Sets Price Range for I.P.O.,neutral,0.028734467923641205
+2014-07-12,"Europe’s economy is still in the early stages of recovery from recession, and many strategists see compelling reasons to invest in it.",positive,0.6016048789024353
+2014-07-12,Why Europe May Gain the Edge for Investors,neutral,0.3243091106414795
+2014-07-15,The bank is increasing the size of its incoming class of full-time analysts and associates as part of its effort to improve working conditions for its youngest employees.,positive,0.8245822191238403
+2014-07-15,Bank of America Hires More Junior Bankers,neutral,-0.2411961704492569
+2014-07-16,"Bank of America will have to find a lot more in earnings or do even more cost-cutting to increase its return on equity, Antony Curries writes in Reuters Breakingviews.",positive,0.8945132493972778
+2014-07-16,Bank of America Still Struggles to Churn Out Solid Earnings,negative,-0.8965312838554382
+2014-07-22,"The CIT Group, which is run by John A. Thain, has agreed to acquire the parent company of OneWest Bank for $3.4 billion in cash and stock.",neutral,0.1769215166568756
+2014-07-22,"2 Banks Forged in Crisis, CIT and OneWest, Are Set to Merge, to a Big Payoff",neutral,0.43560534715652466
+2014-07-23,The products provide a different kind of payout: good will from regulators and a chance to woo customers who might one day become profitable.,positive,0.5183287262916565
+2014-07-23,Lenders Offer Low-Cost Services for the Unbanked,neutral,0.02498125284910202
+2014-07-30,"Bank of America and federal officials are trying to resolve matters related to troubled mortgages issued before the financial crisis, but they remained far apart on Wednesday on the cost of a settlement.",negative,-0.5767202973365784
+2014-07-30,Bank of America Raises Its Mortgage Settlement Offer,neutral,0.1101897731423378
+2014-07-31,"In a new report released on Thursday, the Consumer Financial Protection Bureau said fees for customers who overdraw their accounts continue to pile up, particularly among young people.",negative,-0.9492798447608948
+2014-07-31,Regulators Still Find Problems in Overdraft Fees,negative,-0.8329646587371826
+2014-08-04,"The market reaction after the bailout plan for Banco Espírito Santo emerged could bode well for a larger, coming test of the region’s banks.",positive,0.874767541885376
+2014-08-04,Calm After a Bank’s Collapse in Portugal Could Signal Eurozone Resiliency,positive,0.5017285346984863
+2014-08-06,"After months of stiff resistance, the bank has abruptly offered to pay $16 billion.",positive,0.5472556352615356
+2014-08-06,The turning point came in an unexpected ruling from a federal judge known to be hard on big banks.,positive,0.20709195733070374
+2014-08-06,Bank of America Offers U.S. Biggest Settlement in History Over Toxic Mortgage Loans,positive,0.3657790422439575
+2014-08-07,Bank of America offered the U.S. the biggest settlement in history.,positive,0.6764813661575317
+2014-08-07,| T-Mobile taunted Sprint after a takeover plan fell apart.,negative,-0.9128254652023315
+2014-08-07,| Why Walgreen shied away from an inversion in its deal for Alliance Boots.,negative,-0.8379675149917603
+2014-08-07,| Time Warner was silent on 21st Century Fox’s takeover attempt during its earnings call on Wednesday.,negative,-0.532694399356842
+2014-08-07,Morning Agenda: Bank of America’s Big Mortgage Settlement,neutral,0.04144284129142761
+2014-08-08,"The weight of tens of billions of dollars in legal costs may be coming to an end for Bank of America, allowing the bank to turn its attention back to, as DealBook reported, “the business of being a bank.”",neutral,0.01730107143521309
+2014-08-08,Weekend Reading: The Business of Being a Bank,neutral,0.01682230830192566
+2014-08-14,Arab Bank warns of a troubling precedent if following standard compliance procedures means a bank can still be held liable if transactions get through in error.,negative,-0.9392483234405518
+2014-08-14,Banks Watching Terrorism Trial in Brooklyn,negative,-0.4142899513244629
+2014-08-16,"If it provides hard cash for demolishing abandoned homes, an impending settlement by Bank of America could help many forgotten victims of the mortgage crisis.",positive,0.7033130526542664
+2014-08-16,"In a Bank Settlement, Don’t Forget the Bulldozers",neutral,0.028621792793273926
+2014-08-19,"The personnel moves strengthen Mr. Montag’s position as a potential successor to Brian T. Moynihan, chief executive of the bank.",positive,0.9026314616203308
+2014-08-19,Bank of America Co-Chief Operating Officer Will Become Sole C.O.O.,neutral,0.01226165983825922
+2014-08-20,Standard Chartered to will pay a $300 million fine for backsliding.,negative,-0.8254422545433044
+2014-08-20,| A default swaps association has postponed a payout auction on Argentine bonds.,negative,-0.9176347851753235
+2014-08-20,| Grappling with the cost of corporate gadflies.,negative,-0.634276270866394
+2014-08-20,| Bank of America has a sole chief operating officer.,neutral,0.003334127366542816
+2014-08-20,Morning Agenda: Standard Chartered’s Backsliding Woes,negative,-0.722963809967041
+2014-08-21,Attorney General Eric H. Holder Jr. said that the Justice Department and Bank of America reached a record $16.65 billion settlement over the sale of soured mortgage securities.,positive,0.693761944770813
+2014-08-21,Holder on Bank of America’s Settlement,neutral,0.02518952637910843
+2014-08-22,"The Bank of America settlement may close a chapter of the financial crisis, but the Justice Department can still pursue civil cases against former Countrywide executives, writes Peter J. Henning in the White Collar Watch column.",negative,-0.631224513053894
+2014-08-22,Blurred Lines in Big Bank Mortgage Settlements,negative,-0.690723717212677
+2014-08-23,"Remember Angelo Mozilo, the lender’s former chief?",neutral,-0.037172939628362656
+2014-08-23,A possible lawsuit could bring him back into the hot seat.,negative,-0.7601679563522339
+2014-08-23,An Unfinished Chapter at Countrywide,neutral,-0.22635573148727417
+2014-09-05,The European Central Bank plans to buy bonds backed by loans to consumers and companies starting next month.,neutral,0.10710155218839645
+2014-09-05,Promise From European Central Bank Is Also a Gamble,positive,0.5005603432655334
+2014-09-10,An innovative type of loan in 2005 now stands as a roadblock to Detroit’s exit from bankruptcy.,positive,0.4209959805011749
+2014-09-10,Detroit’s Bankruptcy Deal Hinges on 2 Banks,neutral,-0.0826709195971489
+2014-09-13,"After France said it would miss its deficit target again, officials highlighted the sacrifices some nations had made to get their finances in order.",positive,0.19695162773132324
+2014-09-13,Veiled Criticism for France as Ministers Stress Eurozone Stability,negative,-0.7618557214736938
+2014-09-21,The following tax-exempt fixed-income issues are scheduled for pricing this week.,neutral,0.009301049634814262
+2014-09-21,Treasury Auctions Set for the Week of Sept. 22,neutral,-0.008648965507745743
+2014-09-23,"Russia, which was supposed to be a growth market for Wall Street, is turning out to be a potential financial and political nightmare amid the Ukraine situation and America’s sanctions.",negative,-0.9324413537979126
+2014-09-23,High Hopes for Russia Are Fading on Wall St.,negative,-0.8969192504882812
+2014-09-24,"In the survey of business sentiment, expectations for the next six months hit their lowest reading since December 2012.",negative,-0.9559091925621033
+2014-09-24,"In Germany, Business Indicator Falls, Raising Specter of Recession",negative,-0.9406669735908508
+2014-09-29,The bank agreed to pay $7.65 million to settle federal charges that it violated record keeping and internal rules in overstating the capital cushion that regulators require the bank to hold.,positive,0.05224776268005371
+2014-09-29,Bank of America Settles S.E.C.,neutral,0.030943581834435463
+2014-09-29,Case on $4 Billion Accounting Error,neutral,-0.3216017484664917
+2014-09-30,"Among this year’s class of first-year bankers, known on Wall Street as analysts, 77.5 percent are men, a report by the recruiting start-up Vettery found.",neutral,0.02571827545762062
+2014-09-30,"Wall Street’s Young Bankers Are Still Mostly White and Male, Report Says",neutral,-0.11745305359363556
+2014-10-01,"To offset Mr. Moynihan’s newly increased power, the board also elected Jack Bovender Jr. as the so-called lead independent director.",neutral,0.47593826055526733
+2014-10-01,Bank of America Chief Moynihan to Add Chairman Role,neutral,0.04213404655456543
+2014-10-02,"Yodlee positions itself as a way to gather data for a disparate number of online sites and programs — including ones like Credit Karma, LearnVest and BillGuard — and put them in one place.",neutral,0.007818583399057388
+2014-10-02,"Yodlee, a Hub for Financial Apps, Raises $75 Million in I.P.O.",positive,0.7895253896713257
+2014-10-08,"Banks’ fixed income trading saw a return of volatility, but not enough to ensure decent profitability for Goldman Sachs, JPMorgan and Morgan Stanley in the quarter, Antony Currie of Reuters Breakingviews writes.",positive,0.8766778707504272
+2014-10-08,Wall St. Traders Need Help in Bolstering Banks’ Returns,positive,0.4253981411457062
+2014-10-09,The British insurer had hoped to price the offering in OM Asset Management at $15 to $17 a share.,neutral,0.058700140565633774
+2014-10-09,"The company’s stock closed down 5 cents, at $13.95, in trading in New York on Thursday.",negative,-0.9585461020469666
+2014-10-09,Old Mutual’s Asset Management Arm I.P.O.,neutral,0.027088230475783348
+2014-10-09,Priced Low at $14 a Share,negative,-0.6058429479598999
+2014-10-12,"Leaders of the International Monetary Fund said that high debt in China and a lack of spending in Europe, among other factors, could provoke a market convulsion.",negative,-0.9026485681533813
+2014-10-12,I.M.F.,neutral,0.037868428975343704
+2014-10-12,Warns of Global Financial Risk From Fiscal Policies,negative,-0.5111055374145508
+2014-10-14,The topic everyone on Wall Street is discussing urgently but quietly isn’t the volatile stock market.,neutral,-0.023645106703042984
+2014-10-14,It is Ebola.,neutral,-0.12916050851345062
+2014-10-14,Calculating the Grim Economic Costs of Ebola Outbreak,neutral,0.038262344896793365
+2014-10-15,A $5.3 billion charge stemming from a record mortgage settlement overshadowed decent quarterly results in the bank’s investment banking business.,negative,-0.9132921695709229
+2014-10-15,Legal Charge for Mortgage Settlement Decreases Profit at Bank of America,negative,-0.9554625153541565
+2014-10-16,The development economist Arvind Subramanian will fill a post vacant since Raghuram Rajan left last year to become the central bank governor.,neutral,-0.07400211691856384
+2014-10-16,"India Picks Top Economic Aide, Formerly of I.M.F.",neutral,0.07031168043613434
+2014-10-17,The German government and central bank see no reason for economic stimulus measures even as manufacturing and growth forecasts decline.,negative,-0.45624029636383057
+2014-10-17,Government Holds Firm in Germany in Face of Weakening Economy,negative,-0.2098354697227478
+2014-10-24,"“I need Goldman to take off its white hat and put on a darker one,” an Allergan executive wrote in an email.",neutral,0.05329933017492294
+2014-10-24,Botox Maker Allergan Pleaded for Goldman’s Help in Valeant Fight,neutral,-0.13438624143600464
+2014-10-30,"Some central banks, scarred from old battles with escalating prices, were slow to see their new, real problem.",negative,-0.8646887540817261
+2014-10-30,Inflation?,negative,-0.32627370953559875
+2014-10-30,Deflation Is New Risk,neutral,0.11316695809364319
+2014-11-02,One woman had her throat slashed and the body of the other was discovered decomposing in a suitcase on a balcony.,negative,-0.828152060508728
+2014-11-02,Hong Kong Police Arrest British Banker After 2 Women’s Bodies Are Found,negative,-0.8180490732192993
+2014-11-05,"Mario Draghi has sent markets soaring and raised hopes for Europe’s economic outlook after previous freewheeling comments, and Thursday could bring more of the same.",positive,0.8941701054573059
+2014-11-05,Markets Seem to Cheer Mario Draghi’s Off-Script Comments,positive,0.5395959615707397
+2014-11-06,Bank of America is nearing a deal with federal regulators to settle an investigation into the bank’s suspected manipulation of the currency market.,neutral,0.24472764134407043
+2014-11-06,Bank of America Sets Aside $400 Million More for Currency Inquiry,neutral,0.04391693323850632
+2014-11-07,Bank of America takes a $400 million legal charge.,negative,-0.5699190497398376
+2014-11-07,| Details emerge on low-down-payment mortgage plan.,neutral,0.010162151418626308
+2014-11-07,| More twists in battle for Allergan.,neutral,0.09329546242952347
+2014-11-07,Morning Agenda: Bank of America’s Legal Hit,neutral,-0.001759503036737442
+2014-11-11,"The next phase of the case will most likely present a greater test to the banks, as the focus shifts to criminal investigations and individual liability.",neutral,0.06982575356960297
+2014-11-11,"As Currency Settlement Draws Near, Barclays Gets Cold Feet",negative,-0.6875876188278198
+2014-11-13,"The practice, under investigation by the Justice Department, affects tens of thousands of Americans, impairing their ability to secure housing and jobs.",negative,-0.9374697208404541
+2014-11-13,Debts Canceled by Bankruptcy Still Mar Consumer Credit Scores,negative,-0.7984031438827515
+2014-12-01,"A House hearing on Wednesday will scrutinize the Takata Corporation’s airbag defects, and the Labor Department on Friday will release employment figures for November, which are expected to be strong.",negative,-0.0867224931716919
+2014-12-01,"Hearing on Takata Airbags, and U.S. Job Figures",negative,-0.4906916618347168
+2014-12-02,"Income inequality in Chile and other parts of Latin America is narrowing, but the reason for the decline, yet to be determined, could be good news or bad.",negative,-0.8434739112854004
+2014-12-02,"Income Gap Shrinks in Chile, for Better or Worse",negative,-0.870063841342926
+2014-12-08,"Will the S.E.C.’s treatment of Bank of America, Peter J. Henning asks in the White Collar Watch column, become the norm for other banks seeking waivers from rules on “bad actors”?",neutral,-0.2281685173511505
+2014-12-08,"With Bank of America Order, S.E.C.",neutral,0.0451313778758049
+2014-12-08,Breaks the Mold,neutral,-0.31101083755493164
+2014-12-09,Brian T. Moynihan tells a conference that his bank is expecting trading revenue in the fourth quarter to be down from last quarter and from a year earlier.,negative,-0.9710749387741089
+2014-12-09,Bank of America C.E.O.,neutral,0.03391309082508087
+2014-12-09,Sees Slowdown in Trading,negative,-0.7828888893127441
+2014-12-10,A Federal Reserve official singled out JPMorgan Chase as the bank likely to have the biggest need for more capital under the rules.,neutral,0.20516422390937805
+2014-12-10,It could be required to increase its capital by $22 billion.,positive,0.7741314172744751
+2014-12-10,JPMorgan Chase Says It Hopes to Meet New Capital Rules With No Major Changes,positive,0.6000816822052002
+2014-12-13,"The number of people worldwide who are living in extreme poverty has been declining sharply, partly attributable to rising incomes in India and China.",negative,-0.9625979065895081
+2014-12-13,A Global Gauge Finds Progress Against Poverty,negative,-0.3081277906894684
+2014-12-17,"Edward O’Donnell, a former Countrywide executive, helped prosecutors force Bank of America to pay a $16.65 billion penalty over its role in churning out shoddy mortgage securities.",negative,-0.844651460647583
+2014-12-17,Whistle-Blower on Countrywide Mortgage Misdeeds to Get $57 Million,neutral,-0.06567171216011047
+2014-12-18,"Robert Madsen, one of four whistle-blowers in the $16.65 billion civil settlement, said keeping secret his cooperation with prosecutors for nearly four years had not been easy.",negative,-0.7689561247825623
+2014-12-18,A Second Bank of America Whistle-Blower Is Set to Get $56 Million,neutral,0.029119275510311127
+2014-12-19,Goldman names John E. Waldron co-head of its investment bank.,neutral,0.026315338909626007
+2014-12-19,| Regulators deem MetLife “too big to fail.” | Another big whistle-blower reward in Bank of America case.,negative,-0.8433384299278259
+2014-12-19,| London tenants win battle over U.S. equity firm.,positive,0.15880939364433289
+2014-12-19,Morning Agenda: Goldman Promotes Star Deal Maker,neutral,0.1716580092906952
+2015-01-12,Other events this week include results of E.U.,neutral,-0.01231265440583229
+2015-01-12,"hearings on a trade agreement, an opinion on a quantitative easing plan in Europe and retail and food-services sales figures in the United States.",neutral,0.05148080736398697
+2015-01-12,Detroit’s Auto Show and U.S. Banks’ Financial Reports,negative,-0.5142334699630737
+2015-01-14,"GoBankingRates says nine of the 10 best savings rates are offered on web accounts, with several hitting 1 percent.",neutral,0.06428060680627823
+2015-01-14,"Savings Rates Are Anemic, but a Survey Shows They Are Less Paltry Online",negative,-0.15228664875030518
+2015-01-15,Banks are blaming market ups and downs for hurting earnings.,negative,-0.9355770349502563
+2015-01-15,"That’s rich after years of claiming conditions were too docile, writes Antony Currie of Reuters Breakingviews.",negative,-0.4665721654891968
+2015-01-15,Volatility Is the New Weather for Banks,neutral,0.010611481964588165
+2015-01-21,"Bankers and other attendees at the World Economic Forum offer their thoughts on regulation, oil prices and quantitative easing by the European Central Bank, among other subjects.",neutral,0.04155902564525604
+2015-01-21,"Predictions, Pet Peeves and Random Musings From Davos",neutral,0.007462531328201294
+2015-01-23,"With stock gains at the big banks slowing, cash bonuses may seem relatively more appealing to bank bosses.",neutral,-0.2134261578321457
+2015-01-23,"Investors should keep that in mind, Antony Currie of Reuters Breakingviews writes.",neutral,0.0981404259800911
+2015-01-23,Hint for Investors in Rise in Cash for Wall St. Chiefs’ Pay,neutral,0.14886778593063354
+2015-01-29,"Switzerland’s move to untie its currency from the euro has caused the franc to soar, along with hundreds of thousands of mortgage payments in Poland.",negative,-0.9020364284515381
+2015-01-29,"Homeowners in Poland Borrowed in Swiss Francs, and Now Pay Dearly",negative,-0.6127442717552185
+2015-02-09,"In a shift, the new government will propose accepting its next bailout loan payment and fulfill most — but not all — of its austerity obligations.",neutral,0.45851823687553406
+2015-02-09,Greece to Propose a Debt Compromise Plan to Creditors,neutral,0.09706056863069534
+2015-02-16,"Eurozone finance ministers will meet Monday on Greece’s bailout; the Federal Reserve will release minutes from its last meeting, on Wednesday; and Walmart will report earnings on Thursday.",neutral,0.00388355553150177
+2015-02-16,"Eurozone Meeting on Greece, and Walmart Earnings",neutral,-0.04698356240987778
+2015-02-20,"The agreement to acquire NewSmith, which also has offices in Tokyo, is the latest move in a flurry of acquisitions by the British hedge fund company.",positive,0.5233649611473083
+2015-02-20,Man Group to Buy London-Based Investment Manager,neutral,0.0035962220281362534
+2015-02-23,Banks and law firms are planning to set up a group that would be affiliated with the banking industry’s forum for sharing data on online threats.,neutral,0.035684987902641296
+2015-02-23,Wall St. and Law Firms Plan Cooperative Body to Bolster Online Security,positive,0.5987745523452759
+2015-02-27,"Policy makers are taking drastic measures to revive the economy, resulting in financial transactions that seem upside-down.",positive,0.00017264485359191895
+2015-02-27,"In Europe, Bond Yields and Interest Rates Go Through the Looking Glass",neutral,-0.004738315939903259
+2015-03-03,The hiring of Lewis Steinberg comes as tax considerations have played a big role in deal considerations.,neutral,0.0766916424036026
+2015-03-03,Merrill Lynch Hires Tax Expert From Credit Suisse,neutral,0.074085533618927
+2015-03-05,All 31 institutions are found to have enough financial strength to survive a severe downturn in the United States economy.,positive,0.7550414800643921
+2015-03-05,Big Banks Pass Muster in Latest Stress Tests,positive,0.521364688873291
+2015-03-11,"Bank of America must resubmit its capital plan, while units of Deutsche Bank and Santander of Spain failed the tests outright.",neutral,0.22345572710037231
+2015-03-11,"U.S. Banks Pass Stress Tests, Some With an Asterisk",neutral,0.0915343388915062
+2015-03-18,Concerns about a withdrawal from the euro currency union come as the war of words heats up between Greece and its creditors.,negative,-0.9020451903343201
+2015-03-18,Warnings Raised of a Greek Exit From the Euro,negative,-0.7630288004875183
+2015-03-19,"Banks will not like the scrutiny of having such a vote, but it’s a worthwhile debate to air publicly.",neutral,0.04586433619260788
+2015-03-19,Putting a Breakup of Bank of America to a Shareholder Vote,neutral,-0.009669266641139984
+2015-03-26,"Brian T. Moynihan, the bank’s chief executive, was paid $13 million, slightly less than the pay of the firm’s investment bank head, Thomas K. Montag.",negative,-0.8086749315261841
+2015-03-26,Bank of America Chief Executive Took 7% Pay Cut in 2014,negative,-0.896020233631134
+2015-04-06,"Michael Wise will join the bank from Goldman Sachs, where he was head of equity market offerings for financial institutions.",neutral,0.047428835183382034
+2015-04-06,Bank of America Merrill Lynch Hires Banker for Equity Capital Markets,neutral,0.01471882313489914
+2015-04-07,"Judge Jed S. Rakoff, who has been critical of the agency, issued a ruling that signals insider trading cases may not be hamstrung by new limitations.",neutral,0.08812345564365387
+2015-04-07,S.E.C.,neutral,0.030168529599905014
+2015-04-07,Gains Support From an Unexpected Quarter,positive,0.3029787540435791
+2015-04-08,"Investment banks involved in the latest deals, including Goldman and a newcomer Robey Warshaw, stand to gain windfalls if the latest mergers close.",neutral,-0.10301023721694946
+2015-04-08,A Rich Day for Banks Advising on Big Merger Deals,positive,0.42952314019203186
+2015-04-13,Investors are eagerly awaiting guidance from management about when higher short-term interest rates will impact the banks’ bottom lines.,neutral,0.12998506426811218
+2015-04-13,Wall Street’s 4th Quarter Earnings,neutral,-0.2932632565498352
+2015-04-15,Net income fell short of expectations as the bank continued to try to recover from the fallout from the financial crisis.,negative,-0.9552436470985413
+2015-04-15,Bank of America Swings to a Profit,negative,-0.030237793922424316
+2015-04-19,That Athens might still be exploring ways to restructure its debt underscores how close the country is to defaulting.,positive,0.4147455096244812
+2015-04-19,Greece Flashes Warning Signals About Its Debt,negative,-0.6457827091217041
+2015-04-22,The Financial Conduct Authority of Britain said that Merrill Lynch International incorrectly reported details of client transactions.,negative,-0.9215578436851501
+2015-04-22,British Regulator Fines Merrill Lynch $19.8 Million for Reporting Failures,negative,-0.9387124180793762
+2015-05-05,"Mr. Cormier, a specialist in taking companies public, is joining the bank from Deutsche Bank.",neutral,0.04831630364060402
+2015-05-05,Bank of America Hires Technology Banker Chris Cormier,neutral,-0.04465264827013016
+2015-05-08,"Under its settlement with the Justice Department, Bank of America has in some cases offered forgiveness for loans already discharged in bankruptcy.",positive,0.6667896509170532
+2015-05-08,Bank of America’s Relief for Mortgage Borrowers Is Questioned,neutral,-0.01909521222114563
+2015-05-11,"Bill Frauenhofer, who will be based in Palo Alto, Calif., is a longtime adviser to chip-making companies.",neutral,0.03304605558514595
+2015-05-11,Bank of America Merrill Lynch Hires Tech Banker,neutral,-0.305904746055603
+2015-05-15,The new group is part of a trend as banks focus on helping start-ups raise capital without having to list shares publicly.,neutral,0.4520283043384552
+2015-05-15,Bank of America Merrill Lynch Opens Private Fund-Raising Arm for Start-Ups,neutral,0.14100736379623413
+2015-05-26,The $56.7 billion cable deal provides a big boost to the boutique investment banks involved.,positive,0.9149003624916077
+2015-05-26,Charter’s Advisers Stage a Comeback,neutral,-0.01974491775035858
+2015-05-29,The bank said it would pay $30 million and improve its monitoring and compliance practices in regard to the Servicemembers Civil Relief Act.,positive,0.9011484384536743
+2015-05-29,Bank of America Fined for Violations of Military Relief Law,negative,-0.8741076588630676
+2015-06-01,The court handed banks a victory on Monday but homeowners continue to have no easy way out of the mortgage crisis.,negative,-0.3220073878765106
+2015-06-01,Supreme Court Ruling Little Help to Struggling Homeowners,negative,-0.9005146026611328
+2015-06-02,The Supreme Court ruled that second mortgages may not be voided if the property is worth less than the mortgage debt.,neutral,-0.1768442839384079
+2015-06-02,Justices Curb Bankruptcy Filers’ Ability to Have Second Mortgages Canceled,negative,-0.5095664262771606
+2015-06-05,"The longtime banker, once a top executive at Merrill Lynch, will focus mainly on working with banks, insurers and other financial institutions.",neutral,0.025731712579727173
+2015-06-05,Jeffrey Peek Named an Executive Vice Chairman at Bank of America,neutral,0.049162574112415314
+2015-06-09,"Wilbur Ross and others pumped billions into Greek banks, and now the fate of their money may hinge on Athens’s efforts to end an impasse with creditors.",negative,-0.754240870475769
+2015-06-09,American Billionaire Makes Risky Bet on Greece Debt Deal,negative,-0.5858049392700195
+2015-07-10,The resolution plans are intended to give the general public some idea of the progress that has been made toward preventing banks from being “too big to fail.”,neutral,0.3835219144821167
+2015-07-10,Banks’ ‘Living Wills’ Are Murky Guides,negative,-0.40421062707901
+2015-07-14,The missed payment was overshadowed by the agreement among eurozone leaders that would provide more aid to Greece and keep it in the currency union.,negative,-0.8037710189819336
+2015-07-14,Greece Misses Another I.M.F.,negative,-0.9173962473869324
+2015-07-14,Payment,neutral,0.02036866545677185
+2015-07-15,"Return on equity remains subpar; without some one-time extras, the bank’s core earnings would need to rise almost 40 percent to exceed its cost of capital.",positive,0.7204656600952148
+2015-07-15,"Strong Earnings for Bank of America, but Tough Task Ahead",positive,0.23589128255844116
+2015-07-16,"Comparisons with mega-banks like Citigroup, Bank of America and JPMorgan Chase suggest Goldman’s focus isn’t always an advantage.",neutral,-0.06769154220819473
+2015-07-16,Bigger Might Have Been Better for Goldman,neutral,-0.2647416591644287
+2015-07-23,"The company’s C.F.O., Bruce Thompson, who was once considered a candidate to replace the bank’s chief, is stepping down by the end of the month.",neutral,-0.4165939390659332
+2015-07-23,Bank of America Replaces Its Chief Financial Officer as Part of a Shake-Up,negative,-0.6649350523948669
+2015-07-28,"The departure of Bank of America’s chief financial officer stunned analysts, and raised new questions about the ability of the bank’s chief executive, Brian T. Moynihan, to keep it moving forward.",negative,-0.8546704053878784
+2015-07-28,Bank of America’s Chief is the Captain of a Ship Becalmed,neutral,-0.07840234041213989
+2015-07-31,A report suggests that a program intended to help as many as four million troubled borrowers has allowed big banks to run roughshod over them again and again.,negative,-0.8784710764884949
+2015-07-31,A Slack Lifeline for Drowning Homeowners,negative,-0.43707531690597534
+2015-08-04,"Richard Peacock, whose specialties are the consumer and retail industries, will serve as a managing director and be based in New York when he joins in October.",neutral,0.019306614995002747
+2015-08-04,Bank of America Merrill Lynch Hires a Deal Specialist From Goldman,neutral,0.053099822252988815
+2015-08-05,"The move comes during a rocky year for the hedge fund billionaire John A. Paulson, who has bets on Greece and Puerto Rico.",neutral,0.023605383932590485
+2015-08-05,Bank of America Starts to Pull Clients’ Money Out of a Paulson Fund,negative,-0.5530756711959839
+2015-08-12,The elevations for Natalie Blyth and Philip Noblet come as HSBC continues to reshape its global business.,neutral,0.25875815749168396
+2015-08-12,HSBC to Promote Two in Banking Operations,neutral,0.4304031431674957
+2015-09-05,Both big public pension funds and influential advisory firms are recommending that shareholders vote against a board proposal that would let Brian Moynihan keep the title of chairman.,negative,-0.6185204982757568
+2015-09-05,Bank of America Board Under Fire for Combining Chairman and Chief Jobs,negative,-0.8637765645980835
+2015-09-08,"At JPMorgan, Greg Mendelson will focus on advising both tech services companies and private equity firms.",neutral,0.014684529975056648
+2015-09-08,JPMorgan Hires Tech Banker Greg Mendelson From Bank of America Merrill Lynch,neutral,-0.08005353063344955
+2015-09-17,Bank of America shareholders will vote on Tuesday on whether Brian T. Moynihan can retain his role as both chairman and C.E.O.,neutral,0.03425496444106102
+2015-09-17,Bank of America’s Fight to Keep Brian Moynihan’s Dual Roles,neutral,-0.10403244197368622
+2015-09-18,"John Utendahl, who was most recently a vice chairman at Deutsche Bank, will join in October as an executive vice chairman of global and investment banking.",neutral,0.032410603016614914
+2015-09-18,Bank of America Merrill Lynch Hires a Senior Banker,neutral,-0.02457188069820404
+2015-09-21,"This week, shareholders of Charter Communications and Time Warner Cable vote on the proposed merger, the Chinese president visits the United States, and Janet Yellen delivers a speech about inflation.",neutral,0.13301797211170197
+2015-09-21,"Charter and Time Warner Vote, and Chinese Tech Meeting in Seattle",neutral,0.012485295534133911
+2015-09-22,The vote comes as a big relief for Brian Moynihan and the broader leadership of Bank of America.,positive,0.8032512068748474
+2015-09-22,Victory for the Chief and the Board at Bank of America Over a Dual Role,positive,0.4816134572029114
+2015-09-28,"This week, consumer spending and personal income for August will be reported, Trevor Noah will take over “The Daily Show,” and Tesla will unveil an S.U.V.",neutral,0.009850986301898956
+2015-09-28,"Data on Spending, Trevor Noah Starts and Tesla Unveils an S.U.V.",neutral,0.03197412192821503
+2015-09-29,"The fight over whether splitting the jobs of chairman and chief executive at Bank of America was good corporate governance or bad came down to a battle of opinions, not facts.",negative,-0.6841462850570679
+2015-09-29,A Lack of Consensus on Corporate Governance,negative,-0.7455768585205078
+2015-10-03,The deaths of young bankers have raised concern about jobs known for long hours and heavy workloads and how they affect the junior workers who do them.,negative,-0.8995333909988403
+2015-10-03,Deaths Draw Attention to Wall Street’s Grueling Pace,negative,-0.668608546257019
+2015-10-06,A lawsuit over Bank of America Merrill Lynch’s role in Signet’s buyout of Zale could make investment banks vulnerable in other mergers.,negative,-0.9418750405311584
+2015-10-06,Bank of America Conflict Case Could Put a Chill on Wall St.,negative,-0.7819444537162781
+2015-10-14,"But revenue declined from a year ago, as the bank struggled with volatile interest rates and choppy trading markets.",negative,-0.9707216620445251
+2015-10-14,Bank of America Swings to 3rd-Quarter Profit,negative,-0.6964297890663147
+2015-10-15,"Cutting costs and eliminating huge legal bills have helped the bank, but its rivals are ahead on efficiency, among other areas.",positive,0.9021619558334351
+2015-10-15,Bank of America’s Hunt for Growth,neutral,0.0694541186094284
+2015-10-21,"After guiding CIT’s transformation into more of commercial bank, the former Goldman Sachs executive will apparently be stepping down on a high note.",neutral,-0.07158222794532776
+2015-10-21,Timeline: The Rise and Fall and Rise of John Thain,neutral,0.025460828095674515
+2015-10-27,"Josef Ackermann, the former chief of Deutsche Bank who is now chairman of the Bank of Cyprus, had a role in the island’s crisis.",neutral,-0.06528200209140778
+2015-10-27,A Banker Sees His Role in Cyprus as a Chance to Give Back,neutral,0.10409915447235107
+2015-11-18,"Lenders involved in the financing of a large leveraged buyout, including Bank of America Merrill Lynch and Morgan Stanley, have decided to delay selling the debt in the face of investor caution.",negative,-0.6852967739105225
+2015-11-18,Large Banks Postpone Debt Sale as Investor Appetite for Riskier Loans Wanes,negative,-0.8750815391540527
+2015-11-20,"As investors have suddenly become more risk-averse, big Wall Street banks have been stuck with piles of debt that they are struggling to sell.",negative,-0.9297252893447876
+2015-11-20,"As Investors Shun Debt, Banks Are Left Holding the Bag",negative,-0.5224602222442627
+2015-11-25,"Mr. Cawley’s MBNA Corporation introduced affinity credit cards, which are tied to sports teams, universities, professional associations and other organizations that inspire consumer loyalty.",neutral,0.26118171215057373
+2015-11-25,"Charles M. Cawley, Credit Card Pioneer, Dies at 75",neutral,-0.15571963787078857
+2015-12-10,The approval will allow the bank to continue paying its 20 cent annual dividend and buy back $4 billion in shares.,positive,0.7237905263900757
+2015-12-10,Bank of America Gets Fed’s Approval of Resubmitted Capital Plan,positive,0.6378792524337769
+2015-12-20,"Having raised rates this month for the first time in nearly a decade, the Federal Reserve does not have to look far for real-world examples of what to do if plans go awry.",neutral,0.15044637024402618
+2015-12-20,Rates Are Going Up.,neutral,0.2769920825958252
+2015-12-20,What Could Go Wrong?,negative,-0.5137355327606201
+2015-12-23,"Some top banks — including JPMorgan Chase, Bank of America and Citigroup — will not accept the cards as a primary ID, even though federal regulators have approved their use.",neutral,-0.19162127375602722
+2015-12-23,"Banks Reject New York City IDs, Leaving ‘Unbanked’ on Sidelines",negative,-0.6922619938850403
+2016-01-15,A fourth-quarter fizzle for most large banks is followed by a steep drop in their market value in the first two weeks of the first quarter.,negative,-0.9595456719398499
+2016-01-15,Rocky Road Ahead for Big Banks,negative,-0.3482658267021179
+2016-01-19,But the bank’s fourth-quarter results were muted somewhat by the impact of dropping oil prices.,negative,-0.9622150659561157
+2016-01-19,Bank of America’s Profit Tops Expectations,positive,0.830604076385498
+2016-01-20,A perk allows bank executives heading for top government jobs to be paid their unvested stock and equity awards when they leave.,neutral,0.14005830883979797
+2016-01-20,A.F.L.-C.I.O.,neutral,0.03901325911283493
+2016-01-20,Seeks to Curb Payouts to Bankers Who Go to Washington,negative,-0.7384558320045471
+2016-01-26,"Octo Telematics of Italy, whose devices help auto insurers set rates, is preparing its United States offering at a difficult time for market debuts.",negative,-0.6528189778327942
+2016-01-26,"Octo Telematics, Whose Technology Monitors Driving, Prepares I.P.O.",neutral,0.0411493219435215
+2016-02-03,"Bank of America is one of the first large national banks to offer the security feature, which works with a mobile phone.",neutral,0.1655605584383011
+2016-02-03,"A Way to Lock Lost Debit Cards, From a Big Bank",neutral,0.08234237134456635
+2016-02-05,The institutional investors will not receive financial details about Uber or direct equity in the company.,neutral,0.004492900334298611
+2016-02-05,Deal Shows Investors Are Willing to Make a Blind Bet on Uber,neutral,0.1263725459575653
+2016-02-12,"The falling share price of Bank of America, Citigroup and JPMorgan Chase can be traced to investors’ deep doubts about reforms as well as to market turmoil.",negative,-0.9628451466560364
+2016-02-12,"Battered Bank Stocks Reflect Not Just Jitters, but Mistrust",negative,-0.8961687088012695
+2016-02-13,"Brian Moynihan’s pay rose to $16 million, 23 percent larger than in 2014, as the big bank generated higher profits and put its mortgage problems squarely behind it.",positive,0.9127753973007202
+2016-02-13,"Brian Moynihan, Bank of America Chief, Got 23% Pay Raise in 2015",positive,0.8634240031242371
+2016-03-15,"Mr. Reinfeldt will serve as a senior adviser for the American bank’s business in Europe, the Middle East and Africa.",neutral,0.03412410989403725
+2016-03-15,Bank of America Hires Ex-Swedish Prime Minister Fredrik Reinfeldt,neutral,-0.3815588057041168
+2016-03-31,"As chief executive, Oliver Holbourn will oversee the sale of the British government’s stake in Lloyds Banking Group and the Royal Bank of Scotland.",neutral,0.029245898127555847
+2016-03-31,Ex-Bank of America Merrill Lynch Banker to Head U.K. Financial Investments,neutral,0.010648846626281738
+2016-04-04,"The offering would be the second time in four years that the exchange has tried to go public, after technical issues scuttled its last attempt.",neutral,0.10671724379062653
+2016-04-04,BATS Global Markets Plans to Price Shares at $17 to $19,neutral,0.03683704510331154
+2016-04-11,It is shaping up to be another grim year for the nation’s biggest banks.,negative,-0.9213942289352417
+2016-04-11,They were hit hard by a bad environment for trading and deal-making.,negative,-0.9425681829452515
+2016-04-11,Wall Street Earnings: A Grim Quarter for Big Banks,negative,-0.9540414214134216
+2016-04-13,"In long letters this week, two regulators pointed to the dangers created by the global reach and complexity of the largest banks, which are bigger now than they were before the 2008 crisis.",negative,-0.6836345791816711
+2016-04-13,Regulators Warn 5 Top Banks They Are Still Too Big to Fail,negative,-0.7578744888305664
+2016-04-14,"The banks struggled with declining oil prices, low interest rates and choppy financial markets in the first quarter.",negative,-0.9489641189575195
+2016-04-14,A Tough Year for Banking Takes Shape,negative,-0.6297145485877991
+2016-04-25,GE Money Bank’s initial public offering would continue General Electric’s efforts to scale back on finance and focus on its industrial roots.,positive,0.5164304971694946
+2016-04-25,I.P.O.,neutral,0.042054928839206696
+2016-04-25,Could Value GE Capital’s Czech Business at $1.6 Billion,neutral,0.04018602520227432
+2016-05-24,"A federal appeals court overturned a $1.27 billion penalty, saying the bank’s actions in the mortgage crisis “hustle” case didn’t add up to fraud.",negative,-0.741029679775238
+2016-05-24,Penalty Against Bank of America Overturned in Mortgage Case,negative,-0.870674192905426
+2016-05-30,"Numbers also expected this week are from the Commerce Department on consumer spending and income, and from the Labor Department for hiring and unemployment.",neutral,0.012747228145599365
+2016-05-30,Car Industry Awaits Volkswagen’s Quarterly Earnings Report,neutral,-0.0005242228507995605
+2016-05-31,"Simply breaching a contract, as Bank of America’s Countrywide unit did in a case stemming from the financial crisis, is not be enough to prove fraud.",negative,-0.8751668930053711
+2016-05-31,‘Hustle’ Mortgage Fraud Case Falls Into Crevice of the Law,negative,-0.45532622933387756
+2016-06-09,"Investors have felt plenty of anxiety about the elections, interest rates, China, Europe and jobs.",neutral,-0.08258357644081116
+2016-06-09,But the market has rebounded to near-record heights.,positive,0.8912490606307983
+2016-06-09,"The Stock Market Is Optimistic, So What’s Your Excuse?",neutral,0.025869697332382202
+2016-06-21,"Frustrated by thieves stealing personal data from millions of customers, banks are investing in biometric technology to offer better security.",negative,-0.8673704862594604
+2016-06-21,"Goodbye, Password.",neutral,-0.06889762729406357
+2016-06-21,Banks Opt to Scan Fingers and Faces Instead.,neutral,-0.10813174396753311
+2016-06-23,The regulator accused the bank’s Merrill Lynch business of misusing billions of dollars of client money to finance its own trades.,negative,-0.9070884585380554
+2016-06-23,Bank of America to Pay $415 Million to Settle S.E.C.,neutral,0.036204904317855835
+2016-06-23,Inquiry,neutral,0.030990511178970337
+2016-07-13,"Return on equity at the nation’s lenders and investment banks remains too low, and banks need to try something new.",negative,-0.9091024994850159
+2016-07-13,A Need for Wall Street to Improve Efficiency,positive,0.7664788365364075
+2016-07-17,This week analysts will consider how banks are responding to the lull in interest rates and the so-called Brexit vote and auto industry officials will address cybersecurity in cars.,neutral,-0.022313948720693588
+2016-07-17,Earnings Reports From Banking Leaders and Tech Giants,neutral,0.1302821934223175
+2016-07-21,"The Justice Department forced banks to pay fines and penalties, but mystery surrounds the dearth of individual prosecutions for wrongdoing.",negative,-0.856448769569397
+2016-07-21,A Clue to the Scarcity of Financial Crisis Prosecutions,neutral,0.019783422350883484
+2016-08-01,"Wells Fargo joined three other banks in allowing instant payments, a market that has been taken over by services like Apple Pay and PayPal’s Venmo.",positive,0.6084275245666504
+2016-08-01,"Under Pressure, Big Banks Vie for Instant Payment Market",neutral,0.03972895070910454
+2016-08-15,"Average revenue rose 4.1 percent in the first half of the year, according to Citi Private Bank’s quarterly report on the legal industry.",positive,0.9342285990715027
+2016-08-15,Higher Fees Increase Law Firm Revenue by 4.1 Percent,positive,0.9094722867012024
+2016-08-29,"The Securities and Exchange Commission settled its last remaining case against a former Fannie Mae chief executive, accepting a token payment.",neutral,-0.08423721790313721
+2016-08-29,Prosecution of Financial Crisis Fraud Ends With a Whimper,neutral,-0.04859204590320587
+2016-10-03,"In a quarter that began when markets were just steadying from the Brexit vote and that ended when markets were rattled by Deutsche Bank, it may not be surprising that deal-making slowed significantly.",negative,-0.7523424029350281
+2016-10-03,Global Mergers Decline in Third Quarter,negative,-0.9595902562141418
+2016-10-16,"The Yahoo report is of particular interest to investors, as the company is expected to stay quiet concerning the recent hacking and spying scandals that may imperil its pending sale to Verizon.",neutral,-0.01763012632727623
+2016-10-16,Earnings Reports for Goldman Sachs and Yahoo,neutral,0.013799984008073807
+2016-10-17,"The bank reported its best pretax quarterly earnings in a decade on Monday, but a decent return on equity remains a long way off.",positive,0.6483926773071289
+2016-10-17,Bank of America Inches Toward Long-Term Goal,positive,0.6414139866828918
+2016-10-24,The merger of the online stockbrokers still leaves such companies vulnerable to the competition of index investing and automation of advice.,negative,-0.8182043433189392
+2016-10-24,TD Ameritrade’s Deal With Scottrade Is a Temporary Fix,neutral,0.00891299918293953
+2016-10-26,These bots are generally powered by artificial intelligence software that allows them to pull in data and turn it into comprehensible answers.,neutral,-0.08453413844108582
+2016-10-26,Banks Bet on the Next Big Thing: Financial Chatbots,neutral,0.011434279382228851
+2016-10-27,"Bank of America, MasterCard and some financial start-ups have been trying out chatbots that can initiate transactions and give financial advice.",neutral,0.0025500617921352386
+2016-10-27,"Morning Agenda: Finance Gets Chatty, 2016’s Biggest American I.P.O., EpiPen Rival Returns, Commercials Just for You",neutral,-0.08070971071720123
+2016-11-21,"Citigroup, Bank of America and Wells Fargo each moved up a notch in the annual risk rankings of banks deemed to be globally important.",positive,0.8929831385612488
+2016-11-21,"Three Big American Banks Pose Greater Systemic Risk, Regulator Says",positive,0.6189389228820801
+2016-12-03,"Global lenders, sometimes flouting their own policies, have financed projects in Indonesia and elsewhere that destroy ecosystems and contribute to climate change.",negative,-0.5851036906242371
+2016-12-03,How Big Banks Are Putting Rain Forests in Peril,negative,-0.7590405344963074
+2016-12-09,Time Inc. is reported to have hired Morgan Stanley and Bank of America to field bids from interested buyers.,neutral,0.08934400975704193
+2016-12-09,"Morning Agenda: Time Inc. Said to Hire Banks, E.C.B.",neutral,0.2065895050764084
+2016-12-09,Trimming or Tapering?,neutral,0.021344304084777832
+2016-12-13,The industry asks the Supreme Court to consider whether regulators took too long to file suit over tens of billions of dollars of securities.,negative,-0.46100401878356934
+2016-12-13,Big Banks Fight to Block Crisis-Era Lawsuits From Continuing,negative,-0.5940717458724976
+2016-12-20,"The $2.4 billion deal is a turnaround from the global financial crisis, when the British government bailed out Lloyds.",positive,0.8870444893836975
+2016-12-20,Lloyds to Buy Bank of America’s British Credit Card Business,neutral,0.03898482769727707
+2016-12-24,Financial companies have paid at least $164 billion in more than 100 mortgage-related settlements since 2009.,neutral,-0.37030285596847534
+2016-12-24,Where Does the Mortgage Settlement Money Go?,neutral,-0.031602367758750916
+2016-12-27,"With a businessman in the White House, markets will have to adjust to different views on what constitutes a violation of securities laws.",neutral,-0.10808838903903961
+2016-12-27,"After Uncertain Year, New Administration Portends Shift in Wall Street Scrutiny",negative,-0.21295881271362305

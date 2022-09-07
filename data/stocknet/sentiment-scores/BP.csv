@@ -1,0 +1,138 @@
+Date,Sentence,Prediction,sentimentScore
+2014-01-02,"Shell, which beat out more than a dozen bidders, will pay $3.8 billion in cash to the Spanish energy company and assume about $1.6 billion in leases related to ship charters.",neutral,0.3927203416824341
+2014-01-02,Repsol Completes Sale of Natural Gas Assets to Shell,neutral,0.04013332352042198
+2014-01-22,"David Einhorn’s firm, Greenlight Capital, said in a quarterly letter to investors on Tuesday that it had taken stakes in BP of Britain and Anadarko Petroleum, which is based in Houston.",neutral,0.06195239722728729
+2014-01-22,Einhorn Discloses Stakes in BP and Anadarko,neutral,-0.0006176959723234177
+2014-01-24,"Robert W. Dudley, the chief executive, says BP is ready to move on from the spill, and to focus on exploration and deal-making.",positive,0.5437783598899841
+2014-01-24,"At BP, There’s Optimism in the Corner Office",neutral,0.15882349014282227
+2014-02-04,The oil giant reported lower earnings for the fourth quarter as production declined and its refineries struggled to turn a profit.,negative,-0.9600069522857666
+2014-02-04,"Profit Drops for BP, but Still Beats Analysts’ Forecasts",negative,-0.7925518751144409
+2014-03-04,A federal appeals panel ruled that BP must pay gulf companies for damages without requiring proof of harm by the Deepwater Horizon spill.,negative,-0.41692614555358887
+2014-03-04,Court Says BP’s Spill Agreement Is Binding,neutral,0.08813603967428207
+2014-03-08,"In “The Evolution of a Corporate Idealist,” a former BP employee sees globalization and the Internet as pushing more companies to social responsibility.",neutral,0.06461011618375778
+2014-03-08,How Big Business Can Take the High Road,neutral,0.006863340735435486
+2014-03-13,"Under the agreement, BP will be allowed to bid for new leases as early as next Wednesday, but only as long as the company passes muster on ethics, corporate governance and safety procedures.",neutral,0.11225951462984085
+2014-03-13,U.S. Agrees to Allow BP Back Into Gulf Waters to Seek Oil,positive,0.7532751560211182
+2014-03-14,The agreement to allow bidding on oil leases with the United States comes four years after a rig explosion and devastating oil spill in the Gulf of Mexico.,positive,0.7305063605308533
+2014-03-14,"Lifting of Ban Should Return BP to Competition, Analysts Say",positive,0.9069406390190125
+2014-03-15,The chance to add new drilling sites in the Gulf of Mexico is a milestone in the company’s recovery from the Deepwater Horizon disaster.,positive,0.9019047617912292
+2014-03-15,"End of Gulf Ban Allows BP to Expand in Familiar, Lucrative Territory",positive,0.8851205110549927
+2014-03-20,Winning so many leases so soon after being cleared to seek new drilling rights was an important milestone in the company’s quest to recover from the 2010 disaster in the Gulf of Mexico.,positive,0.9099032282829285
+2014-03-20,"Ban Lifted, BP Bids $42 Million to Win Gulf Oil Leases in U.S. Auction",positive,0.8340564370155334
+2014-03-28,"Any stricter sanctions on Russia for its occupation of Crimea would likely be opposed by Exxon Mobil, BP and other companies with projects in Russia.",negative,-0.8092743158340454
+2014-03-28,Potential Crackdown on Russia Risks Also Punishing Western Oil Companies,negative,-0.8757989406585693
+2014-04-01,"Kenneth Feinberg, who oversaw compensation after 9/11 and the BP oil spill, will help in deliberations over whether to pay damages to victims of accidents in cars with faulty ignition switches.",neutral,0.05080287903547287
+2014-04-01,G.M.,neutral,0.048085395246744156
+2014-04-01,Hires Lawyer Specializing in Disaster Payouts,neutral,0.08220727741718292
+2014-04-29,"The British oil giant said first-quarter earnings fell 23.5 percent from the period a year earlier, as production slipped and it continued to sell assets.",negative,-0.9707896113395691
+2014-04-29,BP’s Earnings Fall as It Continues to Sell Assets,negative,-0.9672368168830872
+2014-05-08,Tony Hayward becomes the permanent nonexecutive chairman of Glencore after an interim role in the post.,neutral,0.0371425524353981
+2014-05-08,Ivan Glasenberg will continue as chief executive.,neutral,0.025283196941018105
+2014-05-08,Former BP Chief Is Named Chairman of Glencore Xstrata,neutral,0.04849126935005188
+2014-05-20,A federal appeals court refused to reconsider an earlier decision upholding the process by which BP must compensate businesses claiming damages over the 2010 Gulf of Mexico oil spill.,negative,-0.735145092010498
+2014-05-20,Court Declines to Review Deal for Gulf Spill,negative,-0.6894322037696838
+2014-06-05,A report from the federal Chemical Safety Board said another disastrous offshore oil well blowout could happen despite regulatory improvements.,negative,-0.9273107051849365
+2014-06-05,"Fixes After BP Spill Not Enough, Board Says",negative,-0.4868547320365906
+2014-06-10,"BP, Exxon Mobil, Shell, Total and other big Western oil companies are striking deals and plowing money into Russia even as more sanctions loom.",negative,-0.3920286297798157
+2014-06-10,"For Western Oil Companies, Expanding in Russia Is a Dance Around Sanctions",neutral,0.07059904932975769
+2014-06-13,"A federal judge threw out an earlier verdict, saying a forewoman had “polluted” the jury with remarks she overheard outside the courtroom.",negative,-0.8015927076339722
+2014-06-13,Former BP Engineer Wins New Trial in Case on Gulf Spill,neutral,0.04174491763114929
+2014-06-27,"John Browne, the former chief of BP, resigned in 2007 after published revelations about a gay lover.",negative,-0.6715630888938904
+2014-06-27,"Seven years later, there are no publicly gay chief executives at any Fortune 500 company.",neutral,-0.053081970661878586
+2014-06-27,"Among Gay C.E.O.s, the Pressure to Conform",neutral,-0.30651745200157166
+2014-07-29,"Profit in the second quarter rose 65 percent on improving output in the United States, but the company said sanctions against Russia were a concern.",positive,0.8972622752189636
+2014-07-29,"BP Profit Rises, but It Warns of Risks in Russia",negative,-0.3795974850654602
+2014-07-30,Industry executives are now acknowledging that the escalating tensions could sharply hurt companies with major investments in Russia.,negative,-0.9601386785507202
+2014-07-30,Energy Companies Rethinking Russia After New Round of Sanctions,neutral,-0.020033210515975952
+2014-09-03,"The settlement, a fraction of the damages paid by companies involved in the accident, goes a long way toward resolving Halliburton’s exposure to liability claims.",positive,0.6758145093917847
+2014-09-03,Halliburton to Pay $1.1 Billion to Settle Damages in Gulf of Mexico Oil Spill,neutral,-0.17840856313705444
+2014-09-04,"U.S. District Court Judge Carl J. Barbier ruled on Thursday that BP was grossly negligent in the oil rig explosion that killed 11 workers, spilled millions of barrels of oil into the Gulf of Mexico and soiled hundreds of miles of beaches.",negative,-0.8905192017555237
+2014-09-04,Ruling on the 2010 Gulf of Mexico Oil Well Blowout,negative,-0.7848901748657227
+2014-09-05,"The British oil company faces up to $18 billion in civil penalties, but appeals and a growing cash flow could limit the damage to its bottom line.",negative,-0.9091978073120117
+2014-09-05,"Oil Spill Penalty Will Hurt, but Not Cripple, BP",negative,-0.843627393245697
+2014-09-11,The moves by the Royal Bank of Scotland and the Lloyds Banking Group would be mostly technical.,neutral,0.010196135379374027
+2014-09-11,Both banks are expected to maintain jobs and significant banking operations in Scotland.,neutral,0.47166362404823303
+2014-09-11,R.B.S.,neutral,0.04479066655039787
+2014-09-11,and Lloyds Bank Say They’ll Move if Scotland Votes for Independence,neutral,0.043695464730262756
+2014-10-13,Petronas of Malaysia will buy a 15.5 percent holding in the Shah Deniz oil field and part of a BP-backed pipeline from Statoil.,neutral,0.21513865888118744
+2014-10-13,Statoil of Norway Sells Caspian Sea Oil Assets in $2.25 Billion Deal,neutral,0.01650002785027027
+2014-10-28,"The weak results at the Russian state-owned company Rosneft, in which BP holds a 20 percent stake, also contributed to the third-quarter decline.",negative,-0.9634267091751099
+2014-10-28,BP Earnings Fall 18% on Lower Oil Prices,negative,-0.966803789138794
+2014-11-01,Fill up on this Brendan Emmett Quigley puzzle.,neutral,0.022148998454213142
+2014-11-01,BP Station,neutral,0.0052421316504478455
+2014-12-09,"Major oil companies are scaling back drilling plans and laying off workers, with prices off 40 percent since July.",negative,-0.9580426812171936
+2014-12-09,"Oil Falls to 5-Year Low, and Energy Companies Start to Retrench",negative,-0.8414223194122314
+2014-12-10,"Faced by difficult market conditions, the British oil giant is to spend $1 billion on restructuring, a move that could eliminate thousands of jobs.",negative,-0.9362343549728394
+2014-12-10,BP to Cut Jobs as Price of Oil Falls,negative,-0.9248982667922974
+2015-01-02,"In the short term, the drop in the oil prices will make it harder to get deals done.",negative,-0.897829532623291
+2015-01-02,"But if low prices persist, financial stress may make small players vulnerable, Fiona Maharg-Bravo of Reuters Breakingviews writes.",negative,-0.8568535447120667
+2015-01-02,Oil Price Slump May Spur European Oil and Gas Deal-Making,negative,-0.17749595642089844
+2015-01-15,"The report said that demand for crude would fall to 28.8 million barrels per day this year, 100,000 barrels a day less than it forecast last month.",negative,-0.9667302370071411
+2015-01-15,OPEC Report Downgrades Demand for Its Oil as Prices Fall Again,negative,-0.9474716782569885
+2015-01-16,"The British oil giant will face a maximum fine of $13.7 billion related to the 2010 oil spill in the Gulf of Mexico, a federal judge ruled on Thursday.",negative,-0.8761900067329407
+2015-01-16,BP Deepwater Horizon Ruling,neutral,0.03672602027654648
+2015-01-26,"The British oil giant, which has 80,000 workers, said the decision to freeze base pay is “a prudent response to the currently challenging market environment.”",negative,-0.9243751168251038
+2015-01-26,"As Oil Prices Sink, BP Freezes Workers’ Wages",negative,-0.9196426272392273
+2015-01-29,The joint effort is a reflection of the pressure on oil companies to hold down spending and share risk as oil prices continue to drop.,negative,-0.4561196565628052
+2015-01-29,Chevron and BP in Deal to Search for Oil Deep Beneath the Gulf of Mexico,negative,-0.4570206105709076
+2015-02-01,"The big corporate news of the week will be earnings reports from BP, Twitter and major carmakers.",neutral,0.05876513570547104
+2015-02-01,"But the January jobs report, on Friday, and news from Greece will overshadow it all.",negative,-0.6342808604240417
+2015-02-01,"January Job Data, Big Earnings Reports and the Greek Bailout",neutral,0.13468536734580994
+2015-02-03,Plummeting oil prices caused the British giant to write off about $5.5 billion on the value of certain assets while sharply reducing capital spending.,negative,-0.9513570070266724
+2015-02-03,BP Posts Net Loss of $4.4 Billion in Fourth Quarter,negative,-0.9642100930213928
+2015-02-28,The completion of the deal has been slowed by regulators’ concerns that Mikhail Fridman or his company might be targeted by expanded sanctions on the Russian energy industry stemming from the Ukraine conflict.,negative,-0.9450532793998718
+2015-02-28,"Britain, Wary of Sanctions, Adds Pressure to Keep Russian From Buying Energy Unit",negative,-0.8282313346862793
+2015-03-02,A Russian oligarch is threatening to sue the British government over its bid to block his company’s plan to acquire a German oil and gas unit.,negative,-0.9227926731109619
+2015-03-02,Russian Energy Deal Comes at Contentious Time,neutral,-0.0875689834356308
+2015-03-06,The deal is a sign that Egypt’s relations with the oil industry might be improving.,positive,0.9351230263710022
+2015-03-06,BP Signs $12 Billion Deal to Develop Natural Gas in Egypt,positive,0.7881578207015991
+2015-04-28,"Adjusted earnings fell 20 percent at BP and 22 percent at Total, but results were offset by strong performances in their marketing and refining businesses.",negative,-0.9556580185890198
+2015-04-28,BP and Total Report Earnings Declines as Falling Oil Prices Hurt Profits,negative,-0.968248724937439
+2015-06-02,"The dropping revenue has inspired changes of tactics by British leaders as well as Scottish nationalists, who had counted on oil as an economic mainstay.",negative,-0.6948475241661072
+2015-06-02,Decline of North Sea Oil Fields Forces Political Shifts in Britain,negative,-0.5974831581115723
+2015-06-03,The tiny Pacific nation with an outsize role in the industry caused a stir by proposing a cap on the greenhouse gases produced in shipping.,negative,-0.4142502546310425
+2015-06-03,"Marshall Islands, the Flag for Many Ships, Seeks to Rein In Emissions",neutral,0.0656154602766037
+2015-07-02,"In preparation for a settlement over the 2010 gulf disaster, BP has sharply pruned its global operations to save itself, and now it can plan for its future.",positive,0.5189808011054993
+2015-07-02,"After Settlement, Relief at a Diminished BP",negative,-0.6217293739318848
+2015-07-28,The roughly 40 percent fall in oil prices since last year is also sharply cutting into profits at the British company and at other oil companies.,negative,-0.9601590037345886
+2015-07-28,BP Posts Loss as Oil Spill Settlement and Sagging Demand Take Toll,negative,-0.9634003639221191
+2015-08-14,"Since a breakdown at BP’s refinery in Whiting, Ind., the wholesale price of gas has climbed 50 to 80 cents a gallon in a broad region of the country.",positive,0.7215389609336853
+2015-08-14,Breakdown at BP Refinery Strains Midwest Gas Prices,negative,-0.8690887093544006
+2015-08-25,Gas prices in the Great Lakes states had jumped after a distillation unit at a BP refinery outside Chicago broke down on Aug. 8.,negative,-0.7414689064025879
+2015-08-25,Midwest Gasoline Prices to Normalize After BP Refinery Repair,positive,0.2625167965888977
+2015-09-22,"The final bill under the Clean Water Act for BP’s Gulf of Mexico oil spill was $5.5 billion; for Volkswagen, it could be as much as $18 billion.",neutral,0.10453591495752335
+2015-09-22,Volkswagen Debacle on Financial Par With BP Oil Spill,negative,-0.7937653660774231
+2015-10-05,"Attorney General Loretta E. Lynch said Monday that the Justice Department and five states had reached a settlement of more than $20 billion with BP, for its role in the 2010 Gulf of Mexico oil spill.",positive,0.45075735449790955
+2015-10-05,Attorney General Announces BP Penalties,neutral,0.09550364315509796
+2015-10-27,"The company said it would maintain its dividend but was acting to “rebalance our financial framework in this new price environment.""",neutral,0.22925586998462677
+2015-10-27,"Profit Down at BP, Which Predicts Era of Low Oil Prices",negative,-0.948594331741333
+2015-11-06,The start of an inquiry by the New York attorney general’s office into Exxon Mobil’s record on climate change could lead to additional legal actions involving other major energy companies.,negative,-0.5325368046760559
+2015-11-06,More Oil Companies Could Join Exxon Mobil as Focus of Climate Investigations,neutral,0.01926676742732525
+2015-12-17,"Mr. Feinberg is a compensation fund specialist who worked with victims of 9/11, the BP oil spill, the Boston Marathon bombing and General Motors’ ignition defect.",neutral,0.030855627730488777
+2015-12-17,VW Names Kenneth Feinberg to Oversee Fund for Claims on Emissions Deception,neutral,0.02593575231730938
+2016-01-12,"More cuts are considered likely in an industry that had already lost an estimated 250,000 jobs since the price of crude began to drop in 2014.",negative,-0.9353337287902832
+2016-01-12,"Stung by Low Oil Prices, BP Will Cut 4,000 Jobs",negative,-0.9544020295143127
+2016-02-01,"This week Exxon Mobil, BP and Royal Dutch Shell will report quarterly earnings, Navinder Singh Sarao is expected back in court and the Labor Department will release figures on hiring and unemployment.",negative,-0.4430062472820282
+2016-02-01,"Oil Company Earnings, Trader’s ‘Flash Crash’ Hearing and the Jobs Report",negative,-0.4180203974246979
+2016-02-02,"BP wrote down the value of its oil and gas assets by $1.6 billion in the fourth quarter of 2015, and said it would continue cutting jobs.",negative,-0.9594117403030396
+2016-02-02,Exxon Mobil’s Profits Fall and BP Cites Low Oil Prices in $3.3 Billion Loss,negative,-0.9546162486076355
+2016-02-29,Both cases highlight just how hard it is to convict those involved in complex corporate decisions where there is diffuse responsibility.,negative,-0.6151267290115356
+2016-02-29,Deepwater Horizon and Dewey & Leboeuf Cases Share Challenges,neutral,0.0381832979619503
+2016-03-11,A BP spokesman said the “commercial decision” was prompted by the collapse in oil prices and the decline in the company’s profit since mid-2014.,negative,-0.8823118805885315
+2016-03-11,BP to End Sponsorship of Tate Museums,negative,-0.4528077244758606
+2016-03-21,An affiliate of Al Qaeda claimed responsibility for a grenade attack that hit one of the largest natural gas fields in Algeria.,negative,-0.768097996711731
+2016-03-21,BP and Statoil Pull Employees From Algeria Gas Fields After Attack,negative,-0.945642352104187
+2016-03-23,"The decision to postpone the plan, called Browse, comes as prices for the fuel in Asia have fallen steeply.",negative,-0.9401200413703918
+2016-03-23,Australian Energy Giant Woodside Delays Large Offshore L.N.G.,negative,-0.8304189443588257
+2016-03-23,Project,neutral,0.045734383165836334
+2016-04-14,"In a nonbinding vote that could affect Robert Dudley’s future pay, investors of the money-losing company protested his $19.6 million award for 2015.",negative,-0.9022843241691589
+2016-04-14,BP Shareholders Send ‘a Message’ Protesting Chief’s Pay,negative,-0.3502059876918793
+2016-04-26,"Lower oil prices were behind the results, and the company said it would keep its dividend for the quarter at 10 cents a share, payable in June.",neutral,0.13296960294246674
+2016-04-26,BP Reports $583 Million Loss in First Quarter,negative,-0.9647122621536255
+2016-06-10,"The deal, creating a company called Aker BP, could allow BP to slim down while keeping a role in Norway, a major fuel-producing nation.",neutral,0.41864168643951416
+2016-06-10,"Adapting to Modest Oil Prices, BP Spins Off Norway Business Into New Venture",neutral,-0.026056461036205292
+2016-07-25,"Twitter, Facebook, Apple and Alphabet will report second-quarter results, as will BP, Shell and Exxon.",neutral,0.2851630747318268
+2016-07-25,And the Fed is expected to address the benchmark interest rate.,neutral,0.06731853634119034
+2016-07-25,"Oil and Tech Giants’ Earnings, a Fed Meeting and an Estimate of U.S. Growth",neutral,0.03616738319396973
+2016-11-12,"The leader of BP Capital enjoys risk, but he backs it up by staying supremely well informed about the market, which nourishes a confidence in his convictions.",neutral,0.1441352665424347
+2016-11-12,How T. Boone Pickens Sits Tight in the Riskiest of Businesses,neutral,-0.11311322450637817

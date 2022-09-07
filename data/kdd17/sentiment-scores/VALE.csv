@@ -1,0 +1,85 @@
+Date,Sentence,Prediction,sentimentScore
+2007-03-02,"Shares of Alcan, the world’s second-biggest aluminum producer, rose the most in two weeks on speculation Brazil’s Compahnia Vale do Rio Doce may make a takeover bid.",positive,0.7814418077468872
+2007-03-02,"Alcan, based in Montreal, climbed C$2.05, or 3.4 percent, to C$62.87 ($53.62) a share after a Brazilian newspaper, reported that C.V.R.D., the world’s largest iron-ore producer, may bid.",positive,0.8874106407165527
+2007-03-02,"Alcan and Alcoa, the world’s largest aluminum producer, repeatedly have been the subjects of takeover speculation amid consolidation in the mining industry.",neutral,-0.13392281532287598
+2007-03-02,C.V.R.D.,neutral,0.030498381704092026
+2007-03-02,Reportedly Eyeing Alcan,neutral,0.020526938140392303
+2007-08-01,"Robert M. Godsell, the chief executive of AngloGold Ashanti, plans to retire after running the company since its creation in 1998 and helping it become the world’s third-biggest gold producer with operations in 10 countries.",neutral,0.06769046932458878
+2007-08-01,"Mr. Godsell, left, who will step down on September 30, will be succeeded by Mark Cutifani, the chief operating officer of Companhia Vale do Rio Doce’s nickel unit, AngloGold said.",neutral,0.011184995993971825
+2007-08-01,"Mr. Godsell, 54, was the chief executive of Anglo American’s gold and uranium division from 1995 before taking over as head of AngloGold, a company formed by a merger of Anglo American’s separately traded gold companies and the gold assets of Minorco.",neutral,0.024688906967639923
+2007-08-01,Other acquisitions included Ashanti Goldfields of Ghana.,neutral,0.04415661096572876
+2007-08-01,South Africa: Anglogold’s Chief to Retire,neutral,-0.05829842388629913
+2007-09-06,"Shares of the mining giant Rio Tinto were up sharply Thursday on market speculation that it might be taken over by two rivals, BHP Billiton and Companhia Vale do Rio Doce.",positive,0.7539033889770508
+2007-09-06,Rio Tinto Shares Rise on Rumors of a Two-Pronged Bid,positive,0.35202348232269287
+2007-11-13,"Yet BHP Billiton, whose $153 billion takeover offer for rival Rio Tinto was rejected by the target’s board, stopped short of making a hostile bid for Rio.",negative,-0.7349998950958252
+2007-11-13,BHP Takes Buyout Plan to Shareholders of Rival,neutral,0.07122400403022766
+2007-12-11,"Xstrata, the world’s sixth-largest mining company, is open to discussions with potential suitors, including Vale of Brazil and Anglo American, The Financial Times reported.",neutral,0.21532277762889862
+2007-12-11,Xstrata Said to Court Suitors,neutral,-0.07124323397874832
+2008-01-22,"The world’s largest producer of iron ore, Companhia Vale do Rio Doce of Brazil, said it was in talks with a rival, Swiss-based Xstrata, about a merger.",neutral,0.3561508059501648
+2008-01-22,Brazil’s Vale Confirms Talks to Merge With Xstrata,neutral,0.19488725066184998
+2008-01-22,"Companhia Vale do Rio Doce, the world’s largest producer of iron ore, said on Monday that it was in talks with a rival, Xstrata, about a merger.",neutral,0.4147387742996216
+2008-01-22,Brazil’s Vale Confirms Talks to Merge With Xstrata,neutral,0.19488725066184998
+2008-01-28,"Xstrata, the world’s fourth-largest copper producer, rose to a three-week high in London trading after newspaper reports that Companhia Vale do Rio Doce may agree to buy the company within the next few days.",positive,0.8524056077003479
+2008-01-28,"Xstrata Close to Vale Bid, Report Says",neutral,0.09374013543128967
+2008-02-06,"Merrill Lynch, dropped as an adviser and financier to the Brazilian mining company Vale, has re-emerged in the mining sector as a lender to BHP Billiton, which raised its bid for a rival, Rio Tinto.",neutral,-0.09212703257799149
+2008-02-06,Merrill Gets In on Another Big Mining Deal,neutral,0.10872239619493484
+2008-02-08,"Brazil’s state development bank BNDES sees no reason to oppose an attempt by a local mining company, Companhia Vale do Rio Doce to buy a Swiss-based rival, Xstrata, the bank’s president said Thursday, signaling that the bid is unlikely to be blocked by the government.",negative,-0.8167567253112793
+2008-02-08,Brazil State Bank Won’t Oppose Vale Bid for Xstrata,neutral,-0.1915891468524933
+2008-02-21,"Rio Tinto’s stance could pressure Chinese steel makers, who are major customers, and may signal the beginning of the end for the benchmark system of iron ore pricing.",negative,-0.9252924919128418
+2008-02-21,Rio Tinto May Break With Other Producers on Iron Ore Price,negative,-0.8183738589286804
+2008-02-25,"In December TV Decoder noted that Telemundo introduced a new late-night talk show, “Mas Vale Tarde con Alex Cambert.” In Sunday’s New York Times, Marc Weingarten notes that it is a “radical experiment” for Spanish-language television, and finds some encouraging signs for the show:",positive,0.6474530696868896
+2008-02-25,Positive Signs For Spanish-Language ‘Mas Vale Tarde’,positive,0.7202337384223938
+2008-02-28,"A dispute over marketing rights held by the biggest shareholder of the mining group Xstrata is threatening a possible $90 billion takeover by Brazil’s Companhia Vale do Rio Doce, Reuters reported citing an unnamed source.",negative,-0.8957470059394836
+2008-02-28,Xstrata Investor Said to Threaten Vale Bid,negative,-0.7655046582221985
+2008-03-03,"Xstrata said on Monday it was still in deal talks with Companhia Vale do Rio Doce of Brazil after reporting that its profit more than tripled for the year, helped by the $18 billion acquisition of Falconbridge and by ravenous emerging-markets demand for metals.",positive,0.8963897824287415
+2008-03-03,Xstrata Says Vale Talks Continue,neutral,0.046155545860528946
+2008-03-26,"Brazil’s Vale, the world’s largest iron ore miner, said that talks to buy Swiss rival Xstrata had failed and that Vale would look at other potential takeover targets.",negative,-0.9329214096069336
+2008-03-26,Vale Abdandons Xstrata Talks,neutral,0.03114926815032959
+2008-03-27,"Following the breakdown of its efforts to buy Xsastra, Brazil’s Vale is blaming the scuttled $90 billion deal on marketing.",negative,-0.9445396661758423
+2008-03-27,Is Marketing to Blame for Failed Vale-Xstrata Deal?,negative,-0.7033656239509583
+2008-06-11,"Brazilian mining giant Vale said Tuesday it was preparing a share offering worth up to $15 billion to help finance organic growth and potential acquisitions, but denied it was in talks on an acquisition.",neutral,0.030462631955742836
+2008-06-11,"Vale Plans to Raise $15 Billion in Share Sale, Amid Deal Chatter",positive,0.5435588955879211
+2008-07-15,Companhia Vale do Rio Doce will seek to raise about $15 billion in the biggest sale ever by a Brazilian company.,positive,0.5632277131080627
+2008-07-15,The share offering from the world’s largest iron-ore producer is set to be priced on Wednesday.,neutral,0.06190904974937439
+2008-07-15,Vale Looks to Raise $15 Billion in Offering,neutral,0.11169233173131943
+2008-07-17,The share sale of Companhia Vale do Rio Doce fell short of expectations at 18.4 billion reais ($11.5 billion) as commodities and oil stocks declined.,negative,-0.9645453691482544
+2008-07-17,Vale Share Sale Falls Below Expectations,negative,-0.862456738948822
+2009-01-30,"Rio Tinto said Friday that it will sell potash projects in Argentina and Canada and its Corumba iron ore mine in Brazil for $1.6 billion to its rival, Vale, as part of a plan to cut debt by $10 billion in 2009.",neutral,0.04320983588695526
+2009-01-30,Rio Tinto to Sell Assets to Vale for $1.6 Billion,neutral,0.0026465225964784622
+2009-07-14,The strike follows the first set of labor negotiations between the United Steelworkers of America and Vale since it acquired Inco in 2007.,negative,-0.9178327918052673
+2009-07-14,"3,100 on Strike at Vale Inco in Canada",negative,-0.9353348612785339
+2009-12-01,"The Wuhan Iron & Steel Group, a Chinese steelmaker, agreed to pay $400 million for a stake in Brazil’s MMX Mineracao e Metalicos to broaden its supply of iron ore.",positive,0.8947160840034485
+2009-12-01,Brazil: Chinese Buy Stake in MMX Steel,neutral,0.106375552713871
+2010-01-14,Management disagrees with union supporters who contend a walkout at Vale Inco can be traced to the fact that the mines are now owned by a Brazilian company.,negative,-0.9217783212661743
+2010-01-14,Some in Canada Say Strike Shows Risk of Foreign Control,negative,-0.9083899259567261
+2010-01-15,Vale S.A. of Brazil said Friday that it was in talks to buy Bunge Ltd.’s Brazilian fertilizer operations for as much as $3.8 billion.,neutral,0.43583351373672485
+2010-01-15,Vale in Talks to Buy Fertilizer Assets in Brazil,neutral,0.054840825498104095
+2010-01-28,"Bunge, the agribusiness company, said Wednesday that it was selling its fertilizer nutrient assets in Brazil to the mining giant Vale for $3.8 billion.",neutral,0.01460281852632761
+2010-01-28,Vale Buys Bunge Fertilizer Unit for $3.8 Billion,neutral,0.03567799553275108
+2010-05-03,"Norsk Hydro shares fell slightly in midmorning trading Monday after the Norwegian aluminum maker announced a cash-and-share deal of nearly $5 billion on Sunday for Vale’s aluminum mining business in Brazil, a purchase it said would assure access to the material for the next century.",negative,-0.9603899717330933
+2010-05-03,Norsk Hydro to Buy Vale Assets for $4.9 Billion,neutral,0.02505737729370594
+2010-08-23,"Potash has been contacted by China’s Sinochem Group and Brazil’s Vale as the Canadian company battles a hostile $39 billion takeover offer from BHP Billiton, Bloomberg reported on Monday.",neutral,0.13330399990081787
+2010-08-23,Sinochem and Vale Said to Contact Potash,neutral,0.0005068331956863403
+2010-08-23,Forget about one possible white knight for Potash as it tries to fend off a hostile bid from BHP Billiton.,negative,-0.4751632809638977
+2010-08-23,"Vale, the big Brazilian mining company, denied that it was in talks to acquire the giant Canadian fertilizer company.",neutral,-0.16744454205036163
+2010-08-23,Vale Denies It Is Potash’s White Knight,negative,-0.5870038866996765
+2010-09-24,"Vale, the Brazilian mining company, said Thursday that it would buy back up to $2 billion in shares, and that it planned to list its shares on the Hong Kong exchange.",neutral,0.05875656381249428
+2010-09-24,Vale Announces Buyback and Hong Kong Listing,neutral,0.03526315838098526
+2010-10-07,"Brazilian mining company Vale, the world’s largest producer of iron ore, will invest at least $20 billion in 2011, a source close to the company said on Wednesday.",neutral,0.25752633810043335
+2010-10-07,Vale Said Set to Invest $20 Billion Next Year,neutral,0.060681186616420746
+2011-04-04,"With the genie of state intervention already out of the bottle, shareholders of the Brazilian mining giant Vale should prepare for their interests to come second.",neutral,0.14066988229751587
+2011-04-04,Lesson in Being a State Company,neutral,0.1068967655301094
+2012-10-25,Shareholders who want the giant merger of the companies to go through but want to block a rich compensation package for their executives are left with a complicated quandary.,negative,-0.8784055113792419
+2012-10-25,Gamesmanship in Xstrata-Glencore Merger Vote,neutral,0.024482794106006622
+2013-08-08,"BHP Billiton, the world’s largest mining company, sits atop a sector that is deeply out of favor with investors, and it is aggressively curtailing its spending in hopes of winning them over.",negative,-0.9178656935691833
+2013-08-08,"After Going All In During Mining Boom, BHP Cuts Its Ambitions",negative,-0.9211834669113159
+2014-12-09,"The sale of a stake in Vale’s African coal operations to the Japanese trading company comes after commodity prices, both for coal and for Vale’s metals export, have fallen sharply.",negative,-0.953285813331604
+2014-12-09,Vale of Brazil Sells Coal Stake to Mitsui & Co. for About $950 Million,neutral,0.015430157072842121
+2015-11-30,Murilo Ferreira was said to have clashed with the energy giant’s chief executive over cost-cutting and how to put into effect the company’s plan to raise more than $57 billion through asset sales.,negative,-0.9341702461242676
+2015-11-30,Petrobras Chairman Steps Down,neutral,-0.36716827750205994
+2016-03-08,Both companies are struggling with volatile iron ore prices driven by expectations over China’s economic growth and subsequent steel demand.,negative,-0.9446146488189697
+2016-03-08,"Vale May Take Stake in Fortescue, an Australian Rival",neutral,0.005644382908940315
+2016-03-21,"As chief executive of Vale, Mr. Agnelli helped the Brazilian company become one of the world’s largest mining companies.",positive,0.7582669258117676
+2016-03-21,"Roger Agnelli, ‘Iron Man’ Who Led a Global Mining Giant, Dies at 56",negative,-0.40967071056365967
+2016-12-19,"For Minnesota-based Mosaic, the deal gives it a foothold in Latin America’s largest economy, which boasts a strong agriculture sector.",positive,0.8909735083580017
+2016-12-19,Vale of Brazil Sells Fertilizer Business to Mosaic for $2.5 Billion,neutral,0.02063618041574955

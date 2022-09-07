@@ -1,0 +1,483 @@
+Date,Sentence,Prediction,sentimentScore
+2014-01-03,George Canellos oversaw and closed some of the highest profile investigations into the financial crisis.,neutral,-0.04708797112107277
+2014-01-03,His departure could portend a subtle shift in the agency’s enforcement agenda.,neutral,-0.278814435005188
+2014-01-03,"With Crisis Behind Him, S.E.C.’s Co-Chief of Enforcement Is Leaving",neutral,-0.08433115482330322
+2014-01-06,"Julius Genachowski, who headed the F.C.C.",neutral,-0.012869376689195633
+2014-01-06,"until May, will work on investments in the technology, media and telecommunications sectors, including the Internet and mobile.",neutral,0.033049315214157104
+2014-01-06,Carlyle Hires Former F.C.C.,neutral,-0.40600547194480896
+2014-01-06,Chairman for Buyout Group,neutral,0.05071187764406204
+2014-01-07,Representative Jeb Hensarling is soon expected to propose legislation that could open up a huge loophole in the Volcker Rule.,neutral,0.07957309484481812
+2014-01-07,House Financial Services Chairman to Seek Volcker Rule Change,neutral,-0.3160121440887451
+2014-01-09,Shares in Dish were down more than 2.5 percent on Thursday after a lawyer for LightSquared said in bankruptcy court that its suitor had terminated its offer.,negative,-0.9634706974029541
+2014-01-09,Dish Shares Drop After It Withdraws Bid for LightSquared,negative,-0.9567952156066895
+2014-01-13,"The Swiss bank, which has a major presence on Wall Street, issued new guidelines to discourage analysts and associates from working in the office on Saturdays.",negative,-0.8297289609909058
+2014-01-13,Credit Suisse Tells Junior Bankers to Take Saturdays Off,negative,-0.6283435225486755
+2014-01-14,The revision would permit banks to continue to hold on to a special type of collateralized debt obligation.,neutral,0.19356097280979156
+2014-01-14,Regulators Ease Volcker Rule Provision on Smaller Banks,negative,-0.31567811965942383
+2014-01-15,The regulations will limit attempts by speculators to corner the market in raw materials like corn or grain.,neutral,0.011827871203422546
+2014-01-15,Europe Reaches Agreement on Trading of Derivatives,positive,0.7851212024688721
+2014-01-16,"To skirt caps placed on bonuses in Europe, the company will pay some employees a salary, a bonus and what it calls “role-based pay.”",neutral,0.22809872031211853
+2014-01-16,"For Goldman in Europe, a 3rd Way to Get Paid",neutral,0.08708670735359192
+2014-01-17,The bank disclosed it had set aside an unusually large $1.2 billion for litigation costs associated with its mortgage lending businesses and other credit crisis headaches.,negative,-0.5129103064537048
+2014-01-17,A Debt-Related Charge of $1.2 Billion Puts a Dent in the Profit of Morgan Stanley,negative,-0.9577709436416626
+2014-01-21,"Mohamed El-Erian is unexpectedly resigning from the giant asset manager Pimco, dashing expectations that he would take over management of the firm.",negative,-0.9093934297561646
+2014-01-21,Heir Apparent at Pimco to Step Down,neutral,-0.21073639392852783
+2014-01-22,The activist investor called on eBay to spin off its PayPal business as he nominated two of his employees as candidates for the board.,neutral,-0.32774442434310913
+2014-01-22,Icahn Adds eBay to His Targets in Technology,neutral,0.05808187648653984
+2014-01-23,The story of GrafTech illustrates the complex dynamics when relations between directors and management turn sour.,neutral,-0.05139629542827606
+2014-01-23,It also highlights the sensitivity inside the boardroom in an era of activist investors and insider trading.,neutral,-0.0988771989941597
+2014-01-23,"Behind Staid Steel, a Percolating Boardroom Drama",neutral,-0.21290849149227142
+2014-01-24,"The firm is considering a new policy to prohibit employees from using peer-to-peer chat services provided by Bloomberg L.P., Yahoo and other third-party companies, a person close to the situation said.",negative,-0.5618840456008911
+2014-01-24,Goldman May Restrict Employees’ Use of Chat Services,neutral,-0.3192603588104248
+2014-01-27,The 26-year-old will host an hour show on 1 p.m. as the network changes its daily lineup.,neutral,-0.021723534911870956
+2014-01-27,"MSNBC Makes Room for Ronan Farrow, Rearranging the Schedule",neutral,-0.10297518968582153
+2014-01-28,The move to strip Michael S. Jeffries of his role as chairman comes as the embattled teen retailer faces pressure from investors.,negative,-0.9098201990127563
+2014-01-28,Mr. Jeffries will remain chief executive.,neutral,0.01491414662450552
+2014-01-28,"Under Pressure, Abercrombie & Fitch Splits Roles of Chairman and C.E.O.",neutral,-0.028055183589458466
+2014-01-29,Breaking down the admittedly messy math for the original Motorola deal shows that Google didn’t exactly lose nearly $10 billion on that transaction.,negative,-0.5317080616950989
+2014-01-29,Did Google Really Lose on Its Original Motorola Deal?,negative,-0.5871952772140503
+2014-01-30,"Box, the online storage and document-sharing company, was able to file its I.P.O.",positive,0.6352730989456177
+2014-01-30,"paperwork confidentially because of the JOBS Act, a law meant to make it easier for companies to go public.",neutral,-0.06118592992424965
+2014-01-30,"Box, an Online Storage Start-Up, Is Said to File for an I.P.O.",neutral,0.00977860763669014
+2014-02-01,"The message to aspiring video makers on YouTube is clear, and seductive: Attract an audience, build your brand.",neutral,0.24541208148002625
+2014-02-01,"But success, let alone stardom and wealth, remains elusive.",neutral,0.0563855804502964
+2014-02-01,"Chasing Their Star, on YouTube",neutral,0.07371502369642258
+2014-02-03,"Antony Jenkins, the chief executive of Barclays, said Monday that he would forgo a bonus offered to him by the bank’s board in light of the bank’s continued restructuring costs and litigation expenses.",negative,-0.4600868225097656
+2014-02-03,Barclays Chief Declines Annual Bonus,negative,-0.5516700744628906
+2014-02-04,"The move intensified a cash squeeze for the commonwealth, whose financial condition is of outsize importance to the rest of the United States because its debt is widely held by individual investors through mutual funds.",negative,-0.3735015392303467
+2014-02-04,S.&P.,neutral,0.031057283282279968
+2014-02-04,Lowers Puerto Rico Debt to Junk Status,neutral,0.0429958701133728
+2014-02-06,"The Carlyle Group is paying $3.2 billion for the unit, which produces a range of products used in shipping and transportation.",neutral,0.05718862637877464
+2014-02-06,Illinois Tool Works Sells Packaging Unit to Carlyle Group,neutral,-0.005933875218033791
+2014-02-07,The new downgrade was expected to further narrow the island’s room for tight financial maneuvering and has reportedly given rise to discussions with lenders about short-term relief on certain payments.,negative,-0.3582327663898468
+2014-02-07,Puerto Rico’s Second Cut to Junk Debt,negative,-0.6438106894493103
+2014-02-10,"Chamath Palihapitiya, the founder of a venture capital fund, told the elite entrepreneurs of Harvard Business School that they were at a disadvantage when it came to attracting capital.",negative,-0.7874855995178223
+2014-02-10,Tech Investor to Entrepreneurs: A Harvard Degree Is a Liability,neutral,0.047580473124980927
+2014-02-11,"The swag that the Wall Street bank offered at the Women Engineers Code, or WECode, conference at Harvard was found off-putting by at least one attendee.",negative,-0.894257664680481
+2014-02-11,Goldman Handed Out Cosmetic Mirrors and Nail Files at Women’s Coding Event,neutral,0.07917135208845139
+2014-02-12,"George Canellos, the latest Wall Street regulator to switch sides, will start his new job in mid-March, two months after leaving the Securities and Exchange Commission.",neutral,-0.011748043820261955
+2014-02-12,Former Top S.E.C.,neutral,0.03461671993136406
+2014-02-12,Enforcer Returns to Milbank,neutral,-0.06254581362009048
+2014-02-13,"Terra Firma said that Damian Darragh, who worked for Terra Firma for 18 years and was head of its green power investments, was asked to leave the firm.",neutral,-0.24165166914463043
+2014-02-13,"In Surprise Move, Terra Firma Shakes Up Renewable Energy Team",neutral,0.10275789350271225
+2014-02-14,"The agreement could heat up competition in the world of web messaging, where services like WhatsApp of the United States and WeChat of China are vying for users.",positive,0.7399752736091614
+2014-02-14,"As War for Web Messaging Users Grows, Rakuten Buys Viber for $900 Million",neutral,0.08785687386989594
+2014-02-17,"The Serious Fraud Office of Britain accused the former bank employees of conspiring to manipulate the London interbank offered rate, or Libor, from June 2005 to August 2007.",negative,-0.8217145204544067
+2014-02-17,3 Who Worked at Barclays Face Charges in Libor Case,negative,-0.8174735903739929
+2014-02-18,"The new rules will force the American operations of foreign banks to follow many of the same rules as American banks, including holding more capital as a financial buffer to absorb losses..",neutral,0.21466636657714844
+2014-02-18,Fed Closes a Loophole for Banks Overseas,neutral,-0.05694170296192169
+2014-02-19,Kenneth C. Griffin’s money will largely go the college’s financial aid program as Harvard seeks to blunt criticism that higher education has become the province of the 1 percent.,neutral,0.0774911567568779
+2014-02-19,"Founder of Citadel Pledges $150 Million to Harvard, Its Largest Gift Ever",neutral,0.40397167205810547
+2014-02-20,Years of lackluster performance and growing competition for institutional investors like pension funds have made hedge funds warm to the idea of branding.,positive,0.49213865399360657
+2014-02-20,Just do not call it advertising.,neutral,0.0037634968757629395
+2014-02-20,"With Ban on Ads Removed, Hedge Funds Test Waters",neutral,-0.04730527102947235
+2014-02-21,The bank also paid $196 million to settle charges that it advised clients in the United States without first registering with the Securities and Exchange Commission.,neutral,-0.22248169779777527
+2014-02-21,Credit Suisse Admits Guilt in Settling With S.E.C.,neutral,0.10047385096549988
+2014-02-24,The bank said it would pay an allowance to high-ranking executives in order to circumvent European compensation limits and announced earnings for 2013 that fell short of analyst expectations.,positive,0.017229825258255005
+2014-02-24,HSBC to Sidestep European Union Bonus Cap as It Cuts Costs,negative,-0.49053701758384705
+2014-02-25,"Steven A. Cohen, the billionaire hedge fund owner, is looking to hire a former prosecutor or securities regulator to monitor trading at his investment firm after the federal government’s insider trading investigation.",neutral,-0.13057160377502441
+2014-02-25,"After Inquiry, SAC Capital Says It Intends to Hire a Trading Monitor",neutral,0.06323830783367157
+2014-02-27,"Daniel Loeb’s hedge fund, Third Point, is seeking three seats on the board of Sotheby’s, stepping up a battle between the auction house and one of its most vocal investors.",neutral,-0.07677903771400452
+2014-02-27,Loeb Plans a Proxy Fight at Sotheby’s,neutral,-0.4191912114620209
+2014-02-28,"The rapid decline of measured unemployment has outpaced improvement in other economic indicators, leaving the Fed looking for a new yardstick.",negative,-0.38583001494407654
+2014-02-28,Fed Searches for a New Method of Offering Guidance,neutral,0.004505543038249016
+2014-03-01,The challenge for Warren E. Buffett is whether Berkshire Hathaway can continue to make large acquisitions that will help the company grow at a pace that will sustain his reputation as the nation’s shrewdest investor.,positive,0.6946480870246887
+2014-03-01,Buffett Hints at More Heinz-Like Deals in Annual Letter,neutral,0.3355712890625
+2014-03-03,"Banamex USA, a banking affiliate that handles transactions across the Mexican border, has become entangled in an investigation into compliance with rules on the monitoring of financial transfers.",negative,-0.9317946434020996
+2014-03-03,Citigroup Affiliate’s Troubles Multiply as Money-Laundering Subpoenas Follow Fraud,negative,-0.9112603664398193
+2014-03-04,"Moelis & Company filed for an initial public offering on Tuesday, a move that would make it one of a handful of independent investment banks that trade on the public stock markets.",neutral,0.36517512798309326
+2014-03-04,Moelis & Company Files for an I.P.O.,neutral,-0.04101575165987015
+2014-03-05,"New York State’s superintendent of financial services says his office received “hundreds” of consumer complaints about problems related to Nationstar’s mortgage modifications, improper fees and lost paperwork.",negative,-0.95196133852005
+2014-03-05,New York Demands Data From Mortgage Firm Nationstar,neutral,-0.007847011089324951
+2014-03-06,"A Newsweek article contends that a man in Southern California named Satoshi Nakamoto was the creator of the virtual currency Bitcoin, but many people say they are unconvinced.",negative,-0.6595237255096436
+2014-03-06,Bitcoin’s Mysterious Creator Is Said to Be Identified,neutral,-0.11589938402175903
+2014-03-10,"The combined companies, which will be named ChiquitaFyffes, will be the world’s largest producer and distributor of bananas and will have about $4.6 billion in annual revenue.",positive,0.5228683948516846
+2014-03-10,Chiquita Buys Ireland’s Fyffes to Go Global in Banana Business,neutral,0.3213372826576233
+2014-03-11,"Benjamin Lawsky, the superintendent of New York’s Department of Financial Services, issued his first public order on virtual currencies like Bitcoin, calling for proposals for creating regulated exchanges.",neutral,0.3326391577720642
+2014-03-11,Virtual Exchange Plans Are Sought in New York,neutral,0.02927100472152233
+2014-03-12,"Berkshire Hathaway disclosed that it planned to exchange the bulk of its holdings in Graham Holdings — about 1.6 million shares — for a Miami television station, cash and some shares that Graham holds in Berkshire.",neutral,0.03645512834191322
+2014-03-12,Buffett Shrinks Ties to the Graham Family,negative,-0.8169699311256409
+2014-03-13,"Ronald N. Dennis, who agreed to be banned from the securities industry and to pay $200,000, received confidential tips about Dell and Foundry Networks that “prompted illegal trades.”",negative,-0.7282959222793579
+2014-03-13,S.E.C.,neutral,0.030168529599905014
+2014-03-13,Unveils Case Against 10th Former Employee of SAC Capital,negative,-0.5767999291419983
+2014-03-14,The Chinese e-commerce titan Alibaba is said to be planning to follow the social network Weibo into filing for an I.P.O.,neutral,0.0011482574045658112
+2014-03-14,"in New York, rather than in Hong Kong.",neutral,-0.26040494441986084
+2014-03-14,China’s Online Goliaths Prepare Public Offerings in U.S.,neutral,0.004435352981090546
+2014-03-18,"A shareholder vote set in motion a process that will almost certainly result in the ouster of Barry M. Portnoy and his son, Adam D. Portnoy, who control CommonWealth.",neutral,0.07437863200902939
+2014-03-18,Activists Prevail in Campaign to Oust REIT’s Board,negative,-0.21597914397716522
+2014-03-19,"The government’s case against two Wall Street insiders laid bare an elaborate if somewhat old-fashioned plan, where a middleman would relay tips, written on a Post-it note or napkin, at Grand Central Terminal’s four-faced clock.",neutral,-0.15978296101093292
+2014-03-19,"Traders of Tips Meet at Grand Central, and Eat the Evidence",neutral,-0.026767123490571976
+2014-03-20,Robert D. Marcus will receive a severance payment that amounts to more than $1 million a day for the six weeks he ran Time Warner Cable before agreeing to sell.,neutral,0.0016947463154792786
+2014-03-20,$80 Million for 6 Weeks for Cable Chief,neutral,-0.11208789050579071
+2014-03-21,"The company is paying $1.6 billion for LIN Media, another operator of local TV stations, and will run 74 stations in 46 markets.",neutral,0.10185433179140091
+2014-03-21,Only Sinclair Broadcasting manages more stations.,neutral,0.00888834334909916
+2014-03-21,Acquisition by Media General Creates 2nd-Largest Local TV Owner,positive,0.4863017499446869
+2014-03-24,A federal jury in Manhatttan has found five associates of the convicted swindler Bernard L. Madoff guilty on 31 counts of aiding one of the largest Ponzi schemes in history.,negative,-0.59856778383255
+2014-03-24,Jury Says 5 Madoff Employees Knowingly Aided Swindle of Clients’ Billions,negative,-0.7466179728507996
+2014-03-25,The billionaire activist investor’s lawsuit sets the stage for what promises to be a no-holds-barred battle at the annual shareholder meeting on May 6.,negative,-0.7385659217834473
+2014-03-25,"Loeb Files Suit Against Sotheby’s, Seeking to Eliminate Its Poison Pill",negative,-0.6949806213378906
+2014-03-26,The lawsuit arose out of troubled mortgage-backed securities that the bank cobbled together and sold to Fannie Mae and Freddie Mac in the run-up to the financial crisis.,negative,-0.5031429529190063
+2014-03-26,Bank of America to Pay $6.3 Billion to Settle Mortgage Securities Suit,neutral,-0.007169246673583984
+2014-03-28,Shares of the large billboard advertising company trade higher on the New York Stock Exchange.,positive,0.8557090759277344
+2014-03-28,Shares of CBS Outdoor Rise on Debut,positive,0.7273716926574707
+2014-04-02,The departure of the executive comes as the bank prepares to sell its physical commodities business to a Swiss trading firm for $3.5 billion.,negative,-0.6047124266624451
+2014-04-02,Commodity Chief Blythe Masters to Leave JPMorgan Chase,negative,-0.542405366897583
+2014-04-03,The sale removes one of Barnes & Noble’s major backers as the company tries to navigate the changing landscape for books and media.,neutral,0.07137437909841537
+2014-04-03,Liberty Media Will Sell Most of Its Investment in Barnes & Noble,neutral,0.0037307320162653923
+2014-04-04,"The leveraged buyout, announced Friday afternoon,  is Blackstone’s biggest since 2007, when it bought Hilton Worldwide Holdings for $26 billion.",neutral,0.3520682156085968
+2014-04-04,Blackstone to Buy Industrial Manufacturer for $5.4 Billion,neutral,0.03364202752709389
+2014-04-07,"The premiere Sunday night averaged 6.6 million viewers at 9 p.m., the largest audience for any show on HBO since the finale of “The Sopranos” in 2007.",positive,0.6996340155601501
+2014-04-07,‘Game of Thrones’ Settles Into Hit Status,neutral,-0.059178903698921204
+2014-04-08,"The requirement could force the eight biggest banks in the United States to find as much as an additional $68 billion to put their operations on firmer financial footing, according to regulators’ estimates.",neutral,-0.18334004282951355
+2014-04-08,Banks Ordered to Add Capital to Limit Risks,neutral,0.03715486824512482
+2014-04-09,The stock sale will raise about $2.4 billion for the government.,positive,0.7603183388710022
+2014-04-09,"As Ally Prepares for Offering, Government Cuts Stake",negative,-0.742599368095398
+2014-04-10,"A group of regulators including the Federal Reserve, the Federal Deposit Insurance Corporation and the Office of the Comptroller of the Currency say banks should upgrade their systems to protect customer information.",positive,0.7599080801010132
+2014-04-10,Federal Regulators Advise Banks to Protect Their Systems From Internet Security Flaw,neutral,-0.015034802258014679
+2014-04-11,A federal judge held up the bankrupt city’s settlement as an example of “the very spirit of negotiation and compromise” that he hoped other creditors would follow.,neutral,0.09179169684648514
+2014-04-11,Detroit Wins Judge’s Nod for Contract Settlement,positive,0.5021028518676758
+2014-04-14,"The AMC drama averaged just 2.3 million viewers at 10 p.m., down from 3.4 million from the premiere a year ago.",negative,-0.9631487727165222
+2014-04-14,Steep Drop in Ratings as ‘Mad Men’ Begins Its Final Season,negative,-0.9582231044769287
+2014-04-15,"J. Kyle Bass, the hedge fund manager who made a name for himself betting against subprime mortgages, is now betting on General Motors despite its recent troubles.",neutral,0.06735306233167648
+2014-04-15,Hedge Fund Manager Makes Lonely Defense of G.M.,neutral,-0.04492765665054321
+2014-04-16,"Shares in Moelis & Company closed about 4.6 percent above its initial public offering price, after the firm cut both the price of its I.P.O.",negative,-0.8672325015068054
+2014-04-16,and the amount of shares it sold amid the volatile stock market.,neutral,-0.04860876500606537
+2014-04-16,Moelis & Co. Rises After Smaller-Than-Expected I.P.O.,negative,-0.25002092123031616
+2014-04-21,"The effort to do a deal for Allergan, with a market value of $42 billion, puts together one of the most prominent hedge fund managers with Valeant, a drug maker known for its serial acquisitions.",positive,0.5581150054931641
+2014-04-21,Ackman and Valeant Prepare Unusual Hostile Bid for Maker of Botox,neutral,0.054978497326374054
+2014-04-22,"A federal appeals court picked apart the government’s case against two former hedge fund traders, questioning whether the judge in the trial erred when instructing jurors.",negative,-0.7413256168365479
+2014-04-22,Appeal Judges Hint at Doubts in Insider Case,negative,-0.6761342287063599
+2014-04-23,"Benjamin M. Lawsky, New York State’s superintendent of financial services, accused the Condor Capital Corporation of siphoning millions of dollars away from borrowers’ accounts.",negative,-0.8656868934631348
+2014-04-23,New York Financial Regulator Uses Dodd-Frank to Sue Auto Lender,negative,-0.871233344078064
+2014-04-24,A Long Island couple who lost $5 million at the hands of a former stockbroker notorious for defrauding Broadway producers is arguing that his employer withheld evidence.,negative,-0.8375660181045532
+2014-04-24,New Evidence May Reopen Broker Fraud Case,neutral,0.23837333917617798
+2014-04-28,"Stock linked to Vernon Davis, the San Francisco 49ers tight end, opened for trading on Monday on an exchange operated by Fantex, a start-up.",neutral,0.08085078746080399
+2014-04-28,I.P.O.,neutral,0.042054928839206696
+2014-04-28,Linked to Football Player Opens for Trading,neutral,-0.021955467760562897
+2014-04-29,"Bruce R. Berkowitz’s fund, an investor in Fannie Mae and Freddie Mac, is helping a group that supports the companies that lawmakers are trying to wind down.",neutral,0.10415148735046387
+2014-04-29,Alliance Battles to Save Fannie and Freddie,neutral,0.08200953900814056
+2014-04-30,A new report from a banking regulator offers a snapshot of the morass of problems that mortgage holders who fell behind in payments experienced during the financial crisis.,negative,-0.751953661441803
+2014-04-30,"Big Banks Erred Widely on Troubled Mortgages, U.S.",negative,-0.41500124335289
+2014-04-30,Regulator Confirms,neutral,0.053280506283044815
+2014-05-01,"The big health care company, is close to a deal to sell its consumer unit to Bayer for about $14 billion, a person briefed on the matter said on Thursday.",neutral,0.12429429590702057
+2014-05-01,Merck Said to Be Near Closing Deal With Bayer,neutral,0.29087015986442566
+2014-05-02,"Three more executives of Barclays — its global head of mergers, its chairman of investment banking and its Asia-Pacific head — are expected to leave, the latest in a series of exits by high-profile bankers from the British firm.",negative,-0.9009531140327454
+2014-05-02,More Senior Departures Expected From Barclays in Upheaval at British Firm,negative,-0.8834694027900696
+2014-05-05,"The French government said Monday it would oppose General Electric’s friendly $13.5 billion offer, though its legal means for stopping a deal appear to be limited.",negative,-0.8893049359321594
+2014-05-05,France Says It Opposes G.E.’s Bid for Alstom Unit,negative,-0.9135399460792542
+2014-05-06,"The e-commerce behemoth Alibaba Group filed paperwork in the U.S. to sell stock to the public, a coming-of-age for China’s booming Internet industry.",neutral,0.14576494693756104
+2014-05-06,"Chinese Giant Alibaba Will Go Public, Listing in U.S.",neutral,0.03950563818216324
+2014-05-07,"Briggs Morrison, who oversees drug development for AstraZeneca, says the company would be better off without Pfizer.",negative,-0.5251435041427612
+2014-05-07,"He bases that, in part, on having worked at Pfizer.",neutral,0.023597633466124535
+2014-05-07,A Scientist’s Defense of Keeping AstraZeneca Independent,neutral,0.02828032523393631
+2014-05-08,The Federal Trade Commission’s privacy agreements with tech companies haven’t led to a general improvement in privacy.,positive,0.8783034086227417
+2014-05-08,Another Tech Company Finds the F.T.C.,negative,-0.6796108484268188
+2014-05-08,Looking Over Its Shoulder,neutral,-0.1330229490995407
+2014-05-09,The bank disclosed that federal regulators are investigating its high-frequency trading operations.,negative,-0.4964768886566162
+2014-05-09,"And New York’s attorney general recently sent a letter to the firm requesting information about those operations, according to a person familiar with the matter.",neutral,0.04989001154899597
+2014-05-09,Goldman Under Investigation for High-Speed Trading,negative,-0.8592134118080139
+2014-05-11,"Larry Wilmore, a seasoned television writer and producer and “Daily Show” regular, prepares to lead his own commentators on “The Minority Report With Larry Wilmore.”",neutral,0.0007739514112472534
+2014-05-11,Stepping Up to a Host Spot,neutral,0.3135666251182556
+2014-05-12,"AT&T is in talks to buy DirecTV for at least $50 billion, and the two sides are actively working toward an announcement, according to several people with knowledge of the matter.",neutral,0.17369401454925537
+2014-05-12,AT&T Courts Satellite TV With an Eye on Growth,neutral,0.035632964223623276
+2014-05-13,"Highbridge Capital Management is expanding its team in Europe, where hedge funds and private equity firms are looking for ways to take part in the region’s slow emergence from financial crisis.",positive,0.8875492215156555
+2014-05-13,Highbridge Capital Continues Hiring Spree in London,neutral,0.20766504108905792
+2014-05-15,"The maker of airplane seats surprised many last week when the company announced that it was weighing a potential sale, among other strategic options.",neutral,0.24931980669498444
+2014-05-15,Relational Unveils Stake in B/E Aerospace,neutral,0.1524997502565384
+2014-05-16,Timothy F. Geithner’s new book defending his role in the financial crisis is drawing out his detractors and defenders on both sides of the political aisle.,neutral,0.03051730990409851
+2014-05-16,A look back on our reporting of the past week’s highs and lows in finance.,neutral,-0.00039552152156829834
+2014-05-16,Weekend Reading: The Hero and the Wall St. Puppet,neutral,0.0315527468919754
+2014-05-18,The private equity firm acquired the properties when it bought a landlord built by the real estate magnate Samuel Zell for $39 billion in 2007.,neutral,0.045411091297864914
+2014-05-18,Blackstone to Sell Boston Office Buildings for $2.1 Billion,neutral,0.021426983177661896
+2014-05-19,"The Swiss bank, which has large investment banking operations in New York, will also pay about $2.6 billion in penalties and hire an independent monitor for up to two years.",negative,-0.8354183435440063
+2014-05-19,Credit Suisse Pleads Guilty in Felony Case,negative,-0.48604264855384827
+2014-05-20,"The government’s concern with minimizing the collateral consequences for Credit Suisse almost gives the impression that this was a guilty plea without all the guilt, Peter J. Henning writes in White Collar Watch.",neutral,-0.10739286988973618
+2014-05-20,Mixed Signals in a Corporate Felon’s Punishment,negative,-0.5520704984664917
+2014-05-21,"Although Credit Suisse is paying stiff penalties as part of its convictions, many critics have been left disappointed by what the plea deal didn’t do.",negative,-0.9125616550445557
+2014-05-21,"In Credit Suisse Settlement, a Question of Justice",neutral,-0.0698319524526596
+2014-05-22,Work on behalf of Ecuadorian clients in a case against Chevron continues to haunt the law and lobbying force in Washington.,neutral,-0.059301454573869705
+2014-05-22,Potential Partner for Patton Boggs Suspends Merger Vote,negative,-0.6964970827102661
+2014-05-23,Shareholders used words like “greed” to describe the levels at which bankers are being compensated.,neutral,-0.15376269817352295
+2014-05-23,"HSBC, Like Rivals, Hears Earful on Banker Pay at Annual Meeting",neutral,0.17538009583950043
+2014-05-26,Pfizer said it “does not intend to make an offer for AstraZeneca” in the wake of AstraZeneca’s rejection of a $119 billion bid.,neutral,-0.39822420477867126
+2014-05-26,Pfizer Abandons Bid for AstraZeneca,neutral,-0.2228395938873291
+2014-05-27,The asset management firm brought back Paul A. McCulley to help reassure skeptical investors and bolster its intellectual credentials.,positive,0.8478996157646179
+2014-05-27,Pimco Rehires a Former Top Executive,negative,-0.353976309299469
+2014-05-28,"Months after concluding his second stint in government service, Robert K. Steel will return to Wall Street by becoming the chief executive of Perella Weinberg Partners, the boutique investment bank.",neutral,0.051790885627269745
+2014-05-28,"Steel, Ex-Deputy Mayor, to Become Perella Weinberg C.E.O.",neutral,0.05014938488602638
+2014-05-29,"Blue Crest Capital Management, a $30 billion hedge fund in Guernsey, has a $1.5 billion internal hedge fund designed to attract top talent.",neutral,0.05643323063850403
+2014-05-29,Outside investors wonder whether they are missing out.,negative,-0.47817569971084595
+2014-05-29,Fund Within a Fund Creates a Conflict,neutral,-0.016609136015176773
+2014-05-30,"Nelson Obus, the former hedge fund manager, had been fighting the Securities and Exchange Commission case since 2006.",negative,-0.7013128995895386
+2014-05-30,"After Fighting Insider Trading Charges for 10 Years, a Fund Manager Is Cleared",negative,-0.5645220279693604
+2014-06-01,Mexican authorities declined to say how many or which former executives of the Citigroup subsidiary Banamex were being sought.,negative,-0.6356249451637268
+2014-06-01,Mexico Authorizes Arrests in Fraud at Citigroup Unit,neutral,-0.033749520778656006
+2014-06-02,"Goldman Sachs named Stephen M. Scherr as its new chief strategy officer on Monday, replacing Andrew A. Chisholm, a longtime executive of the firm who is retiring at the end of the year.",neutral,0.19897814095020294
+2014-06-02,Goldman Names New Chief Strategy Officer,neutral,0.09566928446292877
+2014-06-03,"The new offer, worth about $55 a share, values the maker of Jimmy Dean sausages and Ball Park hot dogs at about $6.7 billion.",neutral,0.09379473328590393
+2014-06-03,"Pilgrim’s Pride Raises Its Bid for Hillshire, Topping Tyson",positive,0.6292768120765686
+2014-06-04,"A deal, long contemplated, would create a more formidable rival to the two largest wireless phone providers in the United States: Verizon and AT&T.",positive,0.8255618214607239
+2014-06-04,T-Mobile and Sprint Zeroing In on a $32 Billion Merger,neutral,0.00013809651136398315
+2014-06-05,The proposed changes outlined by Mary Jo White would touch virtually every corner of the market.,neutral,0.034924641251564026
+2014-06-05,S.E.C.,neutral,0.030168529599905014
+2014-06-05,Chief Offers Rules to Govern Fast Trading,neutral,0.009576575830578804
+2014-06-06,"The web-based car ride service raised another $1.2 billion from investors at a $17 billion valuation, attaining a net worth almost unheard-of among start-ups.",positive,0.8884456157684326
+2014-06-06,Uber Attains Eye-Popping New Levels of Funding,positive,0.8883134722709656
+2014-06-09,"GoDaddy, the domain name registration giant once known for its risqué commercials, has not reported a profit for the last two years.",negative,-0.9090238809585571
+2014-06-09,GoDaddy to Tap Public Markets With I.P.O.,neutral,0.4569239020347595
+2014-06-10,A surge in lending to Chinese companies is leading Hong Kong regulators to impose strict financial rules four years before they are required under new global standards.,neutral,0.0726071372628212
+2014-06-10,Hong Kong Regulators Tense About China Loans,negative,-0.7288385629653931
+2014-06-11,"The authorities are investigating loans based on collateral of metals at a Chinese port, with implications for Western banks and the Chinese credit market.",negative,-0.6765522360801697
+2014-06-11,Banks Fear Missing Collateral in China,negative,-0.8868811130523682
+2014-06-12,"Mark Carney, governor of the Bank of England, also said that Britain’s recovering economy might require higher interest rates sooner rather than later.",neutral,0.04399527609348297
+2014-06-12,Britain’s Top Financial Authorities Focus on Perils of Debt,neutral,-0.24698233604431152
+2014-06-13,"Talks to settle a civil inquiry into the sale of shoddy mortgage investments have deteriorated, as the sides are deadlocked on how much money the bank should pay.",negative,-0.9507426023483276
+2014-06-13,Settlement Talks Stall for Citigroup and Justice Department,negative,-0.4848528504371643
+2014-06-15,"In combining with Covidien, Medtronic would relocate its headquarters to Ireland from Minneapolis, but argued that its tax rate would remain roughly the same.",neutral,0.21111001074314117
+2014-06-15,Device Maker Medtronic Agrees to Merger and Will Move to Ireland,neutral,0.11343242973089218
+2014-06-16,The Senate’s Permanent Subcommittee on Investigations plans to zero in Tuesday on the question of fairness in split-second trading and on the money paid by brokerages to firms actually handling the trades.,neutral,-0.19317926466464996
+2014-06-16,Senate Hearing on Fairness of High-Speed Stock Trading Could Get Heated,neutral,-0.18308493494987488
+2014-06-18,A dispute between Argentina and several New York hedge funds is returning to Federal District Court in Manhattan for negotiations.,negative,-0.7773424386978149
+2014-06-18,Battle Between Argentina and Hedge Funds Continues in New York,negative,-0.8326382637023926
+2014-06-19,"If the company does not cooperate, the activist investor says he will go directly to shareholders with an effort to throw out the entire board.",negative,-0.7347912788391113
+2014-06-19,Icahn Urges Family Dollar to Sell Itself,neutral,0.0643220841884613
+2014-06-20,Mary Jo White said on Friday that she had asked the S.E.C.,neutral,0.049069397151470184
+2014-06-20,to enhance transparency in a sector of Wall Street where middlemen may now have an advantage over investors.,positive,0.8262050747871399
+2014-06-20,S.E.C.’s Mary Jo White Seeks to Shine Light Into Opaque Bond Markets,neutral,0.1263086050748825
+2014-06-23,"Oracle’s deal for Micros Systems, a maker of software for restaurants and hospitality providers, is its biggest since the takeover of Sun Microsystems five years ago.",positive,0.7890815138816833
+2014-06-23,Oracle to Buy a Software Maker Micros Systems for $5.3 Billion,neutral,0.04499637708067894
+2014-06-24,Can you ask someone to pay you for moving out of a parking spot on a San Francisco street?,neutral,-0.041955262422561646
+2014-06-24,The city says it will crack down on apps that facilitate the transaction.,negative,-0.8331330418586731
+2014-06-24,San Francisco Plans to Ban Certain Parking Apps,negative,-0.5489543080329895
+2014-06-25,"GoPro is only one of nearly 20 companies looking to make their market debuts this week, a pace unseen since the height of the dot-com boom in 2000.",neutral,0.375204473733902
+2014-06-25,GoPro’s I.P.O.,neutral,0.026470638811588287
+2014-06-25,"Prices at Top of Range, Leading a Wave of Newly Public Companies",positive,0.6043824553489685
+2014-06-26,"The United States Marshals Service has arranged an online auction for nearly 30,000 of the Bitcoins it took from the now-defunct Silk Road market.",neutral,0.046073634177446365
+2014-06-26,U.S.,neutral,-0.05536564439535141
+2014-06-26,Prepares for Sale of Bitcoins Seized in Its Raid on Silk Road,neutral,-0.2951139211654663
+2014-06-27,The sale comes as AT&T prepares to acquire the satellite operator DirecTV.,neutral,0.07827577739953995
+2014-06-27,AT&T Sells Its Stake in Mexican Telecom América Móvil to Carlos Slim,neutral,0.022662974894046783
+2014-06-30,Authorities announced a criminal case against France’s biggest bank for transferring money on behalf of countries blacklisted by the U.S.,negative,-0.8901609778404236
+2014-06-30,BNP Paribas Admits Guilt and Agrees to Pay $8.9 Billion Fine to U.S.,positive,0.232905775308609
+2014-07-01,"It is an unusual assignment for Credit Suisse, which has one of the most prominent activist defense teams on Wall Street.",neutral,0.13160571455955505
+2014-07-01,Pershing Square Said to Hire Credit Suisse for Allergan Fight,neutral,0.021956656128168106
+2014-07-02,"Through a partnership with the Bitcoin exchange start-up Vaurum, the venture capitalist intends to make the coins available for use in emerging markets.",positive,0.5734068751335144
+2014-07-02,"Winner of Bitcoin Auction, Tim Draper, Plans to Expand Currency’s Use",positive,0.7696868777275085
+2014-07-03,"The Electronic Privacy Information Center said Facebook deceived its users and violated a consent decree with American regulators with a study that manipulated the emotional tone of the news feeds of 700,000 users without their explicit consent.",negative,-0.9291746020317078
+2014-07-03,Privacy Group Complains to F.T.C.,negative,-0.90280681848526
+2014-07-03,About Facebook Emotion Study,neutral,-0.07617436349391937
+2014-07-07,"The new capital, which valued the start-up at about $2.4 billion, will help the company as it stays private a little longer.",positive,0.905914843082428
+2014-07-07,Box Raises $150 Million in New Financing as It Moves Toward an I.P.O.,positive,0.8481443524360657
+2014-07-08,"The new agreement, according to the state’sattorney general’s office, would cap Uber’s surge prices during “abnormal disruptions of the market,” typically citywide emergencies.",positive,0.5872246623039246
+2014-07-08,Uber Reaches Deal With New York on Surge Pricing in Emergencies,positive,0.411349892616272
+2014-07-10,"As Yahoo assembles a media empire through acquisitions under Ms. Mayer’s leadership, the gathering of media moguls would seem to be a natural hunting ground.",neutral,0.10433769971132278
+2014-07-10,Tracking Sun Valley’s Most Wanted Guest: Marissa Mayer,neutral,-0.002887353301048279
+2014-07-11,"The talks follow AbbVie’s revised offer to pay about $51 billion for Shire, which has its headquarters in Ireland and is listed in London.",neutral,0.3123171329498291
+2014-07-11,Shire confirmed the talks on Friday but did not provide details of the discussions.,neutral,0.005068032070994377
+2014-07-11,Drug Makers AbbVie and Shire Officials Meet to Discuss Merger,neutral,0.03129984065890312
+2014-07-13,How a raid in Libya and a feat of accounting led Citigroup and the Justice Department to a breakthrough in settlement talks.,positive,0.8097689151763916
+2014-07-13,From Benghazi to the Boardroom: The Road to the $7 Billion Citigroup Settlement,neutral,0.0680718645453453
+2014-07-14,Former top executives of Dewey & LeBoeuf said a criminal indictment stemming from the collapse of the firm should be dismissed because they did not intend to deprive bond investors and bank creditors of their money.,negative,-0.7685157656669617
+2014-07-14,"Former Dewey Executives Seek Dismissal of Case, Saying They Were ‘Scapegoats’",negative,-0.7924542427062988
+2014-07-15,Goldman Sachs’s earnings of $4.10 a share – buoyed in part by a strong performance in investment banking – exceeded analysts’ expectations for profit of $3.05 a share.,positive,0.8396708369255066
+2014-07-15,Goldman Earnings Rise 5% in Quarter,positive,0.8068091869354248
+2014-07-16,The Obama administration and Congress appear unlikely to take any action to stem the tide of such deals anytime soon.,neutral,-0.37930142879486084
+2014-07-16,"Treasury Urges End to Foreign Tax Flights, but Quick Action Is Unlikely",neutral,0.015863865613937378
+2014-07-17,"The biggest wedding of the year comes as the Treasury and Congress prepare legislation to prevent tax inversions, possibly retroactively.",positive,0.3697504997253418
+2014-07-17,What provision AbbVie has made for that is unclear.,neutral,0.005739226937294006
+2014-07-17,"AbbVie-Shire Deal Is Expected, in a Flight to a Lower-Tax Locale",neutral,0.37824535369873047
+2014-07-18,"The sale of a majority stake in Forbes Media means that Elevation Partners, the investment firm that bought 45 percent of the publisher eight years ago, will have found a way to recoup its investment.",positive,0.5979565978050232
+2014-07-18,"After Tough Years, Elevation Partners Rescues Investment in Forbes Media",positive,0.6104361414909363
+2014-07-21,"Hedge funds have claimed billions of dollars in tax savings through complex financial structures created by Barclays and Deutsche Bank, a Senate inquiry has found.",negative,-0.5159908533096313
+2014-07-21,Senate Inquiry Faults Hedge Funds’ Tax Strategy,neutral,-0.18690693378448486
+2014-07-22,Peter Brown argued that Renaissance Technologies’ tactics in trading were important and helped “produce modest returns with very low volatility.”,positive,0.5046831369400024
+2014-07-22,Hedge Fund Chief Testifies at Senate Tax-Avoidance Hearing,neutral,-0.0354405902326107
+2014-07-23,"The California State Teachers’ Retirement System, known as Calstrs, has sent a letter to a senior PepsiCo director, urging the food and beverage company to put Nelson Peltz on its board.",neutral,0.0962047129869461
+2014-07-23,Nelson Peltz’s Efforts to Shake Up Pepsi Get Backing of Calstrs,neutral,0.18289154767990112
+2014-07-24,"Kohlberg Kravis Roberts reported second-quarter economic net income of $501.6 million, three and a half times what it posted in the period a year earlier.",positive,0.5079327821731567
+2014-07-24,Asset Sales Bolster Earnings at K.K.R.,positive,0.9276838302612305
+2014-07-25,"Britain’s Serious Fraud Office apologized to Vincent Tchenguiz, a property magnate, over how it handled his case as part of an inquiry into the collapse of the Icelandic bank Kaupthing.",negative,-0.8484337329864502
+2014-07-25,British Prosecutor to Pay $5.1 Million in Case Related to Kaupthing Inquiry,negative,-0.8900727033615112
+2014-07-28,"Airbnb introduced a new business travel initiative on Monday, expanding beyond the vacation and couch-surfing crowds the company has traditionally focused on.",positive,0.834608256816864
+2014-07-28,Airbnb Expands Into Business Travel,neutral,0.25013959407806396
+2014-07-29,"The billionaire investor Steven A. Cohen’s revamped firm, Point72 Asset Management, generated a profit of nearly $1 billion for the first half year of this year.",positive,0.5029561519622803
+2014-07-29,Profits Soaring After Disgrace at Cohen’s Hedge Fund,negative,-0.7362337708473206
+2014-07-30,The new bonus rules will allow banks with headquarters or subsidiaries in England to claw back for up to seven years bonuses paid to bankers who engage in wrongdoing.,neutral,0.08729825168848038
+2014-07-30,Bank of England Sets Tough Rules for Banker Bonuses,neutral,-0.16983290016651154
+2014-07-31,"Other big technology companies are watching the case, which Microsoft said it would appeal, as a potential threat to their plans to offer cloud computing overseas.",negative,-0.854371964931488
+2014-07-31,Judge Rules That Microsoft Must Turn Over Data Stored in Ireland,negative,-0.7395418882369995
+2014-08-01,The suit calls into focus one of the central issues at play: whether William A. Ackman improperly built up his nearly 10 percent stake in Allergan as he prepared to make a bid with Valeant Pharmaceuticals for Allergan.,negative,-0.855514645576477
+2014-08-01,"Botox Maker Allergan Sues Valeant and Ackman, Claiming Insider Trading",negative,-0.9381422996520996
+2014-08-04,The British bank said first-half earnings fell to $9.75 billion from $10.3 billion in the period a year earlier.,negative,-0.9688358306884766
+2014-08-04,Its Asian operations account for more than half of its earnings.,neutral,0.03682521730661392
+2014-08-04,Profits Decrease at HSBC as Business in Asia Slows,negative,-0.9687276482582092
+2014-08-05,"It would have created a $150 billion giant, but Time Warner and Fox’s shareholders weren’t interested.",negative,-0.5421210527420044
+2014-08-05,"After Pushback, Murdoch Abandons Fox’s Pursuit of Time Warner",neutral,-0.028413504362106323
+2014-08-06,"After months of stiff resistance, the bank has abruptly offered to pay $16 billion.",positive,0.5472556352615356
+2014-08-06,The turning point came in an unexpected ruling from a federal judge known to be hard on big banks.,positive,0.20709195733070374
+2014-08-06,Bank of America Offers U.S. Biggest Settlement in History Over Toxic Mortgage Loans,positive,0.3657790422439575
+2014-08-07,"Under the terms of the deal, Chip Wilson will sell half of his stake in the company to Advent International for $845 million.",neutral,0.029915006831288338
+2014-08-07,The retailer will give the private equity firm two director seats.,neutral,0.06312280893325806
+2014-08-07,"Lululemon Strikes Deal With Yoga Sportswear Maker’s Founder, Avoiding Fight",neutral,0.1342698335647583
+2014-08-10,"Legacy is about to introduce a new antismoking effort, which takes a decidedly less rebellious tone than its previous “Truth” campaign.",neutral,0.07049940526485443
+2014-08-10,A Less Defiant Tack in a Campaign to Curb Smoking by Teenagers,neutral,-0.2706696689128876
+2014-08-12,Robyn Weintraub has her finger on the pulse of us crossword solvers.,neutral,-0.08498340845108032
+2014-08-12,Brown Beagle,neutral,-0.03196874260902405
+2014-08-13,"The hedge fund billionaire has filed a lawsuit against the clothing magnate, claiming a history of character assassination.",negative,-0.8534994125366211
+2014-08-13,Louis Bacon and Peter Nygard Move Bahamas Feud to New York,neutral,-0.12031377851963043
+2014-08-14,The big banana producer called the $13-a-share offer from the Cutrale Group and the Safra Group “inadequate” and reiterated its commitment to the acquisition of Fyffes of Ireland.,negative,-0.8775124549865723
+2014-08-14,Chiquita Rejects Unsolicited Offer and Will Proceed With Inversion,neutral,0.12298478931188583
+2014-08-15,"On Friday, the company announced that it had discovered suspicious accounting at one of its acquisitions, a Hong Kong film company.",negative,-0.9278792142868042
+2014-08-15,Doubt Is Cast on Vetting of Deals by Alibaba,negative,-0.5703243017196655
+2014-08-18,"Bitcoin’s price has been noticeably falling in recent weeks after a period of relative stability, though those who trade in the virtual currency say the drop is par for the course.",negative,-0.9656607508659363
+2014-08-18,"Bitcoin’s Price Falls 12%, to Lowest Value Since May",negative,-0.9596869945526123
+2014-08-19,"Standard Chartered will also be prevented from processing payments in dollars for “high-risk retail business clients” in Hong Kong, with the bank’s monitor determining which clients are “high risk.”",negative,-0.9062327146530151
+2014-08-19,"Caught Backsliding, Standard Chartered Is Fined $300 Million",negative,-0.8665356636047363
+2014-08-20,The activist investor Carl C. Icahn has built up a stake of nearly 8.5 percent in Hertz by buying options.,neutral,0.27713742852211
+2014-08-20,Carl Icahn Takes Stake in Hertz to Pressure Its Management,negative,-0.8783416748046875
+2014-08-21,"A federal judge in California ruled against Allergan, which was hoping its lawsuit against Valeant and Pershing Square Capital Management might prevent its shareholders from calling a special meeting until the case was resolved.",negative,-0.8839596509933472
+2014-08-21,Botox Maker Allergan’s Suit Against Valeant Won’t Delay Special Meeting,neutral,0.02629932016134262
+2014-08-22,"The hedge fund Pershing Square, owner of nearly 10 percent of Allergan shares, has led the charge to call the special meeting, at which Allergan shareholders could vote to replace a majority of the board, paving the way for a merger with Valeant Pharmaceuticals.",neutral,0.11516366899013519
+2014-08-22,Valeant and Pershing Square Say They Have Votes for Special Meeting of Botox Maker Allergan,neutral,0.15014870464801788
+2014-08-26,"Burger King Worldwide agreed on Tuesday to buy the Canadian restaurant chain Tim Hortons for about $11.4 billion, creating one of the biggest fast-food operations in the world.",positive,0.7613731026649475
+2014-08-26,Global Web of Financial Connections in Burger King’s Deal for Tim Hortons,neutral,0.14943833649158478
+2014-08-27,"The Justice Department is requiring Tyson to sell its hog-purchasing business, a unit with $270 million in revenue, to win antitrust approval for the merger.",negative,-0.6460105776786804
+2014-08-27,Tyson Foods and Hillshire Win Antitrust Clearance for Merger,positive,0.7236776947975159
+2014-08-28,Vivendi said a $9.8 billion offer from Telefónica of Spain for Global Village Telecom was aligned with its goal to exit the telecommunications business.,neutral,0.4369441866874695
+2014-08-28,Vivendi in Talks With Telefónica for Brazil Unit as It Looks to Exit Telecom,neutral,-0.08690077066421509
+2014-09-02,Ms. Griffin responded to her husband’s divorce petition with a formal request for sole custody of their three children.,neutral,0.07547067105770111
+2014-09-02,Anne Griffin Seeks to Void Prenuptial Agreement With Ken Griffin,negative,-0.8749570250511169
+2014-09-03,The Swiss Financial Market Supervisory Authority said it was looking into the role of Banque Privée Espírito Santo in the distribution of financial products of one of the Espírito Santo family companies.,neutral,0.01791495457291603
+2014-09-03,Switzerland Investigates Bank With Ties to Espírito Santo Companies,neutral,-0.26259541511535645
+2014-09-04,Metlife says it disagrees with a government panel’s proposal to call it a “systemically important financial institution.”,negative,-0.9135457873344421
+2014-09-04,U.S. Panel Proposes Subjecting MetLife to Stricter Regulation,neutral,0.07044653594493866
+2014-09-05,"The company, which runs two huge online marketplaces in China, plans to kick off a long-awaited roadshow for potential investors on Monday.",neutral,0.07338462024927139
+2014-09-05,As Its I.P.O.,neutral,0.041941020637750626
+2014-09-05,"Nears, Alibaba Gets Ready for a Splashy Debut",neutral,0.06344860792160034
+2014-09-08,"General Mills is paying a premium to buy Annie’s, the organic food company known for its mac and cheese and earthy vibe.",neutral,0.40691179037094116
+2014-09-08,General Mills to Buy Annie’s for $820 Million in Cash,neutral,0.030993688851594925
+2014-09-10,"JDS Uniphase, a maker of fiber optic networking equipment, estimated that the move would reduce costs by $50 million while allowing the two independent companies sharpen their focus.",positive,0.8441497087478638
+2014-09-10,JDS Uniphase to Split Into 2 Companies,neutral,-0.04299754649400711
+2014-09-15,"The deal would bolster Orange’s business in Spain, where it is the third-largest wireless provider behind Telefónica and Vodafone Group of Britain.",positive,0.9288579821586609
+2014-09-15,Orange Offers to Acquire Spanish Rival for $4.4 Billion,neutral,0.1520180106163025
+2014-09-16,"Unencumbered by costly litigation, which was filed by some of Wall Street’s top trade groups, the Commodity Futures Trading Commission is now able to reach far beyond American shores in its oversight.",positive,0.6065892577171326
+2014-09-16,Federal Judge Upholds U.S. Effort to Regulate Overseas Trading,neutral,0.002845078706741333
+2014-09-17,"Peter Thiel, the prominent venture capitalist, found a particularly colorful way to phrase his criticism Twitter’s management, and had some choice words for the operations at Uber as well.",neutral,0.10762877762317657
+2014-09-17,Peter Thiel Mocks ‘Pot-Smoking’ Twitter Management,negative,-0.5452266931533813
+2014-09-18,"Home Depot confirmed on Thursday that 56 million cardholders’ account information had been compromised in a five-month cyberattack, making the breach the largest known attack on a retailer.",negative,-0.9103928804397583
+2014-09-18,Home Depot Says Data From 56 Million Cards Was Taken in Breach,neutral,0.038494616746902466
+2014-09-23,The 8 p.m. hour of television on Monday night attracted about 50 million viewers on the four broadcast networks.,neutral,0.15072722733020782
+2014-09-23,Fall Television Season Opens With Strong Ratings,positive,0.9144270420074463
+2014-09-24,"The grocer raised $160 million in its initial stock offering after pricing its shares at $12 each, at the lower end of its expected price range of $12 to $14 a share.",positive,0.5705865025520325
+2014-09-24,"Shares of Smart & Final, Discount Supermarket Chain, End Flat on First Day",negative,-0.9172003865242004
+2014-09-25,"The St. Joe Company, a Florida real estate firm, has declined to participate in a $400 million loan to the hedge fund that runs Sears Holdings.",negative,-0.5052560567855835
+2014-09-25,But the hedge fund said its loan commitment to Sears stands.,positive,0.5299053192138672
+2014-09-25,Lampert’s Hedge Fund Loses Participant in Loan to Sears,negative,-0.8935576677322388
+2014-09-26,"As Yahoo tries to figure out what to do after raising $6 billion from its stake in the Alibaba Group, a prominent investor, Starboard Value, has emerged to offer some suggestions — including buying AOL.",neutral,0.10785137116909027
+2014-09-26,Activist Hedge Fund Pushes Yahoo to Weigh a Deal With AOL,negative,-0.7395997643470764
+2014-09-29,"Judge Thomas P. Griesa of Federal District Court in Manhattan stopped short of issuing sanctions, saying he would make a decision about them in the future.",neutral,-0.3768009543418884
+2014-09-29,Judge Holds Argentina in Contempt of Court in Bond Payment Case,negative,-0.8702208995819092
+2014-09-30,"In an apparent first for the S.E.C., the agency built the case on the premise that a hedge fund’s private investment playbook amounted to inside information.",neutral,0.016345679759979248
+2014-09-30,Insider Case by S.E.C.,negative,-0.7334712743759155
+2014-09-30,Is a Step Removed From Herbalife Itself,neutral,-0.09750430285930634
+2014-10-01,A federal appeals court rejected arguments that New York State’s top financial regulator lacked jurisdiction.,negative,-0.8140450119972229
+2014-10-01,Appeals Court Rejects Claims by American Indian Payday Lenders,neutral,-0.3630250096321106
+2014-10-02,"Berkshire Hathaway is buying the Van Tuyl Group, the country’s fifth-biggest auto dealership by sales and the biggest that is privately held.",neutral,0.07407191395759583
+2014-10-02,"Buffett to Buy the Van Tuyl Group, a Car Dealership",neutral,0.035956159234046936
+2014-10-03,"Jesse C. Litvak had been one of the few people convicted of fraud over the bailout of Wall Street, but an appeals court suggested that his conviction was “likely” to be overturned.",negative,-0.732337474822998
+2014-10-03,Former Jefferies Trader Can Remain Free While Appealing Conviction,neutral,-0.009422600269317627
+2014-10-06,"Mr. Macron, the new economy minister, is a pro-business technocrat bent on rewriting the French social contract.",neutral,0.02735394798219204
+2014-10-06,"Emmanuel Macron, Face of France’s New Socialism",neutral,0.0807582437992096
+2014-10-07,"Timothy F. Geithner, the former Treasury secretary, was a witness in the trial of a lawsuit over the department’s role in the bailout of A.I.G.",neutral,-0.40941131114959717
+2014-10-07,"His book was under scrutiny, too.",negative,-0.5949803590774536
+2014-10-07,A.I.G.,neutral,0.045108746737241745
+2014-10-07,"Trial Puts Geithner, and His Book, on Hot Seat",negative,-0.690259575843811
+2014-10-08,"“The world was so fragile and the consequences of A.I.G.’s failure were so great,” Mr. Geithner testified, that “I was very confident” the government had the authority to step in.",neutral,0.4534837007522583
+2014-10-08,Geithner Testifies That Government Had Right to Act to Avert A.I.G.,neutral,0.21091051399707794
+2014-10-08,Bankruptcy,neutral,0.027305305004119873
+2014-10-09,"Symantec, with a current market value of more than $16 billion, will become two publicly traded companies — one focused on security, and one focused on information management.",neutral,0.08105727285146713
+2014-10-09,Symantec to Split Security and Information Divisions,neutral,-0.022455962374806404
+2014-10-10,"After pricing at the bottom of an expected range of $16 to $18, the stock traded as high as $18.43 a share before ending the day at $17.28.",neutral,-0.0014488250017166138
+2014-10-10,Dave & Buster’s Rises in Trading Debut,positive,0.39751893281936646
+2014-10-13,"The French telecommunications company ended its pursuit, despite having increased the size of the stake it was willing to acquire and the price it was willing to pay.",positive,0.5645476579666138
+2014-10-13,"Tired of Being Rebuffed, France’s Iliad Ends Bid for T-Mobile US",negative,-0.31366878747940063
+2014-10-14,"Recent shake-ups at Darden Restaurants and Hewlett-Packard show that the easiest corporate response is to give in, Steven Davidoff Solomon writes in the Deal Professor column.",neutral,-0.3186735212802887
+2014-10-14,"As Activist Investors Gain Strength, Boards Surrender to Demands",neutral,-0.05366091430187225
+2014-10-15,"Dizzied by the turmoil, Wall Street experts agreed on one thing: The jarring day showed that fear had finally returned to markets that had become disconcertingly complacent.",negative,-0.3827599287033081
+2014-10-15,Steep Sell-Off Spreads Fear to Wall Street,negative,-0.6198982000350952
+2014-10-16,"The United States market ended virtually flat on Thursday, after recovering from early losses — a steadying that came as a relief after a tumultuous day on world markets on Wednesday.",negative,-0.9579524397850037
+2014-10-16,"Calm Returns to Wall St., but Europe Remains a Worry",negative,-0.38596898317337036
+2014-10-17,"Even as the firm shifts toward wealth management, revenue gains from trading and merger advising help drive a strong third quarter.",positive,0.9253427982330322
+2014-10-17,Morgan Stanley Profit Tops Forecasts,positive,0.2470816671848297
+2014-10-19,"Day 1 of the New York Times crossword puzzle contest, featuring puzzles by Patrick Blindauer.",neutral,0.019144708290696144
+2014-10-19,Midnight,neutral,0.019575610756874084
+2014-10-21,Spend some more TIME with Patrick Blindauer.,neutral,0.03875596821308136
+2014-10-21,Alternative Version of a Song,neutral,-0.01459476351737976
+2014-10-22,"Day 3 of the New York Times crossword puzzle contest, featuring puzzles by Patrick Blindauer.",neutral,0.020534107461571693
+2014-10-22,Fjord Explorers,neutral,0.0815802663564682
+2014-10-23,"Day 4 of the New York Times crossword puzzle contest, with puzzles by Patrick Blindauer.",neutral,0.012930743396282196
+2014-10-23,Where the Ball Drops,neutral,0.008359864354133606
+2014-10-24,"Day 5 of the New York Times crossword puzzle contest, with puzzles by Patrick Blindauer.",neutral,0.010734913870692253
+2014-10-24,They Think They’re Special,neutral,-0.03050929307937622
+2014-10-25,The final puzzle in the 2014 New York Times crossword puzzle contest.,neutral,0.045887310057878494
+2014-10-25,Can you solve the meta-challenge?,neutral,0.07363847643136978
+2014-10-25,They Come and Go,neutral,0.03879641368985176
+2014-11-03,"“Masterpiece,” the 43-year-old English drama franchise, is capitalizing on the runaway success of “Downton Abbey” by adding new shows and more airtime early next year.",positive,0.8515344262123108
+2014-11-03,‘Masterpiece’ Franchise on PBS Is Adding Broadcasts,neutral,0.37513336539268494
+2014-12-02,The freewheeling social network intends to make it easier to report abuse and harassment that occurs on the service.,neutral,0.03130505234003067
+2014-12-02,Twitter Improves Tools for Users to Report Harassment,positive,0.8956050276756287
+2014-12-25,The film had improbably become a symbol of free speech over the last week as hackers managed to get it withdrawn from theaters and then watched it open after all.,negative,-0.7854809165000916
+2014-12-25,Crowds Gather as ‘The Interview’ Begins Screening in 331 Theaters,neutral,0.06549016386270523
+2015-02-04,"Regulators shot down a combination of Staples and Office Depot about 18 years ago, but since then, the competitive landscape has changed, with both companies now facing rivals in Walmart, Target, Amazon and others.",neutral,-0.16107819974422455
+2015-02-04,Staples and Office Depot Say a Merger Will Keep Them Competitive,neutral,0.29479771852493286
+2015-02-20,"The change is a strategy shift at MSNBC, which long has filled its schedule with left-leaning political commentary and now is moving toward straight news from 9 a.m. until 3 p.m.",neutral,0.19606633484363556
+2015-02-20,MSNBC Removes Two Hosts to Focus on Straight News,neutral,-0.2633205056190491
+2015-03-10,The demand has created an unusually close partnership between the Gulf Coast energy industry and community colleges to train people for disappearing skills.,positive,0.6951335072517395
+2015-03-10,"As Demand for Welders Resurges, Community Colleges Offer Classes",neutral,0.020700473338365555
+2015-04-30,The seven-day curfew that requires residents to stay off the streets from 10 p.m. to 5 a.m. is a potential economic disaster for local business owners that rely on nighttime customers.,negative,-0.9135685563087463
+2015-04-30,Empty Streets New Threat to Businesses in Baltimore,negative,-0.7280561327934265
+2015-05-22,Philip Morris International and British American Tobacco say a planned ban on colorfully branded cigarette boxes would unlawfully curtail business.,negative,-0.9327431917190552
+2015-05-22,Tobacco Giants Sue Britain Over Rules on Plain Packaging,negative,-0.8214427828788757
+2015-07-01,"Four executives of leading health care organizations are members of the board of the U.S. Chamber of Commerce, which is engaged in a worldwide campaign to thwart antismoking laws.",neutral,-0.015548545867204666
+2015-07-01,U.S. Chamber Fights Smoking Laws While Hospitals and Insurers Sit on Its Board,neutral,-0.253103107213974
+2015-07-17,"Erasing student loans requires proof that paying the debt would cause “undue hardship,” and some judges think the rigid standard should be reconsidered.",neutral,-0.11986898630857468
+2015-07-17,Judges Rebuke Limits on Wiping Out Student Loan Debt,negative,-0.6455138325691223
+2015-07-31,"The more time we spend swimming in digital waters, the shallower our cognitive capacity becomes and the less control we have of our attention.",negative,-0.6417487859725952
+2015-07-31,Struggling to Disconnect From Our Digital Lives,neutral,-0.2716898024082184
+2015-09-13,Zhouqin Burnikel tops off our solving week in a royal way.,positive,0.8660292625427246
+2015-09-13,Royal Topper,neutral,0.03838436305522919
+2015-10-02,"The tobacco provision remains tentative, but its inclusion in the Trans-Pacific Partnership negotiations would be a major victory for public-health advocates.",positive,0.8334874510765076
+2015-10-02,U.S. Proposes Provision on Tobacco in Trade Pact,neutral,0.14757345616817474
+2015-10-07,The United Automobile Workers told Fiat Chrysler Automobiles that it would strike at 11:59 p.m. Wednesday if a new contract deal was not reached.,negative,-0.9102586507797241
+2015-10-07,U.A.W.,neutral,0.046109266579151154
+2015-10-07,Warns Fiat Chrysler to Make Deal or Face Strike,negative,-0.2999448776245117
+2015-11-02,AmSurg retracted its cash-and-stock offer after TeamHealth said the new bid still undervalued the company.,negative,-0.943877100944519
+2015-11-02,AmSurg Withdraws $7.6 Billion Takeover Offer for TeamHealth,negative,-0.654066801071167
+2015-11-09,"The retailer will open at 6 p.m. on Thanksgiving Day for the second year, the first time in years that it did not move up its opening times.",neutral,0.1366683691740036
+2015-11-09,Target Keeps Thanksgiving Opening at 6 p.m. on the Holiday,neutral,-0.024929841980338097
+2015-12-04,"Reporters and editors have honed the response to violent attacks, but despite familiar angles and sources, the tragedies are never routine.",neutral,0.0002375394105911255
+2015-12-04,A Grim News Playbook in Repeated Mass Killings,neutral,-0.3052704632282257
+2015-12-07,"“With All Due Respect” will also be shown on MSNBC, weeknights at 6 p.m.",neutral,0.0420229434967041
+2015-12-07,MSNBC to Add Bloomberg TV Political Show,neutral,0.01318918913602829
+2015-12-24,"Two weeks after the Republican megadonor Sheldon Adelson purchased the Las Vegas newspaper, its top editor resigned.",negative,-0.7023079991340637
+2015-12-24,The Las Vegas Review-Journal Is in Upheaval After a Sale to Adelson,negative,-0.8759364485740662
+2016-02-12,Catching up with Brandon Hensley.,neutral,0.0980120524764061
+2016-02-12,Just Right for Habitable Planets,neutral,0.1463838517665863
+2016-02-22,The Federal Communications Commission is expected to vote soon on a plan that could add subsidies for broadband Internet services in low-income homes.,positive,0.5673243403434753
+2016-02-22,Bridging a Digital Divide That Leaves Schoolchildren Behind,negative,-0.3050769567489624
+2016-04-06,Timothy Polin asks an important question.,neutral,-0.012919314205646515
+2016-04-06,What Is It?,neutral,-0.17269182205200195
+2016-04-30,"Mr. Kives’s company, K-tel, saturated airwaves for decades with ads for gadgets like the Veg-O-Matic and compilation albums like “Hit Machine.”",neutral,0.022207297384738922
+2016-04-30,"Philip Kives, Pitchman Who Perfected ‘As Seen on TV’ Infomercials, Dies at 87",neutral,-0.11447982490062714
+2016-05-20,Friday liveliness with Kristian House.,neutral,0.08896022289991379
+2016-05-20,Where the Rubber Meets the Road,neutral,-0.0912461206316948
+2016-06-25,The return of Kameron Austin Collins.,neutral,0.11766444146633148
+2016-06-25,Point of Computer Technology,neutral,0.023784667253494263
+2016-08-08,A cascade of delayed and canceled flights on Monday was the latest example of how a failure in an airline’s system can have catastrophic effects.,negative,-0.8723215460777283
+2016-08-08,Delta Malfunction on Land Keeps a Fleet of Planes From the Sky,negative,-0.7994722127914429
+2016-10-26,An election show streaming on Facebook Live is fueling speculation that Donald J. Trump is laying the groundwork for a media empire to come.,neutral,0.11858654767274857
+2016-10-26,Trump TV Offers (Fledgling) Framework for Potential Media Future,positive,0.6443526744842529
+2016-11-06,"Proposition 56 would tax e-cigarettes in the state for the first time, despite evidence suggesting e-cigarettes are less harmful and may help people quit smoking.",neutral,0.4419529438018799
+2016-11-06,Who Wins if California Voters Tax E-Cigarettes?,neutral,0.028595559298992157
+2016-11-09,"Twitter exploded into activity as the voting started, and by 9 p.m. had exceeded the 31 million posts sent on Election Day 2012.",positive,0.6908103227615356
+2016-11-09,"For Election Day Influence, Twitter Ruled Social Media",neutral,-0.1618911474943161

@@ -1,0 +1,175 @@
+Date,Sentence,Prediction,sentimentScore
+2014-01-06,"Carlos Menendez of MasterCard cuts it close on his way to the gate, and he once helped calm a woman shouting in Portuguese that the plane would crash.",negative,-0.6361658573150635
+2014-01-06,Translating a Fellow Passenger’s Vision of Doom,neutral,0.04480777680873871
+2014-01-14,"Joe Tsai holds the keys to what will most likely be the largest initial public offering of this generation — Alibaba, the Chinese e-commerce giant.",neutral,0.2753656208515167
+2014-01-14,The Man Behind Alibaba’s Eventual I.P.O.,neutral,0.05182386934757233
+2014-01-24,"In a panel discussion at the World Economic Forum on Friday, the top executives of MasterCard and the Western Union Company spoke about the escalating battle to keep financial transaction systems secure.",neutral,-0.196112722158432
+2014-01-24,Financial Companies in ‘Street Fight’ With Cybercriminals,negative,-0.7551283836364746
+2014-01-28,Alibaba’s acquisition of a sleepy technology company set of a flurry of speculation.,neutral,-0.0036300495266914368
+2014-01-28,"After Alibaba’s public debut, scrutiny of its deals will only intensify, the Deal Professor writes.",neutral,0.028945647180080414
+2014-01-28,Answers to a Puzzling Deal at Alibaba Remain in the Shadows,neutral,-0.3949723541736603
+2014-03-07,First American Bank in Chicago got publicity but little satisfaction after it identified a source of debit card theft and tried to stop it.,negative,-0.9145879149436951
+2014-03-07,"After Debit Card Fraud, a Chicago Bank Feels Its Customers’ Frustration",negative,-0.8903694152832031
+2014-03-10,"The Chinese Internet company said it would pay $215 million for a 15 percent stake in JD.com as the two firms seek to challenge the dominance of Alibaba, China’s largest e-commerce company.",positive,0.7095247507095337
+2014-03-10,China’s Tencent to Buy Stake in JD.com as Part of E-Commerce Push,neutral,0.1375969797372818
+2014-03-12,"Shares in a Hong Kong media group began to rally well before the announcement that Alibaba, the Chinese e-commerce giant, had reached an $804 million deal to buy control of the company.",positive,0.7903208136558533
+2014-03-12,Shares in a Media Group Soar Well Before Alibaba Makes a Deal,positive,0.3510587215423584
+2014-03-13,"Investors may be betting that Alibaba will move into digital entertainment, but they are too easily excited, contends Robyn Mak of Reuters Breakingviews.",neutral,-0.00766386091709137
+2014-03-13,Star-Struck by Alibaba’s Movie Company Deal,neutral,0.4122700095176697
+2014-03-16,"In a post on its corporate blog, the company said it plans to list on an American stock market to become “a more global company.”",neutral,0.3665745258331299
+2014-03-16,Alibaba Confirms It Will Begin I.P.O.,neutral,0.0754157155752182
+2014-03-16,Process in U.S.,neutral,0.01532105915248394
+2014-04-01,"Efforts to increase card security have long been underway, but recent hacking incidents at Target, Neiman Marcus and Michaels have added urgency to strengthening safeguards using smart chips and advanced computer programming.",positive,0.8448305726051331
+2014-04-01,"The Credit Card of Tomorrow: Software, Not Plastic",neutral,0.004280120134353638
+2014-04-09,The e-commerce company is lending one of its founders $1 billion to invest in a digital-TV company.,neutral,0.21144826710224152
+2014-04-09,"The three-way deal, says John Foley of Reuters Breakingviews, offers a glimpse of the way company insiders mix public and private interests.",neutral,0.11344850808382034
+2014-04-09,Alibaba’s Deal-Making Raises a Red Flag,negative,-0.8213016390800476
+2014-04-15,"After Hong Kong loses Alibaba’s initial public offering, a survey shows that more than 90 percent of respondents oppose allowing partnership control structures like Alibaba’s in Hong Kong.",negative,-0.8678848743438721
+2014-04-15,Hong Kong I.P.O.,neutral,0.04135749489068985
+2014-04-15,"Structure Is Fine as Is, Investor Survey Finds",positive,0.49957525730133057
+2014-04-28,The e-commerce giant’s deal for a minority stake in Youku Tudou extends a recent frenzy of acquisitions in China’s fast-growing technology sector.,positive,0.9067599177360535
+2014-04-28,Alibaba Buys Stake in Chinese Web TV Company for $1.2 Billion,neutral,0.13989511132240295
+2014-04-29,"Such paydays illustrate that it is often good fortune rather than individual performance that account for the bulk of executive pay, Steven Davidoff writes in the Deal Professor column.",neutral,0.038486190140247345
+2014-04-29,Yahoo Chief’s Pay Tied to Another Company’s Performance,negative,-0.568065881729126
+2014-04-30,"While the Silicon Valley elite may not seem to care about the coming stock offering, it could signal the start of a global fight for users.",negative,-0.7637115716934204
+2014-04-30,Alibaba I.P.O.,neutral,0.05655376613140106
+2014-04-30,May Unleash Global Fight Over Users,neutral,-0.06296119093894958
+2014-05-01,"The Chinese e-commerce giant, which is on the cusp of going public in the United States, is in talks about regaining a stake in its Alipay payment affiliate, a person briefed on the matter said.",neutral,0.1410370171070099
+2014-05-01,Alibaba Said to Be in Talks to Regain Stake in Alipay,neutral,0.10232850164175034
+2014-05-06,"When investors buy shares in an American offering of Alibaba, what exactly will they be buying?",neutral,0.021617580205202103
+2014-05-06,asks Steven M. Davidoff in the Deal Professor column.,neutral,0.022989589720964432
+2014-05-06,Alibaba Investors Will Buy a Risky Corporate Structure,neutral,-0.11449616402387619
+2014-05-07,Jack Ma began his career as an English teacher.,neutral,-0.0189136303961277
+2014-05-07,"Today, two of his websites account for more than half of the packages shipped through China’s postal system.",neutral,0.02866319939494133
+2014-05-07,"The Unlikely Ascent of Jack Ma, Alibaba’s Founder",neutral,0.06826301664113998
+2014-05-08,Alibaba wants to insert itself at the center of an already expanding market being forged by powerful economic and cultural forces.,positive,0.5992181301116943
+2014-05-08,"Daily Report: In I.P.O., Alibaba Wagers on a Growing Market: China",neutral,0.3944759964942932
+2014-05-18,A hacking of customer data at Target has intensified the pace of changing the way Americans pay for goods.,positive,0.6534146666526794
+2014-05-18,Cashless Customers Hold Riches for Retailers,neutral,-0.3033962845802307
+2014-06-05,The e-commerce giant Alibaba said on Thursday that it would buy 50 percent of Guangzhou Evergrande F.C.,neutral,0.11260368674993515
+2014-06-05,"from the team’s parent company, the Evergrande Real Estate Group.",neutral,0.03955402970314026
+2014-06-05,Alibaba to Take Stake in Chinese Soccer Team,neutral,0.027618039399385452
+2014-06-06,"The $192 million investment in Guangzhou Evergrande is the latest example of Alibaba’s scattershot approach to deal-making, writes Peter Thal Larsen of Reuters Breakingviews.",neutral,0.1589115560054779
+2014-06-06,What a Soccer Deal Says About Alibaba,neutral,0.05369875207543373
+2014-06-11,"The Chinese e-commerce giant, continuing an acquisition spree before its initial public offering, forms closer ties to a potentially important partner in the mobile sector.",positive,0.8636369109153748
+2014-06-11,Alibaba Buys Rest of the Mobile Browser UCWeb,neutral,0.06371188908815384
+2014-06-16,Alibaba unveils the 27 individuals in its controlling partnership.,neutral,0.04794831573963165
+2014-06-16,| A rival offer is expected to challenge G.E.’s bid for Alstom.,positive,0.5750726461410522
+2014-06-16,| A bank account screening tool is under regulatory scrutiny.,neutral,-0.2010626196861267
+2014-06-16,| Medtronic has agreed to buy Covidien.,neutral,0.3325870931148529
+2014-06-16,Morning Agenda: Alibaba’s Inner Circle Revealed,neutral,0.031337667256593704
+2014-07-09,"Nobody in the company, myself included, has had a minute of management training.",neutral,-0.012827571481466293
+2014-07-09,"We all come from small, struggling companies where management training and human resources departments are unheard of, where even something as basic as an employee manual is unusual.",negative,-0.7085212469100952
+2014-07-09,What I Learned From Firing My Employee of 20 Years,negative,-0.41426995396614075
+2014-07-16,"In a Q. and A., Porter Erisman, a former Alibaba vice president who made a documentary about the company, discusses life at Alibaba’s early days and working with Jack Ma.",neutral,0.0061496552079916
+2014-07-16,A Westerner’s Inside View of Alibaba Successes and Failures,neutral,0.10671408474445343
+2014-07-21,Alibaba’s founder will continue to exert near-total control of the Chinese e-commerce giant even after its I.P.O.,neutral,0.03586658835411072
+2014-07-21,Can shareholders trust him to act in their interest?,neutral,0.0740826427936554
+2014-07-21,"Up to a point, says John Foley of Reuters Breakingviews.",neutral,0.2335411012172699
+2014-07-21,"For Alibaba Investors, the Benefits and Risks of Trusting Jack Ma",neutral,0.10376827418804169
+2014-08-03,Mr. Homm is accused of buying and selling lightly traded shares among entities he controlled in a practice known as portfolio pumping.,neutral,-0.3025956451892853
+2014-08-03,"Authorities say his goal was to artificially inflate the value of the hedge fund he managed, Absolute Capital Management Holdings Ltd.",negative,-0.7542610764503479
+2014-08-03,Florian Homm Wanted by the F.B.I.,negative,-0.406350702047348
+2014-08-12,The Chinese e-commerce behemoth discloses that it has reworked its bonds with its online payments affiliate — and should be reaping more money from that relationship in the future.,positive,0.5719470977783203
+2014-08-12,Alibaba Aims to Collect More Money From Its Payments Affiliate,neutral,0.21541373431682587
+2014-08-13,Alibaba has rejiggered relations with its Alipay affiliate weeks before its planned initial public offering.,positive,0.5261224508285522
+2014-08-13,"The move reduces the risk of regulatory interference, Peter Thal Larsen of Reuters Breakingviews writes.",positive,0.8564011454582214
+2014-08-13,Alibaba Aims for a Neater I.P.O.,neutral,0.3150804936885834
+2014-08-15,"After the discovery of suspicious accounting at a film affiliate, investors in Alibaba’s initial public offering may be less confident about the company’s investment binge, writes John Foley of Reuters Breakingviews.",negative,-0.922162652015686
+2014-08-15,Alibaba’s Deal Spree Turns From Romance to Thriller,neutral,0.06354468315839767
+2014-09-02,Peter Thal Larsen of Reuters Breakingviews offers a guide for how fund managers can evaluate Alibaba as the company kicks off the roadshow for its long-awaited initial public offering.,neutral,0.043431270867586136
+2014-09-02,Six Steps in Alibaba’s 12-Figure Valuation,neutral,0.06156068667769432
+2014-09-05,"The company, which runs two huge online marketplaces in China, plans to kick off a long-awaited roadshow for potential investors on Monday.",neutral,0.07338462024927139
+2014-09-05,As Its I.P.O.,neutral,0.041941020637750626
+2014-09-05,"Nears, Alibaba Gets Ready for a Splashy Debut",neutral,0.06344860792160034
+2014-09-06,"Alibaba, started by Jack Ma in 1999, is about to sell shares in the United States that could value the company at about $160 billion.",neutral,0.05038497969508171
+2014-09-06,The Jack Ma Way,neutral,-0.0014163553714752197
+2014-09-09,"On Monday, potential investors gathered for the first big marketing pitch for Alibaba’s initial public offering.",neutral,0.350427508354187
+2014-09-09,Alibaba Begins Wooing Wall Street,neutral,0.10591918230056763
+2014-09-12,The eagerness of banks and card companies to work with Apple on its mobile payment system suggests Apple’s clout and the concern financial players have for their future.,positive,0.7004575729370117
+2014-09-12,Banks Did It Apple’s Way in Payments by Mobile,neutral,-0.01476982980966568
+2014-09-15,"Jack Ma, the founder, told prospective investors in Hong Kong to “think about us just like any other Internet company that happens to be in China,” according to one attendee.",neutral,0.06395834684371948
+2014-09-15,"Alibaba Markets Its Shares in Hong Kong, a City That Turned Away the I.P.O.",negative,-0.4429764747619629
+2014-09-16,"As Alibaba readies to go public, it is important for public investors to be aware of serious corporate governance issues involving the company, Lucian Bebchuk writes in Another View.",neutral,0.3923039436340332
+2014-09-16,Alibaba’s Governance Leaves Investors at a Disadvantage,negative,-0.6095601916313171
+2014-09-18,Investors flocked to buy a piece of the company that is poised to continue dominating China’s burgeoning e-commerce industry.,positive,0.767629086971283
+2014-09-18,Alibaba Raises $21.8 Billion in Initial Public Offering,neutral,0.09701848775148392
+2014-09-19,"What excites investors in Alibaba isn’t just its size, but its prospects of getting bigger.",neutral,0.2581512928009033
+2014-09-19,But is it reasonable to assume its dominance will persist?,neutral,0.01071092113852501
+2014-09-19,Thinking Twice on Alibaba,neutral,-0.1679399013519287
+2014-09-20,"The Chinese Internet giant, which raised $21.8 billion in its stock sale, instantly became one of the biggest publicly traded technology companies in the world.",positive,0.7928974032402039
+2014-09-20,A Soaring Debut for Alibaba,neutral,0.31915923953056335
+2014-09-22,"Alibaba’s founder spoke of building his company and creating jobs, Bill George writes in an Another View column.",neutral,0.3126048445701599
+2014-09-22,"“They call me ‘Crazy Jack,’” Mr. Ma said.",neutral,-0.2548852860927582
+2014-09-22,“I hope to stay crazy for the next 30 years.”,neutral,-0.08457241952419281
+2014-09-22,"Jack Ma on Alibaba, Entrepreneurs and the Role of Handstands",neutral,-0.009686926379799843
+2014-09-26,"Benefits like car rental insurance and replacement of damaged goods are available through many credit cards, but holders have to do the research.",neutral,0.03063102625310421
+2014-09-26,Lesser-Known Credit Card Perks Hide in Plain Sight,neutral,-0.2097465991973877
+2014-10-31,"As China’s Internet czar, Lu Wei has spoken out on rules for regulating smartphones and about taking on foreign Internet companies.",neutral,0.08992674201726913
+2014-10-31,"In China, Internet Czar Is Taking a Blunt Tone",negative,-0.4503220021724701
+2014-11-21,"Investors in Alibaba can’t reliably estimate the worth of the finance arm Ant Financial, writes John Foley in Reuters Breakingviews.",negative,-0.8479233980178833
+2014-11-21,"Alibaba’s Finance Arm, Ant Financial, Is a Mystery to Most Investors",neutral,-0.31624147295951843
+2014-12-07,The magazine and cosmetics company are paying more than $2 million to sponsor of the New Year’s Eve celebration in Times Square.,neutral,0.11043806374073029
+2014-12-07,Cosmo and CoverGirl Will Unite to Ring in 2015 in Times Square,neutral,0.2024657428264618
+2014-12-30,Toasting and roasting the guests we’d like to invite for our annual DealBook “Closing Dinner.”,neutral,0.04230968654155731
+2014-12-30,"Gathering Bedfellows, Odd and Otherwise, for Auld Lang Syne",neutral,0.022746719419956207
+2015-01-08,"Rather than play defense, financial services firms are taking time to engage engaging their rivals, as disruptive businesses are being taken more seriously.",neutral,-0.22776472568511963
+2015-01-08,"Challenged by Upstarts, Lenders Try New Strategy: Cooperation",neutral,0.13956214487552643
+2015-01-28,Sesame Credit Management will use data on online spending habits to try make credit more easily available to millions of consumers across China.,neutral,0.23603041470050812
+2015-01-28,Alibaba Data to Help Provide Consumer Credit Ratings,neutral,0.042666997760534286
+2015-01-29,"Alibaba’s run-in with a Chinese regulator serves as a reminder that there is no such thing as a good relationship with China’s government, John Foley of Reuters Breakingviews writes.",positive,0.376070111989975
+2015-01-29,Alibaba’s Lesson in Government Relations,neutral,0.06987355649471283
+2015-01-31,"Two days after a government regulator harshly criticized the company, the two showed signs of moving quickly to cooperate.",positive,0.7327988743782043
+2015-01-31,Chinese Agency Softens Criticism of Alibaba on Sales of Fake Goods,negative,-0.855640709400177
+2015-02-13,Severing an exclusive deal with the warehouse retailer has swiped some $8 billion in market value from the card company.,negative,-0.16008836030960083
+2015-02-13,"Gains at MasterCard and Visa offset only part of that, note Rob Cox and Stephanie Rogan of Reuters Breakingviews.",positive,0.8332934975624084
+2015-02-13,Costco Customers May Come Out Ahead in Amex Divorce,neutral,0.03309865668416023
+2015-03-25,A federal judge had ruled the credit card company’s practice of banning retailers from encouraging customers to use lower-cost options violated antitrust laws.,negative,-0.8595703840255737
+2015-03-25,Amex to Ask for Stay of Ruling Prohibiting Merchants From Promoting Other Cards,negative,-0.3076806664466858
+2015-05-07,"The Chinese e-commerce giant said its chief operating officer would succeed its chief executive, Jonathan Lu, who will remain on the board.",neutral,0.049521394073963165
+2015-05-07,Alibaba Names New Chief Executive and Reports Revenue Rise,neutral,0.0637018159031868
+2015-07-03,"Auto policies and some credit cards will often cover rentals, but such coverage can come with restrictions.",neutral,-0.020421180874109268
+2015-07-03,Check Insurance Coverage When Renting a Car,neutral,0.02571018598973751
+2015-07-09,The European Commission accused the company of setting artificially high fees for credit card transactions in the Continent.,negative,-0.923762857913971
+2015-07-09,MasterCard Faces Antitrust Charges in E.U.,negative,-0.8676965832710266
+2015-08-05,"Citing “egregious conduct” in text messages and emails between two lawyers, a federal judge scrapped a proposed $75 million settlement between American Express and a group of retailers.",negative,-0.9226850867271423
+2015-08-05,Judge Rejects Settlement in American Express Case,negative,-0.7996914982795715
+2015-08-25,Growth worries have afflicted all technology stocks and Chinese ones in particular.,negative,-0.9297682046890259
+2015-08-25,But Alibaba’s core e-commerce business is still highly valued compared with its rivals.,positive,0.7653788328170776
+2015-08-25,Alibaba’s Stock Still Looks Expensive,neutral,0.0565226674079895
+2015-09-20,The fast-food giant asked companies such as Facebook and MasterCard to provide media access to help the World Food Program respond to a growing crisis.,positive,0.5631940960884094
+2015-09-20,McDonald’s Leads Effort to Promote Migrant Aid,positive,0.603875458240509
+2015-11-24,Negotiations between the chairman of the Chinese Internet giant and owners of The South China Morning Post are raising concerns about media independence.,negative,-0.9166812896728516
+2015-11-24,Jack Ma of Alibaba in Talks to Buy Hong Kong Newspaper,neutral,0.027088113129138947
+2015-12-11,The Chinese Internet giant said the deal was fueled by a desire to improve China’s image and offer an alternative to the biased lens of Western news outlets.,positive,0.8790591955184937
+2015-12-11,"Alibaba Buying South China Morning Post, Aiming to Influence Media",neutral,0.17955461144447327
+2015-12-30,"Ms. Cairns, the president of international markets at MasterCard, says building an effective team requires fostering mutual respect so people feel comfortable challenging each other.",positive,0.7524827718734741
+2015-12-30,Ann Cairns of MasterCard: The Art and Science of Team Chemistry,neutral,0.030604522675275803
+2016-01-14,"As voters chose a new president over the weekend, a rare point of agreement between Taiwan’s fractious political parties was that the tech industry needs help.",positive,0.5894693732261658
+2016-01-14,"In Taiwan, Survivor Mentality Stymies Tech Innovation",negative,-0.9166288375854492
+2016-03-22,"Many complications were widely predicted, but a lag in certifying payment terminals has added an unexpected wrinkle — and lots of finger-pointing.",negative,-0.8866612911224365
+2016-03-22,Chip-Card Payment System Delays Frustrate Retailers,negative,-0.8986615538597107
+2016-04-26,"Ant Financial, one of the world’s largest electronic-payments companies, received investments from a number of companies backed by the Chinese government.",neutral,0.11109044402837753
+2016-04-26,Alibaba Financial Affiliate Raises $4.5 Billion,positive,0.6632602214813232
+2016-05-31,The Japanese telecom said it would sell $8 billion worth of shares to help pay down debt.,positive,0.557792067527771
+2016-05-31,SoftBank to Sell a Stake in Alibaba,neutral,0.02736918069422245
+2016-06-14,The Chinese e-commerce giant for the first time offered earnings guidance for the coming year and said it was altering the way it measures growth.,neutral,0.2409662902355194
+2016-06-14,Alibaba Tries to Shore Up Investors’ Confidence,neutral,0.4203023314476013
+2016-06-28,The inquiry by Senators Sherrod Brown and Robert Menendez follows reports that holders of Walmart MoneyCards were denied access to their accounts.,negative,-0.9106077551841736
+2016-06-28,Senators Press for Answers After Prepaid Debit Cards Fail,neutral,-0.1847836673259735
+2016-06-30,A federal appeals court said the historic settlement was void because the same lawyers represented the retailers and the card processing companies.,negative,-0.8171452879905701
+2016-06-30,MasterCard-Visa Settlement With Retailers Is Overturned,positive,0.7230245471000671
+2016-07-06,"Mr. Hynes, a former MasterCard executive, will take over about nine months after a malfunction that kept cardholders from using their money.",neutral,-0.44030481576919556
+2016-07-06,"UniRush, Owner of RushCard, Names Ron Hynes Chief",neutral,-0.09583541005849838
+2016-07-31,The deal with Caesars Interactive Entertainment is a sign that investors are willing to pay increasingly large sums for smartphone games.,positive,0.8608961701393127
+2016-07-31,Chinese Group to Pay $4.4 Billion for Caesars’ Mobile Games,neutral,0.16053859889507294
+2016-08-01,"Wells Fargo joined three other banks in allowing instant payments, a market that has been taken over by services like Apple Pay and PayPal’s Venmo.",positive,0.6084275245666504
+2016-08-01,"Under Pressure, Big Banks Vie for Instant Payment Market",neutral,0.03972895070910454
+2016-09-02,"Alibaba’s mobile-payment affiliate and a private-equity firm will buy part of Yum’s China unit for a good price, but the deal may also pay off for Yum.",positive,0.7902915477752686
+2016-09-02,Yum Brands in China Adds Owners With Skill and Connections,neutral,0.43157723546028137
+2016-10-26,These bots are generally powered by artificial intelligence software that allows them to pull in data and turn it into comprehensible answers.,neutral,-0.08453413844108582
+2016-10-26,Banks Bet on the Next Big Thing: Financial Chatbots,neutral,0.011434279382228851
+2016-10-27,"Bank of America, MasterCard and some financial start-ups have been trying out chatbots that can initiate transactions and give financial advice.",neutral,0.0025500617921352386
+2016-10-27,"Morning Agenda: Finance Gets Chatty, 2016’s Biggest American I.P.O., EpiPen Rival Returns, Commercials Just for You",neutral,-0.08070971071720123
+2016-11-10,"Friday’s sales day pushes past last year’s total, but the company faces pressure from slowing Chinese growth and an American inquiry into its figures.",negative,-0.9542772769927979
+2016-11-10,"Alibaba, Amid Intense Hype, Confronts a Slowdown on Singles Day",negative,-0.9330430030822754

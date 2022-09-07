@@ -1,0 +1,1366 @@
+Date,Sentence,Prediction,sentimentScore
+2014-01-06,"Samsung Electronics will report its fourth-quarter earnings estimates, the insider trading trial of Mathew Martoma will begin and the European Central Bank will review its monetary policy.",neutral,0.0030735358595848083
+2014-01-06,Economic Reports for the Week of Jan. 6,neutral,-0.17609253525733948
+2014-01-07,"Apple’s iCloud data service works best with Apple’s own devices, but it is possible to make it work with other companies’ hardware.",neutral,0.16688022017478943
+2014-01-07,Taking Along iCloud Calendars,neutral,0.030914675444364548
+2014-01-10,"A summary of differences in the latest Windows upgrade, and how to share files between Apple devices.",neutral,0.023345261812210083
+2014-01-10,"Changes in Windows 8.1, With Skype Replacing Messaging App",neutral,0.04011295735836029
+2014-01-13,"The $3.2 billion deal for Nest Labs, which is led by former Apple engineers, will expand the technology giant’s portfolio of consumer goods.",positive,0.9146906137466431
+2014-01-13,"For Google, a Toehold Into Goods for a Home",neutral,-0.0006994232535362244
+2014-01-14,"Apple is campaigning aggressively against a court-appointed inspector, saying he is intruding on operations.",negative,-0.9025579690933228
+2014-01-14,Secretive Apple Squirms in Gaze of U.S. Monitor,negative,-0.8354713320732117
+2014-01-15,The chairwoman said the F.T.C.,neutral,-0.0019047148525714874
+2014-01-15,settlement was “more robust” and more thorough than an earlier lawsuit settlement.,positive,0.8650789260864258
+2014-01-15,Apple to Refund App Store Purchases Made Without Parental Consent,neutral,-0.014708107337355614
+2014-01-16,"Business officials say advocacy groups often demonize companies unfairly and inaccurately, while the groups question why corporations have attacked such fledgling organizations.",negative,-0.7208332419395447
+2014-01-16,Advocates for Workers Raise the Ire of Business,negative,-0.7241986393928528
+2014-01-17,"Customers were finally able to buy iPhones from China Mobile on Friday, but the turnout was underwhelming in Beijing, even with Apple’s chief on hand.",positive,0.17593783140182495
+2014-01-17,A Muted Beginning to Sales of Apple’s iPhone Through China Mobile,negative,-0.6786379814147949
+2014-01-21,The Stratus game controller from SteelSeries is a stand-alone gadget that connects to mobile devices via Bluetooth.,neutral,0.0014233384281396866
+2014-01-21,A Miniaturized Controller for iOS Games,neutral,0.029444776475429535
+2014-01-22,The activist investor called on eBay to spin off its PayPal business as he nominated two of his employees as candidates for the board.,neutral,-0.32774442434310913
+2014-01-22,Icahn Adds eBay to His Targets in Technology,neutral,0.05808187648653984
+2014-01-24,"A slide in smartphone sales was partly offset by the company’s hold on vital handset components, which are often sold to Apple and other competitors.",negative,-0.9236112833023071
+2014-01-24,Chip Profits Help Soften Other Losses at Samsung,positive,0.5054037570953369
+2014-01-27,Apple’s blockbuster phone sales helped the company post a profit of $13.1 billion on revenue of $57.6 billion.,positive,0.7894368171691895
+2014-01-27,Sales of iPhones Set Record for Quarter: 51 Million,positive,0.4936765134334564
+2014-01-28,"Carl C. Icahn took to his favorite broadcasting tool, Twitter, on Tuesday to disclose that he had purchased an additional $500 million shares in the iPhone maker.",neutral,0.05933310091495514
+2014-01-28,"As Apple Shares Fall, Icahn Plucks More",negative,-0.811351478099823
+2014-01-30,"Plus, working with multiple Apple ID accounts.",neutral,0.06074999272823334
+2014-01-30,Another Option for an Upgrade From Windows XP,neutral,0.12927035987377167
+2014-02-01,"Rising resentment against elite technology firms manifests itself in demonstrations at public bus stops in San Francisco, where private shuttle buses ferry engineers to work.",negative,-0.9220091104507446
+2014-02-01,Tech Rides Are Focus of Hostility in Bay Area,neutral,0.06934364885091782
+2014-02-03,"As tech companies focus on small, wearable devices, they have encountered an obstacle: Battery technology is largely stuck in the 20th century.",negative,-0.6272109150886536
+2014-02-03,Building a Better Battery,neutral,0.26458144187927246
+2014-02-06,"The app, named BlockChain, was one of the last remaining iPhone mobile applications that allowed users to buy and sell Bitcoin.",neutral,-0.01461702398955822
+2014-02-06,Apple Takes Down a Bitcoin App,negative,-0.5579865574836731
+2014-02-07,"Mathew Martoma, the former trader at SAC Capital Advisors, was convicted of insider trading.",negative,-0.8136555552482605
+2014-02-07,| Mr. Martoma’s handling of a years-old episode involving fabrication of documents cast doubt on his trustworthiness and may have hindered a deal with prosecutors.,negative,-0.9544562101364136
+2014-02-07,| Legal troubles are doing little to stem a Bitcoin leader’s exuberance.,negative,-0.8790076971054077
+2014-02-07,| Apple buys $14 billion of its own shares.,neutral,0.06330277025699615
+2014-02-07,A Guilty Verdict for Former SAC Trader,negative,-0.4752229154109955
+2014-02-10,"The activist investor Carl C. Icahn’s six-month campaign for Apple to increase shareholder payouts ended as other major investors voiced opposition, but Mr. Icahn still claimed a victory of sorts.",positive,0.4656067490577698
+2014-02-10,Icahn Ends Call for Apple Stock Buyback,neutral,0.010063745081424713
+2014-02-11,Apple appealed the placement of a monitor to ensure compliance with federal antitrust laws.,neutral,-0.020562902092933655
+2014-02-11,Court Rejects Apple Appeal in E-Book Case,negative,-0.5943299531936646
+2014-02-12,"Game players’ options now include tablets, game-streaming services and controllers that work with televisions.",neutral,0.03536728769540787
+2014-02-12,Challengers Take On the Big Three in Gaming’s Arena,neutral,-0.060760147869586945
+2014-02-13,"Researchers at Gartner said that in 2013, worldwide smartphone sales neared 1 billion units sold and surpassed the sales of feature phones for the first time.",positive,0.8549146056175232
+2014-02-13,Smartphone Sales Beat Feature Phones in 2013,positive,0.04403546452522278
+2014-02-18,"Using a computer without connecting to the Internet, and how two people can watch, and hear, a movie together on an iPad.",neutral,-0.0501277782022953
+2014-02-18,Keeping a Computer Offline,neutral,-0.3620387017726898
+2014-02-19,"A start-up, Caseable, offers easy tools on its website that let customers create cases for devices from Apple, Samsung and others.",neutral,0.014874648302793503
+2014-02-19,A Case That Lets You Be the Designer,neutral,0.056060757488012314
+2014-02-21,"Also, how to change the name of a Wi-Fi network using a Mac.",neutral,0.0008222386240959167
+2014-02-21,Making an Android Tablet Easier to Read,neutral,0.15229471027851105
+2014-02-23,"Joe Belfiore, the corporate vice president of Microsoft Windows Phone, discusses goals for 2014 and the potential upside of the company’s Nokia deal.",neutral,0.08088061958551407
+2014-02-23,Q.&A.,neutral,0.03456166759133339
+2014-02-23,With Joe Belfiore on the Future of Windows Phone,neutral,0.0441402941942215
+2014-02-24,"The companies acquired by Apple in a 15-month period were small and apparently carefully targeted to existing projects, in contrast to the jaw-dropping deals seen among its rivals.",neutral,0.10593058168888092
+2014-02-24,Daily Report: Apple’s Unsplashy Acquisitions Point to Future Plans,neutral,0.4194476902484894
+2014-02-25,The flaw allows a hacker to penetrate communications a user would have believed were safely encrypted.,negative,-0.8154816031455994
+2014-02-25,Apple Issues Fix for Security Problem on Macs,negative,-0.69758141040802
+2014-02-26,"Big phones that blur the line with tablets — known by a somewhat mocking moniker, the “phablet” — can be useful for unifying your activity and communications on one device.",neutral,-0.24676513671875
+2014-02-26,"Phone, Meet Tablet.",neutral,-0.017975110560655594
+2014-02-26,That’s Phabulous.,neutral,0.0038002952933311462
+2014-02-27,"The turn to bigger screens is a sharp departure from the dominant strategy of phone makers just a few years ago, when critics said people would never buy them.",negative,-0.6165882349014282
+2014-02-27,Handset Makers Go Big on Smartphones,neutral,0.04898049309849739
+2014-03-01,"A class-action suit by Silicon Valley engineers against companies including Google, Apple and Intel has revealed details of an agreement among them not to cold-call one another’s employees.",negative,-0.8452702760696411
+2014-03-01,Engineers Allege Hiring Collusion in Silicon Valley,negative,-0.8720155358314514
+2014-03-03,Downloading free apps or other content from Apple’s stores doesn’t require having a credit card on file.,neutral,0.0031825024634599686
+2014-03-03,Bypassing a Credit Card Requirement for Apps,neutral,0.13169769942760468
+2014-03-04,"CarPlay links an Apple 5, 5c or 5s iPhone with the car’s infotainment system, letting the car use Apple’s apps.",neutral,0.011445495299994946
+2014-03-04,Apple’s CarPlay Captivates the Auto Industry,neutral,0.33947932720184326
+2014-03-05,"The executive, Peter Oppenheimer, will be replaced by Luca Maestri, a vice president at the company.",neutral,-0.288218230009079
+2014-03-05,Daily Report: Chief of Finance at Apple to Retire,neutral,-0.1218021810054779
+2014-03-10,"Apple on Monday is set to release its first major update for iOS 7, its new operating system for iPhones and iPads.",neutral,0.13111306726932526
+2014-03-10,"The upgrade improves reliability of the fingerprint sensor in the iPhone 5S and adjusts the way that Siri works, among other changes and fixes.",positive,0.8968254327774048
+2014-03-10,Apple Releases First Big Software Update for iOS 7,neutral,0.18329060077667236
+2014-03-12,"Plus, picking a drive for Apple’s Time Machine.",neutral,0.062247227877378464
+2014-03-12,Transferring Old Palm Desktop Data,neutral,0.019853919744491577
+2014-03-18,"In a pre-emptive move against Apple, Google revealed Android Wear, a version of the Android operating system that is tailored for wearable computers.",neutral,-0.1731651872396469
+2014-03-18,Google Unveils Software for Smartwatches-to-Be,neutral,0.16293232142925262
+2014-03-21,"Plus, printing multiple documents on a Mac without opening each one.",neutral,-0.14950622618198395
+2014-03-21,Digitizing Those Customer Loyalty Cards,neutral,0.07538081705570221
+2014-03-24,"The creators of Nimblstand incorporated a design aspect they call gravity nesting, which allows almost any tablet to fit in the stand.",neutral,0.04296761378645897
+2014-03-24,Easel Turns Tablet Into a Workstation,neutral,-0.0018353462219238281
+2014-03-25,Apple and Amazon customers on Tuesday were notified of opportunities to get some money back as a result of two separate legal settlements with the government.,positive,0.6682257056236267
+2014-03-25,Both cases revolve around Apple.,neutral,-0.012819137424230576
+2014-03-25,"In Two Settlements, Money for Apple and Amazon Customers",neutral,0.08223441243171692
+2014-03-27,"Plus, adding shortcuts to Mac programs not on the dock.",neutral,-0.0035122185945510864
+2014-03-27,Dealing With Unwanted Windows Updates,neutral,-0.10664951801300049
+2014-03-28,"People from Earth’s most remote corners have something in common: They all download apps, interacting with the mobile Internet billions of times a day, and they all feel frustration at slow loads and app crashes.",negative,-0.5558052062988281
+2014-03-28,"A new report shows how much work it is, getting us to this level of frustration.",neutral,0.08593811094760895
+2014-03-28,"Smartphones, the Disappointing Miracle",negative,-0.5245069265365601
+2014-03-29,Moves by older incumbents and young giants show that 2014 is the year computing everywhere comes into its own.,neutral,0.09455790370702744
+2014-03-29,Now it’s time for big development.,neutral,0.21345868706703186
+2014-03-29,Looking for the next frontier?,neutral,0.007038414478302002
+2014-03-29,"There was plenty of that, too.",neutral,0.061224084347486496
+2014-03-29,Cloud Computing’s Watershed Week,neutral,0.31747883558273315
+2014-03-31,A court battle between Apple and Samsung over patents could have a bigger effect on Google’s Android operating system.,negative,-0.8903610706329346
+2014-03-31,Daily Report: Apple-Samsung Patent Face-Off Has Google in Crossfire,negative,-0.933479368686676
+2014-04-01,"Companies like Google, Amazon, PayPal and Apple are looking for the route to dominance over future alternatives, both real-world and virtual, to cash and credit cards.",neutral,0.45231834053993225
+2014-04-01,Tech Titans Are Vying to Be Your Pocketbook,neutral,0.03621435910463333
+2014-04-02,"Apple’s suit against Samsung can be seen as a reprisal of an earlier lawsuit between the two companies, only this time with Google as a shadow third presence.",negative,-0.42653441429138184
+2014-04-02,Daily Report: Old Rivalry Aired Again in Patent Case Between Apple and Samsung,positive,0.13991710543632507
+2014-04-04,"As a patent trial continued, Samsung’s lawyers showed internal Apple documents to paint a picture of Apple as a fading brand, concerned about its future after Samsung entered the handset market.",negative,-0.8898965716362
+2014-04-04,Apple and Samsung Fight Over Who Was the Follower,negative,-0.8632364273071289
+2014-04-06,The maker of iPads and iPhones has a problem that anyone would like to have: What to do with a vast amount of cash.,negative,-0.46255582571029663
+2014-04-06,Apple’s Deep Pockets: What $159 Billion Could Do,neutral,0.021573834121227264
+2014-04-07,"Plus, how to unlock a stuck iPhone screen.",neutral,0.02997887134552002
+2014-04-07,Using iTunes on a Windows Tablet,neutral,-0.0924089103937149
+2014-04-08,"In papers relating to its proposed merger with Time Warner Cable, the company gives a nod to a future Apple set-top box, even though Apple hasn’t introduced one yet.",neutral,0.30182531476020813
+2014-04-08,Comcast Gives a Nod to a Future Apple Set-Top Box,neutral,0.37819457054138184
+2014-04-09,Readers offer a wide range of suggestions for how Apple could spend the $159 billion in cash it has on hand.,neutral,0.030400358140468597
+2014-04-09,Readers Respond: How Should Apple Spend Its Billions?,neutral,0.0004436857998371124
+2014-04-11,"Andrew “Weev” Auernheimer had been sentenced to 41 months in prison for breaching AT&T’s security and obtaining 114,000 email addresses in 2010 before a federal judge threw out the case on Friday.",negative,-0.7791061401367188
+2014-04-11,Appeals Court Overturns Conviction of AT&T Hacker Known as ‘Weev’,negative,-0.774472713470459
+2014-04-12,"Google is not officially a defendant in this case, but most of Samsung’s phones include Android, and some of the Apple patents involve features that Google put in Android.",neutral,-0.02738151140511036
+2014-04-12,Samsung Calls on Google Executive to Defend Innovation,negative,-0.5446439981460571
+2014-04-14,"Todd Pendleton, the chief marketing officer for Samsung’s American division, said that Samsung had a better phone than Apple before he arrived, people just didn’t know about it.",positive,0.6703513264656067
+2014-04-14,Samsung Executive Says Marketing Drove Phone Sales to No.,positive,0.6505469083786011
+2014-04-14,1,neutral,0.06526117771863937
+2014-04-15,Plus how to limit the powers of Windows XP users.,neutral,-0.01249040849506855
+2014-04-15,Adding a Religious Holidays Calendar,neutral,0.008513547480106354
+2014-04-16,"According to an email exchange presented in court, Samsung executives saw the death of Steven P. Jobs in 2011 as an opportunity to attack the iPhone.",negative,-0.6531953811645508
+2014-04-16,Samsung Saw Death of Apple’s Jobs as a Time to Attack,negative,-0.45001333951950073
+2014-04-18,"Samsung’s newest phone, the Galaxy S5, is a very nice device.",neutral,0.14078351855278015
+2014-04-18,But it falls far short of Apple’s iPhone.,negative,-0.761236846446991
+2014-04-18,"In the Battle for Best Smartphone, Apple Still Beats Samsung",positive,0.46692126989364624
+2014-04-21,"On Monday, Samsung said Apple had copied some technology — including a method for transmitting video over wireless devices.",neutral,0.32917556166648865
+2014-04-21,Focus Turns to Samsung’s Patents at Trial,neutral,0.00034481287002563477
+2014-04-22,The personal care brand Burt’s Bees is promoting anti-aging products in messages that will appear as appointments in electronic calendars.,neutral,0.06476455181837082
+2014-04-22,"For a New Burt’s Bees Line, Check Your Calendar",neutral,-0.043505407869815826
+2014-04-23,The slowdown in earnings has put pressure on the company to release products in new categories — perhaps with a so-called smart watch.,negative,-0.8704209327697754
+2014-04-23,"Apple’s Profit Still Climbs, but Pressure is Growing",negative,-0.40625202655792236
+2014-04-24,"Apple, Google, Intel and Adobe reached an agreement with plaintiffs over charges that the companies conspired not to hire one another’s employees.",negative,-0.474345862865448
+2014-04-24,Tech Giants Settle Antitrust Hiring Suit,negative,-0.49410319328308105
+2014-04-29,The ruling is the strongest statement yet by an antitrust authority against the use of vital patents for mobile digital devices to stymie rivals.,positive,0.5058363080024719
+2014-04-29,Europe’s Antitrust Chief Censures Google’s Motorola Mobility Over Key Patents,negative,-0.9068577289581299
+2014-04-30,"Skullcandy, Klipsch and Bose offer hands-free accessories that improve sound and stability.",neutral,0.07267394661903381
+2014-04-30,Headphones That Make Smartphone Calls Easier,neutral,-0.015081062912940979
+2014-05-01,"Microsoft raced to issue a fix Thursday to a vulnerability in its Internet Explorer browser, which security researchers believe was being exploited by nation-state sponsored attack groups.",negative,-0.27722859382629395
+2014-05-01,"Attackers Use Microsoft Security Hole Against Energy, Defense, Finance Targets",negative,-0.5187541842460632
+2014-05-02,Mr. Jobs’s conduct is a reminder that the difference between genius and potentially criminal behavior can be a fine line.,neutral,0.00708424299955368
+2014-05-02,"Steve Jobs Defied Convention, and Perhaps the Law",negative,-0.5789702534675598
+2014-05-03,"The dispute between technology rivals ended with an award of nearly $120 million in damages to Apple and $158,000 to Samsung.",negative,-0.7844691872596741
+2014-05-03,Mixed Verdict in Apple-Samsung Patent Fight,negative,-0.6519461870193481
+2014-05-05,A post about a new Apple product on the anonymous app Secret quickly became a national news item among the tech press last week.,neutral,0.07553426921367645
+2014-05-05,"On Monday, its author said the whole thing had been made up.",neutral,-0.002146504819393158
+2014-05-05,A Red-Hot Rumor About Apple Falls Apart,negative,-0.57277911901474
+2014-05-06,Plus how to discontinue a Google Alert.,neutral,0.014212226495146751
+2014-05-06,Using Mac Notifications and Multi-Touch Gestures,neutral,0.0034880153834819794
+2014-05-07,The Chinese tech giant isn’t backing away from its efforts to gain ground on the leaders in global smartphone sales.,negative,-0.8529402613639832
+2014-05-07,Huawei Unveils New Phone to Compete With Apple and Samsung,positive,0.8825152516365051
+2014-05-08,A deal for Beats Electronics could signal an effort by Apple to transform its approach to music more than a decade after it opened the iTunes download store.,positive,0.8490433096885681
+2014-05-08,Apple Said to Be in Talks to Buy Rising Music Brand for $3.2 Billion,neutral,0.04958051070570946
+2014-05-09,"As it approaches its 40th year, Apple is displaying signs of middle-age spread, says Peter Thal Larsen of Reuters Breakingviews.",positive,0.8176432847976685
+2014-05-09,Apple’s Midlife Crisis,neutral,-0.10224629193544388
+2014-05-10,"Apple, which has been hesitant to enter the streaming market, could finally be taking the plunge.",neutral,-0.40295571088790894
+2014-05-10,Apple’s Pursuit of Beats May Foretell a Shift,neutral,0.03734083101153374
+2014-05-12,Plus how to back up an iPod Nano.,neutral,0.04481811821460724
+2014-05-12,Saving Your Favorite Videos on YouTube,neutral,-0.03574293851852417
+2014-05-17,"While I’ve owned an Apple iPhone for the past seven years, seeing a lot of larger Android devices on the market has caused me to have big phone envy.",neutral,-0.0339815616607666
+2014-05-17,Yearning for a Bigger (Apple) Smartphone,neutral,0.1683969497680664
+2014-05-21,"Molly Wood reviews Google’s Chromebooks, whose wide range of web apps and low price tags have helped the company take on big competitors in Apple and Windows.",neutral,0.17136596143245697
+2014-05-21,Is a Chromebook All You Need?,neutral,0.022929176688194275
+2014-05-28,"In a move that will help Apple play catch-up with rivals that offer subscription-based music services, the company will offer both Beats’s streaming music service and its premium headphones.",positive,0.790538489818573
+2014-05-28,Apple to Pay $3 Billion to Buy Beats,neutral,0.03516990691423416
+2014-05-29,"Because the service comes installed on iPhones, and in my experience is turned on by default, it is hugely popular.",neutral,0.20446959137916565
+2014-05-29,But there are many good alternative services.,neutral,0.06040024012327194
+2014-05-29,The Flaws of Apple’s iMessage,negative,-0.42684146761894226
+2014-05-30,"Plus, how to move from Windows XP to a Mac.",neutral,0.049767620861530304
+2014-05-30,Keeping Windows 8.1 Up to Date,neutral,0.13566365838050842
+2014-05-31,"The Apple rumor mill is in full swing, talking about a larger iPhone 6.",neutral,0.26976895332336426
+2014-05-31,It is expected to come in two sizes.,neutral,-0.010382838547229767
+2014-05-31,But do customers really want a bigger iPhone?,neutral,0.05412130057811737
+2014-05-31,The iPhone 6 Rumors Heat Up,negative,-0.3626299798488617
+2014-06-01,"Apple is expected to introduce mobile apps that will track a user’s health and fitness routine, and smart home devices, at its annual Worldwide Developers’ Conference.",positive,0.544069766998291
+2014-06-01,"At WWDC, Apple Is Set to Make Push Into Monitoring Health and Home",neutral,0.21792452037334442
+2014-06-02,The company announced a series of changes intended to help juggle content across Macs and iPhones and iPads.,neutral,0.3857073187828064
+2014-06-02,Apple Unveils iOS 8 and OS X Yosemite at Developer Conference,neutral,0.0976981669664383
+2014-06-03,"On the heels of Apple’s WWDC keynote presentation, New York Times tech columnists Molly Wood and Farhad Manjoo discuss the hits and misses in the big announcements.",neutral,-0.10583500564098358
+2014-06-03,"WWDC Dissected: A New Era for Apple, but an End for Some Apps",neutral,0.09333910048007965
+2014-06-06,"The billionaire investor disclosed in a filing with regulators on Friday that he has a 9.39 percent stake in Family Dollar, which operates a chain of discount stores and has been under pressure to improve sales.",positive,0.538726806640625
+2014-06-06,Carl Icahn Discloses Stake in Family Dollar,neutral,0.014390798285603523
+2014-06-09,"Plus, making movies with Microsoft products.",neutral,0.014447299763560295
+2014-06-09,Using iPhoto’s Contact Sheet Feature to Save Paper,neutral,-0.017007336020469666
+2014-06-11,"Smart-home automation is a tricky and chaotic corner of tech right now, but two devices offer flexibility at a relatively low price of entry.",neutral,-0.030089065432548523
+2014-06-11,Controlling Your Smart Home With One Hub,neutral,-0.01366455852985382
+2014-06-12,"The juice blend, sold under the Minute Maid brand, is made almost entirely from apple and grape juice but is called Pomegranate Blueberry.",neutral,0.02513248845934868
+2014-06-12,"Coke Can Be Sued by Rival Over Juice Claim, Court Says",negative,-0.7499477863311768
+2014-06-13,Oil prices soar.,positive,0.38153690099716187
+2014-06-13,Why Apple doesn’t tweet.,neutral,-0.24236208200454712
+2014-06-13,How Starbucks is using bad smartphone batteries to boost its business.,positive,0.6858667135238647
+2014-06-13,Today in Small Business: House Approves Small-Business Tax Break,neutral,0.15523210167884827
+2014-06-16,"Plus, how to remove books from the Kindle screen.",neutral,-0.030632968991994858
+2014-06-16,Reclaim the Firefox Search Box,neutral,0.01858145371079445
+2014-06-17,"Users who mainly want a tablet that can sometimes be used a computer may be fine, but if you want to do intensive work, the Surface Pro isn’t the best.",neutral,-0.3174543082714081
+2014-06-17,Microsoft’s Surface Pro 3 Isn’t for Everybody,neutral,-0.05818120762705803
+2014-06-19,"When Amazon’s Fire smartphone is eventually available outside the United States, it is likely to face an uphill battle to lure Europeans away from their devices in favor of an untested competitor.",neutral,-0.03120321035385132
+2014-06-19,Amazon Phone May Be a Tough Sell in Europe — When It Arrives,negative,-0.893746554851532
+2014-06-23,Two women selling apples come up a dollar short.,negative,-0.9213743209838867
+2014-06-23,What happened?,negative,-0.39661115407943726
+2014-06-23,The Apple Conundrum,neutral,-0.12628868222236633
+2014-06-26,"Under British takeover rules, AMS has until July 24 to make a firm offer for Dialog Semiconductor, which is based in London and listed in Frankfurt.",neutral,0.09105026721954346
+2014-06-26,The combined company would have a market capitalization of nearly $5 billion.,neutral,0.09172303229570389
+2014-06-26,Semiconductor Makers AMS and Dialog in Early Talks,neutral,-0.27257654070854187
+2014-06-27,"Four prominent Silicon Valley companies — Apple, Google, Intel and Adobe — are offering $324 million to get rid of a case that says they conspired in secret no-poaching deals to keep their engineers.",neutral,-0.033983051776885986
+2014-06-27,The judge isn’t convinced the deal is fair.,negative,-0.5645588040351868
+2014-06-27,"In Class Action Against Apple and Others, Concerns From the Judge",negative,-0.8055066466331482
+2014-06-30,Apple will soon take another step toward persuading schools to ditch textbooks in favor of iPads by giving instructors a tool to teach from the tablet.,positive,0.6373535990715027
+2014-06-30,Apple Expands iTunes U Education App for iPads,positive,0.675816535949707
+2014-07-02,"Also, how to replace the discontinued iGoogle page.",neutral,0.01705377735197544
+2014-07-02,Fast and Easy Photo Albums for Printing,neutral,-0.0002910494804382324
+2014-07-03,"Americans used streaming platforms to listen to 70.3 billion songs in the first half of 2014, as CD sales and downloads declined.",negative,-0.899971604347229
+2014-07-03,Downloads in Decline as Streamed Music Soars,negative,-0.9463124871253967
+2014-07-05,"Free-to-download mobile games have become a lucrative business, but aggressive appeals for in-app purchases are turning off some players.",negative,-0.12051063776016235
+2014-07-05,"Free Video Games Say Pay Up or Wait, Testing Players’ Patience",neutral,0.04012805595993996
+2014-07-06,"The Nevada city is looking to shed its casino-town image and become a hub of e-commerce ventures, an Apple data center and a drone testing ground.",neutral,-0.15301398932933807
+2014-07-06,Reno Rolls the Dice on High-Tech,neutral,-0.01854061335325241
+2014-07-07,The American Advertising Federation and the Institute for Public Relations announced the winners of several awards.,neutral,0.191155806183815
+2014-07-07,Accounts and People of Note in the Advertising Industry,neutral,0.009030111134052277
+2014-07-09,Latest numbers from Gartner and IDC show somewhat better than expected PC shipments in the second quarter.,positive,0.9150828123092651
+2014-07-09,"More interesting, however, is the domination of the market by Lenovo, H.P.",neutral,0.022447999566793442
+2014-07-09,and Dell.,neutral,0.02515740692615509
+2014-07-09,Personal Computing’s Big Three Get a Little Bigger,neutral,0.0528639554977417
+2014-07-11,The Federal Trade Commission contended that Amazon improperly billed customers for “many millions of dollars” of charges that children made without their parents’ consent.,negative,-0.9127684831619263
+2014-07-11,Amazon Sued Over Billing for App Store Purchases,negative,-0.9070014357566833
+2014-07-15,"The two companies have been working on more than 100 software programs developed for Apple’s iOS operating system, tailoring them for use in industries.",neutral,0.1246112659573555
+2014-07-15,Apple Joins With IBM on Business Software,neutral,0.054728537797927856
+2014-07-16,The number is in for how much Apple might have to pay to consumers to settle charges that it conspired with publishers to raise e-book prices: $400 million.,negative,-0.6006913781166077
+2014-07-16,Apple Could Pay $400 Million in E-Books Price-Fixing Case,negative,-0.6156088709831238
+2014-07-17,Ms. Wagner will be the only board member from a company focusing on finance.,neutral,0.022809995338320732
+2014-07-17,"Apple’s longest-serving director, Bill Campbell, will be retiring, the company said.",neutral,-0.10865378379821777
+2014-07-17,Apple Adds Susan Wagner of BlackRock to Board,neutral,0.005608659237623215
+2014-07-18,"Many parents have learned the hard way that “free” mobile games are not always free, because they let players buy extras within the game.",neutral,-0.09576910734176636
+2014-07-18,Europe says it is pushing Apple and Google to make the real price of a game clearer.,positive,0.6598915457725525
+2014-07-18,Europe Wants Apple and Google to Fix In-App Payments Problem,neutral,0.05718878284096718
+2014-07-21,"Plus, saving the data on your laptop after a spill.",neutral,0.11150627583265305
+2014-07-21,Where to Start When Starting a Blog,neutral,0.013941243290901184
+2014-07-22,"While rivals like Samsung are starting to show weakness in phone sales, Apple sold 35.2 million iPhones in the third fiscal quarter, up 13 percent from the period a year ago.",positive,0.9008256793022156
+2014-07-22,Apple Reports $7.7 Billion Profit on Strong iPhone Sales,positive,0.7870004177093506
+2014-07-23,Sales for the smartphone grew even during a time of year when smartphone sales are expected to be slow.,positive,0.9274175763130188
+2014-07-23,Daily Report: Expanding iPhone Sales Lift Apple Profit to $7.7 Billion,positive,0.852275550365448
+2014-07-24,"Driving a subpar vehicle through Greenwich, Conn., is a no-no, but Hyundai’s well-designed new Sonata can fit in without joining the upper crust.",neutral,0.4076548218727112
+2014-07-24,The 2015 Sonata Shows That Hyundai Can Play With the Big Boys,neutral,0.2509528398513794
+2014-07-25,"Plus, how to multitask with Windows 8.1.",neutral,0.045728251338005066
+2014-07-25,"A Mac That Keeps Working, Even in Sleep Mode",neutral,0.07467513531446457
+2014-08-01,The lawsuit claimed that Samsung failed to follow the terms of a 2011 patent licensing deal between the two companies.,negative,-0.7924808263778687
+2014-08-01,Microsoft Sues Samsung Over Android Royalty Payments,negative,-0.9124908447265625
+2014-08-04,"Xiaomi, the Chinese smartphone vendor, transformed from a niche player into the biggest smartphone maker in China, seemingly overnight.",positive,0.9115800857543945
+2014-08-04,How did that happen so fast?,neutral,-0.155201256275177
+2014-08-04,Xiaomi Tops Chinese Smartphone Market,positive,0.6053577661514282
+2014-08-06,Apple and Samsung Electronics on Tuesday said they had agreed to drop patent litigation against each other in a number of countries.,positive,0.28650689125061035
+2014-08-06,But they said they are not done fighting.,negative,-0.4988148510456085
+2014-08-06,Apple and Samsung Drop Patent Fights Outside the United States,negative,-0.9354346394538879
+2014-08-08,"While farmers in India once left cashew apples to rot, some are now selling them as the source of what Pepsi hopes could be the next coconut water.",neutral,0.04553762823343277
+2014-08-08,"Cashew Juice, the Apple of Pepsi’s Eye",neutral,0.016132287681102753
+2014-08-10,"John R. MacArthur, of Harper’s Magazine, is part of a small group of publishers who say they believe that the Internet is bad for writers and readers.",negative,-0.6324789524078369
+2014-08-10,Harper’s Publisher Standing Firm in His Defense of Print and Paywall,neutral,0.15796306729316711
+2014-08-11,"The tech company’s highly secretive internal training program is like its products: meticulously planned, with polished presentations and a gleaming veneer that masks a great deal of effort.",neutral,0.042335815727710724
+2014-08-11,Daily Report: Acculturating New Employees at Apple Through Careful Training,positive,0.7611873745918274
+2014-08-12,"Following Google, Twitter, and Facebook, Apple has published a report summarizing the makeup of its work force in terms of race and gender.",neutral,-0.029541442170739174
+2014-08-12,Apple’s Diversity Mirrors Other Tech Companies’,neutral,0.21153703331947327
+2014-08-15,Apple this week said it had for the first time begun storing user data on servers in mainland China.,neutral,0.3905352056026459
+2014-08-15,It also barred two potentially harmful chemicals that some factory workers had used during assembly of iPhones and iPads.,negative,-0.6857022047042847
+2014-08-15,Apple to Add Data Storage in China and Prohibit Two Chemicals,neutral,0.18537890911102295
+2014-08-20,"Google, Apple, Facebook and others let you collaborate with people to create shared albums from events or your recent trip.",neutral,-0.005775764584541321
+2014-08-20,"Sharing, and Borrowing From, the Vacation Photo Album",neutral,0.036969929933547974
+2014-08-25,"Box, Dropbox and Hightail – caught in the middle of a price war between Amazon and Google – are rethinking their core business models, focusing on specific industries or bolstering customer service.",neutral,0.09422047436237335
+2014-08-25,Daily Report: Online Data-Storage Providers Search for Better Niches,positive,0.6121312975883484
+2014-08-27,"A book offers an optimistic view of the effects of technology, but its arguments have one big blind spot: human behavior.",neutral,-0.003965768963098526
+2014-08-27,"The Future Could Work, if We Let It",neutral,0.44330257177352905
+2014-08-28,"The commissioner will be responsible for protecting the rights of those who use technology services outside the United States, including many users of Facebook, LinkedIn and Apple.",neutral,0.03754128888249397
+2014-08-28,Irish Panel to Pick a Regulator With Global Reach in Overseeing Data Privacy,neutral,0.11423992365598679
+2014-08-29,"The smartphone giants Apple and Samsung have agreed to drop patent suits against each other outside the United States, but their fight here clearly isn’t over.",negative,-0.7580578327178955
+2014-08-29,Apple Appeals Judge’s Decision to Deny a Ban on Samsung Products,negative,-0.6518293023109436
+2014-09-02,"After a trove of nude photos of celebrities was posted online, some champions of anything-goes social media were rueful.",negative,-0.597518801689148
+2014-09-02,Nude Photos of Jennifer Lawrence Are Latest Front in Online Privacy Debate,neutral,-0.08869742602109909
+2014-09-03,Consumers appear to be unimpressed by smartwatches.,negative,-0.912726104259491
+2014-09-03,But tech companies continue to make new ones in the hope that one of them will catch on.,positive,0.4905134439468384
+2014-09-03,Sony and Asus Jump Into Smartwatch Fray,neutral,0.2921020984649658
+2014-09-04,"GhostTunes, which offers Mr. Brooks’s complete catalog of music for $30, also carries songs from other artists, including Brad Paisley and Maroon 5.",neutral,0.036732494831085205
+2014-09-04,Garth Brooks Embraces Digital Music and Unveils Online Store,neutral,0.10897187143564224
+2014-09-05,Our phones don’t do nearly enough to protect our most sensitive documents: indelicate photos of ourselves.,neutral,-0.2501372992992401
+2014-09-05,Taking a Naked Selfie?,neutral,-0.20813368260860443
+2014-09-05,Your Phone Should Step In to Protect You,neutral,0.08644527196884155
+2014-09-06,Motorola’s new device is the rare smartwatch that looks like a fashion accessory.,neutral,0.07517825067043304
+2014-09-06,"Though it has some shortcomings, it might the best option available, for now.",neutral,0.26384830474853516
+2014-09-06,Motorola’s Moto 360: An Elegant Smartwatch Worthy of Attention,neutral,0.19045020639896393
+2014-09-07,"Just as the iPod’s appeal relied in part on Apple’s music industry relationships, the future of its new wrist device may rest on courting health companies.",neutral,0.09823682904243469
+2014-09-07,Success of Apple’s iWatch May Rely on Health Care Partnerships,neutral,0.10525050014257431
+2014-09-08,"In addition to performing, the band will reveal an integration with Apple’s products that is connected to its next album, according to people briefed on the band’s plans.",neutral,0.17807422578334808
+2014-09-08,U2 Said to Play Role at Apple Event,neutral,0.025275569409132004
+2014-09-09,"As part of its product announcement, Apple released U2’s new album free, but the band was paid in a carefully negotiated deal.",neutral,-0.22156916558742523
+2014-09-09,"For U2 and Apple, a Shrewd Marketing Partnership",neutral,0.19572506844997406
+2014-09-10,The changing economics of print publishing in an increasingly digital world have forced many magazines to rethink their business models.,negative,-0.8244976997375488
+2014-09-10,Macworld to End Its Print Edition and Lay Off Many of Its Employees,negative,-0.9494518041610718
+2014-09-11,Apple isn’t trying to answer the question of why you need its new watch.,neutral,-0.02733120322227478
+2014-09-11,"It built one that a lot of people will want, and left it to the developers to do the rest.",neutral,0.029101913794875145
+2014-09-11,Apple’s Smart Smartwatch Play: Let Developers Find the Killer App,neutral,-0.030486103147268295
+2014-09-12,Apple had plenty to brag about at its event earlier this week.,neutral,0.09785964339971542
+2014-09-12,So it was particularly noticeable when Apple left out an important detail about the brand-new Apple Watch: the battery life.,neutral,-0.2932204008102417
+2014-09-12,The Mystery of Apple Watch’s Battery Life,neutral,-0.09307937324047089
+2014-09-15,The company said Monday that orders for its new iPhones — the iPhone 6 and iPhone 6 Plus — topped four million in the first 24 hours they became available for order online.,positive,0.8185244202613831
+2014-09-15,That is double the number of early online orders for the iPhone 5 two years ago.,positive,0.796528160572052
+2014-09-15,Online Orders for New iPhones Exceed 4 Million,neutral,0.007800448685884476
+2014-09-17,"Clunky though the term may be, a phablet — part phone, part tablet — is a device that offers welcome versatility.",positive,0.5313917994499207
+2014-09-17,"With the iPhone 6 Plus, Apple Aims for Versatility",positive,0.7053045630455017
+2014-09-18,"Apple’s new operating system, iOS 8, is going to struggle to run on your old phone or tablet.",negative,-0.5050662159919739
+2014-09-18,But it offers enough security features to merit switching anyway.,positive,0.6922165155410767
+2014-09-18,Upgrading to iOS 8 on an Old Phone?,neutral,0.14823947846889496
+2014-09-18,"Prepare for Trouble, but Do It Anyway",neutral,0.03913391754031181
+2014-09-19,"Mr. Ellison’s 25 percent stake in the company — and dual role as chairman and chief technology officer — ensure he’s far from relinquishing control, Robert Cyran of Reuters Breakingviews writes.",neutral,0.16482007503509521
+2014-09-19,Larry Ellison Keeps a Hand on the Wheel at Oracle,neutral,-0.06594530493021011
+2014-09-22,The strong demand for Apple’s new devices mirrors growing consumer interest in smartphones with bigger screens.,positive,0.8817355632781982
+2014-09-22,First-Weekend Sales of Apple’s iPhone 6 Models Top 10 Million,neutral,0.07753074169158936
+2014-09-23,"Last weekend, Apple sold millions of shiny new iPhones to people who already had cellphones.",positive,0.4876950681209564
+2014-09-23,"Now, thanks to a growing electronics-reselling industry, many of those old devices have somewhere to go.",neutral,0.08240781724452972
+2014-09-23,Getting Value Out of Old iPhones After Upgrading,neutral,0.29523706436157227
+2014-09-24,"The update was intended to fix various bugs in Apple’s mobile operating system, but it disabled cellphone service, among other problems.",negative,-0.8731515407562256
+2014-09-24,Apple Pulls iOS 8 Software Update After iPhone Problems,negative,-0.7122964859008789
+2014-09-25,Social media channels have overflowed this week with commentary on whether Apple’s new iPhone 6 Plus bends under pressure.,positive,0.3167354464530945
+2014-09-25,Apple Responds to Complaints of Bent iPhones,negative,-0.6894347667694092
+2014-09-26,"Security experts advised home users to stay on top of software updates and check manufacturer’s websites, particularly for hardware like routers.",neutral,-0.03635186702013016
+2014-09-26,Companies Rush to Fix Shellshock Software Bug as Hackers Launch Thousands of Attacks,negative,-0.8008337020874023
+2014-09-29,A professional photographer puts the iPhone 6 through its paces.,neutral,0.04019298031926155
+2014-09-29,Video: Testing the Camera on the iPhone 6,neutral,0.016464320942759514
+2014-09-30,"A commission laid out its preliminary case over Apple’s taxes in Ireland, and it told the country it may order it to collect huge amounts of back taxes.",neutral,-0.31390097737312317
+2014-09-30,Europeans Accuse Ireland of Giving Apple Illegal Tax Break,negative,-0.8079249858856201
+2014-10-01,"Mailing your phone to a reseller, handing it to a cellphone store or putting it up for sale online can reduce or fully cover the price of an upgrade.",negative,-0.7380123138427734
+2014-10-01,How to Get More Room in the Sock Drawer: Sell Your Cellphone,neutral,-0.027047662064433098
+2014-10-02,"Starting next summer, a new law will require every smartphone sold in California to include a so-called kill switch that renders the device unusable if it is reported lost or stolen.",neutral,0.01771828532218933
+2014-10-02,Apple now has a tool to check whether an Apple device has a kill switch turned on.,neutral,0.023783788084983826
+2014-10-02,New Apple Tool Checks iPhones for ‘Kill Switch’ Security,negative,-0.7045843601226807
+2014-10-03,"Margrethe Vestager, the nominee to become the next antitrust chief for the European Union, signaled that she would look more deeply into whether amassing data entrenched the strength of digital companies like Google.",neutral,0.16148826479911804
+2014-10-03,Antitrust Nominee in Europe Promises Scrutiny of Big Tech Companies,negative,-0.48100045323371887
+2014-10-07,"The release of Apple’s latest mobile software system, iOS 8, was riddled with major bugs, and Apple customers actually seem to care — they are pouncing on the new software update more slowly than they did past releases.",negative,-0.891960620880127
+2014-10-07,"Apple’s iOS 8, After a Buggy Start, Is Adopted More Slowly by Customers",neutral,0.06598875671625137
+2014-10-09,"Carl C. Icahn, the billionaire activist investor, sent a letter to Timothy Cook, the chief executive of Apple, saying that the company is hugely undervalued.",negative,-0.5986425280570984
+2014-10-09,Icahn Praises Cook but Urges More Apple Share Buybacks,positive,0.5051636695861816
+2014-10-10,"In a rare public appearance, Apple’s head of design talked about Apple’s design process and remarked bluntly in response to a question involving the Chinese smartphone maker Xiaomi.",neutral,0.04841834679245949
+2014-10-10,Apple’s Jony Ive Has Harsh Words for Xiaomi,negative,-0.8125944137573242
+2014-10-11,The electric car’s additional front motor will make it one of the quickest production sedans ever made.,positive,0.8105689883232117
+2014-10-11,Tesla Announces a Quicker Dual-Motor Model With All-Wheel Drive,positive,0.6675593852996826
+2014-10-12,France will submit its draft budget to the European Commission for review and Apple is expected to introduce new versions of the iPad.,neutral,0.11634668707847595
+2014-10-12,"The Week Ahead: Apple iPad Upgrades, France’s Budget Review and Wall Street Bank Results",neutral,0.06689845025539398
+2014-10-14,"Plus, how to make the move from the iPhoto app in iOS 8.",neutral,0.04421938210725784
+2014-10-14,Hiding History in Firefox,neutral,0.04491996020078659
+2014-10-15,"The announcement of the tablets, which are expected to have significant upgrades, is coming as sales have slowed and competition has toughened.",negative,-0.3110652565956116
+2014-10-15,"Apple to Unveil New iPads, as Rivals Gain Ground",positive,0.5460198521614075
+2014-10-16,"As sales of tablet devices decline, Apple showed off new versions of the iPad intended to impress consumers with their size and speed.",neutral,0.14643028378486633
+2014-10-16,"With Tablet Market Maturing, Apple Introduces New iPads",positive,0.5789891481399536
+2014-10-17,"Some high-tech companies offer top-shelf extras like gourmet meals and child care, but critics say this just keeps people at work longer.",negative,-0.8742133378982544
+2014-10-17,The Downsides of Generous Workplace Perks,negative,-0.42855167388916016
+2014-10-19,"Apple, IBM, Microsoft and Yahoo will report quarterly results, and the results of the eurozone banks’ tests are approaching.",neutral,0.045233871787786484
+2014-10-19,Tech Giants’ Earnings and Eurozone Bank Stress Tests,negative,-0.8804630041122437
+2014-10-20,The sales of 39 million iPhones helped the company bring in $8.5 billion in profit in the last quarter.,positive,0.8646170496940613
+2014-10-20,IPhone Demand Provides Apple With Record-Breaking Quarter,positive,0.9110879302024841
+2014-10-21,Cybersecurity monitoring groups and security experts said iCloud users in China may have given away login information to a third party.,negative,-0.923203706741333
+2014-10-21,Apple’s iCloud Storage Service Is Aim of Attack in China,negative,-0.7521369457244873
+2014-10-22,The social network unveiled a tool that software developers can use to let people more easily log on to smartphone apps.,positive,0.6217654943466187
+2014-10-22,"Twitter Offers Tool, Digits, to Sign In to Apps With Just a Phone Number",neutral,0.00795433297753334
+2014-10-23,"For Apple, greater China has been one of its fastest growing markets for iPhone sales, so the company wants to more than double its presence there.",positive,0.8505338430404663
+2014-10-23,Apple’s Tim Cook Talks of Retail Expansion in China,neutral,0.3499033451080322
+2014-10-27,"Also, using Google Maps “Lite” and private searches in OS X Yosemite.",neutral,0.02906177192926407
+2014-10-27,Sorting the Phone’s Address Book,neutral,-0.04296707361936569
+2014-10-28,"An Apple executive recently called the design of Xiaomi’s phones “theft.” In return, Mr. Barra pointed out that parts of Apple’s new phones are a bit like handsets from HTC.",neutral,-0.26532772183418274
+2014-10-28,"Xiaomi’s Hugo Barra Says He Is an Apple Fan, but Not a Copycat",neutral,0.028040528297424316
+2014-10-29,Apple Pay runs into competition.,negative,-0.8599146008491516
+2014-10-29,Does anyone really want a “smart” washing machine?,neutral,-0.10520274937152863
+2014-10-29,Today in Small Business: Daring to Close on Thanksgiving,neutral,-0.366630882024765
+2014-10-30,"Under a headline that did not directly address the issue, Mr. Cook chose to write a sober, conscientious essay for Bloomberg Businessweek that repeatedly used the word “privacy.”",neutral,-0.09684735536575317
+2014-10-30,"Coming Out in Businessweek, Tim Cook Chooses to Play It Low-Key",neutral,-0.14945590496063232
+2014-10-31,Citigroup says it has to cut its third-quarter profit by $600 million because of legal expenses.,negative,-0.9626306891441345
+2014-10-31,| Apple chief’s coming out.,neutral,0.02630687691271305
+2014-10-31,"| Judge approves bankruptcy plan for Stockton, Calif.",neutral,0.393432080745697
+2014-10-31,Morning Agenda: Citigroup’s About-Face,neutral,-0.04756736755371094
+2014-11-03,"Airplanes are becoming more like electronics retail stores, where you can try things out before you buy them.",neutral,0.041443340480327606
+2014-11-03,"The latest example is Southwest Airlines, which will allow passengers to test-drive Apple’s Beats Music free on its aircraft equipped with an Internet connection.",neutral,0.06050514429807663
+2014-11-03,Southwest Airlines Offers Free Streaming of Apple’s Beats Music Service,neutral,0.049487948417663574
+2014-11-04,"Sesame Street magazine is being reintroduced, and a digital publication called Sesame Street S’More is selling well in the Apple store.",positive,0.7129369378089905
+2014-11-04,Sesame Workshop Bullish on Children’s Magazines,neutral,-0.007317379117012024
+2014-11-05,"It would not be easy for the average Mac user to be hit by this malware, but it points to new ways in which hackers are targeting Apple products.",neutral,-0.3178112804889679
+2014-11-05,Malicious Software Campaign Targets Apple Users in China,negative,-0.7684416770935059
+2014-11-06,"Jawbone, the activity tracker pioneer, is introducing the Up3 band and the inexpensive Up Move activity tracker.",neutral,0.1256292462348938
+2014-11-06,"The trackers — as well as Jawbone’s focus on activity, health and data tracking — are cementing the company’s status as a whole-health juggernaut.",positive,0.8308982253074646
+2014-11-06,Jawbone Up3 Band Takes Tracking to the Extreme,neutral,-0.06446048617362976
+2014-11-09,"Though Ireland has been under international pressure to close loopholes that have drawn companies like Google and Microsoft, the country is still touting its low-tax appeal.",positive,0.29709702730178833
+2014-11-09,Ireland Vies to Remain Silicon Valley’s Low-Tax Home Away From Home,neutral,0.19922471046447754
+2014-11-10,"Plus, comparing HDTV with ultrahigh-definition.",positive,0.5999664664268494
+2014-11-10,Assessing Space on a Computer’s Hard Drive,neutral,-0.03509986400604248
+2014-11-12,"At a media event in San Francisco on Wednesday, Comcast showed a new version of X1, its new TV operating system, and answered questions about President Obama’s recent call for strict net neutrality rules.",neutral,0.20358431339263916
+2014-11-12,Comcast Reiterates Net Neutrality Position at Showcase for New Product,neutral,0.16246604919433594
+2014-11-13,"Improvements to navigation systems keep on coming, and a new rival may mean the competition will heat up.",positive,0.6750661134719849
+2014-11-13,The Map Apps That Move You in the Right Direction,neutral,0.054526619613170624
+2014-11-14,"As global authorities ramp up efforts to close tax loopholes, companies are lobbying against proposed reforms.",negative,-0.806769073009491
+2014-11-14,Europe Takes Aim at Deals Created to Escape Taxes,neutral,-0.0991293340921402
+2014-11-15,"While still far from a dominant payment system, Apple’s product has provided faint signs that mobile payment use could become widespread after years of sputtering.",positive,0.8150931000709534
+2014-11-15,Apple Pay Gives Glimpse of Mainstream Appeal for Mobile Payments,neutral,0.26438018679618835
+2014-11-17,"Plus, using Apple’s AirDrop to move files between iOS and OS X.",neutral,0.0652744323015213
+2014-11-17,Erasing Sony and Nook E-Readers,neutral,-0.13694891333580017
+2014-11-19,"Apple plans to include its Beats music service in future versions of iOS, its mobile software system for iPhones and iPads.",neutral,0.14348754286766052
+2014-11-19,Apple’s Plans for Beats Music Start to Take Shape,neutral,0.08516516536474228
+2014-11-20,Boxes of financial statistics are appearing as NBCUniversal News Group announces a strategic investment in Kensho that includes a larger agreement specifically with CNBC.,neutral,0.17491032183170319
+2014-11-20,A Partnership With CNBC Adds Context to Its News,neutral,0.26591411232948303
+2014-11-22,"A deal in the antitrust case would give consumers $400 million in cash and e-book credits, and lawyers $50 million.",neutral,0.3736116290092468
+2014-11-22,But an appeal is still pending.,neutral,-0.004697080701589584
+2014-11-22,Settlement in Apple Case Over E-Books Is Approved,positive,0.4147750735282898
+2014-11-25,"Plus, minimizing the translucent look of windows and menus in OS X Yosemite.",neutral,0.091891810297966
+2014-11-25,AirDrop Alternatives for Windows and Android,neutral,0.0325230173766613
+2014-12-01,"The Apple co-founder’s emails — a mix of blunt threats and cheery financial promises — have made him an exceptional witness against his own company, even from beyond the grave.",neutral,0.3508804440498352
+2014-12-01,"In Apple Lawsuits, Steve Jobs Is Still Major Factor",negative,-0.5519000291824341
+2014-12-02,"In opening arguments, lawyers debated whether Apple updated its iTunes software so it would intentionally block its iPods from playing music from sources other than Apple.",negative,-0.8236345052719116
+2014-12-02,"In a Bay Area Courtroom, Lawyers Hit Replay on Apple’s History",negative,-0.6450972557067871
+2014-12-03,"George Osborne, the British chancellor of the Exchequer, proposed a new 25 percent tax on the local profits of some international companies, including tech giants like Google.",neutral,0.014023035764694214
+2014-12-03,British Government Proposes a ‘Google Tax’,neutral,-0.005374819040298462
+2014-12-04,The company’s lawyers claim that the iPods owned by two people represented in the lawsuit were purchased after the period during which Apple is accused of behaving in an anticompetitive manner.,negative,-0.5605647563934326
+2014-12-04,Apple iPod Suit May Lack One Thing: A Plaintiff,neutral,-0.042635172605514526
+2014-12-05,The late Apple chief defended his company’s decision to strictly control the music that can be played on an iPod in testimony recorded six months before his death.,neutral,-0.20108987390995026
+2014-12-05,Videotaped Deposition of Steve Jobs Played in Apple iPod Trial,neutral,-0.07272998988628387
+2014-12-08,A judge in California gave plaintiff lawyers until Tuesday morning to produce a new plaintiff in the case.,neutral,-0.03102228417992592
+2014-12-08,Setback for iPod Class-Action Lawsuit as Sole Plaintiff Is Disqualified,negative,-0.5868973731994629
+2014-12-09,Building a better jockstrap.,positive,0.6833038926124573
+2014-12-09,Apple names its top apps of 2014.,neutral,0.05762254074215889
+2014-12-09,Could Philadelphia become an East Coast energy hub?,neutral,0.16872990131378174
+2014-12-09,Today in Small Business: The Mistletoe Drone,neutral,0.03974520415067673
+2014-12-10,"Plus, how to remove credit card information from Apple Pay on the iPhone.",neutral,-0.06126558780670166
+2014-12-10,Moving Contacts From a Flip Phone to a Windows phone,neutral,-0.029179099947214127
+2014-12-15,"A class-action suit nearly a decade in the making has finally headed to the jury room in a federal court in Oakland, Calif.",neutral,0.062344517558813095
+2014-12-15,Lawyers in iPod Trial Await Jury Decision,neutral,-0.1989586353302002
+2014-12-16,"In a class-action case that kicked around courts for 10 years, a jury rejected claims that Apple acted to secure a monopoly over digital music.",negative,-0.316372811794281
+2014-12-16,Apple Wins Decade-Old Suit Over iTunes Updates,positive,0.7324907183647156
+2014-12-19,Step 1: Think about gender diversity early in your company’s formation.,neutral,0.01201748289167881
+2014-12-19,"If you wait until the company is established, it’s too late.",neutral,-0.226190447807312
+2014-12-19,How One Technology Company Managed to Hire a More Diverse Work Force,neutral,0.11231845617294312
+2014-12-20,"A video documentary about some Chinese factories that assemble Apple products has refueled public attention on labor issues, like excessive work hours.",negative,-0.8500702381134033
+2014-12-20,BBC Documentary Shows Harsh Conditions for Workers in iPhone Factories,negative,-0.7902100086212158
+2014-12-23,"A flurry of construction is underway near the Whitney Museum of American Art’s Marcel Breuer building, which is to be taken over by the Metropolitan Museum of Art.",neutral,0.07860441505908966
+2014-12-23,Rebuilding a Block to Greet the Met Museum,neutral,0.0904739499092102
+2014-12-24,"Defying predictions of their demise, personal computers are making a comeback, enticing a niche audience of professional users with power and beauty, and an Apple machine stands out.",positive,0.7201720476150513
+2014-12-24,Retina 5K iMac: Powerful Proof of the PC Renaissance,neutral,0.244967982172966
+2014-12-26,Include some interesting events — off-planet and closer — to your daily reminders.,neutral,0.030727427452802658
+2014-12-26,"Adding the Sun, Moon and Stars to Google Calendar",neutral,0.05689803883433342
+2014-12-29,The government appears to have blocked the ability of people in China to access their Gmail accounts through third-party email clients.,negative,-0.9136565327644348
+2014-12-29,China Adds New Barrier to Gmail,neutral,0.1127268448472023
+2014-12-31,"Sony’s new partners will expand digital availability of the film, which will also have a wider theatrical release starting Friday.",positive,0.909452497959137
+2014-12-31,Sony’s ‘The Interview’ Is Set for On-Demand and Wider Online Viewing,neutral,0.04092256352305412
+2015-01-02,You can adjust your settings so that only certain people can see your images.,neutral,-0.006102435290813446
+2015-01-02,"Also, syncing files between Macs and PCs.",neutral,0.009627140127122402
+2015-01-02,Sharing Flickr Photos Privately,neutral,0.05647160857915878
+2015-01-07,"With apps able to act as cameras, media players and so much more, the world of consumer electronics is in turmoil as smartphones supersede all other devices.",negative,-0.8450625538825989
+2015-01-07,"In a World of Phones, Gadgets Must Adapt",neutral,0.030538326129317284
+2015-01-08,"Google’s app store is the largest in the world, but still makes far less money than the Apple App Store.",negative,-0.8561479449272156
+2015-01-08,Apple’s Cut From App Sales Reached $4.5 Billion in 2014,negative,-0.9373392462730408
+2015-01-09,"Facebook eventually reverts to the “Top Stories” view of its news feed even if “Most Recent” is chosen, but there are ways around this.",neutral,0.03415723517537117
+2015-01-09,Looking for the ‘Most Recent’ Facebook Posts,neutral,-0.08795586228370667
+2015-01-14,"The new operating system can help you monitor battery use better, help take better photos and make Siri easier to use.",positive,0.5498984456062317
+2015-01-14,Video Feature: Getting the Most Out of Apple iOS 8,neutral,0.07412514835596085
+2015-01-15,A planned bill would expand New York’s definition of what constitutes the type of private information whose breach would mandate a disclosure.,positive,0.6557480096817017
+2015-01-15,It would cover email addresses and passwords.,neutral,0.006037493236362934
+2015-01-15,New York Attorney General Seeks Expanded Reports on Data Breaches,neutral,-0.030200064182281494
+2015-01-16,"Tidying lists after a printer upgrade, and how to excise recently watched movies from Netflix’s list.",neutral,0.019087081775069237
+2015-01-16,Cleaning Up the Mac’s Printers List,neutral,-0.041125841438770294
+2015-01-19,Soaring stock prices and major advances in fighting diseases have some saying the industry has turned a corner and others watching for a bursting bubble.,positive,0.4867329001426697
+2015-01-19,"Riding High, Biotech Firms Remain Wary",neutral,-0.168306365609169
+2015-01-21,"Semetric, based in Britain, is one of a growing number of companies that record labels and others consult for data on how music is consumed online.",neutral,0.010288476943969727
+2015-01-21,"Apple Acquires Semetric, a Data Analysis Company",neutral,0.12938429415225983
+2015-01-27,The introduction of a large-screen iPhone in China helped propel Apple’s profit to $18 billion and its revenue to nearly $75 billion.,positive,0.918342113494873
+2015-01-27,IPhone Sales in China Bolster Apple Earnings,positive,0.8493345379829407
+2015-01-28,"Windows PCs are often the main targets of malicious software that loops infected computers into remote-controlled networks called botnets, but Macs are not immune.",negative,-0.7536457180976868
+2015-01-28,Avoiding Botnets With a Mac,neutral,-0.08496516942977905
+2015-01-29,"With the latest earnings reports from Microsoft and Apple, the once-unthinkable became reality: Apple’s market capitalization hit $683 billion, more than double Microsoft’s $338 billion.",positive,0.8662473559379578
+2015-01-29,"How, and Why, Apple Overtook Microsoft",neutral,0.034257568418979645
+2015-01-30,Car title loans are drawing scrutiny from regulators.,negative,-0.6231114268302917
+2015-01-30,| Law firm founds a project to fight “revenge porn.” | Shake Shack is going public with big dreams.,positive,0.5695189833641052
+2015-01-30,| How Apple beat Microsoft.,positive,0.1775893121957779
+2015-01-30,Morning Agenda: Crackdown on Car Title Loans,negative,-0.6309906244277954
+2015-02-02,"The company plans to invest $2 billion in creating a data center in Mesa, Ariz., after it dropped plans to produce sapphire, a hardened and light material, at the facility.",neutral,-0.27594640851020813
+2015-02-02,Apple to Open Giant Data Center in Arizona,neutral,0.06683532893657684
+2015-02-03,"The deal, Smucker’s biggest in its 118-year history, seeks to capitalize on a high-growth sector and is expected to revive sales.",positive,0.9253014326095581
+2015-02-03,Smucker to Buy Big Heart Pet Brands for $5.8 Billion,neutral,0.038155630230903625
+2015-02-04,"Using your phone as a GPS unit is handy, but can run the battery down.",neutral,-0.10325480997562408
+2015-02-04,Always pack a mobile phone charger.,neutral,0.021202247589826584
+2015-02-04,Traveling With an iPhone,neutral,0.008910506963729858
+2015-02-06,"Both Kantar Worldpanel and Canalys, research firms that track global smartphone sales, said Apple’s mobile operating system gained market share in China at the expense of Google’s Android.",positive,0.8770534992218018
+2015-02-06,New Data Shows Apple’s Explosive Growth in China,neutral,0.1933484673500061
+2015-02-09,"Apple’s share of the industry’s profits increased while Samsung, the only other company turning a profit on its phones, saw sales shrink.",negative,-0.675683319568634
+2015-02-09,"Apple Grabs 93% of the Handset Industry’s Profit, Report Says",neutral,0.23750770092010498
+2015-02-10,"The company is aggressively adding to its renewable energy sources, a point of pride for its chief executive, Timothy D. Cook.",positive,0.7183548808097839
+2015-02-10,Apple Building Solar Farm to Power California Operations,neutral,0.051657967269420624
+2015-02-11,"Tips on how to transfer photographs into iPhoto on your Mac, and advice for connecting to a virtual private network from a mobile device.",neutral,0.026759158819913864
+2015-02-11,Importing Images to iPhoto,neutral,0.014418154023587704
+2015-02-12,"App Pins aims to do for smartphone apps what Pinterest’s service has done for photos, recipes and many other types of websites.",neutral,0.06495340913534164
+2015-02-12,"In short, the service is a type of digital corkboard that lets visitors save, or “pin,” items they like or places they want to go.",neutral,-0.006961554288864136
+2015-02-12,"Aiming to Ease App Discovery, Apple Pairs With Pinterest",positive,0.6974455714225769
+2015-02-13,"Tips on how to remove a file or folder from Microsoft’s cloud-storage service, and advice on how to confirm that your computer’s firewall is turned on.",neutral,0.020986774936318398
+2015-02-13,Deleting Files From Microsoft’s OneDrive,neutral,-0.32759031653404236
+2015-02-17,How to use two-step verification to guard against unauthorized access to your email.,neutral,-0.013647744432091713
+2015-02-17,Securing a Hotmail Account,neutral,-0.04457956552505493
+2015-02-18,"The move comes just a few months after the release of Apple Pay, Apple’s mobile payments product.",neutral,0.2388118952512741
+2015-02-18,"Samsung Buys LoopPay, a Competitor to Apple’s Mobile Wallet",neutral,0.23760315775871277
+2015-02-19,"There’s a new strategy afoot at the company, which has brought apps and services to the Apple and Android devices people actually use, rather than ones that run Windows.",neutral,0.3105391561985016
+2015-02-19,Daily Report: Microsoft Zeroes In on Mobile,negative,-0.937697172164917
+2015-02-20,"The company has collected about 200 people over the last few years to develop technologies for an electric car, according to two people with knowledge of the company’s plans.",neutral,0.0832119807600975
+2015-02-20,Apple Is Forming an Auto Team,neutral,0.03090924397110939
+2015-02-21,"Mr. Rosenblat, a survivor of Nazi camps, wrote a tale of a kind girl and an apple that turned out to be false.",neutral,-0.14697420597076416
+2015-02-21,"Herman Rosenblat, 85, Dies; Made Up Holocaust Love Story",neutral,-0.13403578102588654
+2015-02-22,"In the coming months, dealerships around the country will begin selling vehicles capable of running Android- and Apple-compatible dashboard systems.",positive,0.7107459306716919
+2015-02-22,Google and Apple Fight for the Car Dashboard,negative,-0.5618595480918884
+2015-02-23,"In the coming months, auto dealerships around the country will begin selling vehicles capable of running Android- and Apple-compatible dashboard systems.",positive,0.676087498664856
+2015-02-23,Daily Report: Automakers Close to Widely Adopting Dashboard Tech From Google and Apple,positive,0.5161611437797546
+2015-02-24,"Tips on how to archive Gmail messages to tidy up your inbox, and solutions for when your laptop battery begins to fade.",neutral,0.019673995673656464
+2015-02-24,Filing Away Gmail Messages,neutral,-0.15439316630363464
+2015-02-25,"The computer giant was ordered to pay $532.9 million to Smartflash, which is based in a building down the street from where the trial was held.",negative,-0.6757984757423401
+2015-02-25,Apple plans to appeal.,neutral,0.02470063418149948
+2015-02-25,Apple Loses Patent Case to Small Texas Company,negative,-0.8764262199401855
+2015-02-27,"Learn about the differences between Amazon Fire TV and Fire TV stick (besides price), and also discover how to transfer airline boarding passes between iPhones.",neutral,0.0536835752427578
+2015-02-27,Choosing Between Amazon’s TV Streaming Hardware,neutral,0.015682268887758255
+2015-02-28,The bus drivers who transport workers to the campuses of six Silicon Valley employers voted to join the Teamsters to negotiate better working conditions and wages.,positive,0.6284393072128296
+2015-02-28,Silicon Valley Shuttle Drivers Vote to Join Union,neutral,0.1968003213405609
+2015-03-02,The Internal Revenue Service is not emailing you to request personal information.,neutral,-0.025682954117655754
+2015-03-02,Not now.,negative,-0.5150827169418335
+2015-03-02,Not ever.,neutral,-0.2218795120716095
+2015-03-02,The Tax Con Cometh,neutral,0.005280643701553345
+2015-03-03,Apple and Google are using their technology domination to take over car dashboards.,neutral,0.034783702343702316
+2015-03-03,"Someday, they could try to build entire vehicles.",neutral,0.09829709678888321
+2015-03-03,"At Geneva Auto Show, Worry About Silicon Valley",negative,-0.6897411942481995
+2015-03-04,"Apple and Google said they were releasing patches to fix the problem, which results in part from 1990s American technology export restrictions.",negative,-0.7574542164802551
+2015-03-04,Outdated Encryption Keys Leave Phones Vulnerable to Hackers,negative,-0.8872126936912537
+2015-03-05,"Unlike the Nasdaq composite index at its dot-com peak in 2000, today’s index has companies that are more mature and less concentrated in technology.",neutral,0.05091739818453789
+2015-03-05,"Nasdaq Changed in Its Climb to 5,000",positive,0.10934659838676453
+2015-03-06,The Dow dates from a computer-free era when working out the average of 30 stock prices counted as added value.,neutral,0.05124394968152046
+2015-03-06,Including Apple in the index was overdue.,neutral,0.11204999685287476
+2015-03-06,Apple’s Entry Will Help an Antiquated Dow Catch Up,positive,0.8034559488296509
+2015-03-08,"Apple will demonstrate its new smartwatch on Monday, HSBC’s chief will testify in Britain’s Parliament, and Greece will detail its reform plans.",neutral,0.06548871099948883
+2015-03-08,"Apple Watch Demonstration, Questions for HSBC and Greece’s Bailout",neutral,-0.1075635477900505
+2015-03-09,"Timothy D. Cook, Apple’s chief executive, introduced the Apple Watch, an edition of which is made of 18-karat gold and retails starting at $10,000.",neutral,0.16341513395309448
+2015-03-09,Apple Unveils the Apple Watch,neutral,0.0754399523139
+2015-03-10,"Initial impressions of the Apple Watch are that it is good-looking for a smart watch and not hard to use, but whether it is yet a necessary purchase remains unsettled.",neutral,-0.0025129690766334534
+2015-03-10,Daily Report: Using the Apple Watch,neutral,0.029776668176054955
+2015-03-11,"Technology from Apple, Google, BlackBerry and Motorola is increasingly allowing users to send texts and make phone calls from almost any device.",neutral,0.11989797651767731
+2015-03-11,Device Syncing: Call From Computers and Text From Tablets,neutral,-0.011277709156274796
+2015-03-13,The rap star made a $56 million bid for the Swedish technology company and announced that it had acquired enough shares to take over.,positive,0.6739824414253235
+2015-03-13,"Jay Z Buys the Music Streaming Firm, Aspiro",neutral,0.091349296271801
+2015-03-17,"The service, which could be announced later this year, would offer a bundle of channels that is smaller and cheaper than a typical cable subscription, according to people briefed on the plans.",neutral,0.07094304263591766
+2015-03-17,"Apple Said to Plan Limited, Low-Cost Streaming Service",neutral,0.00916338711977005
+2015-03-18,European officials proposed new disclosure rules meant to make it more difficult for countries to work out special tax-avoidance deals with multinationals.,neutral,0.3539225161075592
+2015-03-18,European Union Moves to Limit Special Tax Deals,neutral,-0.017781302332878113
+2015-03-22,"Apple brass, including its chief, Timothy D. Cook, are throwing their weight behind the unauthorized biography of Mr. Jobs, which goes on sale Tuesday.",negative,-0.677290678024292
+2015-03-22,"Apple Opens Up to Praise New Book on Steve Jobs, and Criticize an Old One",negative,-0.8258241415023804
+2015-03-24,"Brent Schlender and Rick Tetzeli, who wrote “Becoming Steve Jobs,” discuss the evolution of Steve Jobs and how they won Apple’s cooperation for the unauthorized biography of its former chief executive.",neutral,0.007865957915782928
+2015-03-24,A Conversation With the Authors of ‘Becoming Steve Jobs’,neutral,0.00982736051082611
+2015-03-25,"The new system will not have a lower price than its competitors, and won’t offer a free version supported by ads.",neutral,-0.0032086018472909927
+2015-03-25,Apple and Beats Developing Streaming Music Service to Rival Spotify,positive,0.6353188157081604
+2015-03-31,"In an industry that avoids controversy, the heads of several prominent companies, including Apple and Salesforce.com, have chosen to pick a battle.",neutral,-0.0973527804017067
+2015-03-31,"Silicon Valley Leaders, New to Social Issues, Come Together Over Indiana Law",neutral,0.07616588473320007
+2015-04-01,"In an industry that avoids controversy, the heads of several prominent companies, including Apple and Salesforce.com, have chosen to pick a battle.",neutral,-0.0973527804017067
+2015-04-01,Daily Report: Tech Leaders Come Together to Oppose Indiana Law,negative,-0.6633092761039734
+2015-04-02,"Joe Sullivan, the ride-hailing company’s new chief security officer, will work in areas like securing driver data, and driver and passenger safety.",neutral,0.06755009293556213
+2015-04-02,Uber Hires a Security Chief From Facebook,neutral,-0.1438620388507843
+2015-04-03,The inexpensive device links a standard audio cable from the music player to a computer’s USB jack.,neutral,0.026938414201140404
+2015-04-03,Converting Audio From a Cassette to MP3 Requires an Adapter,neutral,0.010884150862693787
+2015-04-07,"Starting Monday a group of lawyers and advocates connected to Adnan Syed, the subject of the podcast “Serial,” will debut another podcast, “Undisclosed: The State v. Adnan Syed.”",neutral,-0.028584608808159828
+2015-04-07,"Another ‘Serial’ Chapter, From Group of Lawyers",neutral,0.010076090693473816
+2015-04-08,"The HBO Now app, which lets viewers see the network’s shows without a standard cable plan, represents a big change from just a few years ago.",positive,0.7616874575614929
+2015-04-08,"HBO Now Makes ‘Game of Thrones’ Easier to See, if Not Follow",neutral,0.04725414142012596
+2015-04-09,The era of online shopping made “buy before you try” (and ship back if you don’t like it) a typical consumer experience.,neutral,0.07362964749336243
+2015-04-09,"The Apple Watch, which releases April 24, is probably something you should actually try before buying.",neutral,0.006416931748390198
+2015-04-09,"Ahead of Watch Release, Apple to Allow Customers to Try It On",neutral,0.05683067813515663
+2015-04-13,"The business unit will partner with companies including Apple, Medtronic and Johnson & Johnson, offering IBM’s Watson technology as a cloud-based tool at many levels of the health care industry.",positive,0.7200644612312317
+2015-04-13,IBM Creates Watson Health to Analyze Medical Data,neutral,0.00599542073905468
+2015-04-14,"Laurence D. Fink, chief of BlackRock, the world’s largest asset manager, warns of harm in dividends and stock buybacks.",negative,-0.9463347792625427
+2015-04-14,"BlackRock’s Chief, Laurence Fink, Urges Other C.E.O.s to Stop Being So Nice to Investors",negative,-0.782438337802887
+2015-04-15,"American technology companies are no strangers to antitrust challenges by European regulators, but the cost has tended to be measured in money and time, not business practices.",neutral,-0.1343032866716385
+2015-04-15,Google Joins Its U.S. Peers Under Europe’s Scrutiny,positive,0.5789790153503418
+2015-04-16,"Apple’s retail head, Angela Ahrendts, has told retail employees that the Apple Watch will not be available for in-store purchasing on the day of its April 24 release.",negative,-0.8669895529747009
+2015-04-16,Apple Watch Availability Is Clarified,neutral,0.03114309161901474
+2015-04-17,"Apps will allow users to peek at their balance and recent activity, but not to pay bills or make deposits.",neutral,0.003261769190430641
+2015-04-17,"Banking on Apple Watch Will Be Limited, for Now",neutral,0.008398516103625298
+2015-04-20,"The Apple Watch will be sold in just nine countries and only through its own channels, entering the world in a different manner from that of the iPhone.",neutral,0.06236831098794937
+2015-04-20,"Changing Tactics, Apple Promotes Watch as a Luxury Item",neutral,0.12710127234458923
+2015-04-22,"Even with an upgrade, there are several ways to work with Microsoft Office files.",neutral,-0.02053811214864254
+2015-04-22,"Also, backing up data on an Amazon Fire tablet.",neutral,0.03284482657909393
+2015-04-22,Working With Old Office Files on a New Mac OS,neutral,0.045590490102767944
+2015-04-23,Tips for Time Warner Cable customers who want to use their iPhones to manage DVR recordings.,neutral,0.020802754908800125
+2015-04-23,Remotely Controlling the DVR,neutral,-0.010362070053815842
+2015-04-24,Apple Watch began shipping Friday.,neutral,0.06387679278850555
+2015-04-24,What you need to know about the gadget.,neutral,0.027295604348182678
+2015-04-24,Apple Watch Has Landed — Here’s What You Need to Know,neutral,0.03896643966436386
+2015-04-27,"Best Buy announced on Monday that it now accepts Apple Pay payments for purchases made inside its smartphone app, and by the end of the year will accept payments made in its brick-and-mortar stores using the Apple Pay mobile wallet.",neutral,0.0968523696064949
+2015-04-27,Apple Pay Will Hit Best Buy Stores in 2015,negative,-0.6211134195327759
+2015-05-01,"Apple, IBM and Japan Post are partnering to provide a technology service for older adults.",positive,0.6074513792991638
+2015-05-01,The venture reflects the larger ambitions of each company.,neutral,0.08933734893798828
+2015-05-01,"Apple, IBM and Japan Post See Profit in the Old-Age Market",positive,0.4256249666213989
+2015-05-04,"When Apple introduces its new TV box this summer, the remote control will gain a touch pad and also be slightly thicker than the current version.",neutral,0.18014952540397644
+2015-05-04,Apple TV Remote Expected to Add Touch Pad in Redesign,neutral,0.07762258499860764
+2015-05-05,"How to take screenshots on a Windows tablet, Also, how to use iPhoto after the latest Mac update replaces it with a different app.",neutral,-0.0104769766330719
+2015-05-05,Snapping the Windows Screen,neutral,-0.22183120250701904
+2015-05-08,Get the most out of speech-recognition mobile assistants.,neutral,0.08678518980741501
+2015-05-08,"Also, how to use speed-test websites to measure broadband speeds.",neutral,0.03372306749224663
+2015-05-08,"How to Use Siri, Google Now and Cortana Voice Commands",neutral,-0.0031234119087457657
+2015-05-12,"A new book by two business school professors examines the common strategies of Bill Gates, Andy Grove and Steve Jobs, and the implications beyond the companies they led.",neutral,0.03064284846186638
+2015-05-12,"Bill Gates, Andy Grove and Steve Jobs: The Strategies They Shared",neutral,0.028245141729712486
+2015-05-17,The purchase further bolsters Apple’s mapping technology and services.,positive,0.9304333329200745
+2015-05-17,"Apple Acquires Coherent Navigation, a GPS Start-Up",neutral,0.3862418234348297
+2015-05-18,The federal court also ruled that the iPhone’s overall look could not be protected and part of the $930 million in damages must be recalculated.,negative,-0.6737138628959656
+2015-05-18,Appeals Court Upholds Apple’s Patent Victory Over Samsung,positive,0.25056684017181396
+2015-05-19,"A group of prominent technology companies, including Google and Apple, have sent a letter to President Obama asking him to reject any proposals that would weaken their products’ security.",negative,-0.83016037940979
+2015-05-19,Tech Giants Urge Obama to Reject Policies That Weaken Encryption,negative,-0.6526427865028381
+2015-05-20,The streaming music service is adding options to remain competitive with Apple and YouTube.,positive,0.8563416004180908
+2015-05-20,Spotify Is Expanding to Include Video and Predictive Playlists,neutral,0.4460183084011078
+2015-05-22,You can send the message to someone not in the original conversation by taking a couple of steps.,neutral,-0.015951797366142273
+2015-05-22,Forwarding Text Messages on the iPhone,neutral,-0.0025595463812351227
+2015-05-24,"Pressure is mounting for American tech companies, including Google, to stop using complex tax structures and pay more on their European operations.",positive,0.025867313146591187
+2015-05-24,Amazon to Stop Funneling European Sales Through Low-Tax Haven,neutral,-0.05027901381254196
+2015-05-26,"Apple is boosting the profile of two designers, Richard Howarth and Alan Dye, under longtime design head Jony Ive, who gains the new title of chief design officer.",positive,0.9285029172897339
+2015-05-26,Two Apple Designers Step Up as Jony Ive Becomes Chief Design Officer,neutral,0.2681199610233307
+2015-05-27,"Google is set to unveil a payments initiative for merchants and a refashioned consumer app, while its rival reportedly plans a rewards program for Apple Pay.",neutral,0.3246763348579407
+2015-05-27,Google and Apple Adjust Strategies on Mobile Payments,neutral,0.058482713997364044
+2015-05-28,"Google is set to unveil a payments initiative for merchants and a refashioned consumer app, while its rival reportedly plans a rewards program for Apple Pay.",neutral,0.3246763348579407
+2015-05-28,"Daily Report: As Mobile Payments Rise, Apple and Google Prepare Their Moves",neutral,0.19223327934741974
+2015-05-29,"Mobile apps can be used to summon a car or order food with a simple tap, but making a charitable donation is not as easy.",neutral,-0.03935212269425392
+2015-05-29,One-Tap Giving?,neutral,0.023960158228874207
+2015-05-29,Extra Steps Mire Mobile Donations,neutral,0.07558708637952805
+2015-06-03,"As Apple prepares to enter the fray, it’s a good time to assess the free and paid services that Spotify, Rdio and others have to offer.",neutral,0.30981355905532837
+2015-06-03,Video Feature: Streaming Music Apps for a Variety of Tastes,neutral,0.004571136087179184
+2015-06-04,"One new fund tracks the dividends that companies pay, while another mimics core hedge fund strategies.",neutral,0.02552570030093193
+2015-06-04,New E.T.F.s Appeal to Those With Bigger Appetites for Risk,neutral,0.2557046413421631
+2015-06-05,"Some updates, such as security patches, are essential, but it can make sense to research others before taking the plunge.",neutral,-0.001562235876917839
+2015-06-05,Updating the Mac’s Software,neutral,0.045129720121622086
+2015-06-08,Lonnie Mimms has been a collector all his life.,neutral,-0.006615130230784416
+2015-06-08,"But vintage computers are his real obsession, namely ones made by Apple.",neutral,0.017234571278095245
+2015-06-08,"By his own estimate, he has invested more than a million dollars in his computer collection.",neutral,0.041371144354343414
+2015-06-08,Video Feature: The Apple Collector,neutral,0.004051782190799713
+2015-06-09,"A response to the antitrust probe came from the Universal Music Group, whose lawyers sent a letter to the attorneys general stating, in so many words, nothing to see here.",neutral,0.09376761317253113
+2015-06-09,A Letter From Universal’s Attorneys,neutral,0.0621342733502388
+2015-06-10,Some independent booksellers gain a portion of e-book sales through partnerships with bigger e-bookstores like Kobo and Amazon Source.,neutral,0.14815400540828705
+2015-06-10,"Shop Locally, Download Globally",neutral,-0.0005182120949029922
+2015-06-11,"Japan, the world’s second-largest music market, has been resistant to streaming services, but Line Music is advertising 1.5 million tracks and low prices.",neutral,-0.2788046896457672
+2015-06-11,"Music Streaming Service Aims at Japan, Where CD Is Still King",neutral,0.04727177321910858
+2015-06-12,"Tips for mirroring your phone’s display on a Mac, and how to get desktop notifications from Gmail.",neutral,-0.002371024340391159
+2015-06-12,Recording a Phone’s Screen on a Mac,neutral,-0.0676150843501091
+2015-06-16,"When Steve Jobs returned to Apple, he saved the company.",neutral,0.21372169256210327
+2015-06-16,It remains to be seen whether Jack Dorsey can do the same at Twitter.,neutral,-0.0065338388085365295
+2015-06-16,"In Return to Twitter, Jack Dorsey Aims to Follow Path of Steve Jobs",neutral,0.08036091178655624
+2015-06-17,"Before Apple’s new plan to increase app production takes off, try some of these existing offerings, including a real-time weather app and a seven-minute workout app.",neutral,0.46314820647239685
+2015-06-17,Video Feature: Apple Watch Apps That Are Available Now,neutral,0.0024275891482830048
+2015-06-18,"For all of Europe’s advantages, its technology sector lags that of the United States.",negative,-0.7629982829093933
+2015-06-18,A dread of failure may be one reason.,negative,-0.46783506870269775
+2015-06-18,A Fearless Culture Fuels U.S. Tech Giants,neutral,0.22357331216335297
+2015-06-19,"Navigating the new image editing program on the Mac, and how to quiet a talkative Windows computer.",neutral,0.037874337285757065
+2015-06-19,Adjusting to Apple’s New Photo Software,neutral,0.0878157764673233
+2015-06-21,Ms.,neutral,0.036682549864053726
+2015-06-21,"Swift had framed a letter posted to her Tumblr page as an explanation for why she was withholding her latest album, “1989,” from Apple’s new music streaming service.",negative,-0.6713197231292725
+2015-06-21,Taylor Swift Criticism Spurs Apple to Change Royalties Policy,negative,-0.8127082586288452
+2015-06-23,Ms. Swift’s victory in a one-day battle against Apple this week showed she has a rare power to influence the music business.,positive,0.7331621646881104
+2015-06-23,"Daily Report: Taylor Swift, ‘the Most Powerful Person in the Music Industry’",neutral,0.12662973999977112
+2015-06-24,"The Beggars Group, a powerful independent record company, and Merlin, a trade group, announced that they reached a licensing deal with Apple.",positive,0.8398715853691101
+2015-06-24,Apple Signs Thousands of Independent Labels in Royalty Deal,neutral,0.04912302643060684
+2015-06-25,The singer’s move apparently ends her dispute with Apple over its plan not to pay royalties to artists during three-month trial periods of the new app.,negative,-0.11592718958854675
+2015-06-25,Taylor Swift to Stream ‘1989’ Album on Apple Music,neutral,0.0053802356123924255
+2015-06-28,The tech giant has managed to keep regulators at bay and to appease a pop star angry over Apple Music.,positive,0.25416508316993713
+2015-06-28,But the true test remains how well its products work.,neutral,0.08840582519769669
+2015-06-28,"Taylor Swift Scuffle Aside, Apple’s New Music Service Is Expected to Thrive",neutral,-0.0046151503920555115
+2015-06-29,"Signaling the general acceptance of online music, the band, which has long resisted the digital business, will sign on with services like Spotify and Rdio.",positive,0.7412224411964417
+2015-06-29,AC/DC Songs Will Be Added to Streaming Services Like Apple Music,neutral,0.10290555655956268
+2015-06-30,"If Apple Music is successful, it could deliver billions of dollars in revenue to the music industry and establish streaming music as a stable business.",positive,0.8733869791030884
+2015-06-30,Apple Music Makes Debut With D.J.,neutral,0.23024220764636993
+2015-06-30,Carrying the Flag,neutral,0.07058324664831161
+2015-07-01,"The service brags that its playlists are curated by people not algorithms; on the other hand, its social network app needs retooling.",neutral,-0.0677882730960846
+2015-07-01,"Apple Music Is Strong on Design, Weak on Social Networking",negative,-0.9291943907737732
+2015-07-07,"Sesac, a boutique music rights group, is purchasing the Harry Fox Agency, a move that will allow it to collect fees both when songs are played and when they are sold.",positive,0.5285558700561523
+2015-07-07,Music Publishing Deal Driven by Shift From Sales to Streaming,neutral,0.16306307911872864
+2015-07-09,Apple’s proposal that automakers write apps for technology company software raises concerns about security and safety.,negative,-0.9051032066345215
+2015-07-09,"With CarPlay, Apple Looks to Upend Tradition",positive,0.6016713380813599
+2015-07-10,"If the company, which has been expanding its video offerings, can strike a deal with music labels, it could rival Google’s YouTube.",positive,0.8719651103019714
+2015-07-10,Daily Report: Facebook Said to Seek Licensing Deals for Music Videos,neutral,0.27718865871429443
+2015-07-11,Stephen Joseph first sued in San Francisco over graffiti.,negative,-0.8510326147079468
+2015-07-11,"He lost, but the city cleaned up the graffiti.",neutral,0.030045360326766968
+2015-07-11,His latest victory is trans fats.,neutral,0.140760600566864
+2015-07-11,"He has learned that you can lose in court, but carry the day.",neutral,0.08975917845964432
+2015-07-11,"When This Man Is Irked, He Might Just File a Suit",neutral,-0.37963584065437317
+2015-07-15,"They have bigger screens and offer uninterrupted navigation, and some have forward-facing and backup cameras and other safety features.",neutral,0.040522556751966476
+2015-07-15,What Stand-Alone GPS Devices Do That Smartphones Can’t,neutral,0.011992577463388443
+2015-07-19,Facebook and other companies have struggled with how wearers of the device could have a good experience with their apps tailored to a small screen.,negative,-0.9149856567382812
+2015-07-19,Apple Waits as App Developers Study Who’s Buying Its Watch,neutral,-0.05514617636799812
+2015-07-20,"Greece is expected to pay 4.25 billion euros due on bonds; later this week, earnings reports will be announced by Apple, Morgan Stanley, Credit Suisse and General Motors.",neutral,0.14798185229301453
+2015-07-20,"Greece’s Debt Payments, Apple Earnings and Credit Suisse Results",neutral,0.01498236134648323
+2015-07-21,"While the quarter’s phone sales were one-third higher than a year ago, at 47.5 million, they fell short of analysts’ estimates, and the stock fell.",negative,-0.9572847485542297
+2015-07-21,"Apple Profit Up 38%, but iPhone Sales Disappoint Wall Street",negative,-0.37285491824150085
+2015-07-22,"Spotify’s deal with Beatport will also bring programming from the dozens of music festivals around the world operated by Beatport’s parent company, SFX Entertainment.",positive,0.753093421459198
+2015-07-22,Spotify Gains Access to Beatport Music and Videos,positive,0.8862283229827881
+2015-07-23,"Some technology pundits have declared the device a flop, but Apple has a history of using incremental improvements to make its products indispensable.",neutral,-0.23885028064250946
+2015-07-23,Daily Report: Sales of Apple Watch Suggest a Familiar Path to Success,positive,0.5982193946838379
+2015-07-24,And how to get iTunes on a PC play over Bluetooth speakers.,neutral,0.016895562410354614
+2015-07-24,Taking Stock of a Hard Drive’s Files,neutral,-0.025951482355594635
+2015-07-30,"Zhou Qunfei, founder of Lens Technology, has come to define a new class of female entrepreneurs in China who have built their wealth from scratch.",neutral,0.1368829309940338
+2015-07-30,How a Chinese Billionaire Built Her Fortune,neutral,0.08270495384931564
+2015-08-06,"The executive, Eddy Cue, said he was “thrilled” with the early results for the streaming service, which was introduced on June 30.",positive,0.8186104893684387
+2015-08-06,"Apple Music Attracts 11 Million Users in Trial Period, Executive Says",neutral,0.3562676012516022
+2015-08-07,"Recovering discarded photos before they are gone for good, and shutting down misbehaving applications.",neutral,-0.283468097448349
+2015-08-07,Digging for Trashed Pictures in Mac’s Photos App,negative,-0.4776770770549774
+2015-08-08,"Two technology journalists from The New York Times discuss the week’s developments, including parental-leave policies in Silicon Valley.",neutral,-0.07374324649572372
+2015-08-08,Farhad and Mike’s Week in Review: Netflix’s Not So ‘Unlimited’ Benefits,neutral,0.04299608990550041
+2015-08-11,"The pharmacy chain is the latest retailer to accept the mobile payments, which involve little more than waving a phone to conduct a transaction.",neutral,0.340932697057724
+2015-08-11,"In a Shift, Rite Aid to Accept Apple and Google Mobile Payments",positive,0.6179134845733643
+2015-08-12,"Turning off the default motion tracking function, defending against PC scams and requesting order history reports from Amazon.",neutral,0.011112157255411148
+2015-08-12,Stopping the iPhone Step Counter,neutral,-0.2933792471885681
+2015-08-13,"Samsung, trying to stay ahead of the competition, announced two big-screen Galaxy phones and a mobile-payments system.",neutral,0.2721329629421234
+2015-08-13,Samsung Introduces New Phones and Mobile Payments System,neutral,0.3235950171947479
+2015-08-14,"In this aging bull market, investors are showing signs of a sea change in their attitudes.",neutral,0.2098277360200882
+2015-08-14,Doubt Starts Chipping Away at the Market’s Mind-Set,negative,-0.5541213750839233
+2015-08-16,"“Compton: A Soundtrack” had 25 million streams worldwide in its first week on Apple’s new service, but is expected to open in second place in the United States.",negative,-0.2645159661769867
+2015-08-16,New Dr. Dre Album Serves as a Test for Apple Music,neutral,0.27333250641822815
+2015-08-19,How to protect from a vulnerability by which Android devices could be compromised by malicious code.,neutral,0.003114575520157814
+2015-08-19,"Also, figuring out the iOS step counter.",neutral,0.039645493030548096
+2015-08-19,Conquering Android’s Stagefright Bug,neutral,0.07036226242780685
+2015-08-24,"The chief executive of Apple said business was booming in China, where the company has long laid the groundwork to reap big sales.",positive,0.8812358975410461
+2015-08-24,Apple Stock Reacts After Tim Cook Email Praises China Sales,negative,-0.6536815166473389
+2015-08-25,"If the market doesn’t start to turn around soon, all the giant fund-raising rounds may be in limbo — as well as the life of some of today’s start-ups.",negative,-0.597824215888977
+2015-08-25,Daily Report: What a Hiccup in Start-Up Land Might Look Like,neutral,-0.12912140786647797
+2015-08-26,Facebook is wading into the increasingly crowded field of digital personal assistants with a new offering called M.,neutral,0.04966527968645096
+2015-08-26,Facebook Tests a Digital Assistant for Its Messaging App,neutral,0.03718215599656105
+2015-08-27,The investment bank joins a long list of counterfeits that includes Apple stores and British villages.,neutral,0.018179846927523613
+2015-08-27,"They’re easy to mock, but they show an ingenuity and pluck that could be powerful.",neutral,0.12284814566373825
+2015-08-27,A Fake Goldman Sachs Underlines a Real Chinese Strength,negative,-0.4100198447704315
+2015-08-28,"How to see if a Mac has been infected and what to do about it; plus, changing uppercase to lowercase, and vice versa, in Microsoft Word.",neutral,0.01899578981101513
+2015-08-28,Protecting Your Mac From Malware and Viruses,neutral,-0.03940553218126297
+2015-08-29,"Reports of Amazon layoffs, a new digital assistant service and artificial intelligence in general.",neutral,-0.34293505549430847
+2015-08-29,Farhad and Mike’s Week in Tech: Facebook Assistant,neutral,-0.06885610520839691
+2015-09-01,"Mr. Rogers, whose departure last week was a surprise to many, will be chief digital officer at the luxury brands company.",neutral,0.010339360684156418
+2015-09-01,Former Apple Music Executive Ian Rogers Moves to LVMH,neutral,-0.02363133430480957
+2015-09-03,"Also look for a review of apps for Windows 10, ahead of the presentation of the newest iPhone next week.",neutral,0.029087375849485397
+2015-09-03,"This Week, Sizing Up Smartphone Plans",neutral,0.41424113512039185
+2015-09-04,"How to get your Windows 10 operating system to recognize a printer; plus, the Internet speed necessary for smooth high-definition streaming on Apple TV.",neutral,0.027992386370897293
+2015-09-04,Coaxing a Printer to Work With Windows 10,neutral,0.05193452537059784
+2015-09-05,The online marketplace will now allow its Prime members to download some movies and TV shows to iOS and Android devices to watch programming offline.,neutral,0.15247035026550293
+2015-09-05,Mike and Quentin’s Week in Tech: Amazon’s Offline Game Changer,neutral,0.05654296278953552
+2015-09-06,"Vying for a spot in living rooms, Apple — which is expected to announce its new system on Wednesday — may have a tough time luring gamers who use an Xbox One or PlayStation.",negative,-0.911359429359436
+2015-09-06,"New Apple TV Is Said to Focus on Games, Challenging Traditional Consoles",neutral,0.3138824701309204
+2015-09-07,"Young sports fans are increasingly drawn to a digital parallel world where videos of skateboarding, snowboarding, surfing and other “action sports” dominate.",neutral,0.09382369369268417
+2015-09-07,"For Online Sports Videos, the Action Is No Longer on the Field",neutral,-0.06308682262897491
+2015-09-08,"These organizations thrived in the 1980s and ’90s and were the backbone of Apple’s faithful, but for some members, the tech giant’s success has been hard to reconcile.",neutral,0.07010573893785477
+2015-09-08,"Mac User Groups Fade in Number and Influence, but Devotees Press On",negative,-0.5476700067520142
+2015-09-09,"A reporter offers first impressions of the coming iPhone, iPad and Apple TV.",neutral,0.045968107879161835
+2015-09-09,Hands-On Experience With Apple’s New Devices,neutral,0.2275104969739914
+2015-09-10,Here are our responses to reader queries about the new Apple devices introduced at a company event on Wednesday.,neutral,0.041002217680215836
+2015-09-10,Answers to Questions About Apple’s New Products,neutral,0.046477869153022766
+2015-09-11,"As tech news slowed down, Ellen Pao, one of the former partners at Kleiner Perkins Caufield & Byers, said she would drop the appeal in her losing gender discrimination suit, citing personal resources.",negative,-0.9007396697998047
+2015-09-11,A Lull After Apple‘s Event,negative,-0.7166017293930054
+2015-09-12,"Another mobile payment app enters the fray, a gender-discrimination appeal is dropped and Apple unveils new devices.",negative,-0.8965966701507568
+2015-09-12,Farhad and Mike’s Week in Tech: Android Pay and Apple Products,neutral,-0.022646594792604446
+2015-09-13,A new version of the Apple TV device has a lot more capabilities than earlier versions.,neutral,0.2006251960992813
+2015-09-13,But getting television shows on the device is a challenge.,neutral,-0.026172805577516556
+2015-09-13,TV Bundles Challenge Apple to Make a Deal,neutral,-0.30505070090293884
+2015-09-14,Burberry is launching a channel on Apple Music.,neutral,0.04038463532924652
+2015-09-14,"The two companies share a history, with Apple recruiting Burberry’s then chief executive, Angela Ahrendts, in 2013.",neutral,0.14138251543045044
+2015-09-14,Burberry Creates a Channel for Apple Music,neutral,0.05510859936475754
+2015-09-16,Apple said it was delaying the release of a software update to Apple Watch because of a bug in the software.,negative,-0.9295212030410767
+2015-09-16,Apple Delays Release of New Apple Watch Software,negative,-0.6644174456596375
+2015-09-17,"The risk is less that cars from technology giants would destroy Mercedes-Benz or BMW, but rather that carmakers would become mere providers of hardware.",neutral,-0.363678514957428
+2015-09-17,Apple and Google Create a Buzz at Frankfurt Motor Show,neutral,0.34154778718948364
+2015-09-18,Apple’s new “financing” plan — a lease in all but name — makes available for phones a payment structure that is more familiar in the auto market.,neutral,0.1391892433166504
+2015-09-18,When Is a Lease Not a Lease?,neutral,-0.05104982852935791
+2015-09-18,When It’s an iPhone,neutral,-0.07918815314769745
+2015-09-19,"Apps that block all ads are threatening some web publishers’ livelihoods, which in turn could threaten some content on the web.",negative,-0.9282686114311218
+2015-09-19,Enabling of Ad Blocking in Apple’s iOS 9 Prompts Backlash,negative,-0.6155098676681519
+2015-09-21,"The company has made some small and useful improvements, but this is still a product of limited use for most people.",neutral,0.01866515725851059
+2015-09-21,"Apple Improves the Watch, Slightly",positive,0.8379536271095276
+2015-09-22,"We asked readers to send us questions about Apple’s newest smartphones, the iPhone 6s and 6s Plus, which go on sale Friday.",neutral,0.06492698192596436
+2015-09-22,Here are some answers.,neutral,0.02142331749200821
+2015-09-22,"Siri, Apple Music and Other iPhone Questions",neutral,0.004835827276110649
+2015-09-23,"Apps for the new devices and updated operating system include games, Microsoft’s Office suite, the Flipboard news aggregator and “content blockers.”",neutral,0.05292706936597824
+2015-09-23,Find Out What Apple’s New iPhones and iOS Can Do,neutral,0.029740341007709503
+2015-09-27,The premier met with technology executives over the weekend to seek ideas and assistance in bringing his nation fully into the digital world.,positive,0.7888860702514648
+2015-09-27,"Narendra Modi, Indian Premier, Courts Silicon Valley to Try to Ease Nation’s Poverty",positive,0.3964080810546875
+2015-09-28,"Throughout 2015, on outlets like Spotify and Apple Music, hip-hop and R&B releases have consistently posted far higher numbers than those in other genres.",positive,0.8172348141670227
+2015-09-28,Hip-Hop and R&B Fans Embrace Streaming Music Services,neutral,0.01018880307674408
+2015-09-29,"Timothy D. Cook, Apple’s chief executive, discussed civic duty, environment and selling to businesses at an event on Tuesday.",neutral,0.05875791236758232
+2015-09-29,"Tim Cook, Apple’s Chief, Speaks on Civic Duty",neutral,0.04605026915669441
+2015-09-30,"Apps recommended for watchOS 2 include the forecaster Carrot Weather, Citymapper for various modes of travel and the recording program Just Press Record.",neutral,0.012968010269105434
+2015-09-30,A Grab Bag of Software for the Apple Watch Upgrade,neutral,0.023669466376304626
+2015-10-01,Two tests were carried out with ad blockers: one to measure how much loading times were improved and the second to study battery life.,neutral,0.24537570774555206
+2015-10-01,Putting Mobile Ad Blockers to the Test,neutral,-0.1448988914489746
+2015-10-02,Amazon opens the latest battle against Google and Apple by banning the sale of its rivals’ streaming media players.,negative,-0.7046209573745728
+2015-10-02,Daily Report: Amazon and the Clash of the Titans,neutral,-0.04039440304040909
+2015-10-04,"Despite their very different companies, the chief executives of General Electric and Apple have something in common: They believe businesses will increasingly rely upon “personalized” technology to run their operations.",neutral,0.07931432127952576
+2015-10-04,Business Technology Starts to Get Personal,neutral,0.20597024261951447
+2015-10-05,"In a conflict of personalization and privacy, personalization has triumphed.",positive,0.6601473093032837
+2015-10-05,A View Emerges of Business Technology’s Future as the Personalization of the Machine,neutral,0.03835253417491913
+2015-10-07,"Security experts were still looking through LoopPay’s systems, but said there was no indication that Samsung’s systems had been infiltrated.",negative,-0.7065182328224182
+2015-10-07,"Chinese Hackers Breached LoopPay, Whose Tech Is Central to Samsung Pay",negative,-0.93732750415802
+2015-10-09,The new movie about the Apple co-founder suggests that the future envisioned by the tech industry’s leaders is worth putting up with them.,neutral,0.16247594356536865
+2015-10-09,"In ‘Steve Jobs,’ Tolerating Tech’s Unpleasant Visionaries",negative,-0.5816522836685181
+2015-10-10,"The app displays an error message instead of news articles, possibly in an effort to avoid running afoul of Chinese censorship policies.",neutral,-0.1807895451784134
+2015-10-10,Apple Is Said to Deactivate Its News App in China,negative,-0.5339734554290771
+2015-10-13,The country will cut its 12.5 percent corporate tax rate in half for revenues pegged to patents and other intellectual property.,negative,-0.770842432975769
+2015-10-13,"Ireland, Accused of Giving Tax Breaks to Multinationals, Plans an Even Lower Rate",negative,-0.8157435655593872
+2015-10-14,"Upgrading from an older version of Windows can sometimes damage the device drivers, including the one for the sound card.",negative,-0.9347596764564514
+2015-10-14,But the fix can be simple.,neutral,0.03864753991365433
+2015-10-14,Restoring Sound to Windows 10,neutral,0.3255147337913513
+2015-10-18,"As Apple focuses on apps and Google pushes the mobile web, businesses must grapple with a fragmenting online world.",negative,-0.8899799585342407
+2015-10-18,"Publishers Straddle the Apple-Google, App-Web Divide",neutral,-0.010832555592060089
+2015-10-19,"Tech earnings season is going into full swing, with companies including Yahoo, IBM, Google and Microsoft set to report quarterly results this week.",positive,0.7402395606040955
+2015-10-19,Their financial data may offer insight into which companies are gaining the upper hand in some tech battles.,neutral,0.3331187963485718
+2015-10-19,Daily Report: Tech Tussles Take Center Stage in Earnings,neutral,0.048323921859264374
+2015-10-20,"Timothy D. Cook, the company’s chief executive, said the new streaming service had 15 million total users, with 6.5 million paying customers.",neutral,0.0796884149312973
+2015-10-20,Apple Music Has 6.5 Million Paying Subscribers,neutral,0.013239655643701553
+2015-10-21,"It’s cheaper to own your smartphone outright, but early-upgrade plans from Apple and wireless carriers offer some other advantages.",neutral,0.37453070282936096
+2015-10-21,Lease a Smartphone or Buy It?,neutral,0.0024394840002059937
+2015-10-21,The Pros and Cons,neutral,0.014222592115402222
+2015-10-23,"The study also found that when companies playing accounting charades run into trouble, their corporate peers are deterred from mimicking their conduct.",negative,-0.8836706876754761
+2015-10-23,"Earnings Misstatements Come in Bunches, Study Says",negative,-0.8528615832328796
+2015-10-24,"Shares in Pandora, the Internet radio service, fell by 35 percent, a plunge that was to some degree a judgment on the company’s outlook in an increasingly crowded field that now includes Apple Music.",negative,-0.9596444964408875
+2015-10-24,Pandora Shares Plummet as Competition Grows,negative,-0.937471866607666
+2015-10-26,"This week, data on durable goods orders, consumer confidence and economic growth will be released.",neutral,0.0619041882455349
+2015-10-26,"In addition, several companies including Apple and Exxon Mobil will report earnings.",positive,0.5851646661758423
+2015-10-26,"Apple Earnings, United States Economic Data and Oil Results",neutral,-0.023495424538850784
+2015-10-27,"Despite strong sales of the new iPhone models, Apple’s forecast for the holiday season — traditionally its strongest quarter — was cautious.",negative,-0.875231146812439
+2015-10-27,"IPhone Demand Drives Apple Profit, but Outlook Is Muted",negative,-0.6087892651557922
+2015-10-28,"The social media service issued guidance below what Wall Street was expecting as its new chief executive, Jack Dorsey, looks at ways to reignite interest among consumers.",negative,-0.805860698223114
+2015-10-28,Daily Report: Twitter’s Fourth-Quarter Forecast Spooks Investors,negative,-0.9506257772445679
+2015-10-29,Its plethora of innovations and apps leads me to conclude that the upgraded box is now the best TV streaming device.,positive,0.8828060030937195
+2015-10-29,The New Apple TV Invigorates the Set-Top Box,positive,0.711744487285614
+2015-10-31,"Farhad Manjoo is off this week, so Mike Isaac joins deputy tech editor Jim Kerstetter to discuss Google’s plan to fold its two operating systems into the Android brand.",neutral,0.04440823942422867
+2015-10-31,Mike and Jim’s Week in Tech: Google’s New Version of Android,neutral,0.04196173697710037
+2015-11-05,The elite artist’s choice will reflect the industry’s larger debate over how fully to embrace the streaming format.,positive,0.5010107755661011
+2015-11-05,Adele’s Album Will Be Big.,neutral,0.08005517721176147
+2015-11-05,But Will It Be Streaming?,neutral,0.02359386906027794
+2015-11-06,"Interest and investment in artificial intelligence is back with a vengeance in Silicon Valley, attracting companies such as Toyota to make big bets in the space.",positive,0.8116311430931091
+2015-11-06,Daily Report: A $1 Billion Bet on Artificial Intelligence in Silicon Valley,neutral,0.040270932018756866
+2015-11-09,Flipkart worked with Google to create a new mobile website that was unveiled on Monday in a move to improve the mobile web experience and steer away from apps.,positive,0.8099378943443298
+2015-11-09,"With a Mobile Website Like an App, Flipkart Takes a Swipe at Apple",neutral,-0.02625831961631775
+2015-11-10,The move indicates that the German carmaker will continue to invest in advanced technologies despite the burdens of its emissions cheating crisis.,positive,0.9079709053039551
+2015-11-10,Volkswagen Hires Expert in Self-Driving Cars From Apple,neutral,0.3805392384529114
+2015-11-11,"A look at how the new features in Microsoft’s latest operating system compare with version 8.1, and what to do if you’re getting text messages on your iPad but not your iPhone.",neutral,0.03871777281165123
+2015-11-11,Weighing Benefits of Windows 10 Upgrade,neutral,0.3393842279911041
+2015-11-12,Video of the episode showed an employee saying there were fears they might “steal something.”,negative,-0.8626238107681274
+2015-11-12,Apple Apologizes to Black Students Ejected From Store in Australia,negative,-0.9102718234062195
+2015-11-13,"The resignation of the chief investment officer, Vania Schlogel, is at least the third high-level departure at the music streaming service since Jay Z bought it early this year.",negative,-0.9270020127296448
+2015-11-13,Jay Z’s Tidal Loses Another Executive,negative,-0.8218692541122437
+2015-11-16,"An acquisition would move Pandora, the Internet radio company, into the field of on-demand music, where it would compete with Spotify and Apple Music.",positive,0.8445417881011963
+2015-11-16,Pandora Plans to Acquire the Assets of Rdio,neutral,0.020020466297864914
+2015-11-17,"Caeden, a wearable tech start-up, hopes to attract consumers with a smart bracelet that looks more like a piece of jewelry than a gadget.",neutral,0.47220876812934875
+2015-11-17,"Caeden, a Wearable Tech Start-Up, Introduces a Smart Bracelet",neutral,0.106905497610569
+2015-11-19,You can back up the an address book as a vCard file and import it back into the cloud if disaster strikes.,neutral,-0.03219400346279144
+2015-11-19,Backing Up iCloud Contacts,neutral,0.028373613953590393
+2015-11-25,"As part of its switch to Windows 10 as a “service” that automatically updates itself, Microsoft has pushed out its Windows 10 November Update.",neutral,0.006354726850986481
+2015-11-25,Updating Windows 10,neutral,0.036405712366104126
+2015-11-28,"Total online sales are expected to generate $2.6 billion on Black Friday, a 14 percent increase compared to the same day last year.",positive,0.9223542213439941
+2015-11-28,Black Friday Shopping Shifts Online as Stores See Less Foot Traffic,negative,-0.8808910846710205
+2015-12-01,"The El Capitan update includes many enhancements to popular tools and programs, but many bugs have also been reported.",neutral,0.008353609591722488
+2015-12-01,Should You Update to Apple OS X El Capitan?,neutral,0.02809373289346695
+2015-12-02,"The speedy adoption of new technology is increasingly seen as the key to corporate success, according to the annual innovation scorecard from the Boston Consulting Group.",positive,0.8004846572875977
+2015-12-02,Boston Consulting’s Most Innovative Companies: Lessons From a Decade of Ranking,positive,0.4596516489982605
+2015-12-03,Ms. Mayer was hired as chief executive to transform Yahoo from a dull web portal into something new and exciting.,positive,0.7262215614318848
+2015-12-03,"But instead of bold, her tenure has been mostly boring.",neutral,-0.21914899349212646
+2015-12-03,Transformation at Yahoo Foiled by Marissa Mayer’s Inability to Bet the Farm,negative,-0.7858495116233826
+2015-12-04,"Samsung has agreed to pay Apple $548 million to settle a patent dispute, but their legal battle continues.",negative,-0.8841270804405212
+2015-12-04,Samsung to Pay Apple $548 Million in Patent Dispute,neutral,0.0424327626824379
+2015-12-08,"The retail executive, Angela Ahrendts, says that the Phantom, a non-Apple wireless speaker which starts at $1,990, will receive prominent display treatment.",positive,0.5102656483650208
+2015-12-08,Apple Executive Seeks a Touch of Chic at Retail Stores,neutral,0.07746735215187073
+2015-12-09,"Apple unveiled its best apps list for 2015, featuring what the company deems the most innovative and top software downloads of the year.",positive,0.5246756672859192
+2015-12-09,Apple Names Periscope the Top iPhone App of 2015,positive,0.6025007963180542
+2015-12-10,"The company said it would start accepting Walmart Pay, which will be integrated into its existing smartphone app, this month at stores in its home market around Bentonville, Ark.",positive,0.48670974373817444
+2015-12-10,Walmart Prepares to Enter Mobile Payments Business,neutral,0.0588260218501091
+2015-12-11,"Until an update to Picasa, here’s a way to get your photos into your computer from USB-connected cameras, including iPhones.",neutral,-0.010356152430176735
+2015-12-11,Importing Photos to Picasa in OS X 10.11,neutral,0.02887103706598282
+2015-12-13,"The new streaming service Apple Music will show a film of Ms. Swift’s concert in Australia, part of her world tour promoting her latest album.",neutral,0.0645812600851059
+2015-12-13,Apple Gains Exclusive Streaming Deal With Taylor Swift,positive,0.8762062191963196
+2015-12-14,"Samsung has filed an appeal to the Supreme Court, arguing that the legal framework for design patents is an issue larger than its dispute with Apple.",negative,-0.8151271343231201
+2015-12-14,Samsung’s Patent Loss to Apple Is Appealed to Supreme Court,negative,-0.8558385372161865
+2015-12-15,The Split View feature lets you work in two apps at once without having to fuss with windows sizes or placement.,neutral,0.004351114854216576
+2015-12-15,Dividing the Screen in Mac OS X,neutral,-0.10933857411146164
+2015-12-16,A reviewer continues to use a few of the many apps that go through his hands.,neutral,-0.013271847739815712
+2015-12-16,Here are some that stood out.,neutral,0.006018240004777908
+2015-12-16,Video Feature: Some Favorite Apps of 2015,neutral,0.057761065661907196
+2015-12-17,"One executive, Jeff Williams, was promoted to the job of chief operating officer, a position that had gone unfilled since 2011.",neutral,0.06585690379142761
+2015-12-17,Apple Makes Shifts in Senior Management,negative,-0.4161446988582611
+2015-12-18,"The deal, in a huge digital market, may give a boost to Apple Pay, which lets users pay for goods by holding a mobile device near a credit card reader.",positive,0.9105266332626343
+2015-12-18,Apple Pay Is Set to Arrive in China,neutral,0.10016655176877975
+2015-12-19,"With the rise of the “unicorns,” it was a year of punch-drunk valuations, seamed with anxiety.",negative,-0.47451716661453247
+2015-12-19,Farhad and Mike Ruminate on the Peaks and Abysses of 2015,neutral,0.01556362584233284
+2015-12-23,"The Apple phones were able to accomplish a range of restrictions, like blocking content and purchases, while Android phones offered incomplete solutions.",neutral,-0.21669118106365204
+2015-12-23,"For Parental Controls, iPhones Beat Androids",positive,0.6403048634529114
+2015-12-24,Business development companies are emerging from the shadows as controversy has increased over some of their tactics and results.,negative,-0.8218541741371155
+2015-12-24,Obscure Corner of Wall St.,neutral,-0.23152191936969757
+2015-12-24,Draws Skepticism From Investors,neutral,-0.24605926871299744
+2015-12-29,"If you have reached the end of the free three-month trial of the streaming service and find it is not for you, here’s how to stop the monthly bills.",neutral,-0.05459672957658768
+2015-12-29,Breaking Up With Apple Music,neutral,-0.15099936723709106
+2015-12-30,"After wearing an Apple Watch for eight months, a Times White House correspondent is convinced that smartwatches will eventually be considered essential.",neutral,0.4758635461330414
+2015-12-30,"With Taps on the Wrist, Apple Watch Points to the Future",neutral,0.051092758774757385
+2015-12-31,You may have a few other troubleshooting steps available if the Rebuild command under the Mailbox menu has not resolved the problem.,neutral,-0.3840803802013397
+2015-12-31,Digging Deeper for Missing Mac Mail Messages,negative,-0.44688260555267334
+2016-01-06,"Plenty of groundbreaking technologies are in the works, but in the meantime, expect to be bombarded with early, clumsy versions of tomorrow’s tech.",neutral,0.020047344267368317
+2016-01-06,"On Display at CES, Tech Ideas in Their Awkward Adolescence",neutral,0.08480653911828995
+2016-01-07,"The stock prices of Smith & Wesson and Sturm, Ruger have each risen more than shares of Apple since 2009, driven by surging sales linked to fears of regulation.",positive,0.4676039218902588
+2016-01-07,"After Mass Shootings, Some on Wall St. See Gold in Gun Makers",negative,-0.29661911725997925
+2016-01-08,How Mac users can find and organize their digital photos after upgrading to Photos for OS X.,neutral,0.027718910947442055
+2016-01-08,Relocating Old iPhoto Events in Photos for OS X,neutral,0.010546606034040451
+2016-01-11,"There are several ways to print contacts from iCloud, using a Mac or PC.",neutral,-0.017103729769587517
+2016-01-11,Printing a Paper Backup of Your iCloud Contacts,neutral,-0.0166623592376709
+2016-01-14,"Access to Amazon Instant Videos can be gained in many ways, including via game consoles and devices that connect to your TV set.",neutral,0.1595614105463028
+2016-01-14,"Amazon Prime Video, Home and Away",neutral,0.019141286611557007
+2016-01-16,"Apple Music gains ground, an initiative on self-driving cars and a sensible move from Foursquare — with a twist of “cool-kid” slang.",positive,0.71446692943573
+2016-01-16,Farhad and Mike’s Week in Tech: A Not-So-‘Basic’ Shift in Start-Ups,neutral,0.1394004225730896
+2016-01-18,"With its ability to play virtual instruments and mix tracks into finished songs, the program can appear intimidating, but there are tutorials right on the iPad.",neutral,-0.06716819107532501
+2016-01-18,Finding Your Way Around GarageBand,neutral,0.04226434975862503
+2016-01-20,"The company’s latest fundraising comes amid growing cutthroat competition from rivals like Spotify and Apple Music, which also are eagerly signing up new subscribers around the globe.",positive,0.856124222278595
+2016-01-20,Deezer Raises $109 Million After Postponing I.P.O.,positive,0.605577826499939
+2016-01-22,Investors value the search firm’s earnings from fast-growing digital advertising twice as highly as Apple’s from a saturating smartphone market.,positive,0.8150891661643982
+2016-01-22,They may be overlooking serious risks.,neutral,-0.20922993123531342
+2016-01-22,Alphabet Close to Overtaking Apple as Most Valuable Company,neutral,0.3267682194709778
+2016-01-24,"Apple, Microsoft and Amazon will announce their quarterly reports, the Fed will gather for the first time this year, and American and European negotiators have until Sunday to reach an agreement.",neutral,0.08431580662727356
+2016-01-24,"Tech Giants’ Earnings, the Fed Meets and a Deadline on a Data-Sharing Deal",negative,-0.4431602954864502
+2016-01-25,"Apple provides the software to move your files from an old Mac to a new one, but you need to provide the connection.",neutral,0.003974802792072296
+2016-01-25,Moving Your iTunes Library to a New Mac,neutral,0.03324807435274124
+2016-01-26,"The company’s quarterly revenue fell short of Wall Street forecasts, and it issued a disappointing forecast for the current period.",negative,-0.9632903933525085
+2016-01-26,Apple Says Sales of iPhones Have Slowed,neutral,-0.017316162586212158
+2016-01-27,"The streaming music service is seeking more money to better compete with rivals like Apple and Pandora, according to a person briefed on the plans.",positive,0.8515909314155579
+2016-01-27,Spotify Is Said to Be Seeking $500 Million in New Funds,neutral,0.05431519076228142
+2016-01-29,Apple has acquired an augmented reality start-up called Flyby Media and hired the former director of the Center for Human-Computer Interaction at Virginia Tech.,neutral,0.08835645765066147
+2016-01-29,Apple Sets Its Sights on Virtual Reality,neutral,0.03482655808329582
+2016-01-30,"Analysis on Apple’s iPhone sales, Microsoft’s rebound, Amazon’s profits and Facebook’s success with mobile advertising.",neutral,0.27670201659202576
+2016-01-30,Farhad and Mike’s Week in Tech: Lessons From Earnings Season,neutral,0.13071218132972717
+2016-02-01,"Revenue increased 24 percent in the most recent quarter, positioning the outfit formerly known as Google to become the world’s most valuable company.",positive,0.9361472725868225
+2016-02-01,"Alphabet, Google’s Parent Company, Grows Briskly to Close In on Apple",positive,0.7467778921127319
+2016-02-02,"Magic Leap has drawn attention for attracting investors like Google, Fidelity Investments and Warner Brothers, although it has shown the public little about its products.",neutral,0.06401599943637848
+2016-02-02,"Magic Leap, an Augmented Reality Firm, Raises $793 Million",positive,0.5269456505775452
+2016-02-03,The latest edition of the Safari browser makes it easy to mute unwanted audio blaring from open tabs.,neutral,0.04030594602227211
+2016-02-03,Silencing Noisy Web Pages,neutral,-0.17168670892715454
+2016-02-05,Apple provides free software assistance for moving files from an old Windows PC to a new Mac.,neutral,0.04509705305099487
+2016-02-05,Moving Files to a Mac From a PC,neutral,-0.08745618164539337
+2016-02-08,Users complained that a CBS Sports app cut out while they were trying to watch the big game.,negative,-0.937483549118042
+2016-02-08,"For Some Cord Cutters, Streaming Super Bowl Was a Nonstarter",neutral,-0.18346142768859863
+2016-02-09,"Apple may have shut down its free streaming radio feature, but other free online stations are available.",negative,-0.599055290222168
+2016-02-09,Finding a Replacement for Free iTunes Radio,neutral,0.046029385179281235
+2016-02-12,"The show, “Vital Signs,” will be offered through the Apple TV streaming video device, a person with knowledge of the matter said.",neutral,0.04839041084051132
+2016-02-12,Apple and Dr. Dre Are Said to Be Planning an Original TV Show,neutral,0.03202255070209503
+2016-02-16,"Apple often uses the debt markets despite having $215.7 billion in cash, largely because most of that is abroad and would be taxed if brought home.",neutral,-0.1938626766204834
+2016-02-16,Apple Plans $12 Billion Bond Sale for Buybacks and Dividends,neutral,0.030704766511917114
+2016-02-17,"Technologists and legal experts are dissecting what the company can’t, or won’t, do to help unlock the iPhone of a San Bernardino attacker.",negative,-0.48112186789512634
+2016-02-17,Explaining Apple’s Fight With the F.B.I.,negative,-0.743912935256958
+2016-02-18,"If a compatible TV tuner device cannot be found to pull in live television broadcast to the computer, online streams are another way to watch.",neutral,-0.07794232666492462
+2016-02-18,Finding Ways to Get Live TV on a Mac,neutral,0.11327839642763138
+2016-02-19,The Justice Department filed this motion on Friday asking a federal judge to immediately force Apple to help open an iPhone used by one of the San Bernardino killers.,negative,-0.6728571057319641
+2016-02-19,Justice Dept.’s Latest Legal Filing in Apple Case,neutral,0.022099215537309647
+2016-02-20,Apple’s refusal to help the F.B.I.,negative,-0.8608733415603638
+2016-02-20,break into its secure mobile operating system may benefit its brand in the rest of the world.,positive,0.9117982387542725
+2016-02-20,Apple Sees Value in Its Stand to Protect Security,neutral,0.24589063227176666
+2016-02-21,"Through encryption, the tech giant tried to remove itself from the equation when law enforcement requested access.",neutral,-0.29565566778182983
+2016-02-21,But iCloud presents challenges.,negative,-0.49462956190109253
+2016-02-21,"Apple Still Holds the Keys to Its Cloud Service, but Reluctantly",neutral,0.060228943824768066
+2016-02-22,"Speaking at the Mobile World Congress, Mr. Zuckerberg said he was sympathetic to Apple’s resistance to helping the government open a locked phone.",positive,0.5423932075500488
+2016-02-22,Mark Zuckerberg Backs Apple in Its Refusal to Unlock iPhone,negative,-0.8901028633117676
+2016-02-23,"If you have purchased books on an Amazon Kindle e-reader, you can download the collection onto your iPad with the iOS Kindle app.",neutral,0.015465614385902882
+2016-02-23,Loading the Kindle Library on an iPad,neutral,-0.07951086759567261
+2016-02-24,"Concerned about the government’s insistence that it break into a terrorist’s phone, the company wants to take that power out of its own hands.",negative,-0.6340270042419434
+2016-02-24,Apple Is Said to Be Trying to Make It Harder to Hack iPhones,negative,-0.7126826643943787
+2016-02-25,"“The larger question isn’t going to be answered in the courts, and shouldn’t be,” said James B. Comey Jr., who is fighting Apple to unlock a mass killer’s iPhone.",negative,-0.5500149130821228
+2016-02-25,F.B.I.,neutral,0.035103652626276016
+2016-02-25,Chief Presses Congress to Act on Data Privacy,neutral,0.07394666969776154
+2016-02-26,Apple’s chief received a standing ovation on Friday for opposing a court order requiring Apple to help law enforcement officials break into an iPhone.,negative,-0.7708141803741455
+2016-02-26,Apple Shareholders Show Their Support for Tim Cook,positive,0.49456170201301575
+2016-02-27,The Apple-F.B.I.,neutral,-0.08274225890636444
+2016-02-27,"fray, in a terrorism case no less, is reverberating throughout the digital world, with some East Coast-West Coast divergences.",neutral,-0.10446416586637497
+2016-02-27,Farhad and Mike Hash Out the Week’s Big Topic: Apple,neutral,-0.013475533574819565
+2016-02-29,"A federal judge denied the use of the All Writs Act, a law that federal authorities have cited in insisting on Apple’s help breaking into iPhones.",negative,-0.7088383436203003
+2016-02-29,Apple Wins Ruling in New York iPhone Hacking Order,negative,-0.5501033067703247
+2016-03-01,F.B.I.,neutral,0.035103652626276016
+2016-03-01,"personnel believed that by resetting the iCloud password, they could get access to information on the iPhone.",positive,0.49869561195373535
+2016-03-01,"Instead, it did the opposite.",neutral,0.06240783631801605
+2016-03-01,F.B.I.,neutral,0.035103652626276016
+2016-03-01,Error Locked San Bernardino Attacker’s iPhone,negative,-0.8144646286964417
+2016-03-02,Apps to read about the start-up world before the South by Southwest Interactive event begins later this month.,neutral,0.03583614155650139
+2016-03-02,Keeping Tabs on the SXSW Interactive Scene,neutral,0.024693161249160767
+2016-03-03,Apple’s legal battle with the government tests the limits of law enforcement agencies’ access to personal data.,negative,-0.7031505703926086
+2016-03-03,Apple Is Rolling Up Backers in iPhone Privacy Fight Against F.B.I.,positive,0.46880561113357544
+2016-03-04,"The arguments differed in interesting ways, but the main message was the same: We side with Apple.",neutral,0.07367222011089325
+2016-03-04,Legal Briefs Flood in to Support Apple,neutral,0.24675065279006958
+2016-03-05,"While the White House denies any internal disagreement over its legal battle with Apple, the differences in the administration have become increasingly apparent.",negative,-0.7112137675285339
+2016-03-05,Competing Interests on Encryption Divide Top Obama Officials,negative,-0.6255439519882202
+2016-03-06,"In an interview, Margrethe Vestager, the European Union’s competition commissioner, discusses the issues underpinning her current investigations and whether she unfairly targets American companies.",neutral,-0.3368827998638153
+2016-03-06,"Europe’s Antitrust Enforcer on Google, Apple and the Year Ahead",neutral,0.11579249054193497
+2016-03-07,"The Justice Department said a federal judge had erred in not ordering Apple to unlock a drug dealer’s iPhone, in a case being watched by lawyers and experts on both sides of the encryption debate.",negative,-0.8729462027549744
+2016-03-07,Justice Dept.,neutral,-0.03068007528781891
+2016-03-07,Appeals Ruling in Apple iPhone Case in Brooklyn,negative,-0.4027288556098938
+2016-03-09,"If you need an hourly reminder to do something, you can get a third-party app or just use software included with your Apple device.",neutral,-0.01733488216996193
+2016-03-09,Setting Hourly Alarms on Apple Devices,neutral,-0.30670756101608276
+2016-03-10,The Justice Department said “no single corporation” — even one as successful as Apple — should be allowed to flout the rule of law.,neutral,-0.32023829221725464
+2016-03-10,Apple and U.S. Bitterly Turn Up Volume in iPhone Privacy Fight,positive,0.4866315424442291
+2016-03-11,"In a court filing in the high-stakes case, the Justice Department said “no single corporation” should be allowed to flout the rule of law.",neutral,-0.2632244825363159
+2016-03-11,The Government Answers Apple in the iPhone Case,neutral,-0.0170244500041008
+2016-03-12,"A fight with WhatsApp, the world’s largest mobile messaging service, would open a new front in the Obama administration’s dispute with Silicon Valley over encryption, security and privacy.",negative,-0.882573127746582
+2016-03-12,WhatsApp Encryption Said to Stymie Wiretap Order,neutral,-0.2866019606590271
+2016-03-14,"The debate that began three years ago after revelations about government surveillance has become more personal, now that smartphones are involved.",neutral,-0.17808037996292114
+2016-03-14,"In the Apple Case, a Debate Over Data Hits Home",neutral,-0.3307912349700928
+2016-03-15,The company said a ruling on unlocking the phone of a gunman in a mass shooting had to take into account the national debate over data privacy.,negative,-0.5553421974182129
+2016-03-15,Apple and Justice Dept.,neutral,-0.06995885074138641
+2016-03-15,Trade Barbs in iPhone Privacy Case,neutral,-0.08625265210866928
+2016-03-16,"In the latest volley between the tech giant and law enforcement, Apple says it is standing up for people’s rights.",positive,0.4692414402961731
+2016-03-16,The Justice Department disagrees.,negative,-0.5609899759292603
+2016-03-16,Apple Invokes ‘Rights of the American People’ in Its Fight,neutral,0.05368667095899582
+2016-03-17,The potential resistance adds a wrinkle to a very public fight over access to an iPhone used by one of the San Bernardino attackers.,negative,-0.9290133714675903
+2016-03-17,"Apple Encryption Engineers, if Ordered to Unlock iPhone, Might Resist",neutral,-0.413540780544281
+2016-03-18,"Apple’s iTunes software cannot play song files that have been moved or deleted, but the program tells you where to look for the lost tracks.",neutral,-0.4310232400894165
+2016-03-18,Cracking the Mystery of the Missing iTunes Files,neutral,-0.10991265624761581
+2016-03-19,"Examining virtual reality tech for gamers, mourning Google’s viral robots and revisiting the Apple-F.B.I.",neutral,0.031319353729486465
+2016-03-19,case.,neutral,-0.006324298679828644
+2016-03-19,Farhad and Mike Parse Virtual Reality Tech and the Apple Standoff,neutral,0.03072703629732132
+2016-03-20,"The New York Times reporters Katie Benner, who covers technology, and Matt Apuzzo, who covers national security, debate the iPhone case as it heads to a hearing.",neutral,-0.17114917933940887
+2016-03-20,Apple vs. the F.B.I.,negative,-0.6443080306053162
+2016-03-20,: How the Case Could Play Out,neutral,-0.0582001656293869
+2016-03-21,A court hearing set for Tuesday was canceled in the Justice Department’s bid to gain access to phone data in the San Bernardino mass shooting inquiry.,negative,-0.8549984693527222
+2016-03-21,U.S. Says It May Not Need Apple’s Help to Unlock iPhone,neutral,-0.12232166528701782
+2016-03-22,"Apple is in a courtroom fight with the Justice Department, while Yahoo is contending with a sliding stock price and an activist hedge fund.",negative,-0.9257037043571472
+2016-03-22,Apple and Yahoo Each Struggle for Control of Their Futures,negative,-0.7502816915512085
+2016-03-23,"Brian X. Chen of The Times answers readers’ questions about the new iPhone, which combines a four-inch screen with some features from bigger models.",neutral,0.1993820071220398
+2016-03-23,"Why You May Want a Smaller iPhone, and Your Questions Answered",neutral,0.03274722024798393
+2016-03-24,"Apple said it would work with two veteran television executives and the entertainer Will.i.am on the show, about which it disclosed few details.",neutral,0.10256161540746689
+2016-03-24,Apple’s First Foray Into Original TV Is a Series About Apps,neutral,0.043212421238422394
+2016-03-26,The battle between Apple and the F.B.I.,negative,-0.7814122438430786
+2016-03-26,"fizzled a bit last week, but the company’s return to a scaled-down, cheaper smartphone is something worth discussing.",neutral,0.30238232016563416
+2016-03-26,"Farhad and Mike on How Apple’s New, Smaller iPhone Is Easing the Pain",neutral,0.13037560880184174
+2016-03-27,As Apple battles the F.B.I.,negative,-0.699373185634613
+2016-03-27,"over “unlocking” an iPhone, European governments are pushing for greater access to people’s digital lives.",positive,0.5104260444641113
+2016-03-27,American Tech Giants Face Fight in Europe Over Encrypted Data,negative,-0.9042503833770752
+2016-03-28,"The Justice Department announcement, in a court filing, ends an immediate legal battle over the San Bernardino shooting case but raises questions about Apple’s security.",negative,-0.8157202005386353
+2016-03-28,U.S. Says It Has Unlocked iPhone Without Apple,neutral,0.40799054503440857
+2016-03-29,SoundCloud’s $10-a-month service will give users access to millions more songs and allow them to listen offline.,positive,0.6893450617790222
+2016-03-29,"SoundCloud Starts Subscription Plan, Taking On Spotify and Apple",neutral,0.3411722779273987
+2016-03-30,"Game apps show off the graphics ability of Apple’s new, smaller iPhone and iPad Pro, and some productivity apps are well suited to the devices.",neutral,0.4207002818584442
+2016-03-30,Sizing Up Apple’s New Downsized Devices,neutral,0.16432581841945648
+2016-04-01,"Even if you did not download the music to your iOS device from the iTunes store, you can still take it along on your mobile gadget.",neutral,0.0063088443130254745
+2016-04-01,Moving CD-Ripped Music From the Computer to the iPad,neutral,-0.05032208189368248
+2016-04-05,"The newest Apple set-top boxes come with storage space for the programs you download, but you can delete those added apps if space gets tight.",neutral,-0.046266086399555206
+2016-04-05,Clearing Space on the Apple TV,neutral,-0.008255116641521454
+2016-04-06,"Tech companies, banks and stores have bet big on the future of mobile payments, yet a tiny fraction of total purchases are being made with phones.",neutral,0.06772968918085098
+2016-04-06,"Why We Are Still Reaching for Wallets, Not Phones, at the Checkout",neutral,-0.03481714800000191
+2016-04-07,"In a return to form, the South Korean electronics maker benefited from sales of smartphones, its recent Achilles’ heel.",positive,0.9318124651908875
+2016-04-07,"Samsung Profits Are Up, Thanks to Its Galaxy 7 Smartphone",positive,0.9163430333137512
+2016-04-08,"In a letter to a federal judge, the Justice Department said it still required help despite its success in gaining iPhone data in a separate case.",negative,-0.6604803204536438
+2016-04-08,U.S. Presses Bid to Force Apple to Unlock iPhone in New York,negative,-0.4750920534133911
+2016-04-12,"If the screen on your iOS device is cluttered with folders that contain just one app, you can clean things up with a simple drag and drop.",neutral,-0.11592583358287811
+2016-04-12,Freeing Lonely iPad Apps From Almost Empty Folders,neutral,0.25586044788360596
+2016-04-14,Newly declassified and released records show in new detail how F.B.I.,neutral,0.03374997526407242
+2016-04-14,hackers worked to defeat encryption over a decade before the agency’s recent fight with Apple over access to a locked iPhone.,neutral,0.007299438118934631
+2016-04-14,F.B.I.,neutral,0.035103652626276016
+2016-04-14,Used Hacking Software Decade Before iPhone Fight,neutral,-0.038319993764162064
+2016-04-16,The dispute began two months ago when the federal agency sought Apple’s help to gain access to a phone used by an attacker in a mass shooting.,negative,-0.7219957709312439
+2016-04-16,"In New Filing, Apple Resists F.B.I.’s Call to Open iPhone in Drug Case",negative,-0.7601886987686157
+2016-04-18,Apple and the F.B.I.,neutral,-0.14286528527736664
+2016-04-18,will defend their positions on encryption.,neutral,0.07430031150579453
+2016-04-18,"And Volkswagen faces a Thursday deadline to present its plan to fix 600,000 diesel cars in the United States.",negative,-0.6212377548217773
+2016-04-18,"Apple to Testify Again, and VW Due Date Nears",neutral,0.11731510609388351
+2016-04-19,"Government officials and Apple representatives showed no sign of compromise in their battle over encryption and privacy, as they appeared before a congressional panel.",neutral,-0.09318260848522186
+2016-04-19,F.B.I.,neutral,0.035103652626276016
+2016-04-19,Says It Needs Hackers to Keep Up With Tech Companies,negative,-0.6184236407279968
+2016-04-21,"Previously, the F.B.I.",neutral,-0.01165504939854145
+2016-04-21,had been unwilling to say how much it paid to look into the iPhone of a gunman in the San Bernardino shootings.,negative,-0.643020510673523
+2016-04-21,F.B.I.,neutral,0.035103652626276016
+2016-04-21,Director Suggests Bill for iPhone Hacking Topped $1.3 Million,neutral,0.27091604471206665
+2016-04-22,"The iBooks Store and iTunes Movies were closed six months after they began in China, which had been more welcoming of Apple than other tech companies.",negative,-0.876261293888092
+2016-04-22,Apple Services Shut Down in China in Startling About-Face,negative,-0.9403335452079773
+2016-04-23,The tentative Uber settlement leaves unresolved the dispute over the company’s practice of keeping its drivers as contractors instead of employees.,negative,-0.9153226017951965
+2016-04-23,Farhad and Mike’s Week in Tech: To Be or Not To Be an Uber Employee,neutral,-0.1203494518995285
+2016-04-25,"Many of the factors that hurt last week’s earnings will be minor this week, but companies like Apple and Facebook have their own challenges.",negative,-0.9150710105895996
+2016-04-25,Different Issues for Next Wave of Tech Earnings Reports,neutral,-0.0049028582870960236
+2016-04-26,"Revenue fell 13 percent, to $50.6 billion, as sales of the company’s flagship product fell with little else to take its place.",negative,-0.9653769731521606
+2016-04-26,"IPhone Sales Drop, and Apple’s 13-Year Surge Ebbs",negative,-0.9427328705787659
+2016-04-27,"The bureau said that it would not ask for a review of the tactics used to break into the iPhone of a San Bernardino, Calif., attacker.",neutral,-0.06640724837779999
+2016-04-27,"With Finality, F.B.I.",neutral,0.07284136861562729
+2016-04-27,Opts Not to Share iPhone-Unlocking Method,neutral,0.015657924115657806
+2016-04-28,Mr. Icahn says he is worried the country’s government could make it difficult for the company to do business there.,negative,-0.9392587542533875
+2016-04-28,Carl Icahn Says He Has Sold His Stake in Apple Over China Concerns,neutral,0.009431198239326477
+2016-04-29,"The music, video and other files in your iTunes collection can move right into a new Windows 10 computer.",neutral,0.010595973581075668
+2016-04-29,A New Windows PC for an Old iTunes Library,neutral,0.040535859763622284
+2016-04-30,"The (relative) decline of Apple, the ascendance of Amazon and the continuing dominance of Mark Zuckerberg’s social network.",negative,-0.4651685059070587
+2016-04-30,Farhad and Mike’s Week in Tech: The Unstoppable Facebook,neutral,0.011993460357189178
+2016-05-02,"Fitbit, a leader in wearable technology, is growing both in staff and sales, but it struggles with public comparisons to its larger rival Apple.",negative,-0.7304726839065552
+2016-05-02,Fitbit Strives to Escape the Shadow of Apple,neutral,0.09619154781103134
+2016-05-03,"Fitbit, which continues to increase sales, remains challenged by the mystique of Apple as it tries to compete with the multifunctional Apple Watch.",negative,-0.9312497973442078
+2016-05-03,"Sometimes in Tech, Glitz Trumps Reason",neutral,-0.09100328385829926
+2016-05-04,"To fight fraud, the retail industry has shifted away from traditional magnetic credit cards in favor of cards with embedded computer chips.",neutral,0.28119131922721863
+2016-05-04,They’re slow.,neutral,-0.17337791621685028
+2016-05-04,Why Apple Pay and Other Mobile Wallets Beat Chip Cards,neutral,0.3859708607196808
+2016-05-05,"If Apple’s password-management program for the Mac is constantly popping up alerts, you probably have some updating to do.",neutral,-0.003459751605987549
+2016-05-05,Fixing a ‘Login Keychain Password’ Error in OSX,negative,-0.7977168560028076
+2016-05-07,The podcast has soared in popularity.,positive,0.9136389493942261
+2016-05-07,"But there’s not much money in it for Apple, the genre’s creator, leaving many in the community feeling neglected.",negative,-0.8744500279426575
+2016-05-07,"Podcasts Surge, but Producers Fear Apple Isn’t Listening",negative,-0.9138267636299133
+2016-05-09,The technology industry and government officials have staked out their turf over a draft encryption bill.,neutral,-0.002371087670326233
+2016-05-09,Agreement does not appear to be in the cards.,neutral,0.01576780527830124
+2016-05-09,"The Clash of Privacy, Legislation and Software",negative,-0.4077012836933136
+2016-05-13,The investment in the Didi Chuxing ride-hailing app enlarges the American giant’s Asian footprint as it comes under greater scrutiny from Beijing.,positive,0.9047700762748718
+2016-05-13,Apple’s $1 Billion Investment May Ease Ties With China,positive,0.7890662550926208
+2016-05-16,A committee with ties to the country’s military and security agencies is requiring foreign tech giants like Apple to answer questions about encryption and data storage.,neutral,-0.3010828197002411
+2016-05-16,China Quietly Targets U.S. Tech Companies in Security Reviews,negative,-0.7142312526702881
+2016-05-17,"Apple has Siri, Amazon has its Echo, and now Google will introduce its virtual agent, Google Home.",neutral,0.14272263646125793
+2016-05-17,Google to Introduce Its Voice-Activated Home Device,positive,0.615775465965271
+2016-05-18,"A virtual assistant designed to compete with the Echo from Amazon and other artificial intelligence devices coming from Microsoft, Apple and Facebook.",neutral,0.10128428786993027
+2016-05-18,Google Home: A Voice-Activated Device That Already Knows You,neutral,-0.09994485974311829
+2016-05-19,"After a sales slump, the company is trying to lure newcomers to the Apple brand and persuade existing customers to buy more Apple goods.",positive,0.586395800113678
+2016-05-19,"Apple Shifts From Genius Bars to Genius Groves, Hoping Patrons Linger",neutral,0.1500907689332962
+2016-05-20,"Recent versions of Apple’s OS X and iOS operating system software offer an easy way to share music, videos and other items between family members.",neutral,0.09964702278375626
+2016-05-20,Sharing iTunes Store Purchases,neutral,0.02603927254676819
+2016-05-24,"Like Apple and Google have done for their own gadgets, Microsoft has a way for users to track down missing Windows 10 hardware.",neutral,0.023593522608280182
+2016-05-24,Locating a Lost Windows Device,neutral,-0.12799590826034546
+2016-05-25,Forcibly quitting open apps or refreshing the phone’s random access memory might help speed up the device’s performance.,positive,0.8106398582458496
+2016-05-25,Reviving a Sluggish iPhone,neutral,0.21964573860168457
+2016-05-26,"An aging iPhone, a tepid stock price and a pile of idle cash, however, could make even a mediocre idea look awfully tempting.",negative,-0.740245521068573
+2016-05-26,Rethinking Apple’s Recipe for Success,neutral,0.1267586648464203
+2016-05-31,Apple’s built-in camera app for its iOS devices includes controls for zooming and other fine-tuning — if you know where to tap.,neutral,0.019272509962320328
+2016-05-31,Getting Up Close With the iOS Camera,neutral,0.04176769778132439
+2016-06-01,"There may be no love lost between Donald Trump and the tech world, but he is likely to need tech backers as his campaign turns to the general election.",neutral,0.2487737238407135
+2016-06-01,Silicon Valley Finds Trump’s Disruption Unwelcome,negative,-0.8781741261482239
+2016-06-03,"Mr. Fadell, a star executive known for his aggressive management style, helped found the maker of high-tech home devices and sold it to Google for $3.2 billion 2014.",neutral,0.06873231381177902
+2016-06-03,"Tony Fadell Steps Down Amid Tumult at Nest, a Google Acquisition",negative,-0.49497905373573303
+2016-06-06,"Mr. Carter, the former manager of Lady Gaga, is expected to oversee relationships with musicians as competition mounts in the streaming business.",neutral,0.04962940141558647
+2016-06-06,Spotify Hires Troy Carter as a Liaison With Artists,neutral,-0.007500547915697098
+2016-06-07,"Google makes a version of its predictive assistant software for Apple devices, but the native Android version has more features.",neutral,0.001035960391163826
+2016-06-07,Using Google Now for iOS,neutral,-0.005713548511266708
+2016-06-09,Apple’s developer gathering comes as iPhone sales have been dropping.,negative,-0.960580587387085
+2016-06-09,"E3, the gaming conference, will be held as free downloadable games steal its thunder.",neutral,-0.017065580934286118
+2016-06-09,"Two Conferences Next Week, Each Facing Headwinds",negative,-0.9289824962615967
+2016-06-10,"With growing competition from the likes of Google and Amazon, Apple appears to be working to improve its relationship with app makers.",positive,0.9277592301368713
+2016-06-10,Apple Starts to Woo Its App Developers,positive,0.4593769907951355
+2016-06-12,The Worldwide Developers Conference is scheduled in San Francisco and China awaits a decision that could add its domestic shares to a major global stock index.,neutral,0.36774200201034546
+2016-06-12,"The Week Ahead: Apple to Woo Developers, and Fed to Hold Monthly Meeting",neutral,0.06358484923839569
+2016-06-13,"The Apple operating systems of iOS, tvOS, MacOS and WatchOS will be upgraded in the fall.",positive,0.7513838410377502
+2016-06-13,What You Need to Know About Apple’s Software Upgrades,neutral,0.008362111635506153
+2016-06-14,"Apple still seems to view online services as add-ons to its devices, not as products or platforms that rise above the equipment.",neutral,0.06201812997460365
+2016-06-14,Can Apple Think Outside the Device?,neutral,0.02646414004266262
+2016-06-15,"The UEFA Euro 2016 soccer championships are taking place in France, a good time to get to know the global game.",neutral,0.16008125245571136
+2016-06-15,"Apps offer stats, scores and games.",neutral,-0.0033994559198617935
+2016-06-15,Put Yourself in the Soccer Game (No Shin Guards Needed),neutral,0.029631536453962326
+2016-06-16,The titan of consumer technology has a conundrum: Can it create consumer delight in technology without snooping on its customers?,neutral,-0.10613569617271423
+2016-06-16,Apple Faces an Artificial Intelligence Challenge,neutral,-0.15021036565303802
+2016-06-17,"A complaint from an obscure Chinese phone maker resulted in a partial iPhone sales ban, though the order has been stayed as Apple appeals.",negative,-0.9357888698577881
+2016-06-17,Apple iPhone Is Targeted in Beijing Patent Case,neutral,0.021893054246902466
+2016-06-18,Farhad and Mike try to itemize Microsoft’s $26.2 billion bill for LinkedIn.,neutral,0.046605728566646576
+2016-06-18,"Uber’s Chinese rivalry, Apple updates and other tech news.",neutral,0.0627705305814743
+2016-06-18,Farhad’s and Mike’s Week in Tech: That Business of Microsoft Buying LinkedIn,neutral,-0.04390610754489899
+2016-06-20,"While the stores are not expected to have a large impact on the company’s market share in India, some analysts say the change could help Apple attract the top tier of India’s smartphone buyers.",positive,0.8956024646759033
+2016-06-20,Apple May Soon Open Retail Stores in India,neutral,0.08278080075979233
+2016-06-22,Apple’s iOS 9 operating system includes an upgraded Notes app that can handle more than just typed text.,neutral,0.3143842816352844
+2016-06-22,Illustrating Your Thoughts in iOS Notes,neutral,0.011982720345258713
+2016-06-25,"Farhad and Mike discuss rumors that Apple will remove headphone jacks from the next iPhone, tech company metrics, Buzzfeed’s Uber investigation and other tech news.",negative,-0.6686142683029175
+2016-06-25,Farhad’s and Mike’s Week in Tech: Are Apple’s Headphone Jacks the New Floppy Drive?,neutral,0.01646743342280388
+2016-06-27,"Apple and Dell, longtime rivals in the battle over sales to educators and students, now have plenty of company from companies like Amazon and others.",neutral,0.3032803535461426
+2016-06-27,Tech Makes Its Pitch to the Education Community,neutral,0.08747045695781708
+2016-06-29,"Besides offering autocorrection and anticipating a user’s next words, keyboard apps provide search features and can customize the keys’ layout.",neutral,0.005906280130147934
+2016-06-29,Third-Party Keyboards Give Mobile Users More Options,neutral,-0.0012560505419969559
+2016-07-01,"The presumed logic is that buying Tidal will help Apple strengthen its own service, but Tidal is struggling, too.",positive,0.8724073171615601
+2016-07-01,"Apple Flounders, but Tidal Will Not Steady the Boat",negative,-0.8235757946968079
+2016-07-02,"News from Zenefits, Apple, Spotify, Facebook and Tesla, which announced the death of a Tesla driver who crashed while using Autopilot.",neutral,-0.1278599053621292
+2016-07-02,"Farhad’s and Mike’s Week in Tech: Death, Denial and Self-Driving Cars",neutral,-0.17273128032684326
+2016-07-06,Apple’s AirPort base stations and other network router models use their status lights to get your attention when the hardware needs help.,neutral,-0.039862409234046936
+2016-07-06,What Your Router Is Trying to Tell You,neutral,-0.040213219821453094
+2016-07-07,"Early adopters can try the new messaging app and improved photo software, and they can help the tech giant fix problems before the full release in the fall.",positive,0.5154356956481934
+2016-07-07,Apple’s iOS 10 Is Available for Beta Testers Who Want a Head Start,neutral,-0.000738825649023056
+2016-07-08,"The theory of a more holistic approach is that the brain thrives on continuous stimulation, which can include exercising, laughing and socializing.",neutral,0.07482122629880905
+2016-07-08,"For Effective Brain Fitness, Do More Than Play Simple Games",neutral,0.008251572027802467
+2016-07-11,Using your phone’s cellular signal as an internet connection for your computer gets you online — but can chew through your monthly data allowance.,neutral,-0.4169241786003113
+2016-07-11,Burning Data With a Hot Spot,neutral,-0.22032621502876282
+2016-07-13,"Apple’s software can track your Mac’s location for better search results, but you can turn off the setting if you would rather not be followed.",neutral,-0.19534845650196075
+2016-07-13,Staying Under the OS X Radar,neutral,0.06891903281211853
+2016-07-15,Apple proposed that streaming services pay 9.1 cents for every 100 plays of a song.,neutral,0.023058399558067322
+2016-07-15,That would significantly increase what its rival Spotify pays.,positive,0.8882033228874207
+2016-07-15,"Apple, in Seeming Jab at Spotify, Proposes Simpler Songwriting Royalties",neutral,-0.0016626007854938507
+2016-07-18,"Apple’s virtual assistant has the ability to learn as it works, but you have ways to correct some of its common mistakes to speed up the process.",neutral,0.05901008099317551
+2016-07-18,Making Siri Spell Your Name Right,neutral,-0.02633436769247055
+2016-07-19,Platform writers in both parties call for reviving Glass-Steagall to curb Wall Street.,neutral,0.11551496386528015
+2016-07-19,But the agreement is narrow and shallow.,negative,-0.7075138092041016
+2016-07-19,G.O.P.,neutral,0.031348817050457
+2016-07-19,Joins Democrats Urging Glass-Steagall’s Revival.,positive,0.5619875192642212
+2016-07-19,(Don’t Hold Your Breath.),neutral,0.015818439424037933
+2016-07-25,"Apple, Facebook, Amazon and Alphabet will post quarterly earnings this week, reflecting how they are doing in online ads, mobile and cloud computing.",positive,0.5430694222450256
+2016-07-25,Tech Behemoths Report Their Results,negative,-0.3888624608516693
+2016-07-26,"A second quarter of dismal sales leaves analysts wondering: Are customers out of love with Apple, or just waiting for the latest products?",negative,-0.9462922811508179
+2016-07-26,"Apple’s iPhone Sales Drop Again, but Services Are a Bright Spot",negative,-0.5135759115219116
+2016-07-27,"Shares of the company rose in after-hours trading on Tuesday because its earnings report, though not pretty, was less bleak than Wall Street expected.",positive,0.8101057410240173
+2016-07-27,Apple Pleases by Not Disappointing So Much,neutral,0.09722858667373657
+2016-07-28,"Although they have had huge success, and billions of dollars in investment, in the country, the ride-hailing services had operated in a legal gray area.",negative,-0.7823585271835327
+2016-07-28,"Didi Chuxing and Uber, Popular in China, Are Now Legal, Too",neutral,0.03678494691848755
+2016-07-29,"Plenty of internet-ready hardware can pull in programming over a broadband connection, and it takes just takes a few steps to set it all up.",neutral,0.024563973769545555
+2016-07-29,Flowing Internet Video Streams Through the Television,neutral,0.029597610235214233
+2016-07-30,"Twitter, Facebook, Google and Amazon shared their second-quarter earnings reports, and Yahoo agreed to sell itself to Verizon for about $5 billion.",neutral,0.20343108475208282
+2016-07-30,Farhad’s and Mike’s Week in Tech: The Cautionary Tale of the Fall of Yahoo,neutral,-0.06771271675825119
+2016-08-01,"Wells Fargo joined three other banks in allowing instant payments, a market that has been taken over by services like Apple Pay and PayPal’s Venmo.",positive,0.6084275245666504
+2016-08-01,"Under Pressure, Big Banks Vie for Instant Payment Market",neutral,0.03972895070910454
+2016-08-03,"After just one firm raised one-quarter of all funding in the second quarter, midsize investors are facing a future in which they could be squeezed out.",negative,-0.9208370447158813
+2016-08-03,Daily Report: Venture Capital’s Endangered Middle Class,negative,-0.8480765223503113
+2016-08-05,"The iTunes Store is not the only place to get movies for an iPod Nano or Classic, but you can use the iTunes program itself to transfer the files.",neutral,0.001623295247554779
+2016-08-05,Adding Old Movies to an Old-Fashioned iPod,neutral,0.07799677550792694
+2016-08-08,"Corporations are turning to Apple’s products for their tight-knit hardware and software, advanced security and intuitive interfaces.",neutral,0.1428346484899521
+2016-08-08,"Once Taunted by Steve Jobs, Companies Are Now Big Customers of Apple",neutral,0.003536723554134369
+2016-08-15,"Social media companies are rushing to strike deals to bring live-streamed events to their users, and reap the benefits of higher-priced ads.",positive,0.7649794816970825
+2016-08-15,Daily Report: Live Video Is Where the Advertising Bucks Are,neutral,-0.015429504215717316
+2016-08-16,"Unlike Apple’s FaceTime app, Duo can be used between the Android and iOS universes.",neutral,-0.0016522351652383804
+2016-08-16,Google Duo Challenges FaceTime,neutral,-0.3447939157485962
+2016-08-17,"Apple’s spreadsheet program can edit Microsoft Excel files, but you need to take an extra step to use those files in Excel again.",neutral,0.011780554428696632
+2016-08-17,Converting Spreadsheets in Apple’s Numbers to Excel,neutral,0.03788693621754646
+2016-08-19,"E-book readers and tablets can handle several types of files, but some may work better for certain kinds of books.",neutral,0.07718595117330551
+2016-08-19,Picking a Digital Publishing Format,neutral,0.034742265939712524
+2016-08-22,Leaving your phone plugged in when its battery is already fully charged shouldn’t be bad for it.,negative,-0.5668948888778687
+2016-08-22,Except that the act of charging can itself hurt our phones.,negative,-0.8400474786758423
+2016-08-22,Should You Charge Your Phone Overnight?,neutral,-0.09275521337985992
+2016-08-23,"As a wholesaler, the company can cut power costs and carbon dioxide emissions.",positive,0.5381917357444763
+2016-08-23,It will get much of its supply from a solar energy farm now being built.,neutral,0.059793610125780106
+2016-08-23,"Apple Becomes a Green Energy Supplier, With Itself as Customer",positive,0.6547027230262756
+2016-08-24,"Big data centers for the likes of Apple, Facebook and Google are increasing the demand for renewable energy, which may spur the construction of green facilities.",positive,0.8200207948684692
+2016-08-24,"Daily Report: More Clean Energy, Brought to You by the Cloud",neutral,0.2576644718647003
+2016-08-25,Apple has patched its mobile operating system after investigators found flaws that were exploited to spy on dissidents and journalists.,negative,-0.9366103410720825
+2016-08-25,IPhone Users Urged to Update Software After Security Flaws Are Found,negative,-0.7624319791793823
+2016-08-26,"The album’s release, through an exclusive deal with Apple, surfaced long-simmering tensions between record labels, streaming services and artists.",negative,-0.9305129051208496
+2016-08-26,Frank Ocean’s ‘Blonde’ Amplifies Discord in the Music Business,neutral,-0.25449657440185547
+2016-08-29,"The potential clawback, estimated to be hundreds of millions of dollars, may stoke tensions between American and European officials over tax policies.",negative,-0.947609543800354
+2016-08-29,Apple Is Said to Owe Back Taxes to Irish Government,neutral,0.04498806223273277
+2016-08-30,"Unlike their counterparts in the United States, European regulators are focusing on complaints about the technology industry.",neutral,-0.020382044836878777
+2016-08-30,Daily Report: The Tax Man Comes for Apple in Ireland,neutral,0.01949593424797058
+2016-08-31,Lawmakers have criticized companies that avoid taxes by moving overseas.,negative,-0.86642986536026
+2016-08-31,But they’re rallying to Apple’s defense after an E.U.,positive,0.18159055709838867
+2016-08-31,demand for $14.5 billion in back taxes.,neutral,0.15350615978240967
+2016-08-31,"Yesterday, Outraged by Apple’s Tax Dodge.",negative,-0.9131841659545898
+2016-08-31,"Today, by Its Tax Bill.",neutral,0.07578819245100021
+2016-09-01,The company’s chief executive said in an interview with an Irish broadcaster that the European Union’s tax decision was “maddening” and politically motivated.,negative,-0.805703341960907
+2016-09-01,"Tim Cook, Apple Chief, Defends Tax Practices and Says Cash Will Return to U.S.",neutral,-0.023490190505981445
+2016-09-02,"The country’s cabinet unanimously agreed to fight the $14.5 billion decision, and politicians are expected to debate it next week.",negative,-0.16934022307395935
+2016-09-02,Ireland to Appeal Tax Ruling in Apple Case,negative,-0.851373016834259
+2016-09-05,"A chief executive’s political leanings may significantly influence whom workers donate to and choose at the polls, a study found.",neutral,-0.015971869230270386
+2016-09-05,Whom to Vote For?,neutral,-0.01541116088628769
+2016-09-05,Employees Tend to Follow Their Leader,neutral,-0.008978575468063354
+2016-09-06,"For almost a year, Apple rumormongers have been trotting out bits and pieces about what to expect from the latest device.",neutral,-0.07663339376449585
+2016-09-06,"And often, these rumors are picked up by mainstream media.",neutral,-0.1659683883190155
+2016-09-06,"Daily Report: IPhone Season Is Here, but These Days, Surprises Are Rare",neutral,-0.037273384630680084
+2016-09-07,"Apple announced the release of its newest smartphone, the iPhone 7.",neutral,0.43036088347435
+2016-09-07,The new model replaces its headphone jack with  a Lightning connector and includes an improved camera.,neutral,0.379969984292984
+2016-09-07,Apple Unveils iPhone 7,neutral,0.1346954107284546
+2016-09-08,"The iPhone 7, iPhone 7 Plus and the Watch all acquired new features, though none of them a game changer.",positive,0.6135507225990295
+2016-09-08,Three of our writers delve into the advances.,neutral,0.004925858229398727
+2016-09-08,"Daily Report: Tweaks on the Road to Wireless, but No Pyrotechnics From Apple",neutral,0.17399857938289642
+2016-09-10,"Apple is killing the headphone jack but helping revive Nintendo’s great franchise with Super Mario Run, coming exclusively to iOS.",positive,0.763147234916687
+2016-09-10,Farhad’s and Mike’s Week in Tech: The iPhone’s Super Mario Moment,neutral,0.022255633026361465
+2016-09-11,"The companies are planning to charge as little as $5 a month for new streaming music services, half the cost of the current pricing model.",neutral,0.03928210213780403
+2016-09-11,Amazon and Pandora to Gauge Music’s Value in the Internet Age,neutral,0.04991086572408676
+2016-09-12,"The educational program is aimed at middle school students, but critics say the fact it requires a tablet makes it unavailable to lower-income families.",negative,-0.7033272981643677
+2016-09-12,Apple Offers Free App to Teach Children Coding (iPads Sold Separately),neutral,0.05627765506505966
+2016-09-13,"The rules will put new pressure on American tech companies, but European officials say they will unite the Continent’s various national economies.",positive,0.6251574158668518
+2016-09-13,E.U.,neutral,0.04360159859061241
+2016-09-13,"Rules Look to Unify Digital Market, but U.S. Sees Protectionism",neutral,0.03399644047021866
+2016-09-14,"The app, for Apple TV, Amazon Fire TV and Xbox One, offers a wide variety of live content, including Thursday night N.F.L.",neutral,0.007132655009627342
+2016-09-14,games.,neutral,0.06438460201025009
+2016-09-14,New Twitter App Streams N.F.L.,neutral,0.21731625497341156
+2016-09-14,Games and Other Sports,neutral,0.04725304991006851
+2016-09-17,"Increasingly, what matters for Apple is what people in China think of its products.",neutral,0.011795032769441605
+2016-09-17,"As for self-driving cars, expect more failures before big success.",neutral,0.04027280583977699
+2016-09-17,Farhad’s and Paul’s Week in Tech: Apple’s China Conundrum and Samsung’s Recall Conundrum,negative,-0.7211232781410217
+2016-09-20,"Tesla is innovating in self-driving cars, solar energy and fast people-movers, but has a cash-flow problem.",negative,-0.9289119839668274
+2016-09-20,"Apple is seen as lagging in ideas, but is flush with dormant money.",neutral,0.07516258955001831
+2016-09-20,How Tesla and Apple Could Be Good for Each Other,neutral,0.25046420097351074
+2016-09-21,"Apple has discussed a partnership with McLaren, the racecar builder, sources say, and is talking with Lit Motors, developer of an electric motorcycle.",neutral,0.3050180971622467
+2016-09-21,Apple Is Said to Be Talking to Vehicle Technology Companies,neutral,-0.007871214300394058
+2016-09-22,"A tech company and a maker of high-tech cars might seem like a good fit, but it’s hard to see how McLaren can take Apple’s vehicular ambitions far.",neutral,0.12579143047332764
+2016-09-22,Apple Kicks the Tires at McLaren,negative,-0.42214563488960266
+2016-09-27,"Apple’s operating system provides an easy menu shortcut for sharing links, photos and other content, and you can customize your list of options.",neutral,0.005737233906984329
+2016-09-27,Make the Mac’s Share Menu More Useful,neutral,0.11147899925708771
+2016-09-28,"Among the offerings, apps in which you can speak to your watch to update to-do lists or get a quick assist on deciphering a foreign language.",neutral,0.00639486126601696
+2016-09-28,More Fun on Your Wrist With New Apps for the Apple Watch,neutral,0.04875829815864563
+2016-09-29,"Among other things, Apple’s latest redesign of its mobile operating system changes the lock screen’s shortcut to the iPhone’s camera app.",neutral,0.4017132520675659
+2016-09-29,Take a Picture Quickly in iOS 10,neutral,0.04483814164996147
+2016-10-03,Companies like Amazon and Microsoft are building data centers across the Continent in response to Europeans’ desires to keep their information close to home.,neutral,0.2696113586425781
+2016-10-03,U.S. Tech Giants Are Investing Billions to Keep Data in Europe,neutral,0.08641725778579712
+2016-10-04,Google’s new strategy of controlling both hardware and software puts it more directly in competition with Apple and many of its own Android partners.,positive,0.5716116428375244
+2016-10-04,"Google Introduces the Pixel, Its Own Smartphone",neutral,0.10880197584629059
+2016-10-06,"They also don’t want anyone to talk about it, a fact that has riled a number of tech companies that are chafing under gag orders.",negative,-0.919325053691864
+2016-10-06,Daily Report: The Feds Can’t Resist Silicon Valley’s Data,neutral,-0.2514137625694275
+2016-10-07,"Suitors are falling away, and there is no way conventional financial analysis can help any company rationalize an acquisition of the company.",negative,-0.6848474144935608
+2016-10-07,Paying $15 Billion for Twitter Will Be Hard for Anyone to Justify,negative,-0.4419994056224823
+2016-10-09,The justices will hear arguments about whether Samsung must pay Apple about $400 million for copying part of the iPhone’s design; Sony will offer the $399 PlayStation VR.,neutral,-0.12312507629394531
+2016-10-09,"Apple and Samsung Clash in the Supreme Court, and Sony Goes Virtual",negative,-0.8821840882301331
+2016-10-10,"The move is a major setback for the world’s largest producer of smartphones, which had been gaining ground against Apple in the high-end market.",negative,-0.9465991258621216
+2016-10-10,Samsung Halts Galaxy Note 7 Production as Battery Problems Linger,negative,-0.9492994546890259
+2016-10-11,Samsung is arguing that it shouldn’t have to give up all its profit from the sale of phones that copy only part of the look of an Apple iPhone.,negative,-0.63167405128479
+2016-10-11,Conundrum for Justices: Does a Design Patent Cover a Whole Smartphone?,neutral,-0.033723242580890656
+2016-10-13,There are many ways to transfer pictures from a Google-based phone to an Apple computer.,neutral,0.0006103105843067169
+2016-10-13,Move Android Photos to Your Mac,neutral,-0.007224598899483681
+2016-10-15,Sometimes people forget that old guys can be geeks.,negative,-0.5887998938560486
+2016-10-15,"This week: How Samsung helped Apple, will Verizon win a discount, and a new riff on a classic excuse.",neutral,0.10041394829750061
+2016-10-15,"Jim’s and Nick’s Week in Tech: Smoldering Phones, the Yahoo Markdown and Amazon Music",negative,-0.6215848922729492
+2016-10-18,"Every iCloud user gets five free gigabytes of server space from Apple, but when space gets tight, you either have to prune or pay.",neutral,-0.10675409436225891
+2016-10-18,When You Outgrow Your iCloud Storage,neutral,-0.02365507185459137
+2016-10-22,Tech is seeping into everything — but feels blindsided when its politics are called into question.,negative,-0.7701178193092346
+2016-10-22,"Also, the Apple car and a short-term Twitter hire.",neutral,0.03575894981622696
+2016-10-22,Farhad’s and Mike’s Week in Tech: The Political Evolution of Silicon Valley,neutral,0.022198572754859924
+2016-10-23,Apple’s report will offer the first look at sales of the iPhone 7 and the extra business it is getting since Samsung’s troubles with the Galaxy Note 7.,neutral,0.10829886049032211
+2016-10-23,Apple and Tesla to Report Earnings,neutral,0.025405507534742355
+2016-10-26,Apps that focus on running and other exercises can help you reach your fitness goals.,neutral,0.1697128862142563
+2016-10-26,Your Phone Can Help You Get Fit,neutral,0.0586530864238739
+2016-10-27,The new laptops feature a Touch Bar where function keys used to be.,neutral,0.03130162134766579
+2016-10-27,It works differently depending on the app in use.,neutral,-0.015767594799399376
+2016-10-27,Apple’s New MacBook Pro Gets More Touchy,neutral,0.09405019134283066
+2016-10-29,Farhad is going as sexy Donald Trump and Mike as Guy Fieri.,neutral,0.006216572597622871
+2016-10-29,Amazon gets them reminiscing about Matthew McConaughey in a 1990s stoner movie.,neutral,-0.03925847262144089
+2016-10-29,"Farhad and Mike’s Week in Tech: Microsoft, Apple and Halloween!",neutral,-0.018087387084960938
+2016-10-31,The search giant is one of several American tech companies facing inspections overseas for the way they do business.,negative,-0.7766323685646057
+2016-10-31,Daily Report: Google’s Day in Europe’s Court Highlights Nature of New Tech,neutral,0.1830962896347046
+2016-11-03,"Not every Mac model comes with a microphone, but you can still command Apple’s virtual assistant with an external accessory.",neutral,-0.0020293816924095154
+2016-11-03,Make Siri Hear You on a Mac Mini,neutral,0.014685861766338348
+2016-11-06,"Hundreds of rogue apps, most of which came from developers in China, have managed to slip through Apple’s review process.",negative,-0.8583008050918579
+2016-11-06,"Beware, iPhone Users: Fake Retail Apps Are Surging Before Holidays",negative,-0.8186196684837341
+2016-11-07,"Consumers may be deceived into entering their credit card numbers into counterfeit applications, often disguised as bona fide programs.",negative,-0.8709744215011597
+2016-11-07,Daily Report: More Fake Retail Apps Means More Users Are at Risk,negative,-0.8336325287818909
+2016-11-09,The Irish government says European antitrust officials were wrong to force the iPhone maker to give up what they consider unfair concessions.,negative,-0.9211521744728088
+2016-11-09,Dublin Appeals $14.3 Billion Tax Charge Against Apple,negative,-0.8838966488838196
+2016-11-14,"Most devices connect to the television through an HDMI port, but you can find gear to work with the composite connections used by legacy TV sets.",neutral,0.03031601756811142
+2016-11-14,How to Stream Video on an Older TV,neutral,0.02723541110754013
+2016-11-15,"Claims to the name by makers of computers, cosmetics and leather goods highlight the difficulties that big names face when dealing with Chinese trademark laws.",negative,-0.5126418471336365
+2016-11-15,"In China, Toilets Have Trump’s Name Without His Permission",negative,-0.4667365550994873
+2016-11-17,Home videos and other clips can be copied off the tablet and recorded onto a disc for watching on a standard DVD player.,neutral,-0.0022175125777721405
+2016-11-17,Turn an iPad-Made Movie Into a DVD,neutral,0.01351010799407959
+2016-11-20,"The tech giant probably won’t bring all production to the United States, as Donald Trump has suggested, but it provides diverse opportunities for thousands of Americans, along with a ladder to climb.",positive,0.6517029404640198
+2016-11-20,"How Apple Empowers, and Employs, the American Working Class",neutral,0.38551065325737
+2016-11-21,"Apple makes one product domestically: the Mac Pro, in Austin, Tex.",neutral,0.028508417308330536
+2016-11-21,"But in addition to the manufacturing jobs that it has created, Apple employs 6,000 at its own Austin campus.",neutral,-0.15944725275039673
+2016-11-21,"Daily Report: At Apple, U.S. Jobs That Go Beyond Manufacturing",negative,-0.39782458543777466
+2016-11-23,"If you find that the pictures in the Mac’s Photos app are starting to crowd your computer’s internal storage, you can relocate them to an external drive.",neutral,-0.03957924246788025
+2016-11-23,Moving a Mac’s Photos Library,neutral,-0.050634801387786865
+2016-11-25,"Unsolicited invitations sent to your calendar program are yet another way junk mailers try to get your attention, but you have some ways to dodge it.",negative,-0.5116941928863525
+2016-11-25,Fighting iOS Calendar Spam,neutral,-0.2075197547674179
+2016-11-30,"Some apps mimic a single-lens reflex camera in options and complexity, while others unleash your creativity.",neutral,0.034557800740003586
+2016-11-30,Take Your Smartphone Photography to the Next Level,neutral,-0.006497237831354141
+2016-12-02,Apple’s software comes with several features to make the technology work for all users.,neutral,0.032714564353227615
+2016-12-02,The Built-In Accessibility Features of iOS,neutral,0.04030775651335716
+2016-12-05,"Junk mailers are abusing the iOS calendar and photo-sharing invitation system, but Apple is taking action — and you can, too.",neutral,0.04370991140604019
+2016-12-05,How to Defend Yourself Against Apple’s Calendar Spam,neutral,-0.36383575201034546
+2016-12-06,A unanimous court ruled on Tuesday that Samsung may not have to pay $399 million in damages for copying parts of the iPhone’s distinctive look.,negative,-0.6949632167816162
+2016-12-06,Supreme Court Gives Samsung a Reprieve in Apple Patent Case,neutral,0.05151708424091339
+2016-12-07,The glory days of tech gadgets may be on the decline.,negative,-0.7933832406997681
+2016-12-07,They’ve been consumed by smartphones.,neutral,0.003125382587313652
+2016-12-07,"Yet, there are reasons to believe in a revival.",positive,0.49994397163391113
+2016-12-07,Daily Report: Software Is Eating Your Christmas,negative,-0.43365007638931274
+2016-12-08,"Multifunction printer manufacturers typically include scanner software with their hardware, but the Mac may not need a special program.",neutral,0.017653563991189003
+2016-12-08,There’s More than One Way to Scan on a Mac,neutral,-0.025674281641840935
+2016-12-13,"On a variety of issues, like jobs and cash stockpiles outside the United States, technology companies are holding a weak hand against the president-elect.",negative,-0.8835687041282654
+2016-12-13,Daily Report: Tech Executives Meeting Trump Are in a Tough Spot,negative,-0.9223973751068115
+2016-12-14,"The wide array of available video-streaming devices can be overwhelming, but a bit of research will help you figure out what features you really need.",neutral,0.05148344114422798
+2016-12-14,The Quest for Your Dream Streamer,neutral,0.06633573770523071
+2016-12-16,Both Android and iOS have parental control features and apps to help parents manage their offspring’s mobile experience.,neutral,0.015189995989203453
+2016-12-16,Choosing a Child’s First Smartphone,neutral,-0.0176355242729187
+2016-12-18,"Some publishers are repurposing modern classics, making simplified picture books of them for children and cutting out the R-rated details.",negative,-0.5287476181983948
+2016-12-18,Forget ‘Pat the Bunny.’ My Child Is Reading Hemingway.,neutral,-0.043001629412174225
+2016-12-20,The National Transportation Safety Board asked tech companies to add the locations of grade crossings into digital maps and to provide alerts for drivers.,neutral,0.1723433881998062
+2016-12-20,Rail Crossing Warnings Are Sought for Mapping Apps,neutral,-0.2916754484176636
+2016-12-23,The iPhone maker is engaged in a testy licensing fight over old Nokia patents.,negative,-0.9178714752197266
+2016-12-23,Now the companies have taken their fight to courts all over the world.,neutral,-0.016570299863815308
+2016-12-23,Daily Report: Apple Hurls the ‘Patent Troll’ Insult at Nokia,negative,-0.6703483462333679
+2016-12-28,"Texts have become so ingrained that apps have borrowed the chat format for storytelling, news or gaming.",neutral,0.05851849913597107
+2016-12-28,Text Messaging Takes More Apps Into a Chattier Realm,neutral,-0.027644015848636627
+2016-12-29,"About half of all iPhones are made in a facility in China that can churn out 500,000 devices a day with the help of over 300,000 employees.",neutral,0.05887624993920326
+2016-12-29,Here's how a phone made there can end up in your hands.,neutral,-0.03934866189956665
+2016-12-29,"An iPhone’s Journey, From the Factory Floor to the Retail Store",neutral,0.025729123502969742
+2016-12-30,The Haggler looks back on 2016 and finds a long list of companies behaving badly.,negative,-0.8573706150054932
+2016-12-30,Looking for Holiday Cheer?,neutral,-0.07624195516109467
+2016-12-30,Look Elsewhere,neutral,0.0187661275267601

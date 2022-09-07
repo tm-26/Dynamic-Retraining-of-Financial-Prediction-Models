@@ -1,0 +1,393 @@
+Date,Sentence,Prediction,sentimentScore
+2007-01-19,"Royal Dutch Shell is dangling the prospect of a 15 percent-plus bump in its offer to buy oil patch subsidiary Shell Canada for C$7.7 billion ($6.6 billion), if minority shareholders agree to support its takeover bid, The Globe and Mail reported.",positive,0.7827009558677673
+2007-01-19,"Apparently frustrated in its attempts to drum up interest in a 40-Canadian-dollars -a-share offer made in October, and fearing a nasty takeover battle, Royal Dutch has been quietly meeting with the biggest shareholders in its Calgary-based offspring in recent weeks, the report said.",negative,-0.9136884212493896
+2007-01-19,Money managers in Toronto and Calgary told the newspaper that the parent company is holding out the promise of $46 to $48 a share if institutions agree to commit their shares.,neutral,0.18053001165390015
+2007-01-19,"Shell Mulls Boosting Offer for Canadian Unit, Report Says",positive,0.7202987670898438
+2007-01-23,"Royal Dutch Shell, Europe’s biggest oil company, raised a bid to buy out its Canadian unit by 13 percent to 8.7 billion Canadian dollars ($7.4 billion) to gain increased production from oil sands.",positive,0.8908071517944336
+2007-01-23,"Shell, which owns 78 percent of Shell Canada, raised its bid to 45 Canadian dollars a share, from an offer of 40 Canadian dollars a share made in October.",positive,0.9161456227302551
+2007-01-23,Shell Ups Bid for Canadian Unit,neutral,-0.02537618577480316
+2007-01-24,"After an earlier offer received a cool reception from minority shareholders, Royal Dutch Shell increased its bid for the portion of Shell Canada it does not own to 45 Canadian dollars ($38.10) a share from 40 Canadian dollars.",positive,0.9231979846954346
+2007-01-24,The new offer values the 22 percent of Shell Canada not held by the parent company at 8.7 billion Canadian dollars ($7.4 billion).,neutral,0.09995687007904053
+2007-01-24,"About 150,000 barrels of Shell Canada’s daily production of 230,000 barrels comes from oil sands projects in Alberta rather than conventional sources.",neutral,-0.0073810480535030365
+2007-01-24,"When it made its opening bid in October, Royal Dutch Shell said that full control of Shell Canada would allow it to increase its reported reserves.",positive,0.8934245705604553
+2007-01-24,An accounting problem forced the parent company to lower its reserve levels in 2004.,negative,-0.898374080657959
+2007-01-24,The higher bid still may face difficulty since some Canadian fund managers have said recently that they are looking for a price near 50 Canadian dollars a share.,negative,-0.782124400138855
+2007-01-24,Canada: Bid for Shell Canada Shares Is Raised,neutral,0.46537530422210693
+2007-01-25,Disgruntled minority shareholders of Shell Canada threatened Wednesday to fight on in court if Royal Dutch Shell succeeds in buying out its Canadian subsidiary at $45 a share.,negative,-0.8972764015197754
+2007-01-25,Royal Dutch controls 78 percent of Shell Canada and wants the rest because of its position in the booming Alberta oil sands.,neutral,0.04174927622079849
+2007-01-25,Shell Canada outlined Wednesday even more ambitious plans for its exploitation of the resource.,neutral,0.19917559623718262
+2007-01-25,Shell Canada Investors Vow to Fight Royal Dutch,neutral,0.1829797625541687
+2007-01-30,Royal Dutch Shell said on Monday that it would sell its Los Angeles refinery and related assets to Tesoro.,neutral,0.0030202139168977737
+2007-01-30,"Tesoro will pay $1.63 billion, plus the value of oil inventory at closing.",neutral,0.0332394503057003
+2007-01-30,"Tesoro’s chief executive, Bruce A. Smith, said the purchase would give Tesoro earnings growth even as it faces flatter gasoline margins.",positive,0.9289587736129761
+2007-01-30,Tesoro to Buy Shell Refinery,neutral,0.03217402845621109
+2007-02-01,"The $39.5 billion profit topped the previous record for a U.S. company, which Exxon set in 2005.",positive,0.8368669152259827
+2007-02-01,Exxon Sets Record on Annual Profits,neutral,0.22955265641212463
+2007-02-02,Exxon’s profit of $39.5 billion broke the record it set last year for the largest profit ever by an American company.,positive,0.8122255802154541
+2007-02-02,Exxon and Shell Report Record Profits for 2006,neutral,0.22254161536693573
+2007-03-07,The consortium behind the 11.2 billion Australian dollars ($8.7 billion) buyout proposal for Qantas Airwaysmoved closer to closing the deal Tuesday when the Australian government said it would not oppose the transaction.,neutral,0.10897780954837799
+2007-03-07,"The government was under immense pressure from unions, politicians and members of the public to veto the takeover under its foreign investment laws, as it had done in 2001 when Royal Dutch Shell bid 10 billion Australian dollars for Woodside Petroleum.",negative,-0.8347052335739136
+2007-03-07,Qantas Buyout Clears Significant Hurdle,neutral,0.0229196697473526
+2007-03-19,"Royal Dutch Shell is on the verge of taking over Shell Canada, announcing early Saturday that it had scored a significant victory in its bid of 8.7 billion Canadian dollars ($7.4 billion) for the firm.",positive,0.9013060927391052
+2007-03-19,"Royal Dutch, one of the largest public oil companies in the world, already owns about 78 percent of Shell Canada and is trying to buy the rest.",neutral,0.033784519881010056
+2007-03-19,Shell Scores Victory in Takeover of Canadian Unit,positive,0.6435056328773499
+2007-04-05,Shell expects to resume oil production in Nigeria within five to six months after shutting down operations because of militant violence.,negative,-0.9222508072853088
+2007-04-05,Shell Expects Full Output From Nigeria,positive,0.49397847056388855
+2007-04-12,Shell agreed to pay about $450 million to help resolve legal disputes stemming from its overstatement of oil reserves.,positive,0.6573315262794495
+2007-04-12,Shell Settles With Europe on Overstated Oil Reserves,negative,-0.8449122905731201
+2007-04-19,"Gazprom, the Russian state-run gas company, on Wednesday completed the purchase of its controlling share in the Sakhalin-2 oil and gas project, buying half the stakes owned by Royal Dutch Shell, Mitsui and Mitsubishi for $7.45 billion.",positive,0.7176867127418518
+2007-04-19,Gazprom Takes Control of Sakhalin Oil Project,neutral,-0.02746635675430298
+2007-07-10,"Royal Dutch Shell and Rosneft, the Russian state oil company, agreed to explore possibilities to work together to develop oil fields and market gasoline and other petroleum products worldwide.",positive,0.8352071642875671
+2007-07-10,The deal was presented as a framework to discuss future deals.,neutral,0.3041535019874573
+2007-07-10,"While short on specifics, it suggested Shell was still seeking opportunities in Russia despite being forced last fall to sell a controlling stake in its Sakhalin II development to Gazprom, another Russian state company, at a low price.",neutral,0.10138977319002151
+2007-07-10,"Jeroen van der Veer, left, Shell’s chief executive, said in a statement, “We are committed to developing our business in cooperation with Russian companies across the entire range of the energy business.”.",positive,0.8372786641120911
+2007-07-10,Russia: Shell Explores Work With Rosneft,neutral,0.31574130058288574
+2007-07-27,"The results were in contrast with those of Royal Dutch Shell, which reported a strong jump in quarterly earnings.",positive,0.17861732840538025
+2007-07-27,"Despite a Decline, Exxon Mobil’s Quarterly Profit Again Tops $10 Billion",positive,0.6265095472335815
+2007-07-27,"The results were in contrast with those of Royal Dutch Shell, which reported a strong jump in quarterly earnings.",positive,0.17861732840538025
+2007-07-27,"Exxon Profit Slips, Surprisingly",negative,-0.9528324007987976
+2007-08-03,Royal Dutch Shell said Thursday it had agreed to sell three oil refineries in France and stakes in two Norwegian Sea fields worth $2.47 billion (1.8 billion euros).,neutral,0.45271217823028564
+2007-08-03,Shell Taps $2.4 Billion in 3 Refinery Deals,neutral,0.0037342309951782227
+2008-02-21,"Citigroup appointed two new co-heads of its North American power and utilities group in investment banking, the SparkSpread Web site reported Thursday.",neutral,0.1601780354976654
+2008-02-21,"Kirk Andrews and Dean Keller, who are both managing directors and who advised clients like Royal Dutch Shell and Bechtel Enterprises Energy, will assume those roles.",neutral,0.025340301916003227
+2008-02-21,Citi Appoints 2 New Power and Utilities Executives,neutral,0.011447396129369736
+2008-04-16,"Private equity bidders were reportedly lining up this week to submit 1.5 billion pound ($2.96 billion) bids for Infineum, an oil additives venture between Exxon Mobil and Royal Dutch Shell, in what would be one of the biggest buyouts in Britain this year.",positive,0.7062519192695618
+2008-04-16,Buyout Shops Said to Table $2.9 Billion Bids for Infineum,neutral,0.055733490735292435
+2008-04-29,Higher oil and gas prices helped Europe’s two biggest oil companies to beat analysts’ expectations.,positive,0.8575871586799622
+2008-04-29,Shell and BP Report Record First-Quarter Profits,positive,0.4863070249557495
+2008-04-30,"Royal Dutch Shell and BP’s record first-quarter profits, beat analysts’ expectations and prompted share gains across the industry.",positive,0.8871477842330933
+2008-04-30,Record Profits Reported for BP and Shell,positive,0.7739631533622742
+2008-05-27,"Nigeria signed a $3.1 billion deal with the local arm of Royal Dutch Shell on Monday to plug a funding gap in their joint venture projects, the country’s state oil firm NNPC said.",positive,0.7658687829971313
+2008-05-27,Shell Ponies Up $3.1 Billion for Nigerian Joint Ventures,positive,0.8490992784500122
+2008-06-02,Arrow Energy said it no longer needs to spin off its overseas coal seam gas operations now that it has reached a deal for an investment from Royal Dutch Shell.,positive,0.5234239101409912
+2008-06-02,"With Shell Deal, Arrow Shelves I.P.O.",neutral,0.03556406870484352
+2008-06-02,Plans,neutral,0.022992685437202454
+2008-08-01,"Record earnings for Exxon, the world’s largest publicly traded oil company, have become routine as the surge of oil prices in recent years has filled its coffers.",neutral,0.4100426137447357
+2008-08-01,Exxon’s Second-Quarter Earnings Set a Record,positive,0.7062010765075684
+2008-08-01,"Royal Dutch Shell, Europe’s largest oil company, reported a 33 percent increase in second-quarter profit, helped by a higher oil price.",positive,0.9326968789100647
+2008-08-01,Shell Reports a Profit Jump Despite Reduced Production,positive,0.7374730110168457
+2008-11-21,The federal appeals court’s decision came after a finding that the Interior Department had failed to conduct an environmental study before issuing the company’s drilling permit.,negative,-0.7267707586288452
+2008-11-21,Court Says Shell Can’t Drill Near Alaska,negative,-0.6852726936340332
+2009-01-29,A sharp drop in oil prices and the global economic crisis led to the first quarterly decline in 10 years for Royal Dutch Shell.,negative,-0.9609974026679993
+2009-01-29,Shell Posts a Quarterly Loss of $2.8 Billion as Oil Falls,negative,-0.9585625529289246
+2009-04-07,"The Obama administration wants to spend $150 billion to diversify energy sources by encouraging more renewable sources, but oil giants are hanging back.",neutral,-0.1496458351612091
+2009-04-07,Oil Giants Loath to Follow Obama’s Green Lead,negative,-0.5330290794372559
+2009-04-24,"The oil company agreed to reduce emissions from its plant by 80 percent within three years, upgrade chemical units and reduce gas flaring.",positive,0.8265091180801392
+2009-04-24,Shell Settles Air Pollution Accusations,neutral,0.04898674041032791
+2009-05-19,"Shareholders, angered by lofty executive pay in a time of dwindling earnings, turned their wrath on Royal Dutch Shell on Tuesday, voting against compensation packages for senior management.",negative,-0.9338623881340027
+2009-05-19,Shell Shareholders Vote Against Executive Pay Plan,negative,-0.754896879196167
+2009-05-19,Shareholders of Royal Dutch Shell protested against bonuses for its senior executives by voting against such compensation in a nonbinding resolution.,negative,-0.8760420083999634
+2009-05-19,Shareholders Reject Pay Package for Shell Executives,negative,-0.8909733891487122
+2009-05-21,Royal Dutch Shell will face charges of crimes against humanity in connection with Nigerian activists’ deaths.,negative,-0.7543981075286865
+2009-05-21,Oil Industry Braces for Trial on Rights Abuses,negative,-0.490601122379303
+2009-05-28,"The largest European oil company reorganized, hoping to improve its performance before a new chief executive takes over.",positive,0.8794584274291992
+2009-05-28,Shake-Up at Shell to Speed Decision-Making,positive,0.6615389585494995
+2009-05-31,"Because of an editing error, the Boss column last Sunday about Linda Cook, executive director of gas and power at Royal Dutch Shell in the Netherlands, misstated her age.",negative,-0.8736708760261536
+2009-05-31,"She is 50, not 58.",neutral,-0.0002308860421180725
+2009-05-31,Corrections,neutral,0.025139711797237396
+2009-06-04,"The United States Court of Appeals in New York reinstated a case against Shell Nigeria, which a lower court judge dismissed last year.",negative,-0.5486258268356323
+2009-06-04,Court Revives Case Against Unit of Shell,neutral,0.01291954517364502
+2009-06-08,The European oil giant Shell had been accused of being complicit in the executions of the activist Ken Saro-Wiwa and other critics of Nigeria’s former government.,negative,-0.8183326721191406
+2009-06-08,Shell to Pay $15.5 Million to Settle Nigerian Case,negative,-0.6463180780410767
+2009-06-29,Jeroen van der Veer deftly righted the oil major after an accounting scandal.,negative,-0.5939305424690247
+2009-06-29,"His successor, Peter Voser, will continue the company’s overhaul.",neutral,0.09336075186729431
+2009-06-29,Shell Faces Even More Revamping,neutral,0.14988452196121216
+2009-07-30,Exxon’s report caps a week of lower earnings in the energy industry after the tumble of oil prices since last year.,negative,-0.9593137502670288
+2009-07-30,Profit Dropped 66% at Exxon Mobil,negative,-0.9689921736717224
+2009-08-13,"BP or Royal Dutch Shell might be lining up a $2.5 billion bid for coal-seam gas producer Arrow Energy, The Daily Telegraph reported.",neutral,0.06950689107179642
+2009-08-13,BP or Royal Dutch Shell Said to Make Bid for Arrow,neutral,0.03273735195398331
+2009-10-20,The government has approved a controversial plan by Royal Dutch Shell to drill in Alaska’s Arctic Ocean.,negative,-0.3848267197608948
+2009-10-20,Shell Wins Offshore Drilling Rights in Alaska,positive,0.48872679471969604
+2009-10-29,"Exxon’s profit fell 68 percent in the third quarter, hurt by weakness at its production and development unit.",negative,-0.969997227191925
+2009-10-29,Exxon’s Earnings Reflect Decline in Energy Prices,negative,-0.9249706864356995
+2009-12-02,"Treasury Secretary Timothy F. Geithner returned to Capitol Hill on Wednesday to testify for transparency in the global, unregulated $600 trillion derivatives market as part of the Obama administration’s push to overhaul the financial system.",positive,0.49616917967796326
+2009-12-02,Geithner Calls for More Derivatives Restrictions,neutral,0.040764108300209045
+2009-12-21,"Royal Dutch Shell, Europe’s largest oil company, is planning to sell oil fields in Nigeria valued at up to $5 billion, The Sunday Times reported.",neutral,0.07678134739398956
+2009-12-21,Shell Said to Plan $5 Billion Sale of Nigerian Assets,neutral,0.011720390990376472
+2009-12-31,"The $15.4 billion Mackenzie Valley project faces two more regulatory hurdles, and in the end, it still may not be built.",negative,-0.8110917806625366
+2009-12-31,Canadian Board Approves Western Gas Pipeline,neutral,0.3796602487564087
+2010-01-20,"Several big energy conglomerates are in initial discussions to buy or form a joint venture with Toreador Resources, an independent oil and natural gas company that operates primarily in France, people briefed on the matter told DealBook.",neutral,0.22445711493492126
+2010-01-20,Big Oil Pursues Toreador Resources,neutral,-0.06807409226894379
+2010-02-01,"Cosan, the Brazilian sugar and biofuel giant, said Monday it will merge its ethanol and fuel distribution units with Royal Dutch Shell in a joint venture worth up to $12 billion, extending the trend of growing foreign investment in alternative fuels.",positive,0.8894685506820679
+2010-02-01,Shell to Join Brazil’s Cosan in Ethanol Joint Venture,neutral,0.3094334006309509
+2010-02-15,Royal Dutch Shell and Hewlett-Packard are announcing a joint project to use next-generation sensor technology in oil exploration that points toward the potential gains from advanced sensing systems.,positive,0.8545441031455994
+2010-02-15,Smarter Sensors Start Going to Work,neutral,0.0664081797003746
+2010-02-16,The world’s energy giants are expected to open their checkbooks to buy fast-growing small companies with reserves or promising oil and natural gas fields.,neutral,0.32121407985687256
+2010-02-16,Energy Company Mergers Are Expected to Rise,neutral,-0.049539804458618164
+2010-02-18,ETH Bioenergy announced that it was acquiring Brenco for an undisclosed price.,neutral,0.01856803148984909
+2010-02-18,Big Ethanol Producer in Brazil to Buy a Rival,neutral,0.2139303982257843
+2010-03-01,"Royal Dutch Shell is selling a number of assets, including its European liquid petroleum gas businesses, to fund a £28 billion capital spending program, The Financial Times reported.",neutral,0.0553194060921669
+2010-03-01,"Shell Plans $3 Billion Asset Sale, Report Says",neutral,0.0368894562125206
+2010-03-03,"As both companies and countries in the West and Japan stumble under debt and fear, a new enthusiasm for deals has emerged this year in India, China and other developing countries.",positive,0.6831612586975098
+2010-03-03,Corporate Deal Makers Head to Emerging Markets,neutral,-0.12186475098133087
+2010-03-08,"Arrow Energy of Australia said Monday that it had received a takeover offer worth about $3 billion from a company owned by Royal Dutch Shell and PetroChina, the state-run gas and oil giant.",positive,0.7898683547973633
+2010-03-08,Shell and PetroChina Bid $3 Billion for Coal Gas Firm,neutral,0.09253241866827011
+2010-03-09,"The joint venture offered $4.04 a share for the Australian energy company, which produces natural gas from coal beds.",positive,0.4966457188129425
+2010-03-09,Shell Joins PetroChina in an Offer in Australia,neutral,0.08317957818508148
+2010-03-09,"Lacking a clear consensus about the strength of the recovery, Wall Street fell into a seesaw pattern on Monday.",negative,-0.9478753209114075
+2010-03-09,Hesitation on Wall Street Leaves Shares Flat,negative,-0.6089398264884949
+2010-03-15,"Australia’s Arrow Energy is set to reject as too low a $3 billion joint takeover offer from Royal Dutch Shell and PetroChina, the Australian Financial Review reported, a move that could prompt the bidders to return with a higher, hostile bid.",negative,-0.7709499597549438
+2010-03-15,Arrow Energy May Reject $3 Billion Bid,neutral,-0.2729088366031647
+2010-03-17,"Arrow Energy of Australia has opened its books to Royal Dutch Shell and PetroChina so that they conduct due diligence for their joint takeover offer worth at least 3.3 billion Australian dollars ($3.03 billion), Reuters reported.",positive,0.7283097505569458
+2010-03-17,"Arrow Opens Books to Bidders, Report Says",positive,0.7748526334762573
+2010-03-19,"Arrow Energy of Australia asked for trading in its shares to be suspended on Friday, stoking speculation that Royal Dutch Shell and PetroChina would sweeten their joint $3 billion offer for the coal-seam gas producer.",negative,-0.9066050052642822
+2010-03-19,Arrow Energy Suspends Shares as Offer Looms,negative,-0.9010241031646729
+2010-03-22,"The Australian gas company Arrow Energy agreed on Monday to accept a sweetened 3.5 billion Australian dollar bid by Shell and PetroChina for its Australian assets, the latest in a string of acquisitions and investments in the global energy sector.",positive,0.8605084419250488
+2010-03-22,Arrow Agrees to Sell Assets to PetroChina and Shell,neutral,0.09703320264816284
+2010-03-29,"Royal Dutch Shell is selling its century-old distribution and retail business in New Zealand, including hundreds of gas stations and a share in the country’s only oil refinery, for 696 million New Zealand dollars ($490 million), The Associated Press reported.",neutral,0.001591753214597702
+2010-03-29,Shell Sells Units in New Zealand for $490 Million,neutral,0.028533751145005226
+2010-04-23,"In its first day of trading, Codexis, the biofuels maker backed by oil giant Royal Dutch Shell, fared better than most of the other firms debuting on the stock market Thursday, The Associated Press reported.",positive,0.5085877180099487
+2010-04-23,Profitless Codexis Bumps Up Slightly in Debut,positive,0.4967741370201111
+2010-05-28,"Royal Dutch Shell, the Anglo-Dutch oil and gas producer, said Friday that it had struck a deal to buy most of the assets of East Resources for $4.7 billion in cash, moving into the growth sector of natural gas contained in shale deposits.",positive,0.8527445197105408
+2010-05-28,Shell Buys U.S. Shale Gas Assets for $4.7 Billion,neutral,0.04436314105987549
+2010-05-29,The oil and gas producer is moving into the coveted sector of natural gas contained in shale deposits.,neutral,0.23458749055862427
+2010-05-29,Shell Buying an Oil and Gas Firm for $4.7 Billion,neutral,-0.03654206171631813
+2010-06-11,BP may be Public Enemy No.,neutral,-0.30675774812698364
+2010-06-11,"1 in the United States, but in Britain, where the company is a mainstay of the stock market and a favorite of pension funds, investors and politicians are becoming increasingly angry at the blistering attacks from across the Atlantic.",negative,-0.9208700060844421
+2010-06-11,U.S. Fury at BP Stirs Backlash Among British,negative,-0.9214763045310974
+2010-06-17,"President Obama would be wise to think about the perils of lax regulation, be it in Big Finance or Big Oil, an economist writes.",neutral,-0.1442953646183014
+2010-06-17,Why Living Wills Fail,neutral,-0.025973469018936157
+2010-06-28,"The Noble Corporation said on Monday it would buy Frontier Drilling for $2.16 billion in cash and struck $4 billion worth of new contracts with Royal Dutch Shell, The Associated Press reported.",positive,0.5785189867019653
+2010-06-28,Noble Corporation to Buy Frontier for $2.2 Billion,neutral,0.03683045133948326
+2010-07-21,Four large oil  companies are committing $1 billion to set up a system to deal with oil spills in the Gulf of Mexico.,neutral,0.4238506555557251
+2010-07-21,4 Oil Firms Commit $1 Billion for Gulf Rapid-Response Plan,neutral,0.4163433611392975
+2010-07-30,"While disgruntled investors have wiped more than $40 billion off the value of Exxon Mobil since its splurge on the gas giant XTO Energy, it would be wrongheaded to assume that XTO has zero value, Reuters Breakingviews says.",negative,-0.9381746053695679
+2010-07-30,Have Investors Unfairly Punished Exxon?,negative,-0.8590124845504761
+2010-08-05,Reliance Industries’ $392 million deal with Carrizo Oil and Gas is the latest in a series in which Reliance has been paying top dollar to tap into the American natural gas market.,positive,0.6028653979301453
+2010-08-05,Reliance’s Big Bet on a Pricey Shale Deal,neutral,0.09292727708816528
+2010-08-30,"As regulators investigate the causes of the Deepwater Horizon disaster, the broader dangers posed by the oil industry’s push into deeper waters have gone largely unscrutinized.",neutral,-0.42644810676574707
+2010-08-30,Risk-Taking Rises as Oil Rigs in Gulf Drill Deeper,negative,-0.3656198978424072
+2010-09-17,"Royal Dutch Shell says it has agreed to sell its stake in the Statfjord oil field in the Norwegian North Sea and several related assets to Centrica Resources for $225 million, The Associated Press reported.",neutral,0.15764789283275604
+2010-09-17,Shell Sells Norwegian Field for $225 Million,neutral,-0.06498178839683533
+2010-10-28,"Royal Dutch Shell also reported strong results, following a ConocoPhillips report on Wednesday that its quarterly income had nearly doubled.",positive,0.9098052382469177
+2010-10-28,Exxon Profit Soars 55% as Oil Prices Rebound,positive,0.23350870609283447
+2010-11-04,Federal prosecutors accused the companies of paying at least $27 million in bribes to officials in at least seven countries.,negative,-0.8201066851615906
+2010-11-04,Oil and Gas Bribery Case Settled for $236 Million,neutral,-0.014981687068939209
+2010-11-06,"Eager to begin its stalled plan to drill in the Alaskan Arctic, the oil company is starting a lobbying campaign.",neutral,-0.03412845730781555
+2010-11-06,Shell Presses for Drilling in Arctic,neutral,-0.012015976011753082
+2010-11-08,"Royal Dutch Shell said Monday that it would sell almost a third of its interest in Woodside Petroleum for about $3.3 billion, nine years after it failed to take over the company.",neutral,0.02986134961247444
+2010-11-08,Shell to Sell $3.3 Billion Stake in Woodside,neutral,0.029320189729332924
+2010-11-16,Recent discoveries of oil and natural gas fields and new mining technology have combined to help increase the world’s supply of energy for decades to come.,positive,0.894476592540741
+2010-11-16,There Will Be Fuel,neutral,0.08226925134658813
+2010-11-23,"With the help of Ralph Eads III, nine of the 10 biggest shale transactions in the last three years have included Jefferies & Company as an adviser.",neutral,0.04023321345448494
+2010-11-23,Small Player on Wall Street Carves Out a Niche,neutral,0.09562244266271591
+2011-01-06,"The private equity firm run by the billionaire investor Tom Gores said Robert Klap would join the firm as a principle, playing an important role in investor relations and capital raising in Europe.",neutral,0.17442837357521057
+2011-01-06,Robert Klap to Join Platinum Equity,neutral,0.04784885793924332
+2011-02-03,Delays in receiving regulatory clearance stifle a project to drill one or two exploratory wells in Alaska’s Beaufort Sea.,negative,-0.9402412176132202
+2011-02-03,"Citing Delays, Shell Ends Plans for Arctic in 2011",negative,-0.8717423677444458
+2011-04-28,The biggest oil companies in the United States and Europe benefited from higher oil prices and earnings from refining.,positive,0.8939151763916016
+2011-04-28,Profit Jumps at Exxon and Shell,negative,-0.10913026332855225
+2011-05-01,"With oil production in Alaska’s North Slope in decline, the industry is eager to tap new wells in the Arctic.",negative,-0.2977278232574463
+2011-05-01,Shell Pushes to Open the Arctic,neutral,-0.01610952615737915
+2011-05-01,The Obama administration is under pressure as it weighs whether to allow Shell to drill in the Arctic.,negative,-0.9066235423088074
+2011-05-01,Shell Tries to Calm Fears on Drilling in Alaska,negative,-0.2086573839187622
+2011-05-12,Executives of five of the largest oil companies said the $2.1 billion they received annually in tax breaks were legitimate tax deductions.,neutral,0.03650848567485809
+2011-05-12,"Oil Executives, Defending Tax Breaks, Say They’d Cede Them if Everyone Did",negative,-0.5005858540534973
+2011-07-28,"Exxon’s earnings were a bit lower than analysts had expected despite strong revenue growth, reflecting a record $10.3 billion in capital and exploration expenditures.",negative,-0.9668039083480835
+2011-07-28,Higher Prices Buoy Profits as Oil Companies Scramble for New Fields,positive,0.639596700668335
+2011-08-16,Shell was under pressure after it emerged that the company had waited three days to issue a public statement about the leak.,negative,-0.9360373020172119
+2011-08-16,Criticism Is Growing Over Shell’s Response to Oil Leak,negative,-0.9121105074882507
+2011-10-17,The court is being asked whether corporations and political groups can be sued in the United States on accusations of human rights abuses abroad.,negative,-0.7730518579483032
+2011-10-17,Supreme Court to Hear 2 Human Rights Cases,neutral,-0.17980822920799255
+2011-10-27,The two largest oil companies in the United States and in Europe reported strong earnings for the third quarter.,positive,0.9340119361877441
+2011-10-27,Oil Industry Hums as Higher Prices Bolster Quarterly Profits at Exxon and Shell,positive,0.39600870013237
+2012-02-22,Royal Dutch Shell has agreed to buy the oil exploration company Cove Energy for £992 million as it looks to expand into East Africa in search of new energy reserves.,positive,0.740081787109375
+2012-02-22,Shell to Buy Cove Energy for $1.6 Billion,neutral,0.02500179223716259
+2012-02-24,"The Thai oil and gas company PTT Exploration and Production said on Friday that it had submitted a rival $1.7 billion bid for energy exploration Cove Energy, trumping a previous offer from Royal Dutch Shell",positive,0.712907075881958
+2012-02-24,PTT Makes Rival Bid for Cove Energy,positive,0.5405536890029907
+2012-03-01,"To avoid a challenge from environmental groups that could delay its plans to begin drilling for oil off the coast of Alaska, Shell asked a federal court to review its oil spill response plan.",negative,-0.24592147767543793
+2012-03-01,"To Avoid Last-Minute Suit, Shell Asks U.S. Court to Rule",negative,-0.5233119130134583
+2012-04-02,"The leak, off the coast of Scotland, is losing the French company $1.5 million a day in earnings and generating another $1 million a day in costs.",negative,-0.9640050530433655
+2012-04-02,Oil Company Says Gas Leak Costs $2.5 Million a Day,negative,-0.853265106678009
+2012-04-24,"Royal Dutch Shell has increased its offer for the oil and natural gas exploration company Cove Energy, in an effort to expand into the fast-growing natural gas industry in East Africa.",positive,0.917915940284729
+2012-04-24,Shell Lifts Cove Energy Bid to $1.8 Billion,positive,0.7935393452644348
+2012-04-26,"The oil company’s profit in the first quarter was less than analysts had expected, while Royal Dutch Shell’s earnings beat forecasts.",negative,-0.9619278907775879
+2012-04-26,Exxon Mobil Earnings Disappoint,negative,-0.7670060396194458
+2012-05-23,"The oil and natural gas exploration company Cove Energy has accepted a $1.91 billion takeover offer from PTT Exploration and Production of Thailand, which trumps a rival bid from Royal Dutch Shell.",positive,0.6924920082092285
+2012-05-23,PTT Outbids Royal Dutch Shell for Cove Energy,positive,0.21451538801193237
+2012-06-14,"The energy giant pushed back the deadline for its $1.7 billion takeover offer for Cove Energy, an oil and gas exploration company, to June 27.",neutral,0.10489808022975922
+2012-06-14,Shell Extends Deadline for Cove Energy Bid,neutral,-0.010378614068031311
+2012-07-17,"The energy giant Royal Dutch Shell said on Monday it would abandon a bid for Cove Energy, leaving PTT Exploration and Production of Thailand as the sole remaining suitor for the oil and gas exploration company.",negative,-0.4515940248966217
+2012-07-17,Shell Abandons Offer for Cove Energy,neutral,-0.2569698095321655
+2012-07-26,"Profits at Exxon Mobil fell by 22 percent from last year’s second quarter and by 13 percent at Royal Dutch Shell, but industry analysts remained optimistic.",negative,-0.9691987633705139
+2012-07-26,"For Exxon Mobil and Shell, Earnings Fall With Energy Prices",negative,-0.964692234992981
+2012-08-18,"Shell is confident it will get final approval from regulators to begin drilling for oil off the Alaskan coast this year, despite embarrassing delays and equipment problems.",positive,0.9013940095901489
+2012-08-18,"Arctic Drilling Will Begin This Year, Shell Official Says",neutral,0.18649892508983612
+2012-08-30,"The approval delighted Shell, which has spent more than $4 billion and six years preparing for exploratory activities in the Arctic, but environmental advocates expressed dismay.",negative,-0.9284286499023438
+2012-08-30,U.S. Approves an Initial Step in Oil Drilling Near Alaska,positive,0.7758668661117554
+2012-09-12,The Chesapeake Energy Corporation said on Wednesday that it had agreed to a series of asset sales as part of an effort to reduce its considerable debt burden.,positive,0.7077745795249939
+2012-09-12,Chesapeake Energy to Sell Assets for $6.9 Billion,neutral,0.005478821694850922
+2012-09-17,"A testing mishap further delayed the company’s six-year, $4.5 billion effort to drill off the coast of Alaska, although it will not stop preliminary work on several wells in the region this year.",negative,-0.9550665020942688
+2012-09-17,Shell Delays Arctic Oil Drilling Until 2013,negative,-0.8358795642852783
+2012-11-01,"Exxon Mobil and Royal Dutch Shell reported lackluster third-quarter earnings because of declining oil and natural gas production and weak domestic gas prices, but refinery operations were strong.",negative,-0.8462460041046143
+2012-11-01,"Exxon and Shell Earnings, Hurt by Natural Gas, Are Helped by Refining",negative,-0.9534205198287964
+2012-11-12,"Betting its future on natural gas, Shell is building a giant vessel that will float over a gas field off the coast of Australia, housing a massive processing plant, so that the product can be transported just about anywhere.",neutral,0.3086589574813843
+2012-11-12,Shell Bets on a Colossal Floating Liquefied Natural Gas Factory Off Australia,neutral,-0.19710828363895416
+2013-01-01,"An enormous Shell Oil offshore rig that had broken free and gone adrift in the Gulf of Alaska for the better part of three days was brought under control on Monday, the company said.",negative,-0.7853068113327026
+2013-01-01,"Runaway Oil Rig Off Alaska Under Control, Shell Says",negative,-0.8093781471252441
+2013-01-01,"The Shell Oil rig, which is carrying about 139,000 gallons of diesel fuel, broke free from tow ships in rough seas in the Gulf of Alaska, officials said.",negative,-0.9042125940322876
+2013-01-01,"Breakaway Oil Rig, Filled With Fuel, Runs Aground",negative,-0.8442833423614502
+2013-01-02,"There are no signs of spilled fuel, but that remains a concern as long as the Shell Oil vessel is stuck; the Coast Guard hopes to get salvage experts aboard to assess the damage.",negative,-0.90572190284729
+2013-01-02,"Rig Runs Aground in Alaska, Reviving Fears About Arctic Drilling",negative,-0.9424363970756531
+2013-01-05,Global demand for natural gas — which would be shipped from the United States in a condensed form — could taper off by the time new and costly export terminals are ready.,negative,-0.941413164138794
+2013-01-05,Exports of American Natural Gas May Fall Short of High Hopes,negative,-0.9321443438529968
+2013-01-18,"Shell’s drilling program, the subject of two federal inquiries, has had problems environmentalists say highlight the dangers of prospecting for oil in the severe Arctic environment.",negative,-0.89925616979599
+2013-01-18,"As Shell’s Arctic Drilling Hopes Hit Snags, Its Rivals Watch",negative,-0.6024767160415649
+2013-01-24,"Winning an active Shell drilling program is a potential boon for Ukraine, which is thought to be one of the best bets in Europe for so-called shale gas and tight gas.",positive,0.9068521857261658
+2013-01-24,Ukraine Signs Drilling Deal With Shell for Shale Gas,positive,0.7976331114768982
+2013-01-30,A Dutch court dismissed most of the claims brought by Nigerian farmers seeking to hold Royal Dutch Shell accountable for damage from its pipelines.,negative,-0.8465378284454346
+2013-01-30,Mixed Decision for Shell in Nigeria Oil Spill Suits,negative,-0.6075095534324646
+2013-02-12,The company’s ambitious oil exploration program in the Arctic has been hindered by delays for the last seven years.,negative,-0.9561992287635803
+2013-02-12,"Shell Vessels Sidelined, Imperiling Arctic Plans",negative,-0.890789806842804
+2013-02-27,"After a series of embarrassing accidents in its efforts to drill exploratory wells off the north coast of Alaska, Royal Dutch Shell said it would not return to the Arctic in 2013.",negative,-0.8981349468231201
+2013-02-27,"With 2 Ships Damaged, Shell Suspends Arctic Drilling",negative,-0.9363503456115723
+2013-03-15,The government wants a detailed plan on how the company plans to address safety issues before allowing it to resume exploration.,neutral,0.06703799962997437
+2013-03-15,Interior Dept.,neutral,0.04490774869918823
+2013-03-15,Warns Shell on Arctic Drilling,neutral,-0.317406564950943
+2013-04-05,"The Motiva refinery in Port Arthur, the largest in the United States, ensures a bigger market for Saudi crude and a stronger global voice for the kingdom.",positive,0.9051947593688965
+2013-04-05,Texas Refinery Is Saudi Foothold in U.S. Market,positive,0.44455617666244507
+2013-05-01,"The oil giant has about 7 percent of global liquefied natural gas production, and wants to more than double that with new investments and acquisitions.",positive,0.6484673619270325
+2013-05-01,Shell Makes Big Bet on Boom in Natural Gas,positive,0.5327771306037903
+2013-05-02,"As Royal Dutch Shell reported first-quarter earnings Thursday, its chief executive, Peter Voser, announced that he would retire next year.",neutral,-0.05980174243450165
+2013-05-02,Shell Chief to Leave Next Year,negative,-0.45665815472602844
+2013-05-14,"Investigators are looking into whether BP, Shell and Platts may have “colluded” in an effort to manipulate the prices of oil products.",negative,-0.8026242256164551
+2013-05-14,Europe Raids 3 Companies in an Inquiry on Oil Prices,negative,-0.8940058350563049
+2013-05-16,"The European Commission is said to have continued to question BP, Royal Dutch Shell and Statoil about their trading activities.",negative,-0.8360823392868042
+2013-05-16,Inquiry on Potential Oil Price Manipulation Intensifies,neutral,-0.09139950573444366
+2013-07-09,"A surprise choice, Ben van Beurden had led Royal Dutch Shell’s marketing and refining business since January.",neutral,0.04934125393629074
+2013-07-09,Shell’s Choice for C.E.O.,neutral,0.054086074233055115
+2013-07-09,Surprises the Markets,neutral,-0.1240883469581604
+2013-08-01,"Shell said problems in Nigeria and North America weakened its second-quarter results, and Exxon was hurt by lower margins and reduced volumes at its refineries.",negative,-0.9666788578033447
+2013-08-01,Earnings at Shell and Exxon Fall Sharply in 2nd Quarter,negative,-0.9707691073417664
+2013-10-31,Weak margins in refining hurt results at the largest European and American oil companies.,negative,-0.9665831327438354
+2013-10-31,Profit Margins Squeeze Shell and Exxon Mobil,negative,-0.9595452547073364
+2013-10-31,Weak margins in refining hurt results at the largest European and American oil companies.,negative,-0.9665831327438354
+2013-10-31,Profit Margins Squeeze Exxon Mobil and Shell,negative,-0.9565202593803406
+2013-11-22,"The petroleum producer has raised its capital spending to $7.45 billion next year, more than earlier estimated.",positive,0.9199221730232239
+2013-11-22,"Working Around Keystone XL, Suncor Energy Steps Up Oil Production in Canada",positive,0.7689013481140137
+2013-12-05,"More than two dozen major American corporations are preparing to pay climate-related taxes, departing from conservative orthodoxy and exposing divisions between the Republican Party and its business supporters.",negative,-0.8954348564147949
+2013-12-05,Large Companies Prepared to Pay Price on Carbon,neutral,-0.1607550084590912
+2013-12-05,"After two years of research, the company said a plant that would convert natural gas to liquids would have cost more than $20 billion.",neutral,0.13504475355148315
+2013-12-05,"Shell Opts Not to Build Plant on Gulf Coast, Citing Costs",neutral,0.04835239052772522
+2014-01-02,"Shell, which beat out more than a dozen bidders, will pay $3.8 billion in cash to the Spanish energy company and assume about $1.6 billion in leases related to ship charters.",neutral,0.3927203416824341
+2014-01-02,Repsol Completes Sale of Natural Gas Assets to Shell,neutral,0.04013332352042198
+2014-01-17,"Shares of Royal Dutch Shell fell on the news that adjusted quarterly earnings would be $2.9 billion, a significant decline from the previous year.",negative,-0.9658624529838562
+2014-01-17,Shell Says Quarterly Earnings Will Fall 48%,negative,-0.9693330526351929
+2014-01-20,"The deal may be one of many this year, as energy companies seek cash for other projects or to finance share buybacks and higher dividends.",neutral,0.21956367790699005
+2014-01-20,Oil Industry Nears a Big Asset Sell-Off,negative,-0.8506157398223877
+2014-01-29,Shell is selling 23 percent of the Brazilian project to Qatar for about $1 billion.,neutral,0.016452252864837646
+2014-01-29,The offshore project is the type of asset Shell and other large oil companies are looking to dispose of as investors demand better returns.,neutral,0.06409573554992676
+2014-01-29,Shell Selling a Stake in Brazilian Oil Project,neutral,-0.3508962392807007
+2014-01-30,The company will step up its sales of oil and gas fields and sharply cut capital investment.,positive,0.22074854373931885
+2014-01-30,"After Weak Earnings, Shell Halts Plan to Drill in Alaska",negative,-0.9564118981361389
+2014-01-30,"The oil giants’ reactions differed sharply: Shell plans to step up asset sales and cut investment, while Exxon Mobil pointed to its numerous projects.",negative,-0.677932620048523
+2014-01-30,Quarterly Earnings Fall at Exxon Mobil and Shell,negative,-0.963222861289978
+2014-02-04,The oil giant reported lower earnings for the fourth quarter as production declined and its refineries struggled to turn a profit.,negative,-0.9600069522857666
+2014-02-04,"Profit Drops for BP, but Still Beats Analysts’ Forecasts",negative,-0.7925518751144409
+2014-02-21,The $2.6 billion deal with the commodity trading house Vitol illustrates changes in the international oil business as companies give up less profitable assets.,neutral,0.2306148260831833
+2014-02-21,Shell to Sell Refinery and Gas Stations in Australia,neutral,0.01917906478047371
+2014-04-30,"Write-downs in refining and problems in Nigeria sapped first-quarter earnings, and the firm said it was monitoring the standoff between Russia and the West.",negative,-0.9634191393852234
+2014-04-30,Shell Profit Falls 45 Percent as Oil Production Drops,negative,-0.9594311118125916
+2014-06-10,"BP, Exxon Mobil, Shell, Total and other big Western oil companies are striking deals and plowing money into Russia even as more sanctions loom.",negative,-0.3920286297798157
+2014-06-10,"For Western Oil Companies, Expanding in Russia Is a Dance Around Sanctions",neutral,0.07059904932975769
+2014-06-11,Some fund managers are skeptical about fossil fuel companies as long-term investments as nations move toward tougher rules on emissions.,neutral,-0.09021509438753128
+2014-06-11,Weighing the Risks of Investing in Energy Companies,neutral,0.07262315601110458
+2014-06-17,"Royal Dutch Shell said on Tuesday that it would offload the majority of its stake in Woodside Petroleum, Australia’s biggest independent oil and natural gas producer, in a deal worth $5.7 billion.",neutral,0.22434057295322418
+2014-06-17,Shell to Sell Large Stake in Australian Gas Company,neutral,0.04817606508731842
+2014-06-30,"Jorma Ollila, the chairman of Royal Dutch Shell, will provide counsel to Perella Weinberg and its clients, particularly those in Europe.",neutral,0.05474146455526352
+2014-06-30,Former Nokia Chief to Join Perella Weinberg as Advisory Partner,neutral,0.022510122507810593
+2014-07-31,"The European energy companies reported positive results for the second quarter, with profit at Royal Dutch Shell up 206 percent.",positive,0.9286274909973145
+2014-07-31,"Shell, ENI and BG Report Strong Earnings",positive,0.9132229089736938
+2014-08-14,"The acquisition is the latest example of private equity firms betting on natural gas, amid a surge in production.",positive,0.7213669419288635
+2014-08-14,Blackstone to Buy Louisiana Shale Assets for $1.2 Billion,neutral,0.026314565911889076
+2014-08-28,"The company, which had experienced setbacks in its efforts in recent years, said it had not yet made a final decision on whether to drill next summer.",negative,-0.5549641251564026
+2014-08-28,Shell Submits a Plan for New Exploration of Alaskan Arctic Oil,neutral,0.2557392120361328
+2014-10-29,"The limited partnership, which owns stakes in a group of pipelines primarily in Louisiana and Texas, sold 40 million shares in the offering.",neutral,0.045387763530015945
+2014-10-29,Shell Midstream Partners Raises $920 Million in New York I.P.O.,positive,0.6669660806655884
+2014-10-30,Royal Dutch Shell said its third-quarter results also reflected the benefits of a cost-cutting program.,positive,0.9103492498397827
+2014-10-30,Shell Earnings Buoyed by Strength in Liquefied Natural Gas,positive,0.9149438142776489
+2015-01-02,"In the short term, the drop in the oil prices will make it harder to get deals done.",negative,-0.897829532623291
+2015-01-02,"But if low prices persist, financial stress may make small players vulnerable, Fiona Maharg-Bravo of Reuters Breakingviews writes.",negative,-0.8568535447120667
+2015-01-02,Oil Price Slump May Spur European Oil and Gas Deal-Making,negative,-0.17749595642089844
+2015-01-15,"The report said that demand for crude would fall to 28.8 million barrels per day this year, 100,000 barrels a day less than it forecast last month.",negative,-0.9667302370071411
+2015-01-15,OPEC Report Downgrades Demand for Its Oil as Prices Fall Again,negative,-0.9474716782569885
+2015-01-29,"Better performance in refining, chemicals and marketing offset the effects of lower oil prices, but the results were weaker than analysts had expected.",negative,-0.9659020304679871
+2015-01-29,Royal Dutch Shell Posts Rise in Earnings Despite Lower Oil Prices,positive,0.8891959190368652
+2015-01-30,After years of the industry making record profits both companies said that they lost money in the fourth quarter.,negative,-0.9465822577476501
+2015-01-30,"ConocoPhillips and Occidental Post Losses, Reflecting Oil Price Plunge",negative,-0.9611729383468628
+2015-02-02,"The United Steelworkers action comes as the nation is awash in fuel, though a lengthy strike could affect two-thirds of production.",negative,-0.9102284908294678
+2015-02-02,Oil and Gas Prices Steady Despite a Refinery Strike,positive,0.09901535511016846
+2015-02-18,"Shell is dismantling its North Sea project, a step toward what is expected to be a wider phase of costly decommissioning in British waters.",neutral,0.35132643580436707
+2015-02-18,An Expensive Sunset for the Brent Oil Field,negative,-0.5019919872283936
+2015-02-18,"Shell, Exxon Mobil and the Dutch government put revenue and energy supply from the Groningen field ahead of safety, an independent panel found.",neutral,0.12589621543884277
+2015-02-18,"Earthquake Dangers in Dutch Gas Field Were Ignored for Years, Safety Board Says",negative,-0.4478417932987213
+2015-04-07,"The BG Group, a British company that is a major player in the market for liquefied natural gas, confirmed the talks.",neutral,0.18755140900611877
+2015-04-07,"The deal could top $50 billion, the largest in the sector in over five years.",positive,0.6008962988853455
+2015-04-07,"Royal Dutch Shell in Talks for BG Group, a Gas Producer",neutral,-0.007850266993045807
+2015-04-08,"The BG Group is a major player in liquefied natural gas, and if the deal is completed, the sale would be a rare bright spot for energy deal makers.",positive,0.7477693557739258
+2015-04-08,Royal Dutch Shell to Buy BG Group for Nearly $70 Billion,neutral,0.04069117084145546
+2015-04-08,"Investment banks involved in the latest deals, including Goldman and a newcomer Robey Warshaw, stand to gain windfalls if the latest mergers close.",neutral,-0.10301023721694946
+2015-04-08,A Rich Day for Banks Advising on Big Merger Deals,positive,0.42952314019203186
+2015-04-08,The acquisition could prove a smart and opportunistic way to increase growth through deepwater assets and liquid natural gas – provided Shell keeps costs down.,positive,0.8860270977020264
+2015-04-08,Shell Poised to Win in Deal for BG,positive,0.7574099898338318
+2015-04-15,"As increases in oil stockpiles slowed in the United States, the price of West Texas Intermediate crude jumped 5 percent.",positive,0.813879668712616
+2015-04-15,But analysts remain unsure where oil pricing is headed.,negative,-0.6289531588554382
+2015-04-15,"Signs of Slowdown in Oil Production Send the Price Up, for Now",negative,-0.004613161087036133
+2015-04-30,"The company’s adjusted profit was $3.2 billion, compared with $7.3 billion in the same period a year earlier, but the results beat analyst forecasts.",negative,-0.351062536239624
+2015-04-30,Royal Dutch Shell Earnings Fell 56% in First Quarter,negative,-0.9703541994094849
+2015-04-30,Both companies reported huge drops in profit: a 46 percent decline at Exxon and a 56 percent drop at Shell.,negative,-0.9667730331420898
+2015-04-30,"Profits at Exxon and Shell Slide, Echoing Oil Prices’ Plunge",negative,-0.9151017069816589
+2015-06-02,Irene Yun Lien Lee of Hysan Development and Pauline van der Meer Mohr of Erasmus University Rotterdam will join the lender’s board later this year.,neutral,0.034785591065883636
+2015-06-02,HSBC Adds Two Independent Directors to Board,neutral,0.04052100330591202
+2015-07-01,"The volume of deals announced in the first half of the year is approaching that of 2007, but some bankers fear an unforeseen crisis could upend the boom.",negative,-0.9114896655082703
+2015-07-01,"On Wall Street, Cautious Optimism as Merger Deals Near Peak Level",positive,0.421852171421051
+2015-07-16,"The major oil companies did not bid, and only two blocks were successfully auctioned.",neutral,0.01655389741063118
+2015-07-16,Mexico Auctions Oil Blocks in Attempt to Increase Production,neutral,0.2700434625148773
+2015-07-30,"The company said the drop in oil and gas prices was squeezing it, as ConocoPhillips also reported a loss.",negative,-0.9412680864334106
+2015-07-30,"Royal Dutch Shell Profits Continue to Fall, Prompting Layoffs",negative,-0.9675884246826172
+2015-08-14,"The technology that unlocked the oil in shale fields produced a boom to Karnes County, Tex., but the economy there is cooling fast.",neutral,0.15070569515228271
+2015-08-14,Low Oil Prices Pose Threat to Texas Fracking Bonanza,negative,-0.7612379193305969
+2015-09-28,"In one sign of the industrywide trend, Royal Dutch Shell has ended its expensive nine-year effort to explore for oil in the Alaskan Arctic.",negative,-0.2919468879699707
+2015-09-28,Shell Exits Arctic as Slump in Oil Prices Forces Industry to Retrench,negative,-0.8869380950927734
+2015-10-16,"The Interior Department also rejected appeals by Shell and Statoil, the Norwegian oil giant, to extend existing Arctic leases.",negative,-0.6534098386764526
+2015-10-16,U.S.,neutral,-0.05536564439535141
+2015-10-16,Blocks Alaskan Arctic Drilling for 2 Years,neutral,-0.04655136168003082
+2015-10-29,"Adjusted for inventory changes and one-time items, earnings fell 70 percent, and the company wrote off halted or canceled projects.",negative,-0.9675925374031067
+2015-10-29,Low Oil Prices Take a Toll on Royal Dutch Shell,negative,-0.6131165027618408
+2015-11-03,"Shell, facing criticism for making a big deal at a time of low oil prices, is portraying the deal for BG as an opportunity to streamline its own portfolio.",negative,-0.03926396369934082
+2015-11-03,Shell to Focus on Liquefied Natural Gas in Deal for BG Group,neutral,0.0820336565375328
+2015-11-06,The start of an inquiry by the New York attorney general’s office into Exxon Mobil’s record on climate change could lead to additional legal actions involving other major energy companies.,negative,-0.5325368046760559
+2015-11-06,More Oil Companies Could Join Exxon Mobil as Focus of Climate Investigations,neutral,0.01926676742732525
+2015-12-30,"Opening the taps in the Corrib field is a breakthrough for the oil and gas industry in Ireland, which had mostly disappointing results in recent years.",positive,0.8800780773162842
+2015-12-30,Shell Opens Natural Gas Wells Off Irish Coast,neutral,0.1041201502084732
+2016-01-12,"More cuts are considered likely in an industry that had already lost an estimated 250,000 jobs since the price of crude began to drop in 2014.",negative,-0.9353337287902832
+2016-01-12,"Stung by Low Oil Prices, BP Will Cut 4,000 Jobs",negative,-0.9544020295143127
+2016-01-18,China is expected to report its slowest economic growth in a quarter of a century.,negative,-0.8919665813446045
+2016-01-18,"In addition, Royal Dutch Shell and BG Group will publish preliminary fourth quarter earnings.",neutral,0.0670350193977356
+2016-01-18,China’s Growth Report and Oil Company Earnings,neutral,0.05666893348097801
+2016-01-20,"The company expects fourth-quarter earnings to fall by about half, before a vote next week on its deal to acquire BG Group.",negative,-0.9704303741455078
+2016-01-20,Oil prices were down nearly 7 percent.,negative,-0.9247047901153564
+2016-01-20,"Shell Expects Profit to Plunge, as Oil Sell-Off Continues",negative,-0.9589192271232605
+2016-01-27,"The deal, one of the first struck with the price of oil in free fall, will create the global leader among public companies in liquefied natural gas.",positive,0.9049997925758362
+2016-01-27,Shell Shareholders Approve Acquisition of BG Group,neutral,0.28905797004699707
+2016-01-27,"Ben van Beurden’s $50 billion takeover of the BG Group, approved by Shell shareholders on Wednesday, needs $60-a-barrel oil to create economic value.",positive,0.5657091736793518
+2016-01-27,"With Purchase of BG Group, Shell’s Chief Bets on Oil Resurgence",neutral,0.08768988400697708
+2016-02-01,"This week Exxon Mobil, BP and Royal Dutch Shell will report quarterly earnings, Navinder Singh Sarao is expected back in court and the Labor Department will release figures on hiring and unemployment.",negative,-0.4430062472820282
+2016-02-01,"Oil Company Earnings, Trader’s ‘Flash Crash’ Hearing and the Jobs Report",negative,-0.4180203974246979
+2016-02-04,Stock rises on a promise to maintain the dividend and prospects for the pending acquisition of the energy company BG Group.,positive,0.7371096611022949
+2016-02-04,Royal Dutch Shell’s Profit Down 56% on Slumping Oil Prices,negative,-0.9655020833015442
+2016-03-02,Farmers and fishermen in the Niger Delta say they have suffered for years because of large spills from oil pipelines.,negative,-0.9311163425445557
+2016-03-02,Shell and Nigerian Partner Are Sued in Britain Over Spills,negative,-0.9228178858757019
+2016-03-23,"The decision to postpone the plan, called Browse, comes as prices for the fuel in Asia have fallen steeply.",negative,-0.9401200413703918
+2016-03-23,Australian Energy Giant Woodside Delays Large Offshore L.N.G.,negative,-0.8304189443588257
+2016-03-23,Project,neutral,0.045734383165836334
+2016-05-04,"The largest oil company in Europe reported profit of $484 million, compared with $4.4 billion in the first quarter of 2015.",positive,0.18055129051208496
+2016-05-04,Shell’s First-Quarter Profit Fell 89% Amid Weak Energy Prices,negative,-0.9726871252059937
+2016-06-08,The increasing anxiety over job losses stemming from mergers cannot be brushed off.,negative,-0.8787941336631775
+2016-06-08,Calculating the Human Factor in Deals,neutral,0.0326845645904541
+2016-07-25,About 400 maintenance workers say industrywide cuts have been too severe.,negative,-0.9499050378799438
+2016-07-25,Shell Oil Workers in North Sea Threaten to Strike,negative,-0.8227912783622742
+2016-10-19,"Claudio Descalzi, the chief executive, backed geologists’ hunches with computing muscle and money, and his “revolution” produced a massive discovery.",neutral,0.18636968731880188
+2016-10-19,How Eni Bet Big and Won Big on Natural Gas off Egypt,neutral,0.27892619371414185
+2016-12-13,"The energy giant’s days as Big Oil’s unparalleled heavyweight are numbered, as rivals are coming up fast.",neutral,0.3958536982536316
+2016-12-13,Exxon’s Next Chief Will Lead a Weakened Empire,neutral,-0.11584431678056717

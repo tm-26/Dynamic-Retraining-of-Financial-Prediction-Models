@@ -1,0 +1,1415 @@
+Date,Sentence,Prediction,sentimentScore
+2014-01-06,Irish officials are using grants and tax breaks to help small start-ups find room among the Silicon Valley giants that employ thousands in Dublin.,positive,0.5474931001663208
+2014-01-06,Ireland Stirs Homegrown Flavor Into Tech Scene,neutral,0.2456526905298233
+2014-01-07,"Apple’s iCloud data service works best with Apple’s own devices, but it is possible to make it work with other companies’ hardware.",neutral,0.16688022017478943
+2014-01-07,Taking Along iCloud Calendars,neutral,0.030914675444364548
+2014-01-13,"The $3.2 billion deal for Nest Labs, which is led by former Apple engineers, will expand the technology giant’s portfolio of consumer goods.",positive,0.9146906137466431
+2014-01-13,"For Google, a Toehold Into Goods for a Home",neutral,-0.0006994232535362244
+2014-01-14,Google’s decision to pay $3.2 billion for Nest Labs will stoke enthusiasm for a future when everyday products and simple gadgets can all be controlled remotely.,positive,0.8556202054023743
+2014-01-14,Google Fans the Flame of Connectivity,neutral,0.06318116188049316
+2014-01-15,"After Google announced it was buying Nest Labs on Monday, shares jumped for a stock with the ticker symbol NEST — a different, and defunct, company.",neutral,0.12455905973911285
+2014-01-15,A Case of Mistaken Identity Sends a Worthless Stock Soaring,negative,-0.6881778240203857
+2014-01-16,"Marissa Mayer has done much to revive Yahoo, Richard Beales and Robert Cyran of Reuters Breakingviews write, but the Internet company still has a fundamental problem: Its sites are a hodgepodge.",negative,-0.9412906765937805
+2014-01-16,Why It May Take More Than Former Google Stars to Turn Yahoo Around,neutral,0.022240035235881805
+2014-01-17,"Marissa Mayer’s firing of her top lieutenant, Henrique de Castro, was her first public signal that turning around Yahoo would be far more difficult than some had suggested.",negative,-0.8336687088012695
+2014-01-17,Bumps on a Road to Revival for Yahoo,neutral,0.23249144852161407
+2014-01-20,Two people are stuck on a remote island with a horrible monster.,negative,-0.8263648152351379
+2014-01-20,What should they do to maximize their chance of survival?,neutral,0.10803891718387604
+2014-01-20,More Monster and Hats,neutral,-0.0027209073305130005
+2014-01-21,"Everyone wins in technology deals like Google’s $3.2 billion purchase of Nest Labs, at least until the bubble bursts, the Deal Professor writes.",positive,0.5015594959259033
+2014-01-21,Search for the ‘Next Big Thing’ Yields Soaring Valuations,neutral,0.041413143277168274
+2014-01-22,Marijuana ads have been banned by Google and Facebook.,negative,-0.6119179725646973
+2014-01-22,The limits of shipping insurance.,neutral,0.0340091846883297
+2014-01-22,Is 2014 the year of free hardware?,neutral,0.0559697151184082
+2014-01-22,Today in Small Business: ‘Anticipatory Shipping’,neutral,0.050144124776124954
+2014-01-24,"Pointing to a small but growing trend, the British prime minister said some companies were reconsidering past choices and bringing jobs back home.",positive,0.5734300017356873
+2014-01-24,Cameron Sees Technology as Unlikely Ally of Western Workers,neutral,0.15056121349334717
+2014-01-27,"The Obama administration will allow Internet companies to talk more specifically about when they are forced to turn over customer data to the government, the Justice Department said.",neutral,0.3177946209907532
+2014-01-27,U.S. Relaxes Some Data Disclosure Rules,neutral,-0.08656629920005798
+2014-01-28,Alibaba’s acquisition of a sleepy technology company set of a flurry of speculation.,neutral,-0.0036300495266914368
+2014-01-28,"After Alibaba’s public debut, scrutiny of its deals will only intensify, the Deal Professor writes.",neutral,0.028945647180080414
+2014-01-28,Answers to a Puzzling Deal at Alibaba Remain in the Shadows,neutral,-0.3949723541736603
+2014-01-29,Breaking down the admittedly messy math for the original Motorola deal shows that Google didn’t exactly lose nearly $10 billion on that transaction.,negative,-0.5317080616950989
+2014-01-29,Did Google Really Lose on Its Original Motorola Deal?,negative,-0.5871952772140503
+2014-01-30,"The company reported fourth-quarter revenue of $16.86 billion, an increase of 17 percent over a year ago.",positive,0.9342699646949768
+2014-01-30,Net income rose 17 percent to $3.38 billion.,positive,0.922330379486084
+2014-01-30,"Revenue and Profit Rise at Google, but Mobile Is a Persistent Challenge",positive,0.4509374499320984
+2014-01-31,"Remember when Google announced plans to split its stock, creating a third class of shares?",neutral,0.038816820830106735
+2014-01-31,Now the company’s board has finally cleared the way for the stock division.,positive,0.5156452059745789
+2014-01-31,Google’s Stock Split Comes as Shares Hit Record Highs,positive,0.4690466523170471
+2014-02-01,"Rising resentment against elite technology firms manifests itself in demonstrations at public bus stops in San Francisco, where private shuttle buses ferry engineers to work.",negative,-0.9220091104507446
+2014-02-01,Tech Rides Are Focus of Hostility in Bay Area,neutral,0.06934364885091782
+2014-02-03,"As tech companies focus on small, wearable devices, they have encountered an obstacle: Battery technology is largely stuck in the 20th century.",negative,-0.6272109150886536
+2014-02-03,Building a Better Battery,neutral,0.26458144187927246
+2014-02-04,Tuesday was the stock’s first full day of trading since Lenovo announced it would buy Motorola Mobility from Google for $2.9 billion last week.,neutral,0.09158946573734283
+2014-02-04,The deal came a week after it agreed to acquire IBM’s low-end server business for $2.3 billion.,neutral,0.3805246353149414
+2014-02-04,Lenovo Shares Tumble in Wake of Company’s Deal Spree,negative,-0.9101037979125977
+2014-02-05,"If approved, the deal would put an end to half a decade of wrangles with antitrust authorities across the globe.",positive,0.7454699277877808
+2014-02-05,Google Settles Its European Antitrust Case; Critics Remain,negative,-0.8766757845878601
+2014-02-06,"Plus, opting out of Google Plus auto backup.",neutral,0.01738514006137848
+2014-02-06,Picking a Flavor of Linux,neutral,0.0357331782579422
+2014-02-10,"A method to sort apps alphabetically, and how to edit the Facebook “Look Back” greatest-hits movies.",neutral,-0.00431479699909687
+2014-02-10,Sorting iPad Apps by Name,neutral,0.005121160298585892
+2014-02-11,"Google and comScore, two leaders in online advertising, announce a partnership to help web advertisers figure out in real time who is looking at their ads.",positive,0.815798819065094
+2014-02-11,Did Anyone Look at That Ad?,neutral,-0.06498784571886063
+2014-02-12,"Game players’ options now include tablets, game-streaming services and controllers that work with televisions.",neutral,0.03536728769540787
+2014-02-12,Challengers Take On the Big Three in Gaming’s Arena,neutral,-0.060760147869586945
+2014-02-13,The owner of Bari Jay wonders if she has to lower the cost of her bridal dresses to compete with the ready-to-wear dresses sold by department stores.,positive,0.4209936857223511
+2014-02-13,Business Owners Compare Notes on AdWords and Staying Competitive,neutral,-0.17098426818847656
+2014-02-14,"Trying to ensure the survival of Windows in a mobile universe, Microsoft enters a complex struggle, while Google abandons a money-losing handset unit.",negative,-0.9021069407463074
+2014-02-14,Microsoft’s Stakes in the Battle for Handsets,neutral,0.07156631350517273
+2014-02-15,"The social network, which gets relatively modest traffic, has remained valuable to Google because of the broad view it can give advertisers of people’s activity and interests.",positive,0.5926532745361328
+2014-02-15,The Plus in Google Plus?,neutral,0.018148966133594513
+2014-02-15,It’s Mostly for Google,neutral,0.033613838255405426
+2014-02-17,Wireless charging is promising and has been promised for several years.,positive,0.5384129881858826
+2014-02-17,But it is a mess of competing standards and technologies.,negative,-0.6186805367469788
+2014-02-17,Will this tangle of cords ever get unraveled?,neutral,-0.19110450148582458
+2014-02-17,Wireless Charging: Still Plenty of Kinks in the Cord,neutral,-0.29337525367736816
+2014-02-19,"Google released a set of do’s and don’ts for people who wear Google Glass, noting that in some situations, Glass wearers can be perceived as “creepy or rude.”",negative,-0.4657360911369324
+2014-02-19,Google Offers a Guide to Not Being a ‘Creepy’ Google Glass Owner,neutral,0.011138137429952621
+2014-02-20,"Google is asking 34 cities to pave the way for Fiber without guaranteeing it will install it, a change in approach as the Internet giant grapples with real-world challenges like tearing up roads.",neutral,0.40773412585258484
+2014-02-20,"Google Fiber, Ultrahigh-Speed Internet, May Expand to 34 New Cities",positive,0.7680773735046387
+2014-02-21,"BBVA’s acquisition of Simple increases the possibility that banks can find a way to mastermind their own technological disruption, writes Fiona Maharg-Bravo of Reuters Breakingviews.",neutral,0.4539400041103363
+2014-02-21,The Online Challenge for Banking,neutral,0.06373102962970734
+2014-02-24,"There is so much hype around new technologies, it is difficult to distinguish between what might exist real soon and what will only be real eventually or never.",neutral,-0.10182265937328339
+2014-02-24,Case in point: the driverless car.,neutral,-0.020731262862682343
+2014-02-24,"Google, Riding Off Into the Sunset",neutral,0.06427573412656784
+2014-02-25,"The dispute over the Smithfield Market project underscores broader issues, including the soaring cost of London real estate, the resulting inequality and the challenge of upgrading the infrastructure of culture-rich cities.",negative,-0.6957724690437317
+2014-02-25,Battle Over London Market Raises Development Issues,negative,-0.6183881759643555
+2014-02-27,"Google announced that it would be holding its first Ara Developers’ Conference, on its experimental Project Ara modular smartphone platform.",neutral,0.13610737025737762
+2014-02-27,Google Continues With Its Project Ara Modular Smartphone Effort,neutral,0.10843183845281601
+2014-03-01,"A class-action suit by Silicon Valley engineers against companies including Google, Apple and Intel has revealed details of an agreement among them not to cold-call one another’s employees.",negative,-0.8452702760696411
+2014-03-01,Engineers Allege Hiring Collusion in Silicon Valley,negative,-0.8720155358314514
+2014-03-03,"Rather than challenging new forms of peer-to-peer commerce, like Airbnb or Uber, government should foster the kind of self-regulation that prevails in many established industries and professions, an economist writes.",neutral,0.46257612109184265
+2014-03-03,Trusting the ‘Sharing Economy’ to Regulate Itself,neutral,0.06806355714797974
+2014-03-04,Facebook is in discussions to acquire a manufacturer of high-altitude drones for about $60 million.,neutral,0.06629028916358948
+2014-03-04,The purchase would allow the social network to advance its ambitions of connecting everyone in the world to the Internet.,positive,0.8447944521903992
+2014-03-04,Now Facebook Has a Drone Plan,neutral,-0.3279736638069153
+2014-03-07,"Plus, making Google Now, the virtual personal assistant, a little less personal.",neutral,0.24884042143821716
+2014-03-07,Streaming Home Movies Online,neutral,-0.02045946940779686
+2014-03-08,A reader responds to “Monuments of Tech” (March 2).,neutral,0.03866306692361832
+2014-03-08,The Architects’ Role,neutral,0.033908065408468246
+2014-03-10,"The Chinese Internet company said it would pay $215 million for a 15 percent stake in JD.com as the two firms seek to challenge the dominance of Alibaba, China’s largest e-commerce company.",positive,0.7095247507095337
+2014-03-10,China’s Tencent to Buy Stake in JD.com as Part of E-Commerce Push,neutral,0.1375969797372818
+2014-03-12,The organization has helped energize the local start-up community.,positive,0.8040351271629333
+2014-03-12,What 1 Million Cups Has Meant to Kansas City,neutral,0.08476483076810837
+2014-03-13,"The desktop search advertising business, long the most reliably profitable on the web, will decrease $1.4 billion this year, according to eMarketer, while mobile search revenue will nearly double.",negative,-0.9504167437553406
+2014-03-13,"Weakened by Mobile, Desktop Search Advertising Is Declining",negative,-0.9189462661743164
+2014-03-14,"As spring comes into view, it’s time to manage which apps and services have access to your social accounts and can see everything you’re doing.",neutral,0.009690865874290466
+2014-03-14,Spring Cleaning Who Has Access to Your Data,neutral,-0.11638474464416504
+2014-03-15,"Hicham Oudghiri, a co-founder of Enigma, demonstrated an application of his company’s service during the TechCrunch Disrupt conference in 2013.",neutral,0.12621945142745972
+2014-03-15,A Demonstration of Enigma,neutral,0.10104615986347198
+2014-03-17,"To keep tabs on passengers, carriers are using gadgets like Google Glass headsets and systems that monitor social media, raising privacy concerns.",negative,-0.9091825485229492
+2014-03-17,Airlines Use Digital Technology to Get Even More Personal,neutral,0.044353827834129333
+2014-03-18,The legal dispute began in 2007 over allegations by Viacom that its material was appearing on YouTube without permission.,negative,-0.9026828408241272
+2014-03-18,Viacom and YouTube Settle Suit Over Copyright Violations,negative,-0.8403550982475281
+2014-03-19,"Posts on Secret, an app that allows users to upload anonymous messages, can range from benign to inappropriate, and they are testing the tech industry’s appetite for sharing.",negative,-0.6496175527572632
+2014-03-19,Daily Report: Anonymous Social App Offers a Hotbed of Silicon Valley Gossip,neutral,0.10326990485191345
+2014-03-20,The world’s biggest social network introduced on Thursday a new open-source software language that is focused on helping to build interactive web pages.,neutral,0.38740816712379456
+2014-03-20,"Besides winning geek credibility, it’s the latest version of a decades-old effort in tech to win over as many developers as possible.",positive,0.7966867089271545
+2014-03-20,"Facebook’s Hack, a Language of Tech Competition",neutral,-0.3067629337310791
+2014-03-21,"David O’Neil, a longtime Justice Department official, will assume the role of acting assistant attorney general on Monday, overseeing some major investigations into Wall Street and corporate misdeeds.",neutral,0.01944977045059204
+2014-03-21,Justice Department Names New Leader for Criminal Division,neutral,0.11924934387207031
+2014-03-22,"Saying their own country stifles new business, French innovators are finding opportunity elsewhere — especially in London.",neutral,0.21767228841781616
+2014-03-22,"Au Revoir, Entrepreneurs",neutral,0.09840045869350433
+2014-03-24,Coding instructors say there is a cadre of people in their 40s and 50s who have either grown tired of their current careers or see coding as the way to job security.,neutral,-0.15726338326931
+2014-03-24,Leaving the Comfort Zone to Learn Computer Code,neutral,-0.10267339646816254
+2014-03-25,"Google is getting serious about taking on Amazon Web Services, with sharply cheaper prices and new features.",positive,0.7204095721244812
+2014-03-25,"Just as important, Google is vowing that prices will continue to fall in line with Moore’s Law.",neutral,-0.00961729884147644
+2014-03-25,"The idea is to win companies for the long term, and let them use Google tools.",neutral,0.2307712435722351
+2014-03-25,"Google’s Bigger, Cheaper Cloud",positive,0.5218547582626343
+2014-03-27,"Government officials in the United States and overseas made fewer requests for the private data of Yahoo users in the second half of 2013, but such requests continued to rise at Google, the companies said on Thursday.",positive,0.2967752516269684
+2014-03-27,Government Data Requests Fall at Yahoo But Rise at Google,negative,-0.9181786775588989
+2014-03-28,Box’s documents filed for its initial public offering show that the cloud-storage firm is losing a lot of money.,negative,-0.9560540318489075
+2014-03-28,There’s another way to say this: It’s giving customers lots of services for free.,neutral,0.07465449720621109
+2014-03-28,And it’s not alone.,neutral,0.07229651510715485
+2014-03-28,The Tech Bubble’s Silver Lining: Cheap Services for Everyone,neutral,0.017653688788414
+2014-03-29,Moves by older incumbents and young giants show that 2014 is the year computing everywhere comes into its own.,neutral,0.09455790370702744
+2014-03-29,Now it’s time for big development.,neutral,0.21345868706703186
+2014-03-29,Looking for the next frontier?,neutral,0.007038414478302002
+2014-03-29,"There was plenty of that, too.",neutral,0.061224084347486496
+2014-03-29,Cloud Computing’s Watershed Week,neutral,0.31747883558273315
+2014-03-31,A court battle between Apple and Samsung over patents could have a bigger effect on Google’s Android operating system.,negative,-0.8903610706329346
+2014-03-31,Daily Report: Apple-Samsung Patent Face-Off Has Google in Crossfire,negative,-0.933479368686676
+2014-04-01,"Companies like Google, Amazon, PayPal and Apple are looking for the route to dominance over future alternatives, both real-world and virtual, to cash and credit cards.",neutral,0.45231834053993225
+2014-04-01,Tech Titans Are Vying to Be Your Pocketbook,neutral,0.03621435910463333
+2014-04-02,"Starting Thursday, the GOOG stock symbol will represent a new class of nonvoting shares.",neutral,0.047369103878736496
+2014-04-02,And the Standard & Poor’s 500-stock index will now reflect 501 stocks.,neutral,0.04472377151250839
+2014-04-02,The Many Classes of Google Stock,neutral,0.028505589812994003
+2014-04-03,"Citing concerns that its smoke and carbon monoxide detector might be unintentionally turned off, Nest Labs is halting sales of the product and disabling a feature that allows users to turn it off with a wave.",negative,-0.9460307359695435
+2014-04-03,Nest Labs Stops Selling Its Smoke Detector,negative,-0.854638397693634
+2014-04-04,"Citing concerns that its smoke and carbon monoxide detector might be unintentionally turned off, Nest Labs is halting sales of the product and disabling a feature that allows users to turn it off with a wave.",negative,-0.9460307359695435
+2014-04-04,Daily Report: Nest Halts Sales of Smoke Detectors,negative,-0.9244289994239807
+2014-04-07,"With the age of folding maps all but over, Roadtrippers.com is channeling the flood of online travel resources into a route planning site.",neutral,0.061660803854465485
+2014-04-07,Website Collects Online Information for Road Trips,neutral,-0.006323963403701782
+2014-04-08,Tech firms may find no-poaching pacts costly.,negative,-0.8030346035957336
+2014-04-08,| Guy Hands appears to have a green thumb.,neutral,-0.0058047715574502945
+2014-04-08,| SAC Capital Advisors quietly rechristens itself Point72 Asset Management.,neutral,-0.012587688863277435
+2014-04-08,| Equity fund buys matzo maker.,positive,0.7050880789756775
+2014-04-08,Questioning the Valley’s No-Poaching Pacts,neutral,-0.25543469190597534
+2014-04-11,Tax revenues soar.,positive,0.8537775278091431
+2014-04-11,Online reviews vanish.,negative,-0.6542612314224243
+2014-04-11,And why a New York restaurant does Google searches on customers who make reservations.,neutral,-0.3130689263343811
+2014-04-11,Today in Small Business: Paying Employees to Quit,neutral,-0.3855876624584198
+2014-04-12,"Google is not officially a defendant in this case, but most of Samsung’s phones include Android, and some of the Apple patents involve features that Google put in Android.",neutral,-0.02738151140511036
+2014-04-12,Samsung Calls on Google Executive to Defend Innovation,negative,-0.5446439981460571
+2014-04-14,"Following in Facebook’s footsteps, Google said Monday that it had purchased Titan Aerospace, the maker of high-altitude drone satellites, which will be used to take photos of the earth and to connect people to the Internet.",positive,0.5951575040817261
+2014-04-14,"With Purchase of Drone Maker, Google Sees a Fleet of Satellites",neutral,0.44818249344825745
+2014-04-15,A look at some corporate tax loopholes.,neutral,0.027723202481865883
+2014-04-15,| Zebra Technologies is buying Motorola Solutions’ enterprise business.,neutral,0.10128051787614822
+2014-04-15,| A courtroom illustrator captures the downfall of Wall Street criminals.,neutral,-0.04204258695244789
+2014-04-15,| A hedge fund manager bets on G.M.,negative,-0.688114583492279
+2014-04-15,| Google buys a drone maker.,neutral,0.3374350368976593
+2014-04-15,Dreaming of Corporate Tax Breaks,neutral,-0.16257545351982117
+2014-04-16,"Researchers found a way to trace whether attackers have used Heartbleed and found that, since January, nobody was exploiting the bug before its disclosure last week.",neutral,-0.27568817138671875
+2014-04-16,Study Finds No Evidence of Heartbleed Attacks Before the Bug Was Exposed,neutral,-0.43799078464508057
+2014-04-17,"Google is lifting up the hood of its new Lens Blur feature for its camera app, showing how the company can make a photo taken on a smartphone look like it was shot with an SLR camera.",positive,0.4565999209880829
+2014-04-17,Google Uses Algorithms to Create SLR-Like Photos,neutral,-0.015357140451669693
+2014-04-18,"Using Google’s Street View technology, sponsors of the New York International Auto Show are creating a virtual exhibition online.",neutral,0.03169289231300354
+2014-04-18,"At 2014 New York Auto Show, Just Click to Kick the Tires",neutral,-0.08993010222911835
+2014-04-19,"At some point very soon, a large amount of public information, like a car license plate, will be part of a mosaic portraying personal lives.",neutral,0.01940959319472313
+2014-04-19,"At that point, believers in technology say, we’ll build a better society by eliminating deceit.",positive,0.6909181475639343
+2014-04-19,"Some say, however, that deferral to data comes at the expense of people making real choices about how to behave.",negative,-0.5384432077407837
+2014-04-19,How Urban Anonymity Disappears When All Data Is Tracked,neutral,-0.31650131940841675
+2014-04-21,"The question, analysts say, is how a payments start-up like Square can make itself into more than just another middleman.",neutral,0.10504579544067383
+2014-04-21,"For Square, Making Money Remains a Challenge",neutral,0.0308174267411232
+2014-04-22,The personal care brand Burt’s Bees is promoting anti-aging products in messages that will appear as appointments in electronic calendars.,neutral,0.06476455181837082
+2014-04-22,"For a New Burt’s Bees Line, Check Your Calendar",neutral,-0.043505407869815826
+2014-04-23,Planned new rules would allow an Internet provider to negotiate separately with content companies like Disney or Google and charge for priority service.,neutral,0.056317251175642014
+2014-04-23,"F.C.C., in a Shift, Backs Fast Lanes for Web Traffic",neutral,0.2649756073951721
+2014-04-24,"Apple, Google, Intel and Adobe reached an agreement with plaintiffs over charges that the companies conspired not to hire one another’s employees.",negative,-0.474345862865448
+2014-04-24,Tech Giants Settle Antitrust Hiring Suit,negative,-0.49410319328308105
+2014-04-25,"For a second quarter in a row, the Internet retailer’s stock fell sharply after its earnings report, suggesting that investors may be growing wary.",negative,-0.9667434096336365
+2014-04-25,Amazon’s Shrinking Profit Sets Off a Seismic Shock to Its Shares,negative,-0.9503753185272217
+2014-04-28,"Shows can be saved manually, but there are also ways to automatically keep files backed up.",neutral,-0.00216599740087986
+2014-04-28,"Also, blocking Facebook game requests.",negative,-0.5245748162269592
+2014-04-28,How to Back Up iTunes Podcasts,neutral,0.05424745753407478
+2014-04-29,The ruling is the strongest statement yet by an antitrust authority against the use of vital patents for mobile digital devices to stymie rivals.,positive,0.5058363080024719
+2014-04-29,Europe’s Antitrust Chief Censures Google’s Motorola Mobility Over Key Patents,negative,-0.9068577289581299
+2014-04-30,Lawyers for Apple and Samsung presented closing arguments in the latest billion-dollar patent dispute between the mobile phone and tablet makers.,negative,-0.49722567200660706
+2014-04-30,"Apple and Samsung Cite, and Rebut, Internal Memos in Patent Case",neutral,-0.021840766072273254
+2014-05-01,"Microsoft raced to issue a fix Thursday to a vulnerability in its Internet Explorer browser, which security researchers believe was being exploited by nation-state sponsored attack groups.",negative,-0.27722859382629395
+2014-05-01,"Attackers Use Microsoft Security Hole Against Energy, Defense, Finance Targets",negative,-0.5187541842460632
+2014-05-02,The Obama administration released a long-anticipated report on Thursday that recommends requiring private companies to disclose the kind of information they gather from their customers online.,neutral,-0.04967930167913437
+2014-05-02,Daily Report: White House Calls for More Privacy Protections,neutral,0.22368913888931274
+2014-05-05,A science and technology advisory group to President Obama described online privacy practices as a “market failure” in a report issued last week.,negative,-0.8480277061462402
+2014-05-05,"The answer, the group said, must be to shift the primary burden for protecting personal privacy online to the “commercial user of big data and not on the consumer.”",neutral,0.16131947934627533
+2014-05-05,White House Tech Advisers: Online Privacy Is a ‘Market Failure’,negative,-0.8623921275138855
+2014-05-06,Plus how to discontinue a Google Alert.,neutral,0.014212226495146751
+2014-05-06,Using Mac Notifications and Multi-Touch Gestures,neutral,0.0034880153834819794
+2014-05-07,Google updates its Maps smartphone app with lane guidance and other improvements; New Jersey lawmakers consider letting Tesla sell cars to consumers.,positive,0.628677487373352
+2014-05-07,Wheelies: The Lane-Minder Edition,neutral,0.0553070530295372
+2014-05-08,The Federal Trade Commission’s privacy agreements with tech companies haven’t led to a general improvement in privacy.,positive,0.8783034086227417
+2014-05-08,Another Tech Company Finds the F.T.C.,negative,-0.6796108484268188
+2014-05-08,Looking Over Its Shoulder,neutral,-0.1330229490995407
+2014-05-09,Plus deleting old Passbook cards on your iPhone.,neutral,-0.09786771237850189
+2014-05-09,What It Means When Google ‘Verifies’ an App,neutral,-0.03120635449886322
+2014-05-12,"Michael Devine, one of four plaintiffs named in the class action against Apple, Google, Intel and Adobe, has asked the judge in the case to reject the settlement his own lawyers negotiated.",negative,-0.7440369725227356
+2014-05-12,Daily Report: Plaintiff in Silicon Valley Suit Asks Judge to Reject Proposed Deal,negative,-0.7160396575927734
+2014-05-13,"Eric Schmidt, the executive chairman of Google, was appointed last month to a commission advising New York State on how to invest $2 billion it plans to spend on technology in schools.",neutral,0.13925333321094513
+2014-05-13,Google does a brisk business marketing its software to schools.,neutral,0.2786996364593506
+2014-05-13,"Consumer Watchdog, an advocacy group, has filed an ethics complaint with a state agency, claiming a conflict of interest.",negative,-0.924763023853302
+2014-05-13,Eric Schmidt Has an Interest.,neutral,0.021271271631121635
+2014-05-13,Is It a Conflict?,negative,-0.566122829914093
+2014-05-14,The software company’s new Spark operating system will run on its new model and be available at no cost to users of other 3-D printers.,neutral,0.24373388290405273
+2014-05-14,Autodesk Unveils Open-Source 3-D Printing System,neutral,0.06982769072055817
+2014-05-15,"A basic online tool for people to ask Google to take down potential harmful links would be in place in about two weeks, a top German regulator said.",neutral,0.054070379585027695
+2014-05-15,"After European Court Decision, Google Works on a Tool to Remove Links",neutral,-0.1787734031677246
+2014-05-17,"Apple and Google, fierce rivals in mobile software, agreed to dismiss patent lawsuits related to smartphone technology between the two companies.",negative,-0.06779006123542786
+2014-05-17,Apple and Google End Patent Fights,neutral,-0.1505477875471115
+2014-05-19,AT&T has agreed to buy DirecTV for $48.5 billion.,neutral,0.46910515427589417
+2014-05-19,| AstraZeneca has rejected Pfizer’s “final” offer.,negative,-0.9059973955154419
+2014-05-19,| Google may buy the video game service Twitch.,neutral,0.05132337287068367
+2014-05-19,| Deutsche Bank plans to raise fresh capital.,positive,0.711161196231842
+2014-05-19,AT&T’s Move for DirecTV,neutral,0.052901044487953186
+2014-05-20,Joaquín Almunia said that he might yet file formal charges if his inquiry determines that more changes are needed in a case involving search results.,negative,-0.7575913667678833
+2014-05-20,E.U.,neutral,0.04360159859061241
+2014-05-20,Antitrust Chief Casts Doubt on Google Deal Over Rivals’ Links,negative,-0.8032466769218445
+2014-05-21,"Lightweight, inexpensive computers based on Google’s Chrome operating system are gaining acceptance as users learn to live in the cloud.",positive,0.6852627992630005
+2014-05-21,Chromebooks Win Buyers Ready to Live in the Cloud,positive,0.6243686676025391
+2014-05-27,A European court’s ruling on the ability to erase links to negative information may not solve the issue of harm to a person’s reputation.,negative,-0.8333167433738708
+2014-05-27,It’s Not as Simple as Asking to ‘Be Forgotten’ by Google,neutral,-0.1323019415140152
+2014-05-28,"Google on Wednesday released statistics on the makeup of its work force, providing numbers that offer a stark glance at how Silicon Valley remains a white man’s world.",neutral,0.10832208395004272
+2014-05-28,"Google Releases Employee Data, Illustrating Tech’s Diversity Challenge",neutral,0.2197599709033966
+2014-05-29,"John J. Leonard, a veteran Massachusetts Institute of Technology roboticist, thinks that Google is trying to tackle tremendous challenges in its autonomous driving project.",positive,0.5736562013626099
+2014-05-29,"Police, Pedestrians and the Social Ballet of Merging: The Real Challenges for Self-Driving Cars",neutral,0.05271594226360321
+2014-05-30,A recent court ruling in Europe has accelerated requests that Internet search companies expunge individuals’ data.,negative,-0.4774796664714813
+2014-05-30,"Once a contested item is online, however, the genie will not easily go back in the bottle.",neutral,-0.12027372419834137
+2014-05-30,Daily Report: Hurdles to Privacy on Web in Europe,negative,-0.4754906892776489
+2014-06-01,"While the connected home will offer plenty of conveniences in the operation of locks, lights and appliances, there likely will also be problems around privacy and other concerns.",neutral,-0.23063765466213226
+2014-06-01,"Intruders for the Plugged-In Home, Coming In Through the Internet",neutral,-0.13553811609745026
+2014-06-02,"Plus, how to move photos from a cellphone to a Kindle Fire.",neutral,0.008863523602485657
+2014-06-02,Filtering Out Unwanted Gmail Messages,negative,-0.5217178463935852
+2014-06-03,"On Tuesday, Google announced plans to provide a new way to encrypt information that will make government snooping and hacking more difficult.",positive,0.5095407366752625
+2014-06-03,Google Offers New Encryption Tool,neutral,0.12430773675441742
+2014-06-04,The labels say that YouTube has threatened to block their content if they refuse licensing terms they see as inferior to those offered to big labels.,negative,-0.9179802536964417
+2014-06-04,Small Record Labels Ask Regulators to Intervene in YouTube Dispute,negative,-0.5075318217277527
+2014-06-06,"The web-based car ride service raised another $1.2 billion from investors at a $17 billion valuation, attaining a net worth almost unheard-of among start-ups.",positive,0.8884456157684326
+2014-06-06,Uber Attains Eye-Popping New Levels of Funding,positive,0.8883134722709656
+2014-06-07,Internet companies like Google and Facebook are working to keep governments and their spy agencies out of their servers after revelations that they had been invaded.,negative,-0.8406630754470825
+2014-06-07,Internet Giants Erect Barriers to Spy Agencies,neutral,-0.20497086644172668
+2014-06-09,"Plus, making movies with Microsoft products.",neutral,0.014447299763560295
+2014-06-09,Using iPhoto’s Contact Sheet Feature to Save Paper,neutral,-0.017007336020469666
+2014-06-10,"Though Google will initially use Skybox’s satellite offerings to improve its mapping service, the technology giant will likely use its latest acquisition to help expand its Internet access services — joining balloons and drones.",positive,0.8696039915084839
+2014-06-10,Google to Buy Skybox Imaging for $500 Million,neutral,0.04160144552588463
+2014-06-11,The key to using your cloud services without an Internet connection is preparation.,neutral,0.01631586253643036
+2014-06-11,"With a Bit of Planning, Keep the Cloud With You Always — Even Offline",neutral,-0.03539664298295975
+2014-06-12,"The financing round in the start-up, which offers cloud-based software on a subscription basis, is being led by Tiger Global Management and includes Google Capital and Accel Partners.",neutral,0.10100225359201431
+2014-06-12,Freshdesk Raises $31 Million for Customer Support Software,positive,0.7621458768844604
+2014-06-16,"Plus, how to remove books from the Kindle screen.",neutral,-0.030632968991994858
+2014-06-16,Reclaim the Firefox Search Box,neutral,0.01858145371079445
+2014-06-17,Privacy groups say the government contends that data transmitted through foreign-based services like Facebook lacks the legal protection of domestic communication.,negative,-0.8681881427764893
+2014-06-17,Daily Report: British Spy Agencies Are Said to Claim Right to Intercept Web Communications,neutral,-0.02865271270275116
+2014-06-18,"By the end of June, a team, led by the search company’s legal department, will start removing web links in Europe for some users that have made online requests.",negative,-0.8910837769508362
+2014-06-18,Google Ready to Comply With ‘Right to Be Forgotten’ Rules in Europe,neutral,0.15592889487743378
+2014-06-19,"The temporary order, granted last Friday by the Supreme Court of British Columbia, emerged from protracted litigation between two companies that were once closely connected.",neutral,0.0721568763256073
+2014-06-19,Canadian Judge Says Google Must Remove Links Worldwide,negative,-0.8708019256591797
+2014-06-20,Will Google’s new portal help small businesses?,neutral,0.0995049849152565
+2014-06-20,Is it time to stop paying attention to click-through rates?,negative,-0.49991124868392944
+2014-06-20,And why you should give your sales force a checkup.,neutral,0.022812485694885254
+2014-06-20,Today in Small Business: Google My Business,neutral,0.02973184734582901
+2014-06-21,"With the acquisition, Google’s portfolio of Internet-connected devices expands from smoke alarms and thermostats to small cameras.",positive,0.8260222673416138
+2014-06-21,Google’s Nest to Acquire Dropcam for $555 Million,neutral,0.025159254670143127
+2014-06-22,"Despite a provisional accord in a four-year-old antitrust case, the technology giant faces scrutiny on a number of other issues, a letter written by the E.U.",neutral,-0.19833685457706451
+2014-06-22,competition regulator indicates.,neutral,0.07083837687969208
+2014-06-22,Google’s European Antitrust Woes Are Far From Over,negative,-0.4709944725036621
+2014-06-24,"Nest Labs, the Google-owned maker of smart thermostats, will tap a venture capital fund to encourage developers to work with its software.",positive,0.8015221357345581
+2014-06-24,Google’s Nest Labs Joins Race to Define Platform for the Internet of Things,neutral,0.1240735724568367
+2014-06-25,"Inside the Google I/O developer conference, people were cheering for Google.",positive,0.7103310227394104
+2014-06-25,"Outside, people were protesting against Google, accusing it of playing a role in housing problems and evictions in San Francisco.",negative,-0.8857349157333374
+2014-06-25,"At Google I/O Conference, Protesters Inside and Out",negative,-0.8463683128356934
+2014-06-26,"The two Google executives discuss the spread of Android, recent acquisitions and the notion of having a “right to be forgotten” online.",neutral,0.043214742094278336
+2014-06-26,Google’s Grand Plans: A Conversation With Larry Page and Sundar Pichai,neutral,0.042589880526065826
+2014-06-27,"Plus, using Google Play gift cards for online purchases.",neutral,0.054895661771297455
+2014-06-27,What to Do When Twitter Locks You Out,neutral,-0.25312644243240356
+2014-06-28,Nick Bilton and Mike Isaac both covered technology in San Francisco and moved away from the city this month.,neutral,-0.4192318320274353
+2014-06-28,"The two reflect on their time living in a land of driverless cars, drones and a phenomenon known as “The Running of the Nerds.”",neutral,-0.20385971665382385
+2014-06-28,"Goodbye, for Now, San Francisco",neutral,0.04552069306373596
+2014-06-30,"A long-running privacy lawsuit may damage the company’s efforts to expand its technology to the home, the body and vehicles.",negative,-0.9370964169502258
+2014-06-30,Supreme Court Rejects Google’s Street View Appeal,negative,-0.6847624182701111
+2014-07-01,The price is said to be $39 million for the app that competes with Pandora and others in making customized playlists of recommended songs.,neutral,0.14457504451274872
+2014-07-01,"Google in Deal for Songza, a Music Playlist Service",neutral,0.253890722990036
+2014-07-02,Several prominent research firms made predictions about where these devices were headed.,neutral,0.025576002895832062
+2014-07-02,Their projections were all over the map.,neutral,0.005853593349456787
+2014-07-02,Mixed Predictions About Wearables Like Smartwatches and Google Glass,negative,-0.8831010460853577
+2014-07-03,"The BBC and The Guardian say that they have received notice of articles that will no longer show up in European online searches, including one about Stan O’Neal, the former Merrill Lynch chief.",negative,-0.7426014542579651
+2014-07-03,Google Alerts British News Outlets About Deleting Their Links,neutral,-0.38166409730911255
+2014-07-04,"As the search engine restores links that it had removed to comply with a court order, its handling of the “right to be forgotten” becomes murkier.",negative,-0.9305981993675232
+2014-07-04,Google Reinstates European Links to Articles From The Guardian,neutral,0.014072097837924957
+2014-07-07,"European consumers may criticize Facebook’s privacy policies or working conditions at Amazon, but they are still hooked on American technology companies.",negative,-0.8620876669883728
+2014-07-07,"Daily Report: Personal Objections Aside, Europeans Still Hooked on U.S. Tech Titans",neutral,0.07675114274024963
+2014-07-08,"Yelp filed an objection to a proposed antitrust settlement, complaining that search results favor Google Plus Local.",negative,-0.9245226979255676
+2014-07-08,Yelp Joins Critics of European Union Antitrust Settlement With Google,negative,-0.5765398144721985
+2014-07-09,"The appointment of Regina E. Dugan, a Google executive, to the company’s board removes Zynga from the Nasdaq Stock Market’s penalty box.",negative,-0.8449809551239014
+2014-07-09,Zynga Changes Board to Comply With Nasdaq Rules,negative,-0.26371604204177856
+2014-07-10,The Internet giant has been investing in start-ups in the United States for years.,neutral,0.15204091370105743
+2014-07-10,Now it is extending its venture reach to Europe with a $100 million fund.,positive,0.9038915038108826
+2014-07-10,Google Launches European Venture Fund,neutral,0.13895265758037567
+2014-07-11,The group will visit six countries as it discusses how search engines will react to Europe’s so-called right to be forgotten ruling.,neutral,0.06202395260334015
+2014-07-11,Google to Tour Europe to Discuss Privacy,neutral,0.09407741576433182
+2014-07-13,"Some start-ups focus on claiming space on the lock screen, the area in which you type in a passcode before gaining access to the rest of your menus.",neutral,-0.004077380523085594
+2014-07-13,Certain Mobile Apps Covet New Real Estate: The Lock Screen,neutral,0.022575505077838898
+2014-07-14,"Plus, planning ahead for iOS 8, the next version of Apple’s mobile operating system.",neutral,0.11174771189689636
+2014-07-14,Restoring Internet Explorer 11 to Windows 8.1 App Tiles,neutral,0.37779268622398376
+2014-07-15,Google’s Nest thermostat company is at the forefront of an effort to make home devices talk with each other as well as the Internet.,neutral,0.3903578817844391
+2014-07-15,"Controlling the Home, Google Style",neutral,-0.04300812631845474
+2014-07-16,Thomas Enders admires the speed and innovation achieved by American high-tech giants — and may even see them as future partners.,positive,0.6249780654907227
+2014-07-16,"Analyzing Next Steps, Airbus Chief Is Closely Watching Google and Facebook",neutral,0.038143351674079895
+2014-07-17,"Second-quarter revenue and profit rose, but the company reported a lower “cost per click” ad price, largely because of a shift to mobile advertising.",positive,0.80387282371521
+2014-07-17,Google’s Quarterly Results Show Its Continuing Struggle With Mobile Advertising,negative,-0.9525538682937622
+2014-07-18,"Many parents have learned the hard way that “free” mobile games are not always free, because they let players buy extras within the game.",neutral,-0.09576910734176636
+2014-07-18,Europe says it is pushing Apple and Google to make the real price of a game clearer.,positive,0.6598915457725525
+2014-07-18,Europe Wants Apple and Google to Fix In-App Payments Problem,neutral,0.05718878284096718
+2014-07-21,"Plus, saving the data on your laptop after a spill.",neutral,0.11150627583265305
+2014-07-21,Where to Start When Starting a Blog,neutral,0.013941243290901184
+2014-07-23,"The social media company’s report on employees’ gender and ethnic backgrounds is the latest in a string of reports indicating that when it comes to diversity, the tech industry has “a lot of work to do.”",neutral,0.12359854578971863
+2014-07-23,"Twitter, Like Other Big Tech Companies, Comes Up Short on Diversity",negative,-0.9265424013137817
+2014-07-25,Amazon Web Services reported a surprising decline in quarterly revenue on Thursday.,negative,-0.9705462455749512
+2014-07-25,"Amazon blamed Google’s price cuts, but its web services could be hitting some harder business sales.",negative,-0.8751616477966309
+2014-07-25,Challenges for Amazon’s Cloud Computing Hopes,neutral,-0.016950130462646484
+2014-07-29,"The Pacific Northwest city continues its rise as the world’s center of cloud computing, moving from infrastructure to applications.",positive,0.7261564135551453
+2014-07-29,"Oracle is kicking off a 100-person engineering facility, which over time is expected to affect sales, training, and much more of how Oracle works with customers.",neutral,0.05320729687809944
+2014-07-29,Seattle Takes Oracle’s Cloud,neutral,-0.051470451056957245
+2014-07-30,Several new products and services have been released that could make mobile payments more convenient and worth trying.,positive,0.6696860790252686
+2014-07-30,Easier Ways to Make Payments With Smartphones,neutral,0.3031403720378876
+2014-07-31,"Google said that the company often had to rely only on information provided by the submitters, and that it struggled to decide whether the requests complied with Europe’s recent ruling.",negative,-0.7712645530700684
+2014-07-31,Google Details Problems With Handling Right to Be Forgotten Requests,negative,-0.767208456993103
+2014-08-04,"Google has gathered business leaders, tech luminaries and celebrities for high-minded discussions of global issues as well as schmoozing and basking in the Mediterranean sun.",neutral,0.0713849812746048
+2014-08-04,Exclusive Google ‘Camp’ Draws Elite to Sicilian Resort,neutral,0.07312757521867752
+2014-08-05,"A buying spree among technology companies has revolutionized the venture capital business model, Steven Davidoff Solomon writes in the Deal Professor.",positive,0.7391056418418884
+2014-08-05,New Buying Strategy as Facebook and Google Transform Into Web Conglomerates,neutral,0.4428991675376892
+2014-08-06,The nonprofit behind Wikipedia released a list of its links that Google has removed from its search engine in accordance with European law.,negative,-0.6129223704338074
+2014-08-06,Wikimedia Wants You to Remember the Links Europe Wants You to Forget,neutral,0.04258948937058449
+2014-08-07,"Book buyers in Manhattan, West Los Angeles and the San Francisco Bay area will be able to get same-day deliveries from local Barnes & Noble stores through Google Shopping Express.",neutral,0.43573254346847534
+2014-08-07,"Daily Report: To Compete Against Amazon, Google and Barnes & Noble Team Up",positive,0.6879132986068726
+2014-08-08,A judge rejected a settlement in a case that accuses tech companies of agreeing not to solicit one another’s employees.,negative,-0.8667001128196716
+2014-08-08,Court Rejects Deal on Hiring in Silicon Valley,negative,-0.9023443460464478
+2014-08-09,"Bletchley Park, once Britain’s highly classified government center for code breaking during World War II, now invites curious guests who want to poke around and learn its secrets.",neutral,0.02220349945127964
+2014-08-09,"At Bletchley Park, a Reminder About the History of Cracking Codes",neutral,0.058881811797618866
+2014-08-12,"Following Google, Twitter, and Facebook, Apple has published a report summarizing the makeup of its work force in terms of race and gender.",neutral,-0.029541442170739174
+2014-08-12,Apple’s Diversity Mirrors Other Tech Companies’,neutral,0.21153703331947327
+2014-08-13,"With access to our calendars, contacts and location, phones should be able to communicate with great intelligence, but often buzz at just the wrong time.",neutral,0.06322254240512848
+2014-08-13,Smartphones Overstate Their Social Intelligence,negative,-0.6269791722297668
+2014-08-15,The young company makes accessories that connect home appliances to the Internet and will help Samsung compete with Google and Apple.,positive,0.8002869486808777
+2014-08-15,"Samsung Acquires SmartThings, in Embrace of the Smart Home",neutral,0.45181310176849365
+2014-08-17,"The former Google engineer who helped solve the HealthCare.gov crisis is back in Washington, tasked with remaking the way the government uses computers and how citizens engage with it online.",neutral,0.044379349797964096
+2014-08-17,Reprogramming Government: A Conversation With Mikey Dickerson,neutral,0.031148070469498634
+2014-08-18,A team of computer scientists at Columbia has developed a research tool for tracking the use of personal data online.,neutral,0.005822077393531799
+2014-08-18,XRay: A New Tool for Tracking the Use of Personal Data on the Web,neutral,0.009947650134563446
+2014-08-19,An analysis of a decade of web searches shows the different subjects that occupy people’s thoughts in a highly unequal country.,neutral,-0.0375191792845726
+2014-08-19,"In One America, Guns and Diet.",neutral,-0.022801578044891357
+2014-08-19,"In the Other, Cameras and ‘Zoolander.’",neutral,-0.04861435294151306
+2014-08-20,"Google, Apple, Facebook and others let you collaborate with people to create shared albums from events or your recent trip.",neutral,-0.005775764584541321
+2014-08-20,"Sharing, and Borrowing From, the Vacation Photo Album",neutral,0.036969929933547974
+2014-08-22,Banks fear competition for top talent from companies like Google and Facebook that can offer similarly high pay combined with luxurious benefits.,negative,-0.8539234399795532
+2014-08-22,Wall Street Banks Dig Deeper to Keep Best and Brightest Junior Bankers,neutral,0.017725124955177307
+2014-08-25,"Box, Dropbox and Hightail – caught in the middle of a price war between Amazon and Google – are rethinking their core business models, focusing on specific industries or bolstering customer service.",neutral,0.09422047436237335
+2014-08-25,Daily Report: Online Data-Storage Providers Search for Better Niches,positive,0.6121312975883484
+2014-08-26,The Internet giant is adding specialized technology to its cloud computing services.,positive,0.5078621506690979
+2014-08-26,"Google Buys Zync, Maker of Visual Effects Software",neutral,0.2777334153652191
+2014-08-27,"A book offers an optimistic view of the effects of technology, but its arguments have one big blind spot: human behavior.",neutral,-0.003965768963098526
+2014-08-27,"The Future Could Work, if We Let It",neutral,0.44330257177352905
+2014-08-29,Who needs UPS trucks and bicycle delivery when you can fly in things people buy online?,neutral,0.013078026473522186
+2014-08-29,Google Joins Amazon in Dreams of Drone Delivery,neutral,-0.0035389959812164307
+2014-08-30,"Plus, writing about yourself on Wikipedia.",neutral,-0.06647318601608276
+2014-08-30,How to Manage Google Location Tracking,neutral,0.02585607022047043
+2014-09-01,From Google’s Peter Norvig: a puzzle about colliding ants.,neutral,-0.11883143335580826
+2014-09-01,Ants on a Triangle,neutral,-0.09484094381332397
+2014-09-03,"A Google-backed biotech company plans to build a new Bay Area-based facility to research diseases that afflict the elderly, such as neurodegeneration and cancer.",neutral,0.4101119637489319
+2014-09-03,"Calico, Google’s Anti-Aging Company, Announces New Research Facility",neutral,0.31531763076782227
+2014-09-04,"GhostTunes, which offers Mr. Brooks’s complete catalog of music for $30, also carries songs from other artists, including Brad Paisley and Maroon 5.",neutral,0.036732494831085205
+2014-09-04,Garth Brooks Embraces Digital Music and Unveils Online Store,neutral,0.10897187143564224
+2014-09-05,"Plus, pulling up a Google search by voice on your desktop computer.",neutral,-0.04616502299904823
+2014-09-05,Melding Two Flickr Accounts Into One,neutral,0.057320237159729004
+2014-09-06,"Moves this week by companies like Google and Box illustrate how much the cloud and mobility are reshaping the workplace, as well as the tech companies themselves.",neutral,0.2169598937034607
+2014-09-06,How Big Companies and Their Tech Suppliers Are Changing Together,neutral,-0.019361499696969986
+2014-09-07,"As our online personal information has become less and less personal, the privacy pendulum may now ready to switch directions.",neutral,-0.026699692010879517
+2014-09-07,Facebook Generation Rekindles Expectation of Privacy Online,positive,0.7638868093490601
+2014-09-08,A plan to give competitors more equal status in the results displayed by Google searches faces further scrutiny after objections by companies like Microsoft and German publishing groups.,negative,-0.8610351085662842
+2014-09-08,European Commission Delays Google Antitrust Settlement After Competitors’ Complaints,negative,-0.9049763083457947
+2014-09-09,"Google began in Madrid its seven-city tour of public meetings, hearing views from activists and members of the public about the best ways to remove certain links from its search results upon request.",neutral,0.05117976665496826
+2014-09-09,"Discussing Online ‘Right to Be Forgotten,’ Google Takes European Privacy Tour to Spain",neutral,0.05539911240339279
+2014-09-10,"If confirmed, the former Danish finance minister will inherit delicate investigations into powerful foreign companies.",neutral,0.047956790775060654
+2014-09-10,E.U.,neutral,0.04360159859061241
+2014-09-10,Antitrust Enforcer Will Be Margrethe Vestager,neutral,0.012294802814722061
+2014-09-11,"The company’s team of engineers and designers will join Google’s social network, Google Plus.",neutral,0.09438911825418472
+2014-09-11,Google Acquires Online Poll Company Polar,neutral,0.064155712723732
+2014-09-12,"Google has a new program in which it will offer start-ups $100,000 in credits on its Google Cloud Platform.",positive,0.5843502283096313
+2014-09-12,"The effort is the company’s latest attempt to take on Amazon Web Services, the leader in cloud services.",positive,0.6860842108726501
+2014-09-12,"Google to Give Start-Ups $100,000 in Cloud Computing Credits",neutral,0.3688337802886963
+2014-09-15,Google fielded 15 percent more requests for user data in the first six months of 2014 than in the previous six months.,positive,0.3811281621456146
+2014-09-15,Google Report Shows Governments’ Increasing Demands for Users’ Data,neutral,0.11165487766265869
+2014-09-16,The tech company is offering advertising and media agencies tutorials on how to more effectively use digital tools like mobile and social platforms for marketing purposes.,neutral,0.095474973320961
+2014-09-16,Google Lends a Helping Hand to Madison Ave. on Digital Proficiency,positive,0.7315917611122131
+2014-09-17,"Companies once had little interest in lower-end consumers, but some now recognize the potential of that vast market.",neutral,0.07321217656135559
+2014-09-17,Multinational Companies Court Lower-Income Consumers,negative,-0.6385212540626526
+2014-09-18,"The publishing giant accused the search giant of being a “vast, powerful, often unaccountable bureaucracy,” and Google fired back with a tabloid reference to a hamster sandwich.",negative,-0.8271101713180542
+2014-09-18,News Corp. and Google in a War of Words,negative,-0.8284611701965332
+2014-09-21,"Chinese authorities have tightened censorship over Internet traffic in recent weeks, and Google and its services are particularly affected.",negative,-0.883111298084259
+2014-09-21,"China Clamps Down on Web, Pinching Companies Like Google",negative,-0.9403281211853027
+2014-09-22,"Chinese authorities have tightened censorship over Internet traffic in recent weeks, and Google and its services are particularly affected.",negative,-0.883111298084259
+2014-09-22,Daily Report: China’s Great Firewall Toughens for Google and Others,negative,-0.5422002077102661
+2014-09-24,The tech giant is undertaking a long-term effort to make its employees aware of how unconscious biases can affect hiring and promotion decisions.,positive,0.532479465007782
+2014-09-24,Exposing Hidden Bias at Google,neutral,-0.20844164490699768
+2014-09-25,The tech giant is undertaking a long-term effort to make its employees aware of how unconscious biases can affect hiring and promotion decisions.,positive,0.532479465007782
+2014-09-25,Daily Report: Shedding Light on Hidden Bias at Google,negative,-0.5365949869155884
+2014-09-26,"Security experts advised home users to stay on top of software updates and check manufacturer’s websites, particularly for hardware like routers.",neutral,-0.03635186702013016
+2014-09-26,Companies Rush to Fix Shellshock Software Bug as Hackers Launch Thousands of Attacks,negative,-0.8008337020874023
+2014-09-28,"The key to success in modern business is hiring and nurturing “smart creatives,” according to a new book co-authored by Eric Schmidt, former chief executive of Google.",positive,0.5713576078414917
+2014-09-28,The Google Formula for Success,neutral,0.06911930441856384
+2014-09-29,"Plus, what you can back up on a Nexus tablet.",neutral,0.0031331591308116913
+2014-09-29,Copying PC Photos to an iPhone,neutral,-0.031193889677524567
+2014-10-01,The city of Hamburg’s data protection commissioner said the tech giant’s aggregation of data across its services risked creating “meaningful and comprehensive personal records” of individuals without their consent.,negative,-0.8736647367477417
+2014-10-01,German Regulator Warns Google Over Collecting Users’ Data,negative,-0.8700350522994995
+2014-10-02,A New York brokerage took a novel approach to studying what people are searching for on Google.,neutral,0.07277820259332657
+2014-10-02,We certainly spend a lot of time thinking about television bachelors.,neutral,0.0015755780041217804
+2014-10-02,Drones vs.,neutral,-0.40825968980789185
+2014-10-02,Kidneys: Google Autofill on the Economy,neutral,-0.05351744592189789
+2014-10-03,The notifications offer examples of the issues involved in Europe’s decision to allow individuals some control over what appears online about themselves.,neutral,0.048335324972867966
+2014-10-03,Times Articles Removed From Google Results in Europe,neutral,-0.3246167302131653
+2014-10-04,"If a tree falls in a puzzle, how much sound could it possibly make?",neutral,-0.2918335795402527
+2014-10-04,Timber!,neutral,0.07167751342058182
+2014-10-06,"The professional social network’s Chinese-language version, which lacks certain features of Western versions, seems to have the tacit approval of China’s government.",neutral,0.0959196612238884
+2014-10-06,"To Reach China, LinkedIn Plays by Local Rules",neutral,0.0026352256536483765
+2014-10-07,"Plus, how to clean out an iBooks library.",neutral,0.03633914887905121
+2014-10-07,Recording Live Audio Streams in Windows,neutral,-0.0008793585002422333
+2014-10-08,Vivienne Harr became an Internet sensation for a lemonade stand she started to end child slavery.,neutral,0.019373267889022827
+2014-10-08,"Now, she has a crowdfunding app that’s funded by Twitter and Google luminaries.",neutral,0.05350511148571968
+2014-10-08,Hers is a story of the power of networking in the social media age.,neutral,0.04382769763469696
+2014-10-08,"Daily Report: From Lemonade Stand to Twitter’s I.P.O., a 10-Year-Old’s Journey to Silicon Valley",neutral,0.05115866661071777
+2014-10-09,Google said that it had removed more links in Europe to content on Facebook from its search results than from any other website.,negative,-0.9362581968307495
+2014-10-09,Google Provides Details on ‘Right to Be Forgotten’ Requests in E.U.,neutral,-0.0010809507220983505
+2014-10-10,"Plus, making text bigger in Google Maps.",positive,0.5033878684043884
+2014-10-10,Moving a Music Library to Linux,neutral,0.05341208726167679
+2014-10-11,Fred Piscop returns with Split Decisions.,neutral,-0.04160298407077789
+2014-10-11,Variety: Split Decisions,neutral,-0.031888723373413086
+2014-10-13,Google’s “Helpouts” platform is experimenting with a new product that lets consumers talk to doctors over video.,neutral,0.16367049515247345
+2014-10-13,Am I Sick?,negative,-0.6932522654533386
+2014-10-13,Google Has a Doctor Waiting on Video,neutral,-0.1938137412071228
+2014-10-14,"As the European Commission continues to negotiate an antitrust case regarding Google, the company’s chairman, Eric Schmidt, used a speech to talk about how strong Google’s competitors are.",positive,0.5756367444992065
+2014-10-14,Google Executive Chairman: Amazon Is a Lovely Place to Shop and Search,neutral,0.09347441047430038
+2014-10-15,"On Tuesday, researchers disclosed details of a security bug that could make web browsing sessions on a public network vulnerable to hackers.",negative,-0.8726731538772583
+2014-10-15,Poodle Bug Marks Third Major Security Flaw Discovered This Year,negative,-0.7561891078948975
+2014-10-16,"Even though Google has expanded beyond its core search business, nothing has been as profitable as search, its original golden goose.",positive,0.7994436025619507
+2014-10-16,Analysts Ask What’s Next for Google,neutral,-0.040264278650283813
+2014-10-17,"Some high-tech companies offer top-shelf extras like gourmet meals and child care, but critics say this just keeps people at work longer.",negative,-0.8742133378982544
+2014-10-17,The Downsides of Generous Workplace Perks,negative,-0.42855167388916016
+2014-10-20,"Stephen Colbert chided the search engine for getting his height wrong, a situation that highlighted challenges about the accuracy and sources of its information.",negative,-0.8158423900604248
+2014-10-20,Stephen Colbert Has a Mock Feud With Google Over Search Results,negative,-0.7086400389671326
+2014-10-21,"Google is leading a $542 million investment in a little-known firm called Magic Leap, in an investment that is said to value the start-up at about $2 billion.",neutral,0.10920743644237518
+2014-10-21,Google Invests Heavily in Magic Leap’s Effort to Blend Illusion and Reality,neutral,0.2488507777452469
+2014-10-22,The social network unveiled a tool that software developers can use to let people more easily log on to smartphone apps.,positive,0.6217654943466187
+2014-10-22,"Twitter Offers Tool, Digits, to Sign In to Apps With Just a Phone Number",neutral,0.00795433297753334
+2014-10-23,Google is preparing to take on Apple Pay.,neutral,0.04066481441259384
+2014-10-23,How one company pampers its workers.,neutral,-0.2263089120388031
+2014-10-23,Amazon is likely to top $100 billion in revenue next year — but hasn’t made a quarterly profit since 2011.,positive,0.08607572317123413
+2014-10-23,Today in Small Business: ‘We’re the Uber of Whatever!’,neutral,-0.05604997277259827
+2014-10-24,"Recently, Nest has been delving deeper into integrating its products with other smart devices.",positive,0.6262547373771667
+2014-10-24,"Nest Buys Revolv, Maker of Smart Appliance Manager",neutral,0.08763596415519714
+2014-10-25,The move makes Mr. Pichai the second-most powerful person at the company.,neutral,0.39106646180152893
+2014-10-25,"With Promotion, Sundar Pichai Becomes Google’s Product Chief",neutral,0.09637045115232468
+2014-10-27,"Also, using Google Maps “Lite” and private searches in OS X Yosemite.",neutral,0.02906177192926407
+2014-10-27,Sorting the Phone’s Address Book,neutral,-0.04296707361936569
+2014-10-28,"YouTube is considering a new subscription service, the video site’s chief executive said at a conference.",neutral,0.10748784989118576
+2014-10-28,YouTube Weighing New Subscription Service,neutral,0.01947799324989319
+2014-10-30,"Apple’s chief executive was hailed by top executives, including Mark Zuckerberg of Facebook and Sundar Pichai of Google.",positive,0.557964563369751
+2014-10-30,Tim Cook’s Disclosure That He’s Gay Garners Sweeping Praise,neutral,0.062332168221473694
+2014-10-31,Google Flu Trends is getting an overhaul intended to improve its accuracy.,positive,0.8891792893409729
+2014-10-31,The new ingredient?,neutral,0.04459609463810921
+2014-10-31,Traditional public health data from the Centers for Disease Control and Prevention.,neutral,0.025342490524053574
+2014-10-31,The New Thing in Google Flu Trends Is Traditional Data,neutral,0.07088156789541245
+2014-11-03,"Publicis Groupe says it believes its cash deal with Sapient, a consulting firm based in Boston, will help it compete with Facebook and Google.",positive,0.9239732027053833
+2014-11-03,"For French Giant Publicis, a Deal for Sapient to Expand in Digital Ads",positive,0.5988869667053223
+2014-11-04,A research letter about a very small sample test said Google Glass may create a small blind spot on the right side.,negative,-0.7162367701530457
+2014-11-04,"Google Glass May Have a Blind Spot, Study Says",neutral,-0.02048557624220848
+2014-11-06,"Jawbone, the activity tracker pioneer, is introducing the Up3 band and the inexpensive Up Move activity tracker.",neutral,0.1256292462348938
+2014-11-06,"The trackers — as well as Jawbone’s focus on activity, health and data tracking — are cementing the company’s status as a whole-health juggernaut.",positive,0.8308982253074646
+2014-11-06,Jawbone Up3 Band Takes Tracking to the Extreme,neutral,-0.06446048617362976
+2014-11-09,"Though Ireland has been under international pressure to close loopholes that have drawn companies like Google and Microsoft, the country is still touting its low-tax appeal.",positive,0.29709702730178833
+2014-11-09,Ireland Vies to Remain Silicon Valley’s Low-Tax Home Away From Home,neutral,0.19922471046447754
+2014-11-10,"Satya Nadella, the company’s chief executive, discusses how Microsoft’s focus on helping people “get stuff done” distinguishes it from competitors like Google and Apple.",positive,0.7041175365447998
+2014-11-10,Microsoft’s Nadella Talks About the Future of Office,neutral,0.028616199269890785
+2014-11-11,Companies like Facebook and Google have stayed away from mobilizing their users to support an issue that primarily affects smaller Internet upstarts.,negative,-0.8611881732940674
+2014-11-11,"In Net Neutrality Push, Internet Giants on the Sidelines",negative,-0.6381236910820007
+2014-11-12,"At a media event in San Francisco on Wednesday, Comcast showed a new version of X1, its new TV operating system, and answered questions about President Obama’s recent call for strict net neutrality rules.",neutral,0.20358431339263916
+2014-11-12,Comcast Reiterates Net Neutrality Position at Showcase for New Product,neutral,0.16246604919433594
+2014-11-13,"The Turing prize for computer science will be quadrupled to $1 million, a jump funded by Google.",positive,0.7985097765922546
+2014-11-13,Google to Quadruple Computer Science Prize Winnings to $1 Million,positive,0.6350549459457397
+2014-11-17,"Plus, using Apple’s AirDrop to move files between iOS and OS X.",neutral,0.0652744323015213
+2014-11-17,Erasing Sony and Nook E-Readers,neutral,-0.13694891333580017
+2014-11-20,"Google said it would offer Chinese developers a way to sell mobile applications outside of mainland China by giving them access to its Play Store, which runs on Android phones and tablets.",positive,0.8260048627853394
+2014-11-20,Google Play Store Opens to Chinese Developers,neutral,0.2131558358669281
+2014-11-21,The nonbinding resolution could increase pressure on Europe’s the competition commissioner to bring formal charges against Google.,negative,-0.9010278582572937
+2014-11-21,"In Europe, a Resolution to Break Up Google",neutral,0.09310344606637955
+2014-11-23,The next big technology migration will change how workplaces are organized.,neutral,0.028555940836668015
+2014-11-23,"Bad news, middle managers: You’re going to get less important.",negative,-0.5220609307289124
+2014-11-23,What Cloud Computing Means to Your Job,neutral,0.054582368582487106
+2014-11-24,A lawsuit by Baldino’s Lock & Key in Virginia claims that search engines profit from knowingly listing unlicensed locksmiths.,negative,-0.9163936972618103
+2014-11-24,A Business Owner Blames Search Engines for Lost Sales,negative,-0.7939366698265076
+2014-11-26,"New guidelines from privacy regulators would require Google, in certain cases, to take down links in search domains in Europe as well as outside the region.",neutral,0.08059228211641312
+2014-11-26,"‘Right to Be Forgotten’ Should Apply Worldwide, E.U.",neutral,0.08072029799222946
+2014-11-26,Panel Says,neutral,0.05035628378391266
+2014-11-27,"While the vote poses no immediate threat to the company, it symbolizes the growing resentment in Europe toward the American technology titan.",negative,-0.9127272963523865
+2014-11-27,E.U.,neutral,0.04360159859061241
+2014-11-27,Parliament Passes Measure to Break Up Google in Symbolic Vote,positive,0.41190195083618164
+2014-12-02,Most Windows and Mac editions of Microsoft Word have a setting that automatically backs up documents.,neutral,-0.03232143819332123
+2014-12-02,"Also, how to export your Gmail contacts.",neutral,0.00922390166670084
+2014-12-02,How to Restore Old Versions of Word Documents,neutral,0.03235933557152748
+2014-12-03,"Isabelle Falque-Pierrotin, who heads the French data protection authority and heads a European body composed of the region’s 28 national privacy regulators, said Google must do more than remove links from its European domains.",negative,-0.746130108833313
+2014-12-03,French Official Campaigns to Make ‘Right to be Forgotten’ Global,neutral,-0.08905166387557983
+2014-12-04,"OnDeck Capital, an online site for lending to small businesses, said it planned to price its stock sale at $16 to $18 a share, a move that would value the company at about $1.1 billion.",neutral,0.15848547220230103
+2014-12-04,"OnDeck, an Alternative Lending Platform, Sets I.P.O.",neutral,0.06705614924430847
+2014-12-04,Range,neutral,0.00821155309677124
+2014-12-08,The social network says it will give English-language users in the United States the ability to search the content of Facebook posts to unearth specific bits of information that are currently difficult to find among the more than one trillion posts on the service.,positive,0.6519079804420471
+2014-12-08,Will We Finally Be Able to Search Facebook Posts?,positive,0.6194114089012146
+2014-12-11,"Margrethe Vestager, the European Union’s competition commissioner, said there was a need to update information in the case.",neutral,0.02691112644970417
+2014-12-11,European Antitrust Regulators Ask for More Information in Google Investigation,neutral,0.006109105423092842
+2014-12-16,"China, the No.",neutral,-0.11079507321119308
+2014-12-16,"2 market for digital advertising, has become so important to marketers that Alibaba and Baidu, two Chinese companies that operate almost entirely within their home country, have become two of the largest ad sellers in the world.",positive,0.6834043860435486
+2014-12-16,Chinese Internet Companies Gain Ground in Global Advertising Competition,positive,0.7389699816703796
+2014-12-17,Google’s critics are turning to state attorneys general to push the company to censor illegal content and sites from search results.,negative,-0.8476186990737915
+2014-12-17,Daily Report: Google’s Detractors Lobby State Attorneys General,neutral,-0.32397785782814026
+2014-12-19,"The search giant accused the Mississippi official, Jim Hood, of violating federal law in his efforts to get it to remove links to some content.",negative,-0.883141815662384
+2014-12-19,"Sued by Google, a State Attorney General Retreats",negative,-0.8780797719955444
+2014-12-23,"Google, already the repository of our collective fears and hopes, also knows what we are shopping for.",neutral,0.05085829645395279
+2014-12-23,Of course it does.,neutral,0.08305763453245163
+2014-12-23,"America’s Christmas Gift Lists, as Seen by Google",neutral,0.007331322878599167
+2014-12-24,"Defying predictions of their demise, personal computers are making a comeback, enticing a niche audience of professional users with power and beauty, and an Apple machine stands out.",positive,0.7201720476150513
+2014-12-24,Retina 5K iMac: Powerful Proof of the PC Renaissance,neutral,0.244967982172966
+2014-12-26,Include some interesting events — off-planet and closer — to your daily reminders.,neutral,0.030727427452802658
+2014-12-26,"Adding the Sun, Moon and Stars to Google Calendar",neutral,0.05689803883433342
+2014-12-28,"On New Year’s Day, the digital scrapbook Pinterest will start selling ads to marketers, competing with Google, Twitter and Facebook for ad revenue from the biggest consumer brands.",positive,0.6252013444900513
+2014-12-28,Pinterest Pushing Deeper Into Ads,neutral,-0.0997994989156723
+2014-12-29,"On New Year’s Day, the digital scrapbook Pinterest will start selling advertising, competing with Google, Twitter and Facebook for marketing revenue from the biggest consumer brands.",positive,0.6411358118057251
+2014-12-29,Daily Report: Pinterest Opening Its Boards to Ads on Wide Scale for First Time,positive,0.8064665794372559
+2014-12-31,A search engine called Qwant is trying to tap into growing anger in Europe that Google holds too much control over how people surf the Web.,negative,-0.9072985053062439
+2014-12-31,Qwant Wants to Be Alternative to Google,neutral,0.06963701546192169
+2015-01-01,Farhad Manjoo picks four products from 2014 that are bringing the future closer.,neutral,0.15562281012535095
+2015-01-01,"Standouts in Tech: Drones, Virtual Reality, Instant Translation and A.I.",neutral,0.05254523083567619
+2015-01-02,"The new year promises further attempts at online censorship, as the web increasingly serves as a platform for civil rights efforts.",neutral,0.04808974266052246
+2015-01-02,Daily Report: Web Freedom Is Seen as a Growing Global Issue,positive,0.6168441772460938
+2015-01-05,"As people spend more time using apps, their Internet has taken a step backward, becoming more isolated — more like the web before search engines.",neutral,0.08699513226747513
+2015-01-05,"Apps Everywhere, but No Unifying Link",neutral,-0.01424696296453476
+2015-01-06,"As people spend more time using apps, their Internet has taken a step backward, becoming more isolated — more like the web before search engines.",neutral,0.08699513226747513
+2015-01-06,Daily Report: Getting the Apps to Talk to Each Other,neutral,-0.0017602555453777313
+2015-01-07,The fund is intended to help attract more women and minorities to the technology field and make it more hospitable to them once they get there.,positive,0.770498514175415
+2015-01-07,Daily Report: Intel Pledges $300 Million to Increase Diversity in Tech Industry,positive,0.8761563301086426
+2015-01-08,"Google’s app store is the largest in the world, but still makes far less money than the Apple App Store.",negative,-0.8561479449272156
+2015-01-08,Apple’s Cut From App Sales Reached $4.5 Billion in 2014,negative,-0.9373392462730408
+2015-01-09,"Facebook eventually reverts to the “Top Stories” view of its news feed even if “Most Recent” is chosen, but there are ways around this.",neutral,0.03415723517537117
+2015-01-09,Looking for the ‘Most Recent’ Facebook Posts,neutral,-0.08795586228370667
+2015-01-11,"It may sound like the stuff of science fiction, but translation tools are improving enough to imagine a day when a Spanish speaker and an English speaker can easily chat.",positive,0.787907600402832
+2015-01-11,Language Translation Tech Starts to Deliver on Its Promise,positive,0.8698149919509888
+2015-01-14,"A number of apps can help monitor and manage data consumption on phones, to keep you within your plan’s limits and avert unpleasant surprises on your bill.",neutral,0.02793681062757969
+2015-01-14,Tracking Data Use to Avoid Hefty Phone Fees,neutral,-0.21825528144836426
+2015-01-15,"Google hopes to have fully autonomous vehicles on the road by 2020, taking the driver out of the equation and handing the virtual wheel to software.",neutral,0.20044463872909546
+2015-01-15,"In Detroit, Google Makes a Case for Driverless Cars",neutral,-0.2958972752094269
+2015-01-16,The wearable device will soon be a lot harder to buy as the Glass Explorer program will shut as part of the shift.,negative,-0.7326583862304688
+2015-01-16,Google Glass to Leave ‘X’ Research Lab as Nest’s Tony Fadell Takes Over Project,negative,-0.7560548782348633
+2015-01-17,An unsuccessful e-commerce start-up may sell to one of the largest Internet companies in the world.,neutral,0.02844170667231083
+2015-01-17,"Google Said to Be in Talks to Acquire Softcard, a Mobile Payments Company",neutral,0.08889579772949219
+2015-01-18,Consumers were never quite sure what to make of Google’s Internet-connected glasses.,neutral,-0.21896447241306305
+2015-01-18,A Retreat for Google Glass and a Case Study in the Perils of Making Hardware,neutral,0.04884152114391327
+2015-01-19,"Technology start-ups with websites that sell many types of insurance and promise savings with comparison shopping are putting pressure on insurance agents, who collect commissions.",negative,-0.9182447195053101
+2015-01-19,Insurance via Internet Is Squeezing Agents,neutral,-0.3281398117542267
+2015-01-20,"Google and Fidelity have invested in the rocketry company founded by Elon Musk, in part to further Google’s goal of extending the Internet’s reach through satellites.",positive,0.6692034602165222
+2015-01-20,Google and Fidelity Put $1 Billion Into SpaceX,neutral,0.046541959047317505
+2015-01-21,"Google is investing in Elon Musk’s company, which is planning a broadband network of 4,000 satellites.",neutral,0.06299370527267456
+2015-01-21,"The pioneering Teledesic tried something similar two decades ago but failed, notes Robert Cyran of Reuters Breakingviews.",neutral,0.04442179203033447
+2015-01-21,SpaceX Is a Throwback to the 1990s,neutral,-0.14333873987197876
+2015-01-22,The idea is similar to what Google did for search more than a decade ago.,neutral,0.05280420929193497
+2015-01-22,"Button, a Mobile Start-Up, Looks to Link Apps With Commerce",neutral,-0.0016932226717472076
+2015-01-23,How to keep a passing interest from following you around on Google Now.,neutral,-0.05977463722229004
+2015-01-23,Sharing iTunes With the Whole Family,neutral,0.07675809413194656
+2015-01-25,"A series of investments by some of the tech industry’s biggest companies may sound odd, but they point to larger ambitions in moving giant amounts of data.",neutral,0.07653775066137314
+2015-01-25,Tech Giants Invest in New Dreams of Grandeur,neutral,0.2621924579143524
+2015-01-28,"Windows PCs are often the main targets of malicious software that loops infected computers into remote-controlled networks called botnets, but Macs are not immune.",negative,-0.7536457180976868
+2015-01-28,Avoiding Botnets With a Mac,neutral,-0.08496516942977905
+2015-01-29,"The company’s results were squeezed by a number of temporary factors, including a strong dollar that ate into overseas sales.",negative,-0.9643442034721375
+2015-01-29,"Google Revenue Is Higher, but Profit Misses Expectations",positive,0.029737025499343872
+2015-02-01,A man’s victory in a Paris court could set a precedent that Europe’s “right to be forgotten” ruling should apply far more broadly than originally understood.,neutral,0.248494952917099
+2015-02-01,A Question Over the Reach of Europe’s ‘Right to Be Forgotten’,neutral,-0.2634756863117218
+2015-02-03,"The ride-hailing service is partnering with Carnegie Mellon University, a hotbed for research in robotics and other artificial intelligence.",positive,0.6093783974647522
+2015-02-03,Uber to Open Center for Research on Self-Driving Cars,neutral,0.2324531525373459
+2015-02-04,"Using your phone as a GPS unit is handy, but can run the battery down.",neutral,-0.10325480997562408
+2015-02-04,Always pack a mobile phone charger.,neutral,0.021202247589826584
+2015-02-04,Traveling With an iPhone,neutral,0.008910506963729858
+2015-02-05,The microblogging service is expected to announce a partnership that will make tweets easier to find in Google search results.,positive,0.8107865452766418
+2015-02-05,Twitter and Google Said to Reach Deal on Search,neutral,0.2065594643354416
+2015-02-06,An eight-person committee advising Google on complying with a landmark privacy ruling by Europe’s highest court said it should apply only in the 28-nation European Union.,neutral,0.05228843539953232
+2015-02-06,"Limit ‘Right to Be Forgotten’ to Europe, Panel Tells Google",neutral,0.028164438903331757
+2015-02-09,"Google is a major investor in Uber, but as often happens in Silicon Valley, each company is working on products that could wind up directly competing.",neutral,0.10038089752197266
+2015-02-09,Daily Report: Rivalry Brewing Between Uber and Google,negative,-0.5884301662445068
+2015-02-11,"The company has acquired Sunrise Atelier, maker of the popular Sunrise calendar app for iOS, Android and Mac.",neutral,0.18153314292430878
+2015-02-11,The companies are not disclosing the sale price.,neutral,0.006729818880558014
+2015-02-11,Microsoft Continues Mobile Push With Sunrise Acquisition,positive,0.5499446988105774
+2015-02-12,"The tech giant is trying to evolve beyond a search behemoth, but it faces the same problems as the once-mighty tech companies that came before it.",negative,-0.696830689907074
+2015-02-12,"Daily Report: Google Is a Mighty Force Now, but That May Not Last Forever",neutral,0.22711914777755737
+2015-02-13,A long history of quiet cooperation between Washington and America’s top technology companies has been shattered by tension over the government’s use of technology companies for its intelligence purposes.,negative,-0.9462491273880005
+2015-02-13,Daily Report: Obama Heads to Security Talks Amid Tensions,negative,-0.6768486499786377
+2015-02-15,"Two start-ups are trying to lower cellphone costs by relying on Wi-Fi routers, and now some of the bigger companies are looking to follow their lead.",positive,0.47718605399131775
+2015-02-15,Cellphone Start-Ups Use Wi-Fi First to Handle Calls and Take On Rivals,neutral,0.00439111515879631
+2015-02-16,"Astro Teller, the head of the Google X research group, talks about the company’s efforts to commercialize projects like the self-driving car and why the Glass wearable device will still impact technology.",neutral,0.1573733538389206
+2015-02-16,"Astro Teller, Google’s ‘Captain of Moonshots,’ on Making Profits at Google X",neutral,-0.166423037648201
+2015-02-17,How to use two-step verification to guard against unauthorized access to your email.,neutral,-0.013647744432091713
+2015-02-17,Securing a Hotmail Account,neutral,-0.04457956552505493
+2015-02-22,"In the coming months, dealerships around the country will begin selling vehicles capable of running Android- and Apple-compatible dashboard systems.",positive,0.7107459306716919
+2015-02-22,Google and Apple Fight for the Car Dashboard,negative,-0.5618595480918884
+2015-02-23,"In the coming months, auto dealerships around the country will begin selling vehicles capable of running Android- and Apple-compatible dashboard systems.",positive,0.676087498664856
+2015-02-23,Daily Report: Automakers Close to Widely Adopting Dashboard Tech From Google and Apple,positive,0.5161611437797546
+2015-02-24,"Tips on how to archive Gmail messages to tidy up your inbox, and solutions for when your laptop battery begins to fade.",neutral,0.019673995673656464
+2015-02-24,Filing Away Gmail Messages,neutral,-0.15439316630363464
+2015-02-25,"A team at Google has developed a way a computer can sense inputs, learn rules and successfully play a number of classic video games.",neutral,0.1842106729745865
+2015-02-25,"That’s a step up from the Jeopardy!-winning Watson, which was taught rules.",positive,0.8161570429801941
+2015-02-25,A Google Computer Can Teach Itself Games,neutral,0.010227285325527191
+2015-02-26,"Google, which is facing various regulatory issues in Europe, has consolidated the region’s operations under a single executive.",neutral,0.2598932981491089
+2015-02-26,Google Puts European Operations Under a Single Executive,neutral,0.017537731677293777
+2015-02-27,Google unveiled a radical proposal for a new campus that would replace its current headquarters in Mountain View.,neutral,0.07241661101579666
+2015-02-27,Google Unveils Plan for New Corporate Campus,neutral,0.1444433331489563
+2015-03-02,The company is experimenting with a network that would rely primarily on Wi-Fi technology and use cellular towers as a backup.,neutral,0.09664962440729141
+2015-03-02,Google Confirms Plans for Wireless Service,neutral,0.23440499603748322
+2015-03-03,Apple and Google are using their technology domination to take over car dashboards.,neutral,0.034783702343702316
+2015-03-03,"Someday, they could try to build entire vehicles.",neutral,0.09829709678888321
+2015-03-03,"At Geneva Auto Show, Worry About Silicon Valley",negative,-0.6897411942481995
+2015-03-04,"Apple and Google said they were releasing patches to fix the problem, which results in part from 1990s American technology export restrictions.",negative,-0.7574542164802551
+2015-03-04,Outdated Encryption Keys Leave Phones Vulnerable to Hackers,negative,-0.8872126936912537
+2015-03-05,"Unlike the Nasdaq composite index at its dot-com peak in 2000, today’s index has companies that are more mature and less concentrated in technology.",neutral,0.05091739818453789
+2015-03-05,"Nasdaq Changed in Its Climb to 5,000",positive,0.10934659838676453
+2015-03-06,Third-party apps and recent operating system updates are often the cause; starting the phone in Safe Mode can help narrow down the search for a culprit.,neutral,-0.2533291280269623
+2015-03-06,Troubleshooting Android in Safe Mode,neutral,-0.19674727320671082
+2015-03-07,David C. Duncan Dekker makes his New York Times crossword debut.,neutral,0.03830360993742943
+2015-03-07,Science as a Vocation,neutral,-0.006022199988365173
+2015-03-09,"A flurry of pop-up ads, an unfamiliar search toolbar and a changed home page are just some of the symptoms of malicious software.",negative,-0.6950135231018066
+2015-03-09,Fighting Back Against Malware,neutral,0.010125160217285156
+2015-03-10,"While watching a sunrise from the highest point in Africa, Patrick Pichette decided it was time to “hit the road” with his wife and find his bliss, he wrote in a goodbye note.",neutral,0.09927667677402496
+2015-03-10,Google C.F.O.,neutral,-0.008332069963216782
+2015-03-10,"Is Retiring to Spend More Time With Family (No, Really)",neutral,-0.05218736082315445
+2015-03-11,"The top-of-the-line Google laptop, back in a new version, is meant more as a testing ground for new technology than a mass-market product.",neutral,0.2469967156648636
+2015-03-11,Review: Google Chromebook Pixel,neutral,-0.016640232875943184
+2015-03-12,The chief executive of the Indian mobile advertising start-up denied reports that the company was discussing a possible acquisition by Google.,neutral,-0.33464884757995605
+2015-03-12,"InMobi Plans to Stay Independent, Dismissing Rumors of Talks With Google",neutral,-0.024554118514060974
+2015-03-19,"A new generation of luxury smartwatches, essentially tiny computers meant to be fashion statements, is beginning to take shape.",neutral,0.21629934012889862
+2015-03-19,Google and Intel to Team Up with TAG Heuer on a Luxury Smartwatch,positive,0.6521406173706055
+2015-03-20,Some people would rather do without the word suggestions the software makes as they type a message.,neutral,-0.1891070157289505
+2015-03-20,Turning Off the Android Texting Nanny,neutral,-0.18321850895881653
+2015-03-23,"While Google Fiber is growing fast, it is still minuscule compared with its traditional rivals.",negative,-0.1264117956161499
+2015-03-23,But it shows the potential for delivering specific kinds of ads to local markets.,neutral,0.27049925923347473
+2015-03-23,Google Fiber Plans Experiment With Targeted Ads for Television,neutral,0.05522342771291733
+2015-03-24,"The challenge for both Wall Street and Silicon Valley is to create more women like Ruth Porat, with financial, tech and government know-how.",neutral,0.3843309283256531
+2015-03-24,Google Should Feel Lucky in Its Finance Chief Hire,neutral,0.19432532787322998
+2015-03-25,"Ruth Porat, Morgan Stanley’s chief financial officer, is leaving for Google in the most visible example yet of the flow of talent from Wall Street to Silicon Valley.",neutral,0.09280063211917877
+2015-03-25,Wall St. Stars Join Silicon Valley Gold Rush,neutral,0.31647413969039917
+2015-03-26,Google’s new financial chief will join the search giant in May after a long career at Morgan Stanley.,neutral,0.05522993579506874
+2015-03-26,New Google C.F.O.,neutral,0.054240647703409195
+2015-03-26,"Gets $70 Million Pay Package (and $7,500 to Move)",neutral,0.08278162032365799
+2015-03-27,Google and Johnson & Johnson announced a partnership to develop new robot-assisted surgery technologies but offered few details.,positive,0.755528450012207
+2015-03-27,Google and Johnson & Johnson Team for Robotic Surgery Projects,neutral,0.015034843236207962
+2015-03-30,"The attack on GitHub, a code library that includes methods for viewing Internet sites blocked in China, comes as the country has increased its censorship.",negative,-0.8442947268486023
+2015-03-30,China Appears to Attack GitHub by Diverting Web Traffic,negative,-0.8853367567062378
+2015-03-31,"In an industry where artists seldom have direct control over how their work is consumed, musicians will be the majority owners of the company, Tidal.",neutral,0.01164695993065834
+2015-03-31,Daily Report: Jay Z Enters Streaming Music With Artist-Owned Service,neutral,0.18035750091075897
+2015-04-02,"Joe Sullivan, the ride-hailing company’s new chief security officer, will work in areas like securing driver data, and driver and passenger safety.",neutral,0.06755009293556213
+2015-04-02,Uber Hires a Security Chief From Facebook,neutral,-0.1438620388507843
+2015-04-03,New developments offer the latest and perhaps clearest sign yet that American tech giants face intensifying scrutiny in Europe that could curb their profits in the region and affect how they operate around the world.,negative,-0.620507001876831
+2015-04-03,Daily Report: Regulators in Europe Take Aim at American Tech Giants,negative,-0.7879970669746399
+2015-04-06,"The funding round valued the payroll processor, which was created in 2012, at $500 million.",neutral,0.25784972310066223
+2015-04-06,ZenPayroll Start-Up Raises $60 Million From Group Led by Google Investment Arm,positive,0.7671458721160889
+2015-04-07,Hewlett-Packard has decided it cannot compete with the likes of Amazon and Google for one of the hottest new businesses.,negative,-0.8892610669136047
+2015-04-07,"Instead, on the eve of its split into two companies, HP is learning about collaborative technologies, and not just for its customers.",positive,0.5226747393608093
+2015-04-07,HP Comes to Terms With the Cloud,positive,0.611683189868927
+2015-04-09,"Amazon Web Services, the world’s biggest cloud company, is now selling cheap data analysis and prediction.",neutral,0.16893091797828674
+2015-04-09,"It’s likely to get baked into all kinds of applications, bringing pain to the old guard.",negative,-0.846900463104248
+2015-04-09,Amazon to Sell Predictions in Cloud Race Against Google and Microsoft,neutral,0.031555622816085815
+2015-04-12,"Bringing the efficiency of the web to common household tasks has opened a new door to the home services industry, which is estimated to be worth more than $800 billion.",positive,0.8329115509986877
+2015-04-12,"Amazon, Google and More Are Drawn to Home Services Market",neutral,0.07870645821094513
+2015-04-13,"Bringing the efficiency of the web to common household tasks has opened a new door to the home services industry, which is estimated to be worth more than $800 billion.",positive,0.8329115509986877
+2015-04-13,"Daily Report: Amazon, Google and More Are Drawn to Home Services Market",neutral,0.20363488793373108
+2015-04-14,"Europe’s antitrust chief is expected to accuse the search giant of using its dominant position to favor its own services, a case that could force a change in its practices.",negative,-0.8932416439056396
+2015-04-14,Google Expected to Face Antitrust Charges in Europe,negative,-0.7817831039428711
+2015-04-15,"The European Union is accusing Google of abusing its dominance, and Microsoft has links with the three initial complainants that sparked the antitrust investigation.",negative,-0.8627081513404846
+2015-04-15,"Microsoft, Once an Antitrust Target, Is Now Google’s Regulatory Scold",negative,-0.71611088514328
+2015-04-16,"Under the new agreement, Yahoo will be allowed to deliver its own search results and ads for up to half the searches made by visitors to its sites and apps.",neutral,0.3201565742492676
+2015-04-16,"With Eye on Mobile, Yahoo Revises Its Search Partnership With Microsoft",positive,0.7640999555587769
+2015-04-17,The site lets users deactivate their accounts and then return with all content intact.,neutral,-0.013125866651535034
+2015-04-17,"Permanently deleting an account wipes it, and all the content, out.",negative,-0.8057654500007629
+2015-04-17,"Taking a Facebook Break, Temporarily or for Good",neutral,-0.1658124029636383
+2015-04-18,"Why beginning solvers should at least give Saturday puzzles a try, and Damon Gulczynski explains his use of Google as a construction tool.",neutral,0.03511754423379898
+2015-04-18,It’s Your Fiction That Interests Me,neutral,-0.013644933700561523
+2015-04-21,"While Google remains the dominant search engine, its grasp on the mobile market is slipping in the face of increased competition from “native” applications designed for pocket-size devices.",negative,-0.9619743824005127
+2015-04-21,Google Adds ‘Mobile Friendliness’ to Its Search Criteria,neutral,0.09901292622089386
+2015-04-22,"The service aims to blend several communication tools — cellular calls, online calls like Skype — into a single phone number and service.",neutral,0.05689644068479538
+2015-04-22,Google Introduces Wireless Service Called Project Fi,neutral,0.07736814022064209
+2015-04-23,"The search giant’s first-quarter net revenue was $13.9 billion, from $12.2 billion, but analysts had expected $14.04 billion.",negative,-0.3927087187767029
+2015-04-23,"At $17.3 Billion, Google’s Quarterly Revenue Rose 12 Percent",positive,0.9345353841781616
+2015-04-24,"The Google executive chairman makes a big bet that is far afield from the frivolity of, say, a sports team investment like Steve Ballmer’s.",neutral,0.041570551693439484
+2015-04-24,Google’s Eric Schmidt Plays the Adult in D.E.,neutral,-0.08482258766889572
+2015-04-24,Shaw Investment,neutral,0.039988771080970764
+2015-04-25,Dan Fredinburg helped Google’s Street View project document many of the world’s most majestic peaks before his death in Nepal in an earthquake-related avalanche.,neutral,0.07989251613616943
+2015-04-25,‘Google Adventurer’ Dies on Mt.,negative,-0.5224882364273071
+2015-04-25,Everest,neutral,0.019529767334461212
+2015-04-26,"Heavyweights like AOL, Google and Yahoo will vie with upstarts like Refinery29 and Vice in an increasingly crowded two-week frenzy to secure upfront advertising commitments.",positive,0.4511333107948303
+2015-04-26,Packed Field Stokes Competition for Digital Ad Dollars,neutral,0.06323235481977463
+2015-04-27,Google is scanning its wealth of user-generated data for signs of fashion trends as it works to enhance its sales of online advertisements.,positive,0.8139019012451172
+2015-04-27,"Daily Report: The Latest Fashion, Trending on Google",neutral,0.0013736560940742493
+2015-04-28,Google’s efforts come less than two weeks after the European Commission filed antitrust charges against the company and before new potential problems for the company in Europe.,neutral,-0.3507598638534546
+2015-04-28,"Google Reaches Out to European Publishers, With $165 Million in Hand",positive,0.5464687347412109
+2015-04-29,"The company multiplied its spending by three from 2010 to 2013, and again in 2014, spending at least $4.2 million and as much as $4.8 million last year, according to its latest disclosure report.",positive,0.716826856136322
+2015-04-29,Google Tripled Spending on Lobbying in Brussels Last Year,neutral,0.2906685471534729
+2015-05-03,"Venture capitalists, intimidated by Google search for a decade, have begun investing hundreds of millions in new search efforts for mobile phones.",negative,-0.6836774945259094
+2015-05-03,"Start-Ups Try to Challenge Google, at Least on Mobile Search",neutral,-0.32843974232673645
+2015-05-05,Bill Maris of Google Ventures explains why the firm was only willing to invest in the start-up Secret up to a point.,neutral,0.016857583075761795
+2015-05-05,The Lessons Google Ventures Learned From Secret,neutral,0.17421837151050568
+2015-05-06,"Google’s plans for a space-age new headquarters received a major blow from the Mountain View City Council, which awarded most of the city’s future office space to another Internet company, LinkedIn.",negative,-0.8277559876441956
+2015-05-06,Google Loses to LinkedIn in Silicon Valley Headquarters Pitch,negative,-0.9339480400085449
+2015-05-07,The battle to buy Here highlights the growing importance of digital mapping services as companies connect their products to the Internet.,neutral,0.35143834352493286
+2015-05-07,"Uber Joins the Bidding for Here, Nokia’s Digital Mapping Service",neutral,0.3081132769584656
+2015-05-08,Get the most out of speech-recognition mobile assistants.,neutral,0.08678518980741501
+2015-05-08,"Also, how to use speed-test websites to measure broadband speeds.",neutral,0.03372306749224663
+2015-05-08,"How to Use Siri, Google Now and Cortana Voice Commands",neutral,-0.0031234119087457657
+2015-05-11,"When the cable company just won’t do, here are tips for finding another way to get online.",neutral,0.03630485385656357
+2015-05-11,Finding a New Broadband Connection,neutral,0.10387532413005829
+2015-05-12,"If a new owner decides to restrict access to Here’s vast trove of mapping data, some of the largest tech companies could find themselves relying on Google’s mapping services once more.",negative,-0.6728119254112244
+2015-05-12,Deal Talks for Here Mapping Service Expose Reliance on Location Data,neutral,-0.3900543451309204
+2015-05-13,"Uber said Rachel Whetstone, Google’s longtime head of communications, would run its day-to-day communications operations.",neutral,0.044325605034828186
+2015-05-13,"David Plouffe, who had that role, will move to a chief advisory position and take a director’s seat on Uber’s board.",neutral,0.037434112280607224
+2015-05-13,Uber Lures Top Google Executive and Shifts David Plouffe’s Duties,negative,-0.41880255937576294
+2015-05-15,"Tests of the cars, which look like golf carts with doors, are expected to place the search giant closer to its goal of hands-free, foot-free driving.",positive,0.5199154019355774
+2015-05-15,Google to Test Bubble-Shaped Self-Driving Cars in Silicon Valley,neutral,0.027423862367868423
+2015-05-19,"A group of prominent technology companies, including Google and Apple, have sent a letter to President Obama asking him to reject any proposals that would weaken their products’ security.",negative,-0.83016037940979
+2015-05-19,Tech Giants Urge Obama to Reject Policies That Weaken Encryption,negative,-0.6526427865028381
+2015-05-20,"The industry once thought big, but today’s wave of start-ups is characterized by a rise in services aimed at the wealthy and the young.",positive,0.7646105289459229
+2015-05-20,"A Tech Boom Aimed at the Few, Instead of the World",neutral,-0.04713603854179382
+2015-05-24,"Pressure is mounting for American tech companies, including Google, to stop using complex tax structures and pay more on their European operations.",positive,0.025867313146591187
+2015-05-24,Amazon to Stop Funneling European Sales Through Low-Tax Haven,neutral,-0.05027901381254196
+2015-05-27,"Google is set to unveil a payments initiative for merchants and a refashioned consumer app, while its rival reportedly plans a rewards program for Apple Pay.",neutral,0.3246763348579407
+2015-05-27,Google and Apple Adjust Strategies on Mobile Payments,neutral,0.058482713997364044
+2015-05-28,Here is how Google’s new mobile payments products — Android Pay and Google Wallet — are set to work.,neutral,0.021346796303987503
+2015-05-28,A Primer on Android Pay and Google Wallet,neutral,0.09004639089107513
+2015-05-29,A little-known research group inside the search giant is working on ways to allow textiles to respond to touch and send information and is teaming up with Levi Strauss to explore the technology.,neutral,0.060288205742836
+2015-05-29,Google Wants to Turn Your Clothes Into a Computer,neutral,-0.05063799023628235
+2015-06-03,"There are plenty of great streaming music services that you can already try, often for free, and while the big players are jockeying to dominate the market, now is a great time to experiment.",neutral,0.47542470693588257
+2015-06-03,App Smart | Stream Music For Free,neutral,-0.008293446153402328
+2015-06-08,Square announced a new credit card reader that accepts mobile wallets like Apple Pay.,positive,0.5984042882919312
+2015-06-08,Square Unveils Mobile Wallet-Friendly Credit Card Reader,neutral,0.4290151000022888
+2015-06-09,A growing number of European cloud computing companies are trying to take on American competitors like Google and Microsoft by playing up their privacy credentials,negative,-0.4640657305717468
+2015-06-09,European Cloud Companies Play Up Privacy Credentials,neutral,-0.01816657930612564
+2015-06-10,"Google’s Sidewalk Labs will pursue technologies to cut pollution, curb energy use, streamline transportation and reduce the cost of city living.",positive,0.49679574370384216
+2015-06-10,"Sidewalk Labs, a Start-Up Created by Google, Has Bold Aims to Improve City Living",positive,0.7058714032173157
+2015-06-11,"Google’s new venture, Sidewalk Labs, will pursue technologies to cut pollution, curb energy use, streamline transportation and reduce the cost of urban living.",positive,0.5768336653709412
+2015-06-11,Daily Report: Google Sets Its Sights on Improving City Life,positive,0.8795693516731262
+2015-06-12,Amazon beat Google to the acquisition of a popular gaming video service.,positive,0.7956171035766602
+2015-06-12,Now Google is responding with a new YouTube Gaming application.,neutral,0.3683556616306305
+2015-06-12,YouTube Takes On Amazon With New Gaming App,neutral,0.18693934381008148
+2015-06-16,"Google is becoming more public about its data centers, talking about its network and how much fiber it owns.",neutral,0.0725274384021759
+2015-06-16,"The idea is to show off assets that Amazon, Microsoft and IBM cannot match in the competition for cloud customers.",neutral,0.08091575652360916
+2015-06-16,Google Is Its Own Secret Weapon in the Cloud,neutral,-0.35382992029190063
+2015-06-17,The decision raised concern among free-speech advocates who feared that newspapers’ ability to publish information would be hampered if they were held responsible for all comments on their sites.,negative,-0.9186455607414246
+2015-06-17,"Estonian News Site Can Be Held Liable for Defamatory Comments, Court Rules",neutral,-0.3923805058002472
+2015-06-18,"For all of Europe’s advantages, its technology sector lags that of the United States.",negative,-0.7629982829093933
+2015-06-18,A dread of failure may be one reason.,negative,-0.46783506870269775
+2015-06-18,A Fearless Culture Fuels U.S. Tech Giants,neutral,0.22357331216335297
+2015-06-19,Regulators say that Google uses its 90 percent market share in Europe to favor its own services over those of rivals like Microsoft.,neutral,0.03878776729106903
+2015-06-19,European Regulators Lay Out Demands and Fines in Google Antitrust Case,negative,-0.46990513801574707
+2015-06-23,"So-called software containers got backing from companies including Cisco Systems and Google, while another group of companies detailed plans to automate certain aspects of cloud computing.",neutral,0.4405252933502197
+2015-06-23,Tech Companies Line Up Behind ‘Containers’ and the Cloud,neutral,-0.01680152863264084
+2015-06-24,"Specialized apps provide help with many seasonal pursuits, including planning vacation activities, packing for a trip and even grilling the perfect steak.",neutral,0.022741880267858505
+2015-06-24,"Video Feature: Apps for Summer Travel, Concerts and Grilling",neutral,0.0029441509395837784
+2015-06-28,"Tech giants like eBay, Facebook and Google acknowledge that they have work to do to increase diversity, but the repetition of that sentiment shows how little has changed.",positive,0.7039467692375183
+2015-06-28,"Behind Silicon Valley’s Self-Critical Tone on Diversity, a Lack of Progress",neutral,-0.40547409653663635
+2015-06-29,A years-long copyright fight between Google and Oracle will continue.,negative,-0.915738582611084
+2015-06-29,"At issue are the bits of code that help pieces of software work together, called Application Programming Interfaces.",neutral,-0.008706586435437202
+2015-06-29,Supreme Court Declines to Hear Appeal in Google-Oracle Copyright Fight,negative,-0.6553095579147339
+2015-07-01,Google apologized after a user posted a photo on Twitter showing that the Google Photos app had labeled black people as “gorillas.”,negative,-0.876036524772644
+2015-07-01,Google Photos Mistakenly Labels Black People ‘Gorillas’,negative,-0.646874725818634
+2015-07-02,Yahoo is turning to the world’s dominant provider of web searches to power some of its own search results.,positive,0.5753457546234131
+2015-07-02,"The tests could lead to a deeper relationship between the two companies, whose previous efforts to cooperate on search were blocked by antitrust regulators.",neutral,0.3196105360984802
+2015-07-02,"In Tests, Yahoo Uses Google to Power Search Results and Ads",neutral,-0.03086841106414795
+2015-07-05,"Companies like Google, Facebook, Twitter and Pinterest are trying to bridge the gap between smartphone browsing and desktop purchases.",positive,0.6869859099388123
+2015-07-05,"New, Simple ‘Buy’ Buttons Aim to Entice Mobile Shoppers",neutral,0.08949824422597885
+2015-07-06,"Raising the stakes in its competition with Uber, the search giant said it would test the service in Tel Aviv through Waze, an Israeli social-mapping start-up it acquired in 2013.",positive,0.6993467211723328
+2015-07-06,Google to Test Carpooling Service in Israel,positive,0.5960661172866821
+2015-07-08,"Adobe Revel is one alternative to Adobe Photoshop Starter Album for Windows, which was discontinued in 2009.",neutral,0.03765957057476044
+2015-07-08,Free and Cheap Photoshop Alternatives for Windows,neutral,0.05274262651801109
+2015-07-09,Apple’s proposal that automakers write apps for technology company software raises concerns about security and safety.,negative,-0.9051032066345215
+2015-07-09,"With CarPlay, Apple Looks to Upend Tradition",positive,0.6016713380813599
+2015-07-10,"Google’s search chief, Amit Singhal, discusses how Google search is moving from the web to apps.",neutral,0.11022698879241943
+2015-07-10,Google Search Chief Amit Singhal Talks Searching Apps,neutral,0.010886795818805695
+2015-07-11,Stephen Joseph first sued in San Francisco over graffiti.,negative,-0.8510326147079468
+2015-07-11,"He lost, but the city cleaned up the graffiti.",neutral,0.030045360326766968
+2015-07-11,His latest victory is trans fats.,neutral,0.140760600566864
+2015-07-11,"He has learned that you can lose in court, but carry the day.",neutral,0.08975917845964432
+2015-07-11,"When This Man Is Irked, He Might Just File a Suit",neutral,-0.37963584065437317
+2015-07-12,Google’s senior vice president of products speaks at length about how Google products and apps try to balance giving you information with letting you live your life.,neutral,0.04241646081209183
+2015-07-12,Sundar Pichai of Google Talks About Phone Intrusion,neutral,0.062315307557582855
+2015-07-13,"Susan Wojcicki, YouTube’s chief executive, discussed opportunities in mobile, acquisitions and juggling her five kids and her career at Fortune’s Brainstorm Tech conference on Monday.",neutral,0.1509522944688797
+2015-07-13,"YouTube Chief Talks Children, Mobile and Competition With Facebook",neutral,-0.01440189778804779
+2015-07-14,The money is meant to help the daily fantasy sports start-up gain customers and expand its global presence as the popularity of online sports betting draws big new entrants like Yahoo.,positive,0.8794205784797668
+2015-07-14,FanDuel to Announce It Has Raised $275 Million More,positive,0.6141425371170044
+2015-07-15,"They have bigger screens and offer uninterrupted navigation, and some have forward-facing and backup cameras and other safety features.",neutral,0.040522556751966476
+2015-07-15,What Stand-Alone GPS Devices Do That Smartphones Can’t,neutral,0.011992577463388443
+2015-07-16,Engineering a self-driving car is difficult enough.,negative,-0.4630487859249115
+2015-07-16,Now the public has to be convinced that the technology works.,neutral,0.3860677480697632
+2015-07-16,"Trying to Win the Public’s Trust With Autonomous Cars, at 120 M.P.H.",neutral,0.41081565618515015
+2015-07-19,Facebook and other companies have struggled with how wearers of the device could have a good experience with their apps tailored to a small screen.,negative,-0.9149856567382812
+2015-07-19,Apple Waits as App Developers Study Who’s Buying Its Watch,neutral,-0.05514617636799812
+2015-07-21,A combination of falling prices and greater pressure for companies to show action to fight climate change has led corporations to buy renewable energy.,neutral,0.27590811252593994
+2015-07-21,HP to Power Texas Data Centers With Wind Energy,neutral,0.0547909252345562
+2015-07-22,The alphabet flashcards are the first new work by Dr. Seuss to be published since 1990.,neutral,0.05835958197712898
+2015-07-22,New Dr. Seuss Drawings Emerge Before Book’s Publication,neutral,0.011469583958387375
+2015-07-23,"With the arrival of Ruth Porat as Google’s chief financial officer, the corporate culture shifts to mature and fiscally responsible from impulsive and undisciplined.",positive,0.7726049423217773
+2015-07-23,Ruth Porat May Be Just What Investors Think Google Needs,neutral,0.05175518989562988
+2015-07-26,Facebook and other leading American technology companies see Africa as a place to experiment with new ways of expanding Internet access.,positive,0.6134110689163208
+2015-07-26,Facebook and Other Tech Giants Expand Internet Access in Africa,positive,0.8415035009384155
+2015-07-27,The company is most likely responding to the demands of mobile users who expect apps to deliver services on their own.,positive,0.5810580849647522
+2015-07-27,Google Loosens Ties to Google Plus,positive,0.07632821798324585
+2015-07-29,"Last year, Yahoo all but gave up on updating its Messenger mobile apps.",neutral,-0.3969251215457916
+2015-07-29,"Now, the company is introducing a new, decidedly quirky messaging app with a surprising combination of features.",positive,0.6087123155593872
+2015-07-29,Yahoo Offers New Mobile Chat Service Featuring Silent Video,neutral,0.13864974677562714
+2015-07-30,The search giant said it would not comply with French demands to apply a European data protection ruling to its global domains.,negative,-0.9387510418891907
+2015-07-30,Google Fights Effort to Apply ‘Right to Be Forgotten’ Ruling Worldwide,neutral,0.0471436008810997
+2015-08-05,"The company is making small changes to sort email search results better, changes that it hopes to extend to its other services.",positive,0.5883782505989075
+2015-08-05,Yahoo Tweaks Email to Make Search More Personal,neutral,0.11680781841278076
+2015-08-06,"The auto industry will spend billions developing the technology, and many states are being careful not to pass laws that would scare those dollars away.",neutral,-0.01663343608379364
+2015-08-06,"Among the States, Self-Driving Cars Have Ignited a Gold Rush",positive,0.5408228635787964
+2015-08-07,"Paid paternity leave offers broad benefits, but it won’t become common until prominent men use it and don’t pay a penalty for doing so.",neutral,0.06533877551555634
+2015-08-07,Bringing Paternity Leave Into the Mainstream,neutral,0.15133386850357056
+2015-08-10,"Under the new name, Alphabet, the company is signaling that it has essentially become a collection of disparate businesses.",neutral,0.07939765602350235
+2015-08-10,Google to Reorganize as Alphabet to Keep Its Lead as an Innovator,positive,0.7760604619979858
+2015-08-11,"The restructuring could fund world-changing research, but only so long as the underlying business remains a cash cow.",neutral,0.1946958601474762
+2015-08-11,"Is the New Google More Like Berkshire Hathaway, General Electric or AT&T?",neutral,0.022721290588378906
+2015-08-12,"When Google splits into smaller parts under an umbrella company called Alphabet, one section of the company will be extremely profitable.",neutral,0.0511949397623539
+2015-08-12,The rest?,neutral,-0.11482229083776474
+2015-08-12,That has not been explained.,neutral,-0.024269184097647667
+2015-08-12,Daily Report: What Google’s Reinvention Means Is Far From Clear,neutral,0.05215895548462868
+2015-08-13,"Google’s name is a protected trademark, and the company has fought to keep it from becoming generic, as brands like thermos, cellophane and others have.",neutral,-0.2528005540370941
+2015-08-13,"Even in the New Alphabet, Google Keeps Its Capital G",neutral,0.0860559493303299
+2015-08-14,"Google unveiled a new version of its Chrome operating system, along with Chromebook computing devices made by Dell.",positive,0.5613536834716797
+2015-08-14,It’s been busy week for the company that’s reinventing itself as Alphabet while dealing with antitrust concerns in Europe.,positive,0.4861060678958893
+2015-08-14,Daily Report: Google Stays in the News with Chromebooks and Antitrust Issues,neutral,-0.06008932366967201
+2015-08-15,"Google reorganized under a new name, Alphabet, and Tinder blew up on Twitter in response to an article in Vanity Fair.",negative,-0.9129992723464966
+2015-08-15,Farhad and Mike’s Week in Tech: Google and Tinder Shake Up the Internet,neutral,-0.014131031930446625
+2015-08-17,"Perhaps nowhere is the inequality gap created by the latest technology boom as evident as in San Francisco’s Tenderloin neighborhood, a longtime low-income area that is now increasingly populated by tech start-ups.",neutral,0.07323741167783737
+2015-08-17,Daily Report: Where to See the Inequality Gap Wrought by the Tech Boom,neutral,-0.050852224230766296
+2015-08-18,"Unicorns, start-ups like Uber and Airbnb valued at $1 billion or more, are hiring people from the likes of Google, especially in fields like mapping.",neutral,0.20177105069160461
+2015-08-18,Unicorns Hunt for Talent Among Silicon Valley’s Giants,neutral,0.05287572741508484
+2015-08-19,How to protect from a vulnerability by which Android devices could be compromised by malicious code.,neutral,0.003114575520157814
+2015-08-19,"Also, figuring out the iOS step counter.",neutral,0.039645493030548096
+2015-08-19,Conquering Android’s Stagefright Bug,neutral,0.07036226242780685
+2015-08-26,Facebook is wading into the increasingly crowded field of digital personal assistants with a new offering called M.,neutral,0.04966527968645096
+2015-08-26,Facebook Tests a Digital Assistant for Its Messaging App,neutral,0.03718215599656105
+2015-08-27,The American technology giant would face fines worth billions of dollars if it is found to have broken the European Union’s competition rules.,negative,-0.9009460806846619
+2015-08-27,Google Rebuts Europe on Antitrust Charges,negative,-0.918877363204956
+2015-08-28,An alliance of newspaper and magazine publishers has taken an increasingly active role in fighting the growing dominance of the tech giant.,neutral,0.19995376467704773
+2015-08-28,European Publishers Play Lobbying Role Against Google,neutral,-0.381247341632843
+2015-09-01,"While Google’s biggest regulatory challenge remains in Europe, authorities around the world are investigating its practices, with a report from India’s competition commission its latest problem.",negative,-0.9095330238342285
+2015-09-01,"Google Antitrust Inquiries Spread Over Globe, With India the Latest Problem",neutral,0.014200083911418915
+2015-09-02,"In November, Google will start penalizing the search rankings of sites that show “please install our app” ads, a move that rivals say has less to do with providing users with a good experience and more to do with protecting Google’s business.",negative,-0.6722890734672546
+2015-09-02,Competitors Accuse Google of Using Search to Diminish Apps,negative,-0.8752037286758423
+2015-09-04,The lack of people of color in the tech industry is by now well documented.,neutral,-0.05591680109500885
+2015-09-04,What is not as well known is what some people are trying to do about it.,neutral,-0.089780293405056
+2015-09-04,Daily Report: A Push for Diversity in the Tech Industry,positive,0.7419402003288269
+2015-09-05,The online marketplace will now allow its Prime members to download some movies and TV shows to iOS and Android devices to watch programming offline.,neutral,0.15247035026550293
+2015-09-05,Mike and Quentin’s Week in Tech: Amazon’s Offline Game Changer,neutral,0.05654296278953552
+2015-09-07,"As brands try to align themselves with football games beyond television, Google, Facebook, Twitter and Snapchat shop around new marketing products.",neutral,0.14217256009578705
+2015-09-07,"Marketing to Sports Fans Online, With Help From Google and Social Networks",neutral,0.010167526081204414
+2015-09-09,"For its Nexus devices, Google will provide major system updates for at least two years after the release date, and security patches for three years.",neutral,0.03045588731765747
+2015-09-09,Getting Updates on Android and Nexus,neutral,0.037813760340213776
+2015-09-10,"Browser cookies store the information used to log in to websites like Gmail, and a user can adjust a browser’s settings to manage them",neutral,-0.016563786193728447
+2015-09-10,Staying Signed Into Gmail,neutral,0.033706530928611755
+2015-09-12,"Another mobile payment app enters the fray, a gender-discrimination appeal is dropped and Apple unveils new devices.",negative,-0.8965966701507568
+2015-09-12,Farhad and Mike’s Week in Tech: Android Pay and Apple Products,neutral,-0.022646594792604446
+2015-09-14,"Officials said that the company had abused its dominant market position with Android, its mobile operating system, by favoring the company’s own own services over those of its rivals.",negative,-0.9297303557395935
+2015-09-14,Russian Authorities Rule Google Broke Antitrust Regulations,negative,-0.857955813407898
+2015-09-15,Google denies wrongdoing in all the cases.,neutral,-0.02972657047212124
+2015-09-15,"Even so, they are generating a regular drip of unflattering — and certainly for Google, unwanted — news.",negative,-0.8003047108650208
+2015-09-15,Daily Report: Google’s Antitrust Woes Reach Another Country,negative,-0.9156200885772705
+2015-09-16,"The online teaching start-up’s “nanodegree” program lets students take their time, offers personalized grading and rewards those who finish.",neutral,0.07110478729009628
+2015-09-16,"Udacity Says It Can Teach Tech Skills to Millions, and Fast",neutral,0.30157315731048584
+2015-09-17,"The risk is less that cars from technology giants would destroy Mercedes-Benz or BMW, but rather that carmakers would become mere providers of hardware.",neutral,-0.363678514957428
+2015-09-17,Apple and Google Create a Buzz at Frankfurt Motor Show,neutral,0.34154778718948364
+2015-09-18,"The company created its Amazon Appstore app for Android shoppers, but it has now released the Amazon Underground app to provide access to its digital goods.",neutral,0.022624313831329346
+2015-09-18,Shopping for Amazon Apps With Android,neutral,0.015320677310228348
+2015-09-21,"Several European privacy regulators, particularly in France, have urged that the so-called right to be forgotten be applied to all of Google’s search domains.",neutral,0.12195559591054916
+2015-09-21,France Rejects Google’s Efforts to Limit Application of Privacy Ruling,negative,-0.7914005517959595
+2015-09-22,"Office 2016 has numerous changes, with the most prominent ones designed to improve how the software is used by groups of people to collaborate.",neutral,0.3369486331939697
+2015-09-22,"Microsoft Releases Office 2016, With Features Focused on Teamwork",neutral,0.0374477319419384
+2015-09-23,The nonbinding but influential opinion could restrict how American companies like Facebook and Google move European data around the world.,neutral,-0.20887359976768494
+2015-09-23,European Court Adviser Calls Trans-Atlantic Data-Sharing Pact Insufficient,neutral,0.19358417391777039
+2015-09-25,Some mobile application makers have complained to the Justice Department about a Google requirement that they take a bundle of its services if they want any one of them.,negative,-0.9306358695030212
+2015-09-25,F.T.C.,neutral,0.034378547221422195
+2015-09-25,Is Said to Investigate Claims That Google Used Android to Promote Its Products,negative,-0.6024810075759888
+2015-09-27,The premier met with technology executives over the weekend to seek ideas and assistance in bringing his nation fully into the digital world.,positive,0.7888860702514648
+2015-09-27,"Narendra Modi, Indian Premier, Courts Silicon Valley to Try to Ease Nation’s Poverty",positive,0.3964080810546875
+2015-09-28,Arrange the digits 0-9 to get the greatest possible score.,neutral,0.03696156293153763
+2015-09-28,The Touching Puzzle,neutral,0.0009575337171554565
+2015-09-29,"The new service would place product ads on any video on the site, like product reviews uploaded by amateur reviewers, provided the clip’s owner opts in.",neutral,-0.011237554252147675
+2015-09-29,YouTube to Expand Shopping Links to More Videos,positive,0.6736571192741394
+2015-09-30,"Peace has broken out between Google and Microsoft, which agreed to dismiss all of their pending patent lawsuits against each other.",positive,0.16113942861557007
+2015-09-30,Microsoft and Google Call an End to Patent Battles,neutral,-0.04584985226392746
+2015-10-01,"Discussions about ad blocking are in full swing this week amid Advertising Week, an industry gathering for Madison Avenue and digital ad players.",neutral,0.08197834342718124
+2015-10-01,Daily Report: The Choice of Blocking Ads on Mobile Devices,neutral,-0.03039344772696495
+2015-10-02,Amazon opens the latest battle against Google and Apple by banning the sale of its rivals’ streaming media players.,negative,-0.7046209573745728
+2015-10-02,Daily Report: Amazon and the Clash of the Titans,neutral,-0.04039440304040909
+2015-10-05,"Apple and Google, along with other technology companies, made it into the top 10 of Interbrand’s annual report.",positive,0.6609008312225342
+2015-10-05,Tech Giants Top Best Global Brands List,neutral,0.26703423261642456
+2015-10-06,The decision by the European Court of Justice throws into doubt how tech giants like Facebook and Google can use digital data from millions of users.,negative,-0.7528032660484314
+2015-10-06,Data Transfer Pact Between U.S. and Europe Is Ruled Invalid,neutral,0.14983020722866058
+2015-10-07,Amazon Web Services is starting to offer capabilities that compete head-to-head with longtime business computing giants like Oracle and IBM.,positive,0.7949060797691345
+2015-10-07,Amazon Messes With Billions in Corporate Computing Dollars,negative,-0.7256337404251099
+2015-10-08,"The two sides say they are close on data sharing, but there is no timetable and their objectives are profoundly different.",neutral,0.018561385571956635
+2015-10-08,In Europe-U.S.,neutral,-0.12685199081897736
+2015-10-08,"Clash on Privacy, a Longstanding Schism",negative,-0.7954201102256775
+2015-10-09,"It began with an Austrian law student in California who “had to write about something,” but has led to a decision that is roiling United States tech companies.",negative,-0.6810432076454163
+2015-10-09,Behind the European Privacy Ruling That’s Confounding Silicon Valley,negative,-0.5506513714790344
+2015-10-13,The country will cut its 12.5 percent corporate tax rate in half for revenues pegged to patents and other intellectual property.,negative,-0.770842432975769
+2015-10-13,"Ireland, Accused of Giving Tax Breaks to Multinationals, Plans an Even Lower Rate",negative,-0.8157435655593872
+2015-10-14,"The 2016 presidential race is picking up steam, so take some control of the information flooding your smartphone while also brushing up on the Constitution, digitally.",neutral,0.1777377426624298
+2015-10-14,Apps to Organize and Quell the Political Onslaught,neutral,0.04875583201646805
+2015-10-15,"Niantic, a maker of games people play by trekking around their neighborhoods and cities, is bringing in two new investors, the Pokémon Company and Nintendo, after completing its spinoff from Google.",positive,0.694894552230835
+2015-10-15,"Game Maker Niantic Adds Nintendo, Pokémon as Investors After Google Spinout",neutral,0.08332100510597229
+2015-10-16,The Court of Appeals for the Second Circuit affirms a lower court decision rejecting claims by the Authors Guild that a book scanning project violates copyright.,positive,0.0907846987247467
+2015-10-16,Google’s Digital Library Wins Court of Appeals Ruling,neutral,0.32321763038635254
+2015-10-18,"As Apple focuses on apps and Google pushes the mobile web, businesses must grapple with a fragmenting online world.",negative,-0.8899799585342407
+2015-10-18,"Publishers Straddle the Apple-Google, App-Web Divide",neutral,-0.010832555592060089
+2015-10-19,The former German telecom monopoly’s complaint to European officials is expected to focus on whether Google uses its Android mobile operating system to unfairly promote its own products over those of rivals.,negative,-0.9269165992736816
+2015-10-19,Deutsche Telekom Said to Weigh New Antitrust Complaint Against Google,negative,-0.7342821955680847
+2015-10-20,"Marissa Mayer, the chief, told investors that Yahoo would soon unveil a plan to streamline the company.",neutral,0.31147781014442444
+2015-10-20,"After Disappointing Results, Yahoo Promises More Focused Strategy",positive,0.6688774824142456
+2015-10-21,The service will cost $10 a month to watch the videos without ads.,neutral,-0.010260023176670074
+2015-10-21,"The company also announced YouTube Originals, a slate of original programming for the paid service.",neutral,0.15094758570194244
+2015-10-21,"YouTube Introduces YouTube Red, a Subscription Service",neutral,-0.0003252662718296051
+2015-10-22,"Google, now called Alphabet, announced that its board had authorized the company to spend $5.1 billion buying back its shares starting this year.",neutral,0.4364631175994873
+2015-10-22,Google Announces Stock Buyback as Earnings Rise,negative,-0.1267733871936798
+2015-10-23,"After Amazon, Microsoft and Google reported earnings on Thursday, their market capitalizations soared, partly on the growth of cloud computing.",positive,0.9220078587532043
+2015-10-23,"The Cloud Is Here, Separating Disrupters From Disrupted",neutral,-0.1405329406261444
+2015-10-24,"Just three months after a new funding round valued the company at more than $50 billion, Uber is said to be going back to the well.",neutral,0.4339721202850342
+2015-10-24,Uber Said to Plan Another $1 Billion in Fund-Raising,neutral,0.07706619799137115
+2015-10-26,Facebook’s Internet.org effort has been criticized as an attempt to promote the company’s own interests.,negative,-0.8746938705444336
+2015-10-26,"This week, Mark Zuckerberg, the social media giant’s chief executive, is expected to discuss the project during a visit to New Delhi.",neutral,0.08375732600688934
+2015-10-26,Daily Report: Facebook Goes to India … Again,neutral,0.19679971039295197
+2015-10-28,"Relcy, a new search engine backed by Khosla Ventures and Sequoia Capital, is one of several upstarts trying to challenge Google on mobile phones.",negative,-0.4193650484085083
+2015-10-28,New Mobile Search Start-up Focuses on Apps,neutral,0.011634097434580326
+2015-10-29,The company now known as Alphabet has for years supported two operating systems.,neutral,0.05843231454491615
+2015-10-29,"But Chrome, the lesser-known of the two, will soon lose one of its few exclusive domains.",negative,-0.9036412239074707
+2015-10-29,Alphabet Edges Toward Settling the Android or Chrome Question,neutral,-0.004505529999732971
+2015-10-31,"Farhad Manjoo is off this week, so Mike Isaac joins deputy tech editor Jim Kerstetter to discuss Google’s plan to fold its two operating systems into the Android brand.",neutral,0.04440823942422867
+2015-10-31,Mike and Jim’s Week in Tech: Google’s New Version of Android,neutral,0.04196173697710037
+2015-11-04,The technology research firm IDC predicts the pace of digital transformation of business is going to accelerate and increasingly hit every industry.,neutral,0.4453335404396057
+2015-11-04,"Digital Transformation Going Mainstream in 2016, IDC Predicts",positive,0.6184400916099548
+2015-11-06,"Interest and investment in artificial intelligence is back with a vengeance in Silicon Valley, attracting companies such as Toyota to make big bets in the space.",positive,0.8116311430931091
+2015-11-06,Daily Report: A $1 Billion Bet on Artificial Intelligence in Silicon Valley,neutral,0.040270932018756866
+2015-11-09,Flipkart worked with Google to create a new mobile website that was unveiled on Monday in a move to improve the mobile web experience and steer away from apps.,positive,0.8099378943443298
+2015-11-09,"With a Mobile Website Like an App, Flipkart Takes a Swipe at Apple",neutral,-0.02625831961631775
+2015-11-11,Facebook is introducing a new iPhone app that lets users sign up for custom notifications from a selection of about 70 news outlets and information providers.,positive,0.6288737654685974
+2015-11-11,Facebook’s Notify App Funnels Custom Updates Onto Phone Screens,neutral,-0.017328903079032898
+2015-11-12,A new software initiative will enable Android smartphones to be used for large-scale medical research projects.,positive,0.6323005557060242
+2015-11-12,Apple did that for iPhones earlier this year.,neutral,0.05760721489787102
+2015-11-12,Bringing iPhone-style Medical Research to the Android World,neutral,0.44780075550079346
+2015-11-13,The police in Mountain View said the vehicle was driving 24 miles per hour in a 35 m.p.h.,negative,-0.6212687492370605
+2015-11-13,zone.,neutral,0.05191626399755478
+2015-11-13,Google Driverless Car Is Stopped by California Police for Going Too Slowly,negative,-0.8791565895080566
+2015-11-18,"A look at Do Not Track technology in web browsers, and how to use Google Cardboard effectively.",neutral,0.028610888868570328
+2015-11-18,Covering Your Browser Tracks,neutral,-0.149325430393219
+2015-11-19,"Ms. Greene, a Silicon Valley veteran, has been a board member of Google and founded Bebop Technologies, which Google has agreed to buy.",neutral,0.04195016995072365
+2015-11-19,Google Picks Diane Greene to Expand Its Cloud Business,positive,0.5319099426269531
+2015-11-20,Few would argue that Google knows better than most how to manage huge data centers.,positive,0.6029878854751587
+2015-11-20,But in recent years Amazon has become the leader in selling that expertise to other companies.,positive,0.6469159722328186
+2015-11-20,Daily Report: Google Gets Serious About Competing in Cloud With Amazon Web Services,positive,0.8591075539588928
+2015-11-24,"Consumer advocacy groups say marketing aimed at children has permeated the YouTube app designed specifically for children, and they are asking the government to examine the issue.",negative,-0.6526345610618591
+2015-11-24,YouTube Kids App Faces New Complaints Over Ads for Junk Food,negative,-0.9449400901794434
+2015-11-25,"As part of its switch to Windows 10 as a “service” that automatically updates itself, Microsoft has pushed out its Windows 10 November Update.",neutral,0.006354726850986481
+2015-11-25,Updating Windows 10,neutral,0.036405712366104126
+2015-11-29,"Tips on activating and taking advantage of Google Now on Tap, which can be handy in providing more details about what you’re seeing on your smartphone or tablet screen.",neutral,0.007111717015504837
+2015-11-29,How to Use Google Now on Tap,neutral,0.030475443229079247
+2015-12-02,"The speedy adoption of new technology is increasingly seen as the key to corporate success, according to the annual innovation scorecard from the Boston Consulting Group.",positive,0.8004846572875977
+2015-12-02,Boston Consulting’s Most Innovative Companies: Lessons From a Decade of Ranking,positive,0.4596516489982605
+2015-12-03,"The investment bank and its jailed ex-leader, André Esteves, illustrate why investors in companies that issue multiple classes of stock should note the risk.",neutral,0.06756895780563354
+2015-12-03,BTG Pactual and the Perils of Supervoting Stock,neutral,0.00929020345211029
+2015-12-07,How to regain control of a compromised account and reconfigure your security settings to prevent future hacking.,neutral,-0.0025384314358234406
+2015-12-07,Recovering a Stolen Gmail Account,negative,-0.8137149214744568
+2015-12-08,"The proposals, part of a push toward a so-called digital single market, also include a review of online content aggregation by major sites like Google.",neutral,0.0657937228679657
+2015-12-08,Europe Plans to Ease Copyright Rules on Using Digital Content,positive,0.489075630903244
+2015-12-09,"Apps for creating animated video, thinking of gift ideas, organizing lists, tracking Santa and donating to charities.",neutral,-0.005310866981744766
+2015-12-09,"Video Feature: Apps, Like Elves, Help Make the Season Bright",neutral,0.010812479071319103
+2015-12-10,"Mr. Barra, a Brazilian-born, M.I.T.-trained former senior executive of Google, discusses markets outside China, including smartphone adoption in Africa.",neutral,0.053618647158145905
+2015-12-10,Hugo Barra of Xiaomi on the Company’s International Plans,neutral,0.011939417570829391
+2015-12-11,"Until an update to Picasa, here’s a way to get your photos into your computer from USB-connected cameras, including iPhones.",neutral,-0.010356152430176735
+2015-12-11,Importing Photos to Picasa in OS X 10.11,neutral,0.02887103706598282
+2015-12-14,"Venture capital is pouring into virtual reality start-ups, as proponents of the technology extol its potential to transform entertainment, communications and work.",positive,0.6325136423110962
+2015-12-14,"In Virtual Reality Headsets, Investors Glimpse the Future",neutral,0.06093910336494446
+2015-12-15,"The changes under review, which include penalties of up to 4 percent of a company’s global revenue, are expected to go into effect by early 2017.",neutral,0.10212244093418121
+2015-12-15,Europe Approves Tough New Data Protection Rules,positive,0.5098642110824585
+2015-12-16,"Draft regulations would require licensed drivers, who would be responsible for traffic violations, to operate the cars, as well as safety tests and cybersecurity safeguards.",neutral,0.0396081767976284
+2015-12-16,California D.M.V.,neutral,0.014943033456802368
+2015-12-16,Stops Short of Fully Embracing Driverless Cars,neutral,0.19940485060214996
+2015-12-17,Google has devised several ways besides text messaging to provide its 2-step security codes.,neutral,0.04926231876015663
+2015-12-17,"Getting Gmail Verification Codes Without a Smartphone, or a Phone at All",neutral,-0.06479614973068237
+2015-12-24,The feature composes brief responses to email messages that you’ve received.,neutral,-0.021599674597382545
+2015-12-24,How to Use Smart Reply in Gmail Inbox,neutral,0.028902286663651466
+2015-12-31,"The company joins Google, Facebook and others in disclosing when users of email and other services have probably been targeted by hackers working on behalf of governments.",neutral,-0.17169547080993652
+2015-12-31,Microsoft to Notify Users of Government Hackings,negative,-0.7557628154754639
+2016-01-01,"Adam Bosworth, a tech pioneer, sees the future in servers that manage and learn from data gathered by sensors implanted in practically everything.",neutral,0.04300585016608238
+2016-01-01,Looking Beyond the Internet of Things,neutral,0.053380824625492096
+2016-01-02,David Phillips provides our first Saturday challenge of 2016.,neutral,0.08389067649841309
+2016-01-02,Mass Master,neutral,0.04310374706983566
+2016-01-04,Google’s Inbox program tries to sort Gmail messages into logical groupings so they are easier to manage — especially on a mobile device.,neutral,-0.015186266973614693
+2016-01-04,Getting Your Gmail Just the Way You Like It,neutral,0.036517105996608734
+2016-01-08,"Repairing robots, driving Rovers across Mars and zapping objects with a laser gun — but doing it all in virtual reality at the International CES in Las Vegas.",neutral,0.03241002559661865
+2016-01-08,My Virtual Life at Tech’s Big Consumer Electronics Show,neutral,-0.06636828184127808
+2016-01-10,"Faced with the failure of her efforts to reignite growth at Yahoo, Marissa Mayer is now turning to the opposite strategy: cutting jobs.",negative,-0.9217333197593689
+2016-01-10,Yahoo’s Brain Drain Shows a Loss of Faith Inside the Company,negative,-0.8831290006637573
+2016-01-12,"Caroline Atkinson, who left her position as a White House deputy national security adviser last month, will join Google in March and be based in Washington.",neutral,-0.016362374648451805
+2016-01-12,Google Picks Former Obama Adviser to Lead Global Public Policy,neutral,0.044443726539611816
+2016-01-15,"Investments in well-known tech giants like Amazon, Microsoft and Google fueled three top-performing funds in the fourth quarter.",positive,0.6041209697723389
+2016-01-15,Fund Managers Win With Tech Stalwarts and Burly Brand Names,neutral,0.12185531109571457
+2016-01-17,Margrethe Vestager’s warning shot comes ahead of a Jan. 31 deadline for Europe and the United States to reach a new data-sharing agreement.,positive,0.3542158603668213
+2016-01-17,European Antitrust Chief Takes Swipe at Privacy Issue,negative,-0.6453774571418762
+2016-01-18,"One trend in mobile advertising is to focus on those fleeting times when customers have a need for something, or might be receptive to a pitch.",neutral,0.02052772417664528
+2016-01-18,"Marketing in the Moments, to Reach Customers Online",neutral,0.025618158280849457
+2016-01-20,"By just about every metric, Amazon, Apple, Facebook, Google and Microsoft are getting larger, more entrenched in their own sectors, more powerful in new sectors and better protected from competition.",positive,0.7023353576660156
+2016-01-20,Tech’s ‘Frightful 5’ Will Dominate Digital Life for Foreseeable Future,neutral,0.06621987372636795
+2016-01-21,"When incorrect information strays into a Trip Bundle, there is a way to remove it, and Google has recently made that easier to do.",neutral,-0.037345804274082184
+2016-01-21,Editing a Gmail Inbox Trip Bundle,neutral,-0.07973555475473404
+2016-01-22,Investors value the search firm’s earnings from fast-growing digital advertising twice as highly as Apple’s from a saturating smartphone market.,positive,0.8150891661643982
+2016-01-22,They may be overlooking serious risks.,neutral,-0.20922993123531342
+2016-01-22,Alphabet Close to Overtaking Apple as Most Valuable Company,neutral,0.3267682194709778
+2016-01-23,"The future of messaging apps may be as a catchall for shopping, booking rides, talking to customer service agents and more.",neutral,0.025619372725486755
+2016-01-23,Farhad and Mike’s Week in Tech: The Chatter on Messaging Apps,neutral,-0.10557635128498077
+2016-01-24,"Whether or not negotiators reach a pact by Feb. 1 on how companies like Google and Facebook use Europeans’ online data, Isabelle Falque-Pierrotin is in a position to propel privacy protection efforts.",positive,0.5768978595733643
+2016-01-24,Europe’s Top Digital-Privacy Watchdog Zeros In on U.S. Tech Giants,negative,-0.6475734710693359
+2016-01-26,Apple’s GarageBand is not the only show in town.,neutral,0.01701299101114273
+2016-01-26,Making Music on an Android Tablet,neutral,0.021786965429782867
+2016-01-27,"The streaming music service is seeking more money to better compete with rivals like Apple and Pandora, according to a person briefed on the plans.",positive,0.8515909314155579
+2016-01-27,Spotify Is Said to Be Seeking $500 Million in New Funds,neutral,0.05431519076228142
+2016-01-28,"Facebook is shutting down Parse, a toolkit and support system for mobile developers, which it acquired in 2013.",negative,-0.9215993285179138
+2016-01-28,"Facebook to Shut Down Parse, Its Platform for Mobile Developers",negative,-0.9198904037475586
+2016-01-29,Apple has acquired an augmented reality start-up called Flyby Media and hired the former director of the Center for Human-Computer Interaction at Virginia Tech.,neutral,0.08835645765066147
+2016-01-29,Apple Sets Its Sights on Virtual Reality,neutral,0.03482655808329582
+2016-01-30,"Odds are good that when you search Google for someone to help you get into your home or car, results will include poorly trained subcontractors who will squeeze you for cash.",negative,-0.6889424324035645
+2016-01-30,"Fake Online Locksmiths May Be Out to Pick Your Pocket, Too",negative,-0.4637063443660736
+2016-02-01,"You don’t have to be a full-fledged webmaster to share photos, videos and news with family and friends in your own private corner of the Internet.",neutral,-0.004315314814448357
+2016-02-01,Creating a Family Website,neutral,0.08134318143129349
+2016-02-02,"Magic Leap has drawn attention for attracting investors like Google, Fidelity Investments and Warner Brothers, although it has shown the public little about its products.",neutral,0.06401599943637848
+2016-02-02,"Magic Leap, an Augmented Reality Firm, Raises $793 Million",positive,0.5269456505775452
+2016-02-03,"Mr. Singhal, one of the earliest builders of Google’s computer system, said he would leave the parent company, Alphabet, on Feb. 26.",neutral,-0.06024947762489319
+2016-02-03,"Amit Singhal, an Influential Engineer at Google, Will Retire",neutral,0.03473535180091858
+2016-02-10,"A federal agency seems to accept that the computers controlling a self-driving car are the same as a human driver, but California differs.",neutral,0.010824820026755333
+2016-02-10,Google Car Exposes Regulatory Divide on Computers as Drivers,negative,-0.43607497215270996
+2016-02-11,"To fend off privacy complaints, the search giant will block access to certain links from all of its search sites when used from the European Union.",negative,-0.9257343411445618
+2016-02-11,Google Will Further Block Some European Search Results,negative,-0.9252825379371643
+2016-02-12,Google’s Chromecast device and its Android software let you watch videos from your mobile device on a TV or PC monitor.,neutral,0.0012371614575386047
+2016-02-12,Using Chromecast to Stream Your Tablet on a TV Screen,neutral,-0.044572390615940094
+2016-02-13,"Bad news for Twitter and Google, and Facebook plans to connect to the world.",negative,-0.8926319479942322
+2016-02-13,"Farhad and Mike’s Week in Tech: Rethinking Twitter, and a Hurdle for Facebook",neutral,0.056615933775901794
+2016-02-16,"Software designers for companies like Apple and Google are working to bring digital assistants past the “uncanny valley,” where technology becomes unsettling.",neutral,-0.03653290122747421
+2016-02-16,Taking Creepiness Out of Computer Voices,neutral,-0.027884244918823242
+2016-02-18,A complicated set of factors influences the reactions of technology companies to government demands to unlock a path to customer data.,neutral,-0.034819185733795166
+2016-02-18,Apple Letter on iPhone Security Draws Muted Tech Industry Response,negative,-0.5584726333618164
+2016-02-23,"The move to shutter Google Compare marks a shift from a foray into selling financial products like insurance, according to people who work with the company.",neutral,-0.0775797888636589
+2016-02-23,Google to Shut Down Its Comparison-Shopping Website,negative,-0.8660867214202881
+2016-02-24,"As it competes with Amazon and Google, the Windows maker is trying to make it easy for customers to migrate their technology to mobile and the cloud.",positive,0.5408424735069275
+2016-02-24,What Microsoft’s Xamarin Purchase Says About the Cloud Computing Fight,neutral,0.029521118849515915
+2016-02-25,Generating a few backup codes ahead of time can come in handy when you are unable to get the text messages from Gmail’s two-step verification system.,neutral,-0.09132494032382965
+2016-02-25,Printing Gmail Backup Codes,neutral,-0.015651803463697433
+2016-02-26,A summary of the latest developments in the battle between Apple and the F.B.I.,neutral,-0.008244730532169342
+2016-02-26,"over unlocking an iPhone used by one of the attackers in the mass shooting in San Bernardino, Calif.",negative,-0.3703716993331909
+2016-02-26,A Brief Explanation of Apple’s Showdown With the U.S. Government,neutral,0.024100562557578087
+2016-02-29,"The agreement revamps the rules for how companies collect and use online data, including social media posts, search queries and e-commerce purchases.",neutral,0.13865554332733154
+2016-02-29,E.U.,neutral,0.04360159859061241
+2016-02-29,and U.S. Release Details on Trans-Atlantic Data Transfer Deal,neutral,0.05214399844408035
+2016-03-01,"A self-driving car being tested by Google struck a public bus on a city street in Mountain View, Calif.",negative,-0.930160403251648
+2016-03-01,Autonomous Google Car Hits Public Bus During Test Drive,negative,-0.64445561170578
+2016-03-03,Apple’s legal battle with the government tests the limits of law enforcement agencies’ access to personal data.,negative,-0.7031505703926086
+2016-03-03,Apple Is Rolling Up Backers in iPhone Privacy Fight Against F.B.I.,positive,0.46880561113357544
+2016-03-06,"In an interview, Margrethe Vestager, the European Union’s competition commissioner, discusses the issues underpinning her current investigations and whether she unfairly targets American companies.",neutral,-0.3368827998638153
+2016-03-06,"Europe’s Antitrust Enforcer on Google, Apple and the Year Ahead",neutral,0.11579249054193497
+2016-03-07,"Industry titans like Amazon and Oracle are duking it out for cloud engineers, taking swipes at the competition and attracting workers with salaries as high as $1 million.",neutral,0.06867138296365738
+2016-03-07,Tech Giants Battle for Top Cloud Talent,neutral,-0.005635246634483337
+2016-03-08,Google is retiring the free photo-editing program and urging its users to give the newer Google Photos software a try.,negative,-0.4697447717189789
+2016-03-08,The End of the Road for Picasa,neutral,0.016443654894828796
+2016-03-10,"Critical Mass, a Canadian advertising agency, has created an online campaign that takes advantage of the American presidential election.",neutral,0.004279587417840958
+2016-03-10,Ad Watch: Offering Salvation for Americans Fleeing Politics,neutral,0.09680313616991043
+2016-03-15,Google’s Analytics 360 will try to beat rivals at creating marketing clouds that companies use to collect and manage data about customer behavior.,positive,0.7507706880569458
+2016-03-15,Google Introduces Products That Will Sharpen Its Ad Focus,neutral,0.48385411500930786
+2016-03-16,"Unlike its rival iPhone, Samsung burdens its devices with carrier bloatware and inferior apps.",negative,-0.9392338991165161
+2016-03-16,"But this is easily remedied, just in time for the new Galaxy S7 models.",positive,0.6375280618667603
+2016-03-16,Samsung’s Smartphones Aren’t the Problem (Just Prune the Bad Apps),neutral,-0.2666141092777252
+2016-03-17,A federal Transportation Department partnership with the Alphabet unit Sidewalk Labs will put the power of Google’s data into a traffic management system.,neutral,0.42741891741752625
+2016-03-17,"Cities to Untangle Traffic Snarls, With Help From Alphabet Unit",neutral,0.062225669622421265
+2016-03-19,"Examining virtual reality tech for gamers, mourning Google’s viral robots and revisiting the Apple-F.B.I.",neutral,0.031319353729486465
+2016-03-19,case.,neutral,-0.006324298679828644
+2016-03-19,Farhad and Mike Parse Virtual Reality Tech and the Apple Standoff,neutral,0.03072703629732132
+2016-03-21,"In December, Samsung agreed to pay Apple $548 million in damages for infringing part of the design of the iPhone, but it reserved the right to appeal the case.",negative,-0.5178327560424805
+2016-03-21,Supreme Court to Hear Samsung Appeal on Apple Patent Award,neutral,-0.14308160543441772
+2016-03-22,"After a nasty Android bug surfaced last summer, Google has been sending out monthly updates for the software on its Nexus hardware.",negative,-0.44369184970855713
+2016-03-22,Keeping Up With Android Security Patches,neutral,0.28993138670921326
+2016-03-23,A two-day conference featuring machine learning software and tools is aimed at demonstrating Google’s commitment to cloud computing.,positive,0.5064181089401245
+2016-03-23,"Google Showcases Its Cloud Efforts, Determined to Catch Up to Rivals",positive,0.8094626665115356
+2016-03-24,"The search engine plans to appeal the $112,000 penalty over claims that it did not comply with the country’s data protection rules",negative,-0.9449941515922546
+2016-03-24,Google Fined by French Privacy Regulator,negative,-0.9006952047348022
+2016-03-25,"Amazon, Google, IBM and Microsoft are using high salaries and games pitting humans against computers to try to claim the standard on which all companies will build their A.I.",neutral,-0.2682334780693054
+2016-03-25,technology.,neutral,0.09785059094429016
+2016-03-25,"The Race Is On to Control Artificial Intelligence, and Tech’s Future",neutral,0.07865960896015167
+2016-03-28,Tech’s new architecture melds large computing clouds and artificial intelligence to create efficient computing resources and data-based businesses.,positive,0.55287766456604
+2016-03-28,Silicon Valley Looks to Artificial Intelligence for the Next Big Thing,neutral,0.030650241300463676
+2016-03-31,"Juicero, a contraption that requires Wi-Fi to make an eight-ounce glass of juice, has raised $120 million from Google and others.",positive,0.7074657082557678
+2016-03-31,A $700 Juicer for the Kitchen That Caught Silicon Valley’s Eye,neutral,0.11467601358890533
+2016-04-01,"The investors GV, formerly Google Ventures, and Kapor Capital provided the financing for the office cleaning and management company.",neutral,0.0464981347322464
+2016-04-01,"Managed by Q, an On-Demand Start-Up, Raises $25 Million",neutral,0.19247587025165558
+2016-04-06,"Tech companies, banks and stores have bet big on the future of mobile payments, yet a tiny fraction of total purchases are being made with phones.",neutral,0.06772968918085098
+2016-04-06,"Why We Are Still Reaching for Wallets, Not Phones, at the Checkout",neutral,-0.03481714800000191
+2016-04-10,"This economics of tiny things demonstrates the global power of the few companies, including Amazon, Microsoft and Google, that can make fortunes from the small.",neutral,0.11230607330799103
+2016-04-10,"Billing by Millionths of Pennies, Cloud Computing’s Giants Take In Billions",neutral,0.05946198105812073
+2016-04-13,"Google’s own Android support pages are designed for its own version of the software, but help for other variations is usually not that far away.",neutral,-0.0037950221449136734
+2016-04-13,Finding Online Support for Your Android Device,neutral,0.022998277097940445
+2016-04-14,"If you notice certain programs are open already when you log in to your Mac, you can change the settings to alter their behavior.",neutral,-0.05508295074105263
+2016-04-14,Stopping OS X Apps From Automatically Starting,neutral,-0.23544615507125854
+2016-04-16,"A worldly offering by Howard Barkin, the 2016 champion of the American Crossword Puzzle Tournament.",neutral,0.06335549801588058
+2016-04-16,Expanded Worldview,positive,0.7614278793334961
+2016-04-18,"Despite mining people’s data to earn billions of dollars, the search giant has been given the power to police some of the region’s tough privacy rules.",positive,0.4158669114112854
+2016-04-18,Europe Tried to Rein In Google.,negative,-0.37619686126708984
+2016-04-18,It Backfired.,neutral,-0.23847375810146332
+2016-04-19,Complainants contend the company favored its own mobile services over those of rivals in violation of European law.,negative,-0.9113782644271851
+2016-04-19,Google’s Antitrust Woes in Europe Are Likely to Grow,negative,-0.9331279397010803
+2016-04-20,Marissa Mayer needs to offload Yahoo’s core business before bidders like Verizon lose interest,negative,-0.7468953132629395
+2016-04-20,Yahoo’s First Quarter Adds Urgency to Sale Option,positive,0.6288545727729797
+2016-04-21,Revenue for the Google holding company was about $150 million less than expected.,negative,-0.9480947852134705
+2016-04-21,Alphabet Earnings Disappoint as Google Ad Clicks Cost Less,negative,-0.924537181854248
+2016-04-22,"In withdrawing complaints with authorities worldwide, the companies said they would try to resolve future disputes before protesting to regulators.",neutral,0.07494612038135529
+2016-04-22,Microsoft and Google Agree to Drop Mutual Complaints,negative,-0.8407405614852905
+2016-04-27,"The automaker and the tech giant formed the Self-Driving Coalition for Safer Streets, a group aimed at urging federal approval of autonomous vehicles.",neutral,0.3064967095851898
+2016-04-27,Ford and Google Team Up to Support Driverless Cars,positive,0.7744900584220886
+2016-04-28,The driving force pushing the recent European action against Google’s search engine was a consortium of corporate rivals.,neutral,-0.37385186553001404
+2016-04-28,Europe’s Case Against Google Might Help Rivals More Than Consumers,positive,0.5088691115379333
+2016-05-03,The partnership will equip 100 vehicles with technology to advance and expand Google’s development effort.,positive,0.861814022064209
+2016-05-03,Google to Get Fiat Chrysler Minivans for Self-Driving Tests,neutral,0.2006024569272995
+2016-05-06,"Under a partnership unveiled this week, Fiat Chrysler will make about 100 modified Pacificas that Google will outfit with sensors and computers it has developed.",neutral,0.3875918686389923
+2016-05-06,"Head of Fiat Chrysler Sees Self-Driving Cars in Five Years, Not 20",neutral,0.036114245653152466
+2016-05-08,"As Oracle continues to sue Google for $8.8 billion, quarterly earnings reports are expected for Disney, Credit Suisse and Macy’s.",negative,-0.7558399438858032
+2016-05-08,Google Goes Back to Court Over Android Code and May Face Fines in Russia,negative,-0.9370460510253906
+2016-05-09,Behind-the-scenes lobbying heightens in this next phase of a divide over digital security that erupted when Apple refused to help unlock an iPhone used in a mass shooting.,negative,-0.4600573480129242
+2016-05-09,Police and Tech Giants Wrangle Over Encryption on Capitol Hill,negative,-0.817247211933136
+2016-05-10,The right to use programming language is at issue in the latest round of a case filed nearly six years ago.,neutral,0.02052203379571438
+2016-05-10,Alphabet Chairman Testifies in Oracle Suit Against Google,neutral,-0.25194835662841797
+2016-05-11,"The web giant said the move was to protect its users from such lending, which often leads to unaffordable repayment terms and financial harm.",neutral,-0.02783377468585968
+2016-05-11,Google to Ban All Payday Loan Ads,negative,-0.7438652515411377
+2016-05-12,"With its move on payday loans, it joins other powerful players like Facebook and PayPal in taking a stand on social issues, but deepens concerns about overreach.",positive,0.031131744384765625
+2016-05-12,Another Company With a Cause: Is Google Just Being a Good Citizen?,neutral,0.0477629192173481
+2016-05-17,"Apple has Siri, Amazon has its Echo, and now Google will introduce its virtual agent, Google Home.",neutral,0.14272263646125793
+2016-05-17,Google to Introduce Its Voice-Activated Home Device,positive,0.615775465965271
+2016-05-18,"A virtual assistant designed to compete with the Echo from Amazon and other artificial intelligence devices coming from Microsoft, Apple and Facebook.",neutral,0.10128428786993027
+2016-05-18,Google Home: A Voice-Activated Device That Already Knows You,neutral,-0.09994485974311829
+2016-05-19,Google’s Home device puts it in the race to become the go-to company for A.I.,positive,0.7444965839385986
+2016-05-19,— along with several rivals.,neutral,-0.06660208851099014
+2016-05-19,Silicon Valley’s Artificial Intelligence Marathon Is On,neutral,0.03454425185918808
+2016-05-20,The software giant Oracle says the search giant Google infringed on its copyrights.,negative,-0.9275408983230591
+2016-05-20,That brought Google’s boss to the courtroom Thursday morning.,negative,-0.531653106212616
+2016-05-20,A Cheery Elevator Ride With Larry Page,neutral,0.19720250368118286
+2016-05-23,Google’s own camera app for Android can do much more than just snap standard still photos.,neutral,0.03429911285638809
+2016-05-23,Going Wide With Google Camera,neutral,0.17089511454105377
+2016-05-24,"Like Apple and Google have done for their own gadgets, Microsoft has a way for users to track down missing Windows 10 hardware.",neutral,0.023593522608280182
+2016-05-24,Locating a Lost Windows Device,neutral,-0.12799590826034546
+2016-05-25,"The expensive quest to discover what millennials want misses two things: Each is an individual, and collectively they are much like other generations.",neutral,-0.0038615502417087555
+2016-05-25,Corporate America Chases the Mythical Millennial,neutral,0.060728397220373154
+2016-05-26,"The decision, which will be appealed, means that Google owes its Silicon Valley rival nothing for code it used in the Android operating system.",negative,-0.8029265403747559
+2016-05-26,Google Prevails as Jury Rebuffs Oracle in Code Copyright Case,negative,-0.8314051628112793
+2016-05-27,"The companies have been fighting for six years over the use of Java, which Oracle acquired when it bought Sun Microsystems.",negative,-0.7676186561584473
+2016-05-27,"Google Bests Oracle in Court, but the Fight Isn’t Over",negative,-0.8095318675041199
+2016-05-28,Do tech venture capitalists really want to support a system in which moving fast results in company-ending lawsuits?,neutral,0.06020267307758331
+2016-05-28,Farhad and Mike’s Week in Tech: Techies vs. the Media,negative,-0.5157579779624939
+2016-05-30,A report suggests that one in five smartphone users worldwide deploys software to remove ads when he or she browses the web.,negative,-0.8201718330383301
+2016-05-30,Rise of Ad-Blocking Software Threatens Online Revenue,negative,-0.9463249444961548
+2016-05-31,"The industry has asked the government to modify the Digital Millennium Copyright Act, saying it is outdated and makes removing unauthorized content too difficult.",negative,-0.7799607515335083
+2016-05-31,"Music World Bands Together Against YouTube, Seeking Change to Law",negative,-0.6319400072097778
+2016-06-01,"The healthiest approach to managing photos, it turns out, is a Zen one: to not deal with them much at all.",neutral,0.03488965332508087
+2016-06-01,Zen and the Art of Managing Smartphone Photos,neutral,0.040701426565647125
+2016-06-02,"Uber is now worth four United Airlines, 2 billion rides across Midtown Manhattan and a good day at Google.",positive,0.5256361961364746
+2016-06-02,What Saudi Arabia’s $3.5 Billion in Uber Buys,neutral,0.021168678998947144
+2016-06-03,"Mr. Fadell, a star executive known for his aggressive management style, helped found the maker of high-tech home devices and sold it to Google for $3.2 billion 2014.",neutral,0.06873231381177902
+2016-06-03,"Tony Fadell Steps Down Amid Tumult at Nest, a Google Acquisition",negative,-0.49497905373573303
+2016-06-04,"Testing is being conducted at controlled, secretive locations like Mcity in Michigan because the number of unforeseen challenges on the road is almost limitless.",neutral,-0.15575198829174042
+2016-06-04,"For Driverless Cars, Citylike Test Sites Offer the Unpredictable",neutral,0.002888329327106476
+2016-06-07,"Google makes a version of its predictive assistant software for Apple devices, but the native Android version has more features.",neutral,0.001035960391163826
+2016-06-07,Using Google Now for iOS,neutral,-0.005713548511266708
+2016-06-08,Speaking in front of people can be terrifying.,negative,-0.685024082660675
+2016-06-08,Several apps can help ease jittery nerves and possibly make you a more effective and eloquent speaker.,positive,0.5831823945045471
+2016-06-08,Getting Over Stage Fright With the Help of Your Smartphone,neutral,-0.016888558864593506
+2016-06-09,"Mr. Perkins, a co-founder of Kleiner Perkins Caufield & Byers, nurtured both the venture capital industry and a generation of technology.",neutral,0.2841624915599823
+2016-06-09,"Thomas J. Perkins, Pioneering Venture Capitalist in Silicon Valley, Dies at 84",neutral,-0.18479420244693756
+2016-06-10,"With growing competition from the likes of Google and Amazon, Apple appears to be working to improve its relationship with app makers.",positive,0.9277592301368713
+2016-06-10,Apple Starts to Woo Its App Developers,positive,0.4593769907951355
+2016-06-12,"Giants like Comcast, AT&T and Verizon oppose plans to limit broadband providers’ ability to share users’ data and to open the market for set-top boxes.",negative,-0.7876734733581543
+2016-06-12,Cable Industry Mobilizes Lobbying Army to Block F.C.C.,neutral,-0.3346460461616516
+2016-06-12,Moves,neutral,0.03623265027999878
+2016-06-13,"In an effort to keep developers happily writing apps for its software, as well as to reinvigorate its products, Apple will allow access to two of its crown jewels, hoping to spur creativity.",positive,0.7051115036010742
+2016-06-13,Apple to Offer App Developers Access to Siri and iMessage,neutral,0.11447416990995407
+2016-06-15,"The UEFA Euro 2016 soccer championships are taking place in France, a good time to get to know the global game.",neutral,0.16008125245571136
+2016-06-15,"Apps offer stats, scores and games.",neutral,-0.0033994559198617935
+2016-06-15,Put Yourself in the Soccer Game (No Shin Guards Needed),neutral,0.029631536453962326
+2016-06-16,"Wishful thinking among Twitter investors aside, there are not many obvious buyers for the social media network.",neutral,-0.03369206190109253
+2016-06-16,Microsoft-LinkedIn Deal Ignites Twitter Speculation,neutral,0.3307919502258301
+2016-06-20,"Google keeps a log of your searches, location and other information shared when you use the company’s services, but you have a say in what gets saved.",neutral,-0.020818792283535004
+2016-06-20,Tracing Your Google History,neutral,-0.00131206214427948
+2016-06-21,"Nikesh Arora, a former Google executive, disagreed with the Japanese technology conglomerate’s chairman on when Mr. Arora might take over.",negative,-0.8521081209182739
+2016-06-21,SoftBank President Nikesh Arora Plans to Step Down,neutral,-0.07107466459274292
+2016-06-22,Don’t burden your trip with expensive or very heavy devices that you may not use.,neutral,-0.014255709946155548
+2016-06-22,"Here are some worth packing for use on an airplane, in a rental car or hotel, outdoors and overseas.",neutral,-0.00327470526099205
+2016-06-22,Devices That Deserve to Go Along on Vacation,neutral,0.1139785423874855
+2016-06-23,The site stocks an expanding collection of virtual reality clips and has even formatted its older videos to work with the Google Cardboard viewer.,neutral,0.07407750934362411
+2016-06-23,Watching Virtual Reality Videos on YouTube,neutral,0.023905716836452484
+2016-06-27,"Apple and Dell, longtime rivals in the battle over sales to educators and students, now have plenty of company from companies like Amazon and others.",neutral,0.3032803535461426
+2016-06-27,Tech Makes Its Pitch to the Education Community,neutral,0.08747045695781708
+2016-06-28,Some streaming services now allow temporary downloads of certain videos to watch when you do not have internet access.,neutral,-0.0036082807928323746
+2016-06-28,Downloading Video Streams to Go,neutral,-0.03455059602856636
+2016-06-29,"The Alphabet investment unit has invested $46.35 million in Care.com, a publicly traded company that helps connect families and caregivers.",neutral,0.24025459587574005
+2016-06-29,Google Capital Ventures Into Public Companies With Care.com,neutral,0.010065963491797447
+2016-06-30,"Automatic backup keeps your pictures in the cloud, but you can download copies if you want to edit them with your favorite desktop photo program.",neutral,-0.02338283881545067
+2016-06-30,Retrieving Your Google Photos,neutral,-0.09744924306869507
+2016-07-04,Two self-driving car pioneers have distinct views of the role of the person behind the wheel.,neutral,-0.009700898081064224
+2016-07-04,Tesla and Google Take Different Roads to Self-Driving Car,neutral,-0.02397410199046135
+2016-07-07,"The current version of Google’s operating system, Android 6.0, offers several ways to unlock your device’s screen — with or without your direct input.",neutral,0.008277501910924911
+2016-07-07,Android Security When You Need It,neutral,0.027751538902521133
+2016-07-12,"Microsoft restricted its virtual helper to work only with its Edge browser and Bing search engine, but you can do voice searches right in Google’s browser.",neutral,-0.0817876011133194
+2016-07-12,Voice Searches With Cortana or Chrome,neutral,-0.07633672654628754
+2016-07-13,"Sidekix, Clarice and Google Translate can help you discover and navigate new cities and sites, and make the most of your time there.",neutral,0.028386889025568962
+2016-07-13,Wanderlust by Design: Organizing Your Summer Travel,neutral,0.04501780867576599
+2016-07-14,"The European Commission’s newest charges add more time to the clock, a disadvantage in the ever-shifting tech market.",negative,-0.6436809301376343
+2016-07-14,Google’s Antitrust Charges in Europe Need Quick Action,neutral,0.06976286321878433
+2016-07-18,"To determine why artificial intelligence is booming now, it’s helpful to look at the recent growth of search engines, social media and mobile technology.",neutral,0.08353468030691147
+2016-07-18,Reasons to Believe the A.I.,neutral,0.06822057068347931
+2016-07-18,Boom Is Real,neutral,0.08297145366668701
+2016-07-19,The company is financing a series of projects supporting European culture and education as its regulatory woes continue to compound.,neutral,0.2686278223991394
+2016-07-19,"Google, Trying to Endear Itself to Europe, Spreads $450 Million Around",neutral,-0.004687309265136719
+2016-07-21,"Google recently changed its ad-tracking practices, but you have a say in whether you want to use the new tools.",neutral,0.0688069760799408
+2016-07-21,Changing Your Google Account Settings,neutral,-0.1362093687057495
+2016-07-25,"The Verizon boss, Lowell McAdam, is betting the deal will help attract digital advertisers by meshing Yahoo with AOL, which Verizon bought last year.",positive,0.8094947934150696
+2016-07-25,Verizon and Yahoo: Internet Also-Rans With Big Hopes,neutral,0.10156811028718948
+2016-07-26,"The company, which reported its worst quarterly revenue growth ever, is betting on live streaming video and direct response advertising to combat stagnant demand.",positive,0.13447079062461853
+2016-07-26,"Twitter, Grappling with Anemic Growth, Tries to Bolster Its Advertising Business",positive,0.9159152507781982
+2016-07-27,"If you cannot remember when, or if, you installed the most recent security patch for your Android device, there’s an easy way to find out.",neutral,-0.03996742516756058
+2016-07-27,Checking the Delivery Date on That Android Update,neutral,-0.05236437916755676
+2016-07-28,"The company added that it was beginning a partnership with Yelp, in which companies that use Peek can add a “book now” button on their Yelp page.",positive,0.7723132371902466
+2016-07-28,"Peek, a Tourism Start-Up, Raises $10 Million From Investors",positive,0.49901634454727173
+2016-07-29,"It was a major recovery from a lukewarm previous quarter, proving that the internet behemoth still has room and energy to grow.",positive,0.9241586923599243
+2016-07-29,Google Silences Doubters With Blockbuster Quarter,negative,-0.3698711693286896
+2016-07-30,A reader responds to “They Promised Us Jet Packs” (July 24).,neutral,0.06312867999076843
+2016-07-30,Research and the Corporation,neutral,0.03405463695526123
+2016-08-01,"The biggest business-software company thinks that information gathering could become a valuable adjunct to many of its database and applications efforts, and it has more data than anybody.",neutral,0.3176180422306061
+2016-08-01,"Oracle, Having Bet Billions on Its Future, Sets Sights on Data Analysis",neutral,0.2017676681280136
+2016-08-02,Google’s mail program offers its users the choice between a no-frills instant-messaging service and a more full-featured communications hub.,neutral,0.1459570825099945
+2016-08-02,Getting Chatty in Gmail,neutral,0.04157792776823044
+2016-08-03,"After just one firm raised one-quarter of all funding in the second quarter, midsize investors are facing a future in which they could be squeezed out.",negative,-0.9208370447158813
+2016-08-03,Daily Report: Venture Capital’s Endangered Middle Class,negative,-0.8480765223503113
+2016-08-04,Snooping on you to sell you stuff is so 2015.,neutral,-0.37221407890319824
+2016-08-04,Now we willingly turn ourselves into advertisements.,neutral,0.03839724510908127
+2016-08-04,Daily Report: The Message From Snapchat,neutral,0.06721419095993042
+2016-08-05,Chris Urmson is the latest in a string of departures from the team working on the autonomous car project.,negative,-0.6623409986495972
+2016-08-05,Latest to Quit Google’s Self-Driving Car Unit: Top Roboticist,negative,-0.4367091655731201
+2016-08-09,"Google Maps pulls in data from several places, including crowd-sourced highway reports from its Waze service, to warn you what’s up the road.",neutral,-0.02379262074828148
+2016-08-09,Personalized Traffic Alerts From Google,neutral,0.03541857376694679
+2016-08-10,American internet companies have had a hard time getting into China.,negative,-0.8925755620002747
+2016-08-10,But Chinese internet companies have struggled to grow beyond its borders.,negative,-0.8701107501983643
+2016-08-10,Struggling to Break Out of Chinese Internet,neutral,-0.23998749256134033
+2016-08-11,The search giant’s mobile operating system was found to have unfairly favored digital services like Google Maps over those of Russian rivals.,negative,-0.940226674079895
+2016-08-11,Google Fined for Breaking Russian Antitrust Rules With Android,negative,-0.907478928565979
+2016-08-12,"If you would like YouTube to stop compiling a list of all the clips you watch on the site, “pause” your Watch History.",neutral,-0.09274753928184509
+2016-08-12,How to Make YouTube Stop Watching What You Watch,neutral,0.0004781261086463928
+2016-08-13,The Walmart-Jet deal poses the question of whether Amazon is stoppable.,neutral,-0.2755042612552643
+2016-08-13,"Also, why hiring people who aren’t 20-something Stanford bros can be helpful.",positive,0.6265409588813782
+2016-08-13,Farhad’s and Mike’s Week in Tech: Betting on Jet and Diverse Work Forces,neutral,0.14498265087604523
+2016-08-15,"Google owns both mapping and navigation apps, but Google Maps and Waze take their own approach to getting you to your destination.",neutral,-0.0022231750190258026
+2016-08-15,Which Co-Pilot to Choose: Google Maps or Waze?,neutral,0.010447468608617783
+2016-08-16,"Unlike Apple’s FaceTime app, Duo can be used between the Android and iOS universes.",neutral,-0.0016522351652383804
+2016-08-16,Google Duo Challenges FaceTime,neutral,-0.3447939157485962
+2016-08-18,"The company said it had acquired a start-up comprising former Google and Carnegie Mellon engineers, as well as announced a partnership with Volvo to test self-driving cars on Pittsburgh streets in a matter of weeks.",positive,0.7665032148361206
+2016-08-18,Uber Aims for an Edge in the Race for a Self-Driving Future,positive,0.595017671585083
+2016-08-23,"As a wholesaler, the company can cut power costs and carbon dioxide emissions.",positive,0.5381917357444763
+2016-08-23,It will get much of its supply from a solar energy farm now being built.,neutral,0.059793610125780106
+2016-08-23,"Apple Becomes a Green Energy Supplier, With Itself as Customer",positive,0.6547027230262756
+2016-08-24,"StudyBlue, Symbolab and Google Keep are just a few of the apps that revolutionize tasks once done with pen and paper.",neutral,0.03627631440758705
+2016-08-24,"Flash Card, Math and Organizer Apps for the 21st Century Student",neutral,0.026625946164131165
+2016-08-26,"As big companies race to build oversize data networks, communities are finding that the giant buildings can operate with only about 30 people.",negative,-0.6456285119056702
+2016-08-26,"Cloud Computing Brings Sprawling Centers, but Few Jobs, to Small Towns",neutral,0.03793832287192345
+2016-08-30,Waze Carpool’s move into San Francisco is just the latest volley as Google and Uber encroach on each other’s territory.,neutral,0.04152437299489975
+2016-08-30,"Alphabet Expands Car-Pooling Project, Casting Shadow on Uber",neutral,0.08129165321588516
+2016-08-31,A Google executive kept out of meetings stepped down from Uber’s board as the search giant expands its own nascent ride sharing service to San Francisco.,negative,-0.8662359714508057
+2016-08-31,"Daily Report: Uber and Google, Ride-Sharing ‘Frenemies’",neutral,-0.016898367553949356
+2016-09-01,Four people involved in the creation of an industry partnership say its intent will be clear: to ensure that A.I.,neutral,0.3225673735141754
+2016-09-01,"research is focused on things that will benefit people, not hurt them.",neutral,0.033388860523700714
+2016-09-01,How Tech Giants Are Devising Real Ethics for Artificial Intelligence,neutral,0.036162350326776505
+2016-09-02,The decision to shelve Project Ara comes after the company announced plans in May to release an early version of the product for developers.,neutral,0.04224174842238426
+2016-09-02,Alphabet Ends Effort to Create Modular Smartphone,neutral,0.07449617981910706
+2016-09-06,"If you have to manage meetings in different parts of the world, you can make Google Calendar show two or more time zones at once in your browser.",neutral,-0.055919110774993896
+2016-09-06,Living in Two Time Zones With Google Calendar,neutral,0.02605552226305008
+2016-09-13,"The rules will put new pressure on American tech companies, but European officials say they will unite the Continent’s various national economies.",positive,0.6251574158668518
+2016-09-13,E.U.,neutral,0.04360159859061241
+2016-09-13,"Rules Look to Unify Digital Market, but U.S. Sees Protectionism",neutral,0.03399644047021866
+2016-09-16,Google’s popular traffic app relies on its users to keep it up to date and to help correct deliberate misinformation.,neutral,0.04572851583361626
+2016-09-16,How Waze Tries to Keep Its Crowd Honest,neutral,0.05843978375196457
+2016-09-18,"With its new platform, an automated online service, the company will allow more websites to place ads in front of users.",neutral,0.4460981786251068
+2016-09-18,"Adblock Plus, Created to Protect Users From Ads, Instead Opens the Door",neutral,-0.23665478825569153
+2016-09-21,Google adds its messaging app to the many already available.,neutral,0.2614505887031555
+2016-09-21,Daily Report: Will Google’s Allo Make It in the Messaging App Field?,neutral,0.21283917129039764
+2016-09-23,The social network site has been considering a possible restructuring as it wrestles with a slowdown in its growth.,negative,-0.43352603912353516
+2016-09-23,Twitter Is Said to Be Discussing a Possible Takeover,neutral,-0.02361312322318554
+2016-09-25,Marketers trying to reach an increasingly fractured and fickle social media audience are struggling to make ads when one version may not work everywhere.,negative,-0.9212912321090698
+2016-09-25,Making Video Ads That Work on Facebook’s Silent Screen,neutral,0.003730243071913719
+2016-09-28,"The Partnership on AI unites Amazon, Facebook, Google, IBM and Microsoft to ease public fears of machines that are learning to think for themselves.",positive,0.8383876085281372
+2016-09-28,Protecting Humans and Jobs From Robots Is 5 Tech Giants’ Goal,neutral,0.0625777617096901
+2016-10-01,"Twitter news, including a prolific tweeter’s hiatus.",neutral,-0.05670500919222832
+2016-10-01,Also: A human sacrifice is needed for Elon Musk’s Mars shot.,neutral,0.016349416226148605
+2016-10-01,"By popular acclamation, it’s Farhad.",neutral,0.0404072031378746
+2016-10-01,Farhad’s and Mike’s Week in Tech: Interest in Twitter From Disney?,neutral,0.029454853385686874
+2016-10-01,Unlikely.,neutral,-0.005399622023105621
+2016-10-02,Google is expected to reveal Google Home; and the Labor Department will report the penultimate jobs report scheduled before the presidential election.,neutral,-0.08594568073749542
+2016-10-02,"Google to Unveil New Devices, and Labor Dept.",neutral,0.07841037213802338
+2016-10-02,Will Report on Jobs,neutral,0.04297430440783501
+2016-10-03,Wildly successful tech companies often can’t see the next big thing because they’re too busy making money.,negative,-0.6392632722854614
+2016-10-03,Even Google can be prone to this condition.,negative,-0.76600182056427
+2016-10-03,Daily Report: Google’s Slow Response to Amazon’s Echo is a Warning,negative,-0.9540426135063171
+2016-10-04,Google’s new strategy of controlling both hardware and software puts it more directly in competition with Apple and many of its own Android partners.,positive,0.5716116428375244
+2016-10-04,"Google Introduces the Pixel, Its Own Smartphone",neutral,0.10880197584629059
+2016-10-05,"The company has had a spotty track record with devices, but the push for artificial intelligence is making that side of the shop more important than ever.",neutral,0.049909450113773346
+2016-10-05,Daily Report: Google Would Like You to Meet Its Gadgets,neutral,0.11746451258659363
+2016-10-10,"When it suits you, you can unlock the New Message form from the corner of the browser and compose your thoughts in a different window.",neutral,-0.025433115661144257
+2016-10-10,Freeing the Gmail New Message Window,neutral,0.03844651207327843
+2016-10-13,There are many ways to transfer pictures from a Google-based phone to an Apple computer.,neutral,0.0006103105843067169
+2016-10-13,Move Android Photos to Your Mac,neutral,-0.007224598899483681
+2016-10-18,"Google’s phone disappoints, but it’s likely to be around for a long time.",negative,-0.7064828872680664
+2016-10-18,That’s because it’s part of a complex of technology that characterizes the new competition.,neutral,0.045914117246866226
+2016-10-18,Daily Report: Google Pixel and the New Long Game,neutral,0.04351840540766716
+2016-10-21,"If you have an idea for a mobile app, or you just want to become more familiar with how software works, you can get a free education online.",neutral,0.0833793506026268
+2016-10-21,Want to make your own app?,neutral,-0.009227227419614792
+2016-10-21,There are free classes for that,neutral,0.006911842152476311
+2016-10-23,Apple’s report will offer the first look at sales of the iPhone 7 and the extra business it is getting since Samsung’s troubles with the Galaxy Note 7.,neutral,0.10829886049032211
+2016-10-23,Apple and Tesla to Report Earnings,neutral,0.025405507534742355
+2016-10-26,"Alphabet, Google’s parent company, said it would halt discussions with cities where it planned to expand its network and would reduce staff at Google Fiber.",negative,-0.9378619194030762
+2016-10-26,"Google Curbs Expansion of Fiber Optic Network, Cutting Jobs",negative,-0.9338378310203552
+2016-10-27,"In its otherwise solid third-quarter results, the company went some distance to reassure investors on its “other bets,” in-house visionary projects that have yet to make money.",positive,0.8296511173248291
+2016-10-27,A More Money-Conscious Alphabet Emerges,neutral,0.19796524941921234
+2016-10-28,Carlyle Group has joined the growing list of investors who are taking their money out of hedge funds.,neutral,0.07345584779977798
+2016-10-28,The private equity firm is instead opting for direct lending.,neutral,0.025876447558403015
+2016-10-28,"Morning Agenda: Shunning Hedge Funds, Chip Makers Consolidate, Tech Lessons",negative,-0.4483306407928467
+2016-10-29,Farhad is going as sexy Donald Trump and Mike as Guy Fieri.,neutral,0.006216572597622871
+2016-10-29,Amazon gets them reminiscing about Matthew McConaughey in a 1990s stoner movie.,neutral,-0.03925847262144089
+2016-10-29,"Farhad and Mike’s Week in Tech: Microsoft, Apple and Halloween!",neutral,-0.018087387084960938
+2016-10-30,"The search giant is fighting three antitrust charges, and the results will have a major impact on both the tech company and European policy makers.",neutral,0.3204490542411804
+2016-10-30,The Stakes Are Rising in Google’s Antitrust Fight With Europe,positive,0.7217077612876892
+2016-10-31,The search giant is one of several American tech companies facing inspections overseas for the way they do business.,negative,-0.7766323685646057
+2016-10-31,Daily Report: Google’s Day in Europe’s Court Highlights Nature of New Tech,neutral,0.1830962896347046
+2016-11-01,The disagreement between the internet service and Germany’s main music rights organization had restricted access to music videos on YouTube since 2009.,negative,-0.9325911998748779
+2016-11-01,"YouTube Agrees to Pay Royalties, Ending German Music Dispute",positive,0.7852202653884888
+2016-11-02,What to do if you need to remove or change your stored credit card — or want to switch to a different payment method entirely.,neutral,-0.03533346205949783
+2016-11-02,How to Change the Way You Pay in Google Play,neutral,0.048616115003824234
+2016-11-03,"Google will introduce Home, its rival to Amazon’s Alexa, at the end of this week.",neutral,0.17668330669403076
+2016-11-03,Daily Report: A New Helper in the Virtual Assistant Race,neutral,0.0012490227818489075
+2016-11-07,"Fear that Oracle would back away led NetSuite shareholders to accept a $9.3 billion offer over the objections of a major investor, T. Rowe Price.",negative,-0.11416962742805481
+2016-11-07,Larry Ellison’s Hardball Tactics Win NetSuite for Oracle,neutral,-0.010549157857894897
+2016-11-10,"In charges brought recently against Google and earlier against Microsoft, officials say that each company favored some of its services over those of rivals.",neutral,-0.16463035345077515
+2016-11-10,Parallels Between Europe’s Antitrust Cases Against Google and Microsoft,neutral,-0.2694031000137329
+2016-11-11,"The United States doesn’t have “right to be forgotten” laws as Europe does, but Google considers some requests to remove information from search results.",negative,-0.5383636355400085
+2016-11-11,Erasing the Past From Google Search,neutral,-0.014421917498111725
+2016-11-14,"The start-up world has moved away from easily definable consumer or corporate products and services, and Spark Capital has followed.",neutral,0.02884553000330925
+2016-11-14,Venture Capital Firm Navigates Uncharted Course to Success,positive,0.559792160987854
+2016-11-15,"If you’d like to keep the young ones from seeing inappropriate material in search results, make sure the built-in filter is enabled.",neutral,-0.010490557178854942
+2016-11-15,Give Children a Safer Searching Experience,neutral,0.18607787787914276
+2016-11-16,Most web-based email services allow you to download copies of your messages to the computer with a stand-alone mail program.,neutral,-0.015388891100883484
+2016-11-16,Keep Your Email Online or Off,neutral,-0.07349501550197601
+2016-11-18,You can get results from another search engine with a quick visit to the browser’s settings.,neutral,-0.012233171612024307
+2016-11-18,Change Safari’s Search Engine Under the Hood,neutral,0.050270404666662216
+2016-11-22,A Washington pizzeria has been the victim of a barrage of false articles on social media and fake news sites saying their pizzeria was a front for a child trafficking ring led by Hillary Clinton.,negative,-0.920536994934082
+2016-11-22,Anti-Clinton Fake News Casts Pizzeria as Front for Crime,negative,-0.769670307636261
+2016-11-25,"The start-up completed a funding round that included CapitalG, the investment arm of Alphabet, and General Catalyst Partners.",positive,0.7425259947776794
+2016-11-25,Value of Payments Provider Stripe Doubles to $9.2 Billion,positive,0.8382452130317688
+2016-11-28,"Gmail attempts to make life easier by scanning your messages and reminding you of pending events, but you can pick what you want to be nagged about.",neutral,-0.14515657722949982
+2016-11-28,How Google Knows When Your Bills Are Due,neutral,-0.02205735817551613
+2016-11-30,"Some apps mimic a single-lens reflex camera in options and complexity, while others unleash your creativity.",neutral,0.034557800740003586
+2016-11-30,Take Your Smartphone Photography to the Next Level,neutral,-0.006497237831354141
+2016-12-05,"Ray Kurzweil, a director of engineering at Google, believes people will be 3-D printing bespoke clothing in their homes by 2020.",neutral,0.04295766353607178
+2016-12-05,"Fashion’s Future, Printed to Order",neutral,0.029685653746128082
+2016-12-06,The owners of the world’s largest network say it will soon run 100 percent on renewable power.,neutral,0.3606529235839844
+2016-12-06,There are business reasons for this.,neutral,0.010905653238296509
+2016-12-06,Daily Report: Google’s Renewable Cloud,neutral,0.06286238878965378
+2016-12-09,"Like other note-taking apps out there, Google’s software serves as a digital locker to stash saved web pages, audio clips, photos, text and more.",neutral,-0.006525980308651924
+2016-12-09,"Storing Web Pages, and Much More, in Google Keep",neutral,-0.00043818727135658264
+2016-12-12,"The company’s data centers bring tax revenue, jobs and other benefits to their communities, but the wealth doesn’t extend very far beyond their borders.",neutral,0.06080586463212967
+2016-12-12,Daily Report: Google’s Largess Reaches Into the Heartland Unevenly,negative,-0.6012473106384277
+2016-12-13,The decision is a signal that the company thinks its self-driving technology has moved beyond research project status and is ready for commercialization.,positive,0.8542207479476929
+2016-12-13,Google Parent Company Spins Off Self-Driving Car Business,negative,-0.7416715025901794
+2016-12-14,"The government proposed rules requiring new cars and small trucks to transmit speed, location and direction data, and Alphabet is spinning off its self-driving project.",neutral,-0.03102009743452072
+2016-12-14,Daily Report: When Cars and Tech Repeatedly Collide,negative,-0.7928275465965271
+2016-12-16,Both Android and iOS have parental control features and apps to help parents manage their offspring’s mobile experience.,neutral,0.015189995989203453
+2016-12-16,Choosing a Child’s First Smartphone,neutral,-0.0176355242729187
+2016-12-17,"Facebook fights fake news, and Google picks a funny name for its car business.",neutral,-0.3423547148704529
+2016-12-17,Farhad’s and Daisuke’s Week in Tech: Is Google’s Waymo Way Better?,neutral,0.19636653363704681
+2016-12-20,"Silicon Valley, with Google and Tesla, is developing the smart cars of tomorrow, but the Detroit Three are working hard on self-driving projects in Michigan.",neutral,0.04050439968705177
+2016-12-20,Silicon Valley Dominating Self-Driving Tech?,neutral,0.045238249003887177
+2016-12-20,Motor City Says Not So Fast,neutral,-0.22004738450050354
+2016-12-21,"Google’s mail program doesn’t use folders for organizing messages as some others do, but its label system has the same results.",neutral,0.02743474766612053
+2016-12-21,Use Labels to Sort Messages in Gmail,neutral,-0.047404322773218155
+2016-12-22,The Facebook-owned messaging tool has become a vital link between countries even as some nations try to restrict its use.,neutral,0.2105848342180252
+2016-12-22,Daily Report: WhatsApp Is Embraced by World’s Immigrants,neutral,0.28860583901405334
+2016-12-25,The rapid expansion of internet-connected devices will put even more power in the hands of a few companies with the biggest cloud services.,neutral,0.4315297305583954
+2016-12-25,Why the Computing Cloud Will Keep Growing and Growing,neutral,0.1395011842250824
+2016-12-28,"You don’t have to use the Google Play store on your mobile device to get software, as you can shop and even install apps from the computer’s browser.",neutral,-0.011186271905899048
+2016-12-28,Shopping for Android Apps on the Web,neutral,-0.09837304055690765

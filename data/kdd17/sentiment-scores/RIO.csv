@@ -1,0 +1,754 @@
+Date,Sentence,Prediction,sentimentScore
+2007-02-13,Shares of Alcoa rose in premarket trading Tuesday after The Times of London reported that two British-Australian mining giants were considering buying the aluminum producer.,positive,0.8852027654647827
+2007-02-13,"The paper said that BHP Billiton and Rio Tinto have begun examining the possibilities of a $40 billion buyout of the Pittsburgh-based company, while Alcoa has separately drawn up a list of chief executive candidates.",neutral,0.04567122831940651
+2007-02-13,Report Stokes Speculation About Alcoa Takeover,negative,-0.5265836119651794
+2007-02-14,"Speculation that mining giants BHP Billiton and Rio Tinto are both circling U.S. aluminum producer Alcoa has, unsurprisingly, turned industry watchers’ attention to other possible takeover targets in the industry.",negative,-0.6952809691429138
+2007-02-14,Takeover Speculation Heats Up Aluminum Sector,neutral,-0.06404518336057663
+2007-02-22,"President Robert Mugabe of Zimbabwe, below, said he plans to take control of the nation’s diamond mines in response to allegations of smuggling and a diamond rush in the eastern district of Marange.",negative,-0.723565936088562
+2007-02-22,"Zimbabwe has two diamond mines, one known as Murowa, owned by Rio Tinto and RioZim, and the other as River Ranch, which is held by private investors.",neutral,-5.254708230495453e-05
+2007-02-22,"“Only government will mine diamonds,” Mr. Mugabe said in a televised interview on Tuesday.",neutral,0.040855929255485535
+2007-02-22,"It is unclear whether Mr. Mugabe’s pronouncement will be made law, said David Murangari, chief executive of the Chamber of Mines, a business association that represents most mining companies in the country.",neutral,0.043283142149448395
+2007-02-22,"Andrew Cranswick, chief executive of African Consolidated Resources, criticized the measure.",negative,-0.8334750533103943
+2007-02-22,"“If the state takeover of diamond mines is passed into law, it will destroy diamond exploration in this country,” he said.",negative,-0.9046109318733215
+2007-02-22,Zimbabwe: Takeover of Diamond Mines,neutral,-0.1438581347465515
+2007-03-02,"Shares of Alcan, the world’s second-biggest aluminum producer, rose the most in two weeks on speculation Brazil’s Compahnia Vale do Rio Doce may make a takeover bid.",positive,0.7814418077468872
+2007-03-02,"Alcan, based in Montreal, climbed C$2.05, or 3.4 percent, to C$62.87 ($53.62) a share after a Brazilian newspaper, reported that C.V.R.D., the world’s largest iron-ore producer, may bid.",positive,0.8874106407165527
+2007-03-02,"Alcan and Alcoa, the world’s largest aluminum producer, repeatedly have been the subjects of takeover speculation amid consolidation in the mining industry.",neutral,-0.13392281532287598
+2007-03-02,C.V.R.D.,neutral,0.030498381704092026
+2007-03-02,Reportedly Eyeing Alcan,neutral,0.020526938140392303
+2007-03-28,"Manufacturers are drawn to Juárez, Mexico, which has both low-cost Mexican labor and easy access to the U.S. market.",positive,0.4851231575012207
+2007-03-28,2 Cities and 4 Bridges Where Commerce Flows,neutral,0.028397373855113983
+2007-04-05,"Google agreed to make it easier to remove offensive content posted on its Orkut social-networking site, heeding requests from prosecutors in Brazil.",positive,0.6667224168777466
+2007-04-05,"Google will set up a page on Orkut where prosecutors will send requests to remove content, the Rio de Janeiro state prosecutor’s office said.",negative,-0.49896395206451416
+2007-04-05,"In Brazil, where Orkut is the most-used social networking site, prosecutors complained last year that the company was taking too long to comply with their demands to eliminate some material on the site.",negative,-0.9362282156944275
+2007-04-05,"Google, based in Mountain View, Calif., said it had added workers to review reports of offensive or illegal content, along with special tools for law enforcement to expedite reviews.",positive,0.4106329083442688
+2007-04-05,Brazil: Google Steps Up Oversight,neutral,0.36625975370407104
+2007-04-05,"The Lundin Mining Corporation, a Canadian mining company operating in Europe, said it had agreed to acquire Rio Narcea Gold Mines for 993 million Canadian dollars ($858 million) to take advantage of record nickel prices.",positive,0.7625865936279297
+2007-04-05,"Lundin offered 5 Canadian dollars for each share of Rio Narcea, 3.7 percent higher than its closing price on Tuesday, and 1.03 Canadian dollars per warrant, Colin Benner, the vice chairman of Lundin, said in a conference call.",positive,0.44786691665649414
+2007-04-05,"The company plans to increase Rio Narcea’s nickel and copper operation in southern Spain and might sell its gold mine in Mauritania, it said.",positive,0.8633942604064941
+2007-04-05,"Rio Narcea is based in Toronto, and Lundin is based in Vancouver, British Columbia.",neutral,0.001756478101015091
+2007-04-05,Canada: Acquisition by Mining Company,neutral,-0.03822042793035507
+2007-04-05,"Lundin Mining, a Canadian mining company operating in Europe, said it had agreed to acquire Rio Narcea Gold Mines for 993 million Canadian dollars ($858 million) to take advantage of record nickel prices.",positive,0.7569596767425537
+2007-04-05,"Lundin offered 5 Canadian dollars for each share of Rio Narcea, 3.7 percent higher than its closing price on Tuesday, and 1.03 Canadian dollars per warrant, Colin Benner, the vice chairman of Lundin, said in a conference call.",positive,0.44786691665649414
+2007-04-05,"The company plans to increase Rio Narcea’s nickel and copper operation in southern Spain and might sell its gold mine in Mauritania, it said.",positive,0.8633942604064941
+2007-04-05,"Rio Narcea is based in Toronto, and Lundin is based in Vancouver, British Columbia.",neutral,0.001756478101015091
+2007-04-05,Lundin Mining Acquires Rio Narcea Gold Mines,neutral,0.08285936713218689
+2007-05-01,Octavio Frias de Oliveira built one of Brazil’s biggest and most influential media empires.,neutral,0.4628441035747528
+2007-05-01,"Octavio Frias, 94, Brazilian Media Executive, Dies",neutral,-0.1960810124874115
+2007-05-09,"Days after an analyst’s report suggested that BHP Billiton, the Australian mining company, could become a target for private equity buyers, speculation surfaced that the company is considering a bid for a rival, the Rio Tinto Group.",neutral,0.12679870426654816
+2007-05-09,Rumors of BHP Bid for Rio Tinto Send Shares Soaring,negative,-0.5151024460792542
+2007-05-15,"Wine is now being made in nontraditional areas like Brazil’s desert, challenging centuries-old grape myths.",neutral,0.282240629196167
+2007-05-15,Napa Valley?,neutral,-0.04140736162662506
+2007-05-15,Bordeaux?,neutral,-0.05031723529100418
+2007-05-15,"No, but Still Wine Country",neutral,0.043848831206560135
+2007-05-18,"The Rio Tinto Group, a mining company that is a major producer of coal, will join BP to develop power generation plants that will pump their carbon dioxide emissions underground to help curb global warming.",positive,0.645457923412323
+2007-05-18,"The companies said Thursday that Rio would pay BP $32 million for a 50 percent stake in a new company, to be called Hydrogen Energy.",neutral,0.13358841836452484
+2007-05-18,BP will fold its carbon capture and storage operations into the new entity.,neutral,0.048904817551374435
+2007-05-18,BP and Rio Tinto Team Up for Venture,neutral,0.4024873673915863
+2007-06-21,"Alcan, seeking to fend off a $27.7 billion hostile bid from Alcoa, has given BHP Billiton and Rio Tinto Group access to its financial data, according to The Sydney Morning Herald.",positive,0.650833785533905
+2007-06-21,"Alcan Opens Books to BHP and Rio Tinto, Report Says",positive,0.6393594145774841
+2007-07-06,"Rio Tinto, the world’s second-largest mining group, has hired Credit Suisse and Deutsche Bank to advise it on a range of options, including a possible bid for the Canadian aluminum company Alcan, The Telegraph reported, citing unnamed sources.",neutral,0.07405179738998413
+2007-07-06,Alcan is currently fending off a hostile bid from Alcoa of the United States.,negative,-0.1979151964187622
+2007-07-06,Rio Tinto Said to Explore Bid for Alcan,neutral,0.0947534367442131
+2007-07-11,Alcoasaid Tuesday that it had signed for a $30 billion credit facility that would help it pay for Alcan shares.,positive,0.8670449256896973
+2007-07-11,"However, it may be too late: The Canadian Press reported late Tuesday that Alcan has begun negotiating with Rio Tinto over a possible merger.",positive,0.5641275644302368
+2007-07-11,Alcoa Lines Up Financing for Alcan Bid — but Is It Too Late?,neutral,-0.3872169554233551
+2007-07-12," The mining giant Rio Tinto has offered to buy the Canadian aluminum company Alcan for $38.1 billion, the companies said Thursday, in a friendly takeover that counters a hostile bid by United States-based Alcoa.",positive,0.801519513130188
+2007-07-12,Rio Tinto Rides in With $38 Billion Alcan Bid,positive,0.47256869077682495
+2007-07-13,"The $101-a-share Rio Tinto bid represents a 32.8 percent premium to Alcoa’s hostile offer of $76.03 a share, potentially making it difficult for Alcoa to increase its bid.",negative,-0.02379027009010315
+2007-07-13,Alcan Gets $38 Billion Takeover Bid,neutral,0.24868477880954742
+2007-07-13,"The $101-a-share Rio Tinto bid represents a 32.8 percent premium to Alcoa’s hostile offer of $76.03 a share, potentially making it difficult for Alcoa to increase its bid.",negative,-0.02379027009010315
+2007-07-13,Alcan Endorses $38.1 Billion Bid From Rio Tinto,positive,0.5807518362998962
+2007-07-13,"With Thursday’s news that Rio Tinto had emerged victorious in the bid to acquire Alcan, that company’s losing suitor now has some tough choices to make.",negative,-0.7359520196914673
+2007-07-13,"TheDeal.com pointed out Thursday evening that Alcoa, though valiantly having tried to ensure its survival via a merger with Alcan, could now be ripe for a takeover.",neutral,0.37444061040878296
+2007-07-13,Will Alcoa Go from Hunter to Hunted?,neutral,0.04937542974948883
+2007-07-13,"A fight is brewing over the role played by Bank of America in Rio Tinto‘s $38.1 billion offer for Alcan, The Daily Telegraph reported Friday.",negative,-0.8884337544441223
+2007-07-13,BofA is believed to have been part of the original funding consortium but withdrew last weekend leaving Rio’s advisers at Deutsche Bank to arrange last-minute financing.,neutral,-0.28601330518722534
+2007-07-13,Banks Fume Over BofA’s Role in Alcan Deal,negative,-0.6261010766029358
+2007-07-14,"Conrad Black was found guilty while stocks soared, Alcan agreed to a buyout, and Whole Foods’ C.E.O.",neutral,0.06681428849697113
+2007-07-14,was revealed to have posted online under a pseudonym.,neutral,-0.31149527430534363
+2007-07-14,"A Verdict, a Deal and an Online Masquerade Exposed",neutral,-0.0012097060680389404
+2007-07-24,I’m a 46-year-old software engineer and manager who has traveled to five continents for both business and pleasure.,neutral,0.053069327026605606
+2007-07-24,My hobby is nature and wildlife photography.,neutral,0.0017140209674835205
+2007-07-24,So I have taken trips to exotic places like Tanzania for a safari and Cambodia to visit the Prek Toal nature reserve on the Tonle Sapp.,neutral,-0.0049111805856227875
+2007-07-24,The Goal: To Survive World Cup Mania,neutral,0.13857446610927582
+2007-07-25,Rio Tinto’s  recent offer of $38.1 billion for Alcan may be a sign that aluminum is no longer an estranged cousin in the mining industry.,negative,-0.40888792276382446
+2007-07-25,Aluminum: Quarry for Mining Companies,neutral,-0.02639433741569519
+2007-07-25,"The recent offer of $38.1 billion for the aluminum giant Alcan by Rio Tinto, a British-Australian diversified mining company known for commodities like iron ore, may not be the end of the aluminum deal making.",neutral,-0.22797998785972595
+2007-07-25,"Alcoa, which was outbid by Rio Tinto and withdrew its hostile offer for Alcan, may itself become a target, The New York Times reports.",negative,-0.6717221736907959
+2007-07-25,Will Alcoa Be Mining Companies’ Next Quarry?,neutral,0.0017755292356014252
+2007-08-01,"Robert M. Godsell, the chief executive of AngloGold Ashanti, plans to retire after running the company since its creation in 1998 and helping it become the world’s third-biggest gold producer with operations in 10 countries.",neutral,0.06769046932458878
+2007-08-01,"Mr. Godsell, left, who will step down on September 30, will be succeeded by Mark Cutifani, the chief operating officer of Companhia Vale do Rio Doce’s nickel unit, AngloGold said.",neutral,0.011184995993971825
+2007-08-01,"Mr. Godsell, 54, was the chief executive of Anglo American’s gold and uranium division from 1995 before taking over as head of AngloGold, a company formed by a merger of Anglo American’s separately traded gold companies and the gold assets of Minorco.",neutral,0.024688906967639923
+2007-08-01,Other acquisitions included Ashanti Goldfields of Ghana.,neutral,0.04415661096572876
+2007-08-01,South Africa: Anglogold’s Chief to Retire,neutral,-0.05829842388629913
+2007-08-22,"Despite the difficulties companies have had recently in raising debt for buyouts, at least one acquiror has found little trouble in doing so.",neutral,0.08455447852611542
+2007-08-22,"Britain’s Rio Tinto has raised $40 billion to fund its takeover of Alcan, the Canadian aluminum producer, The Financial Times reported Wednesday.",positive,0.8058414459228516
+2007-08-22,Rio Tinto Eludes Debt Difficulties with Alcan Fundraising,neutral,0.20150484144687653
+2007-08-27,"Rio Tinto plans to extend its $38.1 billion takeover offer for Canadian aluminum giant Alcan, giving it more time to obtain regulatory approvals.",positive,0.8877641558647156
+2007-08-27,Rio Tinto Extends Alcan Bid,neutral,0.1257387101650238
+2007-09-06,"Shares of the mining giant Rio Tinto were up sharply Thursday on market speculation that it might be taken over by two rivals, BHP Billiton and Companhia Vale do Rio Doce.",positive,0.7539033889770508
+2007-09-06,Rio Tinto Shares Rise on Rumors of a Two-Pronged Bid,positive,0.35202348232269287
+2007-09-28,"The global miner Rio Tinto will not rule out raising capital to maintain its A credit rating as it prepares to spend $38.1 billion to take over the Canadian aluminum producer Alcan, its chief executive, Tom Albanese, said on Friday.",positive,0.6037979125976562
+2007-09-28,"With Alcan Takeover Near, Rio Tinto Considers Asset Sales",neutral,0.03971461206674576
+2007-11-08,BHP Billiton said Thursday that it had approached Rio Tinto about a potential takeover that would create a global mining giant worth about $360 billion.,positive,0.6572237610816956
+2007-11-08,"Rio rejected its offer, but BHP added that it would continue to press for a deal, which would rank among the largest mergers in history.",positive,0.49350976943969727
+2007-11-08,Rio Tinto Rejects $140 Billion Takeover Bid,neutral,0.12680110335350037
+2007-11-08,"It’s hardly a done deal, but if BHP Billiton succeeds in acquiring its rival mining giant Rio Tinto, it would be a tie-up for the record books.",neutral,0.3340228199958801
+2007-11-08,"Deal price tags have not been this high since 2000, a banner year for megamergers that brought us the union of America Online and Time Warner.",neutral,0.18213045597076416
+2007-11-08,Mining for a Blockbuster Merger,neutral,0.025567643344402313
+2007-11-08,Rumors of a BHP Billiton–Rio Tinto mining megamerger were percolating for months before BHP said Thursday it had made a formal approach.,negative,-0.43863487243652344
+2007-11-08,"But after looking at the recent trading in Rio Tinto’s stock options, one analyst speculated that someone may have had advance notice that an offer was coming.",positive,0.4857097566127777
+2007-11-08,Who Struck Gold in Rio Tinto’s Options?,neutral,0.008244261145591736
+2007-11-09,"Rio Tinto, the London- and Melbourne-based mining company, rejected a $140 billion bid Thursday from its rival, BHP Billiton — calling it too low.",negative,-0.9265323877334595
+2007-11-09,Mine Giant Rejects Bid From Rival,negative,-0.6658674478530884
+2007-11-09,"Rio Tinto‘s rejection of a $140 billion all-share offer from BHP Billiton is likely to trigger rival bids from resource companies awash with cash from record commodity and stock prices, analysts said.",negative,-0.15169543027877808
+2007-11-09,BHP’s Rejected Offer for Rio May Trigger Bidding War,negative,-0.9136617183685303
+2007-11-10,"BHP Billiton, the world’s largest mining company, sees demand from China fueling a long-term run in commodities prices, and intends to continue its quest to buy rival Rio Tinto.",positive,0.7199926972389221
+2007-11-10,"In Mine Bid, BHP Again Takes the Long View",neutral,0.1680692732334137
+2007-11-12,"BHP Billiton on Monday mapped out its plan for acquiring rival Rio Tinto, promising to hand shareholders $30 billion via a share buyback if the deal goes through, in the hope of drawing Rio’s board into talks.",positive,0.7137644290924072
+2007-11-12,BHP Outlines Details of Rio Tinto Bid,neutral,0.02508857287466526
+2007-11-13,"Yet BHP Billiton, whose $153 billion takeover offer for rival Rio Tinto was rejected by the target’s board, stopped short of making a hostile bid for Rio.",negative,-0.7349998950958252
+2007-11-13,BHP Takes Buyout Plan to Shareholders of Rival,neutral,0.07122400403022766
+2007-11-13,"BHP Billiton, whose $153 billion takeover offer for a rival mining company, Rio Tinto, was rejected by the target’s board, took its case to shareholders Monday, detailing what it said would eventually be $3.7 billion in annual savings and holding out the promise of $30 billion in payouts if the deal goes ahead.",positive,0.5049748420715332
+2007-11-13,BHP Takes Buyout Plan to Shareholders of Rival,neutral,0.07122400403022766
+2007-11-16,"Shares in BHP Billiton rose as much as 2.4 percent on Friday, bucking the trend in a broadly falling stock market, following a report that Rio Tinto was considering a counterbid for its BHP.",positive,0.8988903760910034
+2007-11-16,Rio Tinto Said to Mull Pac-Man Defense Against BHP,neutral,-0.270724892616272
+2007-11-20,"Rio Tinto is considering offering joint ventures with BHP Billiton as an alternative to BHP’s proposed $140 billion takeover, The Telegraph reported.",neutral,0.3778672218322754
+2007-11-20,"Rio Tinto May Offer BHP an Alliance, Report Says",positive,0.6117917895317078
+2007-11-26,"Almost three weeks after rejecting a takeover proposal from BHP Billiton, Rio Tinto laid out its case today for why it thinks its shareholders should hold out for a better offer.",neutral,0.15023581683635712
+2007-11-26,Rio Tinto Defends Rejection of Bid,neutral,0.19936031103134155
+2007-11-26,"The mining giant Rio Tinto promoted its assets and growth prospects Monday as it moved to justify its earlier rejection of a takeover proposal from a rival, BHP Billiton, a multibillion dollar deal that would be among the world’s largest buyouts.",positive,0.805537760257721
+2007-11-26,Rio Tinto Defends Rejection of BHP Billiton,neutral,0.17724107205867767
+2007-11-27,"Almost three weeks after rejecting a takeover proposal from BHP Billiton, Rio Tinto laid out its case Monday for why it thinks its shareholders should hold out for a better offer.",neutral,0.06456084549427032
+2007-11-27,Rio Tinto Defends Rejection of Bid,neutral,0.19936031103134155
+2007-11-27,"While Rio Tinto continued Monday to outline why a $153 billion takeover proposal from rival mining company BHP Billiton was not in its best interests, the company nevertheless seemed to signal that it was receptive to suitors.",positive,0.6851187944412231
+2007-11-27,Rio Tinto Is Open to Offers — at the Right Price,neutral,0.2010534703731537
+2007-11-29,"BHP Billiton, the world’s largest mining company, should increase its $132 billion proposal to win over shareholders of rival Rio Tinto Group or drop the takeover bid, RBC Capital Markets said.",positive,0.2520536184310913
+2007-11-29,Analyst to BHP: Raise Rio Bid or Ditch It,negative,-0.43541616201400757
+2007-12-03,"The market value of mining giant Rio Tinto continues to outstrip the multibillion dollar bid put forward by rival BHP Billiton, Rio’s Chief Executive Tom Albanese said Sunday.",positive,0.6425632834434509
+2007-12-03,"Market Has Spoken on BHP Bid, Rio Chief Says",neutral,0.12302186340093613
+2007-12-04,"Top China steelmaker Baosteel is weighing a bid to counter BHP Billiton‘s $125 billion takeover offer for Rio Tinto Group, Baosteel Chairman Xu Lejiang told a Chinese business newspaper.",neutral,0.3574383854866028
+2007-12-04,Baosteel Chief Said to Mull Rio Counter-Bid,neutral,-0.2906055450439453
+2007-12-06,"The chairman of Baosteel Group, China’s biggest steelmaker, has denied his company plans to lead a bid for mining giant Rio Tinto, saying the company lacks the resources to do so, reports said Thursday.",negative,-0.8970276713371277
+2007-12-06,Baostell Chief Said to Deny Rio Tinto Counterbid,neutral,-0.36876288056373596
+2007-12-10,Update: The Blackstone Group in a statement (PDF) Monday denied the rumor.,negative,-0.6282780766487122
+2007-12-10,Bad Rumor: Blackstone’s ‘Bid’ for Rio Tinto,negative,-0.7515254020690918
+2007-12-11,"The Rio Tinto Group, the mining company, said Tuesday that it had asked British regulators to force its competitor BHP Billiton to turn its $139 billion takeover proposal into a formal bid or to drop the offer.",negative,-0.9054825305938721
+2007-12-11,Rio Tells BHP to Put Up or Shut Up,negative,-0.6593492031097412
+2007-12-12,"BHP Billiton said on Wednesday it was considering possible next moves in its attempt to open takeover talks with a rival mining company, Rio Tinto, which has so far rebuffed its overtures.",negative,-0.788926362991333
+2007-12-12,BHP Considers Next Move in Rio Tinto Bid,neutral,0.033001504838466644
+2008-01-11,A huge underwater oil field discovered late last year has the potential to transform Brazil into a sizable exporter and win it a seat at the table of the world’s oil cartel.,positive,0.8995007276535034
+2008-01-11,Hot Prospect for Oil’s Big League,neutral,0.008858531713485718
+2008-01-22,"The world’s largest producer of iron ore, Companhia Vale do Rio Doce of Brazil, said it was in talks with a rival, Swiss-based Xstrata, about a merger.",neutral,0.3561508059501648
+2008-01-22,Brazil’s Vale Confirms Talks to Merge With Xstrata,neutral,0.19488725066184998
+2008-01-22,The Brazilian state oil company said it had discovered a natural gas reserve off the coast of Rio de Janeiro that could be as big as the recently discovered giant Tupi oil field.,positive,0.7284222841262817
+2008-01-22,"The company, Petróleo Brasileiro, said the potential reserves were about three miles below the surface of the Atlantic Ocean, 23 miles west of the Tupi field.",neutral,-0.07784204185009003
+2008-01-22,The release did not provide figures as to the size of the reserve but said its structure could have dimensions that are similar to Tupi’s.,neutral,0.05850750952959061
+2008-01-22,"Late last year, Petrobras announced the discovery of as much as eight billion barrels of light crude oil in the ultra-deep Tupi field.",neutral,0.2739785313606262
+2008-01-22,Brazil: Gas Field Discovered,neutral,0.0038594286888837814
+2008-01-22,"Companhia Vale do Rio Doce, the world’s largest producer of iron ore, said on Monday that it was in talks with a rival, Xstrata, about a merger.",neutral,0.4147387742996216
+2008-01-22,Brazil’s Vale Confirms Talks to Merge With Xstrata,neutral,0.19488725066184998
+2008-01-28,"Xstrata, the world’s fourth-largest copper producer, rose to a three-week high in London trading after newspaper reports that Companhia Vale do Rio Doce may agree to buy the company within the next few days.",positive,0.8524056077003479
+2008-01-28,"Xstrata Close to Vale Bid, Report Says",neutral,0.09374013543128967
+2008-01-30,"As BHP Billiton mulls its next move for Rio Tinto after having its first overture for the miner rebuffed, the latter’s advisers have apparently been busy checking out BHP’s books.",negative,-0.7488775253295898
+2008-01-30,Rio Advisers Say BHP Could Pay a Lot More,neutral,-0.2636158764362335
+2008-02-01,The move was an apparent effort to head off a huge mining merger that China feared could drive up prices.,neutral,-0.05295407772064209
+2008-02-01,China and Alcoa Buy Stake in Rio Tinto,neutral,0.19508276879787445
+2008-02-01,"China has muscled in on miner BHP Billiton‘s attempts to buy rival Rio Tinto, with its biggest aluminum producer teaming up with U.S. group Alcoa to buy a 12 percent stake in Rio.",neutral,0.1889226883649826
+2008-02-01,Chinalco Teams With Alcoa to Take Stake in Rio Tinto,positive,0.48303714394569397
+2008-02-02,The move underscored the strategic significance of mining in a resource-stretched age as well as China’s formidable and still largely untapped economic might.,positive,0.8769137263298035
+2008-02-02,Alcoa and Chinese Rival Buy 12% Stake in Rio Tinto,neutral,0.20826587080955505
+2008-02-04,BHP Billiton must decide by Wednesday if it will proceed with a bid for Rio Tinto after China intervened with a strategic investment that could sharply increase the price of the merger.,positive,0.34864312410354614
+2008-02-04,BHP Weighs Options in Rio Tinto Bid,neutral,0.008690416812896729
+2008-02-04,"BHP Billiton, the world’s largest mining company, must raise its $127 billion bid for the Rio Tinto Group to at least match the price Aluminum Corporation of China paid for its stake, Bloomberg News reported citing investors and analysts.",positive,0.8816613554954529
+2008-02-04,BHP May Need to Match Chinalco Bid for Rio,neutral,0.40075865387916565
+2008-02-05,A move by China in a possible mining deal could sharply increase the price of what would be one of the biggest mergers in corporate history.,positive,0.7380762100219727
+2008-02-05,BHP Weighs Options in Rio Tinto Bid,neutral,0.008690416812896729
+2008-02-05,"The world’s biggest mining company, BHP Billiton, must decide by Wednesday whether it will proceed with a bid for a rival, the Rio Tinto Group, after China intervened with a strategic investment that could sharply increase the price of what would be one of the biggest mergers in corporate history.",positive,0.2365843951702118
+2008-02-05,BHP Weighs Options in Rio Tinto Bid,neutral,0.008690416812896729
+2008-02-05,"After months of posturing, BHP Billiton finally unveiled a $147.4 billion offer for the Rio Tinto Group in what would be one of the largest mergers in history.",positive,0.7129493355751038
+2008-02-05,BHP Makes $147 Billion Offer for Rio Tinto,neutral,0.35979217290878296
+2008-02-06,The mine’s board said BHP Billiton’s improved takeover offer of about $147 billion still undervalues the company significantly.,negative,-0.5615664720535278
+2008-02-06,Rio Tinto Rejects Latest Offer,negative,-0.5712460279464722
+2008-02-06,The battle over Rio Tinto intensified after BHP Billiton increased its takeover offer to about $147 billion after a Chinese rival bought a stake last week.,positive,0.5509196519851685
+2008-02-06,BHP Billiton Launches Hostile Bid for Rio Tinto,neutral,-0.14303787052631378
+2008-02-06,BHP Billiton is hoping its increased $147 billion takeover offer for Rio Tinto is enough to bring the board to the table.,positive,0.8179189562797546
+2008-02-06,Will $147 Billion Be Sweet Enough For Rio Tinto?,neutral,0.28696107864379883
+2008-02-06,"Merrill Lynch, dropped as an adviser and financier to the Brazilian mining company Vale, has re-emerged in the mining sector as a lender to BHP Billiton, which raised its bid for a rival, Rio Tinto.",neutral,-0.09212703257799149
+2008-02-06,Merrill Gets In on Another Big Mining Deal,neutral,0.10872239619493484
+2008-02-06,It’s BHP Billiton‘s move again.,neutral,0.370694100856781
+2008-02-06,Rio Tinto Rejects BHP a Second Time,negative,-0.4783184826374054
+2008-02-07,The board of the mining company said BHP Billiton’s improved takeover offer of about $147 billion still undervalues the company significantly.,negative,-0.4928450882434845
+2008-02-07,Rio Tinto Rejects Latest Offer,negative,-0.5712460279464722
+2008-02-08,"Brazil’s state development bank BNDES sees no reason to oppose an attempt by a local mining company, Companhia Vale do Rio Doce to buy a Swiss-based rival, Xstrata, the bank’s president said Thursday, signaling that the bid is unlikely to be blocked by the government.",negative,-0.8167567253112793
+2008-02-08,Brazil State Bank Won’t Oppose Vale Bid for Xstrata,neutral,-0.1915891468524933
+2008-02-08,"By its sheer size alone, BHP Billiton‘s $147 billion dollar “hostile” offer for Rio Tinto is a landmark deal.",positive,0.7726273536682129
+2008-02-08,"If successful, it would be one of the largest cross-border takeovers in history and would create a global mining behemoth.",neutral,0.27545806765556335
+2008-02-08,But the transaction is also a deal lawyer’s dream.,neutral,0.1725969761610031
+2008-02-08,The Wonderful Complexity of BHP-Rio Tinto,neutral,0.15489548444747925
+2008-02-14,"Rio Tinto again rebuffed a hostile takeover bid by its larger rival, BHP Billiton, saying that there was “clear water” between BHP’s sweetened $147 billion bid and its fair value.",negative,-0.5693590044975281
+2008-02-14,"As Profits Rise, Rio Again Rebuffs BHP",negative,-0.30412280559539795
+2008-02-20,"CNBC interviews Tom Albanese, chief executive of Rio Tinto, on his company's rejection of BHP Billiton's offer to buy it.",negative,-0.5606080293655396
+2008-02-20,Rio Tinto Chief on BHP Buyout Bid,neutral,0.12465246766805649
+2008-02-21,"Rio Tinto’s stance could pressure Chinese steel makers, who are major customers, and may signal the beginning of the end for the benchmark system of iron ore pricing.",negative,-0.9252924919128418
+2008-02-21,Rio Tinto May Break With Other Producers on Iron Ore Price,negative,-0.8183738589286804
+2008-02-22,"The Chinese aluminum company Chinalco, which this year led a $14 billion acquisition of 12 percent of Rio Tinto, said in remarks in an influential magazine that it will continue to seek acquisitions abroad.",neutral,0.40421414375305176
+2008-02-22,"After Rio Move, Chinalco Mulls More Acquisitions",negative,-0.49295857548713684
+2008-02-27,"The Chinese aluminum giant Chinalco, which led a $14-billion investment in the global miner Rio Tinto, has not increased its Rio Tinto holding, despite an agreement that allows them to buy more, according to Reuters.",positive,0.8015403747558594
+2008-02-27,Chinalco Said to Weigh Options in Rio Tinto Stake,neutral,0.05349373072385788
+2008-02-28,"A dispute over marketing rights held by the biggest shareholder of the mining group Xstrata is threatening a possible $90 billion takeover by Brazil’s Companhia Vale do Rio Doce, Reuters reported citing an unnamed source.",negative,-0.8957470059394836
+2008-02-28,Xstrata Investor Said to Threaten Vale Bid,negative,-0.7655046582221985
+2008-03-03,"Xstrata said on Monday it was still in deal talks with Companhia Vale do Rio Doce of Brazil after reporting that its profit more than tripled for the year, helped by the $18 billion acquisition of Falconbridge and by ravenous emerging-markets demand for metals.",positive,0.8963897824287415
+2008-03-03,Xstrata Says Vale Talks Continue,neutral,0.046155545860528946
+2008-03-04,"The mining giant BHP Billiton has approached sub-underwriting banks in an effort to secure a record $55 billion loan to back its hostile bid for its rival Rio Tinto, according to Reuters.",positive,0.7485366463661194
+2008-03-04,BHP Billiton in Talks for Record $55 Billion Loan,neutral,0.08473260700702667
+2008-03-05,"Chinalco‘s recent purchase of a stake in Rio Tinto, the world’s second-largest mining company, reinforces Rio’s rejection of BHP Billiton‘s hostile takeover bid on the grounds that the bid undervalues the firm, Rio Tinto’s chief executive said on Wednesday according to Reuters.",negative,-0.47975611686706543
+2008-03-05,Rio C.E.O.,neutral,0.044860489666461945
+2008-03-05,Says China Stake Purchase Shows Company’s Value,neutral,0.2345784306526184
+2008-03-27,"BHP Billiton, which is bidding $133 billion for Rio Tinto Group, will seek talks with Aluminum Corporation of China after the latter bought a potential blocking stake in Rio Tinto last month.",neutral,0.1556178331375122
+2008-03-27,BHP Seeks Talks With Chinalco on Rio Tinto,neutral,0.13410688936710358
+2008-05-02,"The market is assigning long odds BHP Billiton will succeed in its bid to acquire Rio Tinto amid growing fear regulators will block the tie up between the world’s first and third-largest miners, The Wall Street Journal reported.",negative,-0.510357141494751
+2008-05-02,"Investors Betting Against BHP’s Rio Bid, Report Says",positive,0.06085801124572754
+2008-05-02,Investors are clearly skittish about BHP Billiton‘s $162 billion hostile bid for rival mining monster Rio Tinto.,negative,-0.9324820637702942
+2008-05-02,"Rio Tinto’s market value has sunk relative to BHP’s in recent days, giving back much of the premium investors had originally pumped into Rio Tinto’s shares.",negative,-0.9661596417427063
+2008-05-02,Regulatory concerns are a major issue.,neutral,-0.08618346601724625
+2008-05-02,"But a growing valuation gap may also be working against this deal, which, if completed, would rank among the largest takeovers in history.",positive,0.630483090877533
+2008-05-02,Digging Into the Numbers in a Mining Deal,neutral,-0.043218016624450684
+2008-05-14,"BHP Billiton was not ruling out adding cash to its all-share hostile offer for rival Rio Tinto, BHP’s chief executive, Marius Kloppers, told CNBC.",neutral,0.22952204942703247
+2008-05-14,"BHP Won’t Rule Out Adding Cash to Rio Bid, Chief Says",neutral,0.2907467186450958
+2008-05-28,"The Brazilian billionaire Eike Batista, below, is planning a 5.59 billion real ($3.37 billion) initial public offering of OGX Petroleo e Gas Participacoes.",neutral,0.032019540667533875
+2008-05-28,Brazil: Oil Company Planning to Sell Shares,neutral,-0.0008155908435583115
+2008-05-28,"The Brazilian billionaire Eike Batista is planning a 5.59 billion real ($3.37 billion) initial public offering of OGX Petroleo e Gas Participacoes, betting the country’s recent oil finds will lure investors who snubbed other offerings this year.",neutral,0.3451860249042511
+2008-05-28,Mr. Batista founded Rio de Janeiro-based OGX less than a year ago.,neutral,0.029397476464509964
+2008-05-28,Brazilian Oil Company Seeks $3.37 Billion in I.P.O.,neutral,0.0772189274430275
+2008-06-06,"Pursuing its $167 billion takeover of Rio Tinto Group, BHP Billiton has made a submission to the Australian competition regulator seeking approval for the hostile bid, Bloomberg reported.",neutral,0.3047826886177063
+2008-06-06,BHP Asks Australian Regulator for Rio Tinto Approval,neutral,0.03236662596464157
+2008-06-12,"BHP Billiton on Thursday took its case for a takeover of rival Rio Tinto to well-heeled investors on Thursday, saying a marriage could better capture markets in fast-industrializing Asian economies.",positive,0.8645806312561035
+2008-06-12,BHP Chief Makes His Case for Rio Deal,neutral,0.08499705046415329
+2008-06-30,"Lakshmi Mittal is looking at entering the takeover battle for the Rio Tinto mining group, The Financial Times reported on Monday, quoting people familiar with the situation.",neutral,0.03427949175238609
+2008-06-30,Mittal Said to Consider Bidding for Rio Tinto,neutral,0.06498292088508606
+2008-07-01,"Lakshmi Mittal did indeed consider buying a stake in bid target Rio Tinto to expand his interests in iron ore but has decided against it for now, sources familiar with the matter told Reuters.",neutral,-0.009652186185121536
+2008-07-01,"Mittal Not Interested in Rio Tinto, For Now",neutral,-0.08659865707159042
+2008-07-03,BHP Billiton said on Thursday that U.S. antitrust authorities had largely cleared its effort to acquire rival Rio Tinto for $170 billion.,positive,0.4362047612667084
+2008-07-03,BHP Clears Most U.S. Hurdles in Rio Tinto Pursuit,negative,-0.30529576539993286
+2008-07-05,European Union regulators extended an investigation into BHP Billiton’s hostile bid for the Rio Tinto Group because of “serious doubts” about the combination.,negative,-0.8813709020614624
+2008-07-05,Europe Delays Decision on Mining Company Merger,negative,-0.5578151941299438
+2008-07-15,Companhia Vale do Rio Doce will seek to raise about $15 billion in the biggest sale ever by a Brazilian company.,positive,0.5632277131080627
+2008-07-15,The share offering from the world’s largest iron-ore producer is set to be priced on Wednesday.,neutral,0.06190904974937439
+2008-07-15,Vale Looks to Raise $15 Billion in Offering,neutral,0.11169233173131943
+2008-07-17,The share sale of Companhia Vale do Rio Doce fell short of expectations at 18.4 billion reais ($11.5 billion) as commodities and oil stocks declined.,negative,-0.9645453691482544
+2008-07-17,Vale Share Sale Falls Below Expectations,negative,-0.862456738948822
+2008-08-08,"Rio Tinto, the target of a hostile bid from rival miner BHP Billiton, filed for an initial public offering of its North American coal business on Friday but said it is still considering other options.",neutral,-0.017116159200668335
+2008-08-08,Rio Tinto Unit Files to Sell Shares,neutral,-0.2077878713607788
+2008-08-19,"BHP Billiton reiterated its commitment to its bid for rival Rio Tinto, as the the world’s largest mining company posted record net income Monday.",positive,0.8887424468994141
+2008-08-19,"Posting Record Profits, BHP Keeps Its Eye on Rio",positive,0.6139732599258423
+2008-08-25,"Australia has approved Chinalco’s recent purchase of a minority stake in Anglo-Australian miner Rio Tinto, but warned the Chinese aluminum giant against buying more shares without prior approval.",positive,0.5497955679893494
+2008-08-25,Australia OKs Chinalco’s Rio Buy,neutral,-0.27688685059547424
+2008-08-26,"The global mining company said net income had more than doubled to $6.9 billion in the period, lifted by booming Asian demand for iron ore and the acquisition of Alcan.",positive,0.9372522234916687
+2008-08-26,Rio Tinto Posts Record First-Half Profit,positive,0.6622216105461121
+2008-08-27,"Rio Tinto, the global mining company, posted record first-half profit Tuesday, bolstering its effort to fend off a hostile takeover by BHP Billiton.",positive,0.8876320719718933
+2008-08-27,Rio Tinto’s Record First-Half Profit Helps in Battle With BHP,positive,0.45954662561416626
+2008-09-02,"The Chinese aluminum maker Chinalco may increase its minority stake in Rio Tinto if market conditions are right but has no timetable for such a move, its president said Monday.",positive,0.8244873881340027
+2008-09-02,Chinalco May Increase Rio Stake,neutral,0.26704052090644836
+2008-10-07,Emerging markets took one of their biggest collective tumbles in a decade as stock markets from Mexico to Indonesia to Russia were gripped by fears of a collapse.,negative,-0.922230064868927
+2008-10-07,Emerging Markets Find They Aren’t Insulated From the Tumult,negative,-0.7212045192718506
+2008-10-22,"Shares in Rio Tinto, the global mining giant, jumped 5 percent in a weak market on Wednesday, swept up by rumors ranging from a sweetened cash bid by BHP Billiton to a Chinese counterbid.",positive,0.31538569927215576
+2008-10-22,Rio Tinto Jumps on Bid Rumors,positive,0.6260350346565247
+2008-10-29,"The Japanese government will ask the European Union to block BHP Billiton‘s bid to take over Rio Tinto, on concerns that the deal would have an adverse effect on the country’s domestic steel market, Jiji Press reported.",negative,-0.9387933015823364
+2008-10-29,"Japan to Ask EU to Block BHP’s Rio Bid, Report Says",negative,-0.9434019923210144
+2008-11-04,BHP Billiton’s yearlong pursuit of its mining company rival Rio Tinto hit a major obstacle when the European antitrust authorities objected to the deal.,negative,-0.9301954507827759
+2008-11-04,Europe Questions Merger of Mining Companies,neutral,-0.04234661906957626
+2008-11-04,"BHP Billiton‘s yearlong pursuit of its mining company rival Rio Tinto hit a major obstacle on Tuesday when the European antitrust authorities objected to the deal, David Jolly of The New York Times reported from Paris.",negative,-0.9296823740005493
+2008-11-04,Europe Questions Merger of Mining Companies,neutral,-0.04234661906957626
+2008-11-05,"BHP Billiton‘s yearlong pursuit of its mining company rival Rio Tinto hit a major obstacle on Tuesday when the European antitrust authorities objected to the deal, The New York Times’s David Jolly reported.",negative,-0.9254823923110962
+2008-11-05,Europe Questions Merger of Mining Companies,neutral,-0.04234661906957626
+2008-11-25,"The world’s largest mining company abandoned its hostile bid to acquire its rival Rio Tinto, citing turmoil in the financial markets and regulatory concerns in Europe.",negative,-0.8630437850952148
+2008-11-25,"BHP Billiton, a Mining Giant, Ends Its Hostile Bid for Rio Tinto",negative,-0.3853733539581299
+2008-11-25,"BHP Billiton, the world’s largest mining company, on Tuesday abandoned its hostile bid to acquire its rival Rio Tinto, citing turmoil in the financial markets and regulatory concerns in Europe, The New York Times’s Bettina Wassener reported.",negative,-0.8886682987213135
+2008-11-25,BHP Billiton Ends Bid for Rio Tinto,neutral,-0.1511213481426239
+2008-11-25,"BHP Billiton‘s decision on Tuesday to abandon its huge hostile bid for Rio Tinto, a rival mining company, is a stinging hit for nearly every big financial advisory firm on Wall Street, which expected to collect about $300 million in fees for arranging the debt and providing merger advice, according estimates from Thomson Reuters.",negative,-0.7914056181907654
+2008-11-25,Rio Tinto Bid’s Demise Costs Several Banks Big Fees,negative,-0.8486245274543762
+2008-11-26,"As banks slam the brakes on lending, companies and consumers are slamming on the brakes, too.",negative,-0.5824887752532959
+2008-11-26,Lending Needs a Comeback,neutral,0.04868720471858978
+2008-11-26,Mines take years to dig but moments to collapse.,neutral,-0.4354056119918823
+2008-11-26,BHP Thinks Twice and Rio May Have to Pay,negative,-0.864185094833374
+2008-11-26,"Global miner Rio Tinto said on Wednesday it was confident it could sell billions of dollars in assets to pay down massive debt, despite concerns about a lack of buyers, a day after rival BHP Billiton dropped a bid for the firm.",negative,-0.16656756401062012
+2008-11-26,Rio Tinto Under Pressure on Asset Sales,negative,-0.4818529486656189
+2008-12-06,"Less than a month after taking over billions of dollars in private pension funds, the government said it would use some of the nationalized assets to weather the global economic downturn.",neutral,0.44614219665527344
+2008-12-06,Argentina Announces $3.8 Billion in Stimulus,positive,0.47739988565444946
+2008-12-10,"With demand slowing, Rio Tinto said it would cut 14,000 jobs in the latest sign of woe in the mining industry.",negative,-0.9589523673057556
+2008-12-10,"Rio Tinto to Cut 14,000 Jobs to Reduce Debt",negative,-0.9479533433914185
+2008-12-15,Mining group Rio Tinto said a British press report claiming it is talking to banking advisers about a potential $9 billion rights issue in the first half of next year was speculation.,neutral,-0.42111343145370483
+2008-12-15,Rio Tinto Dismisses Report of $9 Billion Rights Issue,neutral,-0.13894252479076385
+2009-01-28,"Rio Tinto said it hadn’t ruled out tapping the equity markets for new capital to pay down some its $38.9 billion in debt, signaling a shift in the Anglo-Australian company’s previous stance that a rights issue was necessary.",positive,0.34936612844467163
+2009-01-28,Rio Tinto Won’t Rule Out Rights Issue,neutral,0.03662304952740669
+2009-01-30,"Rio Tinto said Friday that it will sell potash projects in Argentina and Canada and its Corumba iron ore mine in Brazil for $1.6 billion to its rival, Vale, as part of a plan to cut debt by $10 billion in 2009.",neutral,0.04320983588695526
+2009-01-30,Rio Tinto to Sell Assets to Vale for $1.6 Billion,neutral,0.0026465225964784622
+2009-02-02,"Global miner Rio Tinto said it had held talks to sell some assets to Chinese government-owned aluminum maker Chinalco, its biggest shareholder, reportedly to cut debt by up to $8 billion.",negative,-0.48360830545425415
+2009-02-02,Rio In Asset Sale Talks With Chinalco,neutral,0.0600447878241539
+2009-02-09,"The Rio Tinto director Jim Leng has quit and will not become chairman as had been planned, raising speculation he may have objected to a potential deal with the mining group’s top shareholder, state-run Chinese aluminum maker Chinalco.",negative,-0.9268152713775635
+2009-02-09,"Rio’s Chairman-Elect Quits, Prompting Deal Speculation",negative,-0.9049505591392517
+2009-02-12,The Chinese aluminum company is in advanced discussions to reach a deal that could strengthen its grip on raw materials.,positive,0.9023998975753784
+2009-02-12,China Is Said to Be Seeking Bigger Stake in Rio Tinto,neutral,0.1560155153274536
+2009-02-12,"The mining group Rio Tinto confirmed that Aluminum Corporation of China would invest $19.5 billion, which it hopes will help it pay down debt.",positive,0.84628826379776
+2009-02-12,Chinalco to Invest $19.5 Billion in Rio Tinto,neutral,0.10966823995113373
+2009-02-12,"Rio Tinto confirmed on Thursday that Aluminum Corporation of China will invest $19.5 billion in the mining group, a move that it hopes will help it pay down debt but that is likely to set off opposition from politicians worried about the Chinese group’s influence in the company.",negative,-0.5764341354370117
+2009-02-12,Chinalco to Invest $19.5 Billion in Rio Tinto,neutral,0.10966823995113373
+2009-02-17,"BHP Billiton advisers Citigroup and Merrill Lynch have polled Rio Tinto investors on whether they would support “an alternative” to the mining group’s proposed $19.5 billion deal to raise cash from Chinalco, The Financial Times reported.",positive,0.7106189727783203
+2009-02-17,"Rio Investors Invite BHP to Propose Alternative, Report Says",neutral,0.12788447737693787
+2009-02-24,"The debt-laden miner Rio Tinto may try to persuade irate shareholders to back a $19.5 billion tie-up with Chinalco by offering them bonds on the same terms as the Chinese company, The Sydney Morning Herald Reported.",negative,-0.8388139605522156
+2009-02-24,"Rio May Offer Notes to All Shareholders, Report Says",neutral,0.12635484337806702
+2009-03-02,"Chinalco said on Monday that it will not seek control of Rio Tinto, as it reassured Australia’s government over its planned $19.5 billion investment in the miner.",neutral,0.007465079426765442
+2009-03-02,Chinalco Says It Isn’t Seeking Control of Rio Tinto,neutral,-0.04922349378466606
+2009-03-16,"Australia’s Foreign Investment Board will extend its review of the Aluminum Corporation of China‘s $19.5 billion investment in the global miner Rio Tinto, Reuters reported, citing an unnamed source.",positive,0.6234518885612488
+2009-03-16,Chinalco’s Rio Tinto Investment Said to Face More Scrutiny,negative,-0.46164920926094055
+2009-03-17,"Australian politicians turned up the heat against Rio Tinto‘s planned $19.5 billion tie-up with China’s Chinalco, with one taking out television ads on Tuesday to push for the deal to be blocked, Reuters said.",negative,-0.8838817477226257
+2009-03-17,TV Ads to Add to Pressure on Chinalco-Rio Deal,negative,-0.9061524868011475
+2009-03-18,"Political pressures cast a new shadow over Rio Tinto‘s planned $19.5 billion tie-up with the Chinese government-owned Chinalco, knocking Rio’s shares down as much as 10 percent on Wednesday, with Australia’s Senate saying it would examine foreign investment, Reuters said.",negative,-0.9530916810035706
+2009-03-18,Australian Senate’s Move Weighs on Rio Shares,negative,-0.3339100480079651
+2009-03-18,"The mining group Rio Tinto has appointed Jan du Plessis, the chairman of British American Tobacco, to head its board as well, the company said on Tuesday.",neutral,0.03823872655630112
+2009-03-18,"British Tobacco Chairman to Chair Rio Tinto, Too",neutral,-0.0009672157466411591
+2009-03-20,"Beijing is confident a Chinese bid to invest in Anglo-Australian miner Rio Tinto Group will not be hurt by its rejection of Coca-Cola‘s attempt to buy a Chinese juice maker, The Associated Press said, citing comments by a Cabinet official.",negative,-0.01530754566192627
+2009-03-20,China Says Coke Case Won’t Hurt Rio Tinto Bid,negative,-0.7469444274902344
+2009-03-25,"Australia’s competition watchdog cleared Rio Tinto‘s $19.5 billion tie-up with China’s state-owned Chinalco, rejecting at least one key argument against a deal, which still needs the treasurer’s approval.",negative,-0.7356966733932495
+2009-03-25,Australia’s Competition Watchdog Clears Rio-Chinalco Deal,neutral,-0.08571320027112961
+2009-03-26,"Rio Tinto, the giant mining company, said it could sell more assets and reschedule debt if a proposed $19.5 billion merger with the Aluminum Company of China, or Chinalco, fails to materialize.",negative,-0.8050405383110046
+2009-03-26,Rio Tinto Prepares Back-Up Plans if Chinalco Deal Fails,neutral,0.10263482481241226
+2009-03-30,"BHP Billiton, the world’s biggest mining company, has won support from top investors to get back on the acquisition trail after last year’s failed bid for rival Rio Tinto, a newspaper report said on Sunday, according to Reuters.",positive,0.9173387885093689
+2009-03-30,BHP Said to Win Support for More Deal-Making,positive,0.8784114718437195
+2009-04-06," Mining giant Rio Tinto has drawn up contingency plans to raise $8 billion in a rights issue underwritten by JPMorgan Cazenove and Credit Suisse, The Sunday Times reported.",positive,0.6230931282043457
+2009-04-06,Rio Said to Line Up $8 Billion Rights Issue,neutral,0.04193425923585892
+2009-04-07,"The window for companies to sell stock seems to be creaking open, and corporations that need capital should leap through it while they have the chance.",neutral,0.018518924713134766
+2009-04-07,A Window Opens for Stock Issues,neutral,0.00443112850189209
+2009-04-20,"A global mining company, Rio Tinto, defended itself on Monday against shareholder criticism of its proposed $19.5 billion tie-up with China’s state-owned Chinalco, its rejection of a takeover bid by BHP Billiton and its costly 2007 purchase of Alcan.",negative,-0.9218384027481079
+2009-04-20,Rio Tinto Stands by Chinalco Deal,neutral,0.08990585058927536
+2009-05-13,Rio Tinto’s stock dropped as much as 5 percent amid growing speculation the global miner is set to launch a 5-billion-pound rights issue instead of selling $19.5 billion in stock and assets to China’s Chinalco.,negative,-0.9557807445526123
+2009-05-13,Rio Shares Drop Amid Talk of Rights Issue,negative,-0.9289718866348267
+2009-05-15,"Miner Rio Tinto said it remains committed to a planned $19.5 billion tie-up with Chinese metals firm Chinalco, responding to talk that the deal may be revised to let more shareholders take part in a rights issue.",positive,0.7626699209213257
+2009-05-15,Rio Says It’s Committed to Chinalco Deal,neutral,0.36050915718078613
+2009-05-22,Chinalco is under pressure to reorganize its deal with the heavily indebted Australian mining company Rio Tinto.,negative,-0.9161798357963562
+2009-05-22,"A revision of the terms is almost inevitable, and Rio has everything to play for.",neutral,0.2295811027288437
+2009-05-22,Sitting Pretty at Rio Tinto,neutral,0.07792441546916962
+2009-05-22,"A revision of the terms of Chinalco’s investment in Rio Tinto, the heaily indebted Australian mining company, is almost inevitable, and Rio has everything to play for, Breakingviews says.",neutral,0.35289430618286133
+2009-05-22,Sitting Pretty at Rio Tinto,neutral,0.07792441546916962
+2009-05-26,Global miner Rio Tinto says its $19.5 billion tie-up with China’s state-owned Chinalco is an “evolving” deal and still subject to shareholder consultation.,neutral,0.345152884721756
+2009-05-26,Rio Tinto Says Chinalco Deal Is Still Evolving,neutral,0.15427950024604797
+2009-06-04,"Chinalco is set to walk away from its planned investment in Rio Tinto, The Financial Times reported, citing unnamed sources.",negative,-0.888756513595581
+2009-06-04,An announcement is expected at 8 p.m. G.M.T.,neutral,0.016634613275527954
+2009-06-04,Chinalco May Be Set to Walk Away From Rio Tinto Deal,negative,-0.6861968636512756
+2009-06-04,"China’s proposed $19.5 billion investment in Rio Tinto, the Australian mining giant, could be scrapped this week, ending this country’s bid to gain a larger stake in one of the world’s biggest resource companies.",negative,-0.9247936010360718
+2009-06-04,Rio Tinto Considers Ending China Deal,neutral,-0.13042695820331573
+2009-06-04,"The Chinese government’s largest ever investment in a Western company, a proposed $19.5 billion stake in the mining giant Rio Tinto Group, collapsed early Friday.",negative,-0.9062020182609558
+2009-06-04,Mining Giant Scraps China Deal,negative,-0.7025936841964722
+2009-06-05,"The Chinese government’s largest investment ever in a Western company, a proposed $19.5 billion stake in the Australian-British mining giant Rio Tinto Group, collapsed early Friday.",negative,-0.914922297000885
+2009-06-05,"Turning to BHP Billiton, Rio Tinto Scraps China Deal",negative,-0.4736447334289551
+2009-06-08,The leading steel industry group in China has come out against a joint venture consolidating iron ore assets of BHP Billiton and Rio Tinto in Australia.,negative,-0.8084107637405396
+2009-06-08,Chinese Steel Group Opposes BHP-Rio Deal,negative,-0.8997120261192322
+2009-06-30,"China’s state-owned Chinalco is taking up its full entitlement to miner Rio Tinto’s $15.2 billion (9.13 billion pound) share issue, media reports said Tuesday.",positive,0.5529853701591492
+2009-06-30,Chinalco Is Said to Buy Rio Tinto Share Rights,neutral,0.04401545599102974
+2009-07-06,"Bemis, a Midwestern packaging maker, said it had agreed to buy the U.S. operations of Alcan Packaging, a unit of Rio Tinto, for $1.2 billion in cash and stock.",positive,0.5768313407897949
+2009-07-06,Bemis in Deal to Buy Rio Tinto’s U.S. Packaging Unit,positive,0.5267649292945862
+2009-07-06,"Bemis, a Midwestern packaging maker, said late Sunday that it had agreed to buy the American operations of Alcan Packaging, a unit of Rio Tinto, for $1.2 billion in cash and stock.",positive,0.5194467902183533
+2009-07-06,Bemis in Deal With Rio Tinto to Buy Its U.S. Packaging Unit,positive,0.7410794496536255
+2009-07-08,"Four employees of global mining giant Rio Tinto in Shanghai have been detained by Chinese authorities, the firm said Tuesday.",negative,-0.8752373456954956
+2009-07-08,Rio Tinto Says China Detains 4 Staffers,negative,-0.894456684589386
+2009-07-08,"The Australian packaging group Amcor is nearing a purchase of some of Rio Tinto’s assets, in a deal that could be valued at up to $2.4 billion, Reuters reported.",neutral,0.28520894050598145
+2009-07-08,Amcor Said to Be  Near Deal for Some Rio Tinto Assets,neutral,0.11440107971429825
+2009-07-08,Australia’s foreign minister said an Australian employee of the mining company Rio Tinto had been detained in China on suspicion of espionage and stealing state secrets.,negative,-0.8546174168586731
+2009-07-08,Australian Mining Staffer Held in China on Spying Charge,negative,-0.7774274945259094
+2009-07-09,Some observers were skeptical about claims that China’s decision to hold an Australian executive from Rio Tinto on suspicion of stealing state secrets was unrelated to commerce.,negative,-0.8472644090652466
+2009-07-09,Timing Suspicious for China’s Detention of Rio Staff,negative,-0.6911391615867615
+2009-07-13,"Beijing’s detention of four Rio Tinto employees has rocked the global iron ore industry, strained China-Australia relations and could have a chilling effect on foreign businesses doing deals in China.",negative,-0.9484202265739441
+2009-07-13,China Rattles Investors With Detention of Executives,negative,-0.7254496216773987
+2009-07-14,The Chinese authorities have detained or questioned at least seven Chinese steel industry executives in a broadening corruption investigation connected to the detentions last week of four employees of the mining giant Rio Tinto.,negative,-0.8555112481117249
+2009-07-14,China Broadens Steel Inquiry Beyond Rio Tinto,positive,0.739275336265564
+2009-07-15,"Long before four employees of the Anglo-Australian mining giant Rio Tinto were detained in Shanghai last week, people working in China’s steel industry were complaining about bribery, deceit and a system turned rotten.",negative,-0.9094087481498718
+2009-07-15,Something’s Rotten in Chinese Steel Industry,negative,-0.7806077003479004
+2009-07-16,"China stepped up its campaign against the Anglo-Australian mining giant Rio Tinto, saying the company had bribed virtually every one of China’s big steel makers.",negative,-0.741953432559967
+2009-07-16,"Rio Tinto Bribed Most Big Steel Makers, China Says",negative,-0.6934141516685486
+2009-07-17,"China dismissed Australian officials’ expressions of concern over the detentions of four Rio Tinto employees as “noise,” in one of Beijing’s few public comments on the case.",negative,-0.8054686784744263
+2009-07-17,China Dismisses Concerns on Rio Tinto as ‘Noise’,negative,-0.683925986289978
+2009-07-20,"China’s investigation into whether four employees of the British-Australian mining giant Rio Tinto stole state documents may be treated as a commercial case rather than as espionage, Australia’s foreign minister said.",negative,-0.8278800249099731
+2009-07-20,China May Ease Charges for Rio Tinto Workers,positive,0.6886383891105652
+2009-08-09,China said it had evidence showing that employees of the mining giant had engaged in commercial espionage for at least six years.,negative,-0.8168505430221558
+2009-08-09,China Says $100 Billion Was Bilked by Rio Tinto,negative,-0.46669211983680725
+2009-08-10,"China said it had evidence showing that for at least six years, employees working for the British-Australian mining giant Rio Tinto engaged in commercial espionage, costing the country about $100 billion.",negative,-0.8997625708580017
+2009-08-10,China Says $100 Billion Was Bilked by Rio Tinto,negative,-0.46669211983680725
+2009-08-11,Rio Tinto said it had yet to be presented with any evidence to support the detention of four of its China-based staff on suspicions of stealing state secrets.,negative,-0.8618837594985962
+2009-08-11,Rio Tinto Says China Hasn’t Backed Up Allegations,negative,-0.6483941674232483
+2009-08-11,"The workers face charges of commercial bribery and trade secrets infringement, but more serious charges of espionage were not mentioned.",negative,-0.6843823194503784
+2009-08-11,China Charges 4 Rio Tinto Employees; Spying Allegations Are Dropped,negative,-0.9345282912254333
+2009-08-12,China formally arrested an Australian citizen and three other employees of the mining giant in a case that has created a diplomatic uproar.,negative,-0.9049836993217468
+2009-08-12,4 on Rio Tinto’s China Staff Won’t Face Spying Charge,negative,-0.6571416854858398
+2009-08-12,China formally arrested an Australian citizen and three other employees of the British-Australian mining giant Rio Tinto on suspicions of commercial bribery and trade secrets infringement in a case that has rocked the global steel industry and created a diplomatic uproar.,negative,-0.8935039043426514
+2009-08-12,"China Charges 4 Rio Tinto Employees, but Backs Off",negative,-0.9423693418502808
+2009-08-13,Rio Tinto’s U.S. coal business submitted a new application on Wednesday for an initial public offering of up to $500 million.,neutral,0.34855082631111145
+2009-08-13,Rio Tinto’s U.S. Coal Miner Files for I.P.O.,negative,-0.6073176860809326
+2009-08-18,"After a year of tough negotiations, Amcor, the Australian packaging maker, has entered a binding offer to buy parts of Rio Tinto’s Alcan Packaging unit for slightly more than $2 billion.",positive,0.8251632452011108
+2009-08-18,Amcor Offers $2 Billion for Rio Tinto Packager,positive,0.6373111009597778
+2009-09-14,"Though corruption is pervasive in China, very few executives at foreign multinationals have been detained or arrested.",negative,-0.8102046251296997
+2009-09-14,That may be changing.,neutral,-0.16068078577518463
+2009-09-14,"In Shanghai, Police Detain Former Worker at Coca-Cola",negative,-0.9022446274757385
+2009-09-15,"Rio Tinto has agreed to sell a majority stake in the cable division of its Alcan Engineered Products to private equity firm Platinum Equity, as the mining giant moves toward a break-up of the business.",neutral,0.21345342695713043
+2009-09-15,Rio Tinto Sells Stake in Alcan Unit to P.E.,neutral,0.009613066911697388
+2009-09-15,Firm,neutral,0.04428835213184357
+2009-10-02,"Yes, President Obama is pushing for the 2016 Summer Olympics to be held Chicago, but Rio de Janeiro is the city that can best afford it.",neutral,0.0812712237238884
+2009-10-02,The Smart Choice for Olympic Host,neutral,0.21126070618629456
+2009-10-13,"Since April, colleges and universities have been competing against each other to reduce their carbon footprints.",negative,-0.4599553644657135
+2009-10-13,The winners are in.,neutral,0.06575088202953339
+2009-10-13,And America’s Greenest Campus Is …,neutral,0.13251163065433502
+2009-11-23,"Rio Tinto, the global miner, expects to receive at least $741 million from the flotation of its U.S. coal-mining unit, Cloud Peak Energy, on the New York Stock Exchange, Rio said Monday.",positive,0.7394117116928101
+2009-11-23,Rio to Pocket $741 Million From Cloud Peak I.P.O.,positive,0.5160754919052124
+2009-11-30,A small-business owner who travels frequently to Brazil has learned the country’s secrets and even enjoys the flight.,neutral,0.06785456836223602
+2009-11-30,"The Joys, and Lessons, of Traveling to Brazil",neutral,0.16664953529834747
+2009-12-01,"The Wuhan Iron & Steel Group, a Chinese steelmaker, agreed to pay $400 million for a stake in Brazil’s MMX Mineracao e Metalicos to broaden its supply of iron ore.",positive,0.8947160840034485
+2009-12-01,Brazil: Chinese Buy Stake in MMX Steel,neutral,0.106375552713871
+2009-12-07,"BHP Billiton and Rio Tinto, the mining giants, signed an agreement over the weekend to combine their iron ore operations in Western Australia, a deal the companies said would save them $10 billion a year.",positive,0.8881376385688782
+2009-12-07,Rio and BHP Sign Deal on Ore Venture,positive,0.6961686015129089
+2010-01-06,"Ivanhoe Mines may sell shares or debt, sell off a subsidiary or look at other options as it continues to develop its huge gold and copper mine in Mongolia, the company said on Wednesday.",neutral,-0.052561528980731964
+2010-01-06,Ivanhoe Mines Hires Citi to Advise on Strategic Options,neutral,0.03378747031092644
+2010-01-25,European Union regulators say a plan by the world’s No.,neutral,-0.260011225938797
+2010-01-25,2 and No.,neutral,0.1276896595954895
+2010-01-25,"3 iron ore miners, Rio Tinto and BHP Billiton, to combine some operations could damage competition.",negative,-0.9387055039405823
+2010-01-25,European Union to Investigate Rio Tinto-BHP Billiton Deal,neutral,-0.14725971221923828
+2010-02-02,"Rio Tinto said Tuesday has completed the almost $2 billion sale of some divisions of its Alcan business to Amcor, taking another step toward cutting its debt load.",positive,0.9011859893798828
+2010-02-02,Rio Tinto Sells Alcan Units to Amcor for $1.95 Billion,neutral,0.04427752643823624
+2010-02-23,Christopher Lee showed his stadium visions to officials in Brazil after an arduous trip tested his patience.,negative,-0.5373588800430298
+2010-02-23,The Presentation?,neutral,0.016148924827575684
+2010-02-23,That Was the Easy Part,neutral,0.029779862612485886
+2010-03-15,Australia on Monday welcomed a report by China clearing Rio Tinto and the Australian government of blame for the collapse of a $19.5 billion tie-up between Chinalco and Rio Tinto last June.,positive,0.2633037567138672
+2010-03-15,Australia Welcomes China Report on Rio Tinto Deal,neutral,0.2752046585083008
+2010-03-19,"Nine months after they scrapped a $19.5 billion tie-up, the Anglo-Australian mining giant Rio Tinto and Chinalco of China reached a deal Friday to jointly develop an iron ore project in the West African country of Guinea.",positive,0.822704017162323
+2010-03-19,Chinalco and Rio Tinto Team Up for Guinea Ore,neutral,0.10430622100830078
+2010-03-19,A judge in Australia denied JPMorgan Chase $28.6 million of fees it claimed for defending a company from a takeover that turned into a bidding war.,negative,-0.8945497274398804
+2010-03-19,"But the implied logic — that advisers should get paid for what they did, not for what eventually happened — is fuzzy, Reuters Breakingviews argues.",neutral,0.018854700028896332
+2010-03-19,Judge Denies JPMorgan $28 Million in Fees,negative,-0.5325247049331665
+2010-03-20,A joint venture in a mine in the West African nation of Guinea suggests that tension between Australia and China may be easing.,positive,0.6289278864860535
+2010-03-20,Rio Tinto and Chinalco in Deal for Iron Project,positive,0.27038338780403137
+2010-03-22,"Economic data, corporate earnings, industry announcements, government hearings and international business developments coming this week.",neutral,0.013613143935799599
+2010-03-22,Looking Ahead,neutral,0.013165891170501709
+2010-03-22,"Three employees of Rio Tinto, the British-Australian mining giant, agreed to plead guilty Monday to taking bribes while working for the company in China, stunning confessions on the opening day of their three-day trial here.",negative,-0.8052489161491394
+2010-03-22,China Begins Trial of 4 Rio Tinto Employees,neutral,0.17007334530353546
+2010-03-24,"Prosecutors argued for a second day in court that four employees from the British-Australian mining giant Rio Tinto accepted millions of dollars in bribes and stole commercial secrets from Chinese companies, but the closed nature of the trial made it hard to assess the evidence in the high-profile case.",negative,-0.872701108455658
+2010-03-24,"At Rio Tinto Trial in China, Door Closes Tighter",negative,-0.5165470838546753
+2010-03-24,"BG Group said it had agreed to supply China National Offshore Oil Corp., or Cnooc, 3.6 million tons of Australian liquefied natural gas annually for the next 20 years, in a deal one analyst estimated to be worth up to $70 billion, while selling the state-run company a small stake in BG’s coal bed gas assets.",positive,0.8708893656730652
+2010-03-24,BG Group and Cnooc Sign $70 Billion Gas Deal,positive,0.7310858964920044
+2010-03-25,"The trial of four employees of the British-Australian mining giant Rio Tinto ended in Shanghai on Wednesday afternoon, but a verdict had not been reached on charges that the group accepted millions of dollars in bribes from Chinese steel companies and stole commercial secrets, The New York Times’s David Barboza writes.",negative,-0.8608615398406982
+2010-03-25,"Rio Tinto Trial Ends in China, but Verdict Awaits",neutral,-0.1852606236934662
+2010-03-29,"Four employees of the British-Australian mining giant Rio Tinto, including an Australian citizen, were convicted by a Chinese court on Monday and sentenced to seven to 14 years in prison for accepting millions of dollars in bribes and stealing commercial secrets.",negative,-0.7954565286636353
+2010-03-29,Rio Tinto Employees Sentenced in Bribery Case,negative,-0.7794231176376343
+2010-04-09,"The British-Australian mining company joins two other firms in shorter-term pricing, ending a decades-old annual fixed-priced system.",positive,0.6050595045089722
+2010-04-09,Rio Tinto Goes to Quarterly Pricing on Iron Ore,neutral,0.05537800490856171
+2010-05-03,"Australia’s government girded on Monday for a battle with global miners over its plan to slap the industry with a new 40 percent profits tax, after two home-grown mining giants said the move would threaten investment.",negative,-0.9250833988189697
+2010-05-03,Australia Battle Over Mine Tax May Hit Peabody Bid,negative,-0.8486954569816589
+2010-05-14,"South Korea’s Posco is set to clinch its biggest acquisition with a $3 billion deal to buy Daewoo International, as the world’s No.4 steelmaker tries to grab raw materials and boost sales overseas, Reuters reported.",positive,0.8864971995353699
+2010-05-14,Korean Steelmaker Set to Buy Daewoo International,neutral,0.08023130893707275
+2010-06-21,"Australia and China signed commercial deals worth more than $8.8 billion on Monday, largely in mining, in another sign that a new Australian mining tax has failed to dampen inward Chinese investment.",positive,0.5813129544258118
+2010-06-21,Australia and China Sign Deals Exceeding $8.8 Billion,positive,0.6985312104225159
+2010-07-13,"A half a century after losing its status as Brazil’s capital, Rio de Janeiro is becoming an engine of Latin America’s largest economy.",positive,0.6553975939750671
+2010-07-13,"The city lured at least two dozen hedge funds in the past decade as well as the nation’s leading oil producers, the 2014 World Cup and the 2016 summer Olympics.",neutral,0.3280878961086273
+2010-07-13,Hedge Funds and Other Investors Flock to Rio,neutral,0.06733611971139908
+2010-07-29,"Rio Tinto, the Anglo-Australian mining company, and Chinalco, its Chinese state-owned rival, have signed a binding agreement to establish a joint venture to operate an iron ore project in Guinea in West Africa, The Associated Press reported.",positive,0.9027441740036011
+2010-07-29,Rio Tinto and Chinalco Sign Iron Ore Deal,neutral,0.3180897533893585
+2010-08-06,"Rio Tinto Group’s chief, Tom Albanese, said the world’s third-largest mining company plans to raise spending 50 percent next year and is studying mergers and acquisitions after profit surged.",positive,0.8323715925216675
+2010-08-06,"With Profits Surging, Rio Tinto Studies Targets",positive,0.8597123026847839
+2010-08-19,"With up to $190 million in potential fees up for grabs, BHP Billiton’s bid for Potash is the deal that investment bankers around the world had been hoping for.",neutral,0.35029956698417664
+2010-08-19,BHP Switches Advisers as Bankers Consider Bonanza,negative,-0.4024271070957184
+2010-08-20,"Rio Tinto rebuffed a deal with Chinalco, and China arrested Rio workers on charges of taking bribes.",negative,-0.9137346744537354
+2010-08-20,But both sides are warily making amends.,positive,0.18193039298057556
+2010-08-20,"Through a Joint Venture, Rio Tinto Strives to Repair Its Relations With China",positive,0.8571574687957764
+2010-08-23,"Rio Tinto rebuffed a deal with Chinalco, and China arrested Rio workers on charges of taking bribes.",negative,-0.9137346744537354
+2010-08-23,But both sides are warily making amends.,positive,0.18193039298057556
+2010-08-23,Rio Tinto Strives to Repair Its China Ties,positive,0.6076840758323669
+2010-08-25,Marius Kloppers is using the mining company’s strong earnings to prove to his shareholders that his $39 billion bid for Potash is not too expensive.,positive,0.7730444073677063
+2010-08-25,BHP Chief on the Road to Defend Bid for Potash,neutral,0.14594855904579163
+2010-08-25,Marius Kloppers expressed confidence regarding BHP’s hostile bid for the Potash Corporation of Saskatchewan.,neutral,0.24642029404640198
+2010-08-25,BHP Chief Not Anxious Over Potash Bid,negative,-0.6743418574333191
+2010-09-14,"Anglo-Australian miner Rio Tinto said on Monday it has raised its stake in Ivanhoe Mines to 34.9 percent, following the conversion of a matured convertible credit facility, Reuters reported.",positive,0.9209810495376587
+2010-09-14,Rio Tinto Said to Raise Stake 34.9% in Ivanhoe,neutral,0.19771817326545715
+2010-09-30,"BHP Billiton and Rio Tinto’s joint $116 billion iron-ore venture in Australia has stalled in the face of regulations, and is being reevaluated by executives of the two firms, The Wall Street Journal reported, citing people familiar with the matter.",negative,-0.9465683102607727
+2010-09-30,BHP and Rio Suspend Venture in Face of Regulations,negative,-0.8583826422691345
+2010-10-06,"Rio Tinto said it has made no decision on its planned $116 billion joint venture in Australia with BHP Billiton, after a report said that “the biggest merger in Australian business history is dead.”",negative,-0.8402084708213806
+2010-10-06,Rio to Walk Away From $116 Billion BHP Venture?,negative,-0.7109395265579224
+2010-10-08,"Rio Tinto is interested in possible bolt-on acquisitions in a range of sectors, including potash, an executive said on Thursday, Reuters reported.",neutral,0.15241381525993347
+2010-10-08,Rio Tinto Is Said to Be Interested in Potash Sector,neutral,0.02247561886906624
+2010-10-15,Germany’s antitrust agency said Friday it had warned BHP Billiton and Rio Tinto that it planned to block their $116 billion joint venture to produce iron ore in Western Australia.,negative,-0.9531672596931458
+2010-10-15,Regulators Oppose BHP-Rio Joint Venture,negative,-0.8278735876083374
+2010-10-18,BHP Billiton and Rio Tinto pulled the plug on their plans after regulators in Australia and elsewhere signaled they would block the deal.,negative,-0.9433686137199402
+2010-10-18,BHP and Rio Abandon Joint Mining Venture in Australia,negative,-0.7475494742393494
+2010-10-18,BHP Billiton and Rio Tinto on Monday pulled the plug on their plans to form a $116 billion iron ore joint venture after regulators in Australia and elsewhere signaled they would block the deal because of competition concerns.,negative,-0.945622444152832
+2010-10-18,BHP and Rio Abandon Australian Iron Mining Venture,negative,-0.7401248812675476
+2010-10-19,Citigroup’s third-quarter earnings release managed to lift bank stocks on Monday.,positive,0.74156653881073
+2010-10-19,Citi’s Good News Proves Reassuring,positive,0.7742074728012085
+2010-10-19,"Ivanhoe Mines said on Monday it is launching a rights offering worth up to $1 billion, to raise funds for its Oyu Tolgoi copper-gold project in Mongolia, but the plan may well escalate hostilities between the company and its partner Rio Tinto.",negative,-0.9068460464477539
+2010-10-19,Ivanhoe Mines Offering May Raise Tensions With Rio Tinto,negative,-0.8644500970840454
+2010-12-06,"Riversdale Mining of Australia says it has been talking with Rio Tinto about a potential sale of the company, which produces coal in Africa.",neutral,0.2612095773220062
+2010-12-06,Riversdale Talking With Rio on $3.4 Billion Deal,neutral,0.05611908435821533
+2010-12-23,"The board of Riversdale Mining, the Australian coal mining company with operations in southeastern Africa, said Thursday that it backed Rio Tinto’s all-cash offer of $16 a share, some 6 percent higher than Rio’s previous proposal.",positive,0.8668218851089478
+2010-12-23,Rio Tinto Offers $3.9 Billion for Riversdale Mining,neutral,0.3292764127254486
+2010-12-27,"International Coal Ventures of India has no plans to link up with the Tata Group, should Tata attempt to counter Rio Tinto’s takeover offer for the coal producer Riversdale Mining.",neutral,-0.026369113475084305
+2010-12-27,Indian Mining Firm Unlikely to Join Bid for Riversdale,negative,-0.3540518879890442
+2011-01-24,"The board of Riversdale Mining said on Monday that it had unanimously approved the $3.9 billion bid made by Rio Tinto last month, a turnaround for Riversdale’s largest shareholder, Tata Steel, whose representative had abstained in a vote in December.",positive,0.865258514881134
+2011-01-24,Tata Representative Backs Rio Tinto Bid for Riversdale,neutral,0.0991918295621872
+2011-02-17,The drug makers Sanofi-Aventis is buying Genzyme in a deal that could raise the purchase price depending on the performance of a new drug.,neutral,0.3145362436771393
+2011-02-17,Contingent Rights Shouldn’t Catch On,neutral,-0.15275025367736816
+2011-02-23,"Imerys of France has made a binding $340 million offer to buy the talc division of Rio Tinto, the giant mining company.",positive,0.6480894684791565
+2011-02-23,Rio Tinto Gets $340 Million Bid for Talc Unit,positive,0.45928820967674255
+2011-02-24,The mining giant Rio Tinto has extended its offer for Riversdale Mining to March 18 as it tries to gain shareholder support for the $3.9 billion deal.,positive,0.7645002007484436
+2011-02-24,"Rio Tinto Extends Bid for Riversdale, Again",positive,0.7712917327880859
+2011-03-10,"In the hopes of breaking a shareholder standoff, Rio Tinto raised its bid 3 percent for the coal producer.",positive,0.8905268907546997
+2011-03-10,Rio Tinto Raises Offer for Riversdale Mining,positive,0.5710130929946899
+2011-03-21,Rio Tinto has extended its $3.9 billion offer for Riversdale Mining of Australia to April 6 as it attempts to rally Riversdale shareholders to its bid.,positive,0.8507009148597717
+2011-03-21,"Rio Tinto Extends Riversdale Bid, Again",positive,0.8102605938911438
+2011-03-29,"Rio Tinto says it plans to move forward with its $3.9 billion bid for Riversdale Mining, even if a majority of shareholders do not accept the offer.",positive,0.7665131688117981
+2011-03-29,Rio Tinto Cuts Threshold for Riversdale Offer,neutral,-0.13742496073246002
+2011-04-04,"With the genie of state intervention already out of the bottle, shareholders of the Brazilian mining giant Vale should prepare for their interests to come second.",neutral,0.14066988229751587
+2011-04-04,Lesson in Being a State Company,neutral,0.1068967655301094
+2011-04-06,"Rio Tinto says it has obtained the acceptance of 49.49 percent of Riversdale Mining shares, and will extend its tender offer to April 20.",positive,0.8009714484214783
+2011-04-06,Rio Tender Offer Exceeds Its Goal and Gets Extended,positive,0.7755466103553772
+2011-04-07,"With its stake in Riversdale Mining now approaching 50 percent, Rio Tinto added three directors to the company’s board.",neutral,0.243288055062294
+2011-04-07,Rio Tinto Names Riversdale Directors,neutral,0.014934927225112915
+2011-08-08,Rio Tinto said it was making a joint bid with Mitsubishi Corporation for the shares in the Australian mining company Coal & Allied they don’t already own for about $1.6 billion.,neutral,0.33083808422088623
+2011-08-08,Rio and Mitsubishi Bid $1.6 Billion for Coal & Allied,neutral,0.12533049285411835
+2011-08-26,"Rio Tinto and Mitsubishi have raised their offer to acquire all of Coal and Allied to about $131 a share, from $128, in a deal that values the Australian mining company at around $11.6 billion.",positive,0.9079977869987488
+2011-08-26,Rio Tinto and Mitsubishi Raise Bid for Coal and Allied,positive,0.5588201880455017
+2011-10-10,"Brazil, which is maintaining investments to increase oil production even as turmoil hits financial markets, is leading a shift in Latin America’s oil industry.",positive,0.837741494178772
+2011-10-10,"In Brazil, Energy Finds Put Country at a Whole New Power Level",neutral,0.38774576783180237
+2011-10-17,The Olympus board’s decision to fire Michael C. Woodford after only two weeks shows that change was sorely needed.,negative,-0.5036714673042297
+2011-10-17,"Olympus Chief Goes, but Push for Reform Goes On",neutral,-0.1352405846118927
+2011-11-19,"Chevron says a spill in the Campo Basin off the southeast coast has almost dissipated, but investigators are threatening fines and prison terms if they find violations.",negative,-0.9295398592948914
+2011-11-19,Brazil Officials Criticize Chevron Over Oil Spill,negative,-0.8488289713859558
+2011-11-22,"Chevron faces fines of as much as $83 million for an oil spill this month off the coast of Rio de Janeiro, the authorities said Monday.",negative,-0.9388313293457031
+2011-11-22,Brazil: Chevron Faces Fines of $83 Million in Oil Spill,negative,-0.946073055267334
+2012-03-03,I.B.M.,neutral,0.042657434940338135
+2012-03-03,"has designed a new operations center for the city of Rio de Janeiro, coordinating all kinds of functions under one roof.",neutral,0.04963884502649307
+2012-03-03,The company hopes the project will lead to a huge worldwide business.,positive,0.7372265458106995
+2012-03-03,"Mission Control, Built for Cities",neutral,0.037708304822444916
+2012-03-18,"Seventeen employees of the American oil giant Chevron and the rig operator Transocean could face charges connected to an offshore oil spill, adding to Chevron’s woes in Brazil.",negative,-0.934913158416748
+2012-03-18,Brazil Bars Oil Workers From Leaving After Spill,negative,-0.8483092784881592
+2012-04-03,"Business owners try to cope without a dedicated, in-house, six-figure information-technology specialist.",negative,-0.6964307427406311
+2012-04-03,"Tech Audit: Two Owners, Two Companies, Lots of I.T.",neutral,-0.01578909531235695
+2012-04-03,Headaches,negative,-0.4987790584564209
+2012-04-10,"Brazil’s president, Dilma Rousseff, has made it her priority to secure leadership positions for women.",neutral,0.23000305891036987
+2012-04-10,"Brazil, Where Oil and Women Mix Powerfully",neutral,0.10321354120969772
+2012-04-13,The fate of YPF was thrown into doubt as reports that President Cristina Fernández de Kirchner was preparing to nationalize the company drew a warning from Spain.,negative,-0.9365423917770386
+2012-04-13,Argentina Has Oil Firm in Its Sights,neutral,-0.08498311042785645
+2012-04-16,The expropriation would reassert state control over a pillar of Argentina’s economy but also increase diplomatic tensions with Spain and the European Union.,positive,0.5273191928863525
+2012-04-16,Argentina to Seize Control of Oil Company,negative,-0.7248486280441284
+2012-04-18,"Robert Friedland, one of Canada’s most prominent mining developers, resigned as chief executive of Ivanhoe Mines, ending a long-running battle between the executive and Rio Tinto.",negative,-0.8877407908439636
+2012-04-18,Mining Chief Resigns as Part of Deal With Rio Tinto,negative,-0.8181261420249939
+2012-05-11,"The Brazilian magnate is expected to announce Friday that he has purchased a 50 percent stake in the company that puts on Rock in Rio, a big music festival series.",neutral,0.4601100981235504
+2012-05-11,Eike Batista to Invest in Brazilian Music Festival,neutral,0.0921868085861206
+2012-05-25,"With copper trading at high prices, a remote area of Michigan is rediscovering its mining roots, raising hopes that the region will recover from a long slump.",positive,0.8771924376487732
+2012-05-25,A Mining Rush in the Upper Peninsula,negative,-0.5235419273376465
+2012-08-05,"Marco Balich is the executive director of the ceremony to transfer the Olympic flag to the host of the next Summer Games, Rio de Janeiro.",neutral,0.14094430208206177
+2012-08-05,Media Firm's Olympic Moment to Come After Medals Are Awarded,neutral,0.09881196916103363
+2012-10-15,Mongolia’s new government is in the process of passing a 2013 budget whose draft proposal includes increasing taxes and royalties on a huge copper mine by $300 million.,positive,0.7546610236167908
+2012-10-15,"If Rio Tinto seeks international arbitration to resolve the issue, it could delay the start date for the mine.",negative,-0.8759536743164062
+2012-10-15,Tax Proposal in Mongolia Threatens Rio Tinto Project,negative,-0.8729860186576843
+2012-12-05,"Because segments considered critical to transforming Brazil’s economy have fallen by the wayside, the country has doubled down on its goal of promoting technology growth.",negative,-0.9192389249801636
+2012-12-05,Brazil Steps Up Investments in Overlooked Tech Start-Ups,positive,0.864333987236023
+2012-12-10,"New regulations in Mongolia could stifle a deal to develop the Oyu Tolgoi mine, the world’s biggest new source of copper, and hurt the country’s broader economy.",negative,-0.9451085329055786
+2012-12-10,Boom in Mongolia Deflates After Deal That Started It Is Threatened,negative,-0.7131650447845459
+2013-01-17,"The Anglo-Australian mining giant Rio Tinto blamed challenges in the aluminum business and at its coal unit in Mozambique for the write-down, and said its chief executive, Tom Albanese, was stepping down.",negative,-0.8902732729911804
+2013-01-17,Rio Tinto to Book $14 Billion Charge; C.E.O.,neutral,0.14792340993881226
+2013-01-17,Steps Down,neutral,0.07834557443857193
+2013-01-17,Bank of America posts a 63 percent drop in fourth-quarter profit.,negative,-0.9684929847717285
+2013-01-17,| The move by JPMorgan’s board to cut Jamie Dimon’s pay was intended as a message for regulators and investors.,negative,-0.47288504242897034
+2013-01-17,| Rio Tinto takes a $14 billion write-down and its chief steps down.,negative,-0.9263997077941895
+2013-01-17,| A group weighing a buyout of Dell is said to be approaching a financing goal.,neutral,0.07707773149013519
+2013-01-17,Mortgage Woes Weigh on Bank of America,negative,-0.8518456816673279
+2013-03-05,"Private equity and venture capital firms last year committed $7.9 billion to invest in Latin America, although fund-raising was down significantly as smaller firms raised more than big firms.",negative,-0.9010715484619141
+2013-03-05,Private Equity and Venture Capital Investments Rise in Latin America,positive,0.7435958385467529
+2013-03-06,"Paul Capital, a private equity firm focused on secondary market transactions, has acquired 18.2 percent of a fund managed by the Brazilian technology venture capital firm Ideiasnet for 79 million reais ($40 million).",neutral,0.19022849202156067
+2013-03-06,Paul Capital Takes Stake in Brazilian Venture Fund,neutral,0.050294943153858185
+2013-03-22,Government officials from the British territory of Gibraltar visited Rio de Janeiro this week to promote its financial stability as well as its access to the European Union and low taxes.,positive,0.7754755020141602
+2013-03-22,Gibraltar Seeks to Woo Brazilian Hedge Funds and Private Equity,neutral,0.09081718325614929
+2013-05-21,"Investors and entrepreneurs say that economic conditions in Brazil are difficult, but that long-term prospects remain highly favorable.",positive,0.8120991587638855
+2013-05-21,"Despite Stumbles, a Promising Path for Start-Ups in Brazil",positive,0.8462904691696167
+2013-07-06,"Brazil has seen its economic growth slow, while protests have flared nationwide.",negative,-0.9444646239280701
+2013-07-06,"And its stock market, a powerhouse over the last decade, has recently turned much lower.",negative,-0.9498294591903687
+2013-07-06,"In Brazil, a Reminder of Emerging-Market Risks",neutral,0.001897364854812622
+2013-08-08,"BHP Billiton, the world’s largest mining company, sits atop a sector that is deeply out of favor with investors, and it is aggressively curtailing its spending in hopes of winning them over.",negative,-0.9178656935691833
+2013-08-08,"After Going All In During Mining Boom, BHP Cuts Its Ambitions",negative,-0.9211834669113159
+2013-08-13,A ruling in a Rio Tinto case could upend a system that favors the mining industry.,negative,-0.5071801543235779
+2013-08-13,A Challenge to Industry in Small-Town Australia,negative,-0.4106351137161255
+2013-08-13,An appeals court ruling could set a precedent that favors the environmental interests of local communities over the economic interests of mining companies.,neutral,-0.031287357211112976
+2013-08-13,Coal Mine Fight Embodies an Economic Struggle in Rural Australia,neutral,-0.11806948482990265
+2013-10-01,"Should OGX, the petroleum exploration and production company founded by the Brazilian entrepreneur Eike Batista, go into bankruptcy, it would be largest in Latin America’s history.",neutral,-0.4315895140171051
+2013-10-01,Batista’s Oil Firm Defaults on Interest Payment,negative,-0.8724107146263123
+2014-02-20,"Despite Brazil’s economic woes, $6.04 billion in private equity and venture capital money was committed to the country last year.",positive,0.6195724606513977
+2014-02-20,"Oil, gas and energy were the most sought sectors.",neutral,0.03774445131421089
+2014-02-20,"Investments in Brazil Rose Last Year, Study Says",positive,0.9064534902572632
+2014-02-25,"Amid continuing concerns about Brazil’s sputtering economy, the Dragoneer Investment Group of San Francisco has made its first investment in an Internet company in the country, leading a $12.75 million round in VivaReal, an online real estate classifieds start-up.",positive,0.8235991597175598
+2014-02-25,Brazil Real Estate Start-Up Draws U.S. Investment,negative,-0.31303292512893677
+2014-03-26,Regulators have ruled that Oi can proceed with its shareholder meeting scheduled for Thursday and vote on a capital increase that it says is needed ahead of a planned merger with Portugal Telecom.,negative,-0.2362135648727417
+2014-03-26,Brazilian Telecommunications Deal Clears Hurdle,neutral,0.07449333369731903
+2014-04-02,"The company’s chief executive, Sam Walsh, says a slowdown in the iron ore market is not the end to global growth for the mineral.",negative,-0.6576360464096069
+2014-04-02,"Despite Slowdown in China, Rio Tinto Stays Committed to Mining Plans",positive,0.8118959069252014
+2014-04-16,Petrobras has recently come to symbolize disarray in Brazil’s sluggish economy and the reassessment of growth prospects in emerging markets.,positive,0.5159134268760681
+2014-04-16,"Brazil’s Star, Petrobras, Is Hobbled by Scandal and Stagnation",negative,-0.9123774170875549
+2014-07-07,A puzzle by Marco Moriconi to celebrate the FIFA World Cup 2014.,neutral,0.05341464281082153
+2014-07-07,World Cup 2014: Puzzle 2 of 2,neutral,-0.2986197769641876
+2014-07-10,"Thirty years after its first edition in Brazil, the festival will go to Nevada in 2015, but some are unsure if it can be successful in the United States.",neutral,0.06155814602971077
+2014-07-10,"Roberto Medina, Founder of Rock in Rio Festival, Takes it to Las Vegas",neutral,0.05096930265426636
+2014-07-14,Goldman Sachs goes 0 for Brazil and may have to modify its models when it comes to World Cup forecasts.,neutral,-0.2804078757762909
+2014-07-14,A Goldman World Cup Streak Weighs on Brazil,negative,-0.3077520728111267
+2014-07-16,"Many existing backers seem to have returned to Gávea Investments’ new fund, suggesting there remains an appetite for investing in Latin America’s largest economy.",positive,0.743923544883728
+2014-07-16,Brazilian Private Equity Firm Near Closing on $1 Billion Fund,neutral,0.04050460457801819
+2014-08-03,"Glenn Greenwald, who broke the Edward Snowden story, is one of the world’s most wired reporters, but he operates from a redoubt in Rio with shaky web access.",neutral,-0.41919103264808655
+2014-08-03,A Web Guerrilla Breaking News From the Jungle,negative,-0.3530474603176117
+2014-08-07,The chief executive said the company was “unapologetic” about continuing to focus investments on its iron ore unit despite a price drop over the past year.,neutral,0.3502482771873474
+2014-08-07,"Rio Tinto Profit Doubles, Helped by Aluminum and Copper",positive,0.8012761473655701
+2014-09-04,"Investments totaled $2.6 billion, according to a survey largely dependent on self-reporting by investors.",neutral,0.02291386015713215
+2014-09-04,Investment in Latin America Falls 10% in First Half,negative,-0.9668441414833069
+2014-09-14,Eike Batista was accused of manipulating the share price of his now-bankrupt petroleum company OGX.,negative,-0.8529627919197083
+2014-09-14,Fallen Brazilian Mogul Eike Batista Accused of Insider Trading,negative,-0.8265610337257385
+2014-09-17,"Prosecutors in Brazil have argued that Mr. Batista profited from insider information when he sold shares in his now bankrupt petroleum company, OGX.",negative,-0.9027085900306702
+2014-09-17,Eike Batista’s Assets Are Frozen in Wake of Insider Trading Charges,negative,-0.8416814804077148
+2014-10-07,"The merger would have created the world’s biggest mining company, but Rio Tinto said it was committed to remaining independent.",neutral,0.37915828824043274
+2014-10-07,Rio Tinto Says It Rejected $150 Billion Merger With Glencore,negative,-0.5979118943214417
+2014-10-07,"The Brazilian businessman Eike Batista is accused of profiting from insider information when he sold shares in the oil company OGX, and with manipulating its stock price.",negative,-0.8759809136390686
+2014-10-07,Fallen Businessman Batista Faces November Trial in Brazil,negative,-0.6816146969795227
+2014-10-07,"Glencore will be loath to pay a big premium, Kevin Allison of Reuters Breakingviews writes, and the culture clash would be extreme.",negative,-0.8100979328155518
+2014-10-07,Rio is also in a better position to resist than Xstrata was in 2012.,positive,0.035793960094451904
+2014-10-07,"For Glencore, Rio Tinto Takeover Harder Than Xstrata Deal",negative,-0.7862001061439514
+2014-10-08,Ivan Glasenberg is hoping to make Glencore one of the world’s top mining and commodities companies.,positive,0.7743651866912842
+2014-10-08,"Glencore’s Chief Pursues Rio Tinto, Seeking to Create Largest Mining Company",neutral,0.35900717973709106
+2014-10-08,Valeant and Pershing Square are planning to raise their offer for Allergan.,neutral,0.47487619519233704
+2014-10-08,| Profit at Goldman less easy to find.,negative,-0.7013543844223022
+2014-10-08,| A.I.G.,neutral,0.03916233777999878
+2014-10-08,trial puts Timothy F. Geithner on the hot seat.,neutral,-0.34441208839416504
+2014-10-08,| Glencore’s chief pursues Rio Tinto.,neutral,-0.015949146822094917
+2014-10-08,Morning Agenda: Another Twist in Allergan Battle,neutral,0.17136138677597046
+2014-11-06,"Advent International’s new private equity fund is thought to be the largest ever raised for Latin America, a sign of investor confidence in the region.",positive,0.8785868883132935
+2014-11-06,Investment Firm Raises New $2.1 Billion Fund for Latin America,positive,0.7962679862976074
+2014-11-10,A conga line of truth-tellers and liars.,neutral,-0.08898454159498215
+2014-11-10,Can you tell who’s lying and who’s telling the truth?,neutral,-0.1145467609167099
+2014-11-10,Truth-Tellers and Liars,neutral,-0.32942628860473633
+2014-11-15,"Rio Caraeff, who has led Vevo since its beginning in 2009, will depart at the end of the year.",neutral,-0.009641420096158981
+2014-11-15,Head of Music-Video Source Will Step Down From Post,neutral,-0.06773319095373154
+2014-11-17,"Many in the nation will be closely following the case of Eike Batista, once one of Brazil’s richest men, to see if the system can shed its reputation for leniency on white-collar crime.",negative,-0.7281949520111084
+2014-11-17,Eike Batista’s Insider Trading Case in Brazil to Test a Much-Criticized Justice System,negative,-0.7680824995040894
+2014-11-20,"The spinoff of the online businesses of former Brazilian retailer Grupo Pão De Açúcar and France’s Casino went public on the Nasdaq market, rising nearly 6 percent by midday.",positive,0.8828933835029602
+2014-11-20,Online Retailer Cnova Shares Rise on Trading Debut,positive,0.6408150792121887
+2014-12-04,The success by Bozano Investimentos in raising money for its new private equity fund is another indication that some investors are looking beyond Brazil’s current economic travails.,positive,0.8223330974578857
+2014-12-04,Brazil Firm Raises $309 Million for Education-Focused Fund,positive,0.8815144300460815
+2014-12-10,"In countries like Brazil, where the economy has been slowing, government policy is prioritizing growth over plans to cut carbon emissions.",neutral,0.14781083166599274
+2014-12-10,"In Latin America, Growth Trumps Climate",neutral,0.12963509559631348
+2014-12-24,A new fund-raising round by the Carlyle Group is just one indication of private equity’s commitment to Brazil.,positive,0.7445940375328064
+2014-12-24,Private Equity Funds Still Going Strong in Brazil Despite Economic Malaise,positive,0.7645413279533386
+2015-01-05,A chess master prepares.,neutral,0.04082825034856796
+2015-01-05,Can you crack this challenge by Marco Moriconi?,neutral,0.18826836347579956
+2015-01-05,The Chess Master,neutral,0.013801760971546173
+2015-02-06,United States air carriers see growing rivals in the Persian Gulf and Europe as a threat.,negative,-0.8640398383140564
+2015-02-06,Open-Skies Agreements Challenged,neutral,0.04729579761624336
+2015-03-18,The automaker carefully selected a musical event it thought would have a brand-conscious audience.,neutral,0.20122717320919037
+2015-03-18,Mercedes-Benz to Sponsor U.S.,neutral,0.12353073805570602
+2015-03-18,Version of Rock in Rio,neutral,0.0026354938745498657
+2015-04-28,The investment is said to value Rede D’Or São Luiz at $6.8 billion.,neutral,0.18334080278873444
+2015-04-28,Carlyle Takes Stake in Brazilian Hospital Operator,neutral,0.06110979616641998
+2015-05-21,The backing of an investment fund by an order of the Roman Catholic Church follows the Vatican’s endorsement of leveraging capitalism for social impact.,neutral,0.07321738451719284
+2015-05-21,Catholic Trust Looks to Brazilian Fund for Social Returns,neutral,0.039822254329919815
+2015-06-02,The company offers a digital credit card and looks to take business from banks that have benefited from some of the world’s highest interest rates.,neutral,0.11851649731397629
+2015-06-02,Nubank Raises $30 Million to Challenge Banking in Brazil,positive,0.8496792912483215
+2015-07-27,"Hamilton Lane, a private equity firm, is said to be raising its second fund of funds from Brazilian investors.",neutral,0.18831904232501984
+2015-07-27,Private Equity Firms Raise Funds in Brazil Despite Challenges,neutral,0.3651978373527527
+2015-09-15,One of Latin America’s largest banks continues to push into global private banking as Brazil’s economy contracts.,positive,0.8578124642372131
+2015-09-15,BTG Pactual Is Cleared to Acquire Swiss Private Bank BSI,neutral,0.1373700499534607
+2015-09-24,The mayors of the cities will decide whether to sign or veto bills banning the service.,neutral,0.013389065861701965
+2015-09-24,Uber’s prospects are not looking good.,negative,-0.8934951424598694
+2015-09-24,São Paulo and Rio de Janeiro Are Expected to Ban Uber,neutral,-0.3132103383541107
+2015-09-25,"The weakness in the real is causing companies to delay plans, and the market for initial public offerings has been effectively frozen.",negative,-0.9367519021034241
+2015-09-25,Sharp Drop in Currency Adds to Growing List of Woes in Brazil,negative,-0.8710386157035828
+2015-09-29,The mayor of Rio de Janeiro signs a bill intended to ban ride-hailing services like Uber.,neutral,0.061093688011169434
+2015-09-29,Rio’s Mayor Decides to Sign Bill Banning Ride-Hailing Services,neutral,-0.11824512481689453
+2015-09-30,The mining giant is seeking to pare its debt as commodity prices are mired in a global slump.,negative,-0.27148640155792236
+2015-09-30,Rio Tinto Agrees to Sell Coal Mine Stake for $606 Million,neutral,0.3089129328727722
+2015-10-05,Can you crack these two driving-related logical challenges?,neutral,0.06090185046195984
+2015-10-05,Driving Problems,neutral,-0.058278053998947144
+2015-10-26,Kroton Educacional has agreed to sell its learning unit Uniasselvi to the Carlyle Group and the Brazilian investment firm Vinci Partners for $284.6 million.,neutral,0.03466525673866272
+2015-10-26,Carlyle Group and Vinci Partners Buy Brazilian Education Business,neutral,0.09293607622385025
+2015-11-06,The Australian bank’s new fund comes as opportunities are seen for foreign investors in infrastructure projects.,positive,0.7927916646003723
+2015-11-06,Macquarie Sets Up Brazil Infrastructure Fund,neutral,0.03497129678726196
+2015-11-11,"Romero Rodrigues, who co-founded the price-comparison site Buscapé, will join Redpoint eventures.",neutral,0.0266118086874485
+2015-11-11,"Redpoint Joint Venture in Brazil Adds Romero Rodrigues, a Top Entrepreneur",neutral,0.28069859743118286
+2015-11-28,"BTG Pactual, a Brazilian investment bank, has promised to cooperate with any investigation into corruption involving Petrobras.",positive,0.7509698867797852
+2015-11-28,"BTG Pactual, Brazilian Bank, Seeks to Calm Investors After C.E.O.’s Arrest",negative,-0.3003278076648712
+2015-11-30,André Esteves resigned as the Brazilian bank’s chairman as reports emerged of a suspicious payment by the bank to an influential politician in Brazil.,negative,-0.8572360277175903
+2015-11-30,Shares of BTG Pactual Slide on New Concerns,negative,-0.9189838171005249
+2015-12-02,"The Brazilian bank is making efforts to conserve cash, sell assets and suspend originating loans as it seeks to right itself, Moody’s noted.",negative,-0.3834567070007324
+2015-12-02,BTG Pactual Partners Take Control From Former Leader,neutral,0.02147277444601059
+2015-12-08,The Brazilian investment bank is looking to sell assets to improve its liquidity.,positive,0.9052104353904724
+2015-12-08,Shares of BTG Pactual Fall After Ex-Leader Is Formally Charged,negative,-0.9004607796669006
+2015-12-10,"The private equity firm has also hired the longtime chief executive of Itaú BBA Investment Bank, Jean-Marc Etlin.",neutral,0.20308874547481537
+2015-12-10,CVC Capital Plans São Paulo Office,neutral,0.045941371470689774
+2015-12-17,But the Brazilian Supreme Court imposed 24-hour house arrest on Mr. Esteves until the banker proves he has “legal employment.”,negative,-0.8636173605918884
+2015-12-17,"Former Chief of BTG Pactual, André Esteves, Is Freed From Jail",negative,-0.48147886991500854
+2015-12-23,"A new fund-raising round could be a huge lift for the company, based in São Paulo, which has more than twice the market share of Uber.",positive,0.8859543800354004
+2015-12-23,"In Brazil, 99Taxis Start-Up Jockeys to Stay Ahead of Uber",neutral,0.18895873427391052
+2015-12-31,"The investment firm is on an aggressive campaign to sell assets after the arrest of its founder and former chief, André Esteves.",neutral,0.10210581123828888
+2015-12-31,BTG Pactual Sells Distressed Debt Unit to Itau Unibanco,neutral,0.021109404042363167
+2016-01-07,"The venture capital firm, co-founded by the Silicon Valley financier Peter Thiel, joined several other investors in raising $52 million for the financial technology company.",positive,0.5084168910980225
+2016-01-07,"Founders Fund Leads a Financing Round for Nubank, a Brazilian Start-Up",neutral,0.2975862920284271
+2016-01-25,Can you unravel this mathematical challenge — a tournament teaser by the physicist Marco Moriconi?,neutral,0.05767408758401871
+2016-01-25,Round Robin,neutral,0.05209781974554062
+2016-02-15,"As reports of infections rise, employees and management at a variety of corporations are grappling with how to handle jobs and projects in affected regions.",negative,-0.9371975660324097
+2016-02-15,Zika Virus Increases Concerns About Employee Safety,negative,-0.8240391612052917
+2016-02-22,The Federal Communications Commission is expected to vote soon on a plan that could add subsidies for broadband Internet services in low-income homes.,positive,0.5673243403434753
+2016-02-22,Bridging a Digital Divide That Leaves Schoolchildren Behind,negative,-0.3050769567489624
+2016-02-25,Telecom Italia’s Brazilian operator said it was ending talks with Oi on a merger proposed by a Russian oligarch.,negative,-0.8513542413711548
+2016-02-25,"Merger Plans Fall Apart for Oi, Troubled Brazilian Telecom",negative,-0.7104824781417847
+2016-03-01,"With Rio Tinto and BHP Billiton, among others, the company is struggling as a result of the slowdown in China and other countries that had driven global growth.",negative,-0.9631474614143372
+2016-03-01,Glencore’s Big Loss Reflects Hard Times for Mining Companies,negative,-0.9156247973442078
+2016-03-01,"The arrest of the executive, Diego Dzodan, comes as a debate over the access that law enforcement officials should get to tech companies’ data has escalated.",negative,-0.891900897026062
+2016-03-01,Brazil Arrests Facebook Executive in WhatsApp Data Access Case,negative,-0.9011045694351196
+2016-03-02,Diego Dzodan was freed a day after he was arrested over Facebook’s noncompliance with orders seeking information from a WhatsApp messaging account.,negative,-0.8499128818511963
+2016-03-02,Brazilian Judge Releases Facebook Executive,negative,-0.45325854420661926
+2016-03-11,"The firm, Aqua Capital, is said to be seeking to raise a total of $300 million.",neutral,0.1118619441986084
+2016-03-11,Brazilian Private Equity Firm Said to Raise $188 Million,neutral,0.17873889207839966
+2016-03-15,"FleetCor, based in Georgia, said it was impressed with how its acquisition, Serviços e Tecnologia de Pagamentos, has fared during Brazil’s downturn.",positive,0.9160484671592712
+2016-03-15,FleetCor Technologies in Deal for Brazilian Toll Payments Company,positive,0.5555111765861511
+2016-04-26,The order from a justice on Brazil’s highest court is preliminary and must be upheld by other court ministers.,negative,-0.47987160086631775
+2016-04-26,"André Esteves, Ex-BTG Pactual Chief, Is Freed From House Arrest",negative,-0.7269384264945984
+2016-04-27,"The investment bank’s former chief executive will take no executive role, but will focus on partnership matters and strategy.",neutral,0.007904567755758762
+2016-04-27,"André Esteves, Freed From Jail, Returns to BTG Pactual",neutral,0.2835623621940613
+2016-05-03,A court in Brazil has been seeking information from the messaging service to help in an organized crime and drug trafficking investigation.,negative,-0.5193139910697937
+2016-05-03,WhatsApp Blocked in Brazil as Judge Seeks Data,negative,-0.7642205357551575
+2016-05-03,The nationwide suspension of the messaging service ended a day after a lower court judge ordered it in a quest for information in a criminal case.,negative,-0.8928326964378357
+2016-05-03,Brazilian Judge Lifts Suspension of WhatsApp,negative,-0.5999094247817993
+2016-06-07,"Ms. Guthrie, a co-anchor of the “Today” program, says she will avoid going to Rio de Janeiro because of concerns about the virus.",negative,-0.7329142689704895
+2016-06-07,NBC’s Savannah Guthrie Says She Is Pregnant and Won’t Go to Olympics Because of Zika,negative,-0.8041026592254639
+2016-06-10,"In Brazil, the popular TV serials called telenovelas have so tight a grip on viewers that even the Olympics on home turf take a back seat in prime time.",neutral,-0.2595410943031311
+2016-06-10,"Greed, Passion, Lust, Betrayal, and the Olympics in Between",neutral,-0.07964161783456802
+2016-07-19,"The app, owned by Facebook, was shut down by a state criminal court when it did not hand over data requested by authorities.",negative,-0.9285323023796082
+2016-07-19,The order was overturned.,negative,-0.7885435819625854
+2016-07-19,WhatsApp Is Briefly Shut Down in Brazil for a Third Time,negative,-0.9045668244361877
+2016-07-20,"Follow the Olympic torch, read the history of the Games and catch up on results on a number of apps, some official and some from sports outlets.",neutral,0.039260659366846085
+2016-07-20,Feed Your Olympic Addiction Without Jetting Off to Rio,neutral,0.10662142932415009
+2016-07-20,The start-up plans to use mobile technology to make Brazil’s trucking industry more efficient.,positive,0.6432470083236694
+2016-07-20,Goldman Leads $10 Million Financing Round for CargoX of Brazil,neutral,0.09505495429039001
+2016-08-01,Activate your Olympic spirit with a challenge from the Rio resident and mathematician Marco Moriconi.,positive,0.5968461632728577
+2016-08-01,The Same Court Time,neutral,-0.04863470047712326
+2016-08-08,"Try these Olympics-themed puzzles from Po-Shen Loh, team lead for Team U.S.A, winner of this year’s International Mathematical Olympiad.",neutral,0.041374482214450836
+2016-08-08,"Also — If you could train with the best, would you?",neutral,0.18916790187358856
+2016-08-08,Perspectives from Olympians Gwen Jorgensen and Clark Burckle.,neutral,0.0398840494453907
+2016-08-08,"Olympic Strategies, Part 1",neutral,0.0329432338476181
+2016-08-12,"The article, by a straight writer who used dating apps to find athletes, drew criticism that it endangered the lives of some Olympians from countries where homosexuality is illegal.",negative,-0.8766337037086487
+2016-08-12,Daily Beast Removes Article on Gay Olympians in Rio,negative,-0.5613722205162048
+2016-08-16,"Delegations from four cities are quietly competing in Rio, lobbying to host the 2024 Summer Games — a privilege that could cost them dearly.",negative,-0.7049765586853027
+2016-08-16,An Olympic Event Where 1st Prize Is the Chance to Lose Billions,neutral,-0.2660079300403595
+2016-08-21,"Events like the Olympics and the Oscars are finding their way onto streaming platforms, and marketers are wondering how to reach those viewers.",neutral,0.12550212442874908
+2016-08-21,"Lessons From Rio, as Live Events Make the Leap to Streaming",neutral,0.10100064426660538
+2016-08-23,"The next three Games are in East Asia, half a day away on the clock.",neutral,-0.3737325370311737
+2016-08-23,That makes for scheduling headaches even as audiences fragment.,neutral,-0.2147286832332611
+2016-08-23,"With Audience Shrinking, NBC Looks Cautiously to Olympics in Asia",negative,-0.6564833521842957
+2016-09-16,"They may not capture the headlines at the Rio Olympics, but that isn’t stopping many older Americans from testing themselves in competitions.",negative,-0.4928666055202484
+2016-09-16,Athletes at Any Age,neutral,0.02939298003911972
+2016-12-07,"Nubank, a Brazilian start-up, also received backing from Peter Thiel’s Founders Fund and other venture capitalists as investors flock to South America.",positive,0.7932122349739075
+2016-12-07,DST Global Leads $80 Million Private Investment in Nubank,neutral,0.14101135730743408
+2016-12-19,"For Minnesota-based Mosaic, the deal gives it a foothold in Latin America’s largest economy, which boasts a strong agriculture sector.",positive,0.8909735083580017
+2016-12-19,Vale of Brazil Sells Fertilizer Business to Mosaic for $2.5 Billion,neutral,0.02063618041574955
+2016-12-20,"The financing round, which included investors like Temasek Holdings and Qualcomm Ventures, will fuel the company’s expansion beyond its base.",positive,0.8938270807266235
+2016-12-20,"IguanaFix, an Argentine Start-Up, Raises $16 Million",neutral,0.3639991283416748

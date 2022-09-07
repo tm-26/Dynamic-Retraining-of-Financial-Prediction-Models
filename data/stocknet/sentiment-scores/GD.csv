@@ -1,0 +1,28 @@
+Date,Sentence,Prediction,sentimentScore
+2014-04-07,The lawsuit claims that a reporter and a photographer were detained by military police officers outside a General Dynamics tank plant after taking photographs of it.,negative,-0.8713436126708984
+2014-04-07,Toledo Blade Sues Over Detention of Journalists at Tank Plant,negative,-0.8698663711547852
+2014-05-01,"Microsoft raced to issue a fix Thursday to a vulnerability in its Internet Explorer browser, which security researchers believe was being exploited by nation-state sponsored attack groups.",negative,-0.27722859382629395
+2014-05-01,"Attackers Use Microsoft Security Hole Against Energy, Defense, Finance Targets",negative,-0.5187541842460632
+2014-06-07,"Women have a much harder time becoming a chief executive and hold well under 10 percent of such jobs, but those who do earn the same as men.",negative,-0.6247069239616394
+2014-06-07,An Elusive Jackpot,neutral,0.040528155863285065
+2015-02-13,Trinity Industries turns to state attorneys general in an attempt to refute claims that its system has a deadly design flaw.,negative,-0.9239686131477356
+2015-02-13,Troubled Guardrail Maker Goes on a Lobbying Blitz,neutral,-0.3574785590171814
+2015-03-10,"A new service, from a company that does not sell security products, tests the effectiveness of security software in real time.",neutral,0.0908592939376831
+2015-03-10,NSS Labs’ Testing Service Will Hold Security Vendors Accountable,neutral,-0.015240801498293877
+2015-04-13,The New York attorney general’s office is investigating 13 large retailers over whether increasingly unpredictable and on-call work schedules violate the state’s labor laws.,negative,-0.9144148230552673
+2015-04-13,Retailers Scrutinized for Schedules and Staffing,neutral,-0.4380682110786438
+2015-05-22,"Efforts to tighten oversight of charities have largely failed because of regulatory indifference, political lobbying or lack of political will.",negative,-0.9204462170600891
+2015-05-22,Patchwork Oversight Allows Dubious Charities to Operate,neutral,0.0041727349162101746
+2015-06-09,"A response to the antitrust probe came from the Universal Music Group, whose lawyers sent a letter to the attorneys general stating, in so many words, nothing to see here.",neutral,0.09376761317253113
+2015-06-09,A Letter From Universal’s Attorneys,neutral,0.0621342733502388
+2015-10-06,"Eric T. Schneiderman is investigating Lone Star Funds-owned Caliber Home Loans, which has grown explosively in recent years but also drawn criticism.",neutral,-0.4231267273426056
+2015-10-06,New York Attorney General Examining Private Equity Firm’s Mortgage Business,neutral,-0.18416063487529755
+2016-04-27,The New York attorney general took aim at brokers who use “bots” and other methods that keep tickets out of the hands of ordinary fans.,negative,-0.7185521125793457
+2016-04-27,Ticket Brokers in Settlement With New York Over Scalping Laws,negative,-0.9079521298408508
+2016-08-19,Eric T. Schneiderman of New York said the investigation was concentrating on issues like the value the company puts on oil still in the ground.,neutral,-0.11193513870239258
+2016-08-19,Exxon Mobil Fraud Inquiry Said to Focus More on Future Than Past,neutral,-0.1185515895485878
+2016-09-16,A bureau agent posed as a journalist in an effort to infiltrate the computer of a suspect in a string of bomb threats.,negative,-0.8155807852745056
+2016-09-16,F.B.I.,neutral,0.035103652626276016
+2016-09-16,"Impersonation of Journalist Did Not Violate Undercover Policies, Federal Watchdog Says",neutral,-0.24575726687908173
+2016-12-08,"Officials said he misrepresented the condition of poorly maintained homes sold to Spanish-speaking families, and sometimes sold houses he didn’t own.",negative,-0.8468614220619202
+2016-12-08,New Mexico Businessman Accused of Deceiving Low-Income Home Buyers,negative,-0.7651309370994568

@@ -1,0 +1,1065 @@
+Date,Sentence,Prediction,sentimentScore
+2007-01-03,"Renton, Wash., home to Boeing’s commercial jet factory, is shedding its factory town past to embrace new commercial development.",neutral,0.17303206026554108
+2007-01-03,Daylight in Boeing’s Shadow,neutral,-0.07440416514873505
+2007-01-04,"Bank of America is distancing itself from its venture capital arm, BA Venture Partners, to concentrate on its middle-market private equity unit, BA Capital Investors.",neutral,-0.06062723696231842
+2007-01-04,BA Ventures said Wednesday that it would rename itself Scale Venture Partners as Bank of America repositions itself as a minority investor.,neutral,0.05784982070326805
+2007-01-04,Bank of America Steps Back from Venture Arm,negative,-0.6797025203704834
+2007-01-06,"The new year began with a series of surprises, not all of them pleasant.",neutral,0.11249594390392303
+2007-01-06,Highly Paid Chief Is Paid $210 Million to Go Away,neutral,-0.02250729501247406
+2007-01-16,"General Electric said that it would pay $4.8 billion in cash for Smiths Aerospace, the cockpit electronics arm of the London conglomerate Smiths Group.",neutral,0.22257179021835327
+2007-01-16,G.E.,neutral,0.0415060818195343
+2007-01-16,Buying a British Aerospace Company,neutral,0.014127258211374283
+2007-01-16,"After years of debate over the use of cellphones aboard airplanes in flight, the moment of truth has very nearly arrived.",neutral,0.31365594267845154
+2007-01-16,"Gulf Airline to Offer Cellphone Service, With Others in Line",neutral,0.0604671984910965
+2007-01-22,"The move comes after the Transport and General Workers’ Union failed to reach an agreement over sick leave, pay and staffing.",negative,-0.933018684387207
+2007-01-22,BA Cabin Crews Plan Brief Strike,neutral,-0.1798354834318161
+2007-01-25,The Times's Micheline Maynard speaks with Ford C.E.O.,neutral,0.048163995146751404
+2007-01-25,Alan Mulally about how his experiences at Boeing are shaping his approach to Ford's challenges.,neutral,0.11765912175178528
+2007-01-25,"Planes, Strains and Automobiles",neutral,-0.038456059992313385
+2007-02-07,"As India and the United States gradually relax policies on military collaboration between the two countries, American companies hope to compete for contracts worth billions of dollars.",positive,0.773982048034668
+2007-02-07,U.S. Military Contractors Seek Deals at Bangalore Air Show,positive,0.3174248933792114
+2007-02-07,"As India and the United States gradually relax policies on military collaboration between the two countries, American companies hope to compete for contracts worth billions of dollars.",positive,0.773982048034668
+2007-02-07,U.S. Military Contractors Seek Deals at Bangalore Air Show,positive,0.3174248933792114
+2007-03-03,A government decision that said the Air Force should reopen competition on a recent contract is a stunning reversal of fortune for Boeing.,positive,0.7592871189117432
+2007-03-03,"Again, Boeing Is Scrutinized on a Contract",neutral,-0.20643970370292664
+2007-03-08,Scale Venture Partners is saying adios to Bank of America as it closes its second fund.,neutral,0.12335200607776642
+2007-03-08,"The former venture arm of Bank of America (BA Venture Partners) said Wednesday that because of high demand from outside investors to participate in the $400 million fund, the bank made a graceful exit from the fund.",negative,-0.5016360282897949
+2007-03-08,Bank of America Bids Adieu to Venture Arm,neutral,0.13392189145088196
+2007-03-18,"Even when skies are clear and the nation’s air traffic control system is running perfectly, airlines have to contend with problems that cause delays.",negative,-0.765113353729248
+2007-03-18,"The 482 Boeing 737s that Southwest Airlines operates make about 3,200 flights a day.",neutral,-0.03307896852493286
+2007-03-18,"As at other airlines, something is always going wrong.",negative,-0.8505895137786865
+2007-03-18,"With 3,200 Flights a Day, a Few Problems",negative,-0.5198819041252136
+2007-03-21,The Government Accountability Office had recommended that a $15 billion contract for rescue helicopters be reopened to competitors.,positive,0.5834998488426208
+2007-03-21,Air Force Says Boeing Will Keep Contract,neutral,0.08771927654743195
+2007-03-23,"Peter Mandelson, the European Union’s top trade negotiator, said he would not seek a second term after his current tenure ends in 2009.",neutral,-0.19418704509735107
+2007-03-23,"As European trade chief, Mr. Mandelson has been coordinating the bloc’s strategy in World Trade Organization talks and defending Airbus in a dispute with the United States government and the Boeing Company.",neutral,0.07046167552471161
+2007-03-23,He has held the post since November 2004 and said he would not leave before his term expires in November 2009.,neutral,-0.03014448657631874
+2007-03-23,No Second Term for Trade Negotiator,neutral,0.006837496533989906
+2007-03-27,"In the growing field of executive coaching, Marshall Goldsmith is among the cream of the crop — and seems to be feeling very Zen about it.",neutral,0.04175114631652832
+2007-03-27,"Mr. Goldsmith, who apparently has coached bigwigs at companies including Boeing, Motorola and Goldman Sachs, promotes a Buddhist-inspired path to enlightened leadership, according to a profile of the coach in The Chicago Tribune.",neutral,0.05206238105893135
+2007-03-27,Executive Coach With a Groovy Approach,neutral,0.0025693699717521667
+2007-03-28,"British Airways is considering a 1 billion pound ($1.96 billion) bid for a rival British carrier, bmi, according to The Times of London.",neutral,0.056130941957235336
+2007-03-28,"The paper said that bmi’s chairman, Michael Bishop, who is also a 50 percent shareholder, has received approaches from a number of airlines interested in buying a stake.",positive,0.5774129629135132
+2007-03-28,BA Considers Bidding for a Rival,neutral,0.040205828845500946
+2007-03-30,"Voestalpine, the biggest steel maker in Austria, agreed to buy a specialty-steel producer, Boehler-Uddeholm, for 3.52 billion euros ($4.69 billion), foiling a bid by a private equity company, CVC Capital Partners.",positive,0.4680017828941345
+2007-03-30,"Voestalpine, based in Linz, said it had agreed to pay 69 euros a share for Boehler.",positive,0.6373399496078491
+2007-03-30,The acquisition will give Voestalpine a steel maker with customers worldwide including the Boeing Company and Airbus.,positive,0.8290268182754517
+2007-03-30,"CVC Capital, which is based in London, said last week that it planned to bid for Boehler, but Boehler, based in Vienna, said it opposed the bid.",negative,-0.8591099381446838
+2007-03-30,Austria: Specialty Steel Maker Is Acquired,neutral,0.08592724055051804
+2007-03-30,"Voestalpine, the biggest steel maker in Austria, agreed to buy a specialty-steel producer, Boehler-Uddeholm, for 3.52 billion euros ($4.69 billion), foiling a bid by a private equity company, CVC Capital Partners.",positive,0.4680010676383972
+2007-03-30,"Voestalpine, based in Linz, said it had agreed to pay 69 euros a share for Boehler.",positive,0.6373401880264282
+2007-03-30,The acquisition will give Voestalpine a steel maker with customers worldwide including Boeing and Airbus.,positive,0.8247826099395752
+2007-03-30,Austrian Steelmaker to Acquire Smaller Rival,neutral,0.046623460948467255
+2007-04-24,"Boeing is using new technology not only to build its 787 Dreamliner aircraft but also to promote it: The company has commissioned a series of large-format videos running on the aircraft’s Web site to promote the 787 to potential passengers and airline customers, aviation enthusiasts and others.",neutral,0.2900533676147461
+2007-04-24,Boeing Videos Feature New Dreamliner,neutral,0.03232000768184662
+2007-04-25,The order was part of an environmental partnership with Boeing that includes joint research into biofuels for use in jet engines.,positive,0.4955195188522339
+2007-04-25,Virgin Orders 15 Boeing Jets to Save Fuel and Cut Noise,negative,-0.0952504575252533
+2007-05-11,"Ford shareholders criticized every decision that the company’s executive chairman, William Clay Ford Jr., had made, except one: his choice of successor.",negative,-0.8277183175086975
+2007-05-11,Shareholders Give Ex-Chief the Blame for Ford Woes,negative,-0.6370536684989929
+2007-05-29,"Shares of British Airways, Europe’s third-largest airline, rose the most in almost a year on speculation the carrier might attract a private-equity bid, Bloomberg News reported Monday.",positive,0.8777018189430237
+2007-05-29,"Shares of the airline advanced as much as 22.5 pence, or 4.9 percent, to 483.5 pence, the biggest gain since June 15, 2006 at midday.",positive,0.912995457649231
+2007-05-29,BA Shares Rise as Buyout Rumors Mount,positive,0.05404740571975708
+2007-05-30,"Boeing on Tuesday sold 15 of its next-generation 787 jets to S7 Airlines, one of the largest private operators in Russia.",neutral,0.22851760685443878
+2007-05-30,Boeing Makes a $2.4 Billion Sale of 787s in Russia,neutral,0.060365304350852966
+2007-05-30,"The deal was valued at about $2.4 billion, Boeing’s largest sale in the former Soviet Union.",neutral,0.2717483639717102
+2007-05-30,Boeing Sells 15 Dreamliners to Russian Airline,neutral,0.20817244052886963
+2007-06-10,"The deal between the Boeing Company and Aeroflot, the Russian national airline, defied the souring political relations between the United States and Russia.",neutral,0.33466410636901855
+2007-06-10,Russian Airline to Buy 22 Planes From Boeing,neutral,0.35145214200019836
+2007-06-12,People who fly a lot tend to be nonchalant about the experience — until the plane hits a patch of choppy air.,negative,-0.4655430018901825
+2007-06-12,But airliners are built to take the turbulence.,neutral,0.07516482472419739
+2007-06-12,The Inevitability of Bumps,neutral,0.06042570620775223
+2007-06-19,"Airlines gave a big lift to the order book for the next generation Airbus A350, announcing contracts for 114 of the planes on the first day of the Paris air show.",positive,0.8784663081169128
+2007-06-19,Airbus Secures Big Orders at Air Show,positive,0.8084731698036194
+2007-06-19,The latest travel news from around the globe.,neutral,0.168603777885437
+2007-06-19,Memo Pad,neutral,0.027342423796653748
+2007-06-20,The International Lease Finance Corporation signed an agreement with Boeing for an order of 52 new 787 Dreamliners.,positive,0.8997695446014404
+2007-06-20,Boeing Scores With Dreamliner Order,positive,0.3945894241333008
+2007-07-09,The arrival of the 787 Dreamliner highlights what a striking counterpoint Western Washington has been in a country where manufacturing jobs have long been in decline.,negative,-0.10455209016799927
+2007-07-09,"Amid Fanfare, Boeing Unveils New Long-Distance Jet",positive,0.6129299998283386
+2007-07-09,"Before nearly 15,000 employees and worldwide customers, Boeing unveiled the 787 Dreamliner, its new long-distance, fuel-efficient jet.",positive,0.7356099486351013
+2007-07-09,"Amid Fanfare, Boeing Unveils New Long-Distance Jet",positive,0.6129299998283386
+2007-07-15,"There is an immense problem of inequality in this country, and sharing the skills and connections that some of us have could help solve it.",positive,0.6422407627105713
+2007-07-15,Getting a Boost Up the Ladder of Success,positive,0.4076915979385376
+2007-07-26,The U.S. aircraft-maker posted its largest quarterly profit in nearly four years on the strength of its airplane business.,positive,0.892803430557251
+2007-07-26,Boeing Tops Wall Street’s Expectations,positive,0.6498801708221436
+2007-08-22,What has changed in the year since Alan R. Mulally left Boeing to be chief executive at Ford Motor?,neutral,-0.38003283739089966
+2007-08-22,"In a sense, everything and nothing.",neutral,0.04614634066820145
+2007-08-22,"Ford Stays the Course, Wherever It May Lead",neutral,0.05805268511176109
+2007-08-22,"As Ford Motor awaits offers for its Jaguar and Land Rover brands, The New York Times takes a look atwhat has changed in the year since Alan R. Mulally left Boeing to be chief executive at the car maker.",neutral,-0.35786640644073486
+2007-08-22,"Ford Stays the Course, Wherever It May Lead",neutral,0.05805268511176109
+2007-09-05,The company said it did not expect the delay to postpone delivery of the first plane.,negative,-0.4752959907054901
+2007-09-05,But it said it will be a significant compression of the program for testing and safety certification.,neutral,0.14648093283176422
+2007-09-05,Boeing to Delay 787 Test Flight,negative,-0.8391575217247009
+2007-09-06,The delay announced on Wednesday left the company just six months to test and certify the six planes in the testing program.,negative,-0.8380246758460999
+2007-09-06,"787’s Test Flight Is Delayed, but Not Delivery, Boeing Says",negative,-0.846687376499176
+2007-09-13,"Google’s billionaire founders Larry Page and Sergey Brin are intensely private about their private jet, which recently secured landing rights at Moffett Field.",neutral,-0.0423748642206192
+2007-09-13,And tracking the reconditioned Boeing 767-200 is not easy.,negative,-0.47449302673339844
+2007-09-13,Tracking the Google Founders’ Plane,neutral,-0.03846137970685959
+2007-09-18,You know how people’s lives are often referred to as journeys?,neutral,-0.04459352791309357
+2007-09-18,"Well, I’ve always thought that comparison was extremely apt.",neutral,0.04016735777258873
+2007-09-18,"A well-spent life, like an outstanding trip, is made up of unexpected turns, strange encounters and priority-changing experiences.",neutral,0.047284889966249466
+2007-09-18,His Most Essential Travel Item: A 6-Year-Old’s Enthusiasm,neutral,0.04714338481426239
+2007-09-27,At a W.T.O.,neutral,-0.0023181401193141937
+2007-09-27,"hearing Wednesday, the E.U.",neutral,-0.002199694514274597
+2007-09-27,argued that Boeing receives “lavish” government subsidies that give it an unfair advantage over its rival Airbus.,negative,-0.8357251286506653
+2007-09-27,W.T.O.,neutral,0.041373178362846375
+2007-09-27,Hears European Complaint of U.S. Aid to Boeing,neutral,-0.13923652470111847
+2007-09-28,"In its largest aircraft purchase in nearly a decade, the airliner ordered 24 Boeing 787 aircraft and 12 Airbus A380s.",positive,0.539580225944519
+2007-09-28,$8 Billion Jet Order by British Airways,neutral,0.31400734186172485
+2007-10-10,"The news is a serious setback to Boeing and to the Dreamliner, which has so far lined up 710 orders from nearly 50 airlines.",negative,-0.9348748922348022
+2007-10-10,Boeing Delays Deliveries of 787,negative,-0.8858336806297302
+2007-10-11,"Google’s billionaire founders, owners of a Boeing 767 that has been the talk of Silicon Valley, are apparently adding another unusually large private jet to their fleet: a Boeing 757.",positive,0.5676836967468262
+2007-10-11,Google Founders Pick Up Another Big Plane,neutral,0.08735176920890808
+2007-10-11,"The announcement is a blow to a program that had been seen as the most successful in commercial aviation — a perfect blend of technology, marketing and production line innovations.",positive,0.08111956715583801
+2007-10-11,Boeing Is Delaying Delivery of Its 787,negative,-0.897024929523468
+2007-10-27,The nation’s fleet of commercial planes is aging as carriers put off buying more comfortable and fuel-efficient jets.,negative,-0.9343023300170898
+2007-10-27,U.S. Airlines Put Off Buying New Planes,negative,-0.8095086812973022
+2007-11-06,"The announcement proved to be a fresh blow to investor confidence in the company, as shares slid nearly 4 percent in Paris trading.",negative,-0.9619362950325012
+2007-11-06,EADS Warns It Will Take a Hit From Delayed Military Plane,negative,-0.8589268922805786
+2007-11-13,"Prince Walid bin Talal of Saudi Arabia will soon be able to claim bragging rights for the world’s largest private jet, which is priced at just over $300 million.",neutral,0.4669336974620819
+2007-11-13,"The Prince and His Palace: A 6,400-Square-Foot Getaway That Flies",neutral,0.026420049369335175
+2007-11-24,"Boeing has been blessed with a nearly perfect environment in which to do business, at least until recently.",positive,0.7174178957939148
+2007-11-24,Jet’s Snags Don’t Deter Boeing’s Fans,negative,-0.6367297172546387
+2007-12-11,The airline said it was on track to deliver the first Dreamliner at the end of next year after improving supply chain problems that had led to a six-month delay in its production schedule.,negative,-0.03192213177680969
+2007-12-11,Boeing Says 787 to Meet Delayed Schedule,positive,0.3387773036956787
+2007-12-12,Boeing said it expected to deliver the first 787 in November or December 2008 after improving supply-chain problems that had led to a six-month delay.,negative,-0.22514608502388
+2007-12-12,Dreamliner Is Expected to Meet Its Revised 2008 Deadline,positive,0.8054946064949036
+2007-12-15,"The Boeing Company said AWAS, an airplane leasing company in Ireland, has ordered 31 of its single-aisle 737-800 jets.",neutral,0.17312856018543243
+2007-12-15,"While specific deal terms were not disclosed, Boeing said the order was worth $2.3 billion at list prices, although airlines typically negotiate discounts.",neutral,0.04686780646443367
+2007-12-15,AWAS owns and manages 315 airplanes.,neutral,0.004881634376943111
+2007-12-15,A Sale for Boeing,neutral,0.05614379793405533
+2007-12-27,"Air Astana, a venture between the Kazakh government and BAE Systems, agreed to buy nine Airbus and Boeing jetliners to help meet surging travel demand in Kazakhstan.",positive,0.89473956823349
+2007-12-27,"The six Airbus A320s and three Boeing 787-8s have a combined catalog price of $950 million, Air Astana said in an e-mailed statement.",neutral,0.05478164181113243
+2007-12-27,"Deliveries will start in 2012, it said.",neutral,0.04910602048039436
+2007-12-27,WORLD BUSINESS BRIEFING: Kazakhstan: Airline Buys Jetliners,positive,0.5272243618965149
+2007-12-27,AMERICAS.,neutral,0.06123775988817215
+2007-12-27,World Business Briefs,neutral,0.04968610033392906
+2008-01-02,Experts are concerned that some high-tech exports could help China modernize its military.,negative,-0.11656627058982849
+2008-01-02,Eased Rules on Tech Sales to China Questioned,positive,0.5034273266792297
+2008-01-04,"Boeing said that it had received orders for 1,413 commercial jets last year, setting a third consecutive annual record driven by demand from Asian and Middle Eastern airlines.",positive,0.8781245350837708
+2008-01-04,Another Record Year for Orders at Boeing,positive,0.13265740871429443
+2008-01-14,"Gulf Air, Bahrain’s loss-making national carrier, signed a $6 billion deal with Boeing for the delivery of 24 Dreamliner aircraft.",positive,0.9153552055358887
+2008-01-14,Gulf Air Signs $6 Billion Deal for Boeing Jets,positive,0.7088093161582947
+2008-01-15,"Virgin Atlantic said Monday that it would conduct the first airborne test of a renewable fuel by a commercial jet, using a Boeing 747.",neutral,0.388049453496933
+2008-01-15,Virgin Atlantic Plans a Biofuel Flight,neutral,0.021295174956321716
+2008-01-15,"With Boeing and Airbus scrambling to meet orders, analysts said the lag time between order and delivery is likely to start slowing sales.",negative,-0.9626421332359314
+2008-01-15,Heavy Orders for Airbus and Boeing Raise Backlog Questions,negative,-0.9470182657241821
+2008-01-15,British Airways announced plans to join the new boutique premium-class airline game across the Atlantic.,neutral,0.4786129295825958
+2008-01-15,But it isn’t bringing a lot of money to the table.,neutral,-0.10806725174188614
+2008-01-15,"For the Laptop Toters, a Roomier Flight to Europe",neutral,0.09235705435276031
+2008-01-16,Boeing announced that it was delaying the first flight and deliveries of the 787 Dreamliner because of continued supply-chain problems.,negative,-0.952414333820343
+2008-01-16,Boeing Delays Dreamliner Again,negative,-0.837753415107727
+2008-01-16,"The company is expected to announce another delay in production of its popular 787 Dreamliner, which could frustrate some international airlines’ expansion plans.",negative,-0.9280989766120911
+2008-01-16,More Delays Expected for Boeing’s Dreamliner,negative,-0.8530731201171875
+2008-01-16,"Airbus said it had secured a record 1,341 orders for new aircraft in 2007, closely trailing Boeing as a surge in demand for air travel drove demand for new planes.",positive,0.668377161026001
+2008-01-16,Airbus Orders Trailed Boeing in 2007,negative,-0.42224109172821045
+2008-01-17,Plug and play — a popular concept that allows buyers of computers and electronic games to avoid frustrating assembly — is proving hard to pull off for Boeing.,neutral,0.0795263797044754
+2008-01-17,Parts Didn’t Click Together for Boeing Jet,neutral,-0.27981579303741455
+2008-01-22,"The Brazilian airline TAM said it had signed a contract to buy 46 Airbus jets, including 22 extra-wide-body A350s.",positive,0.9088613986968994
+2008-01-22,The European-made A350 is a rival to the Boeing 787 Dreamliner.,neutral,0.2105749100446701
+2008-01-22,"TAM said that the order is worth $6.9 billion at list prices, although most airlines obtain deep discounts.",neutral,0.04866156727075577
+2008-01-22,"The addition of the A350s to TAM’s fleet represents the first time that the plane will be used in South America, TAM said.",positive,0.7340936660766602
+2008-01-22,Brazil: Airline Buys 22 Airbus Jets,positive,0.5853353142738342
+2008-01-27,"Old rhetoric dies hard for Alan R. Mulally, the chief executive at Ford Motor Company, who spent most of his career at jet maker Boeing.",neutral,-0.32398802042007446
+2008-01-27,Will Cars Fly as Fast as the Metaphors?,neutral,0.04728225991129875
+2008-01-31,"CHICAGO (AP) — Boeing reported a 4 percent increase in fourth-quarter profit on Wednesday, topping Wall Street’s expectations despite concerns over delays in the 787 Dreamliner.",positive,0.91493821144104
+2008-01-31,Boeing Beats Wall Street’s Forecast,positive,0.40107953548431396
+2008-02-16,"Fat paychecks, pensions and health insurance are not enough to recruit and keep employees these days.",negative,-0.6818012595176697
+2008-02-16,The Workplace as Clubhouse,neutral,-0.10270337760448456
+2008-02-29,"In a surprising reversal for the Boeing Company, the Pentagon awarded a multibillion-dollar contract to Northrop Grumman and the European parent of Airbus.",positive,0.9167189002037048
+2008-02-29,Northrop and EADS Win Refueling Tanker Deal,positive,0.5578709840774536
+2008-03-01,A $40 billion Air Force contract for aerial refueling tankers is now partly in the hands of a foreign company.,neutral,-0.061690445989370346
+2008-03-01,U.S.-Europe Team Beats Out Boeing on Big Contract,positive,0.2893250584602356
+2008-03-03,"E.A.D.S., which broke into Boeing’s long monopoly on American military contracts, stressed that it will build the military jets in the United States.",neutral,0.3852560818195343
+2008-03-03,European Firm Says U.S. Jet Deal Means Jobs for Both Countries,negative,-0.20322629809379578
+2008-03-06,The F.A.A.,neutral,0.0014591105282306671
+2008-03-06,will seek to fine Southwest $10.2 million for flying 46 older jets that it claimed were grounded because they had not been properly inspected for fuselage cracks.,negative,-0.9311844110488892
+2008-03-06,Southwest Air Faces Big Fine on Plane Inspections,negative,-0.9039201736450195
+2008-03-07,The F.A.A.,neutral,0.0014591105282306671
+2008-03-07,"proposed a record penalty, $10.2 million, against Southwest Airlines on Thursday because, it said, the carrier had misled officials.",negative,-0.921207070350647
+2008-03-07,F.A.A.,neutral,0.04458102211356163
+2008-03-07,Fines Southwest Air in Inspections,neutral,-0.12043660879135132
+2008-03-10,Boeing’s loss of the contract to a rival team was a blow not just to its corporate pride but its long-range outlook.,negative,-0.9216411113739014
+2008-03-10,Boeing to Appeal Air Force Tanker Contract,negative,-0.21792130172252655
+2008-03-10,Boeing must decide by Wednesday whether to file an appeal on the Pentagon’s contract with Airbus.,neutral,-0.3689267635345459
+2008-03-10,"In Tanker Bid, It Was Boeing vs.",neutral,0.06284502148628235
+2008-03-10,Bold Ideas,neutral,0.21532383561134338
+2008-03-11,The G.A.O.,neutral,0.00211532786488533
+2008-03-11,"would have 100 days to review the action, which can be expected to stoke a debate about American jobs and military competitiveness in an election year.",neutral,0.2798255681991577
+2008-03-11,Boeing Says It Will Protest Tanker Deal,negative,-0.8484023213386536
+2008-03-11,"In a CNBC interview, Louis Gallois, chief executive of EADS, defends a $35 billion tanker contract with the United States Air Force.",negative,-0.3870382010936737
+2008-03-11,EADS Responds to Boeing,neutral,0.07861733436584473
+2008-03-12,"The parent of Airbus posted a loss of 446 million euros, or $684 million, for 2007 but insisted that it has put the worst behind it.",negative,-0.6895385980606079
+2008-03-12,Parent of Airbus Posts First Annual Loss in 5 Years,negative,-0.9318544268608093
+2008-03-12,"In its challenge to the Air Force’s award of a $35 billion contract to its rival, Boeing said the military had changed specifications to accommodate the bigger Airbus plane.",positive,0.16495540738105774
+2008-03-12,"Boeing, in Contract Protest, Cites Changes to Air Tanker",negative,-0.8593367338180542
+2008-03-12,The airline said it had grounded the planes after questions arose as to whether required testing had been done.,negative,-0.9313330054283142
+2008-03-12,Southwest Grounds 38 Boeing 737s for Review,negative,-0.5189275145530701
+2008-03-20,"After discovering that its testing equipment was past an inspection deadline, United Airlines said it was retesting altimeters on seven of its Boeing 747s.",positive,0.12024885416030884
+2008-03-20,United Brings Some 747s in for More Testing,neutral,0.052189722657203674
+2008-03-21,It grounded the planes when it was told by the F.A.A.,negative,-0.8966831564903259
+2008-03-21,that a maintenance contractor had checked the planes’ altimeters using an instrument that was not properly calibrated.,negative,-0.8087769746780396
+2008-03-21,United Airlines Grounds 7 Planes,neutral,-0.3188369572162628
+2008-03-30,"The Travel Bug column last Sunday about the Evergreen Maintenance Center, which stores airliners and returns them to service from an Arizona site, misstated the model number of three Boeing planes there that were operated by MaxJet, an airline that went bankrupt in December.",negative,-0.7545477151870728
+2008-03-30,"They are 767s, not 757s.",neutral,-0.02468043938279152
+2008-03-30,Correction: Giving Old Planes New Life,neutral,0.039749544113874435
+2008-04-02,"United Airlines temporarily removed its fleet of Boeing 777 aircraft from service to allow for inspections, resulting in the cancellation of 31 flights, the airline said.",negative,-0.9550741314888
+2008-04-02,United Cancels 31 Flights for Inspections,negative,-0.9325246214866638
+2008-04-09,"The new delivery date puts the plane, known as the Dreamliner, more than a year behind its original schedule.",neutral,0.04856410622596741
+2008-04-09,Latest Delay Puts Boeing’s Dreamliner a Year Behind,negative,-0.596733033657074
+2008-04-10,"Boeing said that it was pushing back delivery of the first 787 to the third quarter of 2009, more than a year behind the original schedule.",neutral,-0.053285494446754456
+2008-04-10,Another Delivery Delay for Boeing’s Dreamliner,negative,-0.787032425403595
+2008-04-24,"Boeing said its profits rose 38 percent, to $1.21 billion.",positive,0.9305130243301392
+2008-04-24,"General Dynamics said its net income jumped 32 percent, to $572 million.",positive,0.9288262724876404
+2008-04-24,Demand Lifts Boeing and General Dynamics,negative,-0.8445937037467957
+2008-04-30,"British Airways said on Wednesday it was in discussions with two of its largest U.S. rivals, American Airlines and Continental Airlines, which a source briefed on the matter told Reuters was about a potential alliance.",neutral,0.31916481256484985
+2008-04-30,"BA Confirms Talks With American, Continental",neutral,0.41088318824768066
+2008-05-29,Ahead of an expected W.T.O.,neutral,-0.20044131577014923
+2008-05-29,"ruling on subsides, European officials suggested this week that they would help finance the Airbus A350, the rival to the Boeing 787.",neutral,0.47435322403907776
+2008-05-29,Ruling Near on Boeing-Airbus Dispute,negative,-0.7411842942237854
+2008-06-06,Continental became the latest airline to announce capacity reductions in the face of high prices for jet fuel.,negative,-0.9171440601348877
+2008-06-06,Continental Cuts Jobs and Grounds Jets,negative,-0.9122986197471619
+2008-06-18,"Northwest said it would eliminate more planes from its fleet by the end of December, its second cut in capacity this year.",negative,-0.9311410188674927
+2008-06-18,Northwest Plans More Fleet Cutbacks,negative,-0.7926557660102844
+2008-06-18,"The Government Accountability Office is out with a statement that backs Boeing in its bitter protests over the award of an Air Force tanker contract to Airbus, its European rival, which paired with Northrop Grumman to submit a bid.",negative,-0.8099779486656189
+2008-06-18,Protectionism or Fairness?,neutral,-0.02021867036819458
+2008-06-19,"The Air Force made errors in awarding a lucrative contract to Northrop Grumman and its European partner, the Government Accountability Office said.",negative,-0.8944593667984009
+2008-06-19,Audit Says Tanker Deal Is Flawed,neutral,0.07900981605052948
+2008-06-20,"Seeking to avoid a new trans-Atlantic trade clash, EADS played down a G.A.O.",negative,-0.8845597505569458
+2008-06-20,"report that found flaws in its bid to make refueling tankers with its U.S. partner, Northrop Grumman.",negative,-0.9355421662330627
+2008-06-20,Europe Plays Down Setback in U.S. Tanker Bid,negative,-0.8860642910003662
+2008-06-21,"Boeing said that tests on the 787 Dreamliner’s power systems were successful, putting the plane on schedule for its initial flight in the fourth quarter and delivery to customers next year.",positive,0.9096912145614624
+2008-06-21,Boeing’s Dreamliner Passes a Crucial Test,positive,0.4819766879081726
+2008-07-02,"Already facing a delay of at least 14 months on its new 787 Dreamliner aircraft, damage to the fourth of six test planes could have an effect on the full program.",negative,-0.9388548731803894
+2008-07-02,Fuselage Damage May Slow Boeing,negative,-0.8422359824180603
+2008-07-02,"British Airways has agreed to buy Paris-based L’Avion for 54 million pounds ($108 million) to expand its new OpenSkies unit, adding more flights between France and the United States.",positive,0.9142003059387207
+2008-07-02,B.A.,neutral,0.06404096633195877
+2008-07-02,Hops Flight on L’Avion,neutral,-0.021129794418811798
+2008-07-03,"AMR‘s American Airlines, British Airways and Iberia are gearing up to apply for antitrust immunity in order to form a joint venture that could create a trans-Atlantic aviation giant, The Financial Times reported.",positive,0.6947428584098816
+2008-07-03,"American, B.A., Iberia Said to Explore Joint Venture",neutral,0.06118723005056381
+2008-07-08,"The cause of the damage is unknown, but pilots heard a bang when the plane was at 18,000 feet during its descent into Tampa, Fla.",negative,-0.6644563674926758
+2008-07-08,Nose Cone of Northwest Jet Dented in Flight,negative,-0.9110430479049683
+2008-07-10,A multibillion-dollar contract for refueling tankers will be reopened after a report found flaws in the original process.,negative,-0.8263610601425171
+2008-07-10,Pentagon Gives Boeing New Chance at Contract,positive,0.7814862728118896
+2008-07-15,"Sheik Ahmed bin Saeed Al-Maktoum, chairman of the Emirates Group, announced a $3.78 billion order for 54 Boeing 737-800 series jets, which he will use to start a low-fare airline, FlyDubai.",positive,0.6539353132247925
+2008-07-15,Dubai Sheik Buys Boeing Jets for New Airline,positive,0.552557647228241
+2008-07-15,"Whatever the outcome of the reopened $35 billion competition for midair refueling tankers, there will be winners and losers on both sides of the Atlantic.",neutral,0.4349853992462158
+2008-07-15,Air Tanker Contract Pits Airbus Against Boeing on Global Stage,negative,-0.797153890132904
+2008-07-16,Problems linked to the braking system of Boeing’s much-delayed 787 Dreamliner conspired with a dearth of new orders from Western airlines to darken the mood at the aerospace industry’s showcase event.,negative,-0.9462748169898987
+2008-07-16,Brakes and Other Headaches at an Aircraft Show,negative,-0.6698008179664612
+2008-07-17,"Airplane manufacturers are trying to bolster their green credentials by lauding initiatives to reduce the environmental impact of flying, as well as the cost.",positive,0.7260603904724121
+2008-07-17,The Wild Green Yonder,neutral,0.09994558990001678
+2008-07-20,"With jet fighters overhead, it was easy to be distracted at the Farnborough International Airshow last week.",neutral,-0.37834692001342773
+2008-07-20,"But for executives, there were distractions on the ground, too.",negative,-0.4610573649406433
+2008-07-20,"At an Air Show, Competing With the Roars and the Ringtones",neutral,0.11703085899353027
+2008-07-29,"British Airways and Spain’s Iberia said on Tuesday that they are in negotiations to strike an all-stock merger, months after British Airways dropped a bid to buy the Spanish airline.",neutral,-0.09121587872505188
+2008-07-29,B.A.,neutral,0.06404096633195877
+2008-07-29,Enters Merger Talks With Iberia,neutral,0.09378310292959213
+2008-08-01,"Despite a multiyear backlog of airplane orders at both Airbus and Boeing, aircraft manufacturers are seeing troubling signs among their customers.",negative,-0.9494918584823608
+2008-08-01,High Fuel Costs Delay Airplane Orders,negative,-0.7373024225234985
+2008-08-12,"Despite a general slowdown in deal-making, many aerospace and defense bankers are still busy, Investment Dealers’ Digest reports.",neutral,-0.26121222972869873
+2008-08-12,"Large companies in the industry, such as Lockheed Martin and Boeing, are helping to drive the activity as they acquire smaller competitors.",neutral,0.09128016233444214
+2008-08-12,No Slowdown Seen for Aerospace Deals,neutral,-0.05487909913063049
+2008-08-17,"BusinessWeek magazine is about to introduce a site that hosts hundreds of topic pages, on subjects as broad as the housing market and as narrow as the Boeing 787.",neutral,0.013764307834208012
+2008-08-17,Topic Pages to Be Hub of New BusinessWeek Site,neutral,0.011945370584726334
+2008-08-22,"The Boeing Company, seeking to win the reopened $35 billion Air Force tanker competition, said it needs more time to prepare its proposal.",positive,0.5497334599494934
+2008-08-22,Boeing Seeks More Time for Bid,neutral,0.08820467442274094
+2008-08-30,The Boeing Company’s largest union urged members to reject a contract offer next week and walk off the job in a strike that would shut production and may further delay the 787 Dreamliner.,negative,-0.9418081641197205
+2008-08-30,Union Urges a Strike at Boeing,negative,-0.9061875343322754
+2008-09-02,"Union members are set to cast two votes that will determine whether they accept a new contract or strike at a crucial moment in the development of Boeing’s newest plane, the Dreamliner.",neutral,-0.08920593559741974
+2008-09-02,Boeing Awaits Machinists’ Contract Vote,neutral,0.05877993255853653
+2008-09-03,"Leader of the machinists’ union at Boeing agreed to return to the bargaining table early Thursday, just hours after union members voted to strike over contract negotiations.",negative,-0.3530603349208832
+2008-09-03,"After Strike Vote, Boeing Union Agrees to Resume Talks",positive,0.10533162951469421
+2008-09-05,"The strike, set to begin early Saturday, could potentially delay an important new aircraft, the Dreamliner.",negative,-0.9449750185012817
+2008-09-05,Machinists Union at Boeing Says It Will Strike,negative,-0.6660701632499695
+2008-09-06,"Faith Popcorn, the trend-spotter, personifies the trends she’s spotting these days.",neutral,0.03584964573383331
+2008-09-06,"Walking the Walk, Tightening the Belt",neutral,0.004798375070095062
+2008-09-06,"The union that represents 27,000 machinists in Washington State, Oregon and Kansas walked off the job as Boeing’s books are bulging with demand for its planes.",negative,-0.9480505585670471
+2008-09-06,"Boeing, With an Order Backlog, Is Hit by a Strike",negative,-0.9501304030418396
+2008-09-10,"In struggling industries like automobiles and airlines, the bargaining power of unions has been limited by the weak positions of their employers.",negative,-0.9443562626838684
+2008-09-10,"By contrast, Boeing is strong.",positive,0.5124867558479309
+2008-09-10,Boeing’s Strong Results Alter Strike Dynamics,negative,-0.47563785314559937
+2008-09-10,A disputed decision about refueling tankers for the Air Force will wait until the next administration.,neutral,-0.28177887201309204
+2008-09-10,Pentagon Delays Decision on Air Force Tanker Contract,negative,-0.5114237666130066
+2008-09-12,"CNBC interviews Willie Walsh, chief executive of British Airways, about the proposed tie-up between BA and American Airlines.",neutral,0.06382797658443451
+2008-09-12,BA Chief on Trans-Atlantic Deal,neutral,0.0532330758869648
+2008-09-26,There have been no negotiations between the aircraft manufacturer and the International Association of Machinists and Aerospace Workers since the strike began on Sept. 6.,negative,-0.84339839220047
+2008-09-26,Boeing Negotiations ‘at a Standstill’,negative,-0.6434606909751892
+2008-10-09,"Negotiations are to resume, more than one month after the walkout began.",neutral,0.05150914564728737
+2008-10-09,Boeing and Union Agree to Restart Talks,positive,0.5157256126403809
+2008-10-14,"The Boeing Company, whose factories have been shut since its 27,000 machinists walked out on Sept. 6, said a new round of talks last weekend had failed.",negative,-0.9439103007316589
+2008-10-14,Boeing’s Talks With Union Fail,negative,-0.5620586276054382
+2008-10-21,"Commercial real estate in the home of Washington Mutual, Starbucks and Boeing is taking a big hit in the economic slowdown.",negative,-0.4598207473754883
+2008-10-21,"Even in Resilient Seattle, Office Vacancy Rate Is Rising",negative,-0.9327373504638672
+2008-10-22,Boeing said that its third-quarter net income dropped 38 percent because of a strike by machinists and supplier-related issues.,negative,-0.9697486162185669
+2008-10-22,Earnings Drop 38% at Boeing as a Machinists’ Strike Wears On,negative,-0.9612429738044739
+2008-10-28,The Boeing Company and the machinists union may have a deal on a new contract that could end a 52-day strike.,negative,-0.2812472879886627
+2008-10-28,Boeing and Union Reach Tentative Deal,positive,0.6183052062988281
+2008-10-28,"Members of the union that represents machinists at Boeing will begin voting later this week on the tentative agreement, reached Monday night.",neutral,0.35720300674438477
+2008-10-28,Boeing Deal Includes a 15% Raise Over 4 Years,positive,0.5267778038978577
+2008-11-04,"The Commercial Aircraft Corporation of China won its first overseas regional-jet order, worth about $750 million, from General Electric.",positive,0.9241998791694641
+2008-11-04,G.E.,neutral,0.0415060818195343
+2008-11-04,Orders Jets Made by China,neutral,0.019421733915805817
+2008-11-04,"In the latest setback for the new plane, the Boeing 787 will not make its first test flight this year because of delays caused by a strike of the machinists union, the airplane maker said.",negative,-0.9483745098114014
+2008-11-04,Boeing Postpones Test Flight of the 787,negative,-0.7374112010002136
+2008-12-06,"The first plane will not be delivered until 2010 at the earliest, nearly two years behind the original schedule, executives said.",neutral,0.06414693593978882
+2008-12-06,New Boeing 787 Jetliner Faces Another Delay,neutral,-0.36831602454185486
+2008-12-08,Qantas Airways warned investors its proposed $5.6 billion merger with British Airways faced major obstacles over the terms of the deal and stressed there was a reasonable chance talks would fail.,negative,-0.8652765154838562
+2008-12-08,Qantas Chief Says BA Merger Faces Major Hurdles,neutral,-0.16320344805717468
+2008-12-11,"After a strike by workers and other production setbacks, Boeing confirmed it would push back deliveries of its new jet, the 787 Dreamliner, until the first quarter of 2010.",negative,-0.9226314425468445
+2008-12-11,Boeing Delays Delivery of the 787 to 2010,negative,-0.8656201958656311
+2008-12-18,A deal between Australia’s Qantas Airways and British Airways just won’t fly.,negative,-0.7244378924369812
+2008-12-18,Qantas And B.A.,neutral,0.03346770629286766
+2008-12-18,Merger Talks Grounded,neutral,0.04869959503412247
+2009-01-06,"Loan losses for U.S. commercial banks are expected to rise to 3 percent by the end of 2010, from 1.5 percent in the third quarter of 2008, hurt by an increased percentage of bad loans, greater consumer leverage and faster problem recognition by banks, a Deutsche Bank analyst wrote in a research note.",negative,-0.3645675480365753
+2009-01-06,"Bank Loan Losses May Double by 2010’s End, Deutsche Says",negative,-0.710808515548706
+2009-01-27,"The move is squarely aimed at helping Airbus and its parent company, European Aeronautics Defense and Space, maintain production during the current credit crunch.",positive,0.8660500049591064
+2009-01-27,France Looks to Help Airbus With Loan Guarantees,positive,0.5120620727539062
+2009-02-04,"Merger talks between British Airways and Spain’s Iberia are going well, the two sides said on Tuesday, hinting that news of a possible deal could arrive next month, according to Reuters.",positive,0.8877826929092407
+2009-02-04,BA and Iberia Merger Talks Progress,neutral,0.07592669129371643
+2009-03-02,Some airlines are fighting new F.A.A.,negative,-0.8079723119735718
+2009-03-02,rules requiring longer layovers for pilots of long-distance flights.,negative,-0.8926657438278198
+2009-03-02,Getting Enough Sleep,neutral,-0.04923376441001892
+2009-04-03,Some leading lawmakers and military analysts are suggesting that splitting a $35 billion contract between Boeing and EADS-Northrop Grumman may be the only way to break an impasse.,negative,-0.5859388113021851
+2009-04-03,U.S. May Let Rivals Share Tanker Deal,neutral,0.0687180757522583
+2009-04-16,"If the $35 billion contract for aerial refueling tankers were split between rivals, Louis Gallois of EADS says his team would need a commitment for at least 12 planes.",neutral,0.433716744184494
+2009-04-16,EADS Willing to Consider Splitting Air Force Tanker Contract With Boeing,neutral,0.34691840410232544
+2009-04-30,"Boeing, which was hit hard by the Obama administration’s spending cuts on defense, is pressing Congress to increase its orders for planes and fighter jets by $3 billion.",positive,0.8676003217697144
+2009-04-30,Boeing Presses Congress to Order More of Its Planes,neutral,0.12248040735721588
+2009-06-05,"Airbus and Boeing deliveries may fall 30 percent in the next year as carriers worldwide trim capacity, according to a coming industry forecast.",negative,-0.9685582518577576
+2009-06-05,Fewer Aircraft Orders Seen,negative,-0.7710909247398376
+2009-06-16,"The head of the company’s commercial jet division said that airline traffic could resume growing next year, but that risks remained in air freight.",negative,-0.10793691873550415
+2009-06-16,Boeing Executive Sees Airline Traffic Recovery in 2010,positive,0.7669016122817993
+2009-06-16,"Bidding for a $35 billion Air Force contract to replace aerial refueling tankers is about to begin for the third time in a decade, and the chief rivals are girding for the fight.",positive,0.4562872052192688
+2009-06-16,Boeing and Airbus Prepare (Again) for Tanker Battle,neutral,0.0979681983590126
+2009-06-23,"Additional stress was found where the wings attach to the sides of the plane, but executives said that minor modifications would fix the problem.",negative,-0.617422878742218
+2009-06-23,Another Flight Delay for Boeing’s Troubled Dreamliner,negative,-0.7614172697067261
+2009-06-27,The reduced order is an example of an airline responding to falling demand during the worldwide economic downturn.,negative,-0.9069501161575317
+2009-06-27,Qantas Reduces Orders for Boeing’s Dreamliner,negative,-0.9376277327537537
+2009-06-30,Additional safety equipment that could help more passengers survive certain crashes will be required on all new aircraft starting Oct. 27.,positive,0.5398086905479431
+2009-06-30,New Planes Will Have Air Bags and Seats Less Apt to Rip Loose,neutral,0.12934519350528717
+2009-07-07,"The airplane maker said that it would buy a North Charleston, S.C., plant in an apparent effort to resolve supplier problems that have contributed to costly delays.",positive,0.6360737085342407
+2009-07-07,Boeing Buys Plant That Makes Crucial Part of Dreamliner,neutral,0.21235796809196472
+2009-07-22,"Structural problems with the new passenger airliner overshadowed Boeing’s earnings, which increased due to its military division.",negative,-0.9232187867164612
+2009-07-22,"Boeing Cites Progress on Dreamliner, but No Test Flight Yet",neutral,0.22839468717575073
+2009-07-28,"The Russian airline, which is reinventing itself as a business carrier, will soon be mostly using planes made by Airbus and Boeing.",neutral,0.0442986898124218
+2009-07-28,Aeroflot Sheds Its Soviet Legacy and Turns to a Western Fleet,neutral,-0.07837437093257904
+2009-08-14,Wrinkles in the high-tech materials covering parts made by an Italian supplier have raised new concerns about when the new plane will fly.,negative,-0.9314709901809692
+2009-08-14,Boeing Halts Production of Flawed Dreamliner Part,negative,-0.9194777011871338
+2009-08-27,"Trading has been erratic over the last week, even amid data showing improvements in housing and consumer confidence.",negative,-0.9572526812553406
+2009-08-27,Shares Wander Through Day but Close Higher,negative,-0.809330940246582
+2009-08-27,Boeing said it would record a pretax charge of $2.5 billion in the third quarter because of the plane’s delays.,negative,-0.9227045774459839
+2009-08-27,"Boeing, Behind Schedule, Plans Dreamliner Flight",neutral,-0.0858430564403534
+2009-08-31,"The executive, Scott E. Carson, will be succeeded by the person in charge of the company’s top military program.",neutral,0.014820270240306854
+2009-08-31,Overseer of Dreamliner Will Retire From Boeing,neutral,0.002631712704896927
+2009-08-31,"John McMahon, chief executive of an aircraft leasing company, had a romantic reason for flying the long way home to Ireland from his job in Japan.",neutral,-0.03613495081663132
+2009-08-31,That’s Why It’s Called the International Date Line,neutral,0.040005527436733246
+2009-09-04,A dispute over claims that Europe and the United States subsidized aircraft makers became less important because planes are now built in several countries.,negative,-0.9042582511901855
+2009-09-04,Five-Year Dispute on Aircraft Claims Loses Its Urgency,negative,-0.9177344441413879
+2009-09-04,"Both American and European Union officials declared victory after a confidential finding, which said Airbus received illegal subsidies, was given to trade agencies.",positive,0.3828386068344116
+2009-09-04,W.T.O.,neutral,0.041373178362846375
+2009-09-04,Says Aid to Airbus for A380 Was Illegal,neutral,0.3167555332183838
+2009-09-05,"Boeing says it is getting back on track on the 787 Dreamliner, which is two years late.",positive,0.8030597567558289
+2009-09-05,The company says it outsourced too much.,negative,-0.9489217400550842
+2009-09-05,A Dream Interrupted at Boeing,neutral,-0.3097633719444275
+2009-09-07,How Boeing is dealing with the problems of the 787 Dreamliner.,neutral,-0.13127955794334412
+2009-09-07,A Dream Interrupted at Boeing,neutral,-0.3097633719444275
+2009-09-16,Boeing and a joint venture of Northrop Grumman and the European maker of Airbus planes are competing for the $35 billion contract.,neutral,0.16562561690807343
+2009-09-16,U.S. Air Force to Take Lead on Tanker Contract,neutral,0.3637804090976715
+2009-09-18,"American Airlines will team up with British Airways and Qantas Airways to offer cash-strapped Japan Airlines fresh capital and expanded business ties, Reuters reported.",positive,0.9106656908988953
+2009-09-18,"American, BA and Qantas Said to Eye Joint Offer for JAL",neutral,0.2843785881996155
+2009-09-24,The Organisation for Economic Co-operation and Development signaled on Wednesday that Switzerland would soon be taken off a list of financial centers judged to fall short of international standards of cooperation in tax evasion inquiries due to bank secrecy rules.,negative,-0.9159906506538391
+2009-09-24,"Swiss to Exit Bank Secrecy List, O.E.C.D.",neutral,0.1202419102191925
+2009-09-24,Says,neutral,0.041488371789455414
+2009-09-24,Pentagon officials briefed lawmakers on what is expected to be another hotly disputed contest between Boeing and a joint venture including Northrop Grumman and EADS.,negative,-0.5733189582824707
+2009-09-24,$35 Billion Tanker Contract Opens,neutral,0.09695093333721161
+2009-10-06,"A retired sales manager for Boeing pleaded guilty to hiding nearly $2 million in UBS accounts in Switzerland, as the United States pursues Americans illegally stashing funds abroad to avoid taxes.",negative,-0.8947631120681763
+2009-10-06,Former Boeing Executive Guilty in Swiss Tax Case,negative,-0.5619918704032898
+2009-10-09,"The flush times in military spending are coming to an end, and Boeing, which has sharply expanded its defense business in recent years, could be the biggest loser.",negative,-0.8549889326095581
+2009-10-09,Flying Into Headwinds,negative,-0.5358045101165771
+2009-10-20,"Global competition, shrinking budgets and technology changes are altering the outlook for makers of military aircraft.",negative,-0.8949156999588013
+2009-10-20,"In Tough Market, Dassault Finds a Fighter Sale in Brazil",neutral,0.4022716283798218
+2009-10-21,The loss includes a charge of $2.5 billion for delays in the 787 Dreamliner and $1 billion for the 747-8 jumbo jet.,negative,-0.9233633875846863
+2009-10-21,Boeing Reports $1.6 Billion Loss Because of Delays,negative,-0.9495183229446411
+2009-10-26,"A senator who supports Northrop Grumman says the procedure for winning the bid favors a rival, Boeing.",neutral,-0.013066887855529785
+2009-10-26,Bid Process for Air Force Tanker Is Criticized,neutral,0.010512922890484333
+2009-11-12,A merger between British Airways and Spain’s Iberia looked imminent on Thursday as their boards held separate meetings to discuss a deal to create the world’s third-largest airline by revenue,neutral,0.3672616481781006
+2009-11-12,"BA, Iberia Boards Meet Over Potential Deal",neutral,-0.024974552914500237
+2009-12-02,"Treasury Secretary Timothy F. Geithner returned to Capitol Hill on Wednesday to testify for transparency in the global, unregulated $600 trillion derivatives market as part of the Obama administration’s push to overhaul the financial system.",positive,0.49616917967796326
+2009-12-02,Geithner Calls for More Derivatives Restrictions,neutral,0.040764108300209045
+2009-12-11,"It looks the private equity firms angling for a stake in British Airways’ OpenSkies subsidiary are out of luck, after the carrier said Friday that it has decided to keep full ownership of the unit.",negative,-0.8024360537528992
+2009-12-11,BA Said to Turn Down P.E.,neutral,-0.10118415951728821
+2009-12-11,Bids for OpenSkies Unit,neutral,0.01226196438074112
+2009-12-12,The future of the plane is unknown after the seven governments backing the project put off committing additional money for at least another month.,negative,-0.5394995808601379
+2009-12-12,"After Delays and Cost Overruns, Airbus A400M Takes Off",negative,-0.6949043869972229
+2009-12-19,"The Irish airline Ryanair said Friday that it had pulled out of talks to buy 200 aircraft from Boeing, and would now trim its investment plans starting in 2011.",negative,-0.9306241273880005
+2009-12-19,"Ryanair Ends Boeing Talks, to Benefit of Shareholders",neutral,0.023855626583099365
+2009-12-23,The acquisition will give the aircraft maker more control over the delayed 787 Dreamliner.,positive,0.7279243469238281
+2009-12-23,Boeing Buys Remainder of 787 Assembly Plant,neutral,0.019797008484601974
+2009-12-28,A nonprofit tracks emissions and persuades some companies to change policies before governments step in.,neutral,0.029294047504663467
+2009-12-28,Emissions Disclosure as a Business Virtue,neutral,0.0183415487408638
+2010-01-06,"Investing in financial stocks will be “boring” this year compared to the charged atmosphere of 2009, analysts at FBR Capital Markets say.",neutral,0.4113667905330658
+2010-01-06,But they warn that residential loan losses and the weak economy will continue to clip the earning power of banks.,negative,-0.9147721529006958
+2010-01-06,A Mixed Forecast for Financial Stocks,negative,-0.7269411683082581
+2010-02-01,"It’s called Hartsko Financial Services, and it provides short-term credit to small and midsize companies.",neutral,0.022024789825081825
+2010-02-01,"In the last year or so, firms have been beating a path to Hartsko — even if the loans are vastly more expensive than traditional ones from banks.",positive,0.7896824479103088
+2010-02-01,The Places They Go When Banks Say No,neutral,-0.08348502963781357
+2010-03-03,"The police fired tear gas and used water cannons to disperse thousands of protesters outside Indonesia’s Parliament on Tuesday, while security guards inside had to break up a fight among lawmakers debating the results of an investigation into a bank bailout.",negative,-0.8177210688591003
+2010-03-03,Fight Erupts Over Inquiry Into Jakarta Bank Bailout,negative,-0.7226911783218384
+2010-03-08,The decision leaves Boeing as the likely winner of a contract that could eventually cost $100 billion.,neutral,0.4090394377708435
+2010-03-08,Northrop and EADS to Drop Bid for Tanker,negative,-0.8992369174957275
+2010-03-09,"Even as big companies are moving their pension funds out of stocks, state governments are chasing higher returns by making riskier investments.",neutral,0.11842198669910431
+2010-03-09,Public Pension Funds Are Adding Risk to Raise Returns,neutral,0.07674643397331238
+2010-03-11,Boeing will now have some welcome certainty about its future as a major builder of military aircraft.,positive,0.7654467225074768
+2010-03-11,Tanker Deal Gives a Lift to Boeing,positive,0.551720142364502
+2010-03-23,The W.T.O.,neutral,-0.0015203170478343964
+2010-03-23,is also looking into a European complaint that Boeing has benefited improperly from subsidies from its military business.,negative,-0.9147478342056274
+2010-03-23,W.T.O.,neutral,0.041373178362846375
+2010-03-23,Affirms Ruling of Improper Airbus Aid,negative,-0.7629246115684509
+2010-03-30,"A brighter outlook for the American consumer and signs that foreign debt troubles were easing helped propel Wall Street higher on Monday, The New York Times reported.",positive,0.8928611278533936
+2010-03-30,Optimism About Recovery Lifts Shares,positive,0.3617452383041382
+2010-04-20,"The decision by EADS to bid for a contract worth at least $35 billion came six weeks after its partner, Northrop Grumman, dropped out of the contest.",neutral,0.10133647173643112
+2010-04-20,Airbus’s Parent Gambles on Tanker Contract,negative,-0.598824143409729
+2010-05-03,Boeing adjusts its responsiveness after a flap over 8-year-old Harry Winsor’s letter to the airplane company.,positive,0.299640953540802
+2010-05-03,Boeing’s Social-Media Lesson,neutral,-0.0043310485780239105
+2010-05-20,Stocks on Wall Street declined on Wednesday as a German measure meant to thwart speculators in the European debt markets revived concerns about the debt crisis in Europe.,negative,-0.9447954893112183
+2010-05-20,Shares Fall as Germany Moves to Restrict Trades,negative,-0.8228927254676819
+2010-05-21,"Fears that the fragile economic recovery in the United States might be threatened by the financial and political crisis in Europe gripped Wall Street on Thursday, sending the stock market into a sharp decline and leaving anxious traders wondering where the pain might stop.",negative,-0.9270933866500854
+2010-05-21,Asian Stocks Drop Sharply After Big Fall in U.S.,negative,-0.9533143043518066
+2010-06-07,"The military contractor says that by building the craft itself, it hopes to avoid some of the problems that hampered the previous contractors.",positive,0.8258150815963745
+2010-06-07,Boeing Plans Bid on Presidential Helicopter Fleet,neutral,0.057410549372434616
+2010-06-08,A Nevada company is preparing the solar system’s first private space station.,neutral,0.057353440672159195
+2010-06-08,"In Space Race, Enter Entrepreneurs",neutral,0.13783979415893555
+2010-06-16,"Lorenzo Bini Smaghi, a member of the executive board of the European Central Bank, gave a speech in New York on Monday that shed some light on why Europe’s sovereign debt crisis is such a threat to euro-zone banks — and why the European Central Bank felt compelled to intervene last month in the bond market.",neutral,0.14989802241325378
+2010-06-16,Government Bonds and the Financial Crisis,neutral,-0.3891772925853729
+2010-06-16,"Stocks in the United States closed higher on Tuesday, sustaining a broad-based rally that for once did not lose steam at the end of the session.",positive,0.826724648475647
+2010-06-16,"Markets Make a Run, Rising More Than 2%",positive,0.49965131282806396
+2010-06-22,"British Airways said it had agreed a recovery plan for its $5.5 billion pension deficit, potentially removing a final obstacle to its planned merger with Spain’s Iberia.",positive,0.8289824724197388
+2010-06-22,B.A.,neutral,0.06404096633195877
+2010-06-22,Makes Pension Deal to Keep Merger on Track,neutral,0.24830642342567444
+2010-06-30,"An experimental circuit breaker for stock markets, put in place after last month’s flash crash, kicked in for the second time on Tuesday, after a sudden plunge in the price of Citigroup shares, leaving industry observers feeling optimistic about the new mechanism.",positive,0.5917356610298157
+2010-06-30,Circuit Breaker Leaves Analysts Hopeful,negative,-0.6486722230911255
+2010-06-30,"Fears that the global economy will worsen gripped the financial markets again Tuesday, with downbeat economic news that investors might have shrugged off in calmer times sending the broad stock market tumbling to its lowest level this year.",negative,-0.9313218593597412
+2010-06-30,U.S. Stocks Drop on New Jitters About Global Growth,negative,-0.918708324432373
+2010-06-30,The aircraft maker will buy Argon ST to expand its capabilities in warfare and intelligence gathering.,positive,0.9044764637947083
+2010-06-30,Boeing to Buy Defense Company for $775 Million,neutral,0.016187991946935654
+2010-06-30,The World Trade Organization ruled that European government subsidies gave the European aircraft maker an unfair advantage over Boeing.,negative,-0.8893899917602539
+2010-06-30,"In Ruling, W.T.O.",neutral,-0.17930012941360474
+2010-06-30,Faults Europe Over Aid to Airbus,negative,-0.6090080142021179
+2010-07-01,The stock market rounded out its worst quarter since late 2008 on Wednesday with a late slide that spared few blue chips.,negative,-0.9465667009353638
+2010-07-01,Second Quarter Ends With Dow Down 10%,negative,-0.9451120495796204
+2010-07-08,Boeing plans to submit its bid on Friday as its supporters question whether Airbus has a cost advantage because of European aid.,negative,-0.9110593795776367
+2010-07-08,European Plane Maker Submits Bid for U.S. Tankers,neutral,0.2828848958015442
+2010-07-09,"The European Aeronautic Defense and Space Company submitted an 8,800-page bid on Thursday for a $35 billion Air Force tanker contract amid tensions over whether European subsidies would give it a cost advantage over Boeing.",negative,-0.08003565669059753
+2010-07-09,EADS Bids on Air Force Tankers Amid Tensions,negative,-0.3518166244029999
+2010-07-09,The aircraft maker submitted a bid for a $35 billion Air Force tanker contract and said it would cut costs on the production line to compete with its rival.,positive,0.8038081526756287
+2010-07-09,"Boeing Bids for Tanker, and Overhauls 767 Production",neutral,-0.24333734810352325
+2010-07-18,"“We are in an abnormal and increasingly unfair situation,” Louis Gallois, the chief of EADS, said of the bidding for a big Air Force contract.",negative,-0.8938742280006409
+2010-07-18,W.T.O.,neutral,0.041373178362846375
+2010-07-18,Ruling Upsets Chief of Jet Maker,negative,-0.8863165378570557
+2010-07-19,"The order by the Dubai-based airline for Boeing 777 jets, to be announced Monday, could be worth $7 billion.",neutral,0.1209506094455719
+2010-07-19,Officials Say Boeing Won a Jet Order From Emirates,positive,0.832577109336853
+2010-07-19,"The deal is a sign that commercial aviation, and Boeing’s fortunes, are starting to recover from the recession.",positive,0.8938366770744324
+2010-07-19,Boeing Gets Order for Up to 30 Jets From Dubai,positive,0.7269229292869568
+2010-07-20,Boeing and Airbus received orders for more than 180 new planes on the first day of the Farnborough International Airshow.,positive,0.81046462059021
+2010-07-20,Deals at Air Show Bode Well for Recovery,positive,0.6414216756820679
+2010-07-20,"The jet-leasing newcomer, which has ordered 120 aircraft valued at nearly $9 billion, is the single biggest customer at the Farnborough International Airshow.",positive,0.48860257863998413
+2010-07-20,Leasing Start-Up Is Making Noise at Air Show,negative,-0.7442488670349121
+2010-07-21,"Amid a flurry of new plane purchases by the world’s leading jet-leasing companies, a newcomer, the Air Lease Corporation, added to a rapidly expanding fleet on Tuesday, announcing orders for 69 planes valued at about $4.7 billion.",positive,0.864952564239502
+2010-07-21,Leasing Start-Up Makes Noise at Air Show,neutral,-0.26312997937202454
+2010-07-26,"Wall Street enters this week on the cusp of a breakout in United States stocks, but it will need another spate of convincing earnings reports to feed the rally that sprouted at the end of last week.",positive,0.7816156148910522
+2010-07-26,"Market: Bull, Bear or Turkey?",neutral,-0.04903800040483475
+2010-07-28,"The Pentagon is slowing spending, but orders for commercial airlines are recovering.",negative,-0.6573367118835449
+2010-07-28,Military Cutbacks Redirect Boeing to Commercial Side,neutral,-0.14588046073913574
+2010-08-02,"Comments filed with the Commerce Department highlighted concerns, including the dollar’s rising value, high tariffs and traveling difficulties.",negative,-0.9212499856948853
+2010-08-02,Hurdles Deter Obama’s Pledge to Double Exports,negative,-0.487710177898407
+2010-08-05,"The European Commission, International Monetary Fund and European Central Bank will outline the results of an inspection Thursday that will determine whether debt-ridden Greece will receive the second installment of rescue loans to keep it from bankruptcy.",neutral,0.12517662346363068
+2010-08-05,Greek Debt Tests Results to Be Released,neutral,-0.014959532767534256
+2010-08-09,"Timothy Garrett is an aeronautical engineer for the Boeing Defense, Space and Security Phantom Works group.",neutral,0.005783088505268097
+2010-08-09,"He is also a pilot, undeterred by multiple sclerosis.",neutral,0.08868773281574249
+2010-08-09,"Inspired by Flying, and Inspiring Others",neutral,0.3136354684829712
+2010-08-27,"Boeing now expects delivery of the first 787 Dreamliner in the middle of the first quarter 2011, owing to a delay in engine availability.",negative,-0.8835527300834656
+2010-08-27,Engine Problem Delays Delivery of Boeing’s Dreamliner,negative,-0.9488927721977234
+2010-08-30,Boeing is conducting training at its sprawling Customer Experience Center to show how it is preparing to put its much-delayed 787 Dreamliner airplane into service.,neutral,0.3039083480834961
+2010-08-30,"Training for the 787, Whenever It Shows Up",neutral,0.02765057608485222
+2010-09-08,Tightened spending at the Pentagon is unsettling the defense industry.,negative,-0.9476853013038635
+2010-09-08,A quarter of executives at Lockheed Martin jumped at the chance to take a buyout.,positive,0.5938517451286316
+2010-09-08,"Bracing for Cuts, Military Firms Shed Workers",negative,-0.9514064192771912
+2010-09-15,"American lawmakers said the subsidies were a fraction of what Europe claimed, but European leaders said the finding could lead to talks to resolve the problem.",neutral,0.016658827662467957
+2010-09-15,W.T.O.,neutral,0.041373178362846375
+2010-09-15,Said to Find Improper Subsidies for Boeing,negative,-0.7394529581069946
+2010-09-17,Airbus and Boeing have for years received questionable aid as they angle for some of the same customers.,negative,-0.8882929086685181
+2010-09-17,A Feud Between Airbus and Boeing Has Given Neither Side a Clear Advantage,negative,-0.8217073678970337
+2010-09-17,"Boeing has announced a joint venture with Space Adventures Ltd., undertaking what, on the face of it, must be one of the more straightforward marketing projects ever billed: selling tickets to space.",positive,0.6848877668380737
+2010-09-17,Advertising Space,neutral,0.043252263218164444
+2010-10-18,Negotiators are meeting in Ottawa this week to discuss questions about the financing of the airplane business.,neutral,0.04903766140341759
+2010-10-18,Aviation World at Odds Over Plane Loans,negative,-0.5196179151535034
+2010-10-20,"Boeing’s chief executive, W. James McNerney Jr., said stronger-than-expected orders this year boded well for a recovery in sales.",positive,0.9075112342834473
+2010-10-20,Boeing Posts Profit and Raises Forecast,negative,-0.01505163311958313
+2010-11-04,"India, flush with new wealth but worried about its security, is becoming one of the world’s most lucrative arms markets.",positive,0.6320102214813232
+2010-11-04,"Wealthy and Worried, India Is Rich Arms Market",neutral,0.05011602118611336
+2010-11-10,Test flights for the 787 Dreamliner were halted a day after an onboard fire forced an emergency landing.,negative,-0.9512384533882141
+2010-11-10,In-Flight Fire Endangers Delivery Date for Boeing 787,negative,-0.9482327103614807
+2010-11-15,The reports come as Qantas Airways said that one of its Boeing 747s had to return to Australia on Monday after experiencing electrical problems.,negative,-0.9477896690368652
+2010-11-15,Airlines Worry Over Possible Shortage of A380 Engine Spares,negative,-0.9469655156135559
+2010-11-16,"Airlines want more fuel-efficient versions of the 737 and A320, but the planes’ makers are looking to new aircraft.",neutral,0.11982101202011108
+2010-11-16,Boeing and Airbus Waver on Reworking Their Smaller Jets,negative,-0.9251897931098938
+2010-11-20,"“Turbulence,” a new book by four authors, uses employee surveys to examine a stressful period of change at the Boeing Company.",neutral,-0.05647098645567894
+2010-11-20,The Pain of Change at Boeing,neutral,-0.31577402353286743
+2010-11-23,"The two officials had mistakenly sent confidential data to Boeing and EADS, rivals for a $35 billion Air Force tanker contract.",negative,-0.8688690662384033
+2010-11-23,Pentagon Reassigns 2 Officials in Mix-Up Over Confidential Tanker Data,negative,-0.9341113567352295
+2010-11-25,The company said it was updating software to help prevent similar incidents with the delayed jetliner.,positive,0.6061320304870605
+2010-11-25,Boeing Suspects Debris Caused Dreamliner Fire,negative,-0.8238962292671204
+2010-11-29,The forecasts came in response to Boeing’s announcement last week that it expected to come up with a new delivery schedule for the much-delayed plane.,positive,0.5265131592750549
+2010-11-29,Analysts Expect 6-Month Delay in Dreamliner Delivery,negative,-0.8471553325653076
+2010-12-01,"The new plane, an A320 NEO, would feature a new engine that is expected to provide better fuel economy.",positive,0.8874428868293762
+2010-12-01,Airbus Plans to Update A320,neutral,0.08277072757482529
+2010-12-01,"The problem arose when the wrong CDs were sent to EADS and Boeing, which are bidding on a $35 billion contract to build refueling tankers.",negative,-0.7541539072990417
+2010-12-01,Air Force Acts to Fix Error in Tanker Bid,neutral,0.12000837922096252
+2011-01-02,Sales campaigns for commercial jets on the global market often include politicking and cajoling at the highest levels of government.,negative,-0.5004810690879822
+2011-01-02,Diplomats Help Push Sales of Jetliners on the Global Market,positive,0.8292452096939087
+2011-01-07,"Nigel S. Wright, the top adviser to the country’s prime minister, plans to return to his old job at the private equity shop Onex in two years.",neutral,-0.005363240838050842
+2011-01-07,"In Canada, Doubts About Prime Minister’s Top Adviser",negative,-0.8123576045036316
+2011-01-08,"Since the 2008 market decline, managers of value funds have a broader choice of industries for their portfolios.",neutral,0.018062200397253036
+2011-01-08,Finer Lines Between Growth and Value,neutral,0.09938156604766846
+2011-01-17,"The order for 30 of the A320neo model will be booked to 2010, allowing Airbus to slip past Boeing in orders.",positive,0.5394521355628967
+2011-01-17,Virgin America Places Big Order for New Airbus Jet,positive,0.8176317811012268
+2011-01-17,General Electric wants to remain an important supplier to the Chinese aviation industry as it tries to challenge Boeing and Airbus in making commercial jetliners.,positive,0.697931170463562
+2011-01-17,G.E.,neutral,0.0415060818195343
+2011-01-17,to Share Jet Technology With China in New Joint Venture,positive,0.6132693290710449
+2011-01-18,The third-quarter delivery date reflected the impact of the November fire and the time required to install new software and new electrical panels.,neutral,0.04606972634792328
+2011-01-18,Boeing Again Delays Delivery of Dreamliner,negative,-0.9353905320167542
+2011-01-26,"The plane maker predicted its earnings would fall below analysts’ expectations, partly from delays to the 787 Dreamliner program.",negative,-0.9632329940795898
+2011-01-26,Profit Slips as Boeing Delivers Fewer Planes,negative,-0.9645482301712036
+2011-01-28,The accidental release of data about a bid from Boeing led to a Senate committee hearing.,negative,-0.8525456190109253
+2011-01-28,"At Hearing, New Details on Military Disc Switch",neutral,0.0003227405250072479
+2011-01-31,The confidential finding was in response to a longstanding complaint by the European Union over United States support of Boeing.,negative,-0.5923755764961243
+2011-01-31,W.T.O.,neutral,0.041373178362846375
+2011-01-31,Is Said to Affirm That Boeing Got Improper Subsidies,negative,-0.8162354230880737
+2011-02-01,"Why do Boeing, Carnival, General Electric and others pay relatively in taxes?",neutral,-0.015686746686697006
+2011-02-01,The Details on Corporate Taxes,neutral,0.01359846442937851
+2011-02-12,"Defense Department officials have been making the rounds of investment gatherings, and they’re bullish on military contractors.",neutral,0.1753506064414978
+2011-02-12,They have to be.,neutral,0.055335111916065216
+2011-02-12,"From Pentagon, a Buy Rating on Contractors",neutral,0.21041043102741241
+2011-02-12,"Given the growth of Dubai’s fast-growing flagship airline, and its central location, airlines like Air France and Lufthansa are nervous.",negative,-0.8845988512039185
+2011-02-12,Emirates’ Ambitions Worry European Rivals,negative,-0.566933810710907
+2011-02-24,"Supporters of Boeing are questioning the fairness of the bidding, while EADS, its European rival, seems confident it will win the $35 billion contract.",negative,-0.8691403269767761
+2011-02-24,Concerns for Boeing Grow as a Tanker Decision Nears,negative,-0.7975773811340332
+2011-02-24,Boeing received a $35 billion contract even though it and its supporters had seemed to assume the European builder of Airbus planes would win.,positive,0.467501699924469
+2011-02-24,Boeing Wins Contract to Build Air Force Tankers,positive,0.8279582262039185
+2011-02-25,Aviation analysts say Boeing won a rematch for the airborne refueling tanker this week because the government put more emphasis on long-term costs.,positive,0.814163863658905
+2011-02-25,Air Force’s Shifting Rules Helped Boeing,positive,0.4685947000980377
+2011-03-04,The European Aeronautic Defense and Space Company said that it planned to pursue other work from the Pentagon to build its American operations.,neutral,0.1657608598470688
+2011-03-04,EADS Won’t Protest Loss of Tanker Contract to Boeing,negative,-0.8093008995056152
+2011-03-08,"The plans to sell 43 aircraft, announced at an aerospace show in Hong Kong, demonstrated just how rapidly many Asian carriers are expanding.",positive,0.6988345980644226
+2011-03-08,Boeing Deals Show Rising Clout of Asian Airlines,positive,0.8642456531524658
+2011-03-09,"Cathay Pacific ordered 15 Airbus aircraft and 10 Boeings, and will lease two more Airbus jets, as it announced rocketing profits, helped by the resilience of Asian economies.",positive,0.9180046916007996
+2011-03-09,Cathay to Add 27 Jets to Its Fleet as 2010 Profit Soars,positive,0.9146985411643982
+2011-03-31,Research grants from NASA used to developed lightweight composites are cited in the World Trade Organization’s report.,neutral,0.09873970597982407
+2011-03-31,W.T.O.,neutral,0.041373178362846375
+2011-03-31,Rules U.S. Subsidies for Boeing Unfair,neutral,-0.04056159406900406
+2011-04-04,"The fatigue cracks that caused the hole would not have been apparent on a visual inspection, an official said, while cracks were found on two more jets.",negative,-0.8988779783248901
+2011-04-04,Hole in Southwest Jet Attributed to Cracks,negative,-0.6654719114303589
+2011-04-04,The directive came after a five-foot hole ripped through the roof of a Southwest Airlines jet on Friday during a flight.,negative,-0.8946745991706848
+2011-04-04,F.A.A.,neutral,0.04458102211356163
+2011-04-04,to Order Airlines to Inspect 737s for Cracks,negative,-0.6345905065536499
+2011-04-05,Boeing had projected a longer lifespan and was surprised that cracks had developed on a Southwest Airlines plane.,negative,-0.8866913914680481
+2011-04-05,Boeing Says It Didn’t Expect Cracks in 737s So Soon,negative,-0.8436031937599182
+2011-04-06,The examinations come after cracks expanded into a hole on a jetliner last week and forced it to make an emergency landing.,negative,-0.9192053079605103
+2011-04-06,Other Carriers Follow Southwest and Inspect 737s,neutral,-0.03455507755279541
+2011-04-18,"Metal fatigue is a persistent problem, as a hole in the roof of a 737 this month showed, and critics say inspection rules are an unreliable patchwork.",negative,-0.9048984050750732
+2011-04-18,Scrutiny Lags as Jetliners Show the Effects of Age,negative,-0.8785749077796936
+2011-04-20,"The National Labor Relations Board says in a complaint that the company chose South Carolina for its new 787 Dreamliner production line in retaliation against a union, which is illegal.",negative,-0.9199103713035583
+2011-04-20,Labor Board Tells Boeing New Factory Breaks Law,negative,-0.7113783955574036
+2011-04-23,The federal labor board has sought to reinterpret and more vigorously enforce the rules governing employers and employees.,neutral,0.055383969098329544
+2011-04-23,Labor Board Case Against Boeing Points to Fights to Come,negative,-0.5940850377082825
+2011-04-25,Investigators say they found rivet holes that were too big and appear to be misshapen from wear in a Southwest Airlines Boeing 737 that peeled open in flight earlier this month.,negative,-0.9443565607070923
+2011-04-25,Rivet Manufacturing Flaw Suspected in Jet’s Roof,negative,-0.8432247638702393
+2011-04-27,"Boeing also said that its net income rose 13 percent in the first quarter, while revenue slipped 2 percent.",negative,-0.8124192357063293
+2011-04-27,Boeing Chief Says Rivet Flaws Appear Limited to One Jet,negative,-0.49805134534835815
+2011-04-28,The United States lost a hard-fought competition to Europe for an order estimated to be worth $10 billion.,negative,-0.6803314685821533
+2011-04-28,U.S. Loses Bids to Supply Jets to India,negative,-0.9437173008918762
+2011-05-18,"The ruling finds that European aid to Airbus cost its American rival market share and may require a remedy, but says it was not prohibited.",negative,-0.7913274168968201
+2011-05-18,W.T.O.,neutral,0.041373178362846375
+2011-05-18,Ruling on Airbus Subsidies Upheld on Appeal,negative,-0.24250094592571259
+2011-06-14,"The National Labor Relations Board will argue the machinists’ union’s case before a judge, though all sides say they would prefer to settle the case over a production line in South Carolina.",negative,-0.5722450017929077
+2011-06-14,Boeing Labor Battle Is Poised to Go Before Judge,neutral,-0.3411971926689148
+2011-06-16,"The U.S. planemaker said annual increases in passenger and cargo traffic, particularly in Asia, would outpace global economic growth over the next two decades.",positive,0.9120051264762878
+2011-06-16,Boeing Raises Forecast for Sales by 8.5%,positive,0.5956711173057556
+2011-06-17,Orders for new and more fuel-efficient jets are anticipated at the show as the global aerospace industry continues to rebound.,positive,0.8725054264068604
+2011-06-17,"At the Paris Air Show, Anticipating a Surge in Sales",positive,0.8054019212722778
+2011-06-19,Boeing expects to decide by the end of the year whether to revamp its popular 737 jet or to develop a new aircraft.,neutral,0.17249703407287598
+2011-06-19,Boeing to Decide This Year Whether to Revamp or Replace 737 Jet,neutral,0.038156501948833466
+2011-06-21,The momentum at the Paris Air Show will likely increase pressure on Boeing to decide how it will respond to growing demand for more fuel-efficient planes.,positive,0.5046293139457703
+2011-06-21,Airbus Beats Forecast for Revamped A320 Orders,neutral,0.09819060564041138
+2011-06-23,The chief of Airbus said the aerospace industry must increase its production capacity in the next four years to fill a wave of aircraft orders.,positive,0.904160737991333
+2011-06-23,Airbus Adds $18 Billion Plane Order From AirAsia,positive,0.5791921019554138
+2011-07-01,The challenge to a new Boeing plant in South Carolina by a union in Seattle has turned into a political firefight between the foes and partisans of organized labor.,negative,-0.9303321242332458
+2011-07-01,Boeing Labor Dispute Is Making New Factory a Political Football,negative,-0.7915513515472412
+2011-07-20,"The order from Boeing and Airbus, which hasn’t sold new planes to American for years, is worth over $38 billion.",neutral,0.18805046379566193
+2011-07-20,Jet Order by American Is a Coup for Boeing’s Rival,neutral,-0.20956598222255707
+2011-07-27,The company said it remained on track to deliver its first 787 Dreamliner passenger jet and 747-8 air freighter in the third quarter.,positive,0.7355386018753052
+2011-07-27,Improved Sales Help Boeing Beat Forecasts,positive,0.8068989515304565
+2011-08-01,"The president of American Airlines is hoping for an eventual merger with British Airways, and expects to see a relaxing of United States foreign ownership rules that will let such a deal happen.",neutral,0.39847004413604736
+2011-08-01,American Airlines Hopes for a B.A.,neutral,0.413995623588562
+2011-08-01,Merger,neutral,0.04256719350814819
+2011-08-10,"Singapore Airlines and Cathay Pacific, which is based in Hong Kong, announced purchases from Boeing totaling 20 aircraft at list prices of about $5.6 billion.",positive,0.5861423015594482
+2011-08-10,2 Asian Carriers Disclose Big Orders,neutral,-0.1820957362651825
+2011-09-15,"The House is expected to pass a bill Thursday that will nullify an antiunion complaint by the National Labor Relations Board, which wants the work moved to Washington State.",negative,-0.8009225726127625
+2011-09-15,House Is Expected to Pass Bill Aiding New Boeing Plant,neutral,0.3523361086845398
+2011-09-15,"On a party-line vote, the House approved a Republican-backed bill that would prohibit the N.L.R.B.",neutral,0.07373365014791489
+2011-09-15,from blocking Boeing from operating an aircraft assembly line in South Carolina.,negative,-0.8699708580970764
+2011-09-15,"In Boeing Case, House Passes Bill Restricting Labor Board",negative,-0.47321397066116333
+2011-09-15,Some leading chief executives explain the benefits of actively reaching out to Capitol Hill and the White House.,neutral,0.3835379481315613
+2011-09-15,Another View: Why C.E.O.’s Need to Engage Washington,neutral,0.055726975202560425
+2011-09-19,The European plane maker cited expectations of increasing wealth in Asia and growth in low-cost airlines in the United States and Europe.,positive,0.8807871341705322
+2011-09-19,Airbus Raises Its Forecast for Demand,positive,0.469937264919281
+2011-10-26,"On the day the Boeing 787 made its inaugural commercial flight, the company said it would deliver fewer of the new planes this year because of production problems.",negative,-0.9293816089630127
+2011-10-26,Boeing Posts Strong Profit but Cuts Delivery Forecast,negative,-0.9495400190353394
+2011-11-03,A study found that 280 of the biggest public companies had federal income tax bills that were little more than half the official corporate rate of 35 percent in the last three years.,neutral,-0.3728591799736023
+2011-11-03,"Biggest Public Firms Paid Little U.S. Tax, Study Says",neutral,-0.02756369486451149
+2011-11-18,An Indonesian airline has agreed to buy 230 new 737-model planes worth $21.7 billion.,positive,0.8688498139381409
+2011-11-18,Boeing Reports a Record Sale,neutral,0.08424471318721771
+2011-11-21,"Among those who may be deposed are John H. Bryan, a Goldman director and former chief executive of Sara Lee; Jon Winkelried, a former Goldman co-president; and W. James McNerney Jr., a Procter & Gamble director and Boeing chief executive.",negative,-0.4591771960258484
+2011-11-21,Goldman Executives May Figure Prominently in Gupta Case,neutral,-0.016316905617713928
+2011-11-30,"A four-year accord calls for union jobs on the 737 Max in Washington State, and if it is approved by members, the union said it would no longer contest a nonunion plant in South Carolina.",neutral,-0.09278759360313416
+2011-11-30,Machinists and Boeing Reach Deal,neutral,0.06392496824264526
+2011-12-05,"Boeing’s agreement with the machinists’ union has parallels with a 1948 accord between General Motors and the United Automobile Workers, another far-reaching contract meant to overcome a history of strife.",positive,0.796556293964386
+2011-12-05,The Search for an Era of Labor Peace,neutral,0.08905535191297531
+2011-12-09,"After the deal’s ratification, the union asked the National Labor Relations Board to end a complaint against the plane maker.",negative,-0.5236722230911255
+2011-12-09,Union Seeks to Dismiss Complaint Against Boeing,negative,-0.8355255126953125
+2011-12-09,"After a union complaint was dropped, a federal agency will not pursue a politically charged case accusing the aircraft maker of violating labor law in opening a plant in South Carolina.",negative,-0.897529661655426
+2011-12-09,Labor Board Drops Case Against Boeing After Union Reaches Accord,negative,-0.8875746726989746
+2011-12-15,"Sharon Block, the deputy assistant for Congressional affairs at the Labor Department, and Richard Griffin, general counsel for the International Union of Operating Engineers, were tapped to fill vacancies.",neutral,-0.19141097366809845
+2011-12-15,Obama Names Two to Serve on Labor Board,neutral,-0.027784712612628937
+2011-12-17,"It takes a vast team to design a complex airplane, particularly one like the B-52 Stratofortress.",neutral,0.0693059042096138
+2011-12-17,Mr. Withington played down the achievement.,neutral,0.08612982928752899
+2011-12-17,"Holden Withington, Last Living B-52 Designer, Dies at 94",neutral,-0.26222681999206543
+2012-01-04,The company announced plans to close the huge military operation and eliminate jobs there by the end of 2013 to cut costs.,negative,-0.8985214233398438
+2012-01-04,"Boeing to Shut Wichita Plant, Citing Cuts at Pentagon",negative,-0.9492473006248474
+2012-01-26,The company said it would deliver 70 to 85 of its newest jets this year but some of them would require extra work to fix manufacturing problems.,neutral,0.1508655846118927
+2012-01-26,Boeing Posts 20% Profit Gain but Cuts Forecast for 2012 as Jet Completions Slow,negative,-0.8132328391075134
+2012-02-09,"With a market value of about $460 billion, Apple was worth more than Google, Goldman Sachs, General Motors, Ford, Starbucks and Boeing combined.",neutral,0.2048647701740265
+2012-02-09,"Apple Stock’s Lofty Heights, in Context",positive,0.5285412073135376
+2012-02-28,"Regulators emphasize that aircraft are more closely scrutinized today than ever before, but the ever-widening availability of information can still cause lasting impressions.",neutral,0.27909600734710693
+2012-02-28,Air Industry Faces Public’s Perception of Safety,negative,-0.4128332734107971
+2012-03-12,"The World Trade Organization affirmed that Boeing received $5 billion in improper subsidies, giving it an unfair advantage over Airbus, but both sides were claiming victory in the decision.",negative,-0.5062426924705505
+2012-03-12,"In Appeal, W.T.O.",neutral,0.03999985009431839
+2012-03-12,Upholds a Decision Against Boeing,neutral,0.334245890378952
+2012-04-03,Airlines and airports are testing a guidance system that could reduce congestion and fuel consumption by allowing planes to take a more direct route to the runway.,neutral,0.4367636442184448
+2012-04-03,A Satellite System That Could End Circling Above the Airport,neutral,0.038969989866018295
+2012-04-04,"Celebrities, corporate titans and Internet entrepreneurs are buying bigger planes with more extravagant furnishings, including wood-paneled libraries and horse stables.",neutral,0.13148024678230286
+2012-04-04,A Private Jet With Space for Both the Rolls-Royces,neutral,0.03691069409251213
+2012-04-25,"Robust quarterly reports from Apple and Boeing echoed the general tone of company earnings, which have been beating analysts’ expectations this season.",positive,0.8383814096450806
+2012-04-25,"Strong Profits on Wall St., and Markets Move Higher",positive,0.7573656439781189
+2012-04-25,The aerospace company plans to increase plane production as it refines new jets and updates older models.,positive,0.8402069211006165
+2012-04-25,Boeing Lifts Forecast After a Strong Quarter,positive,0.0825386643409729
+2012-04-28,Chesapeake Energy’s decision to end a controversial compensation plan for its chief executive and questions about aggressive debt-collection practices by Accretive Health were among the top stories this week.,neutral,-0.059203729033470154
+2012-04-28,The Week’s Business News in Pictures,neutral,-0.03863398730754852
+2012-04-30,"Also, caution and relative stagnation at News Corporation, and Discovery Channel crashes a Boeing 727.",negative,-0.8771993517875671
+2012-04-30,"The Breakfast Meeting: Microsoft Buys Into the Nook, and Radio’s Shrinking Diversity",negative,-0.8062193393707275
+2012-07-02,European plane maker to invest $600 million to build A320 passenger jets in Alabama.,positive,0.5512884259223938
+2012-07-02,EADS to Build U.S.,neutral,0.2204032838344574
+2012-07-02,Assembly Line for Airbus A320,neutral,-0.0024684295058250427
+2012-07-06,The titans of the global aerospace industry converge Monday at the Farnborough Airshow.,neutral,0.11996804922819138
+2012-07-06,"Frenetic buying by airlines the past two years has kept Airbus and Boeing busy, but short-term prospects are dimmer.",negative,-0.8115532398223877
+2012-07-06,Sales Activity at Air Show Expected to Be Subdued,neutral,0.018903080374002457
+2012-07-08,"While Boeing and Airbus split the world market, the new head of Boeing’s commercial jet division said he was not worried about the French company’s decision to build its first factory in the United States.",neutral,0.047342449426651
+2012-07-08,Boeing Says Airbus Move Is No Cause for Concern,negative,-0.42208147048950195
+2012-07-10,The airline said that delivery of its first Airbus A380 would be delayed by three months as it waited for modifications to the superjumbo’s wing following a cracking problem.,negative,-0.9453445076942444
+2012-07-10,Qatar Airways Delays Jet Delivery Over Wing Cracks,negative,-0.871118426322937
+2012-07-12,Boeing and Airbus are leaving the Farnborough International Airshow in Britain with around $54 billion in deals — just over half what they drew last year.,neutral,-0.3513616621494293
+2012-07-12,"At Air Show, Orders Fall For Aircraft Companies",negative,-0.9507653117179871
+2012-07-25,"The company also raised its profit forecast for the second time this year, with gains reflecting a surge in aircraft deliveries, especially the 777 and the 737.",positive,0.9233603477478027
+2012-07-25,"Deliveries Up, Boeing Beats Forecasts of Analysts",positive,0.4470689296722412
+2012-07-30,The Boeing Dreamliner was in preflight runway testing when the engine threw off debris and started a grass fire.,negative,-0.8941357135772705
+2012-07-30,Safety Board Investigates Debris From a 787’s Engine,negative,-0.8189212679862976
+2012-08-09,"Investigators said that a fan shaft inside the Boeing Dreamliner’s General Electric engine broke, expelling shards of hot metal and starting a fire on the ground.",negative,-0.9005467295646667
+2012-08-09,Board Finds What Marred Test of a 787,neutral,0.03523930907249451
+2012-08-18,A new wave of robots is replacing workers in both manufacturing and distribution.,negative,-0.8090602159500122
+2012-08-18,"Skilled Work, Without the Worker",neutral,-0.1947028785943985
+2012-08-23,"The decision by Australia’s Qantas Airways, the biggest cancellation for the new 787, reflected a decline in international travel, according to analysts.",negative,-0.9576590657234192
+2012-08-23,Boeing Loses an Order for Dreamliners,negative,-0.9085699319839478
+2012-09-13,"Lagardere, a key shareholder in EADS, the owner of Airbus, said it wanted to examine the deal announced Wednesday before giving its consent.",neutral,0.05825537443161011
+2012-09-13,Europe’s Governments and Investors Are Wary of a Giant Aerospace Merger,negative,-0.7526919841766357
+2012-09-15,The recommendation comes after cracks were found in an engine shaft on two of Boeing’s jets and possibly on a cargo plane.,negative,-0.9194309115409851
+2012-09-15,Cracks Spur Board to Urge Check of Dreamliner Engines,neutral,-0.23042109608650208
+2012-09-27,"In the latest move in a seven-year dispute, the European Union said it would ask the World Trade Organization for permission to levy up to $12 billion in sanctions.",negative,-0.23662979900836945
+2012-09-27,Europe to Seek Sanctions Against U.S. Over Boeing Subsidies,negative,-0.8475733995437622
+2012-10-10,The aerospace giants EADS and BAE Systems ended mergers talks on Wednesday after political haggling between European governments killed the deal.,negative,-0.8916712999343872
+2012-10-10,BAE  and EADS  Merger Talks Disintegrate,neutral,-0.2668093740940094
+2012-10-24,"The aircraft maker increased deliveries of commercial and military airplanes, with the biggest revenue gains coming from the growing demand for new passenger planes.",positive,0.8967611193656921
+2012-10-24,Boeing Posts Better-Than-Expected Profit and Raises Forecast for a 3rd Time,positive,0.8172699213027954
+2012-11-23,"American Airlines defended its hiring of outside contractors to modify its planes’ cabins, but its unionized mechanics say passengers’ safety was put at risk.",negative,-0.8916990756988525
+2012-11-23,Cost-Cutting Cited in Loose Plane Seats,negative,-0.839152991771698
+2012-11-29,"Two years after its merger with Continental, United Airlines has struggled with delays and computer glitches, and it has failed to settle on a contract with employees — all while losing money.",negative,-0.9597015976905823
+2012-11-29,"For United, Big Problems at Biggest Airline",negative,-0.9177140593528748
+2012-12-05,A new Boeing 787 Dreamliner flown by United Airlines was diverted in midflight to New Orleans after it lost speed and altitude over Mississippi with 184 people aboard.,negative,-0.9461363554000854
+2012-12-05,United 787 Loses Speed and Lands Early,negative,-0.8767278790473938
+2012-12-11,"Two embarrassing snags last week revived concerns about the reliability of the Boeing 787, as officials sought to cast them as normal growing pains for an advanced aircraft.",negative,-0.8940774202346802
+2012-12-11,New Problems With Boeing 787 Revive Concerns,negative,-0.9014432430267334
+2012-12-15,"John McAfee returns to the United States, Boeing addresses problems with its 787 aircraft and European Union leaders hold their last summit of the year.",neutral,0.014093860983848572
+2012-12-15,"The Week in Business Pictures, Dec. 14",neutral,-0.04906585440039635
+2013-01-08,"An incident in Boston a day after a fire on another 787 Dreamliner, Boeing’s newest and most sophisticated jet, added to pressure on the aircraft maker’s stock.",negative,-0.9517928957939148
+2013-01-08,Fuel Leak Is Latest Setback for Boeing’s Dreamliner,negative,-0.9473190307617188
+2013-01-09,"After three incidents in three days, the aircraft’s maker says its record is comparable to that of other new planes.",positive,0.7294315099716187
+2013-01-09,Boeing Says 787 Is Safe Despite Recent Problems,positive,0.13748115301132202
+2013-01-11,"Federal authorities said they would order an examination of electrical systems in Boeing’s new 787 Dreamliner after a spate of incidents, including a battery fire this week in Boston.",negative,-0.8137630224227905
+2013-01-11,Regulators Will Review Boeing 787s for Safety,neutral,-0.11930735409259796
+2013-01-12,"President Obama nominated Jacob J. Lew to be the Treasury secretary, the Consumer Electronics Show took over Las Vegas and Boeing ran into more problems with its 787 Dreamliner.",negative,-0.9375762343406677
+2013-01-12,"Pictures From the Week in Business, Jan. 11",neutral,0.007424052804708481
+2013-01-16,Japan’s two largest airlines said they would ground their fleets of Boeing’s new 787 aircraft after one operated by All Nippon Airways made an emergency landing in western Japan.,negative,-0.7853572964668274
+2013-01-16,Top Airlines in Japan Grounding Boeing 787s,negative,-0.7468342781066895
+2013-01-16,"The directive applies to United Airlines, the only American carrier using the new plane, after several safety incidents in recent weeks.",neutral,-0.09602700918912888
+2013-01-16,F.A.A.,neutral,0.04458102211356163
+2013-01-16,Grounds U.S.-Operated Boeing 787s,neutral,-0.08859825879335403
+2013-01-16,The Federal Aviation Administration ordered the temporary grounding of Boeing 787s operated by carriers in the United States.,negative,-0.5816503167152405
+2013-01-16,Here is the agency’s statement.,neutral,0.011825412511825562
+2013-01-16,F.A.A.,neutral,0.04458102211356163
+2013-01-16,Statement Grounding Boeing 787s,neutral,0.0066954270005226135
+2013-01-17,the two largest Japanese airlines have grounded their new 787 Dreamliner planes.,negative,-0.9371178150177002
+2013-01-17,Tough Start for the Dreamliner,negative,-0.47815313935279846
+2013-01-18,"Lithium-ion batteries can store more energy than other types of batteries, but they can also pose a fire risk if not properly cooled.",neutral,0.03167033940553665
+2013-01-18,"Powerful Chemical Cocktail, With a Drawback",neutral,0.0916953757405281
+2013-01-18,"Lithium-ion batteries are popular because they are powerful and charge quickly, but Boeing has had serious problems with the technology on its new Dreamliner.",negative,-0.9371377825737
+2013-01-18,"Praised but Fire-Prone, Battery Fails Test in 787",neutral,0.12301217019557953
+2013-01-19,"It is possible that the Dreamliner’s batteries were overcharged, but to lift a grounding order, Boeing must demonstrate that it can prevent similar episodes from happening.",positive,0.6210367679595947
+2013-01-19,"Boeing Closer to an Answer, but Not to Getting 787s Back in the Air",neutral,0.04390738904476166
+2013-01-19,"Facebook unveiled a new way to search, Boeing’s problems with its 787 Dreamliner deepened and transcripts from the Federal Reserve offered a new look at its response to the financial crisis in 2007.",neutral,0.33554282784461975
+2013-01-19,"Pictures From the Week in Business, Jan. 18",neutral,0.005031634122133255
+2013-01-20,The National Transportation Safety Board said excess voltage did not cause a battery fire on a Boeing 787 Dreamliner.,negative,-0.8473364114761353
+2013-01-20,Safety Board Rules Out a Cause for 787 Battery Fire,neutral,-0.2888231873512268
+2013-01-21,"If the issue with smoldering batteries proves more complicated, it could threaten plans to expand production of the planes, and the jobs that go with them.",negative,-0.9169382452964783
+2013-01-21,Dreamliner Troubles Put Boeing on Edge,negative,-0.7750711441040039
+2013-01-23,"A United States safety agency said a charging problem with the battery in the Boston case could not be ruled out, even though excessive voltage was not found.",negative,-0.8875610828399658
+2013-01-23,More Questions Are Raised in Boeing 787 Battery Fires,neutral,0.006583113223314285
+2013-01-23,The 787’s difficulties have raised questions about how regulators certify new technology and how they balance advances in design and engineering with safety.,neutral,-0.4353240430355072
+2013-01-23,Boeing’s Battery Problems Cast Doubt on Appraisal of New Technologies,negative,-0.8290308713912964
+2013-01-24,"Data retrieved from an All Nippon Airways jet that was forced to make an emergency landing last week suggested the battery had not been charged beyond its maximum design voltage, the authorities said.",negative,-0.8379663228988647
+2013-01-24,"Boeing 787 Battery Wasn’t Overcharged, Japanese Investigators Say",negative,-0.5732470750808716
+2013-01-24,The National Transportation Safety Board indicated that an investigation into the failure of lithium-ion batteries aboard two Boeing 787 planes is still far from determining a cause.,negative,-0.8420732021331787
+2013-01-24,Protracted Fire Inquiry Keeping 787 on Ground,negative,-0.6803706884384155
+2013-01-25,"Was GS Yuasa, the Japanese company that made the Dreamliner’s lithium-ion battery, chosen based on merit or a quid pro quo arrangement?",neutral,0.3380122780799866
+2013-01-25,Japan’s Role in Making Batteries for Boeing,neutral,-9.857118129730225e-06
+2013-01-26,"The grounding of Boeing’s new 787 jet is posing a logistical and financial challenge for several airlines, which have already canceled more than 1,000 flights in 10 days.",negative,-0.9467438459396362
+2013-01-26,787’s Grounding Leaves Airlines With Uncertainties,negative,-0.8611035346984863
+2013-01-27,The National Transportation Safety Board said an examination of an undamaged battery with the same design as one that caught fire in a parked plane in Boston found nothing out of the ordinary.,negative,-0.8179506063461304
+2013-01-27,No Defect Is Found in Another 787 Battery,negative,-0.4892359673976898
+2013-01-28,"Investigators say that they have spotted no overt quality-control problems, but that the cause of the recent malfunctions that have grounded Boeing’s 787 fleet is still unknown.",negative,-0.9378648996353149
+2013-01-28,No Quality Problems Found at Battery Maker for 787,negative,-0.915264904499054
+2013-01-30,"Even before battery failures led to the grounding of all Boeing 787 jets, there were problems that raised questions about their reliability.",negative,-0.8650686740875244
+2013-01-30,Boeing 787 Battery Was a Concern Before Failure,neutral,-0.37529128789901733
+2013-01-30,"The Boeing 787 Dreamliner, the first new commercial plane from Boeing in more than a decade, has been troubled by a long series of production and safety problems.",negative,-0.9557709693908691
+2013-01-30,A Rocky Path for the 787 Dreamliner,neutral,-0.25714731216430664
+2013-01-30,"W. James McNerney Jr. defended the use of lithium-ion batteries in the Dreamliner planes, as the company reported higher quarterly earnings.",positive,0.19800454378128052
+2013-01-30,Boeing Says No Change in Batteries Is Planned,neutral,0.0306690726429224
+2013-01-31,"The airline has been forced to cancel about 450 domestic and international flights, affecting almost 60,000 customers.",negative,-0.9599799513816833
+2013-01-31,All Nippon Says Grounding of 787s Has Cost $15 Million,neutral,-0.08582665771245956
+2013-02-02,Regulators in Washington and Tokyo said they had no answers to explain why two batteries on Boeing’s troubled Dreamliner emitted fire or smoke.,negative,-0.8548291921615601
+2013-02-02,Investigators Begin to Test Other Electrical Parts on the 787,neutral,-0.052774831652641296
+2013-02-04,"In announcing the forecast loss, the Japanese carrier joins other Dreamliner operators, like All Nippon Airways and United Airlines, in raising possible compensation demands.",positive,0.5437716245651245
+2013-02-04,Japan Airlines Says 787 Grounding Will Cost It $7.5 Million,negative,-0.9270089268684387
+2013-02-07,"Federal regulators approved one flight of a Boeing 787, with a crew but no passengers, as engineers study ways to reduce the risks of another battery fire.",positive,0.5579305291175842
+2013-02-07,Crew-Only 787 Flight Is Approved by F.A.A.,neutral,0.13758940994739532
+2013-02-07,"As a transportation official said tests in 2007 failed to anticipate potential incidents, the Federal Aviation Administration approved flights of the Boeing jet to collect data.",neutral,-0.045059263706207275
+2013-02-07,U.S. Official Faults F.A.A.,neutral,-0.07203853875398636
+2013-02-07,for Missing 787 Battery Risk,negative,-0.8990168571472168
+2013-02-08,Investigators aren’t sure if a battery that failed on a 787 in Japan had the same problem as one that started a fire on a jet in Boston.,negative,-0.9399038553237915
+2013-02-08,Japanese Still Seeking Cause of 787 Smoke,negative,-0.48658716678619385
+2013-02-10,The flight was the first since the Federal Aviation Administration gave Boeing permission on Thursday to conduct in-flight tests.,positive,0.48326414823532104
+2013-02-10,Boeing 787 Completes Test Flight,neutral,0.011607401072978973
+2013-02-12,The plot of the Japanese television series “Made in Japan” underscores the hopes the country has pinned on technologies like lithium-ion batteries.,positive,0.5249902009963989
+2013-02-12,TV Show Mirrors a Japanese Battery Maker’s Bind,neutral,0.08362148702144623
+2013-02-15,"The problems Boeing is having with lithium-ion battery technology has led Airbus to change its plan, and use a conventional battery, made of nickel-cadmium.",neutral,-0.0008490309119224548
+2013-02-15,"To Avoid Delay, Airbus Drops Lithium-Ion Batteries",negative,-0.8465885519981384
+2013-02-19,"These days, Busch, Slipakoff & Schuh, a law firm in Atlanta, hires only people with a bachelor’s degree — no exceptions.",neutral,-0.07282591611146927
+2013-02-19,And it is far from alone.,neutral,0.08387717604637146
+2013-02-19,It Takes a B.A.,neutral,-0.047309812158346176
+2013-02-19,to Find a Job as a File Clerk,neutral,-0.35515207052230835
+2013-02-20,"Cramped for space and reluctant to shut down its 787 production lines, Boeing is said to be looking for storage after the United States grounded the jetliners.",negative,-0.9226882457733154
+2013-02-20,New Dreamliner Headache: Parking Space,neutral,-0.4054156541824341
+2013-02-20,A top executive will meet with agency officials on Friday to outline efforts to get the Boeing 787 back in the air.,positive,0.5144249200820923
+2013-02-20,Boeing to Propose Redesign of 787 Battery to F.A.A.,neutral,0.11770074814558029
+2013-02-22,"Experts say that Boeing’s proposals for the 787 are on the right track, but that without knowing what caused the jets’ batteries to fail, they cannot be sure the measures will work.",neutral,0.10452060401439667
+2013-02-22,F.A.A.,neutral,0.04458102211356163
+2013-02-22,Weighs Criteria for Allowing 787 to Fly,neutral,0.04406099021434784
+2013-02-23,"After meeting with company executives, the Federal Aviation Agency said any proposal to get the 787 back in the air must assure that its lithium-ion batteries do not fail again.",neutral,0.42024821043014526
+2013-02-23,F.A.A.,neutral,0.04458102211356163
+2013-02-23,Sets Terms for Boeing’s Battery Fixes on the 787,neutral,0.10139162838459015
+2013-02-27,"Boeing has proposed several fixes for the troubled batteries on its new jetliner, but federal regulators have rejected a request to test them in the air.",negative,-0.7499905228614807
+2013-02-27,F.A.A.,neutral,0.04458102211356163
+2013-02-27,Is Not Ready to Approve 787 Test Flights,negative,-0.786697268486023
+2013-02-28,The aircraft manufacturer presented the Japanese government with its plan to prevent recurrences of the battery problems that have grounded its Dreamliners.,positive,0.6924305558204651
+2013-02-28,Boeing Offers Plan for 787s To Japanese,neutral,0.17107681930065155
+2013-03-02,The grounding of Boeing’s 787 jetliner because of battery trouble has meant delayed new services and scheduling headaches for airlines.,negative,-0.9560989737510681
+2013-03-02,Concern and Canceled Flights as Airlines Wait for 787,negative,-0.8183287978172302
+2013-03-06,"Battery tests on the 787 Dreamliner could begin next week, officials said, but federal regulators could still demand changes in the proposed design changes if problems develop.",negative,-0.49729123711586
+2013-03-06,Boeing Plan to Test Fixes on 787 Nears Approval,neutral,0.19249048829078674
+2013-03-07,"In a safety board report, witnesses tell of intense smoke, acrid smells and a white glow from a battery that caught fire on a Boeing airliner parked at Boston’s airport two months ago.",negative,-0.8783319592475891
+2013-03-07,"Safety Board Gives New Details on Boeing Battery Fire, but Not Cause",neutral,-0.03515028953552246
+2013-03-09,"Because of recent incidents with the jet’s battery, an advanced feature allowing for new flight paths may not receive approval for months, which could dilute the jet’s appeal.",negative,-0.9262184500694275
+2013-03-09,Setback to Boeing’s Hopes for Longer Range for 787,negative,-0.9121758937835693
+2013-03-11,The company plans to add lightweight carbon-composite wings and new engines to the popular 777 model.,neutral,0.4829486906528473
+2013-03-11,Boeing Seeks Approval for Updated Jet,neutral,0.3060642182826996
+2013-03-12,"The decision is a major step in Boeing’s efforts to get the innovative 787 jets back in the air, but could sharpen a debate over how effective the changes will be.",positive,0.7856908440589905
+2013-03-12,U.S.,neutral,-0.05536564439535141
+2013-03-12,Backs Boeing Plan for Testing 787 Battery,neutral,0.1855294555425644
+2013-03-14,Evaluations that Boeing conducted while the the 787 jet was in development proved to be far off the mark in predicting what would happen when the plane was in use.,negative,-0.5453746914863586
+2013-03-14,Initial Tests of Battery by Boeing Fell Short,negative,-0.8744085431098938
+2013-03-15,"In Japan, company executives on Friday said that they were confident that engineers had eliminated all risk of fire or smoke from the troubled plane’s batteries.",positive,0.7728268504142761
+2013-03-15,Boeing Pitches Its Solution for Dreamliner Problems,neutral,0.09966826438903809
+2013-03-15,"To prevent fire and smoke episodes, Boeing said, the lithium-ion batteries on the 787 will be sealed in a steel box as a fail-safe.",neutral,0.05610046908259392
+2013-03-15,Boeing Discloses Fixes for Lithium-Ion Batteries,neutral,0.03852900490164757
+2013-03-18,The order by the Indonesian airline Lion Air is a significant inroad for Airbus into one of Asia’s fastest-growing travel markets.,positive,0.9116579294204712
+2013-03-18,Indonesian Carrier Orders $24 Billion in Jets From Airbus,neutral,0.283806174993515
+2013-03-19,"The contract for 737s, most likely at a discount from the $15.6 billion list price, will allow the European low-cost airline to increase its fleet to 400 planes.",positive,0.8700411319732666
+2013-03-19,Boeing and Ryanair Agree to a Deal for 175 New Jets,positive,0.8140640258789062
+2013-03-28,"GS Yuasa, the maker of the battery for the Boeing 787 that overheated and led to the grounding of the fleet, has discovered overheating in its lithium-ion battery for cars.",negative,-0.7643013000488281
+2013-03-28,New Problem for Boeing 787 Battery Maker,negative,-0.8971652984619141
+2013-03-29,"The board’s new independence is likely to be tested quickly, as the parent of Airbus prepares to disclose a strategic plan that could put its management on a collision course with Berlin.",neutral,0.3111501634120941
+2013-03-29,EADS’s Newfound Freedom May Lead to Clash With Berlin,negative,-0.7867740988731384
+2013-04-05,"Almost three months after the airliners were grounded, Boeing moved closer to getting them back in service.",positive,0.8339168429374695
+2013-04-05,Boeing’s 787 Takes Flight to Assess New Battery,neutral,0.11618494987487793
+2013-04-19,"The decision by the Federal Aviation Administration would allow the planes, grounded for more than three months, to return to service after the proposed repairs are made.",neutral,0.15474462509155273
+2013-04-19,F.A.A.,neutral,0.04458102211356163
+2013-04-19,Expected to Approve Fix to Dreamliner Batteries,positive,0.5142080783843994
+2013-04-19,"The decision, which came three months after the passenger jets were grounded, could allow the planes to return to service in weeks.",neutral,0.47663918137550354
+2013-04-19,Boeing Fix for Battery Is Approved by F.A.A.,positive,0.7394432425498962
+2013-04-22,"Reports include quarterly earnings from Caterpillar, Apple and Boeing, as well as existing and new home sales for March.",neutral,0.048181429505348206
+2013-04-22,Economic Reports for the Week Ahead,neutral,0.0058092400431632996
+2013-04-22,"Engineers began fanning out across the globe to modify the battery systems of the company’s 787 jets and get the fleet, which has been grounded for three months, back in the air.",positive,0.6448686122894287
+2013-04-22,Boeing Begins Modifying 787 Batteries,neutral,0.1128101646900177
+2013-04-22,"About 30 technicians began work Monday in Japan, where All Nippon Airways and Japan Air Lines, the biggest operators of the Dreamliner, have 24 of the planes between them.",neutral,-0.125984787940979
+2013-04-22,Boeing Team Begins Repairs of 787 Dreamliner Batteries,neutral,0.1833987832069397
+2013-04-23,"At a National Safety Transportation Board hearing, Boeing’s chief 787 engineer said the calculation that a battery would fail once every 10 million flight-hours did not account for possible manufacturing flaws.",negative,-0.8919103741645813
+2013-04-23,Boeing Acknowledges Tests Underestimated 787 Battery Risks,negative,-0.8005200028419495
+2013-04-24,The company said the recent problems with the batteries on its 787 jets would not keep it from reaching its profit and revenue goals for the year.,negative,-0.939647376537323
+2013-04-24,"Despite 787 Setbacks, Boeing Reaffirms Outlook as Earnings Beat Estimates",positive,0.6998611092567444
+2013-04-26,"The authorities approved fixes to the planes’ batteries and  authorized All Nippon Airways and Japan Airlines, which own about half of the 50 Dreamliners delivered, to resume flights.",positive,0.6154513955116272
+2013-04-26,Japan Approves Return to Air of Boeing 787,neutral,0.3055938482284546
+2013-04-28,"A 787 carrying top executives from Boeing and All Nippon took off from Haneda Airport on Tokyo’s waterfront Sunday morning, without incident.",neutral,0.025367669761180878
+2013-04-28,All Nippon Airways Takes Dreamliner With Improved Battery on Test Flight,positive,0.8748984336853027
+2013-04-28,"After a smooth test flight to test troublesome batteries, Boeing and All Nippon Airways must now turn to a more delicate task — selling passengers on the idea that the Dreamliner is safe.",neutral,-0.04843220114707947
+2013-04-28,"Boeing Jet Returns to the Air, but It’s Only a Start",neutral,-0.08193913102149963
+2013-05-01,"An updated version of the jet, with lightweight carbon-composite wings and the potential to cut fuel usage by 20 percent, is being pitched to airlines and leasing companies.",neutral,0.2800227105617523
+2013-05-01,Boeing Moves to Upgrade Popular 777 Passenger Jet,positive,0.5114575028419495
+2013-05-06,"Boeing’s announcement that it had started presenting airlines with an enhanced version of its 777 jet, rather than a whole new plane, underscores the shift.",positive,0.8182341456413269
+2013-05-06,Jet Makers Avoid Risk by Redoing Old Models,neutral,0.05209796503186226
+2013-05-21,A fix for the jets’ troubled batteries has allowed the eight carriers who own the planes to resume service that was halted in January.,neutral,0.10135406255722046
+2013-05-21,United Joins in Grounded Dreamliners’ Return to the Skies,neutral,0.03388044238090515
+2013-06-05,Pilots were dismayed that Boeing did not improve cockpit displays to provide more substantial alerts if the batteries overheated.,negative,-0.9467402696609497
+2013-06-05,Japanese Pilots Worry About Repaired Boeing 787 Jets,negative,-0.8527403473854065
+2013-06-14,"As orders for military planes continue to drop, Airbus has placed a strong bet on commercial aircraft with the A350, a new wide-body jet.",positive,0.8301674127578735
+2013-06-14,Airbus Unveils Jet and Broadens Rivalry With Boeing,positive,0.7787749171257019
+2013-06-16,"Boeing’s full-court press to address the risk of battery fire on its 787 Dreamliner jet earlier this year has not slowed progress on other planes still in development, a top Boeing executive said.",negative,-0.2736676037311554
+2013-06-16,Boeing Moving Ahead on Making New Planes,neutral,0.30253154039382935
+2013-06-17,"After years of emphasis on smaller, single-aisle aircraft, Airbus announced a deal for 20 of its A380 superjumbo jets.",positive,0.8499004244804382
+2013-06-17,"At Paris Show, Some Signs of Renewed Demand for Big Jets",positive,0.8871105313301086
+2013-06-18,"The plane maker said its has received orders for 102 of the stretched 787s, which are designed to seat as many as 330 passengers.",positive,0.8373906016349792
+2013-06-18,Boeing Takes Airlines’ Orders for Longer Dreamliner,negative,-0.4269021153450012
+2013-06-22,"Boeing and Airbus tallied big orders at the Paris Air Show, and the Federal Reserve indicated it might begin to wind down its stimulus efforts, unnerving investors worldwide.",negative,-0.21979612112045288
+2013-06-22,Pictures From the Week in Business,neutral,-0.02614821493625641
+2013-07-06,"A Russian foundry produces large quantities of the strong, light metal, which is a major element in Boeing’s new jets.",neutral,0.0803641751408577
+2013-07-06,Titanium Fills Vital Role for Boeing and Russia,neutral,0.3767438530921936
+2013-07-12,"The incident, on a plane with no passengers aboard, took place about seven weeks after 787s returned to the skies after being grounded because of hazards with a new type of battery.",negative,-0.9034081101417542
+2013-07-12,Boeing 787 Catches Fire in London,negative,-0.7667927742004395
+2013-07-13,The incident took place about two months after 787s returned to the skies after being grounded because of hazards with a new type of battery.,negative,-0.9220930933952332
+2013-07-13,Lithium-Ion Battery Is Not Suspected in the Fire on a Boeing 787 at Heathrow,neutral,-0.42705681920051575
+2013-07-15,"Unless the cause of the Heathrow fire is pinpointed quickly, the airline industry could once again find itself in a delicate spot of balancing passenger safety with high financial stakes.",negative,-0.8180359601974487
+2013-07-15,"Airlines Confident in Boeing’s 787, but Doubts Linger",negative,-0.45740246772766113
+2013-07-15,"The airline said it would give special safety training, including an enhanced program for visual approaches and automated flight, after the crash of an Asiana jet in San Francisco.",positive,0.638901948928833
+2013-07-15,"After Jet Crash, Asiana Airlines Will Bolster Its Pilot Training",positive,0.9233155846595764
+2013-07-15,"The emergency transmitter, which would send out the plane’s location in the event of a crash, is powered by a small lithium-manganese battery.",neutral,0.021584395319223404
+2013-07-15,787 Fire Inquiry Focuses on Transmitter,neutral,0.01944568380713463
+2013-07-16,All Nippon Airways and Japan Airlines said emergency checks on their Boeing 787s turned up no threats after a fire last week in a 787 parked at Heathrow Airport.,negative,-0.7676084637641907
+2013-07-16,2 Japanese Airlines Report No Problems With 787,negative,-0.9184015393257141
+2013-07-18,American aviation officials said they would review recommendations by British authorities to disconnect batteries in the emergency transmitters on all Boeing 787s.,neutral,0.05027781426906586
+2013-07-18,British Inquiry Ties 787 Fire to Beacon,negative,-0.6194992065429688
+2013-07-19,"In a review of a fire on one of the jets, last week at Heathrow Airport, American regulators are focused on a battery connection in a transmitter.",negative,-0.724664032459259
+2013-07-19,F.A.A.,neutral,0.04458102211356163
+2013-07-19,Orders Airlines to Inspect Transmitter Wiring,neutral,-0.1925659477710724
+2013-07-22,"Governments reports will include sales of new homes for June, and companies reporting earnings will include McDonald’s, Apple, Facebook, Ford and Boeing.",neutral,0.019418589770793915
+2013-07-22,Economic Reports for the Week of July 22,neutral,-0.10267521440982819
+2013-07-24,The company’s net income rose 13 percent in the second quarter as sales of commercial airliners and exports of its military equipment rose.,positive,0.9369352459907532
+2013-07-24,"Boeing Profit Is Up 13%, Exceeding Expectations, and Its Forecast Rises",positive,0.9319129586219788
+2013-07-29,Plane manufacturers have been increasingly using composite materials instead of traditional ones like aluminum.,neutral,0.19899192452430725
+2013-07-29,"Half of the weight of Boeing’s latest plane, the 787, comes from composites.",neutral,0.03543208912014961
+2013-07-29,The Jump to a Composite Plane,neutral,0.10831764340400696
+2013-07-30,"The costs and methods for repairing the carbon-composite jet are unclear, and the Dreamliner damaged by fire at Heathrow will be the first test of major work.",neutral,0.04140079766511917
+2013-07-30,New Challenges for the Fixers of Boeing’s 787,neutral,0.2326352447271347
+2013-09-09,"Norwegian Air Shuttle, a budget airline, said it returned both new Boeing 787 jets to service over the past week.",positive,0.6312854886054993
+2013-09-09,Airline in Norway Says It Briefly Grounded Dreamliners,negative,-0.9188846349716187
+2013-09-27,"After deciding against Boeing's F-15 Silent Eagle for its next generation of fighter jets, South Korea is restarting the tender process.",neutral,0.33235979080200195
+2013-09-27,South Korea Returns to Fighter Jet Conundrum,neutral,0.20349659025669098
+2013-10-07,"The European plane maker has taken a foothold in a country whose carriers, for historical reasons, have long flown Boeing aircraft almost exclusively.",positive,0.6020005941390991
+2013-10-07,Japan Airlines Deal With Airbus Is Blow in Boeing Stronghold,neutral,0.039895035326480865
+2013-10-11,"The jet, owned by Norwegian Air Shuttle, has been grounded for two weeks because of software malfunctions involving the brake warning lights and a faulty hydraulic pump.",negative,-0.9536275267601013
+2013-10-11,"Boeing 787, Grounded in Norway, Nearly Fixed",negative,-0.9410502910614014
+2013-10-23,"As the company’s results topped analysts’ earnings expectations for an eighth consecutive quarter, executives said they still had more work to do on the Dreamliner’s reliability.",positive,0.8270013332366943
+2013-10-23,Boeing Outlines Progress on 787s and Raises Forecast,positive,0.5022123456001282
+2013-10-24,"The technology, called a winglet, attaches to the tip of airplane wings and aims to improve aerodynamics and fuel efficiency.",positive,0.5346683263778687
+2013-10-24,"Eye-Catching Wingtips, but They Aren’t for Show",neutral,-0.08312703669071198
+2013-10-31,"The aircraft maker says it will increase monthly production of its highly profitable, top-selling 737 jets to 47 from 38 by 2017.",positive,0.918037474155426
+2013-10-31,Boeing Says It Will Raise Production of the 737,positive,0.8022908568382263
+2013-11-08,The company said it would start pursuing other options if a union did not vote to ratify a proposed contract extension by Wednesday.,neutral,-0.14654472470283508
+2013-11-08,Boeing Warns Washington State Could Lose 777X if Labor Deal Is Rejected,negative,-0.9532496929168701
+2013-11-13,Sometimes those demanding sacrifice from others should consider appearances.,neutral,-0.2851172983646393
+2013-11-13,Let Them Eat Cake,neutral,0.05953323841094971
+2013-11-14,"The move raises the chance that Boeing will move assembly of the new 777X jet from the Seattle area, the company’s traditional manufacturing base.",positive,0.796856701374054
+2013-11-14,Boeing Workers Reject Labor Deal in Washington State,negative,-0.9242486357688904
+2013-11-15,"After machinists in the Seattle area voted no on a contract extension tied to a new jet, Boeing said it would consider other places for the project.",positive,0.42593616247177124
+2013-11-15,Union’s Rejection Puts Future Home of Boeing 777X in Doubt,negative,-0.8657934069633484
+2013-11-16,"An enormous online shopping spree, the rejection of a Boeing contract and a confirmation hearing for a potential Federal Reserve chairwoman.",negative,-0.727779746055603
+2013-11-16,Pictures From the Week in Business,neutral,-0.02614821493625641
+2013-11-17,"The flood of orders at the Dubai Airshow, including the sale of 225 of Boeing’s new 777X jets, highlighted how the big money in aviation is shifting to the Middle East and Asia.",positive,0.7357164621353149
+2013-11-17,"New Boeing Jet, 777X, Hits $95 Billion in Orders",positive,0.7395071983337402
+2013-11-22,New requirements announced on Friday effectively leave the American contractor’s F-35A stealth jet as the only viable option.,neutral,-0.2978596091270447
+2013-11-22,South Korea Is Expected to Buy Lockheed Fighter Jets,neutral,0.24338500201702118
+2013-12-19,The announcement that Brazil picked the aircraft maker Saab for a $4.5 billion contract to build 36 fighter jets comes at a time of heightened tension with the United States over spying.,positive,0.5835444927215576
+2013-12-19,Brazil Snubs Boeing in Fighter Jet Deal,negative,-0.8199797868728638
+2013-12-29,"The consumer confidence survey for December will be released, Latvia will join the euro zone and Detroit will return to bankruptcy court.",neutral,0.020320773124694824
+2013-12-29,Economic Reports for the Week of Dec. 30,neutral,-0.1068824827671051
+2014-01-01,International and local union leaders are sharply divided over a vote set for Friday on Boeing’s revised contract offer to machinists in Washington State.,negative,-0.9484630823135376
+2014-01-01,Vote on New Boeing Contract Highlights a Rift in the Machinists’ Union,negative,-0.9317461252212524
+2014-01-04,"The vote was an emotional, and very close 51 percent in favor of the contract extension to 2024, keeping aerospace jobs in Washington State.",positive,0.45509737730026245
+2014-01-04,Boeing Workers Approve 8-Year Contract Extension,positive,0.657823383808136
+2014-01-13,The orders reflect Airbus’s dominant position in the market for the most expensive aircraft: large wide-bodies with more than 400 seats.,positive,0.664513349533081
+2014-01-13,Airbus Led Rival Boeing in Jets Ordered Last Year,positive,0.7474745512008667
+2014-01-15,Boeing says the problem on a Dreamliner in Tokyo was contained by a new protective system designed to prevent smoke or fire from the volatile ion-lithium batteries from putting a plane at risk.,negative,-0.8711263537406921
+2014-01-15,787’s Battery Emits Smoke a Year After Jets’ Grounding,neutral,-0.32250213623046875
+2014-01-16,"In the 2013 fiscal year, total federal contracts fell by $58 billion, or roughly 11 percent, the steepest decline in at least a decade.",negative,-0.9690260291099548
+2014-01-16,"Federal Contracts Plunge, Squeezing Private Companies",negative,-0.9406665563583374
+2014-01-30,The plane maker’s stock dropped 5.3 percent on Wednesday following projections that its revenue would increase less than expected in 2014.,negative,-0.9668576121330261
+2014-01-30,Boeing Shares Fall as It Cautions on Its Profits in 2014,negative,-0.951682448387146
+2014-02-06,"A glitch forced a Dreamliner that was bound for New Delhi to land in Malaysia, the latest in a series of technical issues for the aircraft.",negative,-0.9584007263183594
+2014-02-06,"After Boeing 787 Is Diverted, Air India Looks Into Software Problem",neutral,-0.030940186232328415
+2014-02-10,"Kellogg is pressuring for what Caterpillar, Boeing and Detroit’s automakers have sought in recent years — to reduce blue-collar compensation packages.",positive,0.49583515524864197
+2014-02-10,Labor Battle at Kellogg Plant in Memphis Drags On,negative,-0.9329745173454285
+2014-02-26,"The move comes amid rising demand in emerging markets and in the United States, and after the plane maker’s parent company announced a jump in 2013 net income.",positive,0.9141852855682373
+2014-02-26,Airbus to Increase A320 Production,positive,0.8209343552589417
+2014-02-27,The possible combination comes as Patton Boggs is trying to navigate changes in the legal industry since the 2008 financial crisis.,neutral,0.12367773056030273
+2014-02-27,Patton Boggs in Early Merger Talks With Squire Sanders,neutral,-0.027403317391872406
+2014-03-08,"The hairline cracks are tied to a change in the manufacturing process of the carbon composite wings by Mitsubishi Heavy Industries in Japan, and do not affect planes in use, Boeing says.",negative,-0.9122835397720337
+2014-03-08,Wing Cracks Delay Boeing 787 Assembly,negative,-0.9380499720573425
+2014-03-17,The start-up Planet Labs is challenging the giants of the space industry by producing dozens of small satellites that are cheaper and quicker to build than traditional satellites.,positive,0.5953977704048157
+2014-03-17,Daily Report: Start-Ups Set Their Sights on Space,neutral,0.07038243114948273
+2014-03-19,"The study, prepared by experts from the Federal Aviation Administration and Boeing, also said that Boeing’s 787 Dreamliner jets were safe and well designed.",positive,0.6119610667228699
+2014-03-19,"Suppliers of Jet Parts Require Greater Oversight, Report Says",neutral,0.41172659397125244
+2014-03-27,Boeing won about 80 percent of the order with All Nippon Airways of Japan and kept Airbus from encroaching further on its sales of large wide-body jets.,positive,0.6218758821487427
+2014-03-27,All Nippon Airways Splits $16.6 Billion Aircraft Order,neutral,0.030028928071260452
+2014-04-24,The company increased its profit outlook for the year as its first-quarter revenue rose.,positive,0.9312635660171509
+2014-04-24,"Net income, however, fell 13 percent after a shift in the company’s pension plan.",negative,-0.9681454300880432
+2014-04-24,Operating Earnings Rise 12% at Boeing,positive,0.8748008608818054
+2014-04-30,"With robots and skilled labor, Drew Greenblatt re-engineered his firm from one making simple wire baskets to one producing custom pieces for aerospace clients.",positive,0.6122947931289673
+2014-04-30,From Making Bagel Baskets to Thinking Much Bigger,neutral,0.028700031340122223
+2014-05-08,Sikorsky Aircraft and Lockheed Martin won a $1.24 billion contract on Wednesday to begin building a new presidential helicopter.,positive,0.8986644744873047
+2014-05-08,Sikorsky and Lockheed to Build New Presidential Helicopter,neutral,0.07401066273450851
+2014-05-22,"The National Transportation Safety Board faulted testing of the battery, whose failure in two cases led to the grounding of 787s last year.",negative,-0.9191600680351257
+2014-05-22,Safety Agency Says New Tests Are Needed on Boeing Battery,neutral,-0.0012089312076568604
+2014-05-23,"ETS Aviation, based in Bristol, England, provides software to more than 120 airlines and corporate flight departments, Boeing said.",neutral,0.01672534830868244
+2014-05-23,Terms of the sale were not disclosed.,neutral,0.009179382584989071
+2014-05-23,Boeing Agrees to Acquire British Aviation Software Firm,positive,0.6733075976371765
+2014-06-28,"Delta, watching Persian Gulf carriers make inroads into Europe, is concerned that loan guarantees from the Export-Import Bank in Washington will help them do the same in the United States.",positive,0.45473387837409973
+2014-06-28,Airlines’ Rivalry Amplifies Fight Over Bank Guarantees,negative,-0.7516254782676697
+2014-06-30,"Travelers with means have alternatives to increasingly crowded commercial flights, from Gulfstreams to custom-outfitted Boeing and Airbus planes.",neutral,0.2528758943080902
+2014-06-30,Those Who Can Afford It Have a Better Way to Fly,neutral,0.13110175728797913
+2014-07-11,"With the A330 starting to show its age, Airbus must decide whether to overhaul the wide-body plane or focus on its newer models.",neutral,-0.27784571051597595
+2014-07-11,A Multibillion-Dollar Question for Airbus and Its A330,positive,0.6462201476097107
+2014-07-11,"The Joint Strike Fighter, produced by Lockheed Martin, is expected to make its debut at the Famborough International Airshow.",neutral,0.1879669576883316
+2014-07-11,"The World Awaits the F-35, the Latest in Flying Firepower",neutral,0.269402414560318
+2014-07-12,"The owner of a Chinese aviation company spent years taking data from Boeing on military aircraft and weapons, the Justice Department said.",neutral,-0.1434650421142578
+2014-07-12,Chinese Businessman Is Charged in Plot to Steal U.S. Military Data,negative,-0.7816441059112549
+2014-07-13,The head of its commercial aircraft division said that failure to keep the bank running would place Boeing at an unbeatable disadvantage to Airbus.,negative,-0.9414424300193787
+2014-07-13,Boeing Optimistic That Export-Import Bank Will Get Funding,positive,0.8944783806800842
+2014-07-14,"The European plane maker will build a revamped, more fuel-efficient version of its best-selling wide-body jet, expected to enter service in late 2017.",positive,0.7777554988861084
+2014-07-14,Airbus Confirms It Will Upgrade A330,positive,0.7526407241821289
+2014-07-24,Boeing stock took a 2.3 percent dip after the company announced $425 million in charges over a problem with Air Force refueling tankers.,negative,-0.9408285021781921
+2014-07-24,Boeing Earnings Take Hit Over Problems in Air Force Tankers,negative,-0.8855785131454468
+2014-07-28,The airline has 30 days to respond to the agency’s allegations that Southwest failed to repair some of its Boeing 737 jets correctly.,negative,-0.9204816818237305
+2014-07-28,Southwest to Be Fined Over Repairs,negative,-0.621270477771759
+2014-07-30,The company had initially planned to split the work between South Carolina and Washington State.,neutral,-0.012380322441458702
+2014-07-30,Boeing to Build Biggest 787 in the South,neutral,0.0654202550649643
+2014-08-09,"Why is the giant A380 jet wowing passengers, but not many airlines?",neutral,0.2852916419506073
+2014-08-09,Its maker may have made the wrong bet on air travel’s future.,negative,-0.8635219931602478
+2014-08-09,Oversize Expectations for the Airbus A380,negative,-0.8230741024017334
+2014-09-08,"Bolstering its all-Boeing fleet, Europe’s largest airline by number of passengers announced a firm order for 100 high-density planes with an option to buy 100 more.",positive,0.9170074462890625
+2014-09-08,Would Ryanair Deal Make Economy Class Even More Crowded?,negative,-0.32256895303726196
+2014-09-17,"Blue Origin, owned by Jeff Bezos, agreed to work with United Launch Alliance, which has sent nearly all United States spy and military satellites into space in the last decade.",positive,0.7577290534973145
+2014-09-17,A Bezos Company Will Make Engines for Rockets,neutral,0.02062767930328846
+2014-09-18,"Blue Origin, a private space company owned by Jeff Bezos, said that it had agreed to work with a joint venture run by Boeing and Lockheed Martin to build new engines for their Atlas 5 rockets.",positive,0.8793966770172119
+2014-09-18,Daily Report: Space Race Between Billionaires Heats Up as Bezos Venture Seeks Foothold,neutral,0.02690575271844864
+2014-10-08,"Renewable bio-jet fuels like farnesane hold the elusive promise of better energy security, reduced carbon emissions and lower fuel costs",positive,0.532105028629303
+2014-10-08,Airlines Fly the Skies on a Sugar High,neutral,-0.024678103625774384
+2014-10-13,"The biggest risk of contracting an illness is in the surfaces passengers touch, so hygiene is important, medical experts say.",neutral,-0.029726587235927582
+2014-10-13,A Common-Sense Approach to Fighting In-Flight Germs,neutral,0.0878419280052185
+2014-10-22,"The company said that the deferred production cost for its Dreamliner jets rose, and could go higher.",positive,0.8902240991592407
+2014-10-22,"Boeing’s Earnings Jump, but Higher Costs for 787 Weigh on Its Shares",negative,-0.1434778869152069
+2014-11-03,"After a steep plunge from the peak year, 2008, demand for midsize and smaller jets is picking up again.",positive,0.8615157008171082
+2014-11-03,"Business Aircraft Industry Climbing Back, Slowly",neutral,0.12566380202770233
+2014-11-12,The Commercial Aviation Corporation is getting attention after showcasing its two biggest projects at Airshow China.,positive,0.7321513295173645
+2014-11-12,"With 2 New Jets, Chinese Manufacturer May Become Global Contender",positive,0.9007765054702759
+2014-11-21,"Boeing was the loser in the heated contest, in part because it couldn’t deliver planes quick enough for Delta.",negative,-0.9332557916641235
+2014-11-21,Airbus Wins Delta Order on Promise of Delivery,positive,0.7909817695617676
+2014-12-01,"While stopping short of a firm conclusion, the regulators’ report suggested that manufacturing flaws could have introduced defects that led a battery cell to fail.",negative,-0.9067795276641846
+2014-12-01,Report on Boeing 787 Dreamliner Battery Flaws Finds Lapses at Multiple Points,negative,-0.8675962686538696
+2014-12-19,The European Union asserts that a package of tax breaks offered by Washington State to induce Boeing to build its planned forthcoming 777X jet there would violate W.T.O.,negative,-0.8993920087814331
+2014-12-19,rules.,neutral,0.03327632322907448
+2014-12-19,State Tax Deal for Boeing Draws an E.U.,neutral,0.09478697925806046
+2014-12-19,Challenge,neutral,0.019940800964832306
+2015-01-09,The company is making an innovative smaller airliner that has been plagued by so many delays that competitors have had time to create similar versions.,neutral,0.12557435035705566
+2015-01-09,Bombardier’s CSeries Gamble Is Facing Longer Odds,negative,-0.674053966999054
+2015-01-13,"The plane makers, which control the market for jets with more than 100 seats, have been riding a wave of demand for fuel-efficient models.",neutral,0.434790700674057
+2015-01-13,"Falling Oil Prices, a Boon to Airlines, Pose a Challenge for Airbus and Boeing",negative,-0.8640438914299011
+2015-01-28,The company’s stock rises in early trading after the company indicates it will soon generate more cash from the sales of its new jetliner.,positive,0.8529825806617737
+2015-01-28,Boeing Says Dreamliner to Yield More Cash in ’15,positive,0.7593695521354675
+2015-03-26,"In the high-stakes competition for domination of the Internet, Facebook is under pressure to show that it, too, can pursue projects that are more speculative than product.",neutral,0.2601247727870941
+2015-03-26,Daily Report: Facebook’s High-Stakes Bet on Drones to Deliver Internet Service,neutral,0.08334529399871826
+2015-04-06,A battle between two aviation heavyweights over an obscure bank masks a political war between opponents of “corporate welfare” and major business groups.,negative,-0.8657166361808777
+2015-04-06,Boeing and Delta Spend Millions in Fight Over Export-Import Bank’s Existence,negative,-0.787562906742096
+2015-04-10,"An analysis of recent company reports, however, finds that the widest gap exists between the chief executives and workers of Disney, Oracle, Qualcomm and Starbucks.",negative,-0.7619733810424805
+2015-04-10,"Despite Federal Regulation, C.E.O.-Worker Pay Gap Data Remains Hidden",negative,-0.9366810917854309
+2015-04-23,"The aircraft maker reported a 92 percent drop in cash flow for the first quarter, a problem that analysts blamed on lackluster revenue from the fuel-saving 787.",negative,-0.967097818851471
+2015-04-23,Boeing Droops as Dreamliner Jet Fails to Deliver,negative,-0.8946823477745056
+2015-04-30,The Federal Aviation Administration said operators of the Dreamliner jet were to shut down power periodically after a software problem was found.,negative,-0.9205520749092102
+2015-04-30,F.A.A.,neutral,0.04458102211356163
+2015-04-30,Orders Fix for Possible Power Loss in Boeing 787,negative,-0.9096469879150391
+2015-05-21,"Powerful Republicans are bent on letting the export credit agency die, imperiling overseas projects and sales by American companies.",negative,-0.6931991577148438
+2015-05-21,Export-Import Bank Near Showdown in Congress,negative,-0.9272128343582153
+2015-06-14,"Highlights of this week will include the Paris air show, a Federal Reserve meeting, an initial public offering by Fitbit and an economic conference in St. Petersburg, Russia.",neutral,0.05380595475435257
+2015-06-14,"A Federal Reserve Meeting, the Joust for Jet Orders and Fitbit’s Stock Market Debut",neutral,-0.08424658328294754
+2015-06-24,Analysts said the transition was expected and came as the company is riding a wave of orders for more fuel-efficient planes to new highs in profit.,positive,0.872063934803009
+2015-06-24,"Boeing Names Next C.E.O., Affirming Its Heir Apparent",neutral,0.15386120975017548
+2015-07-22,"The aircraft maker still beat analysts’ expectations by posting an 11 percent rise in revenue, to $24.5 billion.",positive,0.903748631477356
+2015-07-22,Boeing Lowers Profit Outlook on Tanker Charge in 2nd Quarter,negative,-0.9524760842323303
+2015-09-15,"General Electric and Boeing blamed a halt in export credit for job transfers and a loss of contracts, reigniting Republican infighting over the fate of the Ex-Im Bank.",negative,-0.9553612470626831
+2015-09-15,G.O.P.,neutral,0.031348817050457
+2015-09-15,"Discord Over Ex-Im Bank Intensifies, as G.E.",negative,-0.8999629020690918
+2015-09-15,Shifts Jobs Abroad,negative,-0.6478979587554932
+2015-10-30,"The company said it would aim to produce 60 of the single-aisle planes a month by the middle of 2019, a record pace for the industry.",positive,0.6646443009376526
+2015-10-30,Airbus to Significantly Speed A320 Production Before Decade’s End,positive,0.9050759673118591
+2015-11-05,Boeing was accused of charging excessive fees and choosing higher-cost investment offerings in its 401(k) plan.,negative,-0.899876058101654
+2015-11-05,Boeing to Pay $57 Million to Settle Suit Over Retirement Plan,negative,-0.6537227630615234
+2016-02-15,Last week’s proposed efficiency standard for aircraft emissions is lower than what the industry is on track to achieve anyway in the next decade.,negative,-0.9381213784217834
+2016-02-15,Deal on Aviation Emissions Sets Can’t-Miss Goals,neutral,0.0708489865064621
+2016-02-17,"The Canadian company said that Air Canada had agreed to buy up to 75 of its new airliners, after a prolonged drought in sales announcements.",positive,0.8708820343017578
+2016-02-17,"Bombardier to Cut 7,000 Jobs as New Airliner Struggles to Draw Buyers",negative,-0.9570152759552002
+2016-04-28,"The Canadian jet maker has dug itself into a financial hole with development of the CS100, an airliner meant to compete with planes from Boeing and Airbus.",negative,-0.9216645359992981
+2016-04-28,Bombardier’s New Plane Gets a Lift From Delta Order,positive,0.845467209815979
+2016-06-06,"The vacuum tube, a 100-year-old technology replaced by transistors, could make a comeback as a way to shrink computer chips beyond the limits of silicon.",neutral,0.3751028776168823
+2016-06-06,Smaller Chips May Depend on Vacuum Tube Technology,neutral,-0.06351496279239655
+2016-06-27,"Senator Richard Shelby has held up the nomination of a board member of the bank, blocking $20 billion for American exports.",negative,-0.8312224745750427
+2016-06-27,A Single Senator Stymies the Export-Import Bank,negative,-0.8237518668174744
+2016-09-02,"Mr. Sutter headed a team of 4,500 engineers that in only 29 months designed and built the 747, a 20th-century answer to the luxury ocean liner.",neutral,0.1252899467945099
+2016-09-02,"Joe Sutter, Who Led an Army in Building Boeing’s Jumbo 747, Dies at 95",neutral,-0.26310795545578003
+2016-11-23,"The country’s previous administration had planned to buy 65 F-35s from Lockheed Martin, but then wavered over the price, estimated at $45.8 billion.",negative,-0.8819053173065186
+2016-11-23,Canada to Buy F-18s From Boeing to Shore Up Its Fighter Fleet,positive,0.7445196509361267
+2016-12-08,"Initially aiming to pressure companies like Ford and Carrier to keep factory jobs at home instead of moving them to Mexico, Mr. Trump has increased the stakes.",positive,0.710102915763855
+2016-12-08,Wary Corporate Chiefs Keep an Ear Tuned to Trump’s Messages,negative,-0.4258206784725189
+2016-12-12,"With a $16.6 billion sale of planes to Iran, Boeing said the agreement would “support tens of thousands of U.S. jobs,” perhaps speaking toward President-elect Donald J. Trump.",positive,0.8154337406158447
+2016-12-12,Boeing Speaks in Trump Terms on Iran Deal: It’s About Jobs,neutral,0.03781014680862427
+2016-12-22,The president-elect said he was looking to “bring costs down” on the F-35 fighter jet program and Boeing’s plans to build new Air Force One planes.,positive,0.5853313207626343
+2016-12-22,Trump Meets Boeing and Lockheed Executives After Assailing Them on Jet Costs,negative,-0.438937783241272
+2016-12-23,Donald J. Trump’s post on Twitter suggested that Boeing’s pitch may have swayed him to buy more of its F-18s over Lockheed Martin’s F-35s.,positive,0.44004911184310913
+2016-12-23,Trump Pits Boeing Against Lockheed to Cut Costs of New Fighter Jets,negative,-0.8102898001670837
+2016-12-24,"The President-elect may be pitting defense contractors against each to force down prices, but military and political realities may intervene.",negative,-0.57191401720047
+2016-12-24,"Trump’s Push to Cut Jet Costs Hits a Nerve, but His Demands Face Limitations",negative,-0.5570046901702881

@@ -1,0 +1,204 @@
+Date,Sentence,Prediction,sentimentScore
+2014-01-07,Multinationals and local suppliers are increasingly going beyond local regulations in designing factories that cut energy costs and pollute less.,neutral,0.20482434332370758
+2014-01-07,"Slowly, Asia’s Factories Begin to Turn Green",neutral,0.13364899158477783
+2014-01-12,"JPMorgan Chase and Wells Fargo, set to report fourth-quarter results on Tuesday, will kick off a flurry of bank earnings, and Intel will post its fourth-quarter results.",positive,0.5166770815849304
+2014-01-12,Economic Reports for the Week of Jan. 13,neutral,-0.19021853804588318
+2014-01-15,Younger firms like FireEye and Palo Alto Networks are competing with Symantec and McAfee in a market that is expected to swell to $87 billion by 2016.,positive,0.716469943523407
+2014-01-15,Tech Security Upstarts Enter Fray,neutral,0.09533173590898514
+2014-01-22,"Intel Media was acquired by Verizon, which wants to add TV everywhere there is an Internet connection.",neutral,0.06460797786712646
+2014-01-22,Verizon Plans to Buy Intel Media Division to Expand Its Television Services,positive,0.8164003491401672
+2014-02-04,"The British chip maker said it was trying to offset the decline by increasing sales for other devices, like smartwatches and fitness bands.",positive,0.8254064321517944
+2014-02-04,ARM Reports Loss as Sales of High-End Smartphones Slow,negative,-0.9645023941993713
+2014-03-01,"A class-action suit by Silicon Valley engineers against companies including Google, Apple and Intel has revealed details of an agreement among them not to cold-call one another’s employees.",negative,-0.8452702760696411
+2014-03-01,Engineers Allege Hiring Collusion in Silicon Valley,negative,-0.8720155358314514
+2014-03-27,"The world’s biggest chip company is out of another business, a framework for big data analysis called Hadoop, and refocusing on how to sell more chips.",neutral,0.04960714280605316
+2014-03-27,Intel Exits a Data Analysis Business and Invests in Another One,negative,-0.47695493698120117
+2014-03-29,Moves by older incumbents and young giants show that 2014 is the year computing everywhere comes into its own.,neutral,0.09455790370702744
+2014-03-29,Now it’s time for big development.,neutral,0.21345868706703186
+2014-03-29,Looking for the next frontier?,neutral,0.007038414478302002
+2014-03-29,"There was plenty of that, too.",neutral,0.061224084347486496
+2014-03-29,Cloud Computing’s Watershed Week,neutral,0.31747883558273315
+2014-04-07,The challenge of big data software tools to traditional data software companies is not that the new technology will be a direct replacement for the old.,neutral,0.08747550845146179
+2014-04-07,But big-data software like Hadoop is a formidable threat to the economics of incumbents.,negative,-0.8128202557563782
+2014-04-07,"A look at Teradata, a leader in data warehouse software, and its announcements this week, shows the challenge and how an incumbent is responding.",neutral,0.09680361300706863
+2014-04-07,The Big Data Challenge to Legacy Data Management Companies,neutral,-0.33662116527557373
+2014-04-15,"With PC sales falling, the semiconductor maker reported a drop in year-over-year quarterly earnings, to $1.95 billion.",negative,-0.969319224357605
+2014-04-15,"Intel’s Profit Slips, but Investors Are Still Turning Toward Tech’s Staid Stalwarts",negative,-0.9380115270614624
+2014-04-21,"Four leading tech companies are pushing to settle a class-action suit with several noteworthy angles, including questions over employee rights and the death of a programmer who helped set the case in motion.",neutral,-0.2668949365615845
+2014-04-21,Daily Report: Silicon Valley Giants Seek to Resolve Suit on Hiring Practices,negative,-0.5391849279403687
+2014-04-23,The first server designs resulting from IBM’s decision to open up its Power chip technology are being announced on Wednesday.,neutral,0.1200847178697586
+2014-04-23,"IBM Opens Chip Architecture, in Strategy of Sharing and Self-Interest",neutral,0.12422454357147217
+2014-04-24,"Apple, Google, Intel and Adobe reached an agreement with plaintiffs over charges that the companies conspired not to hire one another’s employees.",negative,-0.474345862865448
+2014-04-24,Tech Giants Settle Antitrust Hiring Suit,negative,-0.49410319328308105
+2014-05-09,"The Swedish technology firm iZettle, a European competitor to Square, announced a new fund-raising round worth 40 million euros, from backers like Intel Capital and Zouk Capital, a London-based private equity firm.",positive,0.6507482528686523
+2014-05-09,Swedish Payments Processor Raises $55 Million,positive,0.769668698310852
+2014-05-12,"Michael Devine, one of four plaintiffs named in the class action against Apple, Google, Intel and Adobe, has asked the judge in the case to reject the settlement his own lawyers negotiated.",negative,-0.7440369725227356
+2014-05-12,Daily Report: Plaintiff in Silicon Valley Suit Asks Judge to Reject Proposed Deal,negative,-0.7160396575927734
+2014-05-28,"Intel announced that it was making a smart T-shirt in partnership with AIQ, a company that makes electronic-based textiles.",positive,0.569121778011322
+2014-05-28,The company hopes that the shirt will be used by people who exercise regularly.,neutral,0.11399314552545547
+2014-05-28,Intel Shows Off ‘Smart’ Wearable Shirt,neutral,0.11225704848766327
+2014-06-12,"The case, which dates back to 2000, is about a competitive edge the chip maker may no longer have.",neutral,-0.1426868438720703
+2014-06-12,But the ruling has legal implications for other tech giants.,neutral,-0.3692358434200287
+2014-06-12,European Court Upholds $1.44 Billion Fine Against Intel,negative,-0.24513989686965942
+2014-06-18,"As cloud computing gets bigger, some applications have to run on thousands of computer servers at once.",neutral,-0.4153672456741333
+2014-06-18,Intel on Wednesday offered a way to tailor its server chip for this work.,neutral,0.3147636353969574
+2014-06-18,Intel Introduces Custom Cloud Chip,neutral,0.1834295243024826
+2014-06-27,"Four prominent Silicon Valley companies — Apple, Google, Intel and Adobe — are offering $324 million to get rid of a case that says they conspired in secret no-poaching deals to keep their engineers.",neutral,-0.033983051776885986
+2014-06-27,The judge isn’t convinced the deal is fair.,negative,-0.5645588040351868
+2014-06-27,"In Class Action Against Apple and Others, Concerns From the Judge",negative,-0.8055066466331482
+2014-07-08,"For a lot of tech companies, the devices and the data promised by the Internet of Things has a huge potential.",neutral,0.09511889517307281
+2014-07-08,"That makes the way we get there, even through ostensibly free open source projects, into a battleground.",neutral,0.13879936933517456
+2014-07-08,"Intel, Qualcomm and Others Compete for ‘Internet of Things’ Standard",neutral,0.06654579192399979
+2014-07-15,Net income rose 40 percent in the most recent quarter for Intel as it adapts its business to a new generation of computing.,positive,0.9389359354972839
+2014-07-15,Intel Exceeds Estimates on Improving Demand for PCs,positive,0.6186032295227051
+2014-08-02,"Genevieve Bell, an anthropologist who is also an Intel Fellow, looks at how tech changes the world, and vice versa.",neutral,-0.02113020420074463
+2014-08-02,"She is convinced we are at a rare period of social change, with the explosion of digital intelligence into every part of our lives.",neutral,0.25376686453819275
+2014-08-02,Where Tech Is Taking Us: A Conversation With Intel’s Genevieve Bell,neutral,0.048663754016160965
+2014-08-08,A judge rejected a settlement in a case that accuses tech companies of agreeing not to solicit one another’s employees.,negative,-0.8667001128196716
+2014-08-08,Court Rejects Deal on Hiring in Silicon Valley,negative,-0.9023443460464478
+2014-09-06,"Google, Apple, Intel and Adobe filed papers asking the Ninth Circuit Court of Appeals to spurn Judge Lucy H. Koh’s rejection of their $324.5 million antitrust settlement as too meager.",negative,-0.8279806971549988
+2014-09-06,Silicon Valley Fights Order to Pay Bigger Settlement in Hiring Case,negative,-0.23832589387893677
+2014-09-10,Apple wasn’t the only big tech outfit with something to talk about on Tuesday.,neutral,0.006807072088122368
+2014-09-10,Intel met with developers to discuss how it is changing from a chip-centric company to one with a variety of products and services.,neutral,0.42882663011550903
+2014-09-10,Intel Shares More of Its Extreme Makeover,neutral,0.16615533828735352
+2014-09-26,Employers are creating programs for their retirees that provide transitions to post-career jobs and volunteer opportunities.,positive,0.6090527772903442
+2014-09-26,"As One Career Wraps Up, Finding That Next Role",neutral,0.007361374795436859
+2014-09-29,The low-power computer server Meg Whitman pointed to as the kind of technology that would revive Hewlett-Packard has never lived up to sales expectations.,neutral,0.07910729944705963
+2014-09-29,"Still, HP keeps trying, this time with a chip made by ARM.",neutral,0.15456193685531616
+2014-09-29,"Expectations Lower, HP Launches Another Moonshot",negative,-0.3602261543273926
+2014-10-02,Intel’s decision added to a controversy that has focused attention on the treatment of women in the games business and the power of online mobs.,negative,-0.8422988653182983
+2014-10-02,Intel Pulls Ads From Site After ‘Gamergate’ Boycott,negative,-0.9016425013542175
+2014-10-08,"Advanced Micro Devices, the largest maker of computer semiconductors after Intel, said on Wednesday that it had appointed Lisa Su as its new president and chief executive.",neutral,0.1247071623802185
+2014-10-08,A.M.D.,neutral,0.04129112511873245
+2014-10-08,Names Lisa Su as Chief Executive,neutral,0.04730651527643204
+2014-10-14,"For all the new business Intel is pursuing, chips for PCs brought in the vast bulk of the company’s third-quarter revenue.",positive,0.4973980188369751
+2014-10-14,Income at Intel Climbs 12% on PC Sales,positive,0.4394591450691223
+2014-10-27,"The Chinese government is investing billions in domestic chip makers as well as using legal action against multinationals and, experts say, espionage.",neutral,0.05003181844949722
+2014-10-27,"Using Cash and Pressure, China Builds Its Chip Industry",positive,0.49755704402923584
+2014-11-04,"The financing round, led by the venture capital arm of Intel, will allow the company to expand its business of linking websites to social media.",positive,0.8751078844070435
+2014-11-04,"Gigya, a Social Log-In Manager, Raises $35 Million",neutral,0.17179352045059204
+2014-11-21,"Mr. Parsons, who portrays the genius nerd Sheldon Cooper on the comedy series, is featured in a campaign that is scheduled to begin on Monday.",neutral,0.048009421676397324
+2014-11-21,"Jim Parsons, ‘Big Bang Theory’ Star, to Promote Intel as Innovator",neutral,0.26411402225494385
+2014-11-23,The next big technology migration will change how workplaces are organized.,neutral,0.028555940836668015
+2014-11-23,"Bad news, middle managers: You’re going to get less important.",negative,-0.5220609307289124
+2014-11-23,What Cloud Computing Means to Your Job,neutral,0.054582368582487106
+2014-12-17,"After some miscues and failed experiments, BlackBerry is getting back on track with the BlackBerry Classic, a throwback device that combines modern amenities with the keyboard and power features its users love.",positive,0.7978578209877014
+2014-12-17,BlackBerry Classic Hits the Right Keys,neutral,0.10793204605579376
+2014-12-19,"Next year, half of the chips Intel sells to cloud businesses will be custom.",neutral,0.05007075518369675
+2014-12-19,"The company is used to selling tens of millions of the same thing, but outfits like Google and Facebook need special features, and pay for them.",neutral,0.02888329140841961
+2014-12-19,Intel Betting on (Customized) Commodity Chips for Cloud Computing,neutral,0.07790279388427734
+2014-12-24,"Wearables have a style problem, especially when it comes to women.",negative,-0.8290851712226868
+2014-12-24,"But as tech companies and designers come together to make wearables for women, do they risk making gadgets that look good but do less?",neutral,-0.2151165008544922
+2014-12-24,Wearable Devices for Women: Still Pretty and Still Dumb,neutral,0.08164295554161072
+2015-01-07,The fund is intended to help attract more women and minorities to the technology field and make it more hospitable to them once they get there.,positive,0.770498514175415
+2015-01-07,Daily Report: Intel Pledges $300 Million to Increase Diversity in Tech Industry,positive,0.8761563301086426
+2015-01-13,The ability to compartmentalize software into sections that can be worked on one at a time will likely change how coders work.,neutral,-0.03169569373130798
+2015-01-13,But that’s not necessarily a bad thing.,neutral,-0.17238298058509827
+2015-01-13,Why Software ‘Containers’ Won’t Be Bad News for Programmers,neutral,-0.3159387707710266
+2015-01-14,"Apple, Google, Intel and Adobe say a new deal has been struck to settle a lawsuit that asserts the companies had agreed not to directly solicit one another’s employees.",positive,0.33777543902397156
+2015-01-14,Daily Report: Tech Giants Said to Offer Bigger Settlement in Antitrust Case on Hiring,positive,0.720930814743042
+2015-01-15,"While Intel’s profit rose significantly, concerns remain about whether it can move beyond its focus on putting chips in personal computers and servers.",positive,0.8638879656791687
+2015-01-15,"Intel Profit Rises 39%, but Losses in Mobile Devices Are Heavy",negative,-0.9358987212181091
+2015-01-16,"While Intel’s profit rose significantly, concerns remain about whether it can move beyond its focus on putting chips in personal computers and servers.",positive,0.8638879656791687
+2015-01-16,"Daily Report: Intel Posts a Profit, Despite Losses in Mobile Devices",positive,0.681041955947876
+2015-01-21,"The venture capital firm Battery Ventures has hired Dharmesh Thakker, a former Intel Capital managing director, as a general partner.",neutral,0.1838572919368744
+2015-01-21,Battery Ventures Hires Intel Capital Executive,neutral,0.03002232313156128
+2015-02-17,A number of big tech companies with an interest in building out the big data market have announced a standard for core elements of a technology framework for data analysis.,neutral,0.18840308487415314
+2015-02-17,"IBM, G.E.",neutral,0.026292048394680023
+2015-02-17,and Others Create Big Data Alliance,neutral,0.03570123761892319
+2015-03-02,Qualcomm has a new fingerprint reading technology that it hopes can eventually replace passwords both for devices and apps.,neutral,0.4248785078525543
+2015-03-02,Qualcomm and Intel to Introduce New Biometric Security Technology,positive,0.7359029650688171
+2015-03-05,"Unlike the Nasdaq composite index at its dot-com peak in 2000, today’s index has companies that are more mature and less concentrated in technology.",neutral,0.05091739818453789
+2015-03-05,"Nasdaq Changed in Its Climb to 5,000",positive,0.10934659838676453
+2015-03-19,"A new generation of luxury smartwatches, essentially tiny computers meant to be fashion statements, is beginning to take shape.",neutral,0.21629934012889862
+2015-03-19,Google and Intel to Team Up with TAG Heuer on a Luxury Smartwatch,positive,0.6521406173706055
+2015-03-27,"Intel is in discussions to buy Altera, a designer of specialized computer chips, in what would be one of the technology giant’s biggest deals ever, says a person briefed on the matter.",positive,0.49864062666893005
+2015-03-27,Intel Said to Be in Talks to Acquire Chip Maker,neutral,0.05351433530449867
+2015-04-09,The collapse of the discussions puts a halt to what would have been Intel’s biggest-ever takeover as it seeks to diversify its business.,negative,-0.7514568567276001
+2015-04-09,Intel Said to End Talks to Buy Chip Designer Altera,negative,-0.47007641196250916
+2015-04-11,The chairman of Intel says people are successful when they have jobs in which they are intellectually and emotionally engaged.,neutral,0.3531566560268402
+2015-04-11,Andy Bryant of Intel: Don’t Just Check Off Career Boxes,neutral,-0.17360740900039673
+2015-04-14,"The world’s largest semiconductor company matched Wall Street expectations, reflecting aggressive cost management.",positive,0.914590060710907
+2015-04-14,"Intel Earnings Rise 3%, Despite Slow PC Market",positive,0.6696266531944275
+2015-04-15,"American technology companies are no strangers to antitrust challenges by European regulators, but the cost has tended to be measured in money and time, not business practices.",neutral,-0.1343032866716385
+2015-04-15,Google Joins Its U.S. Peers Under Europe’s Scrutiny,positive,0.5789790153503418
+2015-04-16,"American technology companies are no strangers to antitrust challenges by European regulators, but the cost has tended to be measured in money and time, not business practices.",neutral,-0.1343032866716385
+2015-04-16,"Daily Report: Joining American Peers, Google Gets Caught in Europe’s Cross Hairs",positive,0.6594427824020386
+2015-05-12,"A new book by two business school professors examines the common strategies of Bill Gates, Andy Grove and Steve Jobs, and the implications beyond the companies they led.",neutral,0.03064284846186638
+2015-05-12,"Bill Gates, Andy Grove and Steve Jobs: The Strategies They Shared",neutral,0.028245141729712486
+2015-05-29,"Intel is close to buying fellow chip maker Altera for more than $15 billion, a person briefed on the matter said on Friday, the latest sign of consolidation in the semiconductor industry.",positive,0.6678518652915955
+2015-05-29,Intel Takeover of Altera Is Expected,neutral,0.006431963294744492
+2015-06-01,Investors have lifted the shares of both semiconductor acquirers and their targets in hopes for cost cuts and improved top lines.,positive,0.8843265771865845
+2015-06-01,That may be too optimistic.,negative,-0.472608745098114
+2015-06-01,Chip Deals in Search of Greater Pricing Power,neutral,0.31121179461479187
+2015-06-02,The deal would be the latest in a wave of consolidation as chip makers look to increase their scale and product offerings.,positive,0.8667358756065369
+2015-06-02,Daily Report: Rising Cost of Chips Spur Semiconductor Mergers,positive,0.13251295685768127
+2015-06-23,"So-called software containers got backing from companies including Cisco Systems and Google, while another group of companies detailed plans to automate certain aspects of cloud computing.",neutral,0.4405252933502197
+2015-06-23,Tech Companies Line Up Behind ‘Containers’ and the Cloud,neutral,-0.01680152863264084
+2015-07-02,The chief executive is using Ms. James’s departure as an opportunity to make sweeping organizational changes.,neutral,0.4238658547401428
+2015-07-02,"Renée James, President of Intel, Is Leaving the Company",negative,-0.44875195622444153
+2015-07-15,"The chip maker’s quarterly net income was even with a year ago, even though revenue fell.",negative,-0.5196089148521423
+2015-07-15,"Intel Earnings Surpass Forecasts, Driven by Data Centers",negative,-0.5918288230895996
+2015-08-24,An expected $100 million in funding to be directed to cloud-computing software and a related start-up reflects the company’s view of its own future.,neutral,0.1366419643163681
+2015-08-24,Intel to Invest Heavily in Software That Enhances Cloud-Computing Capabilities,positive,0.7273743152618408
+2015-09-09,"The tech world has focused mostly on news related to China so far this week, with the main tech news event — Apple’s unveiling of new products — set to take place on Wednesday.",neutral,-0.008596867322921753
+2015-09-09,Daily Report: China Asserts Tech Presence; Apple Shows Off New Products,positive,0.7952574491500854
+2015-10-13,The chip company’s net income per share and revenue were below last year’s but beat analysts’ estimates.,negative,-0.1960138976573944
+2015-10-13,Intel’s Results Reflect Move to Cloud Computing,neutral,0.16989465057849884
+2015-10-19,"The offer came as Microsemi sought to derail a competing proposal from Skyworks Solutions, a rival chip maker and supplier to Apple.",negative,-0.8786181807518005
+2015-10-19,Microsemi Offers to Buy PMC-Sierra in $2.4 Billion Deal,neutral,0.10874685645103455
+2015-11-20,"A former employee sued the computing giant, saying that big bets on hedge funds and private equity increased costs and hurt participants in the plans.",negative,-0.9484169483184814
+2015-11-20,Intel Lawsuit Questions Place of Hedge Funds in Retirement Plans,negative,-0.7544056177139282
+2016-01-11,An already busy start to the year for the tech sector is set to ramp up with the beginning of the tech earnings season this week.,positive,0.6336305737495422
+2016-01-11,Daily Report: The Tech News Cycle is About to Ramp Up,positive,0.5051693320274353
+2016-01-14,"The chip maker’s revenue was up slightly from the same time period last year, but money from data center chips was up markedly.",positive,0.9314567446708679
+2016-01-14,"Intel’s Earnings Fall in Fourth Quarter, but Beat Expectations",negative,-0.9605114459991455
+2016-01-15,"Why the financial reports of Intel, one of the largest suppliers of chips to PCs, still matters to the broader technology industry.",neutral,0.011906139552593231
+2016-01-15,Daily Report: Why Intel’s Earnings Shouldn’t Be Ignored,negative,-0.4934609532356262
+2016-01-20,"The transition from older, shrinking markets to new areas is proving difficult for tech’s most venerable companies.",negative,-0.7990237474441528
+2016-01-20,But that does not mean they won’t be able to reinvent themselves.,negative,-0.4906277060508728
+2016-01-20,Daily Report: IBM Caught Between the Old and the New,negative,-0.6984148621559143
+2016-01-25,"Strap in, it’ll be a busy week of technology news.",neutral,0.06258887052536011
+2016-01-25,"Daily Report: Earnings, Earnings, Earnings",neutral,0.012424714863300323
+2016-01-30,Yaakov Bendavid returns with a message for all of us.,positive,0.780941903591156
+2016-01-30,Message to Buyers,neutral,0.05968829616904259
+2016-03-22,"The semiconductor chip was a development as momentous as hydrocarbon fuels, electricity and telephones were in earlier eras.",neutral,0.33571046590805054
+2016-03-22,Andrew S. Grove Dies at 79; Intel Chief Spurred Semiconductor Revolution,neutral,-0.12434326112270355
+2016-04-04,"Gansha Wu, a veteran engineering manager at Intel, has jumped into the autonomous car industry in China, with a start-up called Uisee Technology.",neutral,0.2786758542060852
+2016-04-04,China Moves Into Position to Develop Self-Driving Cars,positive,0.7004318237304688
+2016-04-18,"Through the funds, companies scout for new products or services and business partners, but critics say the funds contribute to inflated valuations.",negative,-0.6839920282363892
+2016-04-18,General Mills and 7-Eleven Join the Venture Capital Crowd,neutral,0.04318539798259735
+2016-04-19,"The company, the largest semiconductor maker, will lay off 11 percent of its work force as it shifts to supplying chips for phones and other devices.",negative,-0.959980309009552
+2016-04-19,"Intel to Cut 12,000 Jobs as PC Demand Plummets",negative,-0.958561897277832
+2016-04-22,"A deeper reading of recent earnings reports shows an industry in transition, and perhaps getting ready to get even bigger.",positive,0.6785669326782227
+2016-04-22,The No-Good Week in Tech’s (Hopeful) Trip to a Bright Future,neutral,0.2014145851135254
+2016-05-04,An association of chip makers is signaling that the principle that has guided improvements in chip technology for decades may soon have run its course.,neutral,0.19149819016456604
+2016-05-04,Moore’s Law Loses Some True Believers,negative,-0.7305890917778015
+2016-05-19,"When a value investor buys in, it’s a sign that a high-flying growth company has joined the ranks of venerable tech companies like IBM and Intel.",positive,0.5875074863433838
+2016-05-19,Warren Buffett Stake Suggests Apple Is All Grown Up,neutral,0.15829890966415405
+2016-05-26,The biotechnology company will sharply increase funding for the longtime high school contest with which Intel ended its relationship last year.,positive,0.9108187556266785
+2016-05-26,Regeneron Pharmaceuticals to Sponsor Science Talent Search,neutral,0.08325877785682678
+2016-05-31,"Don’t think that every moment, ounce of energy and extra cent needs to be maximized.",neutral,0.27858641743659973
+2016-05-31,Cut some slack and get used to having a little excess instead.,neutral,0.06404776871204376
+2016-05-31,"The Paranoid Survive, but They Burn Out.",negative,-0.44677120447158813
+2016-05-31,Take a Break.,neutral,0.06438480317592621
+2016-06-20,China has the largest number of computers among the top 500 — a first for any country other than the United States.,neutral,0.30556491017341614
+2016-06-20,China Wins New Bragging Rights in Supercomputers,positive,0.8655655384063721
+2016-06-26,Intel’s internal advertising group and video and digital studio have produced a slew of original content that shows some incredible ways innovators are using its technology.,neutral,0.3017841875553131
+2016-06-26,Intel Tells Stories That Go Beyond Chips,neutral,0.04853855073451996
+2016-07-07,The difficulty of getting drivers to take control of automated cars when necessary has prompted many automakers to take people out of the equation.,negative,-0.7720966935157776
+2016-07-07,Makers of Self-Driving Cars Ask What to Do With Human Nature,neutral,-0.05107288435101509
+2016-08-14,"The world’s biggest semiconductor company is scrambling for a place in sensors, wireless networking and autonomous vehicles, as computing spreads to nearly every machine.",neutral,0.21469071507453918
+2016-08-14,Intel’s New Mission: Find Fresh Uses for Its Famous Paranoia,neutral,0.20938104391098022
+2016-08-17,"The outlook for last-generation tech companies is often grim as their products become commonplace, rivals find alternatives and margins shrink.",negative,-0.9555774331092834
+2016-08-17,Intel Seems to Have a Stronger Hand Than Cisco Systems,positive,0.7053461670875549
+2016-08-18,"Intel announced Alloy, a platform for virtual reality; and Cisco Systems, a maker of networking equipment, said it would cut about 5,500 jobs as it focuses on software.",negative,-0.9550297260284424
+2016-08-18,"Daily Report: Intel and Cisco, Shifting With the Times",neutral,0.014355357736349106
+2016-09-07,The move will bring McAfee independence at a time when cybersecurity businesses have grown more prominent amid increasing hacking threats.,positive,0.856639564037323
+2016-09-07,Intel Sells Majority Stake in McAfee Security Unit to TPG,neutral,0.03770040348172188
+2016-09-08,"In just one day, three major transactions in the technology industry highlight the scramble to deal with the implications of cloud computing.",neutral,0.1426231861114502
+2016-09-08,"Morning Agenda: The Tech Reformation, Low Caliber Credit, China’s Debt Burden",neutral,-0.07116513699293137
+2016-11-29,"For Intel, especially, the collaboration is an effort to catch up in autonomous vehicles, a field where some chip makers have made deeper inroads.",positive,0.6997787356376648
+2016-11-29,Intel to Team With Delphi and Mobileye for Self-Driving Cars,positive,0.7653406858444214
+2016-12-13,"The executives meeting with Mr. Trump in Manhattan on Wednesday include Elon Musk of Tesla, Timothy D. Cook of Apple and Jeff Bezos of Amazon.",neutral,-0.0027679726481437683
+2016-12-13,"When Trump Meets Tech Leaders, Jobs Will Be on the Agenda",neutral,0.030217908322811127

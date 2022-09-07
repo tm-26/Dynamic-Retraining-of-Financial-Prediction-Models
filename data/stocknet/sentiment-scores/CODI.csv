@@ -1,0 +1,33 @@
+Date,Sentence,Prediction,sentimentScore
+2014-03-08,"In “The Evolution of a Corporate Idealist,” a former BP employee sees globalization and the Internet as pushing more companies to social responsibility.",neutral,0.06461011618375778
+2014-03-08,How Big Business Can Take the High Road,neutral,0.006863340735435486
+2014-05-01,"The chief executive of Bitly says that effective leadership means empowering individuals to make, and own, the decisions.",positive,0.5609402060508728
+2014-05-01,"Mark Josephson of Bitly, on Leading With a Compass",neutral,0.04553668573498726
+2014-05-18,"It turns out every building has its own magnetic “fingerprint,” and you can figure out what it looks like with the compass of an iPhone.",neutral,0.04215918108820915
+2014-05-18,"Merge that information with public maps, and we may see a movement to make all our spaces as public as roads.",neutral,0.31918975710868835
+2014-05-18,Think Yelp reviews of your couch.,neutral,-0.01885583996772766
+2014-05-18,Mapping Our Interiors,neutral,0.17934799194335938
+2014-06-17,"Mr. Allon is a founder and the executive chairman of Urban Compass, a technology-driven residential brokerage firm that focuses on the Manhattan and Brooklyn markets.",neutral,0.0430779792368412
+2014-06-17,Ori Allon,neutral,0.065420962870121
+2014-06-25,"Visitors can get details on attractions, animals, camps, parking, the weather and more on their mobile devices.",neutral,0.021086525171995163
+2014-06-25,Navigating National Parks With Light and Rich Digital Guides,neutral,0.1315346360206604
+2015-02-28,The bus drivers who transport workers to the campuses of six Silicon Valley employers voted to join the Teamsters to negotiate better working conditions and wages.,positive,0.6284393072128296
+2015-02-28,Silicon Valley Shuttle Drivers Vote to Join Union,neutral,0.1968003213405609
+2015-03-06,"Foodbuy, the procurement unit of Compass Group, has begun selling Hampton’s Just Cookies and will soon add Just Mayo, both made without eggs.",neutral,0.1932404637336731
+2015-03-06,"Hampton Creek, Maker of Plant-Based Protein Foods, Signs Distribution Deal With Foodbuy",positive,0.7049015164375305
+2015-05-05,"Mr. Buffett, chief of Berkshire Hathaway, responded to concern that he had abandoned his company’s moral compass by teaming with 3G, an investment firm known for ruthlessly cutting jobs.",negative,-0.911788284778595
+2015-05-05,Berkshire’s Warren Buffett Shows His Teddy Bear Image Has Tough Side,neutral,0.00817108154296875
+2015-05-15,Gyrations in the largest debt markets have undermined the concept of risk-free returns.,negative,-0.947650671005249
+2015-05-15,"When this last compass fails, investors will be left at sea.",negative,-0.6660173535346985
+2015-05-15,Bond Turmoil Signals a New Era of ‘Return-Free Risk’,neutral,0.21868456900119781
+2015-12-10,"In the premiere episode of the podcast’s new season, Sergeant Bergdahl recalls publicly, for the first time, the night he walked away from his Army post in Afghanistan.",neutral,-0.410197377204895
+2015-12-10,Bowe Bergdahl Case at Center of ‘Serial’ Season 2,negative,-0.39237159490585327
+2016-02-16,Science fiction is both shaping the language that virtual reality companies use to market the technology and defining long-term goals for developers.,neutral,0.04685576260089874
+2016-02-16,Virtual Reality Companies Look to Science Fiction for Their Next Play,neutral,-0.04917467385530472
+2016-04-28,Kurt Krauss points us in the right direction.,neutral,0.11743557453155518
+2016-04-28,Power Measures,neutral,0.02868577092885971
+2016-08-26,"Mr. Ellenby founded Grid Systems, where the Compass was produced.",neutral,0.03133242577314377
+2016-08-26,"It went on to become a tool for big corporations, government spies, White House officials and astronauts.",neutral,0.05850872024893761
+2016-08-26,"John Ellenby, Visionary Who Helped Create Early Laptop, Dies at 75",neutral,-0.2526662349700928
+2016-11-29,"From fake news to a censorship tool to a slow draw on removing hate speech, the social media giant is struggling to deal with the ethics of its business.",negative,-0.9174052476882935
+2016-11-29,Daily Report: Facebook Spends a Month Behind the Woodshed,neutral,-0.3627408444881439

@@ -1,0 +1,62 @@
+Date,Sentence,Prediction,sentimentScore
+2014-01-15,"Along with donating $250,000 to the nonprofit Peace One Day, Axe is promoting it on its website and Facebook page.",neutral,0.0781085342168808
+2014-01-15,"Axe, Switching Gears, Strikes a More Earnest Tone",neutral,-0.0036416128277778625
+2014-01-21,"The big maker of consumer products cited slow growth in emerging markets, where it generates more than half its sales.",negative,-0.8804363012313843
+2014-01-21,Caution at Unilever as Its Sales Slow Down,negative,-0.894101619720459
+2014-01-30,The world’s biggest distiller joined other consumer brands in saying that slower growth in developing economies last year hurt its business.,negative,-0.9437558650970459
+2014-01-30,Diageo Reports Slower Growth,negative,-0.7092456817626953
+2014-02-25,"Advertisers are turning to experiential marketing, which is intended to engage consumers with a brand, to provoke positive discussion by word of mouth and on social media.",neutral,0.05562692508101463
+2014-02-25,"At the Oscars, Bringing Brands to Life",neutral,0.12822026014328003
+2014-02-28,"Over the past 15 years, something palpable has begun to change at big companies, Tony Schwartz writes.",neutral,0.3173985183238983
+2014-02-28,They are awakening to a larger perspective and a bigger view of the role they play in the world.,neutral,0.308536559343338
+2014-02-28,A Purpose Beyond Profit,neutral,0.07508290559053421
+2014-03-03,A billboard that referred to the state as an armpit was to be part of an advertising campaign by Unilever for Dove Advanced Care deodorant.,neutral,-0.07475251704454422
+2014-03-03,Unilever Drops Ad That Angered Some in New Jersey,negative,-0.8874908685684204
+2014-03-10,The deal for Qinyuan Group represents Unilever’s largest acquisition in China in more than a decade.,positive,0.7691484093666077
+2014-03-10,The maker of water purifiers and other drinking water equipment had annual sales of about $200 million last year.,neutral,0.07399081438779831
+2014-03-10,Unilever Acquires Majority Stake in Chinese Water-Purification Company,positive,0.6231168508529663
+2014-05-22,"In the 1700s, Mizkan popularized sushi by figuring out how to make inexpensive rice vinegar.",neutral,0.1835549771785736
+2014-05-22,"Now, it is buying global food brands like Ragu and Bertolli.",neutral,0.1560191512107849
+2014-05-22,Japanese Food Firm That Popularized Sushi Looks Globally for Growth,neutral,0.14230237901210785
+2014-05-30,"Companies are beginning to use synthetic biology in producing cosmetics and household cleansers, but there is reluctance in how much to publicize it.",neutral,-0.04018605500459671
+2014-05-30,Companies Quietly Apply Biofuel Tools to Household Products,neutral,0.030491985380649567
+2014-06-01,"Hugo Veiga and Diego Machado, who created acclaimed initiatives for Unilever’s Dove brand, will open AKQA’s creative center in São Paulo.",neutral,0.1499737948179245
+2014-06-01,A Digital Agency Draws a Pair of Aces in Brazil,neutral,-0.07623469829559326
+2014-07-15,"Businesses once addressed the needs of workers and society, partly out of self-interest.",neutral,0.03536049649119377
+2014-07-15,Now the shareholder is king.,neutral,0.06581763923168182
+2014-07-15,Motivating Corporations to Do Good,neutral,0.24392250180244446
+2014-08-08,Retirement coaches are available for people who forget to plan the aspect of their postwork lives that doesn’t involve money.,neutral,-0.06562391668558121
+2014-08-08,Finding an Identity Beyond the Workplace,neutral,0.09637942910194397
+2014-11-10,"Unilever contends that Just Mayo, made by Hampton Creek, is denting sales of its popular mayonnaise products.",negative,-0.9586278796195984
+2014-11-10,Hellmann’s Maker Sues Company Over Its Just Mayo Substitute Mayonnaise,negative,-0.8886725306510925
+2014-11-16,The maker of Hellman’s products added the word “dressing” to comments from consumers on Hellman’s website that referred to Hellman’s mayonnaise dressing with olive oil as simply “mayonnaise.”,neutral,0.07724534720182419
+2014-11-16,"Unilever, Suing Over Rival’s Use of ‘Mayo,’ Changes Own Website",negative,-0.6148871779441833
+2014-11-19,"In the United States, packaging makes up about 30 percent of all municipal solid waste.",neutral,-0.00548841618001461
+2014-11-19,"Mindful of the environment and their bottom lines, companies are trying to reduce that.",neutral,0.09235580265522003
+2014-11-19,The Side Effects of Consumerism,neutral,-0.14818361401557922
+2014-12-04,"The business, to be renamed Unilever Baking, Cooking & Spreading, will continue to remain 100 percent owned by Unilever and is expected to be fully operational by July 2015.",neutral,0.07672365009784698
+2014-12-04,Unilever to Separate Spreads Business Into Standalone Company,neutral,0.009040918201208115
+2015-01-23,"While some consumer products companies are removing the chemical, methylisothiazolinone, others are adding it to offerings including mouthwash.",neutral,-0.045000940561294556
+2015-01-23,Growing Scrutiny for an Allergy Trigger Used in Personal Care Products,negative,-0.46678322553634644
+2015-05-22,"On Friday, the California State Assembly passed a bill that could become the strictest ban in the United States on the particles, which can carry pollutants into the food chain.",neutral,0.23685914278030396
+2015-05-22,Fighting Pollution From Microbeads Used in Soaps and Creams,neutral,0.04607204347848892
+2015-08-21,"Despite a rocky start, Unilever’s acquisition of the ice cream maker became a case study in how small companies can maintain their identities inside conglomerates.",positive,0.47486186027526855
+2015-08-21,How the Social Mission of Ben & Jerry’s Survived Being Gobbled Up,neutral,-0.15624773502349854
+2015-11-21,"Unilever has pledged to cut its environmental impact in half while improving the health of one billion people, but sustainability is turning out to be complicated.",neutral,-0.13369563221931458
+2015-11-21,Unilever Finds That Shrinking Its Footprint Is a Giant Task,negative,-0.5986199378967285
+2016-01-19,"Investments are expected to be diversified so why is that logic not applied to gender, asks Theresa Whitmarsh, one of the women leading an initiative for parity in finance at the elite gathering.",neutral,0.07354196161031723
+2016-01-19,"A Push for Gender Equality at the Davos World Economic Forum, and Beyond",neutral,0.16770637035369873
+2016-02-02,"In 2014, Unilever sued Hampton Creek, whose Just Mayo eggless spread has dented the market share of conventional mayonnaise brands.",negative,-0.9570693969726562
+2016-02-02,"After Suing Over Eggless Spread, Hellmann’s Introduces Its Own",neutral,-0.05582510679960251
+2016-07-20,The deal with the huge European company is a high point for digital commerce start-ups.,positive,0.7497921586036682
+2016-07-20,Dollar Shave Club Sells to Unilever for $1 Billion,neutral,0.061233170330524445
+2016-07-23,Also: Twitter’s banning of a misogynistic troll and how Mike looked beyond his beard to cover the $1 billion Dollar Shave Club sale.,negative,-0.7387965321540833
+2016-07-23,Farhad’s and Mike’s Week in Tech: The Master Plans of SoftBank and Elon Musk,neutral,0.01906098611652851
+2016-07-26,"The internet, mass transportation and globalization allow decentralized companies to be smaller and leaner and have fewer employees.",neutral,-0.08226782828569412
+2016-07-26,$1 Billion for Dollar Shave Club: Why Every Company Should Worry,neutral,0.04084959626197815
+2016-07-27,"Dollar Shave Club, recently acquired for $1 billion, typifies online-only companies that have upended traditional models of stores and advertising.",neutral,0.05188600718975067
+2016-07-27,How Companies Like Dollar Shave Club Are Reshaping the Retail Landscape,neutral,0.19054773449897766
+2016-08-02,"Internet-adept rivals like Dollar Shave Club, which Unilever just bought for $1 billion, threaten to steal customers and cut into P.&G.’s margins.",negative,-0.9557027220726013
+2016-08-02,Online Upstarts Pose a Threat to Procter & Gamble,negative,-0.8310533165931702
+2016-10-13,The sludgy and odd-tasting breakfast spread was caught up in a pricing dispute as the currency weakened after Britain’s vote to leave the European Union.,negative,-0.9293850064277649
+2016-10-13,Marmite Survives After ‘Brexit’ Spurs Tesco-Unilever Price Dispute,negative,-0.4587777256965637

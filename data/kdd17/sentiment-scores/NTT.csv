@@ -1,0 +1,41 @@
+Date,Sentence,Prediction,sentimentScore
+2007-03-07,"Companies are now moving toward applications where performance, heat resistance and durability are more important.",neutral,0.09285623580217361
+2007-03-07,"The New Bioplastics, More Than Just Forks",neutral,0.035436294972896576
+2007-08-09,"The Softbank Corporation, the Japanese mobile phone company, posted an eighteenfold increase in first-quarter profit after adding users at a pace twice that of the market leader, NTT DoCoMo.",positive,0.9289201498031616
+2007-08-09,Japan: Mobile Phone Company’s Profit Surges,positive,0.603137731552124
+2007-10-03,"Japan is a broadband paradise with the world’s fastest and cheapest Internet connections, but some analysts wonder if the country’s push to install fiber is worth the effort.",positive,0.6335294246673584
+2007-10-03,"Unlike U.S., Japanese Push Fiber Over Profit",neutral,-0.09627638757228851
+2007-12-21,"Kyte, a mobile social-networking start-up, said Thursday it got $15 million in funding from Spanish carrier Telefonica, Japan’s NTT DoCoMo, and Nokia Growth Partners.",positive,0.8482990264892578
+2007-12-21,Kyte Flies Off With $15 Million,neutral,0.03146093338727951
+2009-07-09,"NTT DoCoMo of Japan said it was in talks with some Asian mobile carriers for possible capital investment, Reuters reported.",positive,0.558828592300415
+2009-07-09,DoCoMo Said to Consider More Asia Investments,neutral,0.07653634995222092
+2009-08-11,"Twitter, which suffered a severe outage last week, was hit by two more cyberattacks Tuesday and crashed again.",negative,-0.9493997693061829
+2009-08-11,The outages highlight weaknesses in the infrastructure of the popular micro-blogging service.,negative,-0.9577057361602783
+2009-08-11,Twitter Goes Down Again After More Cyberattacks,negative,-0.9130411744117737
+2009-10-08,"NTT DoCoMo, Japan’s top wireless operator, is easing the pace of its M&A activity in Asia as it focuses on existing acquisitions, an executive told Reuters.",positive,0.015131592750549316
+2009-10-08,"In Asia, DoCoMo Slows Its Shopping Spree",negative,-0.953025221824646
+2010-01-25,"Liberty Global, the U.S.-based communications company controlled by John Malone, said Monday that it would sell its stake in Jupiter Telecommunications of Japan to KDDI Corp., a Japanese wireless operator, for $4 billion.",neutral,0.03449823707342148
+2010-01-25,KDDI Pays $4 Billion for Liberty’s Stake in Japanese Cable Company,neutral,0.08266983181238174
+2010-02-17,Companies at the Mobile World Congress showed ways to control devices with your body and eyes.,neutral,0.03856661915779114
+2010-02-17,Controlling Phones With the Body Electric,neutral,0.013827163726091385
+2010-02-17,New products have altered the technology landscape in recent years.,negative,-0.46847015619277954
+2010-02-17,"Now, companies at the Mobile World Congress are making smaller changes.",neutral,0.03381120413541794
+2010-02-17,Tech Industry Catches Its Breath,neutral,-0.08865371346473694
+2010-02-22,"Dai-ichi Mutual Life Insurance, Japan’s second-largest life insurer, said it would sell about $11.7 billion of shares in the country’s largest initial public offering in more than a decade.",neutral,0.2151658982038498
+2010-02-22,Dai-ichi Mutual Life Plans $11.7 Billion I.P.O.,neutral,0.042356304824352264
+2010-03-24,A selection of images from the 2010 C.T.I.A.,neutral,-0.0022133123129606247
+2010-03-24,wireless conference in Las Vegas.,neutral,0.02824256382882595
+2010-03-24,"New announcements include eye-controlled earphones, solar-paneled backpacks and the new HTC EVO 4G smartphone for the Sprint network.",neutral,0.16943123936653137
+2010-03-24,A Photo Collage of New Wireless Gadgets,neutral,0.05470683425664902
+2010-07-15,"The Nippon Telegraph & Telephone Corporation agreed on Thursday to pay $3.2 billion to buy South Africa’s Dimension Data, Bloomberg News reported.",positive,0.6825749278068542
+2010-07-15,N.T.T.,neutral,0.04110600799322128
+2010-07-15,Pays $3.2 Billion for Dimension,neutral,0.04570438712835312
+2010-08-20,Trades in Dimension Data’s stock in the days before Japan’s Nippon Telegraph & Telephone agreed to buy the company for $3.3 billion are being investigated for insider trading by a South African regulator.,negative,-0.8362622857093811
+2010-08-20,NTT-Dimension Takeover Trades Face Inquiry,negative,-0.4685319662094116
+2010-10-21,"Japanese information-technology services company NTT Data will buy a United States company, Keane, for more than 100 billion yen ($1.2 billion) as it looks to make a push into the world’s biggest I.T.",neutral,0.4635872542858124
+2010-10-21,"market, the Nikkei business daily said on Thursday, according to Reuters.",neutral,0.07812211662530899
+2010-10-21,Japan’s NTT Data Is Reported to Buy Keane Inc.,positive,0.6840046048164368
+2013-06-26,"Sony, hoping to use smartphones to turn around its business, is facing the demands of Japan’s cellphone carriers for constant model updates.",neutral,0.18750134110450745
+2013-06-26,Fad-Loving Japan May Derail a Sony Smartphone,negative,-0.92417311668396
+2016-03-28,"The subsidiary, which provides information technology services to hospitals and governments, is being sold in preparation for Dell’s takeover of EMC.",neutral,0.013644665479660034
+2016-03-28,Dell to Sell Perot Systems to NTT Data of Japan for About $3.1 Billion,neutral,0.018557768315076828

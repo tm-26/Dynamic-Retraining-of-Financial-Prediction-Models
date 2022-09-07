@@ -1,0 +1,1190 @@
+Date,Sentence,Prediction,sentimentScore
+2014-01-01,Deleting tracked changes and shrinking the Mac OS X Dock.,negative,-0.8349313139915466
+2014-01-01,"Removing Edits in a Document, and Minimizing a Bar of Icons",neutral,0.0167392585426569
+2014-01-03,BMW of North America has built six two-person bobsleds for the United States men’s and women’s Olympic teams and wants to see them win.,neutral,0.28870201110839844
+2014-01-03,"Hey, Is That a BMW Racing Down the Bobsled Course?",neutral,-0.1325203776359558
+2014-01-06,"A trial over how Detroit should end costly financial contracts with two big banks was suspended Monday after more than a foot of snow fell, paralyzing much of the city and closing the federal courthouse there.",negative,-0.9057274460792542
+2014-01-06,Trial on Detroit Swaps Deal Is Delayed,neutral,0.020568381994962692
+2014-01-07,"Apple’s iCloud data service works best with Apple’s own devices, but it is possible to make it work with other companies’ hardware.",neutral,0.16688022017478943
+2014-01-07,Taking Along iCloud Calendars,neutral,0.030914675444364548
+2014-01-09,"Apollo’s newest fund, the largest in its history, underscoring investors’ confidence that firm can find buying opportunities at a time when stock prices have risen drastically.",positive,0.9018967747688293
+2014-01-09,Apollo Secures $18.4 Billion War Chest for Private Equity,positive,0.7904039621353149
+2014-01-10,"Moelis & Company, the boutique investment bank founded by Kenneth D. Moelis, has begun working with advisers on a potential initial public offering, people briefed on the matter said on Friday.",neutral,0.43235069513320923
+2014-01-10,Moelis Is Said to Ready a Potential Public Offering,neutral,0.016288235783576965
+2014-01-13,"The Windows 8 Calendar app takes a little extra work to print because it cannot do so from the Devices charm, which allows users to quickly send information to other devices.",neutral,-0.05996572598814964
+2014-01-13,Printing the Windows 8 Calendar,neutral,-0.017805032432079315
+2014-01-14,"Apple is campaigning aggressively against a court-appointed inspector, saying he is intruding on operations.",negative,-0.9025579690933228
+2014-01-14,Secretive Apple Squirms in Gaze of U.S. Monitor,negative,-0.8354713320732117
+2014-01-15,"The New York Times on Wednesday gave high marks to the Cecil, a restaurant that counts Richard Parsons, Citigroup’s former chairman, and Alexander Smalls, a former opera singer, as owners.",positive,0.7337824106216431
+2014-01-15,Richard Parsons’s New Restaurant Receives Accolades,neutral,0.08848389983177185
+2014-01-16,"The money manager reported that fourth-quarter profit rose to $841 million, from $690 million in the same period a year ago, helped by the popularity of its exchange-traded funds.",positive,0.9329060316085815
+2014-01-16,Earnings Soar Beyond Forecast at BlackRock,positive,0.7511837482452393
+2014-01-17,"Detroit officials spent Friday reshuffling legal and financial plans, a day after a federal bankruptcy judge barred the city from paying $165 million to end some troublesome interest-rate swaps that have been tying up money the city needs.",negative,-0.9051227569580078
+2014-01-17,Detroit Officials Scramble on Financing,negative,-0.5373160243034363
+2014-01-21,"Plus, checking compatibility in Windows 8.1, and customizing lists in Twitter.",neutral,0.058391887694597244
+2014-01-21,How to Unblock Adobe Reader in Safari,neutral,-0.025286521762609482
+2014-01-23,"BlackRock, the investment company run by Laurence Fink, could return its private equity roots by acquiring a major industry player, writes Jeffrey Goldfarb of Reuters Breakingviews.",positive,0.74483722448349
+2014-01-23,Lessons From Blackstone for BlackRock,neutral,0.06562633812427521
+2014-01-24,Whistle-blower suits claim Health Management Associates tried to inflate its Medicare and Medicaid payments by admitting more patients.,negative,-0.9493111968040466
+2014-01-24,Hospital Chain Said to Scheme to Inflate Bills,negative,-0.768090546131134
+2014-01-25,"“Sometimes you’ll make a mistake,” a chief executive says.",negative,-0.7007178664207458
+2014-01-25,“Life happens.,neutral,0.06702961027622223
+2014-01-25,But let’s not do it again.,neutral,-0.1239100769162178
+2014-01-25,"One of our mantras is ‘Find it, fix it, prevent it.’”",neutral,0.021755822002887726
+2014-01-25,"Noreen Beaman of Brinker Capital, on Accountability",neutral,-0.017183534801006317
+2014-01-28,"Once a photo is transferred from a smartphone, the user has a number of options for making a copy.",neutral,-0.037432149052619934
+2014-01-28,Printing a Photo From a Phone,neutral,-0.1494440734386444
+2014-01-30,"As the economy shrugged off the effects of the government shutdown and debt standoff, economists said President Obama faced an uphill battle to burnish his economic legacy before leaving office.",negative,-0.08576065301895142
+2014-01-30,"Economy Is Expanding, but Obama’s Legacy May Be Slipping Away",negative,-0.40118589997291565
+2014-02-03,The post-recession reality is that the customer base for businesses that appeal to the middle class is shrinking as the top tier pulls even further away.,negative,-0.9658700823783875
+2014-02-03,The Middle Class Is Steadily Eroding.,negative,-0.8834360837936401
+2014-02-03,Just Ask the Business World.,neutral,0.02074478194117546
+2014-02-04,"Plus, doing taxes on the iPad, and reporting phishing spam.",neutral,-0.033296212553977966
+2014-02-04,Typing Into PDF Forms,neutral,0.006342731416225433
+2014-02-07,"With demand overtaking supply, Mercedes-Benz is rescinding incentives and raising prices; Renault introduces a tiny, drone-equipped off-road car.",positive,0.5858138203620911
+2014-02-07,Wheelies: The Carrot and Stick Edition,neutral,0.04158545285463333
+2014-02-10,"Thomas M. Rutledge’s company may propose a full slate of replacement directors for its target and may have enlisted a powerful ally for a bid — both adept moves, says Jeffrey Goldfarb of Reuters Breakingviews.",neutral,0.06655208021402359
+2014-02-10,Charter C.E.O.,neutral,0.049029313027858734
+2014-02-10,Is Pressing All the Right Buttons on Time Warner Cable,neutral,0.03472747281193733
+2014-02-11,"The five additions to the firm’s influential management committee, a group of Goldman insiders that has the ear of the bank’s top brass, bring the total number of members to 34, the largest it’s ever been.",positive,0.6343197226524353
+2014-02-11,Goldman Sachs Adds Five to Management Committee,neutral,0.043406642973423004
+2014-02-12,"Blackstone officials, including top executives like Hamilton E. James and Jonathan D. Gray, went behind the bar at a Midtown Manhattan burger joint Tuesday night to raise money for the Leukemia & Lymphoma Society.",neutral,0.12327972799539566
+2014-02-12,Blackstone’s Burger and Beer Night for Charity,neutral,0.05281613767147064
+2014-02-13,Comcast’s $45 billion takeover of Time Warner Cable has a lot of numbers that stand out.,neutral,0.06474046409130096
+2014-02-13,Among them is the break-up fee if either side walks away.,neutral,-0.013331908732652664
+2014-02-13,That figure is zero.,negative,-0.7590643763542175
+2014-02-13,Comcast and Time Warner Cable Forgo a Breakup Fee,neutral,-0.10950485616922379
+2014-02-15,Members of Congress said they would look into antitrust issues raised by Comcast’s planned acquisition of Time Warner Cable.,neutral,0.03452123701572418
+2014-02-15,Lawmakers Promise Scrutiny of Comcast Deal,neutral,0.01266317069530487
+2014-02-19,"Opposition to outsize pay packages should not be reserved just for executives on Wall Street, Steven M. Davidoff writes.",neutral,-0.04225219413638115
+2014-02-19,"Outrage Over Wall St. Pay, but Shrugs for Silicon Valley?",negative,-0.7005049586296082
+2014-02-21,Women are still caught in a double bind where they struggle to navigate their feminine gender role expectations and yet still prove to others that they are assertive and competent.,negative,-0.7622770667076111
+2014-02-21,Women as Bosses Still Face Bias,negative,-0.672921895980835
+2014-02-24,"Apple has avoided jaw-dropping takeovers in favor of a series of smaller deals, using the companies to buttress or fill a gap in products that already exist or are in development.",neutral,0.07098881900310516
+2014-02-24,"For Hints at Apple’s Plans, Read Its Shopping List",neutral,-0.009492184966802597
+2014-02-25,"Depending on where you live, an antenna could bring in a lot of free broadcast channels.",neutral,0.09416857361793518
+2014-02-25,Watching TV Without Paying for Cable,neutral,-0.14776533842086792
+2014-02-28,"Leon D. Black, the head of Apollo Global Management, said on Friday that regulators instructing banks to avoid providing financing above a certain level of debt were “micromanaging.”",negative,-0.7821813225746155
+2014-02-28,Apollo Chief Questions Effort to Limit Banks’ Exposure to Buyout Deals,neutral,0.05064377933740616
+2014-03-03,Downloading free apps or other content from Apple’s stores doesn’t require having a credit card on file.,neutral,0.0031825024634599686
+2014-03-03,Bypassing a Credit Card Requirement for Apps,neutral,0.13169769942760468
+2014-03-04,"Bart Chilton, a commissioner on the Commodity Futures Trading Commission, said President Obama’s $280 million request for the agency in the next fiscal year was inadequate for the agency’s expanded mission.",negative,-0.7994070053100586
+2014-03-04,Financial Regulator Calls Obama Budget ‘Woefully Insufficient’,negative,-0.8808973431587219
+2014-03-05,"Market-based recruitment of participants in field studies might improve the quality of research, a economist writes.",positive,0.9297289848327637
+2014-03-05,The Economics of Randomized Experiments,neutral,0.036584723740816116
+2014-03-06,John Travolta’s mispronunciation of a name at the Oscars led the website Slate to create a feature to do the same with anyone’s name — the kind of interactive game now driving Web traffic.,neutral,-0.05784568935632706
+2014-03-06,"To Spur Traffic at News Sites, Just Travoltify",neutral,0.12403684854507446
+2014-03-07,"The American economy added more jobs in February than in either of the two months preceding it, suggesting winter weather had been the primary obstacle to growth.",positive,0.18118426203727722
+2014-03-07,"As Job Creation Increases in February, Economists See Signs of a Spring Thaw",negative,-0.7976311445236206
+2014-03-11,"The plan, from the Democratic chairman and top Republican on the Banking Committee, will seek to make future taxpayer bailouts less likely.",neutral,0.2904174327850342
+2014-03-11,Senators Draft Housing Finance Overhaul,neutral,0.03751125559210777
+2014-03-12,"Plus, picking a drive for Apple’s Time Machine.",neutral,0.062247227877378464
+2014-03-12,Transferring Old Palm Desktop Data,neutral,0.019853919744491577
+2014-03-17,"Plus, how to share iTunes files between computers.",neutral,0.008424598723649979
+2014-03-17,Measuring the Facebook Cover Photo,neutral,0.01841812953352928
+2014-03-18,"A shareholder vote set in motion a process that will almost certainly result in the ouster of Barry M. Portnoy and his son, Adam D. Portnoy, who control CommonWealth.",neutral,0.07437863200902939
+2014-03-18,Activists Prevail in Campaign to Oust REIT’s Board,negative,-0.21597914397716522
+2014-03-19,"Stephen Friedman, the onetime head of Goldman Sachs, appears in humble garb during a cameo appearance in the upcoming season of the HBO series “Game of Thrones.”",neutral,-0.2619440257549286
+2014-03-19,Former Goldman Chief Walks Among Warriors and Dragons,neutral,0.07558917254209518
+2014-03-20,Robert D. Marcus will receive a severance payment that amounts to more than $1 million a day for the six weeks he ran Time Warner Cable before agreeing to sell.,neutral,0.0016947463154792786
+2014-03-20,$80 Million for 6 Weeks for Cable Chief,neutral,-0.11208789050579071
+2014-03-21,A new book on Apple’s state after Steve Jobs paints a dire picture of a company losing its way.,neutral,-0.10344605892896652
+2014-03-21,Farhad Manjoo disagrees.,negative,-0.5898018479347229
+2014-03-21,Apple After Jobs: Pretty Much the Same as Ever,neutral,-0.15704162418842316
+2014-03-22,Critics say a judge erred when he accepted Facebook’s argument that a federal privacy law for children under 13 preempted state protections for older children.,negative,-0.8301225900650024
+2014-03-22,U.S. and California Officials Enter Battle Over Facebook Privacy Settlement,negative,-0.9060129523277283
+2014-03-25,"Plus, adjusting the font size on the Chrome browser.",neutral,0.09207126498222351
+2014-03-25,Choosing a Tablet Computer,neutral,-0.06908489763736725
+2014-03-26,The lawsuit arose out of troubled mortgage-backed securities that the bank cobbled together and sold to Fannie Mae and Freddie Mac in the run-up to the financial crisis.,negative,-0.5031429529190063
+2014-03-26,Bank of America to Pay $6.3 Billion to Settle Mortgage Securities Suit,neutral,-0.007169246673583984
+2014-03-27,"Gross domestic product in the last months of 2013 was revised up from 2.4 percent, with a 3.3 percent rise in consumer spending brightening the report.",positive,0.8386436104774475
+2014-03-27,"Growth in the Fourth Quarter Is Revised Up a Shade, to 2.6%",positive,0.908510684967041
+2014-03-28,A ruling allowing Northwestern University football players to unionize has highlighted the growing battle over how much college players should share in the billions of dollars they generate.,negative,-0.7744789123535156
+2014-03-28,College Athletes Aim to Put Price on ‘Priceless’,neutral,-0.19080433249473572
+2014-04-01,"Plus, tracking charges from Amazon.",negative,-0.4531055688858032
+2014-04-01,"If You’re the Victim of a Tax Fraud, Tell the I.R.S.",neutral,-0.1078924760222435
+2014-04-02,"In a settlement with Kenneth Lewis, the former Bank of America chief, regulators took a strong case and rendered it weak, writes Jesse Eisinger in The Trade column.",negative,-0.7665666937828064
+2014-04-02,"A Pivotal Financial Crisis Case, Ending With a Whimper",neutral,-0.2292252779006958
+2014-04-04,"The company acknowledged how reliant it was on Kenneth D. Moelis, but a corporate governance expert said a structure that allowed cashing out yet keeping control was like “having your cake and eating it, too.”",neutral,0.04913870990276337
+2014-04-04,"At Moelis & Co., Founder Will Have 97% of Votes",neutral,0.030310381203889847
+2014-04-06,"BlackRock, the giant investment management firm, announced executive moves on Sunday aimed at grooming a number of potential successors to its founder and leader, Laurence D. Fink.",neutral,0.14738044142723083
+2014-04-06,BlackRock Elevates Executives in Succession Planning Move,neutral,0.19266515970230103
+2014-04-07,"Plus, how to unlock a stuck iPhone screen.",neutral,0.02997887134552002
+2014-04-07,Using iTunes on a Windows Tablet,neutral,-0.0924089103937149
+2014-04-10,"In March, the Treasury collected $216 billion in taxes, up 16 percent from a year ago, helping reduce the deficit for March to $37 billion.",positive,0.9200835824012756
+2014-04-10,"Tax Revenue Rockets Up, Helping Lessen the Deficit, Treasury Department Says",positive,0.8630297780036926
+2014-04-12,"A chief executive says he tells young people looking at careers that “whatever makes your heart beat the fastest is going to give you the most energy to get up in the morning, and then you’re going to learn.”",neutral,0.06382247060537338
+2014-04-12,Brad Smith of Intuit: Follow the Fastest Beat of Your Heart,neutral,0.06379719823598862
+2014-04-15,The pricing suggests that not even a strongly performing investment bank can escape the chill that has entered the I.P.O.,negative,-0.6485018730163574
+2014-04-15,market.,neutral,0.06605838239192963
+2014-04-15,Moelis & Co. Prices Its I.P.O.,neutral,0.04025600478053093
+2014-04-15,"at $25 a Share, Below Expectations",negative,-0.867350161075592
+2014-04-16,"Shares in Moelis & Company closed about 4.6 percent above its initial public offering price, after the firm cut both the price of its I.P.O.",negative,-0.8672325015068054
+2014-04-16,and the amount of shares it sold amid the volatile stock market.,neutral,-0.04860876500606537
+2014-04-16,Moelis & Co. Rises After Smaller-Than-Expected I.P.O.,negative,-0.25002092123031616
+2014-04-17,"The giant asset management firm BlackRock said its profit rose 20 percent to $756 million in the first quarter, as it attracted more money to its mutual fund products.",positive,0.9353047609329224
+2014-04-17,BlackRock Profit Rises as It Attracts More Money From Investors,positive,0.8510428667068481
+2014-04-18,"The American Economic Association said Matthew Gentzkow’s work cuts across academic disciplines to address concerns at the crossroads of “economics, political science and sociology.”",neutral,0.11385046690702438
+2014-04-18,University of Chicago Economist Who Studies Media Receives Clark Medal,neutral,0.02736973762512207
+2014-04-21,Plus how to take screenshots of individual programs on a Mac.,neutral,-0.009032174944877625
+2014-04-21,Rotating a Smartphone Video,neutral,0.004323579370975494
+2014-04-24,An appellate court seems inclined to change the rules on insider trading in a way that will make it easier for professional traders to escape liability.,neutral,0.37998947501182556
+2014-04-24,Loosening the Rules on Insider Trading,neutral,0.014678508043289185
+2014-04-25,The New York State attorney general accused accused the bank’s top executives of withholding material information related to its 2008 merger with Merrill Lynch.,negative,-0.8767054677009583
+2014-04-25,Ex-Finance Chief at Bank of America to Pay $7.5 Million in Settlement,neutral,-0.09941186010837555
+2014-04-26,The chief executive of the technology consulting firm says he learned from a previous boss the value of putting onto paper the tasks at hand — and making sure they were completed.,neutral,0.4316102862358093
+2014-04-26,S.D.,neutral,0.047622762620449066
+2014-04-26,Shibulal of Infosys: Write It Down and Follow Through,neutral,0.03665207698941231
+2014-04-28,"Shows can be saved manually, but there are also ways to automatically keep files backed up.",neutral,-0.00216599740087986
+2014-04-28,"Also, blocking Facebook game requests.",negative,-0.5245748162269592
+2014-04-28,How to Back Up iTunes Podcasts,neutral,0.05424745753407478
+2014-04-30,"The statement Wednesday from the Federal Open Market Committee, the policy-making group of the Federal Reserve, offers its assessment of current economic conditions.",neutral,0.052510928362607956
+2014-04-30,"At the last meeting, in mid-March, Fed officials saw economic weakness as being driven by winter weather.",negative,-0.9109362363815308
+2014-04-30,"This time, they affirmed that view, and now view the economy to be growing faster.",positive,0.848318338394165
+2014-04-30,Decoding the Fed’s Statement,neutral,0.02944999933242798
+2014-05-01,The Justice Department accused eBay of having a secret deal with Intuit not to try to hire each other’s employees.,negative,-0.8703720569610596
+2014-05-01,EBay Settles No-Poaching Antitrust Case,positive,0.4733785390853882
+2014-05-02,The Obama administration released a long-anticipated report on Thursday that recommends requiring private companies to disclose the kind of information they gather from their customers online.,neutral,-0.04967930167913437
+2014-05-02,Daily Report: White House Calls for More Privacy Protections,neutral,0.22368913888931274
+2014-05-05,A science and technology advisory group to President Obama described online privacy practices as a “market failure” in a report issued last week.,negative,-0.8480277061462402
+2014-05-05,"The answer, the group said, must be to shift the primary burden for protecting personal privacy online to the “commercial user of big data and not on the consumer.”",neutral,0.16131947934627533
+2014-05-05,White House Tech Advisers: Online Privacy Is a ‘Market Failure’,negative,-0.8623921275138855
+2014-05-06,Plus managing multiple iPad mail accounts.,neutral,0.0024760328233242035
+2014-05-06,How to Move the Windows Address Book to a New Computer,neutral,0.02399592101573944
+2014-05-07,Mondelez International and D.E Master Blenders are joining their coffee businesses to form a company with brands like Gevalia and Maxwell House and annual revenue of more than $7 billion.,positive,0.6287989020347595
+2014-05-07,Mondelez and Dutch Firm Aim to Create a Coffee Powerhouse,neutral,0.43726199865341187
+2014-05-08,"The ad giants called off their $35 billion merger, bringing a premature end to a deal that would have created the largest advertising company in the world.",negative,-0.2184002846479416
+2014-05-08,"At Odds, Omnicom and Publicis End Merger",neutral,-0.19556652009487152
+2014-05-09,"As it approaches its 40th year, Apple is displaying signs of middle-age spread, says Peter Thal Larsen of Reuters Breakingviews.",positive,0.8176432847976685
+2014-05-09,Apple’s Midlife Crisis,neutral,-0.10224629193544388
+2014-05-10,Cultural difference and legal problems are issues at the heart of the collapse of the Publicis-Omnicom deal.,negative,-0.7693145871162415
+2014-05-10,Ad Agencies Dust Off and Focus on Future After Collapse of Merger Deal,neutral,-0.08384378254413605
+2014-05-12,"Bondholders are expected to object to a deal in Detroit that helps give retirees better terms in the city’s plan to exit bankruptcy, but there are good reasons to treat workers differently from other creditors, Stephen J. Lubben writes in the In Debt column.",neutral,0.15909186005592346
+2014-05-12,Pensions vs. Art in Detroit’s Bankruptcy,neutral,-0.19134294986724854
+2014-05-13,"One lesson for companies contemplating a big merger, Steven M. Davidoff writes in the Deal Professor column: Life is not a “Mad Men” episode where ego and hubris triumph.",neutral,-0.12486986070871353
+2014-05-13,"To Guide the Merger Giants, Strong Hands Are Needed",neutral,0.12651678919792175
+2014-05-15,"Several notable indicators of economic health, including the Consumer Price Index, finally seem to be moving in the direction the Federal Reserve says is needed for a strong recovery.",neutral,0.3015660345554352
+2014-05-15,"At Last, Recovery Heads Where the Fed Wants It",neutral,0.1547139436006546
+2014-05-16,The federal judge handling Detroit’s bankruptcy raised questions about whether Detroit can exit bankruptcy before the end of its emergency manager’s term.,negative,-0.7303008437156677
+2014-05-16,"Detroit Bankruptcy Deadline May Be Missed, Imperiling State Funds",negative,-0.9152047038078308
+2014-05-19,"Plus, a quicker way to delete duplicate iTunes items.",positive,0.6165837645530701
+2014-05-19,How to Censor a PDF File,neutral,-0.12364863604307175
+2014-05-20,Mr. Stuart was an heir to the Quaker Oats business and as a law student in 1940 helped found the America First Committee.,neutral,0.046349842101335526
+2014-05-20,"Robert Stuart Jr., 98, Quaker Oats Chief and War Foe in 1940, Dies",negative,-0.4382355809211731
+2014-05-21,"The accusations by ZeniMax, a games publisher, center on the technical assistance John Carmack, a famed game programmer and former ZeniMax employee, provided to a co-founder of Oculus.",negative,-0.8251934051513672
+2014-05-21,Virtual Rift Leads to Legal Rift for Oculus and ZeniMax,negative,-0.7700684666633606
+2014-05-22,"The estate of the bankrupt Lehman Brothers still has to sell a portion of the $22 billion hedge fund D. E. Shaw, but it has no takers.",neutral,-0.024747628718614578
+2014-05-22,For Sale: 20% Stake in Hedge Fund.,neutral,0.026380261406302452
+2014-05-22,Terms: Complicated.,neutral,-0.062018755823373795
+2014-05-23,"Directly investing in companies or private equity funds carries plenty of risks, but the rewards can be substantial.",neutral,0.12161621451377869
+2014-05-23,Never Mind Stocks.,neutral,-0.10842196643352509
+2014-05-23,Just Buy the Company.,neutral,0.1202060803771019
+2014-05-28,"Plus, how to use use your 4G iPad as a mobile hot spot.",neutral,0.0480215847492218
+2014-05-28,Removing the Ads From a Kindle,neutral,-0.322640985250473
+2014-05-29,"The economy contracted at an annual rate of 1 percent earlier this year, the first quarterly decline in three years.",negative,-0.9651156067848206
+2014-05-29,U.S. Economy Contracted in a Frigid First Quarter,negative,-0.964636504650116
+2014-05-31,Notable quotes from business articles that appeared in The New York Times last week.,neutral,0.01611744984984398
+2014-05-31,"The Chatter for Sunday, June 1",neutral,0.029038183391094208
+2014-06-04,"Add the latest bid in the war for Hillshire Brands to the 2013 sale of a coffee unit and a special dividend, and shareholders may finally make good, says Kevin Allison of Reuters.",positive,0.6841813921928406
+2014-06-04,Breakingviews.,neutral,0.04453764483332634
+2014-06-04,Sara Lee’s Breakup Is Starting to Pay Off,positive,0.5571287274360657
+2014-06-06,"Employers hired 217,000 workers in May and the unemployment rate remained flat at 6.3 percent.",negative,-0.9165292382240295
+2014-06-06,"217,000 Jobs Added, Nudging Payrolls to Levels Before the Crisis",negative,-0.7724683284759521
+2014-06-07,Executive compensation boards are now more independent and rewards are increasingly tied to results.,neutral,0.13332116603851318
+2014-06-07,But C.E.O.,neutral,-0.15265308320522308
+2014-06-07,pay remains enormous.,neutral,0.05813515931367874
+2014-06-07,"More Scrutiny, Still Spectacular",neutral,-0.2905155420303345
+2014-06-09,"Plus, making movies with Microsoft products.",neutral,0.014447299763560295
+2014-06-09,Using iPhoto’s Contact Sheet Feature to Save Paper,neutral,-0.017007336020469666
+2014-06-10,"Peter D. Hancock’s appointment signals the end of Robert H. Benmosche’s tenure atop the insurer, a five-year rebuilding period.",neutral,-0.20332612097263336
+2014-06-10,A.I.G.,neutral,0.045108746737241745
+2014-06-10,"Names Successor to Benmosche, Who Nursed It Through Fiscal Crisis",neutral,0.0391206294298172
+2014-06-12,Credit markets are once again badly mispricing risk.,negative,-0.9126404523849487
+2014-06-12,"Many of the elements that caused the financial crisis are starting to align again, William D. Cohan writes in the Street Scene column.",neutral,0.10286607593297958
+2014-06-12,Markets Are Restacking the Building Blocks of a Financial Crisis,neutral,-0.31798043847084045
+2014-06-16,"In joining Moelis, the four bankers from Greenhill & Company will focus on services like fund-raising and helping institutional investors sell their stakes in leveraged buyout funds.",neutral,0.09983326494693756
+2014-06-16,Moelis Creates Private Equity Fund-Raising Team by Hiring From a Rival,neutral,0.17677687108516693
+2014-06-18,"If it succeeds, the city’s cost-cutting hybrid pension plan could be a model for solving government budget crises across the country.",positive,0.8556172251701355
+2014-06-18,Detroit Rolls Out New Model: A Hybrid Pension Plan,positive,0.5936949849128723
+2014-06-19,The ruling made it far less likely that genuinely troubled countries will be able to restructure their debts and increased the power of investors to prevent needed restructurings.,positive,0.7332410216331482
+2014-06-19,Ruling on Argentina Gives Investors an Upper Hand,neutral,0.24764014780521393
+2014-06-23,"To pass the time during a flight delay, a TV producer accepts a challenge from a group of children to play Tetris.",neutral,-0.00015757232904434204
+2014-06-23,"Challenged to Tetris by Pint-Size Rivals, and Sparing None",neutral,0.03598012030124664
+2014-06-24,"Monroe Capital claims that Warren Woo, a former executive at the company, stole sensitive information to help start Breakaway Capital, a new private investment firm.",negative,-0.7986290454864502
+2014-06-24,A Fired Banker and Monroe Capital’s Public Suit,neutral,-0.37849050760269165
+2014-06-26,"WFAS, at 103.9 FM, an adult contemporary station, will change formats over the Fourth of July weekend with a focus on adult women.",neutral,0.04492511972784996
+2014-06-26,‘Urban Adult’ Station to Join New York Airwaves,neutral,0.12869210541248322
+2014-06-27,"Audi rolls out its plug-in hybrid A3 E-tron in Europe; Curt Clawson, former chief executive of a parts supplier, is sworn into Congress.",neutral,0.23999348282814026
+2014-06-27,Wheelies: The Electrified Audi Edition,neutral,0.06738707423210144
+2014-06-28,"Forgoing Wall Street flash, Morgan Stanley’s chief executive is finding safer ways for the firm to make money.",neutral,0.2232857346534729
+2014-06-28,"James Gorman of Morgan Stanley, Going Against Type",neutral,-0.2010769546031952
+2014-07-01,"The Walgreen chief executive, who said he was “proud of our Illinois heritage,” is considering a merger that would move the company’s headquarters to Switzerland in a bid to decrease its tax bill.",neutral,0.3058980703353882
+2014-07-01,"At Walgreen, Renouncing Corporate Citizenship",neutral,0.05265403166413307
+2014-07-03,"Hiring topped the 200,000 mark for the fifth month in a row as industries as varied as health care, manufacturing, financial services and retailing all added workers.",positive,0.5761312246322632
+2014-07-03,Hiring Is Strong and Jobless Rate Declines to 6.1%,negative,-0.4744091331958771
+2014-07-05,"“Factory Man,” a new book, tells of the struggle of John D. Bassett III, scion of a famed furniture family, to save his company in Virginia.",neutral,0.004002563655376434
+2014-07-05,A Game of Chairs (and Globalization),neutral,0.05292933061718941
+2014-07-08,A report explores the technological paths available for the 15 main economies to maintain growth and cut carbon emissions enough to prevent climatic havoc.,neutral,0.13103137910366058
+2014-07-08,Blueprints for Taming the Climate Crisis,neutral,0.056609541177749634
+2014-07-09,"The case of Deeb Salem, a former Goldman Sachs trader, highlights an arbitration system that is weighted toward the big Wall Street firms, William D. Cohan writes in the Street Scene column.",neutral,0.027481697499752045
+2014-07-09,‘Big Short’ Case Raises Questions About Finra Arbitration,negative,-0.5664502382278442
+2014-07-11,The court rejected a bond insurer’s argument that the city could not use the money to settle bankruptcy debts.,negative,-0.4150892198085785
+2014-07-11,Federal Judge Rules That Detroit Is Entitled to Revenue From Casinos,neutral,0.024965615943074226
+2014-07-14,"Plus, planning ahead for iOS 8, the next version of Apple’s mobile operating system.",neutral,0.11174771189689636
+2014-07-14,Restoring Internet Explorer 11 to Windows 8.1 App Tiles,neutral,0.37779268622398376
+2014-07-16,The S.E.C.,neutral,0.014058640226721764
+2014-07-16,"is undermining financial regulation with its public and needless antagonism of the Financial Stability Oversight Council, Jesse Eisinger writes in The Trade.",negative,-0.8150720596313477
+2014-07-16,Focus on Asset Managers Highlights Bad Behavior by S.E.C.,neutral,-0.3226888179779053
+2014-07-17,Ms. Wagner will be the only board member from a company focusing on finance.,neutral,0.022809995338320732
+2014-07-17,"Apple’s longest-serving director, Bill Campbell, will be retiring, the company said.",neutral,-0.10865378379821777
+2014-07-17,Apple Adds Susan Wagner of BlackRock to Board,neutral,0.005608659237623215
+2014-07-21,"Plus, saving the data on your laptop after a spill.",neutral,0.11150627583265305
+2014-07-21,Where to Start When Starting a Blog,neutral,0.013941243290901184
+2014-07-22,"With its steady income stream, farmland is proving to be a ripe offering for sophisticated investors.",positive,0.6552352905273438
+2014-07-22,Cash Crops With Dividends: Financiers Transforming Strawberries Into Securities,neutral,0.06361810117959976
+2014-07-23,"Scott D. O’Malia, formerly a commissioner on the Commodity Futures Trading Commission, has been named chief executive of the International Swaps and Derivatives Association.",neutral,0.09516721218824387
+2014-07-23,Former Trading Regulator Scott O’Malia to Lead Derivatives Group,neutral,0.028291990980505943
+2014-07-24,"The Federal Reserve should be using higher interest rates to curb the mispricing of risk in the market for financial assets, says William D. Cohan, the Street Scene columnist.",positive,0.5975332856178284
+2014-07-24,Yellen Settles for a Slingshot Instead of a Shotgun,neutral,-0.06475263088941574
+2014-07-25,The Wall Street firm has named Adebayo Ogunlesi to be the board’s new lead director.,neutral,0.14019696414470673
+2014-07-25,"If only Goldman saw fit to call him chairman, writes Antony Currie of Reuters Breakingviews.",neutral,0.0424581840634346
+2014-07-25,"At Goldman Sachs, the Right Candidate for a Half-Right Job",neutral,0.06709372997283936
+2014-07-28,"Plus, how to see the date and time stamps of iPhone photos.",neutral,0.0037595052272081375
+2014-07-28,Using the ‘Public’ Network Option,neutral,0.037759315222501755
+2014-07-29,"A selection of Wall Street’s old guard turned up on Tuesday to remember Alan C. Greenberg, the longtime leader of the firm, who died on Friday at 86.",neutral,0.09843919426202774
+2014-07-29,"Wall Street Bids Farewell to Alan Greenberg, Head of Bear Stearns",neutral,0.37243783473968506
+2014-07-30,"The boutique investment bank reported that it earned $33.9 million on an adjusted basis, excluding charges stemming from its I.P.O.",neutral,0.09508213400840759
+2014-07-30,"The profit amounted to 42 cents a share, easily exceeding analysts’ estimate of 24 cents.",positive,0.748438835144043
+2014-07-30,Moelis & Co.,neutral,0.033221904188394547
+2014-07-30,Beats Expectations in First Quarter as Public Company,positive,0.6830253601074219
+2014-08-05,"Plus, where to get old photographs digitized.",neutral,0.0347953662276268
+2014-08-05,Unmasking the Mystery Mac Spell-Checker,neutral,0.07504243403673172
+2014-08-06,"Apollo Global Management reported a decline in income for the second quarter, as it earned less from selling its investments and allocated more of that profit to employees.",negative,-0.9681640267372131
+2014-08-06,Profit-Sharing Trims Apollo Global Income,negative,-0.9376507997512817
+2014-08-11,"The Fed vice chairman, Stanley Fischer, told a conference in Sweden that growth had been disappointing, possibly reflecting a structural shift in the global economy.",negative,-0.9646666049957275
+2014-08-11,Fed Official Warns ‘Disappointing’ Growth Could Foretell Future,negative,-0.8637920618057251
+2014-08-12,"Following Google, Twitter, and Facebook, Apple has published a report summarizing the makeup of its work force in terms of race and gender.",neutral,-0.029541442170739174
+2014-08-12,Apple’s Diversity Mirrors Other Tech Companies’,neutral,0.21153703331947327
+2014-08-13,Aurelius Capital Management said that a deal involving private banks was no longer on the table.,neutral,-0.030424783006310463
+2014-08-13,Hedge Fund Holdouts Fail to Reach Private Deal Over Argentine Debt,negative,-0.9082890152931213
+2014-08-14,"The acquisition will allow Phaidon, which already offers a collection of digital books and travel guide apps, to increase its online presence and give it more direct access to art collectors.",positive,0.8980645537376404
+2014-08-14,"Leon Black’s Phaidon Buys Artspace, an Online Art Market",neutral,0.028915083035826683
+2014-08-17,"In a situation hostile to traditional reporting, the crowdsourced, phone-enabled network of information that Twitter provides has proved invaluable.",positive,0.8855142593383789
+2014-08-17,View of #Ferguson Thrust Michael Brown Shooting to National Attention,neutral,0.07242213189601898
+2014-08-19,"Mr. Scialla is the founder and chief executive of Delos, a real estate developer based in New York that focuses on so-called well building designs.",neutral,0.030578281730413437
+2014-08-19,Paul Scialla,neutral,-0.10645604878664017
+2014-08-20,"Plus, how to change the password that unlocks a Windows 8.1 tablet.",neutral,-0.01773148402571678
+2014-08-20,Making Old Video Less Shaky,neutral,-0.0793742910027504
+2014-08-25,"Plus, how to see which devices are connected to your Mac.",neutral,-0.0017641615122556686
+2014-08-25,Ways to Protect a PC With Windows 8.1,neutral,0.04106483981013298
+2014-08-26,"New data suggests an increased demand by businesses for manufactured goods in July, as well as rising consumer confidence.",positive,0.8980284333229065
+2014-08-26,"Demand Up, U.S. Economy Shows Gains",positive,0.736709475517273
+2014-08-28,"A judge’s order in a bankruptcy case brings up the question of whether bondholders must get a “make whole” payment to get paid in full, Stephen J. Lubben explains in his latest In Debt column.",neutral,0.031362421810626984
+2014-08-28,Judge’s Ruling Could Affect Bondholders in Corporate Bankruptcies,negative,-0.7305982112884521
+2014-09-02,"Eric Cantor, who suffered a surprising electoral defeat this year, will be joining Moelis & Company as vice chairman and a director on its board.",neutral,0.03398294001817703
+2014-09-02,Moelis & Co.,neutral,0.033221904188394547
+2014-09-02,"Hires Cantor, Ex-House Majority Leader, as Vice Chairman",neutral,0.04254976287484169
+2014-09-03,"A Google-backed biotech company plans to build a new Bay Area-based facility to research diseases that afflict the elderly, such as neurodegeneration and cancer.",neutral,0.4101119637489319
+2014-09-03,"Calico, Google’s Anti-Aging Company, Announces New Research Facility",neutral,0.31531763076782227
+2014-09-04,"The watch, which is expected to include fitness tracking and wireless payment, will be the first new product unveiled under Tim Cook, who replaced Steve Jobs in 2011.",neutral,0.2977159917354584
+2014-09-04,Apple Plans Smartwatch and Larger iPhones,neutral,0.004367386922240257
+2014-09-05,"With only 142,000 jobs added, August was the first month since January in which the economy failed to add at least 200,000 jobs.",negative,-0.9398810863494873
+2014-09-05,Unemployment fell slightly to 6.1 percent.,negative,-0.8874334692955017
+2014-09-05,"Job Growth Is Sluggish, Raising Fear of Malaise",negative,-0.9379496574401855
+2014-09-08,"Mr. Dunn, a former Nickelodeon and HIT Entertainment executive, replaces H. Melvin Ming, who is retiring.",neutral,0.004165526479482651
+2014-09-08,Jeffrey D. Dunn Named Chief of Sesame Workshop,neutral,0.0255754292011261
+2014-09-09,"The company introduced two new smartphones with larger screens and the Apple Watch, entering a crowded field that has yet to capture popular enthusiasm.",neutral,0.38757723569869995
+2014-09-09,"The iPhone 6 Goes Big, as Apple Aims Small With a Smartwatch",neutral,0.1836932748556137
+2014-09-10,"Any question about how well Tim Cook is managing the reins at Apple, the world’s most valuable company, will most likely be put to rest after Tuesday’s profusion of product announcements.",neutral,-0.19929037988185883
+2014-09-10,Daily Report: Apple Shows It Can Still Innovate,positive,0.8449597954750061
+2014-09-12,Apple had plenty to brag about at its event earlier this week.,neutral,0.09785964339971542
+2014-09-12,So it was particularly noticeable when Apple left out an important detail about the brand-new Apple Watch: the battery life.,neutral,-0.2932204008102417
+2014-09-12,The Mystery of Apple Watch’s Battery Life,neutral,-0.09307937324047089
+2014-09-15,"The Apple Watch is both a product and the embodiment of Apple’s values — taste, trust and utility — that have long guided the company’s product and design decisions.",neutral,0.12963223457336426
+2014-09-15,What the Apple Watch Says About Apple,neutral,0.015299756079912186
+2014-09-17,"“The Secret to Superhuman Strength” by Ms. Bechdel, a new MacArthur fellow, has been sold to Houghton Mifflin Harcourt, which plans to publish it in 2017.",neutral,0.054475922137498856
+2014-09-17,New ‘Genius Grant’ Winner Alison Bechdel to Write New Graphic Memoir,neutral,0.14756330847740173
+2014-09-18,"“We’re going to obey, and if we obey, we have a gun to our head and the gun will probably go off,” says a lawyer for the bank.",negative,-0.5351602435112
+2014-09-18,Citigroup Tells Appeals Court of Its Argentina Quandary,negative,-0.5507351756095886
+2014-09-22,"Virtual reality technology may attract big money from tech giants, but a conference to showcase one company’s products gave plenty of space to the small fry.",neutral,0.24085183441638947
+2014-09-22,Oculus Brings the Virtual Closer to Reality,neutral,0.2304726094007492
+2014-09-23,"Last weekend, Apple sold millions of shiny new iPhones to people who already had cellphones.",positive,0.4876950681209564
+2014-09-23,"Now, thanks to a growing electronics-reselling industry, many of those old devices have somewhere to go.",neutral,0.08240781724452972
+2014-09-23,Getting Value Out of Old iPhones After Upgrading,neutral,0.29523706436157227
+2014-09-25,"The Federal Reserve Bank of New York will be discussing ways to reform the culture and behavior of Wall Street, but it is falling short of true leadership on the issue, William D. Cohan writes in the Street Scene column.",neutral,0.06799131631851196
+2014-09-25,Wall Street Still Needs a Leader on Reform,neutral,-0.061427854001522064
+2014-09-26,"Lara Gass died days after receiving her recall notice, in the first known fatal crash to have occurred after the ignition switch recall began.",negative,-0.8018284440040588
+2014-09-26,Her parents want to know why G.M.,neutral,-0.18942272663116455
+2014-09-26,insisted her car was still safe to drive.,neutral,-0.05186982452869415
+2014-09-26,After a G.M.,neutral,-0.022305577993392944
+2014-09-26,"Recall, a Fiery Crash and a Payout",neutral,-0.3462514281272888
+2014-09-28,"Alexander Heffner, who succeeded his grandfather and mentor Richard D. Heffner, said “the importance of public broadcasting and elevating our discourse into something substantive and meaningful were values that were instilled in me.”",neutral,0.40896421670913696
+2014-09-28,‘Open Mind’ Host Continues Grandfather’s Vision for New Generation,neutral,0.4547428786754608
+2014-09-29,"Plus, how to turn your iPad off with a timer.",neutral,-0.010417776182293892
+2014-09-29,Right-Clicking Without a Mouse,neutral,-0.09357370436191559
+2014-09-30,The retailer is discouraging sales of Hachette titles.,negative,-0.9356173276901245
+2014-09-30,The 2012 Republican vice presidential candidate’s new book is an exception.,neutral,-0.02855416014790535
+2014-09-30,Amazon Is Not Holding Back on Paul Ryan,neutral,-0.2870491147041321
+2014-10-01,A study offers a compelling case for price transparency in helping reel in the nation’s health costs.,positive,0.5233230590820312
+2014-10-01,"Given Choice, Parents Pick Cheaper Medical Procedure for Children",neutral,0.06140170991420746
+2014-10-02,"The move to add the chairman title to Brian Moynihan’s duties not only puts too much power in one person’s hands, it also reduces the position to little more than a perk, Antony Currie writes in Reuters Breakingviews.",negative,-0.9321783185005188
+2014-10-02,Bank of America’s Latest Move Defies Good Governance,negative,-0.542358934879303
+2014-10-07,"Plus, how to clean out an iBooks library.",neutral,0.03633914887905121
+2014-10-07,Recording Live Audio Streams in Windows,neutral,-0.0008793585002422333
+2014-10-09,"The International Monetary Fund has a few ideas about reforming the Wall Street incentives that played a leading role in the 2008 financial crisis and still pose a threat, William D. Cohan writes in the Street Scene column.",neutral,0.09488127380609512
+2014-10-09,I.M.F.,neutral,0.037868428975343704
+2014-10-09,Takes Aim at Wall Street’s Pay System,neutral,-0.35654717683792114
+2014-10-12,"As its dispute with the publisher continues, Amazon wants to make it difficult to buy Hachette books, but it does not want to be accused of banning them.",negative,-0.6189556121826172
+2014-10-12,Amazon and Its Missing Books,neutral,-0.31853020191192627
+2014-10-14,"Plus, how to make the move from the iPhoto app in iOS 8.",neutral,0.04421938210725784
+2014-10-14,Hiding History in Firefox,neutral,0.04491996020078659
+2014-10-15,"Investors continue to pour money into BlackRock’s index funds, and the firm’s 44 percent operating margin shows how lucrative the business of collecting and managing large pools of assets has become.",positive,0.6332525610923767
+2014-10-15,BlackRock Shows Strong Earnings Growth,positive,0.9003228545188904
+2014-10-17,"Financial experts warn that a small group of giant asset managers that have amassed high-risk, high-yield bonds could find themselves unable to raise enough cash during a sell-off.",negative,-0.9501808285713196
+2014-10-17,Fears That Pimco and Other Big Firms Could Be Unable to Unload Risky Bonds,negative,-0.9530322551727295
+2014-10-18,Ms. Edelman became the first woman elected to the executive committee of the New York chapter of the American Institute of Architects.,neutral,0.20311139523983002
+2014-10-18,"Judith Edelman, Architect, 91, Is Dead; Firebrand in a Male-Dominated Field",negative,-0.6488919854164124
+2014-10-21,And tips on removing malicious software from browsers.,neutral,0.03975141793489456
+2014-10-21,Exporting Video From iPhoto,neutral,-0.0006797872483730316
+2014-10-22,"The Fed’s policies that drove down interest rates to historically low levels have actually exacerbated the inequality problem that Janet L. Yellen said concerned her, writes William D. Cohan in Street Scene.",negative,-0.821911096572876
+2014-10-22,How Quantitative Easing Contributed to the Nation’s Inequality Problem,neutral,0.056069374084472656
+2014-10-23,"For Apple, greater China has been one of its fastest growing markets for iPhone sales, so the company wants to more than double its presence there.",positive,0.8505338430404663
+2014-10-23,Apple’s Tim Cook Talks of Retail Expansion in China,neutral,0.3499033451080322
+2014-10-27,"Also, using Google Maps “Lite” and private searches in OS X Yosemite.",neutral,0.02906177192926407
+2014-10-27,Sorting the Phone’s Address Book,neutral,-0.04296707361936569
+2014-10-28,"The majority of breaches in California — 53 percent — were because of malware and hacking, while a smaller number, 26 percent, was attributed to the physical loss of a computer or device, according to Kamala D. Harris, California’s attorney general.",negative,-0.8807058930397034
+2014-10-28,Report Analyzes Extent of Data Breaches in California,negative,-0.6934468150138855
+2014-10-30,"Under a headline that did not directly address the issue, Mr. Cook chose to write a sober, conscientious essay for Bloomberg Businessweek that repeatedly used the word “privacy.”",neutral,-0.09684735536575317
+2014-10-30,"Coming Out in Businessweek, Tim Cook Chooses to Play It Low-Key",neutral,-0.14945590496063232
+2014-10-31,Mr. Cook said coming out publicly was worth it “if hearing that the C.E.O.,neutral,0.062056660652160645
+2014-10-31,of Apple is gay can help someone struggling to come to terms with who he or she is.”,neutral,0.2662613093852997
+2014-10-31,Daily Report: The Power of Tim Cook’s Declaration,neutral,0.052970003336668015
+2014-11-04,"Despite efforts to improve disclosure under the Freedom of Information Act, the S.E.C.",positive,0.7297165393829346
+2014-11-04,"continues to resist sharing data with the public, William D. Cohan writes in the Street Scene column.",neutral,-0.3556857705116272
+2014-11-04,S.E.C.,neutral,0.030168529599905014
+2014-11-04,Raises Barrier to Disclosure of Information,neutral,0.07555362582206726
+2014-11-05,"The browser’s settings can be changed, or users can click on the address field.",neutral,-0.03794782608747482
+2014-11-05,"Also, a considering the value of a touch-screen PC.",neutral,0.06509695202112198
+2014-11-05,How to See a Full Web Address on the Safari Browser,neutral,-0.026682144030928612
+2014-11-07,"Wall Street executives have no doubt used the language of the sweet science, but several of them got a taste of the real thing on Thursday, entering the ring to raise money for cancer research.",neutral,0.07497583329677582
+2014-11-07,"The Raging Bulls on Wall Street, Charity Division",neutral,0.014702890068292618
+2014-11-10,"Plus, comparing HDTV with ultrahigh-definition.",positive,0.5999664664268494
+2014-11-10,Assessing Space on a Computer’s Hard Drive,neutral,-0.03509986400604248
+2014-11-12,"Goldman Sachs has added 78 executives to its ranks of partners, one of the most sought-after honors on Wall Street.",neutral,0.4531914293766022
+2014-11-12,Goldman Sachs Names 78 New Partners,neutral,0.014640184119343758
+2014-11-13,The effect of cheaper crude oil and gasoline is especially significant for those Americans largely left behind by an anemic economic recovery.,neutral,-0.07113374769687653
+2014-11-13,Sliding Oil and Gas Prices Give Americans More Money to Spend,neutral,0.17563685774803162
+2014-11-15,Mr. Lebenthal turned the tax-free financial instruments called munis into household words with radio and television ads.,neutral,0.043096836656332016
+2014-11-15,"James A. Lebenthal, Muni Bond Expert, Dies at 86",neutral,-0.08808928728103638
+2014-11-17,"Plus, using Apple’s AirDrop to move files between iOS and OS X.",neutral,0.0652744323015213
+2014-11-17,Erasing Sony and Nook E-Readers,neutral,-0.13694891333580017
+2014-11-19,"The release of an interview Robert Rubin gave nine years ago offers a window into the thoughts of the rich and powerful, William D. Cohan writes in the Street Scene column.",neutral,0.02922677993774414
+2014-11-19,A First-Person History Lesson From Robert Rubin,neutral,0.10802672803401947
+2014-11-21,A new study from the National Employment Law Project shows that real wages for manufacturing workers declined three times as much as for workers as a whole.,negative,-0.96277916431427
+2014-11-21,Falling Wages at Factories Squeeze the Middle Class,negative,-0.876067042350769
+2014-11-25,"Plus, minimizing the translucent look of windows and menus in OS X Yosemite.",neutral,0.091891810297966
+2014-11-25,AirDrop Alternatives for Windows and Android,neutral,0.0325230173766613
+2014-11-29,"To increase attendance, theaters are trying to redefine the moviegoing experience with amenities and effects like mist, scents and moving seats.",positive,0.8000670075416565
+2014-11-29,"Movies, Meet 4D Theme Park",neutral,0.03857498615980148
+2014-12-02,Most Windows and Mac editions of Microsoft Word have a setting that automatically backs up documents.,neutral,-0.03232143819332123
+2014-12-02,"Also, how to export your Gmail contacts.",neutral,0.00922390166670084
+2014-12-02,How to Restore Old Versions of Word Documents,neutral,0.03235933557152748
+2014-12-04,"Senator Elizabeth Warren’s opposition to a nominee for a role at the Treasury Department demonstrates her blatant political motivation, William D. Cohan writes in the Street Scene column.",neutral,-0.42308005690574646
+2014-12-04,Elizabeth Warren Misfires in Latest Wall St.,negative,-0.8165277242660522
+2014-12-04,Salvo,neutral,0.03869098424911499
+2014-12-05,"The gain was the largest monthly jump in payrolls in nearly three years, and average hourly earnings surged 0.4 percent, twice what analysts expected.",positive,0.893821656703949
+2014-12-05,Big Job Gains and Rising Pay in Labor Data,positive,0.4879800081253052
+2014-12-06,"The division of Timken, a family-controlled company, into separate companies making bearings and steel has brought anxiety to its Ohio hometown.",negative,-0.9129835963249207
+2014-12-06,How Wall Street Bent Steel,neutral,-0.18134859204292297
+2014-12-10,"Also, scanning a Mac for malware.",neutral,-0.22768747806549072
+2014-12-10,Keeping Up With Windows Update,neutral,0.28184759616851807
+2014-12-11,The chief of BlackRock said companies should focus on payrolls and new projects rather than corporate maneuvers that activists often support.,neutral,-0.013213522732257843
+2014-12-11,Laurence Fink Says Activist Investing Can ‘Destroy Jobs’,negative,-0.6741176247596741
+2014-12-16,There is a way to “hide” items from your list so they aren’t visible on a shared computer.,neutral,-0.09742606431245804
+2014-12-16,"Also, how to enlarge the New Message window in Gmail.",neutral,0.047545865178108215
+2014-12-16,How to Hide Past iTunes Purchases,neutral,-0.09272167086601257
+2014-12-20,"A video documentary about some Chinese factories that assemble Apple products has refueled public attention on labor issues, like excessive work hours.",negative,-0.8500702381134033
+2014-12-20,BBC Documentary Shows Harsh Conditions for Workers in iPhone Factories,negative,-0.7902100086212158
+2014-12-23,"The Commerce Department revised its summer growth figures to 5 percent, bolstered by robust spending by businesses and consumers.",positive,0.8445799946784973
+2014-12-23,Economic Vital Signs in 3rd Quarter Were Strongest in a Decade,positive,0.7757865786552429
+2014-12-24,"Also, how to force-quit apps on Windows 8.1.",neutral,-0.006813822314143181
+2014-12-24,Trying to Update an Overloaded iPhone,negative,-0.614152193069458
+2014-12-26,"Unlike many families that lose touch, families like the Roosevelts and Haneses have used their histories to stay together or, at the very least, guide them.",neutral,0.10212583839893341
+2014-12-26,What the Most Fortunate Learn During the Holiday Season,neutral,0.08068376779556274
+2014-12-30,"Also, guides for Android users and news from Facebook, including a reminder that a new privacy policy goes into effect Jan. 30.",neutral,0.08652183413505554
+2014-12-30,Managing Mail on the Mac,neutral,-0.1744440197944641
+2015-01-02,"“Falling Short” details the whats and whys of an impending retirement crisis and provides a number of reasonable sounding alternative paths to avoiding financial Armageddon, writes Jonathan A. Knee in a Book Entry review.",neutral,0.08218344300985336
+2015-01-02,A Sobering Perspective on a Looming Retirement Crisis,neutral,0.0962090790271759
+2015-01-03,"High-end shopping malls are thriving across the country, but as midtier retailers like Sears and J. C. Penney flounder, they are also dragging down their malls.",negative,-0.9105610847473145
+2015-01-03,The Economics (and Nostalgia) of Dead Malls,neutral,0.005409322679042816
+2015-01-06,"Plus, how to track system updates on a Windows tablet.",neutral,-0.003586983308196068
+2015-01-06,Moving Videos Between Mac and Android Gadgets,neutral,0.02437938004732132
+2015-01-09,"Some older workers consider life expectancy, changes in technology at work and potential age bias when deciding to retire.",neutral,-0.1319543421268463
+2015-01-09,When Outside Factors Dictate Retirement Age,neutral,-0.03443972021341324
+2015-01-13,"Japanese pickup makers are seeking a larger market share in the growing American truck market, with redesigned models and more powerful engines.",positive,0.8292083144187927
+2015-01-13,"As Truck Sales Surge in U.S., Toyota and Nissan Unveil Upgrades",positive,0.5813497304916382
+2015-01-14,"Free, reputable programs are available to search a computer for bots that can tax a system’s resources.",neutral,-0.014604536816477776
+2015-01-14,Freeing a PC From Malware,neutral,-0.040430083870887756
+2015-01-17,"Wall Street may be growing anxious about the negative impact of falling oil prices on energy producers, but the steep declines of recent weeks are delivering substantial benefits to American working-class families.",positive,0.7142431735992432
+2015-01-17,Lower Oil Prices Provide Benefits to U.S. Workers,positive,0.5091503858566284
+2015-01-20,"Also, how to set up a “hybrid” network of wired and wireless connections.",neutral,0.05876340717077255
+2015-01-20,Abandoning the Lollipop Ship,neutral,-0.17809662222862244
+2015-01-21,A small group of wealthy philanthropists will give the money to various groups with a regional focus that will guide states in reducing warming gases from electricity generation.,neutral,0.11214334517717361
+2015-01-21,"For States, $48 Million to Help Cut Emissions",neutral,0.15267352759838104
+2015-01-22,"“It wouldn’t surprise me in the least if the euro was even with the dollar by April,” one economist says.",negative,-0.2521420121192932
+2015-01-22,European Central Bank’s Bond-Buying Will Help U.S.,positive,0.8873571157455444
+2015-01-22,Tourists and Investors,neutral,0.06304900348186493
+2015-01-23,"Goldman Sachs has calculated that falling oil prices will push well over a trillion dollars into other industries around the world, said Gary Cohn, the investment bank’s president and chief operating officer.",positive,0.5406041741371155
+2015-01-23,Goldman Executive Says Falling Oil Prices Will Help Firm’s Business,positive,0.558536171913147
+2015-01-27,"Chief executives of successful companies may deserve handsome pay packages, but how do you value the contribution of the average worker?",neutral,0.18463680148124695
+2015-01-27,S.E.C.,neutral,0.030168529599905014
+2015-01-27,Has Yet to Set Rule on Tricky Ratio of C.E.O.’s Pay to Workers’,negative,-0.6768409609794617
+2015-01-28,"Windows PCs are often the main targets of malicious software that loops infected computers into remote-controlled networks called botnets, but Macs are not immune.",negative,-0.7536457180976868
+2015-01-28,Avoiding Botnets With a Mac,neutral,-0.08496516942977905
+2015-01-29,"With the latest earnings reports from Microsoft and Apple, the once-unthinkable became reality: Apple’s market capitalization hit $683 billion, more than double Microsoft’s $338 billion.",positive,0.8662473559379578
+2015-01-29,"How, and Why, Apple Overtook Microsoft",neutral,0.034257568418979645
+2015-01-30,"The American gross domestic product for the fourth quarter was 2.6 percent, a sign of relative health in the economy.",positive,0.678702175617218
+2015-01-30,Growth Rate Put at 2.6% as Economy Pulls Ahead,positive,0.7028630971908569
+2015-02-03,"President Obama’s budget calls for a lower overall tax rate, but also for a one-time 14 percent tax on all cash sitting overseas.",neutral,0.04023135453462601
+2015-02-03,"Tax Reform Is the Cry, Until Details Are Offered",neutral,0.015599977225065231
+2015-02-04,"Using your phone as a GPS unit is handy, but can run the battery down.",neutral,-0.10325480997562408
+2015-02-04,Always pack a mobile phone charger.,neutral,0.021202247589826584
+2015-02-04,Traveling With an iPhone,neutral,0.008910506963729858
+2015-02-05,"Driven by strong international and online sales, results posted by the handbag brand topped predictions.",positive,0.8652438521385193
+2015-02-05,Michael Kors Earnings Exceed Analysts’ 3rd-Quarter Estimates,neutral,-0.056972116231918335
+2015-02-06,"American employers added 257,000 jobs in January, showing that signs of economic momentum late last year carried into 2015.",positive,0.7927631735801697
+2015-02-06,"Amid Gains in Jobs and Pay, Americans Rejoin the Work Force",positive,0.03257286548614502
+2015-02-10,"The company is aggressively adding to its renewable energy sources, a point of pride for its chief executive, Timothy D. Cook.",positive,0.7183548808097839
+2015-02-10,Apple Building Solar Farm to Power California Operations,neutral,0.051657967269420624
+2015-02-11,"Tips on how to transfer photographs into iPhoto on your Mac, and advice for connecting to a virtual private network from a mobile device.",neutral,0.026759158819913864
+2015-02-11,Importing Images to iPhoto,neutral,0.014418154023587704
+2015-02-12,"Debt issuers are taking unusual license in how they calculate Ebitda — earnings before interest, taxes, depreciation and amortization — leading to the mispricing of risk for investors, William D. Cohan writes in the Street Scene column.",negative,-0.7054384350776672
+2015-02-12,A Closely Watched Metric That Can Be More Art Than Math,neutral,0.0718582347035408
+2015-02-13,Alumni of the investment bank occupy some of the most powerful positions in finance.,neutral,0.016714759171009064
+2015-02-13,"In fact, an association with Drexel is now worn as a badge of pride.",neutral,0.13643188774585724
+2015-02-13,"Drexel, 25 Years After Its Collapse, Only Helps a Résumé",negative,-0.7404265403747559
+2015-02-14,One problem Congress faces as it prepares to overhaul the tax code is that each complexity has a constituency that will fight for it.,negative,-0.7180136442184448
+2015-02-14,Reformers Try to Tackle the Tax Machine,neutral,0.060820356011390686
+2015-02-17,How to use two-step verification to guard against unauthorized access to your email.,neutral,-0.013647744432091713
+2015-02-17,Securing a Hotmail Account,neutral,-0.04457956552505493
+2015-02-20,A Breakingviews calculator puts the implied chances for success of the cable deal at 60 percent.,neutral,0.12288647890090942
+2015-02-20,Calculating the Odds of a Comcast-Time Warner Cable Deal,neutral,0.02775999717414379
+2015-02-24,"Tips on how to archive Gmail messages to tidy up your inbox, and solutions for when your laptop battery begins to fade.",neutral,0.019673995673656464
+2015-02-24,Filing Away Gmail Messages,neutral,-0.15439316630363464
+2015-02-25,Problems such as buggy Bluetooth and voice recognition systems have surpassed excessive wind noise as the top issues for car owners.,negative,-0.6849926114082336
+2015-02-25,In-Car Communication Systems Called a Growing Frustration,neutral,0.0454288013279438
+2015-02-27,Only in the world of private equity would an annual sum of more than $300 million for a top executive constitute a decline from the previous year.,negative,-0.8652641177177429
+2015-02-27,Leon Black of Apollo Global Got $331 Million Payout in 2014,neutral,0.0669807493686676
+2015-03-02,"Energy prices began falling last summer, but economists are stumped on what consumers are doing with the extra money.",negative,-0.8045295476913452
+2015-03-02,They’re not shopping.,neutral,-0.19801068305969238
+2015-03-02,"Saving Big on Energy Bills, People Take It to the Bank",neutral,0.046517275273799896
+2015-03-06,"Mr. Stanley, who was killed in a recent car accident, wrote a book with William Danko that became a classic in personal finance by showing ordinary people how to accumulate assets.",neutral,0.07704135030508041
+2015-03-06,Paying Tribute to Thomas Stanley and His ‘Millionaire Next Door’,neutral,0.10150514543056488
+2015-03-09,"Timothy D. Cook, Apple’s chief executive, introduced the Apple Watch, an edition of which is made of 18-karat gold and retails starting at $10,000.",neutral,0.16341513395309448
+2015-03-09,Apple Unveils the Apple Watch,neutral,0.0754399523139
+2015-03-12,"The Utah Legislature has approved legislation to build the nation’s first white-collar offender registry, affixing a scarlet letter of sorts on the state’s financial felons.",positive,0.7357730269432068
+2015-03-12,Utah Passes White-Collar Felon Registry,negative,-0.7048021554946899
+2015-03-17,"Universal programs financed by broader taxes could appear unfair, but targeted social insurance financed by progressive taxes is likely to be stingy and politically weak.",negative,-0.8733260631561279
+2015-03-17,Patching Up the Social Safety Net,neutral,0.08932725340127945
+2015-03-18,A photographer shows how improvements in camera sensors and software and in postproduction software have made it possible to take excellent photos at night.,positive,0.6772764325141907
+2015-03-18,"Capturing the Night in Digital Photos, Spectacularly",neutral,0.09676450490951538
+2015-03-21,An article about a campaign intended to help spark a conversation on race in America accrued a broad range of reactions in its comment section.,neutral,-0.02837251126766205
+2015-03-21,Readers Respond to Starbucks ‘Race Together’ Initiative,neutral,0.2489173710346222
+2015-03-22,"Starbucks said it had always planned to end the “Race Together” initiative on March 22, something not previously known.",neutral,0.04609636962413788
+2015-03-22,But the company said its conversation on race would continue.,neutral,0.05970270559191704
+2015-03-22,Starbucks Ends Conversation Starters on Race,neutral,-0.031081445515155792
+2015-03-23,"With a few steps, the icon — and any other deleted icon on a Mac — can be brought back.",neutral,-0.024924762547016144
+2015-03-23,"Also, why Windows sometimes must restart when updating.",neutral,-0.06359854340553284
+2015-03-23,Restoring the iCloud Drive Icon,neutral,0.221862331032753
+2015-03-24,"Before his appointment last summer, Mr. Chandler was the assistant vice president for facilities at Hunter College.",neutral,0.011432845145463943
+2015-03-24,"A Conversation With Rick Chandler, New York City’s Buildings Dept.",neutral,0.013962861150503159
+2015-03-24,Chief,neutral,0.031997859477996826
+2015-03-26,"Michael Schroepfer, Facebook’s vice president of engineering, told developers that the company’s Oculus VR unit would get its PC-based virtual reality headset to consumers this year.",positive,0.7692582607269287
+2015-03-26,That puts a lot of pressure on Oculus.,negative,-0.5968207120895386
+2015-03-26,Facebook Sees Oculus Virtual Reality Headsets Shipping This Year,neutral,0.11912727355957031
+2015-03-27,"The return to normalcy in monetary policy will be prolonged, the Fed chairwoman said, because the American economy remains fragile.",neutral,-0.08011545985937119
+2015-03-27,Yellen Says Fed Will Increase Rates Slowly,positive,0.5726244449615479
+2015-03-31,"In an industry that avoids controversy, the heads of several prominent companies, including Apple and Salesforce.com, have chosen to pick a battle.",neutral,-0.0973527804017067
+2015-03-31,"Silicon Valley Leaders, New to Social Issues, Come Together Over Indiana Law",neutral,0.07616588473320007
+2015-04-04,"While Don Draper wouldn’t recognize much of today’s advertising business, which is increasingly driven by technology, big personalities at the very top continue to reign.",neutral,0.009871166199445724
+2015-04-04,‘Mad Men’ and the Era that Changed Advertising,neutral,-0.06312249600887299
+2015-04-07,"The iTunes software can automatically sync with iPads, iPhones and iPod Touch players, but even if the feature is enabled in iTunes, a few conditions apply.",neutral,-0.04749708250164986
+2015-04-07,Diagnosing a Syncing Problem With iTunes,negative,-0.4412280321121216
+2015-04-10,"An analysis of recent company reports, however, finds that the widest gap exists between the chief executives and workers of Disney, Oracle, Qualcomm and Starbucks.",negative,-0.7619733810424805
+2015-04-10,"Despite Federal Regulation, C.E.O.-Worker Pay Gap Data Remains Hidden",negative,-0.9366810917854309
+2015-04-11,The author and professor of economics wrote presciently about women in the workplace and served on the White House Council of Economic Advisers.,neutral,-0.008105151355266571
+2015-04-11,"Barbara Bergmann, Trailblazer for Study of Gender in Economics, Is Dead at 87",negative,-0.491029292345047
+2015-04-12,The transaction shows how the power on Wall Street has shifted since the financial crisis from risk-averse investment banks to asset managers.,neutral,0.09477806091308594
+2015-04-12,Blackstone’s Deal With G.E.,neutral,0.14275944232940674
+2015-04-12,Highlights Its Real Estate Holdings,neutral,0.050014957785606384
+2015-04-13,"For owners of computers without floppy or CD drives, they can use a pocket flash as a start-up device instead.",neutral,-0.0034526698291301727
+2015-04-13,Creating a Windows Recovery Drive,neutral,-0.006383012980222702
+2015-04-14,"Laurence D. Fink, chief of BlackRock, the world’s largest asset manager, warns of harm in dividends and stock buybacks.",negative,-0.9463347792625427
+2015-04-14,"BlackRock’s Chief, Laurence Fink, Urges Other C.E.O.s to Stop Being So Nice to Investors",negative,-0.782438337802887
+2015-04-15,The investment in K2 will give A.I.G.,neutral,0.15212665498256683
+2015-04-15,"ties to a provider of investigations and analytics that can benefit its clients, particularly on online defense.",neutral,0.12511853873729706
+2015-04-15,A.I.G.,neutral,0.045108746737241745
+2015-04-15,Invests in Kroll’s K2 Intelligence Firm,neutral,0.04156901687383652
+2015-04-16,The results were released as academics and watchdogs cautioned over the buildup in bond exchange traded funds.,negative,-0.31851887702941895
+2015-04-16,BlackRock Says Assets Grew 8% in Quarter,positive,0.8945156335830688
+2015-04-18,"The retail tycoon, who turned Sotheby’s into a global power for art sales, went to prison in a price-fixing scandal involving Christie’s that, prosecutors said, cheated buyers and sellers out of $100 million.",negative,-0.8557236790657043
+2015-04-18,"A. Alfred Taubman, 91, Dies; Developer, Sotheby’s Owner and Focus of Scandal",neutral,-0.0016988124698400497
+2015-04-21,"This proxy season, companies are resisting the pressure from shareholder activists instead of giving in quickly to their demands.",negative,-0.5434845685958862
+2015-04-21,The Boardroom Strikes Back,negative,-0.7168681621551514
+2015-04-22,"Even with an upgrade, there are several ways to work with Microsoft Office files.",neutral,-0.02053811214864254
+2015-04-22,"Also, backing up data on an Amazon Fire tablet.",neutral,0.03284482657909393
+2015-04-22,Working With Old Office Files on a New Mac OS,neutral,0.045590490102767944
+2015-04-23,The 20 percent stake of the $36 billion hedge fund is one of the last vestiges of the bankrupt Lehman Brothers.,neutral,-0.053959138691425323
+2015-04-23,Family Office of Google’s Eric Schmidt Buys Stake in Hedge Fund D.E.,neutral,0.033682696521282196
+2015-04-23,Shaw,neutral,0.030281148850917816
+2015-04-24,Mr. Rosenstein says Laurence Fink wasn’t after all activist investors in his open letter to C.E.O.’s attacking short-term thinking.,neutral,-0.062288764864206314
+2015-04-24,Jana Partners’ Barry Rosenstein Has Different Take on BlackRock C.E.O.’s Missive,neutral,-0.10093789547681808
+2015-04-27,"How to give an old iPhone to a friend for use with Wi-Fi, to surf and use apps.",neutral,-0.0012799855321645737
+2015-04-27,Repurposing an Old iPhone,neutral,-0.07636892795562744
+2015-04-29,The Federal Reserve’s policy makers signaled that an interest-rate increase is still likely later this year.,positive,0.5723760724067688
+2015-04-29,"Shrugging Off Slow Growth, Fed Predicts a Rebound",positive,0.6518534421920776
+2015-05-01,"Apple, IBM and Japan Post are partnering to provide a technology service for older adults.",positive,0.6074513792991638
+2015-05-01,The venture reflects the larger ambitions of each company.,neutral,0.08933734893798828
+2015-05-01,"Apple, IBM and Japan Post See Profit in the Old-Age Market",positive,0.4256249666213989
+2015-05-05,"How to take screenshots on a Windows tablet, Also, how to use iPhoto after the latest Mac update replaces it with a different app.",neutral,-0.0104769766330719
+2015-05-05,Snapping the Windows Screen,neutral,-0.22183120250701904
+2015-05-06,"Both Fresno, Calif., and Santa Fe, N.M., face dire water shortages, but only one has embraced tiered pricing, where heavy users pay much more per gallon.",neutral,-0.3961227238178253
+2015-05-06,"Water Pricing in Two Thirsty Cities: In One, Guzzlers Pay More, and Use Less",neutral,-0.12349481880664825
+2015-05-08,"The gain was in line with the consensus forecast of 230,000 jobs added, and the expectation had been that the unemployment rate would tick down slightly.",negative,-0.26637864112854004
+2015-05-08,"U.S. Economy Added 223,000 Jobs in April; Unemployment Rate at 5.4%",negative,-0.45081162452697754
+2015-05-11,"When the cable company just won’t do, here are tips for finding another way to get online.",neutral,0.03630485385656357
+2015-05-11,Finding a New Broadband Connection,neutral,0.10387532413005829
+2015-05-13,Mr. Smith covered the oil industry for The Times before working at Exxon as a public relations specialist during the Exxon Valdez oil spill in 1989.,neutral,-0.021675264462828636
+2015-05-13,William D. Smith Dies at 79; Business Reporter Who Joined Oil Industry,neutral,-0.08823120594024658
+2015-05-20,The social network lets you assign a sort of executor of your Facebook estate who can update your cover photo and post information.,neutral,0.0020762868225574493
+2015-05-20,"Unlike You, Your Facebook Account Can Be Immortal",neutral,-0.0800565630197525
+2015-05-26,"Last year, Time Warner Cable balked at the leverage, cash and stock on offer from Charter.",negative,-0.9466450810432434
+2015-05-26,"Those terms haven’t changed much, but the price has shot up.",positive,0.773644208908081
+2015-05-26,Time Warner Cable Finds That Money Covers Charter’s Flaws,neutral,0.055559903383255005
+2015-05-27,"From house calls to mail-in service, there is a repair option out there for your cherished but obsolete gadgets.",neutral,0.017530040815472603
+2015-05-27,Keeping Your Classic Tech Devices Running,neutral,0.036760374903678894
+2015-05-29,"Sellers should ask tough questions of the auction houses or galleries that want to represent them, and be reasonable about the value of their collections.",neutral,0.0404139868915081
+2015-05-29,Selling Private Collection of Artifacts Requires Special Care,neutral,-0.022716587409377098
+2015-05-30,"Through a mix of golden parachutes, advisory fees and investment returns, a small number of cable executives, traders and bankers stand to reap enormous profits.",positive,0.6465129256248474
+2015-05-30,Cashing In on a Charter-Time Warner Cable Merger,neutral,0.09615933895111084
+2015-06-02,Fruitless efforts to seriously curb greenhouse gas pollution suggest a new approach is warranted — making it costly not to join an international consortium committed to fighting climate change.,negative,-0.5386199951171875
+2015-06-02,Climate Deal Badly Needs a Big Stick,neutral,0.024192102253437042
+2015-06-03,"Apple is set to unveil new app tools for its watch on Monday, as well as software updates and a streaming music service.",neutral,0.20831537246704102
+2015-06-03,Missing will be the Apple TV.,neutral,-0.28253355622291565
+2015-06-03,Apple to Unveil Tool Kit for Watch App Developers,neutral,0.15546263754367828
+2015-06-05,"Many Americans do not think the trade-off of their data for personalized services, giveaways or discounts is a fair deal, a University of Pennsylvania study found.",neutral,-0.19972370564937592
+2015-06-05,Daily Report: Rising Resistance Among American Consumers to Data-Mining Practices,negative,-0.08161970973014832
+2015-06-08,Ever wonder what the iPhone’s grandparents looked like?,neutral,-0.16122303903102875
+2015-06-08,Chances are Lonnie Mimms has one in the massive collection of vintage computers he keeps outside of Atlanta.,neutral,-0.009907228872179985
+2015-06-08,Digital Vintage,neutral,0.05154966562986374
+2015-06-09,"Andrew Ang will oversee a group of exchange-traded funds that track factors like value, momentum and quality of earnings instead of just size.",neutral,0.023134779185056686
+2015-06-09,BlackRock Hires Columbia Finance Professor to Guide New Investment Strategy,neutral,0.04472092166543007
+2015-06-10,Some independent booksellers gain a portion of e-book sales through partnerships with bigger e-bookstores like Kobo and Amazon Source.,neutral,0.14815400540828705
+2015-06-10,"Shop Locally, Download Globally",neutral,-0.0005182120949029922
+2015-06-13,Corporate America has been nearly unified in its support of a deal that would lower various barriers to trade and investment between the United States and 11 other Pacific Rim nations.,positive,0.7860166430473328
+2015-06-13,Business Leaders React With Dismay to Defeat of Trade Bill,negative,-0.8689931035041809
+2015-06-17,Microsoft is allowing those currently running Windows 7 or 8.1 to “reserve” a copy of its newest operating system more than a month before it’s released.,neutral,0.020851299166679382
+2015-06-17,How to Get Windows 10,neutral,0.03747992217540741
+2015-06-18,"While the auto industry over all improved by 3 percent in initial quality, South Korean automakers improved by 11 percent, the J.D.",positive,0.9291181564331055
+2015-06-18,Power study showed.,neutral,0.0765773206949234
+2015-06-18,Kia and Hyundai Show Improvement in J.D.,positive,0.9136152267456055
+2015-06-18,Power Quality Study,neutral,0.07254645228385925
+2015-06-19,Representative Jeffrey D. Duncan of South Carolina has made one of the strongest calls yet for federal intervention into the island’s finances.,positive,0.4836519658565521
+2015-06-19,"Financial Control Board Should Take Over Debt-Laden Puerto Rico, Lawmaker Says",neutral,0.08576704561710358
+2015-06-23,Mr. Villanueva was a former kicker for the Los Angeles Rams and Dallas Cowboys who built a Spanish-language broadcasting empire spanning the United States.,neutral,0.05362226068973541
+2015-06-23,"Daniel Villanueva, a Creator of Univision, Dies at 77",neutral,-0.395211398601532
+2015-06-24,"When URLs change, there are ways to bring in the radio station streams you’re looking for.",neutral,0.003957806155085564
+2015-06-24,Updating an Internet Radio,neutral,0.0363445058465004
+2015-06-26,"The campaign to get Democratic support for the Pacific Rim trade pact began more than a year ago, and came down to four days of tight maneuvering by G.O.P.",neutral,0.2626514732837677
+2015-06-26,leaders and the White House.,neutral,0.04393361508846283
+2015-06-26,Hard Politicking Behind Democrats’ ‘Yea’ Votes on Trade Bill,negative,-0.549875020980835
+2015-06-29,"The former Disney chief’s newest company, Tornante, is teaming up with Sinclair Broadcast Group to produce and distribute new syndicated shows to be aired mostly during the day by local stations.",positive,0.5384742021560669
+2015-06-29,Eisner Brings His Media Expertise to Local TV Markets,neutral,0.04903196915984154
+2015-06-30,"If Apple Music is successful, it could deliver billions of dollars in revenue to the music industry and establish streaming music as a stable business.",positive,0.8733869791030884
+2015-06-30,Apple Music Makes Debut With D.J.,neutral,0.23024220764636993
+2015-06-30,Carrying the Flag,neutral,0.07058324664831161
+2015-07-01,"How to set up hardware so that Macs and iOS devices share some tasks like phone calls and text messages from applications like Mail, Safari and Maps.",neutral,0.022720271721482277
+2015-07-01,A Mac-to-iPhone Handoff,neutral,0.09603625535964966
+2015-07-02,"Mr. Boire, Sears Canada’s chief executive, will succeed Michael Huseby, who is becoming executive chairman of Barnes & Noble Education.",neutral,0.0403875857591629
+2015-07-02,Barnes & Noble Names Ronald Boire of Sears Canada as C.E.O.,neutral,-0.013994166627526283
+2015-07-07,"The acknowledgment came in a deposition the entertainer made in relation to a woman’s lawsuit against him, which was made public on Monday.",neutral,0.0704098492860794
+2015-07-07,Bill Cosby Admission About Quaaludes Offers Accusers Vindication,negative,-0.7531371116638184
+2015-07-13,"The 100,000 Opportunities Initiative includes 16 other companies, and will offer full-time positions as well as apprenticeships and internships.",neutral,0.11662799119949341
+2015-07-13,Starbucks and Other Corporations to Announce Plan to Curb Unemployment of Young People,neutral,0.27275383472442627
+2015-07-15,"At a hedge fund conference, the activist investor spars with Laurence Fink over exchange-traded funds.",negative,-0.7469418048858643
+2015-07-15,Carl Icahn Calls BlackRock a ‘Very Dangerous Company’,negative,-0.6624821424484253
+2015-07-16,"The firm’s hedge fund and credit units showed gains, but its private equity and real estate businesses declined.",negative,-0.8374680876731873
+2015-07-16,Blackstone’s Profit Slumps in Quarter,negative,-0.9644776582717896
+2015-07-17,"Erasing student loans requires proof that paying the debt would cause “undue hardship,” and some judges think the rigid standard should be reconsidered.",neutral,-0.11986898630857468
+2015-07-17,Judges Rebuke Limits on Wiping Out Student Loan Debt,negative,-0.6455138325691223
+2015-07-22,"Some technology pundits have declared the device a flop, but Apple has a history of using incremental improvements to make its products indispensable.",neutral,-0.23885028064250946
+2015-07-22,"In Apple Watch Debut, Signs of a Familiar Path to Success",positive,0.6687453389167786
+2015-07-23,"The coffee chain reported profits of $626.7 million, and its revenue grew 17.5 percent, to $4.9 billion.",positive,0.9239557385444641
+2015-07-23,Starbucks Profit Jumps 22%; Chief Cites Increase in Customer Traffic,positive,0.8436892032623291
+2015-07-24,"For most American workers, including many college graduates, the economic recovery has not meant significantly higher wages, research shows.",negative,-0.040376871824264526
+2015-07-24,Gap Widening as Top Workers Reap the Raises,negative,-0.7101603746414185
+2015-07-26,The return of Zhouqin Burnikel and D. Scott Nichols.,neutral,0.06272289901971817
+2015-07-26,"A Little of This, A Little of That",neutral,0.1036851555109024
+2015-07-27,"Phil Gramm, one of the chief architects of a sweeping deregulation of financial rules in the late 1990s, will testify before the House Financial Services Committee on the impact of Dodd-Frank.",neutral,0.03848590701818466
+2015-07-27,Deregulator of Banks Set to Testify Before House,neutral,-0.03874904662370682
+2015-07-28,"The insurance giant is also buying First Principles, Mr. Dachille’s investment firm, which has about $10 billion in assets under management.",neutral,0.07198803126811981
+2015-07-28,A.I.G.,neutral,0.045108746737241745
+2015-07-28,Names Doug Dachille Chief Investment Officer,neutral,0.0287935808300972
+2015-07-29,"Twitter has introduced video clips that automatically play in the timeline, but you can turn the feature off.",neutral,-0.007093349471688271
+2015-07-29,Disabling Video Autoplay on Twitter,neutral,-0.3268507122993469
+2015-07-30,"The rebound, after a discouraging first quarter, was largely expected and continued the slow but steady recovery trajectory of the last six years.",positive,0.9149420261383057
+2015-07-30,U.S. Economy Grew at 2.3% Rate in 2nd Quarter,positive,0.8471917510032654
+2015-08-07,The emergence of Pershing Square Capital Management as a major investor in Mondelez highlights the widespread belief that opportunities for deals abound in the food sector.,neutral,0.46892043948173523
+2015-08-07,Ackman Bets on Mondelez Going on Sale,neutral,0.050099413841962814
+2015-08-11,"Nebia, a start-up that has developed a water-conserving shower head, already has funding from Silicon Valley’s top brass, including Apple chief executive Timothy D. Cook.",neutral,0.4668150544166565
+2015-08-11,"Nebia, a Shower Head Start-Up, Receives Funding From Timothy Cook of Apple",neutral,0.14268022775650024
+2015-08-19,Those whose spouses died before the Supreme Court made two crucial marriage-equality rulings are fighting for retroactive recognition of their unions.,negative,-0.3814658522605896
+2015-08-19,Social Security Benefits in Limbo for Some Same-Sex Couples,negative,-0.7336149215698242
+2015-08-20,The Justice Department said the Social Security Administration would apply the Supreme Court’s June ruling declaring marriage a constitutional right retroactively.,neutral,0.3356235921382904
+2015-08-20,"Gay Couples Are Eligible for Social Security Benefits, U.S.",neutral,0.11860612034797668
+2015-08-20,Decides,neutral,0.04299810528755188
+2015-08-24,"The chief executive of Apple said business was booming in China, where the company has long laid the groundwork to reap big sales.",positive,0.8812358975410461
+2015-08-24,Apple Stock Reacts After Tim Cook Email Praises China Sales,negative,-0.6536815166473389
+2015-08-25,"On some days, market psychology can count for more than long-term fundamentals, pushing panicked investors to sell.",negative,-0.7808780670166016
+2015-08-25,Advisers Work to Calm Fearful Investors,neutral,-0.2956114411354065
+2015-08-26,"A gunman orchestrated his own moment in the limelight, a frightful twist in an age of online sharing and ubiquitous video documentation.",negative,-0.6780984401702881
+2015-08-26,"Virginia Shooting Gone Viral, in a Well-Planned Rollout on Social Media",neutral,0.1581583023071289
+2015-08-27,"Publications in the United States and Europe gave readers a killer’s vantage point, but there was condemnation of their decisions.",negative,-0.5571470260620117
+2015-08-27,Outrage Over Images of TV Shooting on Newspaper Front Pages,negative,-0.7669389843940735
+2015-08-31,A deal represents be a new chapter for the hedge fund manager six years after he closed his firm amid an S.E.C.,neutral,-0.15518467128276825
+2015-08-31,investigation.,neutral,-0.0045280903577804565
+2015-08-31,Daniel Zwirn Forges Partnership With Canadian Investment Firm,positive,0.779486358165741
+2015-09-02,"With time and use, actions like installing or uninstalling programs may inadvertently alter these permissions from their initial state, but there’s a fix to restore them.",neutral,0.03731156885623932
+2015-09-02,"Understanding Mac OS X Disk Permissions, and How to Repair Them",neutral,0.031121939420700073
+2015-09-03,"Despite an improving economy, the take-home pay for many Americans has fallen since 2009, and the sharpest decline has been experienced by those with the lowest-paid jobs.",negative,-0.9641110897064209
+2015-09-03,Low-Income Workers See Biggest Drop in Paychecks,negative,-0.9398281574249268
+2015-09-04,"As the Federal Reserve weighs raising interest rates, it must contend with both good news and bad news from the August numbers.",neutral,0.028273791074752808
+2015-09-04,Jobs Report Gives Ammunition to Both Sides of Fed Rate Debate,neutral,-0.09187962114810944
+2015-09-07,"Ms. Little, who consulted for three decades for companies like 3M, General Mills and Coca-Cola, took inspiration from sources as varied as geishas, burglars and cheetahs.",neutral,-0.005390888080000877
+2015-09-07,"Sara Little, Peripatetic Product Designer, Dies at 97",neutral,-0.25363889336586
+2015-09-08,"These organizations thrived in the 1980s and ’90s and were the backbone of Apple’s faithful, but for some members, the tech giant’s success has been hard to reconcile.",neutral,0.07010573893785477
+2015-09-08,"Mac User Groups Fade in Number and Influence, but Devotees Press On",negative,-0.5476700067520142
+2015-09-09,"Unlike other tech devices that have become commodities, Apple’s iPhone remains in demand as both a highly useful item and a status symbol.",positive,0.6771038770675659
+2015-09-09,Apple’s iPhone Keeps Going Its Own Way,neutral,0.07865546643733978
+2015-09-10,Here are our responses to reader queries about the new Apple devices introduced at a company event on Wednesday.,neutral,0.041002217680215836
+2015-09-10,Answers to Questions About Apple’s New Products,neutral,0.046477869153022766
+2015-09-14,The Pentagon’s advanced research arm is supporting research in privacy technology.,neutral,0.23805798590183258
+2015-09-14,"Strong privacy protection, it says, is essential for the data economy to flourish.",positive,0.7383134961128235
+2015-09-14,"With ‘Brandeis’ Project, Darpa Seeks to Advance Privacy Technology",neutral,0.47374463081359863
+2015-09-15,"While Mr. DeLuca’s success was often portrayed as inspirational, Subway’s growth was achieved with aggressive tactics and sometimes unflattering publicity.",positive,0.6555191874504089
+2015-09-15,"Fred DeLuca, Hands-on Co-Founder of Subway Sandwich Chain, Dies at 67",neutral,-0.35400286316871643
+2015-09-16,"If your computer did not come with a microphone, you can command Microsoft’s virtual assistant with an external or headset microphone.",neutral,-0.07038918882608414
+2015-09-16,How to Talk to Microsoft’s Cortana,neutral,-0.03632810711860657
+2015-09-17,"While many on Wall Street expected the Fed to delay raising rates, few expected its language about future moves to be so dovish.",neutral,-0.28080010414123535
+2015-09-17,Dovish Tone of Fed’s Monetary Policy Statement Surprises Economists,neutral,-0.09533995389938354
+2015-09-18,"Twenty years ago, a series of rate increases by the Federal Reserve put pressure on emerging markets like Mexico, which had to be bailed out by the United States and the I.M.F.",negative,-0.600026547908783
+2015-09-18,Could it happen again?,neutral,-0.19641302525997162
+2015-09-18,"Watching the Fed, and Remembering the Tequila Crisis",neutral,0.043683916330337524
+2015-09-19,"Yuengling, the oldest brewery in America, is run by a fifth-generation owner: the 71-year-old patriarch of the family that gives it its name.",neutral,0.03431941941380501
+2015-09-19,His four daughters are waiting in the wings.,neutral,0.05102851986885071
+2015-09-19,Yuengling Brewery Chief’s Daughters Work to Become His Successors,neutral,0.06275762617588043
+2015-09-21,"Mr. Simon, a New York real estate developer, planned the town in the 1960s as an alternative to postwar commuter towns with cookie-cutter homes.",neutral,0.06387759745121002
+2015-09-21,"Robert E. Simon Jr., Who Created a Town, Reston, Va., Dies at 101",neutral,-0.017474718391895294
+2015-09-22,Twitter’s apps make use of the spell-checking and auto-correction tools built into the operating system on your mobile device.,neutral,-0.014779293909668922
+2015-09-22,Spell-Checking Your Tweet,neutral,-0.041400715708732605
+2015-09-24,Private companies like Cadiz Inc. and Poseidon Water hope to turn a profit by slaking the mounting thirst of California and the West.,positive,0.5570102334022522
+2015-09-24,But the obstacles are formidable.,neutral,0.056199997663497925
+2015-09-24,"Investors Are Mining for Water, the Next Hot Commodity",neutral,-0.08665433526039124
+2015-09-25,“Friend & Foe” demonstrates the value of making technical research understandable to the uninitiated.,neutral,0.23918616771697998
+2015-09-25,Better Living Through Social Science Research,neutral,0.2385069727897644
+2015-09-27,The premier met with technology executives over the weekend to seek ideas and assistance in bringing his nation fully into the digital world.,positive,0.7888860702514648
+2015-09-27,"Narendra Modi, Indian Premier, Courts Silicon Valley to Try to Ease Nation’s Poverty",positive,0.3964080810546875
+2015-09-29,"Timothy D. Cook, Apple’s chief executive, discussed civic duty, environment and selling to businesses at an event on Tuesday.",neutral,0.05875791236758232
+2015-09-29,"Tim Cook, Apple’s Chief, Speaks on Civic Duty",neutral,0.04605026915669441
+2015-09-30,Find out how to change the background color of your Word documents.,neutral,-0.003298036754131317
+2015-09-30,Easing Screen-Based Eyestrain,positive,0.6330827474594116
+2015-10-03,The deaths of young bankers have raised concern about jobs known for long hours and heavy workloads and how they affect the junior workers who do them.,negative,-0.8995333909988403
+2015-10-03,Deaths Draw Attention to Wall Street’s Grueling Pace,negative,-0.668608546257019
+2015-10-04,"Despite their very different companies, the chief executives of General Electric and Apple have something in common: They believe businesses will increasingly rely upon “personalized” technology to run their operations.",neutral,0.07931432127952576
+2015-10-04,Business Technology Starts to Get Personal,neutral,0.20597024261951447
+2015-10-05,"In a conflict of personalization and privacy, personalization has triumphed.",positive,0.6601473093032837
+2015-10-05,A View Emerges of Business Technology’s Future as the Personalization of the Machine,neutral,0.03835253417491913
+2015-10-07,"Google Maps is a good general navigation tool, but there are other map apps that provide directions with features designed for cyclists.",neutral,0.024962011724710464
+2015-10-07,Getting Directions While Pedaling,neutral,0.05491171032190323
+2015-10-08,The newspaper company said it would pay $280 million for the Journal Media Group.,neutral,0.053815655410289764
+2015-10-08,Gannett in Deal for Milwaukee Journal Sentinel,neutral,0.07612282037734985
+2015-10-09,"A new book by John D. Spooner, “No One Ever Told Us That: Money and Life Lessons for Young Adults,” speaks to people in their 20s and 30s but has good advice for everybody.",neutral,0.04177623987197876
+2015-10-09,A Morgan Stanley Investment Veteran’s Advice for Rookies,neutral,0.04704809933900833
+2015-10-14,But the asset management giant’s earnings for the quarter and its assets under management both fell.,negative,-0.9727624654769897
+2015-10-14,BlackRock Has Inflow of Money Amid Market Volatility,positive,0.009788841009140015
+2015-10-15,"Jim Head, a co-chief of Morgan Stanley’s mergers and acquisitions for the Americas, is leaving for the firm founded by Byron Trott, formerly of Goldman Sachs.",neutral,-0.11428973823785782
+2015-10-15,Morgan Stanley Deal Maker to Join BDT & Co.,neutral,0.0316087044775486
+2015-10-19,"The regulator says the trader, Igor Oystacher, and his firm 3 Red Trading manipulated contracts for copper, oil and natural gas among others.",neutral,-0.004092209041118622
+2015-10-19,C.F.T.C.,neutral,0.03248912841081619
+2015-10-19,Accuses Chicago Trader of ‘Spoofing’,negative,-0.71258944272995
+2015-10-20,"Martin D. Singer has been replaced in both cases by the law firm Quinn Emanuel Urquhart & Sullivan, according to a court filing and Monique Pressley, another of Mr. Cosby’s lawyers.",negative,-0.49054884910583496
+2015-10-20,Cosby Replaces His Longtime Lawyer,negative,-0.42379695177078247
+2015-10-23,"In China and other emerging markets, growth is waning and demand for the raw materials that drive the global economy has dried up.",negative,-0.9571347832679749
+2015-10-23,A Global Chill in Commodity Demand Hits America’s Heartland,negative,-0.8037883639335632
+2015-10-27,"Fixed block grants have become a central part of the Republican strategy to confront America’s poverty, but states have powerful incentives to use the money elsewhere.",neutral,0.303430438041687
+2015-10-27,The Republican Party’s Strategy to Ignore Poverty,neutral,-0.07782681286334991
+2015-10-28,"The move by the activist investor, who says he has “a large stake” in the insurer, is the latest challenge for A.I.G., which has already tried to slim down.",neutral,-0.036291688680648804
+2015-10-28,Carl Icahn Pushes A.I.G.,neutral,-0.1181289553642273
+2015-10-28,to Split Up,neutral,-0.015270359814167023
+2015-10-29,"The slower tempo of growth in July, August and September was expected but represents a marked drop from the 3.9 percent pace of expansion in the spring.",negative,-0.9621489644050598
+2015-10-29,U.S. Economy Grew at 1.5% Rate in Third Quarter,positive,0.8693978190422058
+2015-10-30,"A growing body of research confirms that the more time and attention children get from their parents, the better off they’ll be in life and at work.",neutral,0.3165496289730072
+2015-10-30,The Link Between Parenting and Leadership,neutral,0.06808120757341385
+2015-10-31,Some of America’s biggest private foundations are focusing on major issues like climate change and income inequality with an eye toward rapid results.,neutral,0.06901779770851135
+2015-10-31,"Major Foundations, Eager for Big Change, Aim High",neutral,0.06560303270816803
+2015-11-01,"When she bought her car, Tinker Martin-Bowen signed a contract with an arbitration clause that took away her right to a jury trial.",negative,-0.6804090738296509
+2015-11-01,Only later did she realize just what she had given up.,neutral,0.11794465035200119
+2015-11-01,Beware the Fine Print,neutral,-0.04236559569835663
+2015-11-02,A withdrawn donation to the Girl Scouts over their inclusion of transgender girls led to an even greater amount of donations.,positive,0.25129178166389465
+2015-11-02,Gay Issues Enter the World of Philanthropy,neutral,0.01761448383331299
+2015-11-03,"Mr. Cohn, the company’s president, said Goldman Sachs had evolved from private partnership to bank holding company and would find new ways to work in the shifting environment.",positive,0.8216052055358887
+2015-11-03,Gary Cohn Says Goldman Sachs Will Adapt to Survive,positive,0.6455398201942444
+2015-11-04,The WhatsApp site offers instructions for emailing the contents of a conversation in a file to yourself — which could then be printed.,neutral,-0.023291626945137978
+2015-11-04,An Easy Way to Use WhatsApp,neutral,0.061047717928886414
+2015-11-06,"The economy added 271,000 jobs in October, an unexpectedly strong showing, and unemployment dipped to 5 percent.",negative,-0.9615013003349304
+2015-11-06,Strong Growth in Jobs May Encourage Fed to Raise Rates,positive,0.7332887649536133
+2015-11-11,"A look at how the new features in Microsoft’s latest operating system compare with version 8.1, and what to do if you’re getting text messages on your iPad but not your iPhone.",neutral,0.03871777281165123
+2015-11-11,Weighing Benefits of Windows 10 Upgrade,neutral,0.3393842279911041
+2015-11-18,"A look at Do Not Track technology in web browsers, and how to use Google Cardboard effectively.",neutral,0.028610888868570328
+2015-11-18,Covering Your Browser Tracks,neutral,-0.149325430393219
+2015-11-22,The sales of The Financial Times and The Economist for about $2 billion cumulatively raise questions about whether the deals will pay off financially for the buyers.,neutral,-0.18085891008377075
+2015-11-22,Pearson’s Big Paydays Defy the Odds Against Print Media,neutral,0.015104033052921295
+2015-11-24,"The Commerce Department revised its estimate upward, as economic growth for the year is expected to be about 2.5 percent.",positive,0.5926958322525024
+2015-11-24,U.S. Economic Growth for 3rd Quarter Revised Up to 2.1%,positive,0.8677904605865479
+2015-11-25,"The herbicide, which contains the old herbicide 2,4-D, was to be used on crops genetically modified to be resistant to it.",neutral,0.026069965213537216
+2015-11-25,E.P.A.,neutral,0.03660343214869499
+2015-11-25,Revokes Approval of New Dow Herbicide for G.M.O.,positive,0.38249823451042175
+2015-11-25,Crops,neutral,0.0334349051117897
+2015-12-01,"Mr. Parker, 34, is a senior vice president at Marcus & Millichap and the district manager of its tristate region.",neutral,-0.02079589292407036
+2015-12-01,A Conversation With J. D. Parker,neutral,0.027452824637293816
+2015-12-02,Internal solid-state drives and traditional hard drives each have their pros and cons.,neutral,0.019633136689662933
+2015-12-02,But there’s a third choice — a hybrid.,neutral,0.047543711960315704
+2015-12-02,Choosing a Desktop Drive,neutral,0.00196906179189682
+2015-12-03,"Howard Schultz attributes the chain’s recent dazzling performance to the quality of its customers’ experience, and to a newer push toward the high end.",positive,0.795551598072052
+2015-12-03,Starbucks Prospers by Keeping Pace With the Coffee Snobs,positive,0.6904057264328003
+2015-12-04,"The United States economy added 211,000 jobs in November, and the unemployment rate held at 5 percent, bolstering the case for a central bank interest rate hike.",positive,0.6663863658905029
+2015-12-04,Robust Jobs Report All but Guarantees Fed Will Raise Rates,positive,0.42568135261535645
+2015-12-06,"Mr. Williams made kitchenware stylish and helped transform kitchens into gleaming, efficient refectories, making it possible for ordinary cooks to get serious.",positive,0.7131571769714355
+2015-12-06,"Chuck Williams, Founder of Williams-Sonoma, Dies at 100",neutral,-0.21920925378799438
+2015-12-07,A behind-the-scenes effort of Wall Street banks to take over the mortgage market is driven by advocates who switch between roles in Washington and the private sector.,neutral,0.03868973255157471
+2015-12-07,A Revolving Door Helps Big Banks’ Quiet Campaign to Muscle Out Fannie and Freddie,neutral,0.2683984041213989
+2015-12-08,"The changes, added to omnibus spending legislation, would make it harder for some bondholders to challenge out-of-court debt restructuring deals.",positive,0.30241256952285767
+2015-12-08,Law Professors Ask Congress to Delay Changes in Debt Law,negative,-0.7635962963104248
+2015-12-09,"Apple’s Smart Keyboard was designed for its newer, larger iPad Pro tablet, but there are cheaper alternatives.",neutral,0.06538156419992447
+2015-12-09,Choosing an iPad Pro Keyboard,neutral,-0.02698090672492981
+2015-12-10,"Cindy Whitehead and her husband, Robert, formed Sprout in 2011 to acquire flibanserin, which enhances female sexual drive.",neutral,0.04584884271025658
+2015-12-10,Chief of Sprout Is Leaving the Company,neutral,-0.36674854159355164
+2015-12-11,"The all-stock merger of equals caps a record year for deal-making, with more than $4 trillion worth of deals announced.",neutral,0.443859338760376
+2015-12-11,Dow Chemical and DuPont Set Merger and Plans to Split,neutral,0.03826522082090378
+2015-12-14,"It’s possible to download photos in batches from a Flickr account’s Camera Roll page, instead of one by one.",neutral,-0.01584015041589737
+2015-12-14,How to Download a Batch of Photos on Flickr,neutral,-0.03928954154253006
+2015-12-15,The proposed merger and three-way breakup of Dow Chemical and DuPont are impressive feats of financial engineering with doubtful benefits.,positive,0.6454547643661499
+2015-12-15,Remaking Dow and DuPont for the Activist Shareholders,neutral,0.03963246941566467
+2015-12-17,"One executive, Jeff Williams, was promoted to the job of chief operating officer, a position that had gone unfilled since 2011.",neutral,0.06585690379142761
+2015-12-17,Apple Makes Shifts in Senior Management,negative,-0.4161446988582611
+2015-12-20,"Having raised rates this month for the first time in nearly a decade, the Federal Reserve does not have to look far for real-world examples of what to do if plans go awry.",neutral,0.15044637024402618
+2015-12-20,Rates Are Going Up.,neutral,0.2769920825958252
+2015-12-20,What Could Go Wrong?,negative,-0.5137355327606201
+2015-12-22,"There are ways to find the missing messages, or even rebuild the mailbox.",neutral,-0.010586172342300415
+2015-12-22,Locating Missing Mac Mail,neutral,-0.19008758664131165
+2015-12-23,"Jamail, a spirited courtroom performer, found national fame when, representing Pennzoil, he won a $10.5 billion judgment against Texaco in 1994 — a record then.",positive,0.5241398811340332
+2015-12-23,"Joe Jamail, Flamboyant Texas Lawyer Who Won Billions for Clients, Dies at 90",neutral,-0.32369858026504517
+2015-12-28,"The Itasca Project, a private initiative in the Minneapolis-St. Paul area, is quietly shaping the region’s economic agenda while taking on thorny issues like discrimination and income inequality.",neutral,0.23217041790485382
+2015-12-28,"In the Twin Cities, Local Leaders Wield Influence Behind the Scenes",neutral,-0.03211364150047302
+2015-12-29,"If you have reached the end of the free three-month trial of the streaming service and find it is not for you, here’s how to stop the monthly bills.",neutral,-0.05459672957658768
+2015-12-29,Breaking Up With Apple Music,neutral,-0.15099936723709106
+2016-01-04,Google’s Inbox program tries to sort Gmail messages into logical groupings so they are easier to manage — especially on a mobile device.,neutral,-0.015186266973614693
+2016-01-04,Getting Your Gmail Just the Way You Like It,neutral,0.036517105996608734
+2016-01-06,"As president and chairman, Mr. Baldwin expanded the investment bank into a full-service financial brokerage and changed its long-entrenched culture.",positive,0.8518653512001038
+2016-01-06,Robert H.B.,neutral,0.008868575096130371
+2016-01-06,"Baldwin, Transformer of Morgan Stanley, Dies at 95",neutral,-0.12911534309387207
+2016-01-07,"Gregory Fleming could find his skills in demand at BlackRock, American Express or a large United States regional bank.",neutral,0.04015380144119263
+2016-01-07,Morgan Stanley Management Shuffle Puts a C.E.O.,negative,-0.46408069133758545
+2016-01-07,on the Market,neutral,-0.06731826066970825
+2016-01-12,An online questionnaire from Sanford C. Bernstein & Company found that A.I.G.,neutral,-0.007851600646972656
+2016-01-12,investors wanted the insurer to sell or spin off businesses to better focus its operation.,positive,0.4833432137966156
+2016-01-12,A.I.G.,neutral,0.045108746737241745
+2016-01-12,"Investors Unhappy With Insurer’s Strategy, Advisory Firm Says",negative,-0.9480165839195251
+2016-01-13,"Firefox can be customized in several ways, so checking program settings will ensure that the browser is uniform, whether you’re using a Mac or a PC.",neutral,0.037014976143836975
+2016-01-13,Adding Menus and Buttons to Firefox,neutral,0.02618277817964554
+2016-01-18,"With its ability to play virtual instruments and mix tracks into finished songs, the program can appear intimidating, but there are tutorials right on the iPad.",neutral,-0.06716819107532501
+2016-01-18,Finding Your Way Around GarageBand,neutral,0.04226434975862503
+2016-01-19,Microsoft has been enthusiastically recommending upgrading to its Windows 10 operating system.,positive,0.7922442555427551
+2016-01-19,But what if you’d rather not?,neutral,-0.2591146230697632
+2016-01-19,Sticking With Windows 7,neutral,0.0989723652601242
+2016-01-21,California appears to have joined New York in weighing Exxon Mobil’s honesty in admitting to the risks posed by climate change.,positive,0.2711467742919922
+2016-01-21,California Said to Target Exxon in Climate Inquiry,neutral,-0.16396422684192657
+2016-01-26,The new push will take the insurance company only toward mediocrity.,neutral,0.3707733154296875
+2016-01-26,A.I.G.,neutral,0.045108746737241745
+2016-01-26,Does Not Go Far Enough in Overhaul,neutral,-0.0988297238945961
+2016-01-27,"In order to be of use, assistants like Cortana and Siri need to know a lot about you.",neutral,0.0034964662045240402
+2016-01-27,Reading the companies’ privacy statements can give you an idea of how much.,neutral,-0.012494901195168495
+2016-01-27,Protecting Personal Information From Virtual Assistants,neutral,0.014101311564445496
+2016-01-29,Apple has acquired an augmented reality start-up called Flyby Media and hired the former director of the Center for Human-Computer Interaction at Virginia Tech.,neutral,0.08835645765066147
+2016-01-29,Apple Sets Its Sights on Virtual Reality,neutral,0.03482655808329582
+2016-02-01,"You don’t have to be a full-fledged webmaster to share photos, videos and news with family and friends in your own private corner of the Internet.",neutral,-0.004315314814448357
+2016-02-01,Creating a Family Website,neutral,0.08134318143129349
+2016-02-02,"If you make the move from an iPhone to an Android handset, don’t forget to sign out of Apple’s iMessage service before you go.",neutral,0.012474113143980503
+2016-02-02,Taking Texts Back From iMessage,neutral,-0.07432399690151215
+2016-02-05,"When calling cable and phone providers to negotiate better deals, employees of BillFixers impersonate their clients.",negative,-0.8369376063346863
+2016-02-05,"Whatever the ethics of this approach, their negotiating tactics have much to teach.",neutral,0.02808741107583046
+2016-02-05,Tips on Reducing Cable and Phone Bills From Ethically Ambiguous Experts,neutral,0.20826441049575806
+2016-02-08,"Several online tests can help you check the speed of your Internet connection, but be aware of conditions that may affect your results.",neutral,-0.08709855377674103
+2016-02-08,Evaluating Your Broadband Speed,neutral,0.05498482659459114
+2016-02-09,"Apple may have shut down its free streaming radio feature, but other free online stations are available.",negative,-0.599055290222168
+2016-02-09,Finding a Replacement for Free iTunes Radio,neutral,0.046029385179281235
+2016-02-10,The Carlyle Group said it would buy back $200 million worth of shares for the first time in its history as it announced fourth-quarter earnings.,neutral,0.4789051115512848
+2016-02-10,Carlyle Group Reports Drop in Profit and Announces Stock Buyback,negative,-0.9528552889823914
+2016-02-11,"The agreement ends nearly four months of bitter debate pitting Carl Icahn and John Paulson against A.I.G., which has resisted calls to break apart.",negative,-0.6371064186096191
+2016-02-11,A.I.G.,neutral,0.045108746737241745
+2016-02-11,Will Give Board Seats to 2 Activists Who Want a Breakup,neutral,0.04641671106219292
+2016-02-15,"You can automatically sign into Windows 10 without having to type in your password every time, but make sure your computer is in a secure location.",neutral,-0.013903932645916939
+2016-02-15,Starting Windows 10 Without a Password,neutral,-0.2637064754962921
+2016-02-16,"Brian Schreiber, who became chief strategy officer last year, and Seraina Maag, who led the company’s regional management operations, will leave.",neutral,-0.056184254586696625
+2016-02-16,2 More Top Executives to Step Down at A.I.G.,neutral,-0.16893978416919708
+2016-02-17,"Technologists and legal experts are dissecting what the company can’t, or won’t, do to help unlock the iPhone of a San Bernardino attacker.",negative,-0.48112186789512634
+2016-02-17,Explaining Apple’s Fight With the F.B.I.,negative,-0.743912935256958
+2016-02-18,A complicated set of factors influences the reactions of technology companies to government demands to unlock a path to customer data.,neutral,-0.034819185733795166
+2016-02-18,Apple Letter on iPhone Security Draws Muted Tech Industry Response,negative,-0.5584726333618164
+2016-02-19,Republicans and Democrats agree that Congress must act.,neutral,0.22275269031524658
+2016-02-19,But the devil is in the details.,neutral,-0.16883230209350586
+2016-02-19,"Consensus on Need to Revise Tax Code, but Partisan Split on Specifics",negative,-0.5742811560630798
+2016-02-20,Apple’s refusal to help the F.B.I.,negative,-0.8608733415603638
+2016-02-20,break into its secure mobile operating system may benefit its brand in the rest of the world.,positive,0.9117982387542725
+2016-02-20,Apple Sees Value in Its Stand to Protect Security,neutral,0.24589063227176666
+2016-02-21,"As stocks gyrate and venture capital pulls back, many Silicon Valley start-ups of every size remain upbeat, at least about their own prospects.",neutral,-0.129052996635437
+2016-02-21,"Caution Rebuffed, Unicorns and Other Start-Ups Fixate on Rainbows",neutral,0.030773527920246124
+2016-02-22,The question is how the courts will apply constitutional protections drafted in the 18th century to deal with the rapidly changing world of digital technology.,neutral,0.09946620464324951
+2016-02-22,Apple Showdown Heightens Challenge of Encrypted Data,neutral,0.22931092977523804
+2016-02-23,"If you have purchased books on an Amazon Kindle e-reader, you can download the collection onto your iPad with the iOS Kindle app.",neutral,0.015465614385902882
+2016-02-23,Loading the Kindle Library on an iPad,neutral,-0.07951086759567261
+2016-02-24,"Martin Baron, now The Washington Post’s top editor, was the latest to weigh in, saying he’d be rooting for the movie at the Oscars this Sunday.",neutral,-0.04958316683769226
+2016-02-24,‘Spotlight’ Journalists Grapple With Big-Screen Portrayals,neutral,-0.30711135268211365
+2016-02-25,The results of J.D.,neutral,-0.008795712143182755
+2016-02-25,Power’s latest survey on vehicle dependability suggest there is a long way to go before self-driving cars become practical.,neutral,0.10442738234996796
+2016-02-25,Technology Problems Top a List of Car Complaints,negative,-0.5158918499946594
+2016-02-26,Apple’s chief received a standing ovation on Friday for opposing a court order requiring Apple to help law enforcement officials break into an iPhone.,negative,-0.7708141803741455
+2016-02-26,Apple Shareholders Show Their Support for Tim Cook,positive,0.49456170201301575
+2016-02-27,The encryption debate and the government’s legal action against Apple have created more tension between the company and the Obama administration.,negative,-0.9161953926086426
+2016-02-27,Apple’s Privacy Fight Tests Relationship With White House,negative,-0.8629580140113831
+2016-02-29,"Apple’s Continuity software makes it easy to get iPhone calls on your Mac and other iOS devices, but you can turn it off.",neutral,-0.05651739239692688
+2016-02-29,Making the Mac Ignore Those Phone Calls,neutral,-0.31340616941452026
+2016-03-01,You can see what software and security patches Microsoft has pushed out to your PC by looking in the Windows Update history.,neutral,-0.005540192127227783
+2016-03-01,Keeping Track of Windows Updates,neutral,0.029032614082098007
+2016-03-02,"A panel of design professionals found that despite the tablet’s size, they still had to turn to a computer for more powerful apps.",negative,-0.28678879141807556
+2016-03-02,"For Some, iPad Pro Can’t Match PC Strengths",negative,-0.8079963326454163
+2016-03-03,Apple’s legal battle with the government tests the limits of law enforcement agencies’ access to personal data.,negative,-0.7031505703926086
+2016-03-03,Apple Is Rolling Up Backers in iPhone Privacy Fight Against F.B.I.,positive,0.46880561113357544
+2016-03-04,Workers and retirees at the Tennessee Valley Authority may see their benefits cut even as executives spare their own supplemental pension plan.,negative,-0.9345486760139465
+2016-03-04,"Pension Benefit Cuts Planned at T.V.A., Breaking a Federal Firewall",positive,0.3275032341480255
+2016-03-07,There is a reason Twitter allows 20 fewer characters in a post than a standard SMS text message.,neutral,-0.33978667855262756
+2016-03-07,Counting Characters in Twitter,neutral,-0.021937333047389984
+2016-03-08,Google is retiring the free photo-editing program and urging its users to give the newer Google Photos software a try.,negative,-0.4697447717189789
+2016-03-08,The End of the Road for Picasa,neutral,0.016443654894828796
+2016-03-11,"He covered stories from the Suez crisis to segregation, then trained his sharp eye on journalism itself, and its increasingly corporate character.",neutral,0.04115761071443558
+2016-03-11,"Ben H. Bagdikian, Reporter of Broad Range and Conscience, Dies at 96",neutral,-0.11165035516023636
+2016-03-14,"If you miss the digital-video recording functions of Windows Media Center, you can find other ways to watch and record your favorite broadcast shows.",neutral,-0.039821602404117584
+2016-03-14,Recording Live Television in Windows 10,neutral,0.03251037001609802
+2016-03-15,"Apple’s e-books program for OS X includes tools for making margin notes, highlighting passages and sharing your favorite parts of the story.",neutral,0.0020392686128616333
+2016-03-15,Marking Up a Mac’s iBook Pages,neutral,-0.05421431362628937
+2016-03-19,"As factory jobs move abroad, the divide between the political and economic elite and the rest of Americans widens, placing the two groups at odds.",negative,-0.8325067758560181
+2016-03-19,"Carrier Workers See Costs, Not Benefits, of Global Trade",neutral,-0.18141934275627136
+2016-03-21,"At a news conference to unveil smaller versions of the iPhone and iPad, Tim Cook, the chief executive, addressed the company’s fight with the F.B.I.",negative,-0.7894877791404724
+2016-03-21,Apple’s Modest Product Upgrades Take Back Seat to Worries on iPhone Encryption,negative,-0.6383765935897827
+2016-03-22,"After a nasty Android bug surfaced last summer, Google has been sending out monthly updates for the software on its Nexus hardware.",negative,-0.44369184970855713
+2016-03-22,Keeping Up With Android Security Patches,neutral,0.28993138670921326
+2016-03-23,"Now that a third party claims to have cracked the iPhone’s encryption, Apple may need to revisit how it safeguards its products.",negative,-0.595163106918335
+2016-03-23,"For Apple, Potential Flaw May Be a Wake-Up Call",negative,-0.5697041749954224
+2016-03-24,"The plan falls short of permission for the island to restructure its $72 billion debt, and would involve close federal oversight.",neutral,-0.3811492323875427
+2016-03-24,"Plan to Rescue Puerto Rico Advances, Led by House Republicans",neutral,0.35437721014022827
+2016-03-25,Using plastic instead of dollars encourages consumers to pay more for everyday items than they might otherwise.,positive,0.5469632148742676
+2016-03-25,Credit Cards Encourage Extra Spending as the Cash Habit Fades Away,neutral,0.2814134657382965
+2016-03-28,"Typing on a glass screen is not for everyone, but you can link a portable keyboard to your Android tablet for heavy-duty data entry.",neutral,-0.027624720707535744
+2016-03-28,Using a Hardware Keyboard With an Android Device,neutral,-0.026749132201075554
+2016-03-29,"After you have taken the time to mark up an iBook, you can pull out a copy of your highlights and notes for later use.",neutral,-0.005603279918432236
+2016-03-29,Saving Notes and Highlights in iBooks,neutral,0.04053007438778877
+2016-03-30,"The company lacks information on the method used to break into the iPhone of a gunman in San Bernardino, Calif.",neutral,-0.2329283356666565
+2016-03-30,Apple’s New Challenge: Learning How the U.S. Cracked Its iPhone,neutral,0.0835193395614624
+2016-04-01,"“This is close to a Goldilocks scenario,” one analyst said, pointing out that hiring and wage gains were strong, but not too strong, as the economy continues to heal.",positive,0.8639371991157532
+2016-04-01,Jobs and Wages Notch Gains as the Economy Tries to Heal,positive,0.6224896311759949
+2016-04-04,"If you miss some of the handy shortcuts from earlier versions of Windows, you can easily add them.",neutral,-0.0947558656334877
+2016-04-04,Adding Links to the Windows 10 Start Menu,neutral,0.023680973798036575
+2016-04-05,"The newest Apple set-top boxes come with storage space for the programs you download, but you can delete those added apps if space gets tight.",neutral,-0.046266086399555206
+2016-04-05,Clearing Space on the Apple TV,neutral,-0.008255116641521454
+2016-04-11,"Microsoft’s Edge browser comes with a tool that lets you scribble, highlight and make other notations on your personal copy of an open web page.",neutral,-0.013508258387446404
+2016-04-11,Marking Up Web Pages in Windows 10,neutral,0.013964317739009857
+2016-04-12,"Though the bank’s book value has grown, shares trade about 4 percent below their level of five and 10 years ago.",negative,-0.9491568803787231
+2016-04-12,Goldman Should Expect Its Stock to Stay in a Rut,neutral,0.12451528012752533
+2016-04-13,"The new $289 Kindle Oasis e-reader has an asymmetrical shape meant to mimic a book, and includes a case with a battery that extends charge time.",neutral,0.04642936959862709
+2016-04-13,Kindle Oasis From Amazon Promises ‘Months and Months’ of Battery Life,neutral,0.19747641682624817
+2016-04-15,The world’s largest investment manager has the power to change companies’ short-terms ways by voting to curb C.E.O.,neutral,0.004719624295830727
+2016-04-15,"pay, but it rarely exercises it.",neutral,-0.09053676575422287
+2016-04-15,BlackRock Wields Its Big Stick Like a Wet Noodle on C.E.O.,neutral,-0.042087141424417496
+2016-04-15,Pay,neutral,0.012934818863868713
+2016-04-16,"XIO Group, a private equity firm, has agreed to buy J.D.",neutral,0.2922108471393585
+2016-04-16,"Power and Associates, best known for providing consumer surveys in more than a dozen industries.",neutral,0.03116040676832199
+2016-04-16,McGraw Hill to Sell J.D.,neutral,0.010499803349375725
+2016-04-16,Power for $1.1 Billion,neutral,0.01719067618250847
+2016-04-18,You can add a picture from your iPhone’s photo library to a person’s address card in the Contacts app with just a few taps.,neutral,-0.010523049160838127
+2016-04-18,Putting Faces to Names in the iPhone Contacts App,neutral,0.004314221441745758
+2016-04-19,"Google’s free apps offer an easy way to keep your data current on all your screens, but third-party software can work, too.",neutral,0.029654551297426224
+2016-04-19,Keeping Your Android Files in Sync With a Computer,neutral,-0.030150016769766808
+2016-04-21,A 2013 deal between the besieged blood-test lab and the drugstore giant was intended to make Theranos wellness centers an integral part of Walgreens.,positive,0.724292516708374
+2016-04-21,A Marriage Gone Bad: Walgreens Struggles to Shake Off Theranos,negative,-0.9116781949996948
+2016-04-22,"Amy Haimerl and Karl Kaebnick have gone into debt for a house valued at $100,000 less than they’ve spent.",negative,-0.7475178241729736
+2016-04-22,But they love it.,neutral,0.09676559269428253
+2016-04-22,"In a Big Hole for a Detroit House, but Happy",neutral,-0.05437501519918442
+2016-04-23,"Companies are becoming adept at identifying wealthy customers and marketing to them, creating a money-based caste system.",positive,0.5136364698410034
+2016-04-23,"In an Age of Privilege, Not Everyone Is in the Same Boat",neutral,-0.09046606719493866
+2016-04-25,Apple’s abandoned QuickTime multimedia software for Windows can put a PC’s security at risk,negative,-0.7390758991241455
+2016-04-25,Removing QuickTime for Windows in a Hurry,negative,-0.5166177749633789
+2016-04-26,"Revenue fell 13 percent, to $50.6 billion, as sales of the company’s flagship product fell with little else to take its place.",negative,-0.9653769731521606
+2016-04-26,"IPhone Sales Drop, and Apple’s 13-Year Surge Ebbs",negative,-0.9427328705787659
+2016-04-28,The trajectory of the economic recovery remains frustratingly uneven nearly seven years after it began — but plenty is going right at the same time.,neutral,0.0005791336297988892
+2016-04-28,The Recovery’s Two Sides: Weak Growth Even as Hiring Surges,negative,-0.9190565347671509
+2016-04-29,"As a May 1 deadline nears, terms of a bill to rescue the island are unresolved, risking greater injury to its ailing economy.",negative,-0.9012557864189148
+2016-04-29,Puerto Rico Debt Deadline Looms With Washington Still Haggling,negative,-0.6571895480155945
+2016-04-30,"Mr. Belli’s Weather King, so named because it was impervious to humid conditions, largely replaced animal hides and helped feed rock ’n’ roll fever.",neutral,0.04733549803495407
+2016-04-30,"Remo Belli, Who Developed Synthetic Drumhead and Changed Music, Dies at 88",neutral,-0.1622776985168457
+2016-05-02,"Instagram’s default settings make accounts public for the world to see, but you can choose to share your photos with only approved followers.",neutral,-0.018185466527938843
+2016-05-02,Sharing Your Instagram Feed (or Not),neutral,-0.043001312762498856
+2016-05-03,"If you no longer own some of the computers authorized to play your iTunes Store purchases, you can wipe the slate clean and start over.",neutral,-0.0844435915350914
+2016-05-03,Resetting the iTunes Authorization Counter,neutral,0.016078542917966843
+2016-05-06,"After racing ahead for many months, the jobs machine cooled a bit, but wages continued to climb steadily.",positive,0.060514479875564575
+2016-05-06,"U.S. Added 160,000 Jobs Last Month as Brisk Hiring Slowed",negative,-0.6110503673553467
+2016-05-09,"Malicious programs are locking up files and demanding money, but awareness and antivirus software can help protect your PC.",negative,-0.48273906111717224
+2016-05-09,Dodging the Computer Kidnappers,neutral,-0.15894779562950134
+2016-05-10,The Touch ID sensor that unlocks Apple’s mobile devices can obey more than one finger.,neutral,-0.03465455770492554
+2016-05-10,Adding More Fingerprints to iPhone Sensors,neutral,0.07322864234447479
+2016-05-16,"The service’s mobile app still offers its classic square shape for sharing pictures, but allows photos in the landscape and portrait formats as well.",neutral,0.0526002012193203
+2016-05-16,Shape-Shifting in Instagram,neutral,-0.06289196759462357
+2016-05-17,"The social network, which had already been criticized for the voicing of liberal views by top executives, is now rebutting claims that its news curators engaged in anti-conservative bias.",negative,-0.9052927494049072
+2016-05-17,Facebook Moves to Repair Its Fractured Relationship With the Right,negative,-0.647097110748291
+2016-05-19,Mr.,neutral,0.04346195608377457
+2016-05-19,"Safer was on the CBS show for 46 years, and as a TV correspondent brought the horrors of the Vietnam War into America’s living rooms.",neutral,0.017768707126379013
+2016-05-19,"Morley Safer, Mainstay of ‘60 Minutes,’ Is Dead at 84",negative,-0.5109109878540039
+2016-05-21,"Much of what Donald Trump vows to accomplish in his first 100 days, if elected, is not feasible.",neutral,-0.2979537546634674
+2016-05-21,But that doesn’t mean he wouldn’t have room to maneuver.,neutral,-0.20513907074928284
+2016-05-21,Economic Promises a President Trump Could (and Couldn’t) Keep,neutral,-0.2568458318710327
+2016-05-23,Google’s own camera app for Android can do much more than just snap standard still photos.,neutral,0.03429911285638809
+2016-05-23,Going Wide With Google Camera,neutral,0.17089511454105377
+2016-05-24,"Like Apple and Google have done for their own gadgets, Microsoft has a way for users to track down missing Windows 10 hardware.",neutral,0.023593522608280182
+2016-05-24,Locating a Lost Windows Device,neutral,-0.12799590826034546
+2016-05-26,"An aging iPhone, a tepid stock price and a pile of idle cash, however, could make even a mediocre idea look awfully tempting.",negative,-0.740245521068573
+2016-05-26,Rethinking Apple’s Recipe for Success,neutral,0.1267586648464203
+2016-05-27,"The growth rate for the first quarter was revised upward to 0.8 percent, mirroring other signs of improvement, but some areas were still struggling.",negative,-0.8043898344039917
+2016-05-27,"U.S. Economy Better Than Thought, but Still Weak",negative,-0.21150702238082886
+2016-05-30,"The social network routinely invites users to nostalgically review older timeline posts, but not everyone wants to be reminded of the past.",neutral,-0.14906848967075348
+2016-05-30,Suppressing Facebook’s ‘Memories’,neutral,-0.3171793818473816
+2016-05-31,Apple’s built-in camera app for its iOS devices includes controls for zooming and other fine-tuning — if you know where to tap.,neutral,0.019272509962320328
+2016-05-31,Getting Up Close With the iOS Camera,neutral,0.04176769778132439
+2016-06-06,The version of the Start Menu included with Windows 10 gives you more control over both the size of your app tiles and the menu itself.,neutral,0.06349421292543411
+2016-06-06,Expanding the Start Menu,neutral,0.2372279167175293
+2016-06-07,"Google makes a version of its predictive assistant software for Apple devices, but the native Android version has more features.",neutral,0.001035960391163826
+2016-06-07,Using Google Now for iOS,neutral,-0.005713548511266708
+2016-06-13,"Wi-Fi Assist in iOS 9 can keep your device connected to the internet even when your wireless network signal is wobbly, but you may have to pay for it.",neutral,-0.08283942192792892
+2016-06-13,Keeping an iPhone Online When the Signal Is Weak,neutral,-0.06505893915891647
+2016-06-14,"Microsoft’s latest version of Windows has its own style, but you can still use Jump Lists and find recently opened files quickly.",neutral,-0.0026993732899427414
+2016-06-14,Checking Your Windows 10 Lists,neutral,-0.10090205073356628
+2016-06-20,"While the stores are not expected to have a large impact on the company’s market share in India, some analysts say the change could help Apple attract the top tier of India’s smartphone buyers.",positive,0.8956024646759033
+2016-06-20,Apple May Soon Open Retail Stores in India,neutral,0.08278080075979233
+2016-06-21,"In addition to its chat powers, Facebook Messenger can send payments to friends once everyone’s debit cards are linked to the service.",neutral,0.02179953083395958
+2016-06-21,Moving Money by Messenger,neutral,0.030821725726127625
+2016-06-23,"With the help of Periscope, a live video streaming app, and Facebook Live, the cable network that covers Congress got its story.",neutral,0.3636239469051361
+2016-06-23,"C-Span Delivers on Sit-In, Even With Cameras Off",neutral,0.05814685672521591
+2016-06-25,Britain’s vote to leave the E.U.,negative,-0.5605229735374451
+2016-06-25,"may not bring recession to the U.S., but it could mark the end of a period of economic integration and open markets.",negative,-0.6123195290565491
+2016-06-25,‘Brexit’ in America: A Warning Shot Against Globalization,negative,-0.36100834608078003
+2016-06-27,"If you do not want the world to see what you post on your timeline page, use the site’s settings to keep your thoughts out of public view.",neutral,-0.07123242318630219
+2016-06-27,Limiting Your Facebook Audience,neutral,-0.18352475762367249
+2016-06-28,Some streaming services now allow temporary downloads of certain videos to watch when you do not have internet access.,neutral,-0.0036082807928323746
+2016-06-28,Downloading Video Streams to Go,neutral,-0.03455059602856636
+2016-07-04,Sharing your location with your apps and operating system has its advantages.,neutral,0.12644965946674347
+2016-07-04,"But if you’d rather not, you can disable the function.",neutral,-0.1868804395198822
+2016-07-04,Hiding From Windows 10,neutral,-0.2229204922914505
+2016-07-05,The Instagram mobile app offers an easy way to automatically post the same photo and caption information on your other social networks.,neutral,0.06773082911968231
+2016-07-05,One Photo in Many Places,neutral,-0.10659679770469666
+2016-07-09,"Hain Celestial Group occupies space in Lake Success, N.Y., that once housed Sperry Gyroscope Company and the United Nations.",neutral,0.0010167527943849564
+2016-07-09,"Where U.N. Once Deliberated, Sage Counsel From Elmo and Grover",neutral,-0.010359134525060654
+2016-07-10,"The tax plan shepherded by House Speaker Paul Ryan would fundamentally change the system, but both plans reduce taxes on capital gains and high incomes.",neutral,0.31143301725387573
+2016-07-10,What Trump and the G.O.P.,neutral,-0.169076606631279
+2016-07-10,Can Agree On: Tax Cuts for the Rich,neutral,0.10367034375667572
+2016-07-11,Using your phone’s cellular signal as an internet connection for your computer gets you online — but can chew through your monthly data allowance.,neutral,-0.4169241786003113
+2016-07-11,Burning Data With a Hot Spot,neutral,-0.22032621502876282
+2016-07-12,"Microsoft restricted its virtual helper to work only with its Edge browser and Bing search engine, but you can do voice searches right in Google’s browser.",neutral,-0.0817876011133194
+2016-07-12,Voice Searches With Cortana or Chrome,neutral,-0.07633672654628754
+2016-07-14,"Despite the decline, the company’s assets under management — a telling financial indicator — grew 4 percent, ending the quarter at $4.9 trillion.",positive,0.9239007830619812
+2016-07-14,BlackRock Reports Dip in Quarterly Profit,negative,-0.9112797379493713
+2016-07-18,"Apple’s virtual assistant has the ability to learn as it works, but you have ways to correct some of its common mistakes to speed up the process.",neutral,0.05901008099317551
+2016-07-18,Making Siri Spell Your Name Right,neutral,-0.02633436769247055
+2016-07-19,"Some web pages are coded to automatically open links in new windows, but you can also use keyboard tricks with your mouse clicks to pop open new pages.",neutral,-0.006848465651273727
+2016-07-19,Opening Links in New Windows,neutral,0.010313071310520172
+2016-07-21,"Mr. Case, a professor at Wellesley College, worked with a Yale economist to develop the Case-Shiller Index to track home values in an opaque market.",neutral,0.12791228294372559
+2016-07-21,"Karl Case, Economist Who Developed Home Price Index, Dies at 69",neutral,-0.24051615595817566
+2016-07-25,"Early versions of Microsoft’s new browser did not include support for extensions, but the next big update to Windows 10 brings extensions and more.",neutral,0.05096299946308136
+2016-07-25,Getting Extensions for Edge,neutral,0.02241942286491394
+2016-07-26,"Apple’s Photos for OS X has a button for one-click improvements to your pictures, but it also includes a toolbox for more detailed adjustments.",neutral,-0.002536376938223839
+2016-07-26,Easy Editing for Mac Photos,neutral,0.004305984824895859
+2016-07-29,"The data was only a slight improvement from the first quarter and showed how weaker government outlays held back growth, reinforcing a trend that has hobbled the recovery in recent years.",negative,-0.63088059425354
+2016-07-29,"Disappointing 2nd-Quarter Growth, Despite Strong Consumer Spending",negative,-0.9586132168769836
+2016-08-01,Facebook Live makes it easy to stream real-time video from your mobile device to everybody in your world — or the world at large.,neutral,0.006742395460605621
+2016-08-01,Sharing Video Streams on Facebook,neutral,-0.025170693174004555
+2016-08-02,A law taking effect in 2018 requires employers to offer a compensation figure upfront in an effort to end the wage gap between men and women.,neutral,-0.12231570482254028
+2016-08-02,Illegal in Massachusetts: Asking Your Salary in a Job Interview,negative,-0.4716924726963043
+2016-08-05,The new data undercuts Republican arguments that the recovery is faltering and suggests that workers are seeing benefits from the drop in unemployment.,negative,-0.7816225290298462
+2016-08-05,"Strong Job Gains, for Second Month, Reframe Economic Outlook",positive,0.6537600159645081
+2016-08-08,"Microsoft’s Windows 10 Anniversary Update has just landed, but even if you chose the Express Settings during setup, you can still make adjustments.",neutral,0.010645471513271332
+2016-08-08,Taking the Windows 10 Express,neutral,0.028838537633419037
+2016-08-09,"Google Maps pulls in data from several places, including crowd-sourced highway reports from its Waze service, to warn you what’s up the road.",neutral,-0.02379262074828148
+2016-08-09,Personalized Traffic Alerts From Google,neutral,0.03541857376694679
+2016-08-15,"Google owns both mapping and navigation apps, but Google Maps and Waze take their own approach to getting you to your destination.",neutral,-0.0022231750190258026
+2016-08-15,Which Co-Pilot to Choose: Google Maps or Waze?,neutral,0.010447468608617783
+2016-08-16,"Mr. Boire, who led the troubled bookseller for a little less than a year, is the third chief executive to leave in just three years.",neutral,-0.4462070167064667
+2016-08-16,Ronald D. Boire Steps Down as Chief of Barnes & Noble,neutral,-0.04882333427667618
+2016-08-18,A Federal Reserve Bank of New York analysis suggests this may signal a turnabout in a long but lackluster economic recovery.,negative,-0.5076643824577332
+2016-08-18,Middle-Income Jobs Finally Show Signs of a Rebound,positive,0.25822126865386963
+2016-08-19,"Investors were stunned when Hain said it had an accounting problem, but clues to oversight problems had been evident for a while in the company’s excessive executive pay.",negative,-0.9457626342773438
+2016-08-19,Bloated Pay Came Before Hain Celestial’s Error,negative,-0.4874259829521179
+2016-08-22,The social network includes an option in the settings for displaying nicer-looking versions of the pictures you upload from your phone.,neutral,0.00841686874628067
+2016-08-22,Get Your Photos Looking Better on Facebook,neutral,0.13194037973880768
+2016-08-23,"If your mobile gadget has a good camera and you have the right app, you do not need anything more to make quick digital copies of documents.",neutral,0.04376302659511566
+2016-08-23,Turn Your Smartphone Into a Pocket Scanner,neutral,-0.018438216298818588
+2016-08-24,"Big data centers for the likes of Apple, Facebook and Google are increasing the demand for renewable energy, which may spur the construction of green facilities.",positive,0.8200207948684692
+2016-08-24,"Daily Report: More Clean Energy, Brought to You by the Cloud",neutral,0.2576644718647003
+2016-08-26,"Abbott is acquiring Alere, which makes medical tests, and St. Jude Medical, which makes cardiovascular devices.",neutral,0.07239039987325668
+2016-08-26,The deals have been hampered by inquiries into sales practices and concerns over some devices being vulnerable to cyberattacks.,negative,-0.9589887857437134
+2016-08-26,"Abbott’s No Good, Very Bad M&A Week",negative,-0.8292206525802612
+2016-08-29,"Beaming contacts is a modern way of exchanging information, but you can also convert those cardboard rectangles into handy electronic files.",neutral,0.03200240060687065
+2016-08-29,Transforming Paper Business Cards Into Digital Contacts,neutral,0.20029853284358978
+2016-08-30,"The health of consumer spending, corporate profits and whether there will be a rebound in growth are some of the topics generating disparate views.",neutral,-0.07069677114486694
+2016-08-30,Economists Discuss the Predictions That Divide Them,neutral,0.012794632464647293
+2016-08-31,Alere Says Abbott has buyer’s remorse; Abbott says Alere stalled on obtaining key regulatory approvals to close the transaction.,neutral,0.09437897801399231
+2016-08-31,"In the Almost Marriage of Abbott and Alere, Both Sides Point Fingers",neutral,0.04110785201191902
+2016-09-01,The company’s chief executive said in an interview with an Irish broadcaster that the European Union’s tax decision was “maddening” and politically motivated.,negative,-0.805703341960907
+2016-09-01,"Tim Cook, Apple Chief, Defends Tax Practices and Says Cash Will Return to U.S.",neutral,-0.023490190505981445
+2016-09-02,"The country’s cabinet unanimously agreed to fight the $14.5 billion decision, and politicians are expected to debate it next week.",negative,-0.16934022307395935
+2016-09-02,Ireland to Appeal Tax Ruling in Apple Case,negative,-0.851373016834259
+2016-09-05,"A chief executive’s political leanings may significantly influence whom workers donate to and choose at the polls, a study found.",neutral,-0.015971869230270386
+2016-09-05,Whom to Vote For?,neutral,-0.01541116088628769
+2016-09-05,Employees Tend to Follow Their Leader,neutral,-0.008978575468063354
+2016-09-06,"If you have to manage meetings in different parts of the world, you can make Google Calendar show two or more time zones at once in your browser.",neutral,-0.055919110774993896
+2016-09-06,Living in Two Time Zones With Google Calendar,neutral,0.02605552226305008
+2016-09-07,"Apple announced the release of its newest smartphone, the iPhone 7.",neutral,0.43036088347435
+2016-09-07,The new model replaces its headphone jack with  a Lightning connector and includes an improved camera.,neutral,0.379969984292984
+2016-09-07,Apple Unveils iPhone 7,neutral,0.1346954107284546
+2016-09-13,J.D.,neutral,0.04287855699658394
+2016-09-13,"Biersdorfer and Brian X. Chen answer questions about the coming iPhone 7 and 7 Plus, and the new Apple Watch.",neutral,0.05765560641884804
+2016-09-13,Readers Ask About Apple’s New iPhone and Watch,neutral,0.0445532500743866
+2016-09-15,Laurence Fink blew $100 million in 1986.,neutral,-0.29852569103240967
+2016-09-15,"Since then, as chief of BlackRock, he has built his firm into the world’s largest asset manager and changed the balance of power on Wall Street.",positive,0.772815465927124
+2016-09-15,"At BlackRock, a Wall Street Rock Star’s $5 Trillion Comeback",neutral,0.09080688655376434
+2016-09-16,Samsung’s new smartphone has a serious battery defect and owners should exchange the device as soon as possible.,negative,-0.6332184076309204
+2016-09-16,What to Do if You Have a Samsung Galaxy Note 7,neutral,0.009354934096336365
+2016-09-20,"Tesla is innovating in self-driving cars, solar energy and fast people-movers, but has a cash-flow problem.",negative,-0.9289119839668274
+2016-09-20,"Apple is seen as lagging in ideas, but is flush with dormant money.",neutral,0.07516258955001831
+2016-09-20,How Tesla and Apple Could Be Good for Each Other,neutral,0.25046420097351074
+2016-09-24,Readers comment on “This Man Oversees $5 Trillion” (Sept. 18).,neutral,0.033002957701683044
+2016-09-24,$5 Trillion and Rising,neutral,0.08439433574676514
+2016-09-26,"Microsoft ended its free upgrade offer for the operating system in July, but there are other ways to get the software.",neutral,0.0355057530105114
+2016-09-26,So Now You Want Windows 10 …,neutral,0.033037517219781876
+2016-09-27,"Apple’s operating system provides an easy menu shortcut for sharing links, photos and other content, and you can customize your list of options.",neutral,0.005737233906984329
+2016-09-27,Make the Mac’s Share Menu More Useful,neutral,0.11147899925708771
+2016-10-03,The company’s recent announcement of a large-scale security breach has many people asking questions.,negative,-0.9170650839805603
+2016-10-03,Still Waiting to Hear From Yahoo,neutral,0.009125880897045135
+2016-10-04,"Amazon accepts returns for many of the things it sells, including — under certain circumstances — Kindle books.",neutral,0.06702014058828354
+2016-10-04,Getting Your Money Back for a Digital Book,neutral,0.08915677666664124
+2016-10-07,"Some top private equity firms have been accused of putting their interests ahead of their clients’, but state pension officials still do business with them.",negative,-0.5117425918579102
+2016-10-07,Wells Fargo Isn’t the Only Firm That Needs a Lesson,neutral,0.05137338489294052
+2016-10-10,"When it suits you, you can unlock the New Message form from the corner of the browser and compose your thoughts in a different window.",neutral,-0.025433115661144257
+2016-10-10,Freeing the Gmail New Message Window,neutral,0.03844651207327843
+2016-10-11,"Microsoft pushed out a big update to its operating system this summer, and you can confirm whether your PC has it through a few quick steps.",neutral,0.38480663299560547
+2016-10-11,Checking for the Windows 10 Anniversary Update,neutral,-0.03024549037218094
+2016-10-17,Thousands of public libraries around the country offer digital content you can borrow for a short period to use on your mobile device and computer.,neutral,0.004853725433349609
+2016-10-17,Guide for Borrowing Library Books on Your Phone and Tablet,neutral,-0.032402656972408295
+2016-10-18,"Every iCloud user gets five free gigabytes of server space from Apple, but when space gets tight, you either have to prune or pay.",neutral,-0.10675409436225891
+2016-10-18,When You Outgrow Your iCloud Storage,neutral,-0.02365507185459137
+2016-10-19,"The exposure of the Clinton campaign’s internal emails shows that a ubiquitous, and vulnerable, communication tool is ready for the scrap heap.",neutral,0.027126923203468323
+2016-10-19,"Whoever Wins the White House, This Year’s Big Loser Is Email",neutral,-0.03407125920057297
+2016-10-20,A hotel project in Texas promotes a connection to “the world’s leading developer” and a path to a visa in the United States.,positive,0.698180615901947
+2016-10-20,"Luring Chinese Investors With Trump’s Name, and Little Else",neutral,-0.20981617271900177
+2016-10-24,The merger of the online stockbrokers still leaves such companies vulnerable to the competition of index investing and automation of advice.,negative,-0.8182043433189392
+2016-10-24,TD Ameritrade’s Deal With Scottrade Is a Temporary Fix,neutral,0.00891299918293953
+2016-10-25,New settings in the popular photo-sharing service allow you to filter out profanity and other offensive language from comments on your own photos.,neutral,-0.08617035299539566
+2016-10-25,How to Clean Up Instagram Comments,neutral,-0.14288003742694855
+2016-10-26,"If the company’s forecast is accurate, it will mark a turnaround from what has been a disappointing year for the Silicon Valley giant.",positive,0.9031380414962769
+2016-10-26,"Apple Predicts a Big Holiday Bounce After Its Biggest Rival, Samsung, Falters",negative,-0.29889002442359924
+2016-10-28,This report and the monthly unemployment figures next week are the last snapshots of the overall economy before voters go to the polls on Nov. 8.,neutral,-0.048518162220716476
+2016-10-28,"U.S. Economy Grew 2.9% in 3rd Quarter, Picking Up the Pace",positive,0.9083727598190308
+2016-10-31,"If you find yourself wasting too much time online when you really need to be working, you have many ways to force yourself (temporarily) offline.",negative,-0.8325244784355164
+2016-10-31,Escape the Web and Get Things Done,neutral,0.1467151939868927
+2016-11-01,"If your phone’s photo album is getting too full, you can send your pictures to a safe place — with or without a computer.",neutral,-0.3161547780036926
+2016-11-01,Transfer Smartphone Photos to a Flash Drive,neutral,0.017803914844989777
+2016-11-07,"Environmental groups urged the banks to halt loan payments to the Dakota Access pipeline, which they say threatens Native American lands and has no place in a world fighting climate change.",negative,-0.900164008140564
+2016-11-07,Environmentalists Target Bankers Behind Pipeline,neutral,-0.31681007146835327
+2016-11-08,"If you find yourself squinting to read mail and web pages on your smartphone, you can bump up the font size to give your eyes a break.",neutral,-0.3041362762451172
+2016-11-08,Make Your Phone Easier to Read,neutral,0.020941637456417084
+2016-11-11,"As head of the Center for Auto Safety, Mr. Ditlow exposed hundreds of automotive defects and was instrumental in forcing the recall of millions of vehicles.",neutral,0.03327888995409012
+2016-11-11,"Clarence M. Ditlow III, Auto Safety Crusader, Dies at 72",neutral,-0.14910875260829926
+2016-11-12,"Tax reform is one thing President-elect Donald J. Trump and Speaker Paul Ryan can agree on, broadly, though the specifics can get thorny.",neutral,0.08838877081871033
+2016-11-12,Trump and Congress Both Want Tax Cuts.,neutral,0.014323800802230835
+2016-11-12,The Question Is Which Ones.,neutral,-0.1022316962480545
+2016-11-14,"Most devices connect to the television through an HDMI port, but you can find gear to work with the composite connections used by legacy TV sets.",neutral,0.03031601756811142
+2016-11-14,How to Stream Video on an Older TV,neutral,0.02723541110754013
+2016-11-15,"If you’d like to keep the young ones from seeing inappropriate material in search results, make sure the built-in filter is enabled.",neutral,-0.010490557178854942
+2016-11-15,Give Children a Safer Searching Experience,neutral,0.18607787787914276
+2016-11-19,Readers comment on “Can Trump Save Their Jobs?” (Nov. 13).,neutral,0.025530487298965454
+2016-11-19,Carrier Workers for Trump,neutral,-0.256952166557312
+2016-11-21,"Microsoft’s Windows Movie Maker app is headed for retirement next year, but an updated version is promised and other programs may fill the void.",neutral,-0.19338464736938477
+2016-11-21,Making Movies With Windows 10,neutral,0.03425519913434982
+2016-11-22,"As part of its response to online abuse, the service now allows users to mute hashtags, keywords and other material from their notifications.",neutral,-0.2251613736152649
+2016-11-22,Using Twitter’s New Expanded Mute Powers,neutral,0.035745538771152496
+2016-11-23,"Publishing houses were caught off-guard by Donald Trump’s win on Election Day, and editors, agents and publishers are now racing to acquire works like memoirs and political analysis.",negative,-0.8565069437026978
+2016-11-23,Book Publishers Scramble to Make Sense of Trump’s Rise to Victory,neutral,-0.07125765085220337
+2016-11-24,"Donald J. Trump, who had made coming job losses at a Carrier plant a campaign issue, said he had reached out to the company.",neutral,0.20115864276885986
+2016-11-24,Trump Cites Progress in Keeping Carrier Air Conditioning Plant in Indiana,positive,0.8317868709564209
+2016-11-26,Two factories in Indiana were slated to close and their jobs moved to Monterrey.,negative,-0.9137722253799438
+2016-11-26,"Mr. Trump tweeted, “Making progress,” in capital letters.",positive,0.663453996181488
+2016-11-26,"Trump Leans on Carrier to Keep 2,000 U.S. Jobs From Moving to Mexico",negative,-0.8898928761482239
+2016-11-30,"Reversing a plan the president-elect had assailed, the company will keep roughly half of the 2,000 manufacturing jobs in Indiana that it was to shift to Mexico.",negative,-0.46054062247276306
+2016-11-30,Trump to Announce Carrier Plant Will Keep Jobs in U.S.,negative,-0.862160325050354
+2016-12-01,"Mr. Schultz is planning to leave the job in April, turning the reins over to his handpicked successor, Kevin Johnson.",neutral,-0.18194477260112762
+2016-12-01,Howard Schultz to Step Down as Starbucks Chief Next Year,neutral,-0.2397674173116684
+2016-12-04,Economists from both ends of the political spectrum say the president-elect’s approach of berating and rewarding companies may be good political theater but ultimately ineffective.,negative,-0.5669872760772705
+2016-12-04,"Vowing to Squeeze Businesses, Trump Has Tactics Challenged",neutral,-0.37034377455711365
+2016-12-05,"Junk mailers are abusing the iOS calendar and photo-sharing invitation system, but Apple is taking action — and you can, too.",neutral,0.04370991140604019
+2016-12-05,How to Defend Yourself Against Apple’s Calendar Spam,neutral,-0.36383575201034546
+2016-12-06,"Microsoft’s latest operating system may seem like a leap from Windows XP and Windows 7, but you can make the Windows 10 desktop feel more like home.",neutral,0.1463288515806198
+2016-12-06,Adding Desktop Icons for Windows 10,neutral,0.08664127439260483
+2016-12-07,"Signal, an encrypted chat service, is a must in an era when companies collect ever more information about users and government surveillance may expand.",neutral,0.02834545448422432
+2016-12-07,Worried About the Privacy of Your Messages?,negative,-0.5844452977180481
+2016-12-07,Download Signal,neutral,0.031022459268569946
+2016-12-08,"Initially aiming to pressure companies like Ford and Carrier to keep factory jobs at home instead of moving them to Mexico, Mr. Trump has increased the stakes.",positive,0.710102915763855
+2016-12-08,Wary Corporate Chiefs Keep an Ear Tuned to Trump’s Messages,negative,-0.4258206784725189
+2016-12-09,"With the expected naming of Gary Cohn to head the National Economic Council, Donald J. Trump’s economic policy will be shaped chiefly by veterans of the Wall Street firm.",neutral,0.0327935628592968
+2016-12-09,Goldman Sachs to Extend Its Reach in Trump Administration,positive,0.83706134557724
+2016-12-10,"Behind the financial maneuvering at Hostess, an investigation by The New York Times found a blueprint for how private equity executives have amassed some of the greatest fortunes of the modern era.",neutral,0.0470142625272274
+2016-12-10,How the Twinkie Made the Superrich Even Richer,neutral,0.0782664567232132
+2016-12-12,"Donald J. Trump officially asked Gary D. Cohn to serve as director of his National Economic Council, removing a crucial impediment for Goldman’s next generation of leaders.",neutral,0.13420428335666656
+2016-12-12,"Goldman President Named Trump Adviser, Opening Door for Younger Executives",positive,0.757465124130249
+2016-12-13,"Donald J. Trump tapping Gary D. Cohn, the president of Goldman Sachs, to be his top economic policy adviser has opened up opportunities for the next generation of Goldman leaders.",positive,0.7812054753303528
+2016-12-13,"Morning Agenda: Trump and Wall Street, Wells Fargo Fallout, Beer Sales",neutral,-0.04368581622838974
+2016-12-14,The Wall Street firm named two executives to share president and chief operating officer roles and promoted others as a new group of potential C.E.O.s emerges.,neutral,0.24187158048152924
+2016-12-14,"At Goldman, Top Departure Opens a Door for the Next Generation",neutral,0.3464440703392029
+2016-12-15,Mr. Trump called the group “truly amazing” and said the attendees were doing a good job.,positive,0.8322417736053467
+2016-12-15,Many of the executives brought up topics like immigration and education.,neutral,0.033950090408325195
+2016-12-15,Trump’s Meeting With Tech Leaders Turns Into a Charmfest,positive,0.4521186351776123
+2016-12-19,"Microsoft’s redesign of the Windows desktop has frustrated some longtime users, but utility software can provide a refreshing blast from the past.",negative,-0.940744936466217
+2016-12-19,Give the Windows 10 Start Menu a Classic Look,neutral,0.052970997989177704
+2016-12-20,"Both Windows and Mac provide a handy place on the screen to store frequently used program icons, and its location can be changed.",neutral,-0.007394649088382721
+2016-12-20,Moving Your Desktop Taskbar or Dock,neutral,-0.1210399717092514
+2016-12-21,"Donald J. Trump, in bailing his eldest son out of a business deal gone bad, may have gotten something unexpected in return — a costly environmental cleanup in South Carolina.",positive,0.34875065088272095
+2016-12-21,Trump’s Role in Son’s Failed Deal May Yield First Test for a State Regulator,neutral,0.07932113111019135
+2016-12-23,"The firm says it thought the billions of dollars it raised for a Malaysian fund were used to buy legitimate assets, though prosecutors said they landed in personal accounts.",neutral,-0.22446414828300476
+2016-12-23,1MDB Case Hangs Over Goldman Sachs as Investigators Dig for Answers,negative,-0.6400050520896912
+2016-12-26,Twitter posts can include one to four images at once for those who want to share a clickable photo collage with followers.,neutral,-0.04233434423804283
+2016-12-26,Share a Slide Show With a Tweet,neutral,-0.0005821734666824341
+2016-12-27,A committee is under fire for how its members were selected.,negative,-0.7939523458480835
+2016-12-27,"Several have financial ties to biotech businesses, potentially giving short shrift to health and environmental worries.",neutral,-0.0027438774704933167
+2016-12-27,National Biotechnology Panel Faces New Conflict of Interest Questions,negative,-0.6682460308074951
+2016-12-30,"Mr. Mattson, a production executive who had once been a printer, helped transform the newspaper with innovative labor agreements and new technologies.",positive,0.7597734928131104
+2016-12-30,"Walter E. Mattson, Former President of New York Times, Dies at 84",neutral,-0.19836190342903137

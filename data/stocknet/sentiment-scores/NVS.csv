@@ -1,0 +1,42 @@
+Date,Sentence,Prediction,sentimentScore
+2014-01-09,The government has called for a criminal investigation into ads that allegedly used flawed research to promote expanded use of a top-selling drug.,negative,-0.7226192951202393
+2014-01-09,Novartis Faces Possible Criminal Inquiry in Japan,negative,-0.6379011273384094
+2014-03-05,The Swiss drug companies were ordered to pay a total of $250 million for trying to keep doctors from prescribing a relatively inexpensive eye treatment.,negative,-0.9263659119606018
+2014-03-05,Italy Fines Novartis and Roche in Collusion Case,negative,-0.9026146531105042
+2014-04-07,"Questcor Pharmaceuticals has been criticized for steadily raising the price of its most valuable product, but that aggressive pricing strategy appears to have paid off for the drug maker.",positive,0.7981483936309814
+2014-04-07,Mallinckrodt Pharmaceuticals to Buy Questcor for $5.6 Billion,neutral,0.02990771271288395
+2014-04-22,"William A. Ackman and Valeant are bidding for Allergan, the maker of Botox.",neutral,0.05035122483968735
+2014-04-22,| Novartis announced a major overhaul.,positive,0.5975944995880127
+2014-04-22,| AstraZeneca says no to a deal with Pfizer.,neutral,-0.06167212128639221
+2014-04-22,| Barclays is set to exit its commodities business.,negative,-0.7936596274375916
+2014-04-22,Ackman’s Botox Ambitions,neutral,-0.029871396720409393
+2014-04-23,Pharmaceutical companies are on the prowl for deals.,neutral,0.03320850431919098
+2014-04-23,| The Allergan bid charts new territory for takeovers.,positive,0.5988230109214783
+2014-04-23,| Preet Bharara’s perfect record is in jeopardy.,negative,-0.7981244921684265
+2014-04-23,| Comcast looks to divest subscribers.,negative,-0.8573448061943054
+2014-04-23,Big Pharma’s Deal Bonanza,neutral,0.06961686909198761
+2014-05-29,The government says the national health service suffered losses from the drug companies’ efforts to restrict competition in ophthalmic drugs.,negative,-0.9346080422401428
+2014-05-29,Italy Seeks $1.6 Billion in Damages From Roche and Novartis,negative,-0.849032461643219
+2014-06-02,The deal with the biotechnology company Adaptimmune comes a little over a month after Glaxo agreed to sell its cancer drug business to the Swiss pharmaceutical maker Novartis.,neutral,0.17540006339550018
+2014-06-02,GlaxoSmithKline in $350 Million Cancer Drug Venture,neutral,0.04904133453965187
+2014-07-09,An experimental drug for eczema relieved severity of symptoms in 85 percent of those who took it.,positive,0.44663548469543457
+2014-07-09,A drug for psoriasis cut severity of symptoms in as many as 82 percent of those who took it.,negative,-0.2947228252887726
+2014-07-09,"In Small Trials, 2 Drugs Go Far in Soothing Symptoms of Eczema and Psoriasis",neutral,0.392447292804718
+2014-07-15,The Alcon unit of the European drug maker will help with one of the latest moves into the health care sector by the tech industry.,positive,0.6405813097953796
+2014-07-15,Novartis Joins With Google to Develop Contact Lens That Monitors Blood Sugar,positive,0.6936416625976562
+2014-08-30,"The experimental drug developed by the Swiss company Novartis reduced the risk of dying from cardiovascular causes and could replace what has been the bedrock treatment for more than 20 years, researchers said.",positive,0.7136731743812561
+2014-08-30,New Novartis Drug Effective in Treating Heart Failure,positive,0.46288812160491943
+2015-01-09,"In search of an alternative to hearing aids or implants, some report success in early trials for drugs to improve hearing or silence tinnitus.",positive,0.668166995048523
+2015-01-09,"From Vertigo to Tinnitus, Ear Ailments Are New Focus for Drugs",neutral,0.0475340411067009
+2015-06-18,"A federal appeals court on Thursday again invalidated a patent protecting Teva Pharmaceutical’s big-selling drug, Copaxone, which can cost $60,000 a year.",negative,-0.8256847262382507
+2015-06-18,Teva Ruling Clears Way for Generic Version of Multiple Sclerosis Drug,neutral,0.37761130928993225
+2015-06-29,"As part of the deal, Celgene will acquire 9.1 million shares of Juno, a leader in cancer drugs that use patients’ immune systems to attack tumors.",neutral,0.13067005574703217
+2015-06-29,Celgene to Pay $1 Billion for Biotech Collaboration With Juno,neutral,0.2167873978614807
+2015-07-07,"The drug, Entresto, could eventually achieve more than $5 billion in annual sales, said Novartis, which developed it.",positive,0.7428085803985596
+2015-07-07,F.D.A.,neutral,0.04497655853629112
+2015-07-07,Approves Heart Drug Entresto Said to Cut Death Risk by 20%,positive,0.6707881093025208
+2015-07-29,The Swiss giant is putting three drugs in development into a new entity backed by investors.,neutral,0.09351083636283875
+2015-07-29,"With biotech markets hot, there’s room for copycat deals.",neutral,0.05740855634212494
+2015-07-29,Novartis Spinoff Shows Alternative to Big Drug Makers,neutral,0.19484704732894897
+2015-08-21,The experimental drug ofatumumab would bolster the Swiss pharmaceutical company’s portfolio of multiple sclerosis treatments.,positive,0.9189891219139099
+2015-08-21,Novartis to Buy Multiple Sclerosis Drug From Glaxo,neutral,0.2247338891029358

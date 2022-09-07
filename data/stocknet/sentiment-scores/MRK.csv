@@ -1,0 +1,46 @@
+Date,Sentence,Prediction,sentimentScore
+2014-03-27,"In the wake of Baxter’s split, Merck, Bayer and Johnson & Johnson may find it hard not to jump on the bandwagon, says Robert Cyran of Reuters Breakingviews.",neutral,-0.4005727469921112
+2014-03-27,Conscious Uncoupling for Drug Makers,neutral,-0.04914037883281708
+2014-05-01,"The big health care company, is close to a deal to sell its consumer unit to Bayer for about $14 billion, a person briefed on the matter said on Thursday.",neutral,0.12429429590702057
+2014-05-01,Merck Said to Be Near Closing Deal With Bayer,neutral,0.29087015986442566
+2014-05-06,"Bayer’s $14.2 billion acquisition of Merck’s consumer care business makes strategic sense and sizable tax breaks will help, writes Olaf Storbeck of Reuters Breakingviews.",positive,0.8755765557289124
+2014-05-06,How Bayer’s Buy Makes Sense,neutral,0.08008179813623428
+2014-06-09,"Merck will pay $24.50 a share in cash, or about $3.85 billion, for the biotechnology company Idenix in an effort to bolster its arsenal of potential drugs in the hotly competitive hepatitis C area.",positive,0.7641540169715881
+2014-06-09,Merck Bids $3.8 Billion for an Edge in Hepatitis,positive,0.4852735698223114
+2014-09-04,"The treatment unleashes the body’s immune system against tumors, and will initially be used against advanced melanoma.",neutral,0.0975223183631897
+2014-09-04,F.D.A.,neutral,0.04497655853629112
+2014-09-04,Allows First Use of a Novel Cancer Drug,neutral,0.06081259250640869
+2014-09-22,"A rare bright spot in the European economy in recent years, many of the biggest German companies have begun capitalizing on their strength, striking big deals for overseas competitors.",positive,0.8502252101898193
+2014-09-22,Cash-Stuffed German Companies on a Global Buying Spree,neutral,0.1647520661354065
+2014-10-27,"The pharmaceutical company’s earnings beat expectations, however, helped by sales of the diabetes drug Januvia and revenue in emerging markets.",positive,0.8380194902420044
+2014-10-27,Merck Sales Down 4%; Profit Beats Forecasts,negative,-0.9679991602897644
+2014-11-17,"The alliance between the American and German companies is expected to strengthen Merck’s oncology business in several important markets, including the United States.",positive,0.9330943822860718
+2014-11-17,Pfizer to Pay up to $2.9 Billion in Cancer Drug Deal With Merck of Germany,positive,0.6592859625816345
+2014-12-06,The deal would represent another multibillion-dollar health care transaction in a banner year for mergers and acquisitions in the industry.,positive,0.8207228183746338
+2014-12-06,Merck Said to Weigh Acquisition of Rival Drug Maker Cubist,neutral,0.08415129035711288
+2014-12-07,"In two early stage studies, Bristol-Myers Squibb’s nivolumab and Merck’s pembrolizumab shrank tumors in patients with Hodgkin’s lymphoma.",negative,-0.6152305006980896
+2014-12-07,Cancer Drugs That Free Brake on Immune System Show Promise for Hodgkin’s,positive,0.6178827285766602
+2014-12-08,"Merck is paying only about 4.3 times Cubist’s estimated revenue for next year — about the same multiple investors give Merck itself, making the acquisition look like a relative bargain, writes Robert Cyran of Reuters Breakingviews.",neutral,-0.15531349182128906
+2014-12-08,Revival for Antibiotics Could Spur Deals,neutral,0.24758245050907135
+2014-12-09,"Just hours after announcing its $8.4 billion acquisition of Cubist Pharmaceuticals, a Delaware judge invalidated patents owned by the antibiotics maker.",negative,-0.9078366756439209
+2014-12-09,Merck appears to have been caught up in the M.&.A.,neutral,0.019345723092556
+2014-12-09,"exuberance, says Robert Cyran of Reuters Breakingviews.",positive,0.7934694886207581
+2014-12-09,Merck’s Rose-Colored Glasses in Cubist Deal,neutral,0.025873899459838867
+2014-12-11,"The hospital said it would halt injections of a vaccine licensed to Merck until next month, after some test subjects reported mild joint pain.",negative,-0.8921889662742615
+2014-12-11,Hospital Pauses Test of an Ebola Vaccine Licensed to Merck,neutral,0.02660733088850975
+2015-01-23,"Tests of drugs developed by GlaxoSmithKline and Merck are expected to begin in Liberia in two weeks, federal officials said.",neutral,0.012443196028470993
+2015-01-23,Trial of 2 Ebola Vaccines’ Effectiveness Is Announced,neutral,0.12048540264368057
+2015-03-04,"Opdivo, from Bristol-Myers Squibb, which harnesses the body’s own immune system to attack tumors, was approved after strong results in a study.",positive,0.8102458715438843
+2015-03-04,Lung Cancer Treatment Using Immune System Wins F.D.A.,positive,0.5374252796173096
+2015-03-04,Approval,neutral,0.022716157138347626
+2015-03-16,"The higher offer quickly put an end to Endo’s rival bid, but the added cost, along with the debt Valeant already holds, may hurt the company.",negative,-0.9548242092132568
+2015-03-16,Valeant’s Sweetened Bid for Salix May Have Delivered 2 Knockouts,neutral,0.1310535967350006
+2015-05-07,Johnson & Johnson named the bioethicist Arthur L. Caplan to create a panel to decide on patients’ requests for lifesaving medicines before they are approved.,neutral,0.04939528554677963
+2015-05-07,Company Creates Bioethics Panel on Trial Drugs,neutral,0.039166443049907684
+2015-05-29,A study sheds light on why the new medicines seem to work for some cancers and not others.,neutral,0.0741896778345108
+2015-05-29,New Class of Drugs Shows More Promise in Treating Cancer,positive,0.8150023818016052
+2016-01-11,Some pharmaceutical companies will form the National Immunotherapy Coalition to rapidly test various combinations of promising new types of cancer drugs.,neutral,0.1960538923740387
+2016-01-11,Drug Companies to Try a Unified Front Against Cancer,neutral,-0.19005906581878662
+2016-08-05,Investors wiped off billions in value after Bristol’s cancer drug trial failed.,negative,-0.9128146171569824
+2016-08-05,The stumble will allow its more cautious rival to clean up.,neutral,0.42411038279533386
+2016-08-05,Bristol-Myers Squibb’s Hubris Cost It $21 Billion,negative,-0.9267382621765137

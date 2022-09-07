@@ -1,0 +1,48 @@
+Date,Sentence,Prediction,sentimentScore
+2014-01-13,"Genzyme, the American biotechnology unit of the French drug maker Sanofi, is buying a 12 percent stake in Alnylam Pharmaceuticals for $700 million as part of an expanded alliance to develop treatments for rare genetic diseases.",positive,0.5266444087028503
+2014-01-13,Sanofi Unit to Buy $700 Million Stake in Rare Disease Company,neutral,0.05335775390267372
+2014-04-28,"Sanofi conducted a test of its vaccine for dengue fever, which affects 50 million to 100 million people annually, that involved 10,000 children in Southeast Asia.",neutral,0.07803841680288315
+2014-04-28,Results Are Promising in Clinical Trial of Dengue Fever Vaccine,positive,0.8732728958129883
+2014-05-28,The French company Sanofi is buying global rights from Lilly to sell the erectile dysfunction drug after its patents expire.,positive,0.5508131384849548
+2014-05-28,"A Plan to Sell Cialis, an Erectile Drug, Over the Counter",neutral,0.07762964069843292
+2014-09-03,A French drug company said that use of the vaccine cut the risk of getting dengue by 60.8 percent and those vaccinated had an 80 percent lower risk of being hospitalized for the disease.,positive,0.527898907661438
+2014-09-03,First Vaccine for Dengue Fever Shows Promise in 2nd Big Trial,positive,0.8755559921264648
+2014-10-29,"Sanofi’s board said it was dissatisfied by its relationship with Christopher Viehbacher, who had led the French pharmaceutical company since 2008.",negative,-0.9560088515281677
+2014-10-29,Sanofi Fires Its Chief Executive but Retains His Global Strategy,neutral,-0.24574469029903412
+2015-02-20,"Olivier Brandicourt, head of Bayer’s health care business, will have to restore growth in Sanofi’s important diabetes franchise.",positive,0.791563868522644
+2015-02-20,"After Shake-Up Last Year, Sanofi Names New Chief",neutral,0.08805233985185623
+2015-03-15,"Researchers cautioned, however, that the studies were small and meant to assess whether the drugs safely lowered cholesterol, not whether they staved off heart attacks.",neutral,0.07225322723388672
+2015-03-15,Tests of Cholesterol Drugs Offer Hope of Reducing Heart Attacks and Strokes,neutral,0.2597423195838928
+2015-07-24,"The drug, Praluent, developed by Sanofi and Regeneron, is expected to become the next flashpoint in the growing controversy of escalating pharmaceutical price.",neutral,0.2676510810852051
+2015-07-24,"New Drug Sharply Lowers Cholesterol, but It’s Costly",positive,0.5710344314575195
+2015-07-28,The French pharmaceutical giant Sanofi will be partnering with the biotech company Regeneron Pharmaceuticals to develop drugs that harness the body’s immune system to fight cancer.,positive,0.7643762230873108
+2015-07-28,Sanofi to Join Regeneron in Quest to Unleash Immune System on Cancer,neutral,0.360323429107666
+2015-09-08,"A report from the Institute for Clinical and Economic Review says the prices on two drugs to fight cholesterol that cost more than $14,000 a year should be slashed.",negative,-0.40345096588134766
+2015-09-08,"New Cholesterol Drugs Are Vastly Overpriced, Analysis Says",neutral,-0.0655074268579483
+2015-10-06,"Rather than bargain with a single maker, the pharmacy benefits manager says it will offer both Repatha and Praluent, promising but expensive products.",neutral,0.1743994802236557
+2015-10-06,Express Scripts Says It Will Cover 2 New Cholesterol Drugs,neutral,0.0902407094836235
+2015-11-13,A lawsuit claims that a giant French pharmaceutical favored its own multiple sclerosis treatment to avoid making a huge payout.,negative,-0.8895812034606934
+2015-11-13,"After Merger, Two Competing Drugs and Billion-Dollar Questions",neutral,0.1384611278772354
+2015-12-09,"The vaccine, called Dengvaxia, has been developed by Sanofi.",neutral,0.0654689148068428
+2015-12-09,Dengue fever can cause high temperature and intense joint and muscle pain.,negative,-0.8019809722900391
+2015-12-09,First Dengue Fever Vaccine Approved by Mexico,positive,0.5387431383132935
+2015-12-15,The exchange of business units would make Sanofi one of the world’s largest manufacturers of nonprescription medicines.,positive,0.8033310770988464
+2015-12-15,European Drug Makers Sanofi and Boehringer Ingelheim in Talks,neutral,-0.06459546834230423
+2016-01-05,"The insulin, called Afrezza, has had poor sales since being approved by the F.D.A.",negative,-0.9572476744651794
+2016-01-05,in 2014.,neutral,0.07005567848682404
+2016-01-05,"Shares in its maker, MannKind, fell 48 percent.",negative,-0.959272027015686
+2016-01-05,Sanofi Ends Marketing Deal With Developer of Inhaled Insulin,neutral,0.010313421487808228
+2016-04-28,Sanofi said that it made a private offer to acquire the prostate cancer drug maker nearly two weeks ago but did not receive a response.,neutral,0.13983802497386932
+2016-04-28,Sanofi Offers to Buy Drug Maker Medivation for $9.3 Billion,neutral,0.09801627695560455
+2016-04-29,"Pressured by a proposal made directly to Medivation’s shareholders, the company said the $9.3 billion offer “substantially undervalues Medivation.”",negative,-0.4668513834476471
+2016-04-29,Medivation Rejects Takeover Bid From Sanofi,negative,-0.25020891427993774
+2016-05-05,"The French drugmaker said it believed it had “overwhelming support” from Medivation’s shareholders for a merger, and Medivation still said no.",positive,0.8481796383857727
+2016-05-05,Sanofi Trades Volleys With Medivation in $9.3 Billion Offer,neutral,0.22937531769275665
+2016-05-25,The French drug maker said it was seeking the consent of the American company’s shareholders to replace directors with a slate of its own candidates.,neutral,-0.015843465924263
+2016-05-25,Sanofi to Seek Removal of Medivation Board in Takeover Fight,negative,-0.795430600643158
+2016-05-27,A look at the most significant deals provides a lesson in how hostile takeovers work and how would-be acquirers often make common mistakes.,neutral,0.03995274007320404
+2016-05-27,"Hostile Takeovers Abound, but Success Is No Guarantee",neutral,-0.027956612408161163
+2016-08-25,Mylan’s price increases for the allergy treatment device highlight a common tactic in the industry: raising prices just before a generic competitor reaches the market.,positive,0.7215980291366577
+2016-08-25,Mylan Raised EpiPen’s Price Before the Expected Arrival of a Generic,positive,0.5128872990608215
+2016-12-21,They both cautioned that there was no assurance that an actual transaction would be signed as a result of these talks.,neutral,0.21209849417209625
+2016-12-21,Johnson & Johnson and Actelion Confirm Merger Talks Are Back On,neutral,0.4004380404949188

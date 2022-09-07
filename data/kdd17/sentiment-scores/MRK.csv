@@ -1,0 +1,331 @@
+Date,Sentence,Prediction,sentimentScore
+2007-01-05,"Merck of Germany said Friday that it is considering the sale of its generic drugs business, which could fetch more than $5 billion, according to some estimates.",neutral,0.07925573736429214
+2007-01-05,"Reuters reported that the German drugs and chemicals group seems eager to cut debt from its recent $13.3 billion acquisition of Serono, which it is financing largely through loans.",negative,-0.4159776568412781
+2007-01-05,Germany’s Merck May Sell Generic Drugs Unit,neutral,0.006447428837418556
+2007-01-12,"The German drugmaker Merck KGaA has attracted interest in its generic drugs unit from Cinven, Permira and the Texas Pacific Group, people familiar with the matter told Reuters.",positive,0.776469349861145
+2007-01-12,"Merck — no relation to the United States company of the same name — said last week it was considering selling the business, valued at more than 4 billion euros ($5.2 billion), as it retrains its focus on higher-revenue branded products.",neutral,0.017766667529940605
+2007-01-12,"Merck declined to comment, as did Permira and Cinven, while Texas Pacific was not available to comment, Reuters said.",neutral,-0.22103986144065857
+2007-01-12,Unit of Germany’s Merck Said to Attract Buyout Firms,neutral,0.2072855532169342
+2007-01-18,A lawsuit against Merck sought medical monitoring for former users of the painkiller Vioxx.,negative,-0.8365158438682556
+2007-01-18,New Jersey Court Revives a Merck Suit,neutral,-0.09448669850826263
+2007-02-15,"Merck & Company agreed Wednesday to pay $2.3 billion to resolve several tax disputes, the Internal Revenue Service said.",positive,0.6652248501777649
+2007-02-15,"The drug company’s payment includes taxes, interest and penalties stemming from the disputes, which cover the tax years 1993-2001 and arose in part from Merck’s use of minority equity interest financing, the I.R.S.",neutral,-0.018393030390143394
+2007-02-15,said.,neutral,0.07623650878667831
+2007-02-15,Merck to Pay $2.3 Billion to the I.R.S.,neutral,0.06685197353363037
+2007-02-17,"At about $400 the vaccine is costly, and many say the rush toward mandatory inoculation could prove counterproductive.",negative,-0.8132418394088745
+2007-02-17,Furor on Rush to Require Cervical Cancer Vaccine,negative,-0.8391136527061462
+2007-02-21,Public reaction forced the drug manufacturer to ends its lobbying efforts in state legislatures on behalf of a cervical cancer vaccine.,negative,-0.885256826877594
+2007-02-21,Merck to Halt Lobbying for Vaccine for Girls,negative,-0.39755839109420776
+2007-03-03,A New Jersey jury ruled that Merck failed to provide adequate warning about the risks of its Vioxx painkiller in one of two cases decided.,negative,-0.8446613550186157
+2007-03-03,Mixed Verdicts for Merck in Vioxx Cases,negative,-0.8556884527206421
+2007-03-08,"Private equity bidders are reportedly lining up to do battle over the generics business of Germany’s Merck, said to be worth at least 4 billion euros ($5.3 billion).",neutral,0.2705618143081665
+2007-03-08,"The Financial Times Deutschland reported that Bain Capital and Apax Partners are preparing a joint bid for the business, as are Kohlberg Kravis Roberts and Warburg Pincus.",neutral,0.05549709498882294
+2007-03-08,The Carlyle Group is also reportedly mulling a bid.,neutral,0.023304423317313194
+2007-03-08,Buyout Firms Circle Unit of German Drugmaker Merck,neutral,0.04325012117624283
+2007-03-29,Unusual side effects — including hallucinations and disorientation — showed up in the studies.,neutral,-0.28749051690101624
+2007-03-29,The drug also failed a trial of its efficacy.,negative,-0.9301797151565552
+2007-03-29,Merck Cancels Work on a New Insomnia Medication,negative,-0.9334149360656738
+2007-04-12,The F.D.A.,neutral,-0.0011012032628059387
+2007-04-12,"rejected Arcoxia because of concerns that the drug could cause as many as 30,000 heart attacks a year if widely used.",negative,-0.8470498919487
+2007-04-12,F.D.A.,neutral,0.04497655853629112
+2007-04-12,Panel Rejects Merck Pain Pill in 20-1 Vote,negative,-0.3004249930381775
+2007-04-16,"EARNINGS REPORTS The following companies are scheduled to release earnings reports this week: Citigroup, Eli Lilly, Mattel and Wachovia (Monday); TD Ameritrade Holding, Comerica, CSX, Dow Jones, EMC, Intel, I.B.M., Johnson & Johnson, Mellon Financial, Northern Trust, Wells Fargo and Yahoo (Tuesday); Abbott Laboratories, Commerce Bancorp, E*Trade Financial, eBay, JPMorgan Chase, Motorola, PNC Financial Services, Allstate, Bank of New York, Tribune and United Technologies (Wednesday); Advanced Micro Devices, Altria Group, Continental Airlines, D. R. Horton, First Data, Gannett, Google, Merck, Merrill Lynch, Nokia, Schering-Plough, Southwest Airlines, UnitedHealth Group and Wyeth (Thursday); Caterpillar, Honeywell, McDonald’s, SAP, Schlumberger and Xerox (Friday).",neutral,-0.03122369386255741
+2007-04-16,Looking Ahead,neutral,0.013165891170501709
+2007-05-14,Mylan Laboratories has agreed to buy the generic drug unit of Merck for $6.7 billion in cash.,positive,0.5152778625488281
+2007-05-14,Mylan Labs in Deal to Buy German Generic Drug Unit,neutral,0.13620905578136444
+2007-05-14,"Mylan Laboratories has agreed to buy the generic drug unit of Merck, the German drug maker, for 4.9 billion euros ($6.7 billion) in cash.",positive,0.6628336906433105
+2007-05-14,"The acquisition will make Mylan the world’s third-largest maker of copycat versions of drugs, after Teva Pharmaceuticals of Israel and Novartis of Switzerland.",positive,0.8491109013557434
+2007-05-14,Mylan Labs in Deal to Buy German Generic Drug Unit,neutral,0.13620905578136444
+2007-05-21,Europe’s largest engineering company named Peter Löscher as its new chief executive.,neutral,0.3898613154888153
+2007-05-21,A Battered Siemens Names a New Chief,negative,-0.6709955334663391
+2007-06-06,A judge reversed himself and awarded $1.6 million to a former F.B.I.,negative,-0.41758236289024353
+2007-06-06,agent who blamed the drug for his heart attack.,negative,-0.5874065160751343
+2007-06-06,Vioxx Damage Award,negative,-0.7284988760948181
+2007-07-24,The company reported strong second-quarter results and said its profits for all of 2007 would beat analysts’ expectations.,positive,0.9215832948684692
+2007-07-24,Another Quarter of Strong Results by Merck,positive,0.8475918173789978
+2007-08-21,No one who has sued Merck over heart attacks or strokes suffered after taking Vioxx has received payments.,neutral,-0.3444599509239197
+2007-08-21,Plaintiffs Find Payday Elusive in Vioxx Cases,negative,-0.7111412286758423
+2007-10-23,"After an early morning skid, markets rebounded, boosted by an optimistic earnings report from Merck and a more favorable outlook for the technology sector.",positive,0.9054715633392334
+2007-10-23,Earnings Reports Give Markets a Respite,negative,-0.31598931550979614
+2007-11-01,"In an move to target the many adults who have not been vaccinated against hepatitis B, Merck has licensed a new, potentially more powerful vaccine against the disease.",positive,0.7686141133308411
+2007-11-01,Merck Buys License to Sell New Vaccine for Hepatitis,positive,0.6693588495254517
+2007-11-03,"Many patients on the cholesterol drug are switching to a cheaper alternative, but Pfizer is not letting its flagship product go down without a fight.",neutral,-0.14273983240127563
+2007-11-03,Maker of Lipitor Digs in to Fight Generic Rival,negative,-0.5293532013893127
+2007-11-09,"Merck has agreed to settle 27,000 lawsuits by people who claim they or their family members suffered injury or died after taking the pain medication.",positive,0.7784723043441772
+2007-11-09,Merck Agrees to Settle Vioxx Suits for $4.85 Billion,positive,0.7148871421813965
+2007-11-09,"The settlement, one of the largest ever in civil litigation, affects 27,000 lawsuits over the pain medication.",neutral,0.04039434343576431
+2007-11-09,Merck Agrees to Pay $4.85 Billion in Vioxx Claims,positive,0.7205692529678345
+2007-11-10,"While Friday’s settlement of Vioxx lawsuits at $4.85 billion seems steep, two years ago some analysts estimated that it would cost Merck as much as $25 billion.",negative,-0.9288196563720703
+2007-11-10,Analysts See Merck Victory in Vioxx Settlement,positive,0.8536263704299927
+2007-11-17,"Is a mass tort really the right mechanism to settle disputes about product safety, or to punish corporate wrongdoing?",neutral,0.039640799164772034
+2007-11-17,Forget Fair; It’s Litigation as Usual,neutral,-0.32534608244895935
+2007-11-21,A delay in publishing the results of trials on cholesterol  drugs is raising questions for the drug industry.,negative,-0.8116838335990906
+2007-11-21,Cardiologists Question Delay of Data on 2 Drugs,negative,-0.8963130116462708
+2007-12-12,"A Congressional committee is investigating Merck and Schering-Plough for their handling of a critical clinical trial of Zetia, their blockbuster cholesterol-lowering drug.",negative,-0.8500582575798035
+2007-12-12,Trial of Cholesterol Drug Gets House Scrutiny,neutral,0.44799548387527466
+2007-12-20,Several plaintiffs’ lawyers have asked the judge overseeing the $4.85 billion settlement to allow them to keep some of their clients outside the settlement while others accept it.,neutral,-0.06948918104171753
+2007-12-20,Some Lawyers Seek Changes in Vioxx Settlement,neutral,-0.004502680152654648
+2007-12-21,Several plaintiffs’ lawyers have asked that some of their clients be allowed to reject the $4.85 billion Vioxx settlement as others accept it.,neutral,-0.18101546168327332
+2007-12-21,Some Lawyers Seek Changes in Vioxx Settlement,neutral,-0.004502680152654648
+2007-12-21,New evidence shows that drug makers Merck and Schering-Plough never published several studies that raised questions about a cholesterol drug’s risks to the liver.,negative,-0.5275144577026367
+2007-12-21,Data About Zetia Risks Was Not Fully Revealed,neutral,-0.024194378405809402
+2008-01-04,"Merck agreed to pay a Swiss company, Addex Pharmaceuticals, as much as $702 million to help develop a new schizophrenia drug.",positive,0.6622980237007141
+2008-01-04,Merck Makes Deal to Develop Schizophrenia Drug,neutral,0.37168559432029724
+2008-01-14,The outcome of a trial that failed to show that Zetia has any medical benefits adds to concerns over the drug.,negative,-0.9190283417701721
+2008-01-14,"Drug Has No Benefit in Trial, Makers Say",neutral,-0.15222018957138062
+2008-01-15,"A clinical trial of Zetia, a widely used cholesterol drug, has raised questions about its effectiveness and the behavior of pharmaceutical companies that conducted the study.",negative,-0.4733048677444458
+2008-01-15,Study Reveals Doubt on Drug for Cholesterol,negative,-0.6499860286712646
+2008-01-17,"Following results of recent clinical trials on popular cholesterol drugs, cardiologists are questioning whether a patient’s cholesterol should be all that matters.",negative,-0.7806620597839355
+2008-01-17,New Questions on Treating Cholesterol,neutral,0.04605843499302864
+2008-01-24,"The American Heart Association defended the drug Vytorin, an expensive drug combination for cholesterol, which was shown last week to work no better than Zocor, a cheaper alternative.",negative,-0.826637864112854
+2008-01-24,Heart Group Backs Drug Made by Ally,neutral,0.03045262023806572
+2008-01-25,The biotechnology company said Thursday that its experimental osteoporosis drug proved superior to Fosamax from Merck in a clinical trial.,positive,0.9122718572616577
+2008-01-25,"Amgen Posts Weak Results, but Hails Osteoporosis Drug",negative,-0.9328265190124512
+2008-03-31,"The drugs Vytorin and Zetia may not work and should be used only as a last resort, The New England Journal of Medicine and a panel of cardiologists at a major cardiology conference said on Sunday.",neutral,-0.33231863379478455
+2008-03-31,Doubt Cast on 2 Drugs Used to Lower Cholesterol,negative,-0.34405601024627686
+2008-04-01,"A doctor who led a key trial of two heart drugs accused their makers, Merck and Schering-Plough, last July of hiding the negative results.",negative,-0.8831620216369629
+2008-04-01,Accusations of Delays in Releasing Drug Results,negative,-0.8809986114501953
+2008-04-15,"Merck drafted dozens of studies for a best-selling drug, then lined up prestigious doctors to put their names on the reports before publication, according to an article in a leading medical journal.",neutral,0.14042678475379944
+2008-04-15,"Ghostwriters Used in Vioxx Studies, Article Says",neutral,-0.019589928910136223
+2008-04-16,"Documents unearthed in lawsuits over the pain drug Vioxx provide a rare, detailed look at the industry practice of ghostwriting medical research studies.",neutral,0.011611906811594963
+2008-04-16,Merck Wrote Drug Studies for Doctors,neutral,-0.0025507844984531403
+2008-04-19,A report indicating that Merck used ghostwriters to produce articles in support of its drug Vioxx has galvanized opponents to a proposal that would relax some restrictions on drug promotion.,negative,-0.7154707312583923
+2008-04-19,F.D.A.,neutral,0.04497655853629112
+2008-04-19,Plan on Medical Articles Takes More Heat,neutral,0.03230724483728409
+2008-04-21,"CNBC interviews Richard T. Clark, chief executive of Merck, on his company's earnings.",neutral,0.06941632926464081
+2008-04-21,Merck's Chief Discusses Earnings,neutral,0.0012102797627449036
+2008-05-30,The major victories for Merck pushed the litigation over Vioxx closer to conclusion and highlighted the difficulty that plaintiffs’ lawyers are having in winning lawsuits against big drug companies.,positive,0.7929844260215759
+2008-05-30,Courts Reject Two Major Vioxx Verdicts,negative,-0.8619024157524109
+2008-07-22,"The cholesterol-lowering drug Vytorin did not help people with heart-valve disease avoid further heart problems but did appear to increase their risk of cancer, scientists reported Monday.",positive,0.7800959348678589
+2008-07-22,Trial Intensifies Concerns About Safety of Vytorin,neutral,-0.13517522811889648
+2008-09-16,Amgen’s experimental bone drug reduced the risk of spinal fractures in women with osteoporosis by 68 percent in a pivotal clinical trial.,positive,0.6382471919059753
+2008-09-16,Good Results for Bone Drug Buoy Amgen,positive,0.9094280004501343
+2008-10-22,"Hurt by declining sales of some of its biggest drugs and vaccines, Merck said that it would cut another 7,200 jobs, or 12 percent of its work force, in its second revamping in three years.",negative,-0.9596264958381653
+2008-10-22,Merck Plans to Cut 12% of Work Force as Its Sales and Profit Fall,negative,-0.9584604501724243
+2009-03-09,"Merck, facing patent expirations, is hoping to shore up its research pipeline and expand its global reach.",positive,0.9167711734771729
+2009-03-09,Merck to Buy Schering-Plough for $41.1 Billion,neutral,0.03118567168712616
+2009-03-09,"Merck, the American pharmaceutical giant, will pay $41 billion to acquire its rival Schering-Plough, the two companies said Monday.",neutral,0.13748972117900848
+2009-03-09,Merck to Buy Schering-Plough for $41.1 Billion,neutral,0.03118567168712616
+2009-03-09,A reverse merger in biotechnology is meant to help a private company go public when the investment climate is poor for an initial public offering.,neutral,0.3920024335384369
+2009-03-09,Taking a Chance on a Reverse Merger,neutral,-0.010127097368240356
+2009-03-10,"With the healthcare mega-merger party in full swing, others may show up to take part in the festivities.",neutral,0.1490810662508011
+2009-03-10,"After Merck Deal, Rivals May Seek to Fill Their Dance Cards",neutral,0.06181496009230614
+2009-03-10,"Two pharmaceutical companies, with headquarters a half-hour’s drive apart on Interstate 78, form the backbone of the New Jersey communities they call home.",neutral,0.037662941962480545
+2009-03-10,"Merck & Company, in Whitehouse Station, and Schering-Plough, in Kenilworth 34 miles to the east, provide jobs, tax revenue and a sense of identity in a state that some call America’s medicine cabinet.",neutral,0.46070143580436707
+2009-03-10,New Jersey Towns Worry About Merger’s Consequences,negative,-0.6328250765800476
+2009-03-10,"If Johnson & Johnson — or anyone else, for that matter — is thinking about making a play for Schering-Plough, here’s a number worth considering: $1.25 billion.",neutral,0.023334385827183723
+2009-03-10,"For Merck and Schering, Goodbye Could Cost $1.25 Billion",neutral,0.01593766361474991
+2009-03-11,Merck filed the agreement for its acquisition of Schering-Plough with regulators on Tuesday.,neutral,0.199048712849617
+2009-03-11,"The agreement has many interesting provisions throughout, but I want to focus on the two most important items.",neutral,0.05688783526420593
+2009-03-11,Merck and Schering-Plough’s Extreme Engineering,neutral,0.026397980749607086
+2009-03-13,"A change in Schering’s ownership could set off a termination clause in a marketing pact and enable Johnson & Johnson to gain full rights to Remicade, a lucrative rheumatoid arthritis drug.",positive,0.5974257588386536
+2009-03-13,Merck-Schering Merger Awaits Reaction From Johnson & Johnson,neutral,0.0745428204536438
+2009-03-16,The $41 billion tie-up announced last week between Merck and Schering-Plough creates some interesting options for Johnson & Johnson.,neutral,0.20767830312252045
+2009-03-16,Diagnosing J.&J.’s Next Move,neutral,0.008971072733402252
+2009-04-23,Some drug makers are backing up their products with discount deals or promises to pay if the drugs don’t work.,neutral,-0.3607880771160126
+2009-04-23,Drug Deals Tie Prices to How Well Patients Do,neutral,0.037858057767152786
+2009-05-14,A publication sponsored by Merck and including positive articles about its products comes to light in a lawsuit alleging misleading and deceptive practices.,negative,-0.790610671043396
+2009-05-14,Merck Paid for Medical ‘Journal’ Without Disclosure,neutral,-0.026270173490047455
+2009-05-14,A class-action lawsuit over the strategies that Merck used to market its painkiller Vioxx in Australia is earning the American drug maker some bad publicity.,negative,-0.9423651099205017
+2009-05-14,Trial Puts Spotlight on Merck,neutral,0.05759154260158539
+2009-05-21,"Johnson & Johnson told Merck it plans to seek arbitration on whether it can pull out of a blockbuster drug partnership with Schering-Plough as that company sells itself to Merck for $41.1 billion, The Associated Press reported.",negative,-0.8394680023193359
+2009-05-21,J&J Seeks to Arbitrate Schering Remicade Deal,neutral,0.02515302039682865
+2009-05-27,The U.S. Supreme Court said on Tuesday that it would hear an appeal by Merck of a ruling that reinstated a securities fraud lawsuit involving the company’s disclosures to investors about its withdrawn Vioxx pain drug.,negative,-0.5767573118209839
+2009-05-27,U.S. Court to Hear Merck Appeal on Vioxx Investor Suit,neutral,-0.12894828617572784
+2009-06-04,Merck may be considering selling some veterinary medicine assets or the animal health business of Schering-Plough as it prepares to acquire the company.,neutral,-0.0012362226843833923
+2009-06-04,Merck May Sell Animal Drug Assets Before Merger,neutral,-0.008399415761232376
+2009-06-11,"Merck, the pharmaceutical group, said Wednesday that 16,000 jobs would be lost as it combined operations with its rival Schering-Plough.",negative,-0.9614288806915283
+2009-06-11,"Merck to Shed 16,000 Jobs as It Buys Schering",negative,-0.955708384513855
+2009-07-30,Sanofi-Aventis and Merck announced Thursday that the two companies had agreed for Merck to sell its stake in their animal-health joint venture Merial for $4 billion in cash.,neutral,0.23494377732276917
+2009-07-30,Sanofi and Merck Announce $4 Billion Merial Sale,neutral,0.0828021988272667
+2009-07-31,"Merck is selling its Merial stake to clear a path for its merger with Schering-Plough, but it could create an even bigger joint venture with Sanofi after that deal wins approval.",neutral,0.16968977451324463
+2009-07-31,Merck Selling Stake in Animal Venture,neutral,-0.027641452848911285
+2009-08-05,Merck and Schering-Plough said that they would pay $41.5 million to settle suits claiming they delayed study results on their cholesterol drug Vytorin because the data was unfavorable.,negative,-0.9128535985946655
+2009-08-05,Schering and Merck Are Settling Vytorin Suits,neutral,0.02179737389087677
+2009-09-03,Merck spent $7 million in the second quarter to defend itself in the first of at least 900 pending cases in which plaintiffs claim that taking Fosamax caused jaw injuries.,negative,-0.6361231803894043
+2009-09-03,High Stakes for Merck in Litigation on Fosamax,neutral,0.11267903447151184
+2009-09-10,"Merck and GlaxoSmithKline, with the support of federal panels, plan to expand use of their treatments against the human papillomavirus.",positive,0.8477699160575867
+2009-09-10,Two Giants Vie for Billions in S.T.D.,neutral,0.06100316345691681
+2009-09-10,Vaccine Market,neutral,0.06314577162265778
+2009-09-10,"The AIDS Treatment Activists Coalition, representing 21 groups, gave an overall rating of C-minus to the pharmaceutical industry.",positive,0.6779376268386841
+2009-09-10,AIDS Activists Issue Grades to Drug Companies,neutral,-0.08914138376712799
+2009-09-12,"Jurors sent the judge desperate hand-scrawled notes saying they were deadlocked over a verdict in the trial, which had been monitored as a bellwether for hundreds of other similar lawsuits against Merck.",negative,-0.75333571434021
+2009-09-12,Jury Deadlock Ends a Trial Over Merck’s Bone Drug,negative,-0.7467979788780212
+2009-10-26,European antitrust regulators have given their blessing to the $41 billion merger of healthcare giants Merck and Schering-Plough.,positive,0.668692409992218
+2009-10-26,E.U.,neutral,0.04360159859061241
+2009-10-26,Regulators Approve Merck-Schering Deal,neutral,0.3793058693408966
+2009-10-30,Merck and Schering-Plough said Thursday they have won merger approval from the Federal Trade Commission and antitrust regulators in Switzerland and Canada.,positive,0.9036566019058228
+2009-10-30,Merck Merger Wins F.T.C.,positive,0.6366493105888367
+2009-10-30,Approval,neutral,0.022716157138347626
+2009-11-13,Researchers will present results with potentially significant implications for multibillion-dollar cholesterol medications from Merck.,neutral,0.2739467918872833
+2009-11-13,A New Cholesterol Study Puts Focus on Merck Drugs,neutral,0.0362510085105896
+2009-11-16,Critics say the industry is trying to establish a higher price base before Congress passes legislation that tries to curb drug spending in coming years.,negative,-0.7270250916481018
+2009-11-16,Drug Makers Raise Prices in Face of Health Care Reform,neutral,-0.01825737953186035
+2009-11-17,"The results of the long-awaited trial could have been worse for Zetia, the blockbuster cholesterol-lowering drug, analysts said, and the drug maker’s shares rose.",positive,0.8240050673484802
+2009-11-17,Investors Seem Unshaken After Study of Merck Drug,negative,-0.12496110796928406
+2009-11-24,A study proposes a broad model for monitoring drug safety that would consist of detailed publicly available data that independent researchers could freely analyze.,neutral,0.037664394825696945
+2009-11-24,Public Database Is Urged to Monitor Drug Safety,neutral,-8.169934153556824e-05
+2010-02-17,"Merck posted quarterly revenue above analysts’ estimates on Tuesday, helped by strong sales of its diabetes and allergy drugs, Reuters reported.",positive,0.913547694683075
+2010-02-17,"In Wake of Merger, Merck Beats Forecasts",negative,-0.7288373112678528
+2010-02-17,"Stocks posted their biggest daily percentage gain in three months on Tuesday after strong revenue from Merck and positive regional manufacturing data instilled confidence in the economic outlook, Reuters reported.",positive,0.8806972503662109
+2010-02-17,Shares Gain as Merck Reports Strong Results,positive,0.6947116255760193
+2010-03-01,"Merck of Germany said on Sunday that it had agreed to buy Millipore, an American provider of tools and services for bioscience companies, for about $7.2 billion, including debt.",positive,0.7660641074180603
+2010-03-01,Germany’s Merck to Buy Millipore for $7.2 Billion,neutral,0.03782399743795395
+2010-03-01,"The takeover of Millipore, a provider of purifiers and filters for laboratories, will give Merck a big presence in products for the biotechnology industry.",positive,0.7948580980300903
+2010-03-01,Merck to Pay $7.2 Billion for Millipore,neutral,0.05098184570670128
+2010-03-06,"Merck’s Australian unit failed to warn a doctor about heart risks associated with its painkiller Vioxx, a court in Melbourne found.",negative,-0.9311711192131042
+2010-03-06,Australian Court Finds Damages in a Vioxx Case,negative,-0.8669081330299377
+2010-03-09,"Merck and Sanofi-Aventis, two of the world’s biggest pharmaceutical companies, said Tuesday they are uniting their animal health businesses in a deal to lead in the veterinary industry, The Associated Press reported.",positive,0.805413544178009
+2010-03-09,Sanofi and Merck Announce Animal Health Venture,neutral,0.052058614790439606
+2010-04-03,Can a settlement in a Merck shareholder case provide a road map toward the future of corporate governance?,positive,0.6039191484451294
+2010-04-03,Does Merck Agreement Pave a Road Toward Change?,neutral,0.3716703951358795
+2010-04-04,The settlement by Merck of a shareholder lawsuit over Vioxx represent what may turn out to be a pivotal moment in the corporate governance arena.,positive,0.5973690748214722
+2010-04-04,Does Merck Agreement Pave a Road Toward Change?,neutral,0.3716703951358795
+2010-06-14,The Human Genome Project has not produced the promised cornucopia of new drugs.,neutral,-0.08433931320905685
+2010-06-14,Awaiting the Genome Payoff,neutral,-0.02471792697906494
+2010-06-26,Merck lost a second trial to reach a verdict over claims that its osteoporosis drug Fosamax caused so-called jaw death.,negative,-0.903708279132843
+2010-06-26,Jury Says Merck Must Pay $8 Million in Fosamax Case,negative,-0.6658531427383423
+2010-07-09,"The restructuring follows a merger of the drug giants Merck and Schering-Plough, and involves closing eight research and eight manufacturing sites worldwide.",neutral,0.03720313310623169
+2010-07-09,Merck Plans to Lay Off About 15% of Workers,negative,-0.9567862153053284
+2010-07-22,The late-trial success of telaprevir has given medical experts reason to believe a new wave of drugs could lead to far better treatment outcomes for patients who have the virus.,positive,0.8943990468978882
+2010-07-22,Hope Against Hepatitis C,neutral,0.03881256282329559
+2010-07-22,"A little more than a year after acquiring Genentech, Roche said Thursday that its profits for the first half of this year had risen by 37 percent from the same period a year before as exceptional costs associated with the merger had fallen.",positive,0.8715684413909912
+2010-07-22,Roche Profit Up on Genentech Synergies,positive,0.8330488204956055
+2010-08-05,"New drugs for hepatitis C and superhigh cholesterol succeeded in late-stage clinical trials, the developers of the products announced on Wednesday.",positive,0.6672563552856445
+2010-08-05,Promising Results Reported for Cholesterol and Hepatitis C Drugs,positive,0.9076529145240784
+2010-08-14,The inquiry focuses on whether companies made illegal payments to doctors and officials in foreign countries.,negative,-0.7741179466247559
+2010-08-14,U.S. Inquiry of Drug Makers Is Widened,negative,-0.4270443916320801
+2010-10-30,The drug maker exceeded analysts’ third-quarter estimates by 2 cents.,positive,0.74570631980896
+2010-10-30,Cost Cuts Help Merck to Avert Revenue Losses,positive,0.6057980060577393
+2010-11-11,"As recent lawsuits suggest a long-term risk, doctors and drug makers are debating the use of osteoporosis drugs.",neutral,-0.2497655749320984
+2010-11-11,"Drug Suits Raise Questions for Doctors, and Juries",negative,-0.4568057954311371
+2010-11-17,Patients taking the drug anacetrapib had a 39.8 percent reduction in bad cholesterol and a 138.1 percent increase in good cholesterol.,positive,0.24476838111877441
+2010-11-17,Merck Drug for Cutting Cholesterol Is Promising,neutral,0.00945867970585823
+2010-11-20,"Judith Graves, a Florida woman, had sued the company, claiming that its osteoporosis drug, Fosamax, caused her jawbone to disintegrate.",negative,-0.8923372030258179
+2010-11-20,"Merck Not at Fault in Fosamax Trial, Jurors Say",negative,-0.8679604530334473
+2010-11-20,"Patients with chronic kidney disease who took Vytorin, a cholesterol-lowering pill, had one-sixth fewer heart attacks, strokes or operations to unblock their arteries than patients taking a placebo.",negative,-0.7388295531272888
+2010-11-20,Study Suggests a Cholesterol Pill Benefits Patients With Kidney Disease,neutral,0.0975804477930069
+2011-01-28,"Mr. Horan led Merck as the company’s portfolio of pharmaceuticals expanded, including a hepatitis B vaccine, new antibiotics and heart medications.",positive,0.8672876358032227
+2011-01-28,"John Horan, Former Chief of Merck, Dies at 90",neutral,-0.31808099150657654
+2011-03-23,The French pharmaceutical giant Sanofi-Aventis says it will issue $7 billion worth of notes to help finance its acquisition of the American biotechnology firm Genzyme.,neutral,0.4159912168979645
+2011-03-23,Sanofi Raising $7 Billion in Debt to Fund Genzyme Deal,neutral,0.13940493762493134
+2011-05-13,"Victrelis, from Merck, is the first of a new generation of drugs that promise to increase the cure rate while shortening the treatment time.",positive,0.8133236169815063
+2011-05-13,Merck’s Hepatitis C Drug Wins F.D.A.,positive,0.7281976938247681
+2011-05-13,Approval,neutral,0.022716157138347626
+2011-05-23,The approval of a Vertex Pharmaceuticals drug sets off a marketing battle with Merck.,positive,0.3959820866584778
+2011-05-23,Second Drug Wins Approval For Treatment of Hepatitis C,positive,0.8857664465904236
+2011-06-20,"Some large corporations are pushing for a tax holiday to bring back offshore profits, but the economic benefits were limited the last time such a break was given.",negative,-0.5522623062133789
+2011-06-20,Companies Push for Tax Break on Foreign Cash,neutral,-0.24303469061851501
+2011-09-10,The F.D.A.,neutral,-0.0011012032628059387
+2011-09-10,"is expected to issue a revised label in November for bone-building drugs like Fosamax, Actonel and Boniva.",neutral,0.10177969187498093
+2011-09-10,Stronger Cautions Backed on Bone Drugs for Women,neutral,0.05592450499534607
+2011-11-21,The federal approval of Eylea came after years of research and a total $1.2 billion in losses.,positive,0.6046423316001892
+2011-11-21,"Success Long in Coming for Eylea, a Vision Treatment",positive,0.5588691234588623
+2011-11-22,Merck has pleaded guilty to a criminal charge over the marketing and sales of the painkiller Vioxx.,negative,-0.8117912411689758
+2011-11-22,Merck to Pay $950 Million Over Vioxx,neutral,0.028859596699476242
+2011-12-07,A pledge by Merck to invest $1.5 billion in research and development in China suggests that the pharmaceutical industry’s center of gravity is shifting eastward.,neutral,0.3210291266441345
+2011-12-07,China’s Allure in Drug Research,neutral,0.060937464237213135
+2012-02-01,"With its concentration of pharmaceutical giants and academic powerhouses, the region could be a major center for life sciences businesses, developers say.",positive,0.5721604228019714
+2012-02-01,Life Sciences Projects Revive in Central New Jersey,neutral,0.026715412735939026
+2012-03-06,"The proposed new drug would combine Merck’s drug Zetia, which lowers “bad” cholesterol, with the generic version of Lipitor, the statin made by Pfizer.",neutral,0.2850050926208496
+2012-03-06,"In Rejection, F.D.A.",neutral,-0.2910013198852539
+2012-03-06,Wants More Data From Merck,neutral,0.03371535241603851
+2012-06-21,The health advocates contend Merck is improperly marketing the allergy medicine directly to children by using characters from the movie “Madagascar 3: Europe’s Most Wanted.”,negative,-0.9219872951507568
+2012-06-21,Health Groups Criticize Allergy Drug Promotion,negative,-0.6155614852905273
+2012-12-20,"The combination did not protect against heart attacks and strokes in a large clinical trial, and the company said it would no longer pursue its approval in the United States.",negative,-0.8760800361633301
+2012-12-20,Merck Says Niacin Drug Has Failed Large Trial,negative,-0.938582181930542
+2013-02-01,"The drug maker said it would delay seeking approval for an experimental osteoporosis drug, an announcement that helped send the company’s shares down 3 percent.",negative,-0.9387305974960327
+2013-02-01,Merck Delays Osteoporosis Drug,negative,-0.5633123517036438
+2013-02-14,The drug maker agreed to pay $688 million to settle two lawsuits that said it had harmed investors by delaying the release of unfavorable study results for a cholesterol drug.,negative,-0.49361056089401245
+2013-02-14,Merck Settles Suits Over Cholesterol Drug,negative,-0.2835279405117035
+2013-03-07,"Dr. Roger M. Perlmutter, the former research head of Amgen, will replace Peter S. Kim, who is retiring after a number of successes and some recent disappointments.",neutral,0.025811072438955307
+2013-03-07,Merck Replaces Its Research Chief,neutral,-0.22753889858722687
+2013-05-04,"The drug pairs Merck’s Zetia, which lowers low-density lipoprotein, with the generic version of Lipitor, the best-selling statin made by Pfizer that lost its patent protection in 2011.",neutral,0.13000978529453278
+2013-05-04,Drug to Cut Cholesterol Is Approved by the F.D.A.,neutral,0.4262012839317322
+2013-05-16,Researchers reported that a combination of two drugs from Bristol-Myers Squibb appeared to shrink tumors in 41 percent of patients in a small study.,neutral,0.03757098317146301
+2013-05-16,Melanoma Treatment Harnesses Immune System to Combat Cancer Cells,neutral,0.17581330239772797
+2013-05-30,"Findings by Dr. Peter C. Butler on Merck’s medication Januvia are threatening the future of all drugs in its class, yearly sales of which exceed $9 billion.",negative,-0.9448743462562561
+2013-05-30,A Lone Voice Raises Alarms on Lucrative Diabetes Drugs,negative,-0.5458940267562866
+2013-06-03,"The drug, lambrolizumab, significantly shrank melanoma tumors, the company reported on Sunday.",positive,0.5069358348846436
+2013-06-03,Merck Has Solid Results in a Cancer Drug Trial,positive,0.8921981453895569
+2013-06-04,"The drugs work by unleashing the immune system to attack cancer cells, much as it attacks bacteria or other foreign invaders in the human body.",neutral,-0.018357113003730774
+2013-06-04,Promising New Cancer Drugs Empower the Body’s Own Defense System,neutral,0.1312050223350525
+2013-07-01,"Merck said the Food and Drug Administration had rejected an application for a new sleeping pill called suvorexant, but would probably approve it in smaller doses.",negative,-0.610709011554718
+2013-07-01,F.D.A.,neutral,0.04497655853629112
+2013-07-01,Prefers Smaller Dosage of Merck Sleep Drug,neutral,0.07583834230899811
+2013-07-16,"Rising Chinese demand for drugs is a boon for foreign companies, but bribery allegations against GlaxoSmithKline underscore the risk of scrutiny from officials.",negative,-0.6912246346473694
+2013-07-16,"For Global Drug Manufacturers, China Becomes a Perilous Market",negative,-0.9189836978912354
+2013-07-26,The European Medicines Agency said that there was little evidence that drugs to treat Type 2 diabetes could cause pancreatic inflammation or cancer.,neutral,-0.11909709870815277
+2013-07-26,European Regulator Finds Little Risk in Diabetes Drugs,neutral,0.009005233645439148
+2013-08-14,"The Food and Drug Administration is considering the residual drowsiness that can persist the day after taking prescription sleep aids, and whether users can drive safely upon waking.",neutral,0.009263813495635986
+2013-08-14,"To Judge Sleep Aids, U.S. Looks at Drowsy Driving in the Morning",neutral,-0.1253107786178589
+2013-10-01,"The company also announced that it was abandoning plans to move from Whitehouse Station, N.J., to a new headquarters and would cut $2.5 billion in costs in the next two years.",negative,-0.7062215209007263
+2013-10-01,"Merck Plans to Lay Off Another 8,500 Workers",negative,-0.9505587220191956
+2013-11-15,A promising new class of cholesterol-lowering drugs known as PCSK9 inhibitors is being developed.,neutral,0.11475235223770142
+2013-11-15,Questions for a New Class of Cholesterol Drugs,neutral,0.04371807351708412
+2013-12-05,"Merck said that the purchase of AZ Electronic Materials, which makes chemicals used in semiconductors, would give it “additional growth areas in the electronics industry.”",positive,0.835301399230957
+2013-12-05,Merck to Buy Specialty Chemical Company for $2.57 Billion,neutral,0.03742751479148865
+2013-12-06,"Two companies are asking the Food and Drug Administration for approval to market tablets or liquids to treat allergies, drugs which are already available in Europe.",positive,0.6374496221542358
+2013-12-06,Treating Allergies With Pills or Drops Instead of Shots,neutral,-0.04635462537407875
+2013-12-31,"Questions about Zilmax, a feed additive made by Merck, show the market dangers of an increasingly complicated global food chain, Kevin Allison of Reuters Breakingviews writes.",negative,-0.7264078855514526
+2013-12-31,The Risks of Investing in Animal Medicine,neutral,0.011288225650787354
+2014-03-27,"In the wake of Baxter’s split, Merck, Bayer and Johnson & Johnson may find it hard not to jump on the bandwagon, says Robert Cyran of Reuters Breakingviews.",neutral,-0.4005727469921112
+2014-03-27,Conscious Uncoupling for Drug Makers,neutral,-0.04914037883281708
+2014-05-01,"The big health care company, is close to a deal to sell its consumer unit to Bayer for about $14 billion, a person briefed on the matter said on Thursday.",neutral,0.12429429590702057
+2014-05-01,Merck Said to Be Near Closing Deal With Bayer,neutral,0.29087015986442566
+2014-05-06,"The German drug maker agreed to acquire Merck’s consumer care business for $14.2 billion, gaining control of Claritin, Coppertone and Dr. Scholl’s.",positive,0.7956146597862244
+2014-05-06,Bayer Deal to Expand Consumer Business With Merck Deal,positive,0.8513913154602051
+2014-05-06,"Bayer’s $14.2 billion acquisition of Merck’s consumer care business makes strategic sense and sizable tax breaks will help, writes Olaf Storbeck of Reuters Breakingviews.",positive,0.8755765557289124
+2014-05-06,How Bayer’s Buy Makes Sense,neutral,0.08008179813623428
+2014-06-09,"Merck will pay $24.50 a share in cash, or about $3.85 billion, for the biotechnology company Idenix in an effort to bolster its arsenal of potential drugs in the hotly competitive hepatitis C area.",positive,0.7641540169715881
+2014-06-09,Merck Bids $3.8 Billion for an Edge in Hepatitis,positive,0.4852735698223114
+2014-09-04,"The treatment unleashes the body’s immune system against tumors, and will initially be used against advanced melanoma.",neutral,0.0975223183631897
+2014-09-04,F.D.A.,neutral,0.04497655853629112
+2014-09-04,Allows First Use of a Novel Cancer Drug,neutral,0.06081259250640869
+2014-09-22,The deal is expected to increase Merck’s presence in North America and give it added exposure to markets in Asia.,positive,0.9227898120880127
+2014-09-22,It represents a 37 percent premium to Sigma-Aldrich’s closing price on Friday.,positive,0.7499682307243347
+2014-09-22,Merck of Germany to Acquire Sigma-Aldrich for $17 Billion,neutral,0.014951136894524097
+2014-09-22,"A rare bright spot in the European economy in recent years, many of the biggest German companies have begun capitalizing on their strength, striking big deals for overseas competitors.",positive,0.8502252101898193
+2014-09-22,Cash-Stuffed German Companies on a Global Buying Spree,neutral,0.1647520661354065
+2014-10-27,"The pharmaceutical company’s earnings beat expectations, however, helped by sales of the diabetes drug Januvia and revenue in emerging markets.",positive,0.8380194902420044
+2014-10-27,Merck Sales Down 4%; Profit Beats Forecasts,negative,-0.9679991602897644
+2014-11-17,"The alliance between the American and German companies is expected to strengthen Merck’s oncology business in several important markets, including the United States.",positive,0.9330943822860718
+2014-11-17,Pfizer to Pay up to $2.9 Billion in Cancer Drug Deal With Merck of Germany,positive,0.6592859625816345
+2014-12-06,The deal would represent another multibillion-dollar health care transaction in a banner year for mergers and acquisitions in the industry.,positive,0.8207228183746338
+2014-12-06,Merck Said to Weigh Acquisition of Rival Drug Maker Cubist,neutral,0.08415129035711288
+2014-12-07,"In two early stage studies, Bristol-Myers Squibb’s nivolumab and Merck’s pembrolizumab shrank tumors in patients with Hodgkin’s lymphoma.",negative,-0.6152305006980896
+2014-12-07,Cancer Drugs That Free Brake on Immune System Show Promise for Hodgkin’s,positive,0.6178827285766602
+2014-12-08,"The deal will give Merck, the second-largest American drug maker after Pfizer, control of the largest antibiotics company, and deepen its ties with hospitals.",positive,0.8312380909919739
+2014-12-08,"Merck in $8.4 Billion Deal for Cubist, Big Maker of Antibiotics",neutral,0.4630807042121887
+2014-12-08,Merck agrees to buy Cubist in a deal valued at $9.5 billion.,positive,0.6934120655059814
+2014-12-08,| A hedge fund keeps an S.E.C.,neutral,-0.017407411709427834
+2014-12-08,inquiry quiet.,neutral,-0.018917590379714966
+2014-12-08,| Big deals are back this year.,neutral,0.4131861925125122
+2014-12-08,| Deal makers regain their power on Wall Street.,positive,0.6588003039360046
+2014-12-08,Morning Agenda: Merck Goes After Cubist,neutral,-0.1620393693447113
+2014-12-08,"Merck is paying only about 4.3 times Cubist’s estimated revenue for next year — about the same multiple investors give Merck itself, making the acquisition look like a relative bargain, writes Robert Cyran of Reuters Breakingviews.",neutral,-0.15531349182128906
+2014-12-08,Revival for Antibiotics Could Spur Deals,neutral,0.24758245050907135
+2014-12-09,"Just hours after announcing its $8.4 billion acquisition of Cubist Pharmaceuticals, a Delaware judge invalidated patents owned by the antibiotics maker.",negative,-0.9078366756439209
+2014-12-09,Merck appears to have been caught up in the M.&.A.,neutral,0.019345723092556
+2014-12-09,"exuberance, says Robert Cyran of Reuters Breakingviews.",positive,0.7934694886207581
+2014-12-09,Merck’s Rose-Colored Glasses in Cubist Deal,neutral,0.025873899459838867
+2014-12-11,"The hospital said it would halt injections of a vaccine licensed to Merck until next month, after some test subjects reported mild joint pain.",negative,-0.8921889662742615
+2014-12-11,Hospital Pauses Test of an Ebola Vaccine Licensed to Merck,neutral,0.02660733088850975
+2015-01-23,"Tests of drugs developed by GlaxoSmithKline and Merck are expected to begin in Liberia in two weeks, federal officials said.",neutral,0.012443196028470993
+2015-01-23,Trial of 2 Ebola Vaccines’ Effectiveness Is Announced,neutral,0.12048540264368057
+2015-03-04,"Opdivo, from Bristol-Myers Squibb, which harnesses the body’s own immune system to attack tumors, was approved after strong results in a study.",positive,0.8102458715438843
+2015-03-04,Lung Cancer Treatment Using Immune System Wins F.D.A.,positive,0.5374252796173096
+2015-03-04,Approval,neutral,0.022716157138347626
+2015-03-16,"The higher offer quickly put an end to Endo’s rival bid, but the added cost, along with the debt Valeant already holds, may hurt the company.",negative,-0.9548242092132568
+2015-03-16,Valeant’s Sweetened Bid for Salix May Have Delivered 2 Knockouts,neutral,0.1310535967350006
+2015-05-07,Johnson & Johnson named the bioethicist Arthur L. Caplan to create a panel to decide on patients’ requests for lifesaving medicines before they are approved.,neutral,0.04939528554677963
+2015-05-07,Company Creates Bioethics Panel on Trial Drugs,neutral,0.039166443049907684
+2015-05-29,A study sheds light on why the new medicines seem to work for some cancers and not others.,neutral,0.0741896778345108
+2015-05-29,New Class of Drugs Shows More Promise in Treating Cancer,positive,0.8150023818016052
+2016-01-11,Some pharmaceutical companies will form the National Immunotherapy Coalition to rapidly test various combinations of promising new types of cancer drugs.,neutral,0.1960538923740387
+2016-01-11,Drug Companies to Try a Unified Front Against Cancer,neutral,-0.19005906581878662
+2016-08-05,Bristol-Myers Squibb said the drug had not slowed the progression of advanced lung cancer in a test seeking approval to use it as an initial treatment.,neutral,0.38986936211586
+2016-08-05,Immunotherapy Drug Opdivo Fails Clinical Trial to Expand Use,neutral,-0.11258883774280548
+2016-08-05,Investors wiped off billions in value after Bristol’s cancer drug trial failed.,negative,-0.9128146171569824
+2016-08-05,The stumble will allow its more cautious rival to clean up.,neutral,0.42411038279533386
+2016-08-05,Bristol-Myers Squibb’s Hubris Cost It $21 Billion,negative,-0.9267382621765137

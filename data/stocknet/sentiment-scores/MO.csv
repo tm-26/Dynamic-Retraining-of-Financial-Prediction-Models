@@ -1,0 +1,104 @@
+Date,Sentence,Prediction,sentimentScore
+2014-01-14,The flight landed at a general aviation field with no control tower — seven miles north of the Branson Airport where it was supposed to be.,neutral,-0.09082511067390442
+2014-01-14,Inquiry Begins Into Airliner That Landed in Wrong Place,negative,-0.6718890070915222
+2014-01-18,The National Transportation Safety Board said it had interviewed the pilots of a Southwest Airlines flight that landed at the wrong airport this week.,negative,-0.6634250283241272
+2014-01-18,More Details in Mistaken Landing of a Plane,neutral,-0.025241732597351074
+2014-02-05,A federal judge rules that flashing high beams to warn motorists of a speed trap is not illegal; the 2014 Ram 1500 EcoDiesel pickup gets 28 m.p.g.,negative,-0.5256317257881165
+2014-02-05,Wheelies: The Flashing Lights and Free Speech Rights Edition,neutral,0.05663849413394928
+2014-02-10,"NBCUniversal named Sanjay Macwan a senior vice president of its new Media Labs operation, part of the new NBCUniversal Technology Center.",neutral,0.11635294556617737
+2014-02-10,Accounts and People of Note in the Advertising Industry,neutral,0.009030111134052277
+2014-03-10,"The footwear brand Sanuk selected Ignited and Johnson & Wales University in Providence, R.I., hired Fuseideas as agencies of record.",neutral,0.13002702593803406
+2014-03-10,Accounts and People of Note in the Advertising Industry,neutral,0.009030111134052277
+2014-03-16,"School shootings have prompted efforts by news organizations in recent months to assess the effectiveness of safety measures, but some of these reports have gone disturbingly wrong.",negative,-0.8795443177223206
+2014-03-16,Undercover TV Reports on School Security Raise Ethical Questions,negative,-0.5971715450286865
+2014-03-19,Mr. Stowers founded the company that became American Century Investments and devoted much of his fortune to starting a Kansas City medical institute.,neutral,0.04628431797027588
+2014-03-19,"James E. Stowers Jr., Benefactor of Medical Research, Dies at 90",neutral,-0.10218555480241776
+2014-06-17,"Big Tobacco is moving to turn the e-cigarette market to its advantage, with subsidiaries of the companies that make Marlboro and Camel set to announce nationwide marketing plans.",positive,0.7959141135215759
+2014-06-17,A Bolder Effort by Big Tobacco on E-Cigarettes,positive,0.80408775806427
+2014-07-04,"Ms. Loomis, 85, is retiring from Fortune magazine to a world of bridge playing and — you guessed it — continuing to edit her old friend’s writing.",neutral,-0.015639428049325943
+2014-07-04,"Carol Loomis, Editor for Warren Buffett, Leaves Job After 60 Years",negative,-0.5414744019508362
+2014-07-11,"Investors are pushing up shares of Imperial Tobacco on the possibility that it could acquire brands cast off in a Reynolds-Lorillard deal, but an acquisition would be a stretch financially, and the long-term benefits may be scant.",positive,0.2532915472984314
+2014-07-11,Imperial Tobacco’s Ambitions Challenge Its Balance Sheet,negative,-0.7558677792549133
+2014-07-14,"The deal to acquire Russell Stover, based in Kansas City, Mo., will make Lindt the third-largest chocolate manufacturer in North America.",positive,0.7707050442695618
+2014-07-14,Terms were not disclosed.,neutral,0.01439762394875288
+2014-07-14,Swiss Chocolate Maker Lindt Will Buy Russell Stover Candies,neutral,0.039800867438316345
+2014-07-15,"Once the deal is completed and several brands are divested to Imperial Tobacco, there will be few cigarette brands popular in the United States not owned by either company or the market leader, Altria.",neutral,-0.0007991977035999298
+2014-07-15,"After Reynolds Buys Lorillard, Few Big Tobacco Deals Remain",neutral,0.002112165093421936
+2014-07-21,"The tourism campaign, by VML of Kansas City, Mo., features print, digital and TV ads as well as branded content and an Internet presence.",neutral,0.042675018310546875
+2014-07-21,Ads Promote Tennessee as ‘Made’ for Visitors,neutral,0.03387382626533508
+2014-08-17,"In a situation hostile to traditional reporting, the crowdsourced, phone-enabled network of information that Twitter provides has proved invaluable.",positive,0.8855142593383789
+2014-08-17,View of #Ferguson Thrust Michael Brown Shooting to National Attention,neutral,0.07242213189601898
+2014-08-20,"Cameras worn by officers are being deployed in a rising number of police departments across the country, in some cases exposing problem officers.",negative,-0.5161247253417969
+2014-08-20,"Police Cameras Can Shed Light, but Raise Privacy Concerns",negative,-0.46773362159729004
+2014-09-04,Michael Bloomberg will resume leadership of his business empire.,neutral,0.14685146510601044
+2014-09-04,| Proposed rule to reduce risk of derivatives.,neutral,0.35892605781555176
+2014-09-04,"| A troubled housing market in Ferguson, Mo.",negative,-0.8895154595375061
+2014-09-04,| High-ranking prosecutor leaving Justice Department.,negative,-0.6382944583892822
+2014-09-04,Morning Agenda: Bloomberg Returning to His Company,neutral,0.0750657171010971
+2014-09-05,"On a day of protests to demand higher wages and a union for fast-food workers, activists from Ferguson, Mo., decided to protest in New York City as a sign of respect for Michael Brown’s family.",negative,-0.7580181360244751
+2014-09-05,A Ferguson Activist in New York,negative,-0.36078524589538574
+2014-09-06,"Both Kansas City, Mo., and Kansas City, Kan., have Google Fiber, a high-speed fiber-optic network, and are having a hard time figuring out what to do with so much power.",negative,-0.7645533680915833
+2014-09-06,Two Cities With Blazing Internet Speed Search for a Killer App,neutral,-0.004798337817192078
+2014-09-08,"Tim Pool, who most recently worked for Vice Media, is known for his tech-driven eyewitness reporting during events in Ferguson, Mo., and at the Occupy Wall Street protests.",neutral,0.010994119569659233
+2014-09-08,Fusion Set to Name Director of Media Innovation,neutral,0.037446096539497375
+2014-09-10,"CartoDB, whose 30-person team is split between Madrid and New York, is the latest in a number of start-ups to offer services that try to make sense of the mountain of information readily available through the Internet.",neutral,0.10837344080209732
+2014-09-10,"CartoDB, Interactive Mapping Start-Up, Raises $7 Million",positive,0.6770097017288208
+2014-09-29,"The tobacco industry’s giants are putting health warnings on e-cigarettes that outstrip both those on traditional cigarettes and those on e-cigarettes made by smaller competitors, leaving public health officials skeptical about the companies’ intent.",negative,-0.8485928177833557
+2014-09-29,Dire Warnings by Big Tobacco on E-Smoking,negative,-0.8965550661087036
+2014-10-27,"A report by the PEN American Center cited police interference with journalists, including holding reporters in areas that denied them access to the protests, and accusations of threats and assaults.",negative,-0.8362443447113037
+2014-10-27, U.S. Inquiry Sought in Police Treatment of Press at Ferguson Protests,negative,-0.8796563744544983
+2014-12-02,"A bakery in Ferguson, Mo., raises $250,000 through crowdfunding.",positive,0.6520036458969116
+2014-12-02,How to avoid making rookie legal mistakes.,neutral,0.02005748823285103
+2014-12-02,And French business owners stage protests across the country.,negative,-0.8157244324684143
+2014-12-02,Today in Small Business: Advance Ticketing for Restaurants,neutral,0.036910973489284515
+2014-12-04,"The Twitter hashtag was an expression of unity with those angered by the decision not to indict a police officer in the death of Eric Garner, but it had its critics.",negative,-0.848760724067688
+2014-12-04,Grand Jury Decision Leads to Twitter Confessions of ‘Criming While White’,negative,-0.5630413293838501
+2014-12-05,Mecum Auctions to sell 750 cars in Kansas City; Virginia auction features rough classics; Road Atlanta hosts amateur racing.,neutral,-0.00291336327791214
+2014-12-05,Weekend Auto Calendar: Auctions Feature Gleaming Classics and Future Rat Rods,neutral,0.03734026849269867
+2015-01-05,"“The Wizard of Watts,” an animated musical coming to Adult Swim on Saturday, takes on greater weight as a national debate over race and overzealous policing is underway.",positive,0.2686645984649658
+2015-01-05,"Racially Ignited, a Magical World Is Uncanny",neutral,0.0610208697617054
+2015-02-04,"Ford said on Wednesday that it would add 1,550 new jobs at four plants in the United States to increase production of the latest version of its top-selling F-series pickup.",positive,0.9026101231575012
+2015-02-04,Ford Raises Pay for 500 Workers as Demand Grows for F-150 Pickup,positive,0.07765048742294312
+2015-05-02,"With a new publisher and plenty of news to report, the now-weekly newspaper is seeking to lure new readers with a more empowering narrative.",positive,0.760456919670105
+2015-05-02,"Reinvigorating The Chicago Defender, a Historic Print Voice",positive,0.5545679330825806
+2015-05-08,"As the pace of genetic modification slows, a company that refashioned itself from chemicals to biotechnology shows interest in diversifying back into pesticides.",neutral,0.3706659972667694
+2015-05-08,"Monsanto, in Bid for Syngenta, Reaches for a Business It Left Behind",neutral,-0.01743747666478157
+2015-06-01,"From the new book “Playing With Math,” imbalance puzzles by Paul Salomon.",neutral,-0.0068679079413414
+2015-06-01,Paul Salomon’s Imbalance Puzzles,neutral,-0.25368255376815796
+2015-06-08,"The latest offer from the American company added a $2 billion breakup fee if regulators balked, but the Swiss manufacturer called the bid inadequate.",negative,-0.9187295436859131
+2015-06-08,Syngenta Rejects Second Takeover Approach From Monsanto,negative,-0.49224165081977844
+2015-06-30,An architect has led an effort to dump some 40 tons of dirt on the roof of a two-story building and grow organic vegetables.,neutral,-0.02674909308552742
+2015-06-30,"In St. Louis, an Urban Farmer Uses a Rooftop and Food to Spur Renewal",neutral,-0.03750919550657272
+2015-07-01,"Four executives of leading health care organizations are members of the board of the U.S. Chamber of Commerce, which is engaged in a worldwide campaign to thwart antismoking laws.",neutral,-0.015548545867204666
+2015-07-01,U.S. Chamber Fights Smoking Laws While Hospitals and Insurers Sit on Its Board,neutral,-0.253103107213974
+2015-07-02,The cash-and-stock deal includes the assumption of $500 million in debt and would bolster Centene’s presence in the Western United States.,positive,0.9087070822715759
+2015-07-02,Centene to Acquire Its Managed Care Rival Health Net for $6.8 Billion,neutral,0.05334392562508583
+2015-09-15,"Hotel projects have drawn financial support from cities seeking increased convention business, but this support has sometimes become contentious.",neutral,0.09873469173908234
+2015-09-15,"Looking for Conventions, Cities Add Hotel Rooms",neutral,0.039450377225875854
+2015-10-07,"Anheuser-Busch InBev can pressure SABMiller, but it desperately wants to avoid making a hostile takeover given the antitrust issues.",negative,-0.8207778334617615
+2015-10-07,Nudging a Huge Beer Deal Down a Long Road,neutral,-0.22143027186393738
+2015-10-08,The brewing giant is trying to keep the pressure up on its longtime rival in hopes of securing the largest beer merger in history before a looming deadline.,neutral,0.250899076461792
+2015-10-08,Anheuser-Busch InBev Says It’s ‘Surprised’ by SABMiller Rejection,positive,0.48257485032081604
+2015-10-09,"The brewer of Miller Lite and Peroni aims to convince investors it should stay independent, as it fends off bids from Anheuser-Busch InBev.",positive,0.8240299820899963
+2015-10-09,SABMiller Targets More Cost Savings in Takeover Defense,positive,0.8675177097320557
+2015-10-12,The latest approach came as Anheuser-Busch InBev is facing a Wednesday deadline to make a formal offer for SABMiller.,neutral,0.09986058622598648
+2015-10-12,Anheuser-Busch InBev Increases Offer for Rival SABMiller,positive,0.7131026387214661
+2015-10-27,The two beer giants are facing a Wednesday deadline that would require Anheuser-Busch InBev to make what is considered a formal offer under British takeover rules.,negative,-0.5244936347007751
+2015-10-27,SABMiller Expected to Seek More Time for Takeover Talks,neutral,0.05014283210039139
+2015-11-03,"Rising 217 feet into the skyline, the tower was built in the 1920s with donations from the city’s residents.",neutral,0.12633277475833893
+2015-11-03,They also helped restore it in the ’90s.,neutral,0.4439927935600281
+2015-11-03,A World War I Memorial in Kansas City Is a Tribute to Giving,neutral,0.06602203100919724
+2015-11-04,Anheuser-Busch InBev now has until Nov. 11 to make a formal offer for its smaller brewing rival under British takeover rules.,neutral,0.062359295785427094
+2015-11-04,SABMiller and Anheuser-Busch InBev Deadline for Talks Is Extended,neutral,-0.028156841173768044
+2016-03-23,"Some officials and residents are promoting less centralized energy-generating systems instead of giant transmission networks, and conflict is growing.",negative,-0.9210314750671387
+2016-03-23,Fight to Keep Alternative Energy Local Stymies an Industry,neutral,-0.12705950438976288
+2016-04-05,"Since Calpers sold their stocks, Altria and Reynolds American have used overseas growth and cost-cutting to greatly increase their share prices.",positive,0.9295054078102112
+2016-04-05,Calpers Rethinking Policy Banning Investment in Tobacco Stocks,neutral,0.07708950340747833
+2016-07-15,High debt and a glut of unneeded factories are hindering the government’s usual method of using spending and lending to create more activity.,negative,-0.9520847201347351
+2016-07-15,"As China’s Economy Slows, Beijing’s Growth Push Loses Punch",negative,-0.9116259217262268
+2016-07-19,"Banks made fewer loans to borrowers in minority neighborhoods than to those with similar incomes in white neighborhoods, a consumer group found.",negative,-0.6594574451446533
+2016-07-19,"Race Strongly Influences Mortgage Lending in St. Louis, Study Finds",neutral,0.0014500580728054047
+2016-08-27,"American barrel-making is on the upswing, fed by demand from winemakers, distillers and brewers, and science is transforming the ancient craft.",positive,0.609502911567688
+2016-08-27,Packing Technology Into the Timeless Barrel,neutral,0.11520038545131683
+2016-11-06,"Proposition 56 would tax e-cigarettes in the state for the first time, despite evidence suggesting e-cigarettes are less harmful and may help people quit smoking.",neutral,0.4419529438018799
+2016-11-06,Who Wins if California Voters Tax E-Cigarettes?,neutral,0.028595559298992157

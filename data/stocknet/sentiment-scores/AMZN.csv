@@ -1,0 +1,767 @@
+Date,Sentence,Prediction,sentimentScore
+2014-01-04,Several applications are available to help consumers set up a budget and track their income and expenditures.,neutral,0.04965770244598389
+2014-01-04,Make a Resolution to Budget?,neutral,0.11982721090316772
+2014-01-04,Here Are Some Apps to Help,neutral,-0.013400886207818985
+2014-01-06,"Silicon Valley today is a huge, undulating bubble.",neutral,0.0499386340379715
+2014-01-06,But which companies are overvalued and which are not is the $1 billion question.,neutral,-0.15384244918823242
+2014-01-06,$1 Billion as Milestone and Omen,neutral,0.035425249487161636
+2014-01-14,The decision by a federal appeals court could pave the way for providers like Verizon and AT&T to charge content companies to deliver data at a faster speed.,positive,0.513823390007019
+2014-01-14,Rebuffing F.C.C.,neutral,0.012957043945789337
+2014-01-14,"in ‘Net Neutrality’ Case, Court Allows Streaming Deals",neutral,-0.12964877486228943
+2014-01-16,"A small group of technical workers at the Amazon warehouse in Middletown, Del., voted overwhelmingly against joining the International Association of Machinists and Aerospace Workers.",negative,-0.5760477185249329
+2014-01-16,Workers at an Amazon Warehouse Reject Forming a Union,negative,-0.8013014197349548
+2014-01-30,"Revenue rose 20 percent, but the online retailer said it was considering raising prices by as much as 50 percent on its $79 Prime shipping program.",positive,0.8979355692863464
+2014-01-30,Amazon to Raise Fees as Revenue Disappoints,negative,-0.728587806224823
+2014-01-31,Amazon considers raising its fees.,neutral,0.13435925543308258
+2014-01-31,And two business owners debate the merits of the Affordable Care Act.,neutral,-0.03898972272872925
+2014-01-31,Today in Small Business: the Most Promising Companies,positive,0.6558427810668945
+2014-02-11,It’s extremely expensive to ship a conference table across the country.,neutral,-0.15218289196491241
+2014-02-11,Here is why I am considering doing it free.,neutral,0.047254424542188644
+2014-02-11,There Is No Free Shipping,neutral,-0.009567607194185257
+2014-02-19,Mr. Patterson sells heaps of books and makes piles of money.,neutral,-0.008723754435777664
+2014-02-19,Now he is sharing the wealth with independent booksellers.,neutral,0.15086136758327484
+2014-02-19,James Patterson Giving Cash to Bookstores,neutral,0.008445531129837036
+2014-02-21,"BBVA’s acquisition of Simple increases the possibility that banks can find a way to mastermind their own technological disruption, writes Fiona Maharg-Bravo of Reuters Breakingviews.",neutral,0.4539400041103363
+2014-02-21,The Online Challenge for Banking,neutral,0.06373102962970734
+2014-02-25,"Riffing on Amazon’s plan to deliver via drone, Netflix’s parody video shows Netflix DVDs being dropped from the sky, sometimes with unfortunate consequences.",negative,-0.8034582734107971
+2014-02-25,"With ‘Drone to Home’ Service, Netflix Uses Satire Against Amazon",negative,-0.5475329756736755
+2014-02-28,"Rocket Internet, which funds e-commerce start-ups that mimic proven business models, operates in sharp contrast to Silicon Valley, where originality is prized.",negative,-0.44381240010261536
+2014-02-28,Copycat Business Model Generates Genuine Global Success for Start-Up Incubator,positive,0.8923543095588684
+2014-03-06,People aren’t the only things that are predictable — so are the computer programs they write.,neutral,-0.06407562643289566
+2014-03-06,A team of researchers at Stanford says predictability can be used to make large-scale systems work three times more efficiently by removing the human guesswork about computing resources from the system.,neutral,0.03490423038601875
+2014-03-06,Making Cloud-Computing Systems More Efficient,neutral,0.36781826615333557
+2014-03-10,Transportation and terrain were surmountable production challenges for the co-founder of the beverage company Runa.,neutral,0.05991054326295853
+2014-03-10,Fruitful but Tough Adventures in the Amazon,neutral,0.15711411833763123
+2014-03-13,"Plus, reconciling your Picasa photos with Google Plus.",neutral,0.03637790307402611
+2014-03-13,Locking Up Amazon Deliveries,neutral,-0.26643043756484985
+2014-03-25,Apple and Amazon customers on Tuesday were notified of opportunities to get some money back as a result of two separate legal settlements with the government.,positive,0.6682257056236267
+2014-03-25,Both cases revolve around Apple.,neutral,-0.012819137424230576
+2014-03-25,"In Two Settlements, Money for Apple and Amazon Customers",neutral,0.08223441243171692
+2014-04-01,What small businesses can learn from Amazon Prime.,neutral,0.05731280893087387
+2014-04-01,Customer-service lessons from Four Seasons Hotels.,neutral,0.10519465059041977
+2014-04-01,"And an Instagram meme called, “Baby Suiting.”",neutral,-0.07823441922664642
+2014-04-01,Today in Small Business: Erosion,neutral,-0.04694187641143799
+2014-04-02,"Amazon’s founder and chief executive was not on hand for the public announcement of the company’s Fire TV, its biggest move in hardware since 2011.",negative,-0.505860447883606
+2014-04-02,Where was he?,negative,-0.4672563672065735
+2014-04-02,"Jeff Bezos, Please Call Your Office",neutral,-0.01305769570171833
+2014-04-03,"With the Fire TV, Amazon is leveraging its position as a retailer to expand into new fields, something it has become very good at.",positive,0.8570185303688049
+2014-04-03,Daily Report: Amazon’s Fire TV Is a Bid to Take Over the Living Room,neutral,0.030036576092243195
+2014-04-04,"To make its set-top box viable, Amazon will have to spend a lot of money.",neutral,0.2869108319282532
+2014-04-04,That’s something it’s never been afraid of doing.,neutral,0.005658432841300964
+2014-04-04,Amazon Channels a Cheaper Television Experience,neutral,0.03214797377586365
+2014-04-07,"Liberty Media, the investment company, said last week that it would sell most of its stake in Barnes & Noble, partly because the Nook tablet failed to meet long-term expectations.",negative,-0.9150633811950684
+2014-04-07,"Meanwhile, Amazon’s Kindle is competing well with the iPad, and last week Amazon introduced Fire TV, a set-top box.",positive,0.8835160136222839
+2014-04-07,Popular Demand,neutral,0.06970230489969254
+2014-04-10,A small company offers cheaper web hosting than Amazon.,neutral,0.08791597932577133
+2014-04-10,South Carolina small businesses prepare for rising sea levels.,neutral,0.037014737725257874
+2014-04-10,And Pizza Hut invades Iraq.,neutral,-0.1981028914451599
+2014-04-10,Today in Small Business: Saving the Family Business,positive,0.45305487513542175
+2014-04-11,"Hardware like home routers and printers is connected to the Internet, and the Heartbleed bug is built into some of it.",neutral,-0.030710391700267792
+2014-04-11,"Daily Report: Security Flaw Could Extend to Digital Devices, Experts Say",negative,-0.747634768486023
+2014-04-14,"Viewers watched on-demand television programming an average of 8.7 hours a month in 2013, according to Rentrak.",neutral,0.008173611015081406
+2014-04-14,Free broadcast and cable TV shows accounted for 6.4 of those hours.,neutral,0.0037485789507627487
+2014-04-14,"Most viewers, 66 percent, watched a show at least four days after it was originally broadcast.",neutral,-0.040543895214796066
+2014-04-14,Popular Demand,neutral,0.06970230489969254
+2014-04-16,"To develop EasyPost, Jarrett Streebin talked to lots of small-business owners about their postage and shipping pain points.",neutral,0.050551753491163254
+2014-04-16,Software That Helps Small Businesses Ship Like Amazon,neutral,0.04051247611641884
+2014-04-19,The bug that rattled the Internet last week exposed the paradox that some of the web’s most crucial coding depends on the efforts of volunteers.,neutral,-0.3808109164237976
+2014-04-19,Heartbleed Highlights a Contradiction in the Web,negative,-0.3879799246788025
+2014-04-23,"In a deal believed to be worth at least $300 million, Amazon is forming an alliance with HBO.",neutral,0.48052945733070374
+2014-04-23,Amazon to Stream Original HBO Content,neutral,-0.0015395581722259521
+2014-04-24,"The company had earnings per share of 23 cents, exactly hitting forecasts.",positive,0.685243546962738
+2014-04-24,"Last quarter, analysts expected more than twice that amount.",positive,0.6222653985023499
+2014-04-24,"Amazon’s Revenue Grew 23 Percent in First Quarter, Nearing $20 Billion",positive,0.9351022839546204
+2014-04-25,How to build employee satisfaction.,neutral,0.46484482288360596
+2014-04-25,A forecast concerns the Maine lobster industry.,neutral,-0.24979718029499054
+2014-04-25,And Amazon tests its own delivery network.,neutral,0.062380071729421616
+2014-04-25,Today in Small Business: Seattle’s Minimum Wage Plan Falters,negative,-0.9585514664649963
+2014-04-28,"The move plunges Yahoo directly into the world of original programming, joining the likes of Amazon, Netflix and others to challenge traditional TV producers for viewers’ attention.",positive,0.5187922716140747
+2014-04-28,Yahoo to Offer TV-Style Comedy Series on the Web,neutral,-0.019375231117010117
+2014-04-29,"The move plunges Yahoo directly into the world of original programming, joining the likes of Amazon, Netflix and others to challenge traditional TV producers for viewers’ attention.",positive,0.5187922716140747
+2014-04-29,Daily Report: Yahoo Plans 2 TV-Style Comedy Series for Web,neutral,-0.0030167773365974426
+2014-05-01,"Snapchat’s founders are hoping to transform the company’s product into something more sophisticated and sleek, a primary hub for mobile messaging.",positive,0.7470727562904358
+2014-05-01,Snapchat Goes After Mobile Messaging With a New Design,neutral,0.09148480743169785
+2014-05-07,"Hewlett-Packard is giving OpenStack, the open source cloud computing software, a big endorsement with its suite of offerings.",positive,0.8814525604248047
+2014-05-07,HP Makes $1 Billion Bet on Open Cloud,neutral,0.08874351531267166
+2014-05-09,"The chief executive of Amazon is known for being selective about his public speaking engagements, speaking in front of few groups.",neutral,-0.2093701958656311
+2014-05-09,Now elementary and middle school students have joined the club.,neutral,0.06554732471704483
+2014-05-09,"Students, Please Welcome … Jeff Bezos?",neutral,0.04488348215818405
+2014-05-16,Amazon promotes books from Hachette Books Group while discouraging people from buying them.,neutral,0.04946604743599892
+2014-05-16,"After the retailer’s aggressive stance became public last week, criticism and complaints mounted.",negative,-0.9382801651954651
+2014-05-16,But Amazon seems confident it will get what it wants in the end.,positive,0.7887439131736755
+2014-05-16,Amazon vs. Hachette: When Does Discouragement Become Misrepresentation?,negative,-0.5580765604972839
+2014-05-21,"Already growing in Britain, the American digital video distributor will face entrenched local competitors on the Continent — not to mention Amazon.",positive,0.5632028579711914
+2014-05-21,"Netflix Faces Hurdles, Country by Country, in Bid to Expand in Europe",positive,0.5293234586715698
+2014-05-22,Work on behalf of Ecuadorian clients in a case against Chevron continues to haunt the law and lobbying force in Washington.,neutral,-0.059301454573869705
+2014-05-22,Potential Partner for Patton Boggs Suspends Merger Vote,negative,-0.6964970827102661
+2014-05-23,"For years, Amazon’s critics have warned that the bookseller may flex its power once it controls the market for books.",negative,-0.8202321529388428
+2014-05-23,Now the company is proving its critics right.,positive,0.41642752289772034
+2014-05-23,Amazon’s Tactics Confirm Its Critics’ Worst Suspicions,negative,-0.7635011076927185
+2014-05-26,The U.S. company's tough tactics with one of the country's publishers have been taken as an indication of its moves in the future.,negative,-0.48941177129745483
+2014-05-26,Amazon Strategy Raises Hackles in Germany,negative,-0.5434046983718872
+2014-05-28,"The only thing the publisher and the retailer agree on is that there is no deal in sight, and 5,000 Hachette books are caught in the middle.",negative,-0.5131691098213196
+2014-05-28,Hachette and Amazon Dig In for a Long Fight Over Contract Terms,negative,-0.9051579236984253
+2014-05-30,One of Hachette’s biggest authors says he wonders if writers need to act together to protest the retailer’s behavior in its dispute with his publisher.,negative,-0.7561171054840088
+2014-05-30,Malcolm Gladwell ‘Surprised’ to Become an Amazon Bargaining Chip,neutral,0.08589356392621994
+2014-06-01,"By blocking inventory from the Hachette Book Group, Amazon has become the less-than-everything store.",negative,-0.9151256084442139
+2014-06-01,Amazon Absorbing Price Fight Punches,neutral,-0.06361718475818634
+2014-06-02,"Plus, how to move photos from a cellphone to a Kindle Fire.",neutral,0.008863523602485657
+2014-06-02,Filtering Out Unwanted Gmail Messages,negative,-0.5217178463935852
+2014-06-05,"The popular comedian lashed out at the e-commerce company on Wednesday night over its dispute with Hachette, a book publisher.",negative,-0.9181183576583862
+2014-06-05,Amazon Boycott Gets a Helping Hand From Stephen Colbert,neutral,0.2689666748046875
+2014-06-10,"Amazon, embroiled in a standoff with a book publisher, is using the same hardball techniques with new movies from Warner Home Video.",negative,-0.8445587754249573
+2014-06-10,Amazon Stops Taking Advance Orders for ‘Lego’ and Other Warner Videos,negative,-0.8753807544708252
+2014-06-11,"The feature will give Amazon Prime subscribers access to thousands of songs but omit most new releases, people briefed on the company’s plans said.",neutral,0.034199248999357224
+2014-06-11,Amazon Music Streaming Service Is Expected Soon,neutral,0.023304015398025513
+2014-06-12,"The feature, free for Amazon Prime subscribers, has thousands of songs but does not include most new releases or the Universal Music Group catalog.",neutral,-0.014594590291380882
+2014-06-12,Amazon Introduces New Music Streaming Service,neutral,0.20138898491859436
+2014-06-16,"Plus, how to remove books from the Kindle screen.",neutral,-0.030632968991994858
+2014-06-16,Reclaim the Firefox Search Box,neutral,0.01858145371079445
+2014-06-17,"Six major stores, including Walmart and Costco, joined in the deal with New York’s attorney general.",neutral,0.31462499499320984
+2014-06-17,"But there was one holdout, Amazon.",neutral,-0.07773060351610184
+2014-06-17,Big Retailers Agree to List Unit Prices on Websites,neutral,0.03807339072227478
+2014-06-18,"With the book expected to be a big hit, retailers are looking to exploit the dispute to win back customers who may be frustrated by Amazon’s lack of inventory.",positive,0.10079926252365112
+2014-06-18,J.K. Rowling’s ‘The Silkworm’ a Boon for Other Booksellers as Hachette and Amazon Brawl,neutral,0.29743605852127075
+2014-06-19,"When Amazon’s Fire smartphone is eventually available outside the United States, it is likely to face an uphill battle to lure Europeans away from their devices in favor of an untested competitor.",neutral,-0.03120321035385132
+2014-06-19,Amazon Phone May Be a Tough Sell in Europe — When It Arrives,negative,-0.893746554851532
+2014-06-20,"Publishers may lose the skirmish with Amazon, but the fight hasn’t gone unnoticed by independent bookstores, or book buyers.",negative,-0.9283416867256165
+2014-06-20,Booksellers Score Some Points in Amazon’s Spat With Hachette,neutral,0.06210671365261078
+2014-06-21,Notable quotes from business articles that appeared in The New York Times last week.,neutral,0.01611744984984398
+2014-06-21,"The Chatter for Sunday, June 22",neutral,0.030278023332357407
+2014-06-23,The Fire phone is a blatant attempt to increase profits at Amazon — at the expense of consumers.,positive,0.6108509302139282
+2014-06-23,It’s Time to Opt Out of Impulse Buying,neutral,0.05416311323642731
+2014-06-24,Adding Perseus’s imprints strengthens Hachette’s nonfiction catalog and gives it more leverage in its dispute with Amazon over e-book pricing.,positive,0.9282190203666687
+2014-06-24,Hachette Adds Heft to Combat Amazon,neutral,0.06622816622257233
+2014-06-30,Federal agencies are hampered by outdated computing infrastructure and by regulations that won’t require modern techniques until the end of 2016 at the earliest.,negative,-0.9340183138847351
+2014-06-30,The Lost Emails of the I.R.S.,neutral,-0.3937717080116272
+2014-06-30,Point to a Wider Problem,neutral,0.07267671078443527
+2014-07-02,A budding writer’s first published novel got a big lift from mentions on “The Colbert Report.”,positive,0.8732191920280457
+2014-07-02,Winner in the Amazon War,neutral,0.19363538920879364
+2014-07-07,"European consumers may criticize Facebook’s privacy policies or working conditions at Amazon, but they are still hooked on American technology companies.",negative,-0.8620876669883728
+2014-07-07,"Daily Report: Personal Objections Aside, Europeans Still Hooked on U.S. Tech Titans",neutral,0.07675114274024963
+2014-07-08,Amazon suggested it would give Hachette’s authors all the revenue from their e-book sales on Amazon.,neutral,0.4312007427215576
+2014-07-08,Hachette’s response on Tuesday was to suggest that the retailer was trying to make it commit suicide.,negative,-0.7702372074127197
+2014-07-08,Amazon Angles to Attract Hachette’s Authors to Its Side,neutral,0.3558751940727234
+2014-07-10,Google has given up its secret sauce in a battle with Amazon Web Services for cloud computing customers.,negative,-0.832045316696167
+2014-07-10,"Now Microsoft, IBM and others are helping out.",neutral,0.2756124436855316
+2014-07-10,It looks like a strategy to blunt Amazon.,neutral,0.08037424832582474
+2014-07-10,Cloud Computing Giants Add to Open Source Credentials With Kubernetes,neutral,0.4409269392490387
+2014-07-11,The Federal Trade Commission contended that Amazon improperly billed customers for “many millions of dollars” of charges that children made without their parents’ consent.,negative,-0.9127684831619263
+2014-07-11,Daily Report: F.T.C.,neutral,0.021438701078295708
+2014-07-11,Sues Amazon Over Billing for Children’s App Purchases,negative,-0.9133543968200684
+2014-07-12,"Amazon is getting serious about delivery by drones, and asked the F.A.A.",neutral,0.3750222623348236
+2014-07-12,for special permission to test them outdoors.,neutral,0.051731497049331665
+2014-07-12,Amazon Asks Permission From F.A.A.,neutral,0.04590969160199165
+2014-07-12,to Test Drone Delivery System,neutral,0.03758370131254196
+2014-07-18,"The Internet retailer is entering a competitive field, but is bundling its audiobook library into the service for a decided edge.",neutral,0.212165966629982
+2014-07-18,"Amazon Unveils E-Book Subscription Service, With Some Notable Absences",neutral,-0.011274384334683418
+2014-07-24,"The company continues to reinvest aggressively in its business, to the chagrin of investors hoping to see signs of profit.",positive,0.6453661918640137
+2014-07-24,"Amazon’s Ambitious Bets Pile Up, and Its Losses Swell",negative,-0.9312627911567688
+2014-07-25,Amazon Web Services reported a surprising decline in quarterly revenue on Thursday.,negative,-0.9705462455749512
+2014-07-25,"Amazon blamed Google’s price cuts, but its web services could be hitting some harder business sales.",negative,-0.8751616477966309
+2014-07-25,Challenges for Amazon’s Cloud Computing Hopes,neutral,-0.016950130462646484
+2014-07-29,"The imprint, called Alloy Entertainment, released its first three titles and new titles will be released through Amazon Publishing’s Powered by Amazon program.",neutral,0.050544098019599915
+2014-07-29,Amazon Joins With Alloy Entertainment on Digital Publishing Imprint,neutral,0.060444027185440063
+2014-08-01,Amazon argues that e-books should be priced at $9.99.,neutral,0.039703741669654846
+2014-08-01,But there is a risk that eliminating price experimentation could stifle creative business ideas.,negative,-0.8831626772880554
+2014-08-01,Amazon Wants Cheaper E-Books.,neutral,0.08247404545545578
+2014-08-01,But Should It Get to Enforce Prices?,neutral,-0.1676468700170517
+2014-08-06,"Molly Wood debates the value of three paid monthly services that let you read unlimited books on a smartphone, tablet or the web.",neutral,0.013515666127204895
+2014-08-06,Are E-Book Subscriptions Worth It?,neutral,0.07985412329435349
+2014-08-07,"Book buyers in Manhattan, West Los Angeles and the San Francisco Bay area will be able to get same-day deliveries from local Barnes & Noble stores through Google Shopping Express.",neutral,0.43573254346847534
+2014-08-07,"Daily Report: To Compete Against Amazon, Google and Barnes & Noble Team Up",positive,0.6879132986068726
+2014-08-08,"Douglas Preston, a Hachette author, wrote a letter to his readers asking them to contact Jeff Bezos.",neutral,0.04249897599220276
+2014-08-08,"Nearly 1,000 other writers have joined his cause.",neutral,0.1178564801812172
+2014-08-08,"Daily Report: In Battle Over E-Books, 900 Writers Rally Against Amazon",negative,-0.8476675748825073
+2014-08-09,Disney is the latest entertainment company to have orders of its forthcoming releases blocked by the retailer.,negative,-0.9521100521087646
+2014-08-09,Amazon Takes the Muppets Off the Shelf,neutral,-0.18318821489810944
+2014-08-11,"To bolster its case in a dispute with authors over e-book pricing, the bookseller Amazon made an online post that quoted one of their own: George Orwell.",negative,-0.6651397943496704
+2014-08-11,"In a Fight With Authors, Amazon Cites Orwell, but Not Quite Correctly",negative,-0.8189202547073364
+2014-08-12,"Also, getting Kindle tech support abroad, and language translations directly from the Google search box.",positive,0.7307701110839844
+2014-08-12,Finding an App to Manage Passwords,neutral,-0.021302424371242523
+2014-08-13,"The online retailer is competing with competitors like VeriFone, PayPal and Square, but will offer a lower transaction rate to the small- and medium-size businesses it is targeting.",neutral,0.25010281801223755
+2014-08-13,Next Target for Amazon Is Credit Card Readers at Stores,neutral,0.01517748273909092
+2014-08-15,The dispute between Amazon and Hachette has caused the usually reticent retailer start talking but made the publisher shut up.,negative,-0.9156821966171265
+2014-08-15,Some of the best commentary is coming from authors in the middle.,neutral,0.04721901938319206
+2014-08-15,"Amazon, Its Friends and Critics",neutral,0.014274273067712784
+2014-08-16,"After an underwhelming initial foray into making its own video programming, Amazon has poured even more money into the effort.",positive,0.8275793194770813
+2014-08-16,"For Its New Shows, Amazon Adds Art to Its Data",neutral,0.02731158211827278
+2014-08-18,"More than 1,000 German-language authors have written an open letter deriding Amazon’s practices in Europe.",negative,-0.8284029960632324
+2014-08-18,German Authors Join Protest Over Amazon’s Tactics in E-Book Dispute,negative,-0.916703999042511
+2014-08-25,"Twitch, a hugely popular streaming video service, has helped turn gaming into a spectator event as much as a participatory activity.",neutral,0.4682093858718872
+2014-08-25,What’s Twitch?,neutral,-0.18189138174057007
+2014-08-25,"Gamers Know, and Amazon Is Spending $1 Billion on It",neutral,0.12151013314723969
+2014-08-26,Amazon has reached a $1.1 billion deal to buy Twitch.,positive,0.5328612327575684
+2014-08-26,| Burger King aims for a fast-food empire.,neutral,0.12492549419403076
+2014-08-26,| Bitcoin A.T.M.s are cropping up across the globe.,neutral,0.05912236124277115
+2014-08-26,| A summer reading list for your inner financial geek.,neutral,-0.012621011584997177
+2014-08-26,Morning Agenda: Amazon Scoops Up Twitch,neutral,0.03801261633634567
+2014-08-27,"A book offers an optimistic view of the effects of technology, but its arguments have one big blind spot: human behavior.",neutral,-0.003965768963098526
+2014-08-27,"The Future Could Work, if We Let It",neutral,0.44330257177352905
+2014-08-29,Who needs UPS trucks and bicycle delivery when you can fly in things people buy online?,neutral,0.013078026473522186
+2014-08-29,Google Joins Amazon in Dreams of Drone Delivery,neutral,-0.0035389959812164307
+2014-09-01,"Twitch has built a platform that hosts live events akin to the N.F.L., the United States Open or the X Games — and it has the audience to show for it.",neutral,0.1193554699420929
+2014-09-01,Amazon Bets on Content in Deal for Twitch,neutral,0.013934537768363953
+2014-09-02,"Katharine Weymouth, the publisher for almost seven years, will be replaced by Frederick J. Ryan Jr., a founder of Politico and a former Reagan administration official.",neutral,-0.0942230075597763
+2014-09-02,Publisher of The Washington Post Will Resign,neutral,0.008815154433250427
+2014-09-03,"A textbook rental service changed course after Amazon, a supplier, cut it off.",negative,-0.9292697310447693
+2014-09-03,The service found a lucrative niche working with campus bookstores.,positive,0.5798443555831909
+2014-09-03,"Surviving Battle With Amazon, Entrepreneur Picks New Fight",positive,0.574670672416687
+2014-09-04,The $425 million deal will create a larger competitor to department stores and online powerhouses like Amazon.,positive,0.830722987651825
+2014-09-04,The combined company plans to continue to operate both brands.,neutral,0.08544667810201645
+2014-09-04,Mattress Firm Holding to Buy Rival Sleep Train,neutral,0.17901048064231873
+2014-09-08,"Analysts said the drastic cut was inevitable, but wondered if it would help spur sales that have been disappointing so far.",positive,0.647961437702179
+2014-09-08,Amazon Cuts Struggling Phone’s Price to 99 Cents,negative,-0.6871204972267151
+2014-09-12,"Google has a new program in which it will offer start-ups $100,000 in credits on its Google Cloud Platform.",positive,0.5843502283096313
+2014-09-12,"The effort is the company’s latest attempt to take on Amazon Web Services, the leader in cloud services.",positive,0.6860842108726501
+2014-09-12,"Google to Give Start-Ups $100,000 in Cloud Computing Credits",neutral,0.3688337802886963
+2014-09-15,"Authors United, a group of Hachette writers and allies, is appealing to Amazon’s board to consider their reputation in the battle over e-book pricing.",positive,0.48920875787734985
+2014-09-15,"In Latest Volley Against Amazon, Hachette’s Writers Target Its Board",neutral,-0.18722891807556152
+2014-09-16,"The electronics retailer could have been today’s Amazon, but instead it lunged repeatedly in multiple directions, seeking to master one new concept after another, Steven Davidoff Solomon writes in the Deal Professor column.",neutral,0.1536504328250885
+2014-09-16,A History of Misses for RadioShack,neutral,0.05551885813474655
+2014-09-17,"Blue Origin, owned by Jeff Bezos, agreed to work with United Launch Alliance, which has sent nearly all United States spy and military satellites into space in the last decade.",positive,0.7577290534973145
+2014-09-17,A Bezos Company Will Make Engines for Rockets,neutral,0.02062767930328846
+2014-09-18,"Twilio, a company that offers cheap voice and short messaging services to mobile phones via Amazon Web Services, said it could now handle images and video.",neutral,0.41242194175720215
+2014-09-18,That means things like picture identification and real estate peeks can get to your phone for pennies.,neutral,-0.011670490726828575
+2014-09-18,Twilio to Send Multimedia to Phones,neutral,-0.010725557804107666
+2014-09-19,"Plus, how to turn off alerts on your Kindle Fire HDX.",neutral,-0.0027913209050893784
+2014-09-19,Reporting Bad Behavior to Facebook,negative,-0.4680544137954712
+2014-09-20,"Every fall, Jeff Bezos of Amazon hosts a literary weekend on condition that writers not discuss the event.",neutral,-0.11933545768260956
+2014-09-20,Now Amazon’s battle with Hachette is sapping some of the good will.,negative,-0.9320911169052124
+2014-09-20,A Writerly Chill at Jeff Bezos’ Campfire,neutral,-0.08734592795372009
+2014-09-22,"A total of 2,000 workers refused to show up for their shifts on Monday in an effort to force Amazon to accept an agreement in line with other retailers.",negative,-0.9469934701919556
+2014-09-22,Amazon Workers Walk Off the Job in Germany Over Wage Dispute,negative,-0.9056242108345032
+2014-09-24,The union behind the strike and the Internet retailing giant disagree on how many workers participated in the work stoppage.,negative,-0.9508892297744751
+2014-09-24,Strikes at Amazon Warehouses in Germany End for Now,negative,-0.8877448439598083
+2014-09-25,"A small pilotless aircraft owned by the logistics company DHL is set to take off on Friday to ferry medicine to a sparsely populated island in northern Germany, following in the footsteps of similar plans by the tech giants Amazon and Google.",positive,0.5230770111083984
+2014-09-25,DHL to Begin Deliveries by Drone in Germany,neutral,0.05004088580608368
+2014-09-26,Amazon’s accomplishments are dwarfed only by its ambitions.,neutral,0.34829097986221313
+2014-09-26,"A former executive talks about the potential and the perils as the retailer enters its third decade, as well as why the dispute with Hachette is so important.",neutral,0.005907882004976273
+2014-09-26,Examining the Amazon Way,neutral,0.05670468881726265
+2014-09-29,"Many more writers have signed on to Authors United, a group not only challenging Amazon on its Hachette dealings, but also asking federal authorities to investigate it on antitrust matters.",neutral,-0.09111404418945312
+2014-09-29,Literary Lions Unite in Protest Over Amazon’s E-Book Tactics,negative,-0.8444991111755371
+2014-09-30,"Ivy Softworks, a new start-up factory in Seattle, is seeking to create a better way of forming new tech companies.",neutral,0.3748803734779358
+2014-09-30,"And now it has hired Brian Valentine, a prominent engineer and executive who worked for years at Microsoft and Amazon.",neutral,0.14428628981113434
+2014-09-30,Seattle Start-Up Factory Hires Former Amazon and Microsoft Executive,negative,-0.5053009390830994
+2014-10-02,"Even for a company that has been through a lot, this is an impressive change: AT&T seems to want to kill desk phones, rip up its network of traditional switches, connect to cloud computing and even build software-based systems.",neutral,0.10788639634847641
+2014-10-02,"AT&T Wants You to Put Down the Phone, and Head for the Cloud",neutral,-0.01923891343176365
+2014-10-04,A class action brought by Amazon warehouse workers asserts that their employer should pay them for the time they spent waiting to undergo security checks.,negative,-0.9183533191680908
+2014-10-04,Justices Weighing Wages for After-Work Screenings,negative,-0.4435010254383087
+2014-10-07,"The online retailer is just the latest multinational company with a tax structure under scrutiny, and the move could pose trouble for tiny Luxembourg.",negative,-0.9051507711410522
+2014-10-07,Amazon’s Tax Deal in Luxembourg Is Latest Target of E.U.,neutral,0.04545102268457413
+2014-10-07,Inquiries,neutral,0.019284799695014954
+2014-10-08,"Workers at an Amazon warehouse in Las Vegas, challenging a 1947 law, say the end-of-day process — aimed at preventing theft — can take as long as 25 minutes.",negative,-0.8889234066009521
+2014-10-08,Court Hears Case on Pay for Amazon Workers Screened After Work,negative,-0.8113470673561096
+2014-10-10,Construction and real estate executives said the company was taking over a building on 34th Street and that the space would be used for offices and a distribution center.,neutral,0.03054472804069519
+2014-10-10,Daily Report: Amazon Seeks Real Estate in Manhattan,neutral,0.0040804725140333176
+2014-10-11,"Box Office Mojo’s address has been redirected to that of its parent, the Internet Movie Database, which is owned by Amazon.",neutral,-0.0028249919414520264
+2014-10-11,"With a Click, the Data Site Box Office Mojo Disappears",neutral,-0.18835362792015076
+2014-10-12,"As its dispute with the publisher continues, Amazon wants to make it difficult to buy Hachette books, but it does not want to be accused of banning them.",negative,-0.6189556121826172
+2014-10-12,Amazon and Its Missing Books,neutral,-0.31853020191192627
+2014-10-13,Revolution is sexy.,neutral,0.1451202929019928
+2014-10-13,A contrarian developer is looking to buy properties in Atlantic City.,neutral,-0.008680406957864761
+2014-10-13,A pioneer of hair products for black people dies at 82.,negative,-0.46831846237182617
+2014-10-13,Today in Small Business: Why Amazon Must Be Stopped,neutral,-0.13936588168144226
+2014-10-14,"As the European Commission continues to negotiate an antitrust case regarding Google, the company’s chairman, Eric Schmidt, used a speech to talk about how strong Google’s competitors are.",positive,0.5756367444992065
+2014-10-14,Google Executive Chairman: Amazon Is a Lovely Place to Shop and Search,neutral,0.09347441047430038
+2014-10-16,"At an event to unveil new iPads on Thursday, Apple will need to show that the iPad is an essential device in a world already crowded with screens.",positive,0.725249171257019
+2014-10-16,Apple’s iPad Problem: Does Anyone Really Need an Expensive Tablet?,neutral,-0.32951658964157104
+2014-10-20,"Amazon has reached a deal with Simon & Schuster, one of the Big Five publishers, while the retailer’s battle with another publisher, Hachette, grinds on.",positive,0.5562853813171387
+2014-10-20,Amazon Strikes Deal With Simon & Schuster,neutral,0.1818920224905014
+2014-10-21,"Despite being a laggard in cloud computing, Microsoft has established real credibility, and now runs twice as many data centers as Amazon and six times as many as Google.",positive,0.800704836845398
+2014-10-21,"For Microsoft, Cloud Business Looks More Promising Than Mobile",positive,0.5471293926239014
+2014-10-22,"Cloud computing, particularly in the big rental businesses of Microsoft and Amazon, has been criticized as undependable and tough to manage.",negative,-0.897842288017273
+2014-10-22,A number of recent announcements suggest that some companies are trying to address the issue.,neutral,0.018185418099164963
+2014-10-22,Coming of Age in Cloud Computing,neutral,0.17493444681167603
+2014-10-23,"The online retailer was also cautious in its outlook for the fourth quarter, saying it might lose money then.",negative,-0.9495428204536438
+2014-10-23,"Amazon’s Investments Are Piling Up, as Big Losses",neutral,0.07238991558551788
+2014-10-24,"The online retailer was also cautious in its outlook for the fourth quarter, saying it might lose money then.",negative,-0.9495428204536438
+2014-10-24,"Daily Report: Amazon’s Losses Increase, as Investments Grow",negative,-0.9354081153869629
+2014-10-29,The overall strategy behind the retailer’s hardware lineup appears puzzling.,negative,-0.6092665195465088
+2014-10-29,Its devices sound fantastic in theory but often fall short.,neutral,-0.06309114396572113
+2014-10-29,Amazon’s Grand Design in Devices,neutral,0.1409425139427185
+2014-10-31,"Amazon belatedly released its diversity statistics, which were immediately criticized as inadequate and unhelpful.",negative,-0.9085153937339783
+2014-10-31,"Amazon, Unclear on Diversity",neutral,-0.09699317067861557
+2014-11-05,"In a letter sent to investors in his firm, David Einhorn disclosed that he had ended his gamble that shares in Keurig Green Mountain would fall.",negative,-0.8439128994941711
+2014-11-05,"Einhorn Ends Green Mountain Bet, but Suggests Amazon Could Decline",neutral,-0.04549318552017212
+2014-11-07,"Ed Park, a novelist who shaped Amazon’s sole literary fiction imprint with his taste and connections, is leaving, raising questions about the program’s future.",negative,-0.8247097730636597
+2014-11-07,Prominent Editor’s Exit Is Setback for Amazon Publishing Unit,negative,-0.9389893412590027
+2014-11-10,"Plus, tracking an Amazon package by text.",neutral,0.033616192638874054
+2014-11-10,How to Erase Personal Information From an iPad,neutral,-0.3325446844100952
+2014-11-12,Amazon introduces another device to make shopping easier — and Amazon inescapable.,neutral,0.4516963064670563
+2014-11-12,"With Amazon’s Echo, You Are Never Alone",neutral,-0.004942700266838074
+2014-11-13,"The accord allows the publisher to set prices on its e-books, a major issue in a battle that led Amazon to discourage sales of Hachette books.",negative,-0.4242626130580902
+2014-11-13,Amazon and Hachette Resolve Dispute,neutral,0.058617882430553436
+2014-11-14,"The accord allows the publisher to set prices on its e-books, a major issue in a battle that led Amazon to discourage sales of Hachette books",negative,-0.7015702128410339
+2014-11-14,"Daily Report: E-Book Standoff Is Over, but Fear of Amazon Persists",negative,-0.9339876770973206
+2014-11-15,E-commerce services help mom-and-pop shops achieve a more polished web presence.,positive,0.729591965675354
+2014-11-15,Buying the Bricks for Your Online Storefront,neutral,-0.0019787028431892395
+2014-11-17,"Amazon Web Services already has the largest share of the worldwide cloud-computing market, and is looking for ways to expand the range of services it offers.",positive,0.806928277015686
+2014-11-17,Amazon Moves to Extend Cloud-Computing Dominance,positive,0.6390042304992676
+2014-11-20,"The ideas and preoccupations of Jeff Bezos, who bought The Post last year, have quietly reshaped the paper, including a new focus on international growth.",neutral,0.07684244215488434
+2014-11-20,"Washington Post Releases Free App for Kindle, in First Collaboration With Amazon",neutral,0.3287274241447449
+2014-11-22,"A deal in the antitrust case would give consumers $400 million in cash and e-book credits, and lawyers $50 million.",neutral,0.3736116290092468
+2014-11-22,But an appeal is still pending.,neutral,-0.004697080701589584
+2014-11-22,Settlement in Apple Case Over E-Books Is Approved,positive,0.4147750735282898
+2014-11-26,"Pranksters’ antics are forcing public safety officials to look at the air above them, generally thought safe and secure, as a place for potential trouble.",negative,-0.7604318261146545
+2014-11-26,"Now, Anyone Can Buy a Drone.",neutral,0.04385354742407799
+2014-11-26,Heaven Help Us.,neutral,0.177999809384346
+2014-12-01,"Though the company’s third-quarter revenue fell short of forecasts, it is making moves to become a retail and entertainment one-stop shop.",positive,0.6645758152008057
+2014-12-01,"To Gain the Upper Hand, Amazon Disrupts Itself",negative,-0.6955458521842957
+2014-12-02,"Though the company’s third-quarter revenue fell short of forecasts, it is making moves to become a retail and entertainment one-stop shop.",positive,0.6645758152008057
+2014-12-02,Daily Report: Shortfall at Amazon Is a Calculated Sacrifice,negative,-0.8524764180183411
+2014-12-09,Amazon plunged into the growing competitive gaming scene this year when it acquired Twitch.,positive,0.8056132197380066
+2014-12-09,"And now it’s going a step further, buying GoodGame, one of the most prominent talent agencies in competitive gaming.",positive,0.6427967548370361
+2014-12-09,"Amazon Dives Deeper Into Games, Acquiring GoodGame, an E-Sports Talent Agency",neutral,0.2991332411766052
+2014-12-10,Why aren’t these video stores dead?,negative,-0.5798723101615906
+2014-12-10,Amazon introduces a make-an-offer service.,neutral,0.11829225718975067
+2014-12-10,And a study puts a price on fake advertising clicks.,negative,-0.5600866675376892
+2014-12-10,"Today in Small Business: ‘Um, I’m Selling the Business’",neutral,-0.028949612751603127
+2014-12-14,"The expansion of Amazon Prime benefits, as well as the company’s many other projects, appears to be fueled in part by fattened margins on physical books.",positive,0.775675892829895
+2014-12-14,Jeff Bezos’ Lemonade Stand,neutral,-0.005116790533065796
+2014-12-15,"A broad array of organizations in technology, media and other fields — including Apple, Amazon, National Public Radio and Fox News — rallied behind Microsoft’s effort to block American authorities from seizing a customer’s emails stored in Ireland.",negative,-0.5280149579048157
+2014-12-15,Tech and Media Companies Back Microsoft in Privacy Case,negative,-0.8069825768470764
+2014-12-17,"Despite growing fears of its invincibility, Amazon could be threatened as smartphones transform the way Americans shop and goods are delivered.",negative,-0.9392377138137817
+2014-12-17,Amazon Not as Unstoppable as It Might Appear,neutral,-0.23118466138839722
+2014-12-19,The minimum wage is set to rise in 21 states by New Year’s Day.,positive,0.7641077041625977
+2014-12-19,Amazon Prime Now delivered candy to a blogger in 23 minutes.,neutral,0.1424323171377182
+2014-12-19,Nebraska and Oklahoma sue Colorado to stop marijuana legalization.,negative,-0.8065638542175293
+2014-12-19,Today in Small Business: Fracking and Gambling,neutral,0.01158636063337326
+2014-12-27,"Some self-published writers say their income has seen a large and rapid decrease under Amazon’s Kindle Unlimited program, and argue that the system is unfair.",negative,-0.9350560903549194
+2014-12-27,Amazon Offers All-You-Can-Eat Books.,neutral,-0.0007974337786436081
+2014-12-27,Authors Turn Up Noses.,neutral,-0.15385735034942627
+2015-01-01,"Six months after its introduction, Kindle Unlimited is proving controversial and disruptive, just like so many other Amazon innovations.",negative,-0.931270182132721
+2015-01-01,Writers Are Mixed Over Amazon Unlimited,negative,-0.6449186205863953
+2015-01-04,"Amazon’s “all you can eat” reading service, Kindle Unlimited, is driving down prices even as it boosts sales.",negative,-0.9321581125259399
+2015-01-04,"For self-published authors, that’s a cause for concern.",negative,-0.5046966075897217
+2015-01-04,"For the Indie Writers of Amazon, It’s Publish or Perish",neutral,0.009784521535038948
+2015-01-05,"Even excluding the $25 billion Alibaba offering, a phenomenon in its own right, the value of worldwide initial public offerings was up nearly 36 percent over 2013.",positive,0.9331150054931641
+2015-01-05,Investors Bought Into Nearly $250 Billion in Global I.P.O.s in 2014,neutral,0.13576628267765045
+2015-01-12,"A nemesis for publishers, Amazon collected a Golden Globe for “Transparent,” becoming the first digital streaming service to win one for best TV series.",positive,0.7866883277893066
+2015-01-12,"With Win, Amazon Shakes Up Yet Another Industry",negative,-0.7039243578910828
+2015-01-13,"Woody Allen will make his first television series, a full season of half-hour episodes, available only on Amazon’s Prime streaming service.",neutral,0.06045394390821457
+2015-01-13,Amazon Signs Woody Allen to Write and Direct TV Series,neutral,0.36304613947868347
+2015-01-14,"Felicis Ventures, a small company (for Silicon Valley) has had some notable investments: Twitch, the video game streaming service that was sold to Amazon, and Rovio, the maker of the Angry Birds video game.",neutral,0.04986383765935898
+2015-01-14,Two Ex-Googlers Reunite at Venture Capital Firm,neutral,-0.27622610330581665
+2015-01-16,"In a 23-page letter, the European Commission described a “complex” arrangement involving Amazon subsidiaries and outlined why it is pursuing the case.",neutral,0.026951946318149567
+2015-01-16,"Amazon’s Tax Deal With Luxembourg May Break Rules, E.U.",negative,-0.891601026058197
+2015-01-16,Regulator Says,neutral,0.042306091636419296
+2015-01-19,The online retailing giant signaled its broader ambitions to revolutionize the traditional system used to shepherd movies from the theaters to home screens.,positive,0.7622682452201843
+2015-01-19,Movie Studio by Amazon for Screens Big and Small,neutral,-0.018649717792868614
+2015-01-22,"Amazon.com has agreed to buy Annapurna Labs, an Israeli chip developer, for about $350 million.",neutral,0.47870272397994995
+2015-01-22,Amazon to Buy Israeli Chip Developer,neutral,0.0806194543838501
+2015-01-26,Amazon has busted up the traditional publishing system and done more to widen access to books than anything since the invention of the mass-market paperback.,neutral,0.4178238809108734
+2015-01-26,It is the reader’s best buddy.,neutral,0.04792726784944534
+2015-01-26,Or is it?,neutral,-0.16892078518867493
+2015-01-26,Amazon and Its Friends,neutral,0.0341232605278492
+2015-01-27,"The police have raided Amazon’s Tokyo headquarters, a distribution center and the offices of an affiliate, according to Japanese news reports.",negative,-0.8895414471626282
+2015-01-27,Amazon Investigated in Japan Over Child Pornography,negative,-0.8497595191001892
+2015-01-28,Amazon’s latest foray: back-end email systems.,neutral,0.06507567316293716
+2015-01-28,Amazon’s Got Mail,neutral,0.07548218965530396
+2015-01-29,"The company delivered better earnings than expected in the fourth quarter, breaking a recent pattern of disappointments.",positive,0.5694620013237
+2015-01-29,"Amazon Reports a Profit, Citing Prime as the Key",positive,0.7096989154815674
+2015-02-03,The activist hedge fund Starboard Value has called on both companies to merge to better compete against the likes of Walmart and Amazon.,positive,0.5428506135940552
+2015-02-03,Staples Said to Be in Talks to Buy Office Depot,neutral,0.04079224169254303
+2015-02-04,"Regulators shot down a combination of Staples and Office Depot about 18 years ago, but since then, the competitive landscape has changed, with both companies now facing rivals in Walmart, Target, Amazon and others.",neutral,-0.16107819974422455
+2015-02-04,Staples and Office Depot Say a Merger Will Keep Them Competitive,neutral,0.29479771852493286
+2015-02-11,"The move is a departure for Yelp, whose main business has been selling advertising bought by local businesses with those reviews.",neutral,-0.30065369606018066
+2015-02-11,Yelp Pays $134 Million for Food-Ordering Service,neutral,0.03326089680194855
+2015-02-27,"Learn about the differences between Amazon Fire TV and Fire TV stick (besides price), and also discover how to transfer airline boarding passes between iPhones.",neutral,0.0536835752427578
+2015-02-27,Choosing Between Amazon’s TV Streaming Hardware,neutral,0.015682268887758255
+2015-03-09,"In an era of self-promotion and runaway hype, where every supporting player wants to be a star, it is nearly impossible to retain earlier ideals of restraint.",neutral,-0.07898595184087753
+2015-03-09,"Kleiner Perkins, Disrupted",neutral,0.0026345103979110718
+2015-03-11,The company’s report says streaming subscribers are spending more time in front of a screen.,neutral,-0.2984827756881714
+2015-03-11,Nielsen Charts Reach of Video Streaming,neutral,-0.009250782430171967
+2015-03-20,"While Amazon can now move its tests from inside a warehouse, the retailer still has a long way to go to realize its vision of autonomous delivery drones.",neutral,0.34814611077308655
+2015-03-20,Daily Report: F.A.A.,neutral,0.024890922009944916
+2015-03-20,Gives Amazon Limited Permission on Drones,neutral,0.040506210178136826
+2015-03-24,"After years of battling traditional players in the television business, the big three streaming services must defend against a variety of new offerings.",positive,0.6348291635513306
+2015-03-24,"Netflix, Amazon and Hulu No Longer Find Themselves Upstarts in Online Streaming",neutral,-0.1414864957332611
+2015-03-31,The new program from Amazon allows customers to reorder household items like laundry detergent and paper towels with the push of a single physical button.,neutral,0.16552132368087769
+2015-03-31,Amazon Dash Aims to Be a Push-Button Substitute for the Supply Run,neutral,0.040992431342601776
+2015-04-07,Hewlett-Packard has decided it cannot compete with the likes of Amazon and Google for one of the hottest new businesses.,negative,-0.8892610669136047
+2015-04-07,"Instead, on the eve of its split into two companies, HP is learning about collaborative technologies, and not just for its customers.",positive,0.5226747393608093
+2015-04-07,HP Comes to Terms With the Cloud,positive,0.611683189868927
+2015-04-08,AWS kicked off the first of 16 meetings with a daylong direct assault on the existing corporate computing business.,neutral,0.03590794652700424
+2015-04-08,The Seattle-based cloud giant is now offering features and services for so-called hybrid clouds.,neutral,0.0901055783033371
+2015-04-08,Amazon Web Services Takes Fuller Aim at Enterprise Computing,neutral,0.04346669092774391
+2015-04-09,"Amazon Web Services, the world’s biggest cloud company, is now selling cheap data analysis and prediction.",neutral,0.16893091797828674
+2015-04-09,"It’s likely to get baked into all kinds of applications, bringing pain to the old guard.",negative,-0.846900463104248
+2015-04-09,Amazon to Sell Predictions in Cloud Race Against Google and Microsoft,neutral,0.031555622816085815
+2015-04-12,"Bringing the efficiency of the web to common household tasks has opened a new door to the home services industry, which is estimated to be worth more than $800 billion.",positive,0.8329115509986877
+2015-04-12,"Amazon, Google and More Are Drawn to Home Services Market",neutral,0.07870645821094513
+2015-04-13,"Bringing the efficiency of the web to common household tasks has opened a new door to the home services industry, which is estimated to be worth more than $800 billion.",positive,0.8329115509986877
+2015-04-13,"Daily Report: Amazon, Google and More Are Drawn to Home Services Market",neutral,0.20363488793373108
+2015-04-14,The deal between the online giant Amazon and the publisher HarperCollins covers both print and digital titles.,neutral,0.0631219744682312
+2015-04-14,HarperCollins and Amazon in Multiyear Publishing Deal,neutral,0.05448170378804207
+2015-04-22,"The German automaker will test the program in Munich, hoping to solve the problem of packages that can’t be delivered because no one is home.",neutral,0.3748660087585449
+2015-04-22,Audi to Test Plan to Deliver Amazon Packages to Drivers’ Trunks,positive,0.4835174083709717
+2015-04-23,"For the first time, the web retailer broke out its numbers for its cloud computing division, which Jeff Bezos, the chief executive, called “a $5 billion business and still growing fast.”",neutral,0.40766867995262146
+2015-04-23,Amazon Swings to Small Loss While Revenue Jumps 15%,negative,-0.5407201051712036
+2015-04-24,"Amazon said in its first-quarter earnings report that its cloud division, Amazon Web Services, had revenue of $1.57 billion and operating income of $265 million.",neutral,0.10349607467651367
+2015-04-24,"Daily Report: Amazon Dominates Cloud Computing, but Tech Giants Are in Pursuit",neutral,0.2098778486251831
+2015-04-29,"The streaming service, trying to regain momentum, announced that it had won the rights to stream episodes of the classic sitcom after outbidding Netflix and Amazon.",positive,0.9014113545417786
+2015-04-29,Hulu to Stream ‘Seinfeld’ Reruns in Deal With Sony,neutral,0.07797527313232422
+2015-05-05,"The competition commissioner, who took office in November and did not set new deadlines, cited difficulties in obtaining information.",negative,-0.725341260433197
+2015-05-05,"European Union Delays Action on Apple, Amazon and Starbucks Tax Inquiries",negative,-0.8809910416603088
+2015-05-06,The start-ups Enjoy and Jet.com are hoping to knock Amazon off its perch as the leader of online shopping.,negative,-0.06650671362876892
+2015-05-06,Two Retail Veterans Take Aim at Amazon’s E-Commerce Reign,negative,-0.727638304233551
+2015-05-22,You can send the message to someone not in the original conversation by taking a couple of steps.,neutral,-0.015951797366142273
+2015-05-22,Forwarding Text Messages on the iPhone,neutral,-0.0025595463812351227
+2015-05-24,"Pressure is mounting for American tech companies, including Google, to stop using complex tax structures and pay more on their European operations.",positive,0.025867313146591187
+2015-05-24,Amazon to Stop Funneling European Sales Through Low-Tax Haven,neutral,-0.05027901381254196
+2015-06-05,"Trailing Amazon in e-commerce sales, Walmart is starting a new online shipping program, hiring tech employees and pledging to invest $1 billion in online operations.",positive,0.7791792154312134
+2015-06-05,"Walmart, Lagging in Online Sales, Is Strengthening E-Commerce",positive,0.8372259736061096
+2015-06-10,Some independent booksellers gain a portion of e-book sales through partnerships with bigger e-bookstores like Kobo and Amazon Source.,neutral,0.14815400540828705
+2015-06-10,"Shop Locally, Download Globally",neutral,-0.0005182120949029922
+2015-06-11,"The investigation is the latest hurdle for Amazon and other American tech giants as European policy makers pursue antitrust, tax and other inquiries.",neutral,-0.07142144441604614
+2015-06-11,Amazon’s E-Books Business Investigated by European Antitrust Regulators,negative,-0.8465501666069031
+2015-06-12,Amazon beat Google to the acquisition of a popular gaming video service.,positive,0.7956171035766602
+2015-06-12,Now Google is responding with a new YouTube Gaming application.,neutral,0.3683556616306305
+2015-06-12,YouTube Takes On Amazon With New Gaming App,neutral,0.18693934381008148
+2015-06-16,"Google is becoming more public about its data centers, talking about its network and how much fiber it owns.",neutral,0.0725274384021759
+2015-06-16,"The idea is to show off assets that Amazon, Microsoft and IBM cannot match in the competition for cloud customers.",neutral,0.08091575652360916
+2015-06-16,Google Is Its Own Secret Weapon in the Cloud,neutral,-0.35382992029190063
+2015-06-18,"With $40 million from Microsoft, the Global Innovation Exchange will open in fall 2016, and offer a master’s degree in technology innovation.",positive,0.5547174215316772
+2015-06-18,University of Washington and Chinese University Unite to Form Technology Institute,neutral,0.07352342456579208
+2015-06-23,"As companies like Walmart, Amazon and Sears were moving to discontinue sales of products tied to the Confederate battle flag, sales of them were soaring.",positive,0.4850611090660095
+2015-06-23,Confederate Flag Sales Soar as Retailers Pull Stock,negative,-0.7384851574897766
+2015-06-24,The Amazon Echo is an artificially intelligent personal assistant answering to the name Alexa.,neutral,-0.04031891003251076
+2015-06-24,"It’s not yet heavy on the “intelligent,” but could one day be useful.",neutral,0.19016751646995544
+2015-06-24,"Amazon Echo, a.k.a.",neutral,0.042681023478507996
+2015-06-24,"Alexa, Is a Personal Aide in Need of Schooling",neutral,-0.3297710716724396
+2015-06-30,The same people who brought advanced data analysis to President Obama’s campaign is announcing a set of big data tools available through Amazon Web Services.,neutral,0.05393165722489357
+2015-06-30,"Bigger, Cheaper, Faster Data in the Cloud",neutral,0.4273803234100342
+2015-07-13,The group Authors United details their case against Amazon.,neutral,0.0012411847710609436
+2015-07-13,The Authors United Position Paper on Amazon’s Book Selling Practices,neutral,0.03966429829597473
+2015-07-14,"Groups representing thousands of authors, agents and independent booksellers are calling for the Department of Justice to examine Amazon.",neutral,-0.22634461522102356
+2015-07-14,Daily Report: Writers and Booksellers Seek U.S.,neutral,-0.060744449496269226
+2015-07-14,Antitrust Inquiry Into Amazon,neutral,-0.22674915194511414
+2015-07-15,The much-ballyhooed 20th anniversary discount event is awash in complaints of lackluster products and interminable waiting.,negative,-0.9374231696128845
+2015-07-15,More Fizzle Than Sizzle on Amazon’s Prime Day,neutral,0.03915819525718689
+2015-07-17,"Despite derision in social media, the one-day sale appeared to achieve the company’s goals: more sales, and a big bump in subscribers to its Amazon Prime service.",positive,0.9224653244018555
+2015-07-17,Amazon Says Prime Day Beat Black Friday in Sales Numbers,positive,0.4531245827674866
+2015-07-23,"A reason for the company’s success has been its cloud computing division, Amazon Web Services, which generated $1.82 billion in revenue last quarter.",positive,0.8473995327949524
+2015-07-23,"Amazon Reports Unexpected Profit, and Stock Soars",positive,0.451072096824646
+2015-07-24,"A reason for the company’s success has been its cloud computing division, Amazon Web Services, which generated $1.82 billion in revenue last quarter.",positive,0.8473995327949524
+2015-07-24,Daily Report: Amazon Shows Profit for a Change,negative,-0.22916880249977112
+2015-08-12,"Turning off the default motion tracking function, defending against PC scams and requesting order history reports from Amazon.",neutral,0.011112157255411148
+2015-08-12,Stopping the iPhone Step Counter,neutral,-0.2933792471885681
+2015-08-15,The company is conducting an experiment in how far it can push white-collar workers to get them to achieve its ever-expanding ambitions.,neutral,0.20016640424728394
+2015-08-15,Inside Amazon: Wrestling Big Ideas in a Bruising Workplace,neutral,0.07059824466705322
+2015-08-17,Buying Zulily would increase online revenue at the cable mogul’s QVC broadcast arm to half from about 40 percent.,positive,0.9356956481933594
+2015-08-17,At $2.4 billion the deal shows the high cost of chasing Amazon.,neutral,0.4051991105079651
+2015-08-17,John Malone’s Big Bet on Online Shopping,neutral,0.04840411990880966
+2015-08-18,The online argument over Amazon’s white-collar workplace gathered steam as employees and ex-employees recounted their own experiences at the retailer.,negative,-0.8517836332321167
+2015-08-18,Daily Report: Amazon’s Workplace Culture Continues to Spur Online Debates,positive,0.8976480960845947
+2015-08-19,The recent New York Times article about Amazon inspired an unprecedented online conversation about workplace stress.,positive,0.6117637753486633
+2015-08-19,Here are a few of the thousands of comments posted across the web.,neutral,-0.03764587268233299
+2015-08-19,Amazon’s Social Rift,neutral,0.002675190567970276
+2015-08-22,"Hackers post data stolen from a website for would-be adulterers, and an exposé about the world’s leading online retailer ruffles feathers.",negative,-0.85501629114151
+2015-08-22,Farhad and Katie’s Week in Tech: Amazon and Ashley Madison Exposed,neutral,-0.08240801095962524
+2015-08-26,Facebook is wading into the increasingly crowded field of digital personal assistants with a new offering called M.,neutral,0.04966527968645096
+2015-08-26,Facebook Tests a Digital Assistant for Its Messaging App,neutral,0.03718215599656105
+2015-08-29,"Reports of Amazon layoffs, a new digital assistant service and artificial intelligence in general.",neutral,-0.34293505549430847
+2015-08-29,Farhad and Mike’s Week in Tech: Facebook Assistant,neutral,-0.06885610520839691
+2015-09-02,"Subscribers can choose to pay $8 a month to watch its television shows and movies with commercials or, for an additional $4 a month, without the ads.",neutral,0.023480605334043503
+2015-09-02,Hulu Starts a Commercial-Free Option to Rival Netflix and Amazon,positive,0.5816255211830139
+2015-09-09,The growing competition between the two companies could take so-called machine learning to the masses.,neutral,0.012540049850940704
+2015-09-09,Google Follows Amazon Web Services Into On-Demand Supercomputing,neutral,0.16068659722805023
+2015-09-15,"A rocket company founded by Jeffrey P. Bezos, the Amazon chief executive, announced plans to use a historic launch site at Cape Canaveral.",neutral,0.052296750247478485
+2015-09-15,"Blue Origin, Jeff Bezos’ Rocket Company, to Launch From Florida",neutral,0.0345526859164238
+2015-09-17,Amazon is hoping to gain dominance in the living room with the same strategy it used to take over the e-books business: lower prices.,positive,0.6126200556755066
+2015-09-17,Amazon Updates Its Fire TV and Tablet Offerings,neutral,0.17576520144939423
+2015-09-18,"The company created its Amazon Appstore app for Android shoppers, but it has now released the Amazon Underground app to provide access to its digital goods.",neutral,0.022624313831329346
+2015-09-18,Shopping for Amazon Apps With Android,neutral,0.015320677310228348
+2015-09-23,"With readers on a reverse migration to print, the “e-book terror has kind of subsided” for bookstores and publishers.",negative,-0.8600085973739624
+2015-09-23,"The Plot Twist: E-Book Sales Slip, and Print Is Far From Dead",negative,-0.9538845419883728
+2015-09-28,"The company says it plans to add more full-time employees, including software developers and engineers.",positive,0.7502447962760925
+2015-09-28,Amazon Envisions a New Tech Hub as It Expands Its Detroit Presence,positive,0.7144885659217834
+2015-10-02,Amazon opens the latest battle against Google and Apple by banning the sale of its rivals’ streaming media players.,negative,-0.7046209573745728
+2015-10-02,Daily Report: Amazon and the Clash of the Titans,neutral,-0.04039440304040909
+2015-10-05,European finance ministers are set to discuss how soon Greece receives its next disbursement of funds from the country’s latest international bailout.,neutral,0.06180159002542496
+2015-10-05,Finance Ministers Meet to Discuss Greek Bailout,neutral,0.0716305822134018
+2015-10-06,The move is intended to address anger over benefits that have been granted to companies like Starbucks and Amazon.,negative,-0.5648050308227539
+2015-10-06,E.U.,neutral,0.04360159859061241
+2015-10-06,to Force Members to Share Data on Multinationals’ Tax Deals,negative,-0.5902082324028015
+2015-10-07,"Jet.com, the much-hyped new rival to Amazon and Costco, is dropping its membership fee three months after its introduction.",negative,-0.9199522137641907
+2015-10-07,"An Amazon Rival, Jet.com, Eliminates Its Membership Fee",negative,-0.9327921271324158
+2015-10-08,"Amazon’s new service, Handmade at Amazon, will offer artisans a broader market and rules that ensure products are not factory-produced.",neutral,0.23534128069877625
+2015-10-08,Amazon Challenges Etsy With Strictly Handmade Marketplace,neutral,0.12303578853607178
+2015-10-09,Amazon Web Services is building a global method of creating software quickly that could become a standard for how business computing systems are put together.,positive,0.5609768033027649
+2015-10-09,Amazon Building a Tech Business for the Long Haul,neutral,0.07418660819530487
+2015-10-14,"Netflix faces fierce competition from streaming rivals like Amazon, Hulu and HBO, which are significantly increasing their investments.",positive,0.8132604360580444
+2015-10-14,Netflix Profits Slide 50% as Streaming Growth Lags,negative,-0.9654052257537842
+2015-10-20,"The e-books can indeed be lent, but for only 14 days and only once.",neutral,0.030008576810359955
+2015-10-20,Lending Kindle Books,neutral,0.037919607013463974
+2015-10-22,"The company reported net income of 17 cents a share, rather than the 13-cent loss analysts expected.",positive,0.46512657403945923
+2015-10-22,Its shares rose as much as 10 percent after-hours.,positive,0.8628031611442566
+2015-10-22,"Amazon Posts an Unexpected Profit, and Its Shares Soar",positive,0.7461452484130859
+2015-10-23,"After Amazon, Microsoft and Google reported earnings on Thursday, their market capitalizations soared, partly on the growth of cloud computing.",positive,0.9220078587532043
+2015-10-23,"The Cloud Is Here, Separating Disrupters From Disrupted",neutral,-0.1405329406261444
+2015-10-26,"Like its rival Amazon, the retailer sees a variety of potential uses for unpiloted flying machines.",neutral,0.0325256772339344
+2015-10-26,Walmart Seeks Permit to Do Tests With Drones,neutral,0.08809514343738556
+2015-10-27,Oracle wants to do what it does best: build software that has the specific kinds of features that companies needs to manage their operations.,neutral,0.11771143972873688
+2015-10-27,Oracle Will Not Build a Giant Cloud System Like A.W.S.,neutral,-0.030348308384418488
+2015-10-31,"Amazon stopped offering the plastic card-reader device to new merchants as of Friday evening, and it will stop supporting Amazon Register by February.",negative,-0.6472498178482056
+2015-10-31,Amazon Shutting Down Its ‘Register’ Credit Card Processor,negative,-0.8360300660133362
+2015-11-03,The retailing giant announced that it would give fathers up to six weeks of paternity leave and more than double maternity leave.,negative,-0.8468380570411682
+2015-11-03,It is also opening a small bookstore in Seattle.,neutral,0.05411316826939583
+2015-11-03,Amazon Adds New Perks for Workers and Opens a Bookstore,positive,0.7952502369880676
+2015-11-09,"A class action firm that routinely targets tech companies is opening an office in San Francisco, not far from many of the companies it has sued.",neutral,-0.1934795081615448
+2015-11-09,Law Firm Loathed by Tech Expands to Industry’s Home Turf,negative,-0.5140963792800903
+2015-11-10,"Amazon Prime Music, available free to Prime subscribers, has a far smaller catalog than Spotify and Apple Music, but it may appeal to families and listeners who don’t require all the latest hits.",neutral,0.04871264845132828
+2015-11-10,Amazon’s Streaming Music Aims for More Casual Listeners,neutral,0.05584267899394035
+2015-11-12,"He will be succeeded by his son-in-law, Timothy O’Shaughnessy, currently the president of Graham Holdings.",neutral,0.023286359384655952
+2015-11-12,Donald Graham Steps Down as Chief of Family Company,neutral,-0.20062701404094696
+2015-11-18,Jeff Bezos bucked the trend of seeking short-term results to create an addictive shopping experience few can match.,neutral,0.45096999406814575
+2015-11-18,"And his newer enterprise is a blockbuster, too.",neutral,0.0688960999250412
+2015-11-18,How Amazon’s Long Game Yielded a Retail Juggernaut,neutral,0.10156048089265823
+2015-11-19,"Ms. Greene, a Silicon Valley veteran, has been a board member of Google and founded Bebop Technologies, which Google has agreed to buy.",neutral,0.04195016995072365
+2015-11-19,Google Picks Diane Greene to Expand Its Cloud Business,positive,0.5319099426269531
+2015-11-20,Few would argue that Google knows better than most how to manage huge data centers.,positive,0.6029878854751587
+2015-11-20,But in recent years Amazon has become the leader in selling that expertise to other companies.,positive,0.6469159722328186
+2015-11-20,Daily Report: Google Gets Serious About Competing in Cloud With Amazon Web Services,positive,0.8591075539588928
+2015-11-30,Tech companies want to own the airspace for many purposes.,neutral,0.0014168806374073029
+2015-11-30,They are also looking for regulatory workarounds.,neutral,0.10760098695755005
+2015-11-30,Drone Videos Could Help Amazon Sell Prime Subscriptions,positive,0.6155039668083191
+2015-12-02,"Reviewing the gadget trade-in and recycling programs offered by Amazon, Gazelle and Best Buy.",neutral,0.025360388681292534
+2015-12-02,How to Sell or Recycle Old Electronics,neutral,0.027350520715117455
+2015-12-18,"The rise of original digital shows like those from Netflix and Amazon, especially ones that encourage binge-watching, is making us reconsider how we think of programming that we get through our TVs and other digital devices.",neutral,0.08969368785619736
+2015-12-18,Daily Report: Streaming Video Is Developing Into Distinct Genre,neutral,0.05477437749505043
+2015-12-24,"An Amazon Prime membership offers thousands of streaming videos that can be watched on a multitude of devices — not all of the videos are free, however.",neutral,0.024222619831562042
+2015-12-24,Watching Video on Amazon Prime,neutral,0.030924329534173012
+2015-12-27,"Both local entertainment companies, as well as Netflix, Amazon and 21st Century Fox, hope to persuade Indians to pay for online streaming, but changing current habits will be difficult.",neutral,0.1545742303133011
+2015-12-27,India Offers Atypical Video Challenges,neutral,-0.0070286765694618225
+2015-12-31,The e-commerce giant appeared to solidify its hold on the online world this holiday season.,positive,0.8907315135002136
+2015-12-31,What remains to be seen is how that will translate into profits.,neutral,0.06390324234962463
+2015-12-31,Daily Report: A Happy Holiday for Amazon,neutral,0.19005107879638672
+2016-01-13,Which giant tech company does Netflix most take after?,neutral,-0.05926169455051422
+2016-01-13,"For some, the answer is Amazon.",neutral,-0.019517282024025917
+2016-01-13,Daily Report: The Netflix-Amazon Connection,neutral,0.0722409188747406
+2016-01-14,"Amazon’s China subsidiary has received United States approval to ship ocean freight for other companies, in another move by the retailer to build out its logistics operations.",positive,0.9174667000770569
+2016-01-14,Amazon Subsidiary Gains Approval to Ship Ocean Freight,positive,0.8925722241401672
+2016-01-15,"Investments in well-known tech giants like Amazon, Microsoft and Google fueled three top-performing funds in the fourth quarter.",positive,0.6041209697723389
+2016-01-15,Fund Managers Win With Tech Stalwarts and Burly Brand Names,neutral,0.12185531109571457
+2016-01-20,"By just about every metric, Amazon, Apple, Facebook, Google and Microsoft are getting larger, more entrenched in their own sectors, more powerful in new sectors and better protected from competition.",positive,0.7023353576660156
+2016-01-20,Tech’s ‘Frightful 5’ Will Dominate Digital Life for Foreseeable Future,neutral,0.06621987372636795
+2016-01-24,"Apple, Microsoft and Amazon will announce their quarterly reports, the Fed will gather for the first time this year, and American and European negotiators have until Sunday to reach an agreement.",neutral,0.08431580662727356
+2016-01-24,"Tech Giants’ Earnings, the Fed Meets and a Deadline on a Data-Sharing Deal",negative,-0.4431602954864502
+2016-01-26,"At the 2016 Sundance Film Festival, the big streaming services, not the traditional studios, are driving the deal-making.",neutral,0.09847292304039001
+2016-01-26,"So Far, Amazon and Netflix Are Sundance’s Top Buyers",positive,0.49661436676979065
+2016-01-27,"George Boutros will take the reins of the boutique investment bank, as Mr. Quattrone becomes executive chairman.",neutral,0.027149267494678497
+2016-01-27,Frank Quattrone to Step Down as C.E.O.,neutral,-0.0706249326467514
+2016-01-27,of Qatalyst,neutral,0.04250986874103546
+2016-01-28,"Facebook is shutting down Parse, a toolkit and support system for mobile developers, which it acquired in 2013.",negative,-0.9215993285179138
+2016-01-28,"Facebook to Shut Down Parse, Its Platform for Mobile Developers",negative,-0.9198904037475586
+2016-01-29,"The earnings reports released by Amazon and Microsoft reinforced that cloud computing is a booming, multibillion-dollar business.",positive,0.8593233227729797
+2016-01-29,Daily Report: Divergent Fortunes in Cloud Computing,neutral,0.0017348527908325195
+2016-02-02,Yahoo and Twitter are just the latest tech companies shaping plans for major overhauls and management shake-ups.,neutral,-0.008190855383872986
+2016-02-02,"A look back at how Priceline, Amazon and eBay weathered turbulent times.",positive,0.4607715606689453
+2016-02-02,Tech’s Track Record of Shake-Ups at the Top,neutral,-0.30800148844718933
+2016-02-03,"A day after saying that Amazon planned to open 300 to 400 brick-and-mortar bookstores, a shopping mall executive stepped back from his comments.",negative,-0.8613028526306152
+2016-02-03,Mall Executive Backtracks From Statement on Amazon Retail Stores,negative,-0.6099919080734253
+2016-02-04,How an offhand remark about Amazon opening new bookstores spawned a viral reaction and a backtracking.,neutral,0.08395053446292877
+2016-02-04,Daily Report: The Mystery of Amazon’s Bookstores,neutral,-0.11449398845434189
+2016-02-23,"If you have purchased books on an Amazon Kindle e-reader, you can download the collection onto your iPad with the iOS Kindle app.",neutral,0.015465614385902882
+2016-02-23,Loading the Kindle Library on an iPad,neutral,-0.07951086759567261
+2016-02-24,"As it competes with Amazon and Google, the Windows maker is trying to make it easy for customers to migrate their technology to mobile and the cloud.",positive,0.5408424735069275
+2016-02-24,What Microsoft’s Xamarin Purchase Says About the Cloud Computing Fight,neutral,0.029521118849515915
+2016-03-03,Apple’s legal battle with the government tests the limits of law enforcement agencies’ access to personal data.,negative,-0.7031505703926086
+2016-03-03,Apple Is Rolling Up Backers in iPhone Privacy Fight Against F.B.I.,positive,0.46880561113357544
+2016-03-07,"Industry titans like Amazon and Oracle are duking it out for cloud engineers, taking swipes at the competition and attracting workers with salaries as high as $1 million.",neutral,0.06867138296365738
+2016-03-07,Tech Giants Battle for Top Cloud Talent,neutral,-0.005635246634483337
+2016-03-09,The voice-controlled computer has the potential to become a dominant force in the most intimate of environments: our homes.,neutral,0.1817367672920227
+2016-03-09,The Echo From Amazon Brims With Groundbreaking Promise,neutral,0.2038639485836029
+2016-03-10,Two reporters discuss and marvel at what is and isn’t in Amazon’s sole brick-and-mortar store as it plans to expand its physical locations.,neutral,0.04732334613800049
+2016-03-10,A Trip Through Amazon’s First Physical Store,neutral,0.10814084112644196
+2016-03-20,"New uses for commercial drones, 33-foot trucks, improved roads and bridges: Amazon and its lobbyists urge officials to support expansion efforts.",positive,0.8186559677124023
+2016-03-20,Amazon Leans on Government in Its Quest to Be a Delivery Powerhouse,neutral,0.06078626960515976
+2016-03-25,"Amazon, Google, IBM and Microsoft are using high salaries and games pitting humans against computers to try to claim the standard on which all companies will build their A.I.",neutral,-0.2682334780693054
+2016-03-25,technology.,neutral,0.09785059094429016
+2016-03-25,"The Race Is On to Control Artificial Intelligence, and Tech’s Future",neutral,0.07865960896015167
+2016-03-29,"An Amazon warehouse will give Fall River, Mass., the cash to tackle a host of improvements planned for its downtown, propelling a city strategy.",positive,0.8785490989685059
+2016-03-29,"A Red Carpet for Amazon in Fall River, Mass., and Hopes for More",neutral,0.3309171199798584
+2016-03-31,"The Internet giant is adding dozens of products to its Dash Button program, making it possible to order a specific product with the push of a plastic widget.",neutral,0.15271860361099243
+2016-03-31,More Brands Mean Many More Buttons for Quirky Amazon Service,neutral,0.04270542412996292
+2016-04-08,Amazon and some of its rivals appear to have run afoul of new rules around foreign ownership of e-commerce companies operating in India.,negative,-0.9298732876777649
+2016-04-08,Amazon Encounters a Bumpy Road in India,negative,-0.7193958759307861
+2016-04-09,"The quarter’s top-performing mutual funds sought stock in companies that not only paid dividends, but that also had a durable business and a burly balance sheet.",neutral,0.295090913772583
+2016-04-09,Taking Shelter in Old-School Dividend Stocks,neutral,-0.007760137319564819
+2016-04-10,"This economics of tiny things demonstrates the global power of the few companies, including Amazon, Microsoft and Google, that can make fortunes from the small.",neutral,0.11230607330799103
+2016-04-10,"Billing by Millionths of Pennies, Cloud Computing’s Giants Take In Billions",neutral,0.05946198105812073
+2016-04-13,"In the bizarre world of Internet “discounts,” inconsistent list prices can make it tough to figure out what a product is really worth.",negative,-0.704758882522583
+2016-04-13,Some Online Bargains May Only Look Like One,neutral,-0.16953057050704956
+2016-04-15,The deals show a willingness by music publishers to find new sources of income as music sales dry up.,neutral,0.3927394151687622
+2016-04-15,Bob Dylan-Inspired Drama Is in the Works,neutral,0.021500512957572937
+2016-04-18,"One new plan offers video streaming only, while another offers full Prime benefits.",neutral,0.06586364656686783
+2016-04-18,Both cost more than annual subscribers pay.,neutral,0.03938595578074455
+2016-04-18,Amazon Challenges Netflix by Opening Prime to Monthly Subscribers,neutral,0.22603771090507507
+2016-04-25,"First-quarter results are expected to be in for Facebook, Amazon, Apple and Twitter, as well as for some of Europe’s largest banks.",positive,0.6046096086502075
+2016-04-25,Technology and Banking Sectors Brace for Earnings Reports,neutral,0.1769477277994156
+2016-04-28,"Shares rose 12 percent after the company reported net income of $513 million, in contrast to last year’s loss of $57 million.",positive,0.875217616558075
+2016-04-28,Amazon’s Cloud Business Lifts Its Profit to a Record,positive,0.9027953147888184
+2016-04-29,"Amazon made a profit of $513 million in its most recent quarter, and its Amazon Web Services was the star of the show.",positive,0.47151240706443787
+2016-04-29,Cloud Services Show Their Value in Earnings Reports,neutral,0.1114993691444397
+2016-04-30,"The (relative) decline of Apple, the ascendance of Amazon and the continuing dominance of Mark Zuckerberg’s social network.",negative,-0.4651685059070587
+2016-04-30,Farhad and Mike’s Week in Tech: The Unstoppable Facebook,neutral,0.011993460357189178
+2016-05-12,Pens matter.,neutral,-0.21457526087760925
+2016-05-12,Ink does not.,neutral,-0.011178186163306236
+2016-05-12,The blocking of the Staples-Office Depot union illustrates the complications the age of Amazon has created in the retail industry.,neutral,-0.09185531735420227
+2016-05-12,Antitrust in the Age of Amazon,neutral,-0.09734135866165161
+2016-05-16,"High turnover may be one reason unions have made little progress at the e-commerce company, but some see manipulation and intimidation.",negative,-0.8945906162261963
+2016-05-16,"Amazon Proves Infertile Soil for Unions, So Far",negative,-0.504419207572937
+2016-05-17,"Apple has Siri, Amazon has its Echo, and now Google will introduce its virtual agent, Google Home.",neutral,0.14272263646125793
+2016-05-17,Google to Introduce Its Voice-Activated Home Device,positive,0.615775465965271
+2016-05-18,"A virtual assistant designed to compete with the Echo from Amazon and other artificial intelligence devices coming from Microsoft, Apple and Facebook.",neutral,0.10128428786993027
+2016-05-18,Google Home: A Voice-Activated Device That Already Knows You,neutral,-0.09994485974311829
+2016-05-26,"Salesforce, itself a cloud-computing company, will use Amazon Web Services to grow more rapidly in a deal valued at $400 million.",positive,0.7935735583305359
+2016-05-26,Salesforce to Use Amazon’s Cloud to Expand in Canada and Australia,positive,0.8237417340278625
+2016-06-01,"The Amazon chief, buoyed by record profit, said he bought the newspaper to make it a more powerful publication on a national, and even global, stage.",positive,0.7983189225196838
+2016-06-01,"Jeff Bezos, Riding High, Defends Decision to Buy Washington Post",neutral,0.11855627596378326
+2016-06-06,"Areas like computing and mobile devices have made advances, but the government has reported disappointingly slow growth and continuing stagnation in productivity.",negative,-0.4352812170982361
+2016-06-06,Why the Economic Payoff From Technology Is So Elusive,neutral,0.05877324193716049
+2016-06-09,"Mr. Perkins, a co-founder of Kleiner Perkins Caufield & Byers, nurtured both the venture capital industry and a generation of technology.",neutral,0.2841624915599823
+2016-06-09,"Thomas J. Perkins, Pioneering Venture Capitalist in Silicon Valley, Dies at 84",neutral,-0.18479420244693756
+2016-06-10,"With growing competition from the likes of Google and Amazon, Apple appears to be working to improve its relationship with app makers.",positive,0.9277592301368713
+2016-06-10,Apple Starts to Woo Its App Developers,positive,0.4593769907951355
+2016-06-27,"Apple and Dell, longtime rivals in the battle over sales to educators and students, now have plenty of company from companies like Amazon and others.",neutral,0.3032803535461426
+2016-06-27,Tech Makes Its Pitch to the Education Community,neutral,0.08747045695781708
+2016-06-28,"A feature makes it easier to save your place in complex books like “A Game of Thrones” while you glance at reference pages with photos, maps or family trees.",neutral,-0.036078933626413345
+2016-06-28,Amazon Kindle Learns to Navigate Literary Thickets,neutral,0.4348030984401703
+2016-06-29,"Amazon Inspire, a resource site where teachers share lesson plans, removed three items after complaints that the products were copyrighted materials.",negative,-0.9152163863182068
+2016-06-29,Amazon Inspire Removes Some Content Over Copyright Issues,negative,-0.9107100367546082
+2016-06-30,A Nielsen study on how we consume media finds people are still watching plenty of TV but services like Netflix and Amazon Prime are growing rapidly.,neutral,0.050189897418022156
+2016-06-30,How Much Do We Love TV?,neutral,0.047815725207328796
+2016-06-30,Let Us Count the Ways,neutral,0.019146766513586044
+2016-07-01,Popular shows like “Daniel Tiger’s Neighborhood” will be removed from rivals Netflix and Hulu as Amazon becomes the only premium service to stream them.,negative,-0.7821633219718933
+2016-07-01,Amazon Prime Strikes Deal for Most PBS Children’s Shows,neutral,0.13541869819164276
+2016-07-03,"As retailers face consumer lawsuits over discounts, Amazon is changing the way it presents bargains to customers.",neutral,0.09373942017555237
+2016-07-03,Amazon Is Quietly Eliminating List Prices,neutral,-0.3977836072444916
+2016-07-07,"The audiobook and spoken-word company is selling access to an extensive library of short-form audio, including original programs, for $4.95 per month.",neutral,0.09759301692247391
+2016-07-07,Amazon’s Audible Goes Long on Short-Form Audio,neutral,-0.029673434793949127
+2016-07-10,"Amazon is building a complex at its Seattle headquarters where employees can sit by a creek, walk on suspension bridges and brainstorm in the boughs.",neutral,0.030388057231903076
+2016-07-10,Forget Beanbag Chairs.,neutral,-0.16103127598762512
+2016-07-10,Amazon Is Giving Its Workers Treehouses.,neutral,0.0753815695643425
+2016-07-11,"Once relatively self-effacing, Amazon has joined its tech cohort in building new, quirky spaces befitting its size and influence.",positive,0.7793555855751038
+2016-07-11,Daily Report: Amazon Flaunts Its Prominence With New Construction in Seattle,positive,0.6687654256820679
+2016-07-20,"Quarterly revenue from Azure, the cloud business it introduced to compete with Amazon, rose more than 100 percent.",positive,0.9324625730514526
+2016-07-20,"Microsoft Earnings Are Up, Cushioned by Its Cloud Business",positive,0.8962782621383667
+2016-07-25,The British Civil Aviation Authority will allow the company to test several technologies that the United States has not permitted.,neutral,0.32527002692222595
+2016-07-25,Amazon Expands Drone Testing in Britain,neutral,-0.2570973336696625
+2016-07-27,"Making Amazon’s voice-activated speaker smarter is not intuitive, but with a little tinkering, consumers can expand its skills.",positive,0.8337112069129944
+2016-07-27,"Alexa, What Else Can You Do?",neutral,0.009279213845729828
+2016-07-27,Getting More From Amazon Echo,neutral,0.02851564809679985
+2016-07-28,"Amazon reported net income of $857 million, the second quarter in a row it has shown a record profit even as it invests heavily in its own growth.",positive,0.8007227182388306
+2016-07-28,"Amazon’s Profits Grow More Than 800 Percent, Lifted by Cloud Services",positive,0.9200199842453003
+2016-07-29,"Oracle’s announced purchase of NetSuite is aimed at getting deeper into the game, while Amazon drew more than half its operating earnings from the segment.",neutral,0.21477054059505463
+2016-07-29,Gathering Cloud-Computing,neutral,0.025827530771493912
+2016-07-30,"Twitter, Facebook, Google and Amazon shared their second-quarter earnings reports, and Yahoo agreed to sell itself to Verizon for about $5 billion.",neutral,0.20343108475208282
+2016-07-30,Farhad’s and Mike’s Week in Tech: The Cautionary Tale of the Fall of Yahoo,neutral,-0.06771271675825119
+2016-08-01,"The biggest business-software company thinks that information gathering could become a valuable adjunct to many of its database and applications efforts, and it has more data than anybody.",neutral,0.3176180422306061
+2016-08-01,"Oracle, Having Bet Billions on Its Future, Sets Sights on Data Analysis",neutral,0.2017676681280136
+2016-08-02,The ride-hailing company joins the top tech giants in failing to overcome the enormous and varied barriers to competing effectively in China.,negative,-0.46281832456588745
+2016-08-02,Even Uber Couldn’t Bridge the China Divide,negative,-0.39534422755241394
+2016-08-03,"Jet.com was born out of a dream of taking on Amazon, but it has struggled, rapidly burning through much of the cash it raised from investors.",negative,-0.9568688869476318
+2016-08-03,Walmart Is Said to Be in Talks to Acquire Jet.com,neutral,0.04739341884851456
+2016-08-04,Even a galloping “unicorn” will struggle to tow the lumbering retailer into a competitive position online.,positive,0.41681307554244995
+2016-08-04,Walmart’s Bid for Jet.com Could Help It Compete Against Amazon,positive,0.9001024961471558
+2016-08-07,"The tech giant wants to weave its intelligent assistant into other smart gadgets, even those not made by Amazon.",neutral,0.10856332629919052
+2016-08-07,But weakness in mobile could be an obstacle.,negative,-0.755461573600769
+2016-08-07,Amazon Has Big Plans for Alexa: Running the ‘Star Trek’ Home,neutral,0.03815498203039169
+2016-08-08,"The acquisition of Jet, the largest deal ever for an e-commerce company, is intended to help both companies compete with Amazon.",positive,0.8778479695320129
+2016-08-08,Walmart Rewrites Its E-Commerce Strategy With $3.3 Billion Deal for Jet.com,neutral,0.3153379559516907
+2016-08-10,"Amazon doesn’t reveal much, but a little sleuthing suggests that drones may be central to the online retailer’s long-term strategy.",neutral,0.06298139691352844
+2016-08-10,Think Amazon’s Drone Delivery Idea Is a Gimmick?,neutral,-0.05600275471806526
+2016-08-10,Think Again,neutral,0.05425366014242172
+2016-08-11,When the online retailer unveiled its drone project in 2013 it was mocked.,negative,-0.7261050343513489
+2016-08-11,"It still sounds like a long shot, but it doesn’t seem so crazy anymore.",neutral,-0.100334033370018
+2016-08-11,Daily Report: Amazon’s Drones May Not Be So Crazy After All,neutral,-0.20431044697761536
+2016-08-13,The Walmart-Jet deal poses the question of whether Amazon is stoppable.,neutral,-0.2755042612552643
+2016-08-13,"Also, why hiring people who aren’t 20-something Stanford bros can be helpful.",positive,0.6265409588813782
+2016-08-13,Farhad’s and Mike’s Week in Tech: Betting on Jet and Diverse Work Forces,neutral,0.14498265087604523
+2016-08-18,"These digital anthologies will be sold on Pottermore, as well as on Amazon and other digital retailers, and will cost $2.99.",neutral,0.03908515349030495
+2016-08-18,"J.K. Rowling Announces E-Book Series, ‘Pottermore Presents’",neutral,0.13364277780056
+2016-08-19,"E-book readers and tablets can handle several types of files, but some may work better for certain kinds of books.",neutral,0.07718595117330551
+2016-08-19,Picking a Digital Publishing Format,neutral,0.034742265939712524
+2016-08-24,"Household staples like coffee and paper towels arrive automatically, but the prices may vary by as much as 170 percent.",neutral,-0.0005865469574928284
+2016-08-24,Subscribe and Save on Amazon?,neutral,-0.051043808460235596
+2016-08-24,Don’t Count on It,neutral,-0.12591864168643951
+2016-08-26,Rackspace has become a partner with Amazon and Azure selling services and helping companies transport data and software to them.,positive,0.7574462294578552
+2016-08-26,Small Cloud Computing Firm Turns to Helping Others Work With Giants,neutral,0.046818166971206665
+2016-09-08,"The overall tablet market is no longer a growth juggernaut, with weak sales from the likes of Apple and Samsung.",negative,-0.9602954387664795
+2016-09-08,But Amazon’s sales are rising.,positive,0.907066822052002
+2016-09-08,Amazon Has a Potent Weapon in the Tablet Wars: Low Prices,neutral,0.09031126648187637
+2016-09-11,"The companies are planning to charge as little as $5 a month for new streaming music services, half the cost of the current pricing model.",neutral,0.03928210213780403
+2016-09-11,Amazon and Pandora to Gauge Music’s Value in the Internet Age,neutral,0.04991086572408676
+2016-09-12,"“Our vision is millions of people living and working in space, and New Glenn is a very important step,” said Jeffrey P. Bezos, the billionaire founder of Amazon and Blue Origin.",neutral,0.4325633645057678
+2016-09-12,"Meet New Glenn, the Blue Origin Rocket That May Someday Take You to Space",neutral,0.14942523837089539
+2016-09-14,"The app, for Apple TV, Amazon Fire TV and Xbox One, offers a wide variety of live content, including Thursday night N.F.L.",neutral,0.007132655009627342
+2016-09-14,games.,neutral,0.06438460201025009
+2016-09-14,New Twitter App Streams N.F.L.,neutral,0.21731625497341156
+2016-09-14,Games and Other Sports,neutral,0.04725304991006851
+2016-09-20,"In a country where disruptive start-ups are relatively rare, a new service available on Amazon ignites a debate over faith and money.",negative,-0.7276986241340637
+2016-09-20,Japan’s Newest Technology Innovation: Priest Delivery,positive,0.5634374618530273
+2016-09-25,Top internet companies — but not Amazon or PayPal — are cooperating to solve a persistent problem: How to provide one-click shopping across all kinds of sites.,positive,0.6930885314941406
+2016-09-25,What if ‘One Click’ Buying Were Internetwide?,neutral,-0.19714227318763733
+2016-09-28,"The Partnership on AI unites Amazon, Facebook, Google, IBM and Microsoft to ease public fears of machines that are learning to think for themselves.",positive,0.8383876085281372
+2016-09-28,Protecting Humans and Jobs From Robots Is 5 Tech Giants’ Goal,neutral,0.0625777617096901
+2016-09-30,"The releases, which will weave features from the popular streaming video service into the gaming experience, are Amazon’s first games aimed at hard-core players.",neutral,0.19095857441425323
+2016-09-30,Amazon Creates 3 Games for Twitch Fans,neutral,-0.0008674543350934982
+2016-10-02,"Google is unveiling its answer to Echo, an artificially intelligent home device that vaulted Amazon ahead of Google in a race to build technology that interacts as humans do.",neutral,0.3501085042953491
+2016-10-02,"Google, Lagging Amazon, Races Across the Threshold Into the Home",neutral,0.28335028886795044
+2016-10-03,Companies like Amazon and Microsoft are building data centers across the Continent in response to Europeans’ desires to keep their information close to home.,neutral,0.2696113586425781
+2016-10-03,U.S. Tech Giants Are Investing Billions to Keep Data in Europe,neutral,0.08641725778579712
+2016-10-04,"Amazon accepts returns for many of the things it sells, including — under certain circumstances — Kindle books.",neutral,0.06702014058828354
+2016-10-04,Getting Your Money Back for a Digital Book,neutral,0.08915677666664124
+2016-10-12,A new service offering tens of millions of songs will cost customers as little as $4 per month if they listen through the Echo device.,negative,-0.7004412412643433
+2016-10-12,"Amazon Pairs Its Speaker With Streaming Music, at a Bargain Price",neutral,0.06662474572658539
+2016-10-15,Sometimes people forget that old guys can be geeks.,negative,-0.5887998938560486
+2016-10-15,"This week: How Samsung helped Apple, will Verizon win a discount, and a new riff on a classic excuse.",neutral,0.10041394829750061
+2016-10-15,"Jim’s and Nick’s Week in Tech: Smoldering Phones, the Yahoo Markdown and Amazon Music",negative,-0.6215848922729492
+2016-10-17,Thousands of public libraries around the country offer digital content you can borrow for a short period to use on your mobile device and computer.,neutral,0.004853725433349609
+2016-10-17,Guide for Borrowing Library Books on Your Phone and Tablet,neutral,-0.032402656972408295
+2016-10-27,"The company said to expect as much as $1.25 billion in operating income for the fourth quarter and as little as nothing, a remarkably wide range.",positive,0.5611696243286133
+2016-10-27,"Amazon Comes Up Short on Profits, Focusing on Warehouses and Movies",negative,-0.9524769186973572
+2016-10-28,You do not need hardware or software from Amazon to check out books and other digital materials from most public lending libraries.,neutral,-0.007707430049777031
+2016-10-28,"Borrow E-Books, No Kindle Required",neutral,-0.006800500676035881
+2016-10-29,Farhad is going as sexy Donald Trump and Mike as Guy Fieri.,neutral,0.006216572597622871
+2016-10-29,Amazon gets them reminiscing about Matthew McConaughey in a 1990s stoner movie.,neutral,-0.03925847262144089
+2016-10-29,"Farhad and Mike’s Week in Tech: Microsoft, Apple and Halloween!",neutral,-0.018087387084960938
+2016-11-01,Insurance is a hard product to buy.,neutral,-0.3293932378292084
+2016-11-01,Here’s The Upshot’s simplified guide to finding the plan that’s right for you.,neutral,0.029684513807296753
+2016-11-01,Need to Pick an Insurance Plan?,neutral,-0.12037795782089233
+2016-11-01,Start Here,neutral,0.05167832970619202
+2016-11-03,"Which is a better helper, Google Home or Amazon Echo?",neutral,0.04912832751870155
+2016-11-03,A side-by-side test for six days revealed strengths and weaknesses.,negative,-0.4525548219680786
+2016-11-03,Google Home vs. Amazon Echo: A Face-Off of Smart Speakers,negative,-0.7522546052932739
+2016-11-05,"Mike is a medieval witch hunter, as Farhad retreats into Mario.",neutral,-0.15744246542453766
+2016-11-05,Microsoft’s grab for Slack’s lunch is discussed.,neutral,-0.11235825717449188
+2016-11-05,And Amazon could do better at inspiring shopping.,neutral,0.30628442764282227
+2016-11-05,Farhad’s and Mike’s Week in Tech: Gaming as Prophylaxis to Elections,neutral,-0.005616210401058197
+2016-11-14,"Most devices connect to the television through an HDMI port, but you can find gear to work with the composite connections used by legacy TV sets.",neutral,0.03031601756811142
+2016-11-14,How to Stream Video on an Older TV,neutral,0.02723541110754013
+2016-11-17,The retailer needs more customers wandering its aisles over the holiday season and a sustainable plan to compete with Amazon.,positive,0.8684167265892029
+2016-11-17,Target’s Turnaround Still Faces Challenges,positive,0.18672750890254974
+2016-11-23,"About 250 pilots for the carrier, ABX Air, went on strike on Tuesday, accusing their employer of forcing them to work an excessive number of flights.",negative,-0.9451009631156921
+2016-11-23,Airline Used by Amazon Wins Order to End Cargo Pilots’ Strike,negative,-0.22300779819488525
+2016-11-29,Fake messages claiming to be from Amazon are one of the many tactics online thieves use to try and get your financial information.,negative,-0.7504773736000061
+2016-11-29,Skip the Phish on the Menu,neutral,-0.14258304238319397
+2016-12-01,Can a non-Bay Area internet company besides Amazon become a giant?,neutral,0.2522140443325043
+2016-12-01,Investors are betting Snapchat is on its way to finding out.,neutral,0.12938345968723297
+2016-12-01,"Daily Report: Snapchat Defies Silicon Valley, and Its Algorithms",negative,-0.7977001070976257
+2016-12-05,"At an experimental store on the ground floor of a new Amazon office building in Seattle, shoppers will be able to pluck what they want off the shelves and leave without waiting to pay.",neutral,0.10988523811101913
+2016-12-05,"Amazon Moves to Cut Checkout Line, Promoting a Grab-and-Go Experience",negative,-0.4832834005355835
+2016-12-13,"The executives meeting with Mr. Trump in Manhattan on Wednesday include Elon Musk of Tesla, Timothy D. Cook of Apple and Jeff Bezos of Amazon.",neutral,-0.0027679726481437683
+2016-12-13,"When Trump Meets Tech Leaders, Jobs Will Be on the Agenda",neutral,0.030217908322811127
+2016-12-14,"Jeff Bezos announced on Twitter that his company had made its first automated shipment, a two-mile, 13-minute trip to a shopper in Cambridgeshire.",neutral,0.41287603974342346
+2016-12-14,"In Major Step for Drone Delivery, Amazon Flies Package to Customer in England",neutral,0.11411094665527344
+2016-12-16,Few companies have been able to keep Amazon at bay after it decides to target a new market.,negative,-0.882434070110321
+2016-12-16,"Zalando, Europe’s biggest online fashion retailer, is the latest to try.",neutral,0.08475204557180405
+2016-12-16,"In Shadow of Amazon, European Challenger Looks to China for Inspiration",neutral,0.03842660039663315
+2016-12-25,The rapid expansion of internet-connected devices will put even more power in the hands of a few companies with the biggest cloud services.,neutral,0.4315297305583954
+2016-12-25,Why the Computing Cloud Will Keep Growing and Growing,neutral,0.1395011842250824
+2016-12-27,This year’s $3.3 billion acquisition of Jet.com will accelerate the push to compete with Amazon in 2017.,positive,0.8549549579620361
+2016-12-27,Walmart Slowly Makes Strides in E-Commerce,positive,0.7424384951591492
+2016-12-29,Arkansas investigators are seeking access to what may have been recorded on the electronic personal assistant.,neutral,-0.4002811014652252
+2016-12-29,Bid for Access to Amazon Echo Audio in Murder Case Raises Privacy Concerns,negative,-0.8208536505699158

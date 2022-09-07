@@ -1,0 +1,48 @@
+Date,Sentence,Prediction,sentimentScore
+2014-03-07,American players including Pepsi and McDonald’s are active in Russia.,neutral,0.051221270114183426
+2014-03-07,"But for many West European businesses, that market is even more crucial.",neutral,0.07747220993041992
+2014-03-07,"Western Businesses in Russia, Watchful and Wary",neutral,-0.08102121949195862
+2014-05-15,"With soda sales sliding in grocery and convenience stores and other retail outlets, new equipment offers the companies a means of introducing consumers to their products.",positive,0.6752902865409851
+2014-05-15,Pepsi Challenges Coke in the Race to Design a More Tappable Soda Fountain,positive,0.5898899435997009
+2014-07-23,"The California State Teachers’ Retirement System, known as Calstrs, has sent a letter to a senior PepsiCo director, urging the food and beverage company to put Nelson Peltz on its board.",neutral,0.0962047129869461
+2014-07-23,Nelson Peltz’s Efforts to Shake Up Pepsi Get Backing of Calstrs,neutral,0.18289154767990112
+2014-08-08,"While farmers in India once left cashew apples to rot, some are now selling them as the source of what Pepsi hopes could be the next coconut water.",neutral,0.04553762823343277
+2014-08-08,"Cashew Juice, the Apple of Pepsi’s Eye",neutral,0.016132287681102753
+2014-09-13,"After a deadly 2006 accident, Reggie Shaw was in denial.",negative,-0.5891367793083191
+2014-09-13,Now he’s on a mission against the use of phones behind the wheel.,neutral,-0.24527736008167267
+2014-09-13,A Texting Driver’s Education,neutral,-0.10205365717411041
+2014-11-25,"The deal to acquire the operator of Pep, the largest retailer in Africa, is expected to expand Steinhoff’s footprint, particularly in the discount retail space.",positive,0.9365649819374084
+2014-11-25,Steinhoff International to Buy Pepkor of South Africa for $5.7 Billion,neutral,0.03208940848708153
+2015-03-11,The original Pepsi Challenge ad campaign pitted Pepsi against Coke.,neutral,0.017653629183769226
+2015-03-11,The new global version blends social responsibility with popular culture.,neutral,0.35071155428886414
+2015-03-11,"The Pepsi Challenge Is Returning, but This Time for the Social Media Generation",neutral,0.09134481102228165
+2015-04-23,Critics of the proposed merger with Time Warner Cable say that Comcast’s attitude toward compliance paints a picture of an already huge company that uses its heft to its advantage.,negative,-0.841152548789978
+2015-04-23,Comcast Critics Cast Doubt on Its Intentions,negative,-0.6836068034172058
+2015-07-14,"After facing a steep falloff during the recession, apprentice programs are making a comeback, and have caught the notice of students, parents and even some presidential candidates.",positive,0.7258729934692383
+2015-07-14,A New Look at Apprenticeships as a Path to the Middle Class,neutral,0.26976701617240906
+2015-08-25,"On some days, market psychology can count for more than long-term fundamentals, pushing panicked investors to sell.",negative,-0.7808780670166016
+2015-08-25,Advisers Work to Calm Fearful Investors,neutral,-0.2956114411354065
+2015-10-26,"The acquisition of the car parts retailer will give Bridgestone about 800 more stores to add to its own network of 2,200 tire and car service centers.",positive,0.7385897040367126
+2015-10-26,Bridgestone to Buy Pep Boys for $835 Million,neutral,0.03919780254364014
+2015-10-30,"William A. Ackman, the billionaire hedge fund investor, attempted to downplay the magnitude of Valeant’s problems in a recent conference call.",negative,-0.6068889498710632
+2015-10-30,Trying in Vain to Put a Positive Spin on Valeant’s Troubles,neutral,-0.03702983260154724
+2015-12-07,"The activist investor offers to buy the car parts retailer for $15.50 a share in cash, topping the $15 a share that Bridgestone had bid.",positive,0.8609651327133179
+2015-12-07,Carl Icahn Makes Counterbid for Pep Boys,neutral,0.02733447402715683
+2015-12-21,"The $919 million cash offer caused the car-parts and servicing chain to terminate its agreement to be acquired by Bridgestone, the tire company.",negative,-0.8404679298400879
+2015-12-21,Carl Icahn Raises Offer for Pep Boys,neutral,0.12315255403518677
+2015-12-23,"Carl C. Icahn said that he would offer 10 cents a share more than any bid by Bridgestone up to about $18.10 per share, or $1 billion.",positive,0.47994017601013184
+2015-12-23,Icahn Vows to Outbid Bridgestone for Pep Boys,neutral,0.15871648490428925
+2015-12-24,"Pep Boys agreed to be bought by Bridgestone for $947 million, with the board of the car-parts chain deeming the latest offer from the tire company better than a competing bid from Carl Icahn.",positive,0.6238093972206116
+2015-12-24,Pep Boys Accepts Higher Takeover Bid From Bridgestone,positive,0.7308032512664795
+2015-12-29,"Carl Icahn may have the upper hand today, but shareholders seem to be betting that Bridgestone has the financial wherewithal to offer a higher price.",positive,0.5307220220565796
+2015-12-29,More Rounds to Come in Fight Over Pep Boys,neutral,0.041722849011421204
+2015-12-30,"Outbidding Bridgestone, Icahn Enterprises announced that it would buy Pep Boys in an all-cash deal for $18.50 a share, or roughly $1 billion.",positive,0.6927357316017151
+2015-12-30,Icahn Wins Bidding War for Pep Boys,positive,0.41395631432533264
+2016-01-28,"Kola House, now being built in New York, is meant to be a testing ground for Pepsi products and, in a subtle way, to stir social media conversation.",neutral,0.08197708427906036
+2016-01-28,"Pepsi Turns Restaurateur, to Serve Up Some Buzz",neutral,0.1278836876153946
+2016-02-29,"Federal-Mogul said that it had received a proposal from Mr. Icahn’s firm to acquire the remaining 18 percent of the company that he did not already own,",positive,0.5279568433761597
+2016-02-29,"Icahn Makes Bid for Federal-Mogul, an Auto-Parts Supplier",neutral,0.17287710309028625
+2016-10-10,A new report documents the beverage industry’s deep financial ties to health groups as part of a strategy to silence critics and gain unlikely allies.,neutral,0.41579484939575195
+2016-10-10,"Coke and Pepsi Give Millions to Public Health, Then Lobby Against It",neutral,-0.030822644010186195
+2016-11-10,“Forget the Pepsi brand — how dare you talk about women that way?” Indra Nooyi said at the annual DealBook conference in New York.,negative,-0.6586365699768066
+2016-11-10,Business Leaders Examine a Post-Election World,neutral,-0.12815499305725098

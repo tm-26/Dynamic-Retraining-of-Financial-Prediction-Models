@@ -1,0 +1,276 @@
+Date,Sentence,Prediction,sentimentScore
+2007-02-06,Chevron Will Split Chief and Chairman Jobs.,neutral,-0.05107398331165314
+2007-02-06,Chevron Will Split Chief and Chairman Jobs,neutral,0.0018010251224040985
+2007-02-06,Chevron announced Monday that it would separate the positions of chief executive and chairman and make it easier for shareholders to remove directors.,neutral,0.0007868260145187378
+2007-02-06,"The company, based in San Ramon, Calif., said in a public filing that the chairman will now be elected annually by the board.",neutral,0.03616032004356384
+2007-02-06,"Previously, the oil producer’s chief executive automatically occupied the role of chairman.",neutral,0.010484942235052586
+2007-02-06,Chevron Will Split Chief and Chairman Jobs,neutral,0.0018010251224040985
+2007-02-10,"If Chevron succeeds, such an acquisition could help close the final chapter on the downfall of Russia’s largest oil company.",positive,0.5781237483024597
+2007-02-10,Chevron Said to Be Interested in Buying Assets of Yukos of Russia,neutral,0.04385226219892502
+2007-02-12,"Chevron intends to bid for assets of Yukos, the bankrupt oil producer, Russian officials said Friday.",neutral,0.02423052489757538
+2007-02-12,"If Chevron succeeds, such an acquisition could help close the final chapter on the downfall of Russia’s largest oil company.",positive,0.5781235694885254
+2007-02-12,Chevron Said to Be Interested in Buying Assets of Yukos of Russia,neutral,0.04385226219892502
+2007-03-03,Oil companies are using new technology to extend the lives of old oil fields.,neutral,0.4533158242702484
+2007-03-03,Scratching the Surface,neutral,-0.09302280843257904
+2007-03-03,"David J. O’Reilly, Chevron’s chairman and chief executive, spoke about the challenges oil companies face, the company’s recent ads and the lack of an energy policy in the U.S.",neutral,-0.02932295948266983
+2007-03-03,"Big Profits, Big Worries in Oil Fields",neutral,-0.3350515365600586
+2007-03-05,"Technology has unlocked more oil from old fields, challenging forecasts that  reserves are drying out.",negative,-0.9320245981216431
+2007-03-05,Oil Innovations Pump New Life Into Old Wells,neutral,0.1762269139289856
+2007-03-06,"BP said it had agreed to buy Chevron‘s manufacturing company in the Netherlands, Texaco Raffinaderij Pernis, for about $900 million, excluding working capital and hydrocarbon inventory.",positive,0.6809454560279846
+2007-03-06,BP will acquire Chevron’s 31 percent minority shareholding in the Netherlands Refining Company as well as Chevron’s stake in the jointly owned wind farm located at the refinery; shareholdings in the nearby crude oil terminal and storage facility; and a number of associated pipelines.,neutral,0.12485609203577042
+2007-03-06,BP to Buy Chevron Assets,neutral,0.031025907024741173
+2007-03-20,"Exxon Mobil, Chevron, BP and others have poured billions into Angola in the last decade to unlock petroleum resources, and the payoffs are finally coming in.",negative,-0.8032981753349304
+2007-03-20,"Nowadays, Angola Is Oil’s Topic A",neutral,0.016581285744905472
+2007-04-23,QUARTERLY REPORTS A decline in oil and gas prices is expected to translate into lower profits for the big oil companies.,negative,-0.9613562822341919
+2007-04-23,"Earnings are scheduled to be reported by BP (Tuesday), ConocoPhillips (Wednesday), Exxon Mobil (Thursday) and Chevron (Friday).",neutral,0.014948861673474312
+2007-04-23,"Lower oil prices may help the profits of transportation companies, including the airlines JetBlue (Tuesday), UAL (Wednesday) and US Airways (Thursday).",positive,0.0733325183391571
+2007-04-23,Looking Ahead,neutral,0.013165891170501709
+2007-05-08,Chevron is preparing to acknowledge that it should have known oil kickbacks were being paid to Saddam Hussein.,negative,-0.5994476079940796
+2007-05-08,Chevron Seen Settling Case on Iraq Oil,neutral,-0.07671977579593658
+2007-05-14,"Tensions have flared up in the Niger Delta, the site of much of the country’s oil production, after deeply flawed presidential elections last month.",negative,-0.9162781834602356
+2007-05-14,Renewed Violence Limits Oil Production in Nigerian Region,negative,-0.9050999283790588
+2007-05-16,"Young protesters overran an oil pipeline hub in the volatile Niger Delta, cutting Nigeria’s oil production by about 30 percent.",negative,-0.9277470111846924
+2007-05-16,Nigerian Oil Production Falls After a Pipeline Hub Is Overrun,negative,-0.9347948431968689
+2007-05-22,"Chevron, the oil behemoth, intends to sell what amounts to a stake of about 12 percent in the energy company Dynegy through a public stock offering.",neutral,0.034493930637836456
+2007-05-22,Chevron U.S.A. will offer 96.9 million Class A Dynegy shares in a sale that will be managed by Goldman Sachs.,neutral,0.08400747925043106
+2007-05-22,Chevron Plans Offering of Dynegy Stake,neutral,0.036311183124780655
+2007-07-09,"This week’s coming quarterly reports, economic data, merger votes and interest rate decisions.",neutral,0.029031991958618164
+2007-07-09,The Week Ahead,neutral,0.016221344470977783
+2007-08-23,A 15-month standoff between the Canadian province of Newfoundland and Labrador and several major oil companies over an offshore oil project ended Wednesday.,negative,-0.9349350333213806
+2007-08-23,Deal Restarts Newfoundland Oil Project,neutral,0.114722840487957
+2007-09-06,Chevron has us playing the oil game.,neutral,-0.01039247028529644
+2007-09-06,This Just In From 2030: Looming War Restricts Access to Oil,negative,-0.8787598609924316
+2007-09-27,The Chevron Corporation will repurchase as much as $15 billion of its stock as record crude prices increase earnings.,positive,0.7902972102165222
+2007-09-27,Stock Buyback Set by Chevron,neutral,0.07311327755451202
+2007-09-27,"Chevron announced Wednesday it plans to buy back up to $15 billion of its own stock, returning to shareholders some of the windfall profit piling up from recent record-high oil prices.",positive,0.8278825879096985
+2007-09-27,Chevron Plans $15 Billion Stock Buyback,neutral,0.034786224365234375
+2008-02-08,The oil giant won court orders freezing as much as $12 billion in petroleum assets controlled by Venezuela’s government.,negative,-0.8398597240447998
+2008-02-08,Court Bars Sale of Billions in Oil Assets by Venezuela,negative,-0.4307096302509308
+2008-05-03,"Chevron said first-quarter profit rose 9.5 percent, beating Wall Street estimates.",positive,0.9201552867889404
+2008-05-03,Chevron Profit Rises Even as Production Falls,positive,0.5145959854125977
+2008-05-08,"A dozen oil companies agreed to pay $423 million in cash plus clean-up costs to settle litigation over groundwater contamination from the gasoline additive, MTBE.",positive,0.7460014224052429
+2008-05-08,Oil Giants to Settle Water Suit,neutral,-0.3302270174026489
+2008-06-07,Several factors could explain the disconnect between skyrocketing oil prices and the mediocrity of the stock performance of the three biggest American oil companies.,negative,-0.5563202500343323
+2008-06-07,Big Oil Is Owed Some Love,neutral,0.0704420879483223
+2008-06-21,David J. O’Reilly is the chairman and chief executive of Chevron.,neutral,0.01844138093292713
+2008-06-21,Oil’s Perspective on What’s Behind the Energy Crisis,neutral,0.011298712342977524
+2008-07-06,Americans have seen the current oil crisis coming for 30 years.,neutral,-0.10151876509189606
+2008-07-06,"But analysts say chances to head it off were ignored, missed or blocked.",negative,-0.9246598482131958
+2008-07-06,"American Energy Policy, Asleep at the Spigot",neutral,-0.18582385778427124
+2008-07-11,The Chevron Corporation said that second-quarter oil output fell to the lowest level since 2005 as record energy prices reduced the company’s share of output in countries like Nigeria and Indonesia.,negative,-0.9677172899246216
+2008-07-11,Chevron Reports Oil Output Slips,neutral,0.01709561049938202
+2008-08-19,"Though eager to expand, the major Western oil companies are finding it harder than ever to find new prospects.",negative,-0.8889286518096924
+2008-08-19,"As Oil Giants Lose Influence, Supply Drops",negative,-0.84223872423172
+2008-09-15,A combined blow from Hurricanes Gustav and Ike has shut down almost all oil and natural gas production in the Gulf of Mexico and handicapped refinery operations in Texas and Louisiana.,negative,-0.947792112827301
+2008-09-15,Gas Prices Climb Quickly as Refineries Remain Closed,positive,0.11772191524505615
+2008-10-17,"As chairman of the Standard Oil Company of California in the 1980s, Mr. Keller executed what was then the largest corporate takeover ever, in a deal that formed Chevron.",neutral,0.11424465477466583
+2008-10-17,"George M. Keller, Whose Wager Created Chevron, Is Dead at 84",neutral,-0.2191721647977829
+2008-12-03,"Chevron may sell refineries as it continues to focus its downstream business on Asia-Pacific markets, a company vice president said on Tuesday during a presentation to Wall Street analysts.",neutral,0.001980103552341461
+2008-12-03,Chevron May Sell Refineries,neutral,-0.008801665157079697
+2009-04-07,"The Obama administration wants to spend $150 billion to diversify energy sources by encouraging more renewable sources, but oil giants are hanging back.",neutral,-0.1496458351612091
+2009-04-07,Oil Giants Loath to Follow Obama’s Green Lead,negative,-0.5330290794372559
+2009-05-02,"Chevron’s global production rose in the first quarter, but the recession took a heavy toll on overall results.",positive,0.9049150347709656
+2009-05-02,Lower Profit for Chevron,negative,-0.9434173703193665
+2009-05-11,"Chevron learned that “60 Minutes” was preparing a potentially damaging report about contamination of the rain forest in Ecuador, so it hired a former journalist to produce its own favorable report.",neutral,-0.18988189101219177
+2009-05-11,"When Chevron Hires Ex-Reporter to Investigate Pollution, Chevron Looks Good",neutral,-0.003538798540830612
+2009-05-15,"Chevron acquired Texaco, and with it the former oil fields that some say made them ill.",neutral,-0.4357949197292328
+2009-05-15,"In Ecuador, Resentment of an Oil Company Oozes",negative,-0.8811719417572021
+2009-09-01,"Chevron said it had video recordings of meetings in Ecuador that appear to reveal a bribery scheme tied to a $27 billion lawsuit the company faces over environmental damage at oil fields in the Amazon forest, The New York Times’s Simon Romero and Clifford Krauss reported.",negative,-0.6947686076164246
+2009-09-01,Chevron Offers Evidence of Bribery in Ecuador Suit,negative,-0.4451406002044678
+2009-09-30,"The oil company said that John S. Watson, currently vice chairman, will serve as chairman and chief executive, succeeding David J. O’Reilly.",neutral,0.04367435351014137
+2009-09-30,Chevron Names Successor as Its Chief Steps Down,neutral,-0.24424496293067932
+2010-02-17,"Stocks posted their biggest daily percentage gain in three months on Tuesday after strong revenue from Merck and positive regional manufacturing data instilled confidence in the economic outlook, Reuters reported.",positive,0.8806972503662109
+2010-02-17,Shares Gain as Merck Reports Strong Results,positive,0.6947116255760193
+2010-02-23,"Volatility returned to Wall Street on Monday, ending a four-day winning streak for stocks, as worries over the energy sector overshadowed hopes that banks would continue to bring in generous profits, The New York Times reported.",positive,0.48131054639816284
+2010-02-23,Wall Street Exchanges Turn Lower in Closing Minutes,negative,-0.914445161819458
+2010-02-23,"BrightSource Energy, backed by Google and other companies, has won a a $1.37 billion loan guarantee from the United States Department of Energy to build a large-scale solar power plant in the California desert, The New York Times reported.",positive,0.9208016991615295
+2010-02-23,U.S. Offers Solar Project a Crucial Loan Guarantee,positive,0.6974570155143738
+2010-03-15,"Cnooc, China’s top offshore oil explorer, said on Sunday that it had secured a South American beachhead by agreeing to pay $3.1 billion in cash for a stake in one of the largest Argentine oil explorers, with fields in Argentina, Bolivia and Chile.",positive,0.889585554599762
+2010-03-15,Deal for Oil Fields Extends China’s Quest for Energy,positive,0.7387544512748718
+2010-03-22,The oil giant is evaluating technologies from seven companies.,neutral,0.12693025171756744
+2010-03-22,It is evaluating them for use at its facilities worldwide.,neutral,0.12934063374996185
+2010-03-22,Chevron Testing Solar Technologies,neutral,0.030063211917877197
+2010-03-25,Shares on Wall Street pulled back from their recent winning streak on Wednesday amid concerns about debt problems in Portugal and disappointing home sales in the United States.,negative,-0.9417832493782043
+2010-03-25,Shares Fall on Worries About Sales and Europe Debt,negative,-0.8605250120162964
+2010-03-30,"A brighter outlook for the American consumer and signs that foreign debt troubles were easing helped propel Wall Street higher on Monday, The New York Times reported.",positive,0.8928611278533936
+2010-03-30,Optimism About Recovery Lifts Shares,positive,0.3617452383041382
+2010-04-08,"Wall Street investors were rattled on Wednesday by the prospect of higher interest rates and new signs that consumers were reluctant to spend again, The New York Times writes.",negative,-0.8972502946853638
+2010-04-08,A Call for Fed to Raise Rates Unsettles Investors,negative,-0.39895695447921753
+2010-04-14,"Wall Street traders took in the first batch of quarterly earnings reports on Tuesday, but nobody seemed quite sure what to make of the numbers, The New York Times reports.",neutral,0.041632577776908875
+2010-04-14,A Modest Gain as Investors Digest Earnings Reports,positive,0.4570596516132355
+2010-04-21,"Renewed confidence about an economic recovery helped a rally on Wall Street on Tuesday, with energy and banking stocks leading the way, The New York Times reported.",positive,0.7861615419387817
+2010-04-21,Energy and Banking Shares Lift Wall Street,positive,0.7650848031044006
+2010-04-26,"Stocks pushed higher on Friday as the Dow Jones industrial average rose for a fifth consecutive day, and analysts saw little economic news on the horizon that would upset market sentiment next week.",positive,0.36494091153144836
+2010-04-26,"Dow Ends Week Up, Extending Streak to 5 Days",positive,0.2901080846786499
+2010-06-15,"In their remarks to a House panel, the executives of oil drillers tried to cast the BP spill as a rare event that their companies were not likely to repeat.",negative,-0.7484921216964722
+2010-06-15,Oil Executives Break Ranks in Testimony,negative,-0.5111576318740845
+2010-06-16,"Representative John A. Boehner, the Republican leader, bought stock in BP last year, while other lawmakers sold off BP stock before the oil spill caused the environmental disaster in the Gulf of Mexico.",neutral,0.020333074033260345
+2010-06-16,The Shadow of BP’s Stock on Capitol Hill,neutral,-0.2882865071296692
+2010-06-17,"President Obama would be wise to think about the perils of lax regulation, be it in Big Finance or Big Oil, an economist writes.",neutral,-0.1442953646183014
+2010-06-17,Why Living Wills Fail,neutral,-0.025973469018936157
+2010-07-21,Four large oil  companies are committing $1 billion to set up a system to deal with oil spills in the Gulf of Mexico.,neutral,0.4238506555557251
+2010-07-21,4 Oil Firms Commit $1 Billion for Gulf Rapid-Response Plan,neutral,0.4163433611392975
+2010-07-22,The Tengiz field has been operating at half its capacity because Russia hasn’t cooperated with pipeline expansion agreements.,negative,-0.9136695861816406
+2010-07-22,"In Asia, a Gulf’s Worth of Oil Awaits Transport",neutral,0.2845628261566162
+2010-07-26,"Wall Street enters this week on the cusp of a breakout in United States stocks, but it will need another spate of convincing earnings reports to feed the rally that sprouted at the end of last week.",positive,0.7816156148910522
+2010-07-26,"Market: Bull, Bear or Turkey?",neutral,-0.04903800040483475
+2010-07-30,"While disgruntled investors have wiped more than $40 billion off the value of Exxon Mobil since its splurge on the gas giant XTO Energy, it would be wrongheaded to assume that XTO has zero value, Reuters Breakingviews says.",negative,-0.9381746053695679
+2010-07-30,Have Investors Unfairly Punished Exxon?,negative,-0.8590124845504761
+2010-08-10,San Francisco-based biofuel company Solazyme announced Tuesday that it has landed $52 million in a fourth round of venture capital to commercialize its algae-based fuel.,positive,0.7947232127189636
+2010-08-10,"Morgan Stanley joined its flock of backers, which also includes Chevron Technology Ventures.",neutral,0.12203744053840637
+2010-08-10,Solazyme Bottles $52 Million for Algae-Based Fuel,neutral,0.053302451968193054
+2010-08-23,"National Pension Service, South Korea’s state-run fund, is seeking to acquire a 23 percent stake in American pipeline operator Colonial Pipeline from Chevron, the fund said Monday.",neutral,0.18349742889404297
+2010-08-23,Korea’s National Pension Bidding for Colonial Pipeline,neutral,0.08718018233776093
+2010-10-12,"Kohlberg, Kravis Roberts & Company announced late Monday that it had partnered with South Korea’s state pension fund to acquire Chevron’s 23.4 percent stake in the Colonial Pipeline Company.",positive,0.7605977058410645
+2010-10-12,"KKR and the National Pension Service of Korea are paying about $1 billion for the stake, people familiar with the investment told DealBook.",neutral,0.04716182127594948
+2010-10-12,KKR Strikes Pipeline Deal,neutral,-0.16984334588050842
+2010-10-18,An ad campaign by Chevron seeking to address critics of energy companies is spoofed by pranksters.,negative,-0.7404069900512695
+2010-10-18,Pranksters Lampoon Chevron Ad Campaign,negative,-0.521291196346283
+2010-11-09,"Chevron has agreed to acquire Atlas Energy for $4.3 billion, the most recent deal by an energy company to expand in the natural gas sector.",positive,0.7872731685638428
+2010-11-09,Chevron to Buy Atlas Energy for $4.3 Billion,neutral,0.02758009359240532
+2010-11-10,Natural gas exploration has attracted several energy companies recently.,neutral,0.21119272708892822
+2010-11-10,Chevron to Buy Atlas Energy in a Competition for Natural Gas,neutral,0.10787388682365417
+2010-11-10,"Chevron on Tuesday became the latest energy company to set its sights on unconventional natural gas exploration, announcing that it had reached an agreement to acquire Atlas Energy for $3.2 billion.",positive,0.7505170702934265
+2010-11-10,Chevron to Buy Atlas in Race for Natural Gas,neutral,0.14098356664180756
+2010-11-12,"Dave Maney, a co-founder of Headwaters Merchant Bank, a midmarket investment bank, discusses how midsize companies are struggling to find cheap debt in order to make acquisitions.",neutral,-0.40704476833343506
+2010-11-12,Straining to Make Midmarket Deals,neutral,-0.322879433631897
+2010-11-16,Recent discoveries of oil and natural gas fields and new mining technology have combined to help increase the world’s supply of energy for decades to come.,positive,0.894476592540741
+2010-11-16,There Will Be Fuel,neutral,0.08226925134658813
+2010-11-23,"With the help of Ralph Eads III, nine of the 10 biggest shale transactions in the last three years have included Jefferies & Company as an adviser.",neutral,0.04023321345448494
+2010-11-23,Small Player on Wall Street Carves Out a Niche,neutral,0.09562244266271591
+2011-01-29,The Chevron Corporation reported fourth-quarter sales and refining profits that failed to meet analysts’ estimates on Friday.,negative,-0.9606221318244934
+2011-01-29,Chevron Reports Disappointing Sales,negative,-0.9446035027503967
+2011-03-11,"Valero is acquiring Chevron’s refinery in Pembroke, Wales, for $730 million and other related assets for about $1 billion.",neutral,0.04744170606136322
+2011-03-11,Valero to Buy Chevron British Refinery and Assets,neutral,0.006867310963571072
+2011-03-12,"Valero Energy agreed on Friday to buy Chevron’s refinery in Pembroke, Wales, for $730 million and other related assets for about $1 billion.",neutral,0.349828839302063
+2011-03-12,Valero Agrees to Buy an Oil Refinery in Wales,neutral,0.4070848226547241
+2011-03-23,ConocoPhillips plans to sell $5 billion to $10 billion of noncore assets over the next two years and use the proceeds to buy back shares and invest in its business.,neutral,0.04138808697462082
+2011-03-23,ConocoPhillips to Sell Up to $10 Billion of Assets,neutral,0.024069087579846382
+2011-04-25,"Despite benefiting from high oil prices in the first quarter, oil executives may not applaud further increases.",positive,0.45652294158935547
+2011-04-25,Effect of Oil Price on Earnings Fades,neutral,-0.30485278367996216
+2011-04-30,First-quarter profit was up 36 percent as economic growth and supply disruptions drove crude prices above $100 a barrel.,positive,0.877377986907959
+2011-04-30,Chevron Profit Rises as Unrest Lifts Oil Prices,negative,-0.16989433765411377
+2011-05-12,Executives of five of the largest oil companies said the $2.1 billion they received annually in tax breaks were legitimate tax deductions.,neutral,0.03650848567485809
+2011-05-12,"Oil Executives, Defending Tax Breaks, Say They’d Cede Them if Everyone Did",negative,-0.5005858540534973
+2011-05-12,"As some schools become more desperate for money, some donors are attaching more strings to their gifts.",neutral,-0.1133883148431778
+2011-05-12,Buying Influence at Universities,neutral,-0.025286555290222168
+2011-06-03,The cause of the blast at the Pembroke refinery in Wales was being investigated.,negative,-0.47624003887176514
+2011-06-03,Four Killed in Explosion at Chevron Refinery in Britain,negative,-0.8384706974029541
+2011-11-19,"Chevron says a spill in the Campo Basin off the southeast coast has almost dissipated, but investigators are threatening fines and prison terms if they find violations.",negative,-0.9295398592948914
+2011-11-19,Brazil Officials Criticize Chevron Over Oil Spill,negative,-0.8488289713859558
+2011-11-22,"Chevron faces fines of as much as $83 million for an oil spill this month off the coast of Rio de Janeiro, the authorities said Monday.",negative,-0.9388313293457031
+2011-11-22,Brazil: Chevron Faces Fines of $83 Million in Oil Spill,negative,-0.946073055267334
+2012-01-28,"Chevron’s fourth-quarter profit declined to $5.1 billion, or $2.58 a share, from $5.3 billion, or $2.64, a year earlier.",negative,-0.9702498316764832
+2012-01-28,"Profit Slips for Chevron, Disappointing Analysts",negative,-0.9634880423545837
+2012-03-18,"Seventeen employees of the American oil giant Chevron and the rig operator Transocean could face charges connected to an offshore oil spill, adding to Chevron’s woes in Brazil.",negative,-0.934913158416748
+2012-03-18,Brazil Bars Oil Workers From Leaving After Spill,negative,-0.8483092784881592
+2012-04-28,Chevron missed first-quarter profit and sales estimates as falling production blunted the impact of surging oil prices,negative,-0.9552991390228271
+2012-04-28,Chevron Misses Forecasts Despite Higher Oil Prices,positive,0.12510564923286438
+2012-07-19,"The move, the second by an American oil major, underlines that the autonomous region, which is often at odds with Baghdad, is becoming an increasingly attractive investment.",positive,0.8417515754699707
+2012-07-19,Chevron Makes Oil Exploration Deal in Iraqi Kurdistan,neutral,0.0568879097700119
+2012-08-01,Chevron is fighting an $18.2 billion judgment and lawyers who claim the company has polluted the Amazon rain forest.,negative,-0.9201292991638184
+2012-08-01,Judge in Chevron Case Declines to Reject Award,neutral,-0.2661025822162628
+2012-09-12,The Chesapeake Energy Corporation said on Wednesday that it had agreed to a series of asset sales as part of an effort to reduce its considerable debt burden.,positive,0.7077745795249939
+2012-09-12,Chesapeake Energy to Sell Assets for $6.9 Billion,neutral,0.005478821694850922
+2012-11-14,"Large-scale commercial production would be a major renewable energy milestone, and plants in Florida and Mississippi say they are near that point.",neutral,0.37736478447914124
+2012-11-14,"Fuel From Waste, Poised at a Milestone",neutral,0.05479604750871658
+2012-11-14,"The Kurds are intent on maintaining their autonomy in developing their own oil resources, while federal government insists that only it has authority to grant access to Iraq’s natural resources.",neutral,0.06813570111989975
+2012-11-14,Iraqi Government and Kurdistan at Odds Over Oil Production,negative,-0.8136376738548279
+2012-12-08,Chevron subpoenaed a hedge fund’s shareholder proposals as it tries to find ammunition in its fight against an $18 billion judgment in Ecuador.,negative,-0.9102259278297424
+2012-12-08,Chevron Aims at an Activist Shareholder,neutral,0.057801503688097
+2013-04-12,Stratus Consulting said it was misled by a lawyer for Ecuadorean villagers who have been battling Chevron for decades over environmental damage.,negative,-0.9379896521568298
+2013-04-12,Consultant Recants in Chevron Pollution Case in Ecuador,negative,-0.6008836030960083
+2013-07-07,"Government reports include German and Chinese trade data, and Alcoa, Chevron, JPMorgan Chase and Wells Fargo are among the companies posting earnings.",neutral,0.14482957124710083
+2013-07-07,Economic Reports for the Week of July 8,neutral,-0.09521694481372833
+2013-07-17,"The case drew an unusual amount of attention in Indonesia, which relies on foreign investment to harness its resources, partly because government agencies clashed over the validity of the case.",negative,-0.8701803684234619
+2013-07-17,Conviction of Chevron Worker Spurs Oil Industry Concerns in Indonesia,negative,-0.8111333847045898
+2013-07-23,The margins of the Atlantic Ocean west of the Shetland Islands off Scotland are becoming one of Europe’s key fossil-fuel frontier areas.,neutral,0.21635355055332184
+2013-07-23,Chevron to Spend $844 Million on Remote Projects,neutral,0.06697870790958405
+2013-07-29,"Since the early 1970s, Aberdeen, Scotland, has evolved from a gritty fishing town into the world’s center of innovation in technology for the offshore energy industry.",positive,0.7706343531608582
+2013-07-29,"Aberdeen, With a Foot on the Seafloor",neutral,-0.11015953123569489
+2013-07-30,"The oil company has filed a suit against Steven Donziger, who won an $18 billion case over oil spills in the Ecuadorean jungle, accusing him of manipulating evidence and bribing judges.",negative,-0.880402147769928
+2013-07-30,Lawyer Who Beat Chevron in Ecuador Faces Trial of His Own,negative,-0.7147293090820312
+2013-08-14,"Rudi Rubiandini, a former deputy energy minister, was detained for questioning following a raid at his home.",negative,-0.8421157598495483
+2013-08-14,Oil Regulator in Indonesia Arrested in Bribery Investigation,negative,-0.7900574207305908
+2013-10-21,"The great potential of an oil field called Vaca Muerta, or Dead Cow, has united an American oil giant and a politically volatile country.",neutral,0.2961297035217285
+2013-10-21,An Odd Alliance in Patagonia,negative,-0.491323858499527
+2013-11-05,The government hopes the project will reduce its dependence on Russian energy imports.,positive,0.8391430974006653
+2013-11-05,Chevron and Ukraine Set Shale Gas Deal,neutral,0.048445455729961395
+2013-11-14,"In testimony prepared for delivery in court next week, Steven Donziger is as defiant as ever, even as he acknowledges mistakes.",negative,-0.7444693446159363
+2013-11-14,Lawyer Concedes Mistakes in Chevron Case,negative,-0.8398120999336243
+2013-11-20,A lawyer for the oil company questioned Steven R. Donziger in court about emails Chevron said supported its assertions of bribery and witness tampering in an Ecuadorean environmental case.,negative,-0.9162313342094421
+2013-11-20,Chevron Assails Lawyer Who Led Multibillion-Dollar Suit Against It,negative,-0.8903876543045044
+2013-11-22,"The American oil giant said it was reconsidering whether to proceed with developing a big deepwater field off the coast of Scotland, citing high costs.",neutral,-0.2662302255630493
+2013-11-22,Chevron Has Second Thoughts on British Project,neutral,-0.07480061799287796
+2013-12-05,"More than two dozen major American corporations are preparing to pay climate-related taxes, departing from conservative orthodoxy and exposing divisions between the Republican Party and its business supporters.",negative,-0.8954348564147949
+2013-12-05,Large Companies Prepared to Pay Price on Carbon,neutral,-0.1607550084590912
+2014-01-15,The Italian energy giant has found that its drilling efforts have not produced enough natural gas to be commercially viable.,negative,-0.9577053189277649
+2014-01-15,Eni Is Said to Abandon Polish Shale Aspirations,neutral,-0.09257250279188156
+2014-02-27,The possible combination comes as Patton Boggs is trying to navigate changes in the legal industry since the 2008 financial crisis.,neutral,0.12367773056030273
+2014-02-27,Patton Boggs in Early Merger Talks With Squire Sanders,neutral,-0.027403317391872406
+2014-03-04,The oil company had sued a Manhattan lawyer leading the pollution case and his associates on fraud and conspiracy allegations.,negative,-0.8526574373245239
+2014-03-04,Big Victory for Chevron Over Claims in Ecuador,positive,0.7729541659355164
+2014-05-07,The powerful Washington law firm had been a leader in an effort to force the oil company to pay a $9.5 billion judgment by a court in Ecuador.,negative,-0.5942065715789795
+2014-05-07,Patton Boggs Settles Dispute With Chevron Over Pollution Case,negative,-0.8119873404502869
+2014-05-22,Work on behalf of Ecuadorian clients in a case against Chevron continues to haunt the law and lobbying force in Washington.,neutral,-0.059301454573869705
+2014-05-22,Potential Partner for Patton Boggs Suspends Merger Vote,negative,-0.6964970827102661
+2014-05-23,"Patton Boggs, a Washington lobbying and legal powerhouse for decades, is merging with the larger firm in a move that saves it from drift or dissolution.",neutral,0.11239994317293167
+2014-05-23,Powerful Law Firms Patton Boggs and Squire Sanders Will Join Forces,neutral,0.04059666395187378
+2014-08-11,The pipeline group Kinder Morgan plans to reorganize as a single corporation.,neutral,0.03824494034051895
+2014-08-11,| The drop in Treasury yields has confounded experts.,negative,-0.9157916307449341
+2014-08-11,| An investor group is considering legal action after being burned by losses on Portuguese bank bonds.,negative,-0.9335829019546509
+2014-08-11,| A Stanford finance professor is rapidly gaining a broader audience.,positive,0.49798983335494995
+2014-08-11,Morning Agenda: Kinder Morgan to Consolidate,neutral,0.033271439373493195
+2014-10-24,The company’s legal team has accused the Indonesian attorney general’s office of malicious prosecution.,negative,-0.9086614847183228
+2014-10-24,Chevron Criticizes Ruling by Indonesia’s Supreme Court on Corruption,negative,-0.8425741791725159
+2014-10-24,Wealthy people and those less so have more in common than most pundits would suspect.,neutral,0.07136376202106476
+2014-10-24,"In Some Ways, the Rich Aren’t So Different From You and Me",neutral,-0.05399589613080025
+2014-10-31,The two largest American oil companies said their refining businesses more than made up for the recent drop in the price of crude oil.,positive,0.23541100323200226
+2014-10-31,"At Exxon Mobil and Chevron, Refining Businesses Support Earnings",neutral,0.010166509076952934
+2015-01-09,"Oil’s price plunge hurt energy funds, but investors may still be able to make good bets by focusing on specific pieces of the industry.",negative,-0.8157909512519836
+2015-01-09,"Trying to Capitalize on Lower Oil Prices, Through E.T.F.s",positive,0.5383474826812744
+2015-01-29,The joint effort is a reflection of the pressure on oil companies to hold down spending and share risk as oil prices continue to drop.,negative,-0.4561196565628052
+2015-01-29,Chevron and BP in Deal to Search for Oil Deep Beneath the Gulf of Mexico,negative,-0.4570206105709076
+2015-01-30,The decision was perhaps the biggest setback yet to fledgling efforts to start a European shale oil and gas industry.,negative,-0.4428095817565918
+2015-01-30,Chevron to Abandon Shale Natural Gas Venture in Poland,neutral,-0.2374366819858551
+2015-01-31,"Energy experts said the sudden increase could be explained by various factors, including reports that the Islamic State terrorist group was advancing in an offensive near Iraq’s northern oil fields.",negative,-0.6703097224235535
+2015-01-31,Oil Prices Surge 8% After Long Slide Down,positive,0.2776618003845215
+2015-06-02,Oil producers in Britain are contending with plummeting prices as they seek new ways to bolster the aging infrastructure of the North Sea industry.,negative,-0.8755329251289368
+2015-06-02,Chevron and North Sea Rivals Race to Keep an Oil Region Relevant,neutral,0.2551421821117401
+2015-06-02,"The dropping revenue has inspired changes of tactics by British leaders as well as Scottish nationalists, who had counted on oil as an economic mainstay.",negative,-0.6948475241661072
+2015-06-02,Decline of North Sea Oil Fields Forces Political Shifts in Britain,negative,-0.5974831581115723
+2015-07-03,"Remoteness and environmental concerns piled costs on the Gorgon liquefied natural gas project, just as energy prices slumped.",negative,-0.9456048011779785
+2015-07-03,Logistics and Lizards Disrupt Chevron’s Project Off Australia,negative,-0.9144415855407715
+2015-07-16,"The major oil companies did not bid, and only two blocks were successfully auctioned.",neutral,0.01655389741063118
+2015-07-16,Mexico Auctions Oil Blocks in Attempt to Increase Production,neutral,0.2700434625148773
+2015-07-31,Declining oil and natural gas prices contributed to the companies’ disappointing second-quarter results.,negative,-0.9513537883758545
+2015-07-31,Exxon and Chevron Report Worst Quarterly Results of Current Decade,negative,-0.9420583248138428
+2015-08-14,"The technology that unlocked the oil in shale fields produced a boom to Karnes County, Tex., but the economy there is cooling fast.",neutral,0.15070569515228271
+2015-08-14,Low Oil Prices Pose Threat to Texas Fracking Bonanza,negative,-0.7612379193305969
+2015-09-04,The ruling is the latest step in a 13-year legal battle over the contamination of a rain forest in Ecuador.,negative,-0.5538572072982788
+2015-09-04,Court Says Chevron Can Be Pursued in Canada Over Ecuadorean Damage,neutral,0.08082904666662216
+2015-10-26,"This week, data on durable goods orders, consumer confidence and economic growth will be released.",neutral,0.0619041882455349
+2015-10-26,"In addition, several companies including Apple and Exxon Mobil will report earnings.",positive,0.5851646661758423
+2015-10-26,"Apple Earnings, United States Economic Data and Oil Results",neutral,-0.023495424538850784
+2015-10-30,Exxon Mobil reports a 37 percent drop in revenue and Chevron says it plans to cut up to 10 percent of its workforce.,negative,-0.9628379344940186
+2015-10-30,Chevron and Exxon Post Declining 3rd-Quarter Results,negative,-0.9689366817474365
+2015-11-06,The start of an inquiry by the New York attorney general’s office into Exxon Mobil’s record on climate change could lead to additional legal actions involving other major energy companies.,negative,-0.5325368046760559
+2015-11-06,More Oil Companies Could Join Exxon Mobil as Focus of Climate Investigations,neutral,0.01926676742732525
+2015-12-12,"Oil prices, down almost two-thirds over the past 16 months, declined again on Friday on reports that it may have even further to fall next year.",negative,-0.9595774412155151
+2015-12-12,Wall Street Slips on Oil’s Big Drop,negative,-0.8512235283851624
+2016-02-02,"BP wrote down the value of its oil and gas assets by $1.6 billion in the fourth quarter of 2015, and said it would continue cutting jobs.",negative,-0.9594117403030396
+2016-02-02,Exxon Mobil’s Profits Fall and BP Cites Low Oil Prices in $3.3 Billion Loss,negative,-0.9546162486076355
+2016-04-29,"Exxon Mobil on Friday posted its smallest profit for any quarter since 1999, while Chevron reported a large first-quarter loss of $725 million.",negative,-0.9486910700798035
+2016-04-29,Low Oil Prices Pinch Exxon and Chevron Earnings,negative,-0.9270113110542297
+2016-04-29,"Recovery in the oil industry will be slow and patchy, but the worst is probably past.",negative,-0.7303206920623779
+2016-04-29,Exxon Mobil May Have Hit Its Low Point,negative,-0.7457605600357056
+2016-05-23,"Also, activist shareholders at Exxon Mobil and Chevron are expected to make climate change an issue at annual meetings, while workers plan to protest at the McDonald’s shareholder meeting.",negative,-0.8429257273674011
+2016-05-23,"Russia Seeks Changes for Growth, and Greek Debt Talks Linger",neutral,0.06428118050098419
+2016-07-05,"Though the move looks to be unusual at a time of low oil prices, analysts say the field has been lucrative and important for Chevron and its partners.",positive,0.8309652805328369
+2016-07-05,Chevron Approves $37 Billion Expansion of Kazakh Oil Field,positive,0.8583688735961914
+2016-10-19,"The biggest oil producers are proving surprisingly adept at pumping profits, and oil, out of the ground.",positive,0.818572998046875
+2016-10-19,"After Lean Years, Big Oil May Emerge Stronger Than Ever",positive,0.8520427346229553
+2016-10-28,The company may have to concede that 3.6 billion barrels of oil-sand reserves and a billion barrels of other reserves are currently not profitable to produce.,negative,-0.929637610912323
+2016-10-28,Exxon Concedes It May Need to Declare Lower Value for Oil in Ground,negative,-0.851299524307251
+2016-12-06,"Looking beyond current low oil prices, the companies paid billions in an auction of deepwater drilling rights in the Gulf of Mexico.",positive,0.5935876369476318
+2016-12-06,Oil and Gas Industry Leaders Eagerly Take Stakes in Mexican Offshore Fields,neutral,0.17942018806934357

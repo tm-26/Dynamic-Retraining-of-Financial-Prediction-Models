@@ -1,0 +1,335 @@
+Date,Sentence,Prediction,sentimentScore
+2007-01-23,"Royal Dutch Shell, Europe’s biggest oil company, raised a bid to buy out its Canadian unit by 13 percent to 8.7 billion Canadian dollars ($7.4 billion) to gain increased production from oil sands.",positive,0.8908071517944336
+2007-01-23,"Shell, which owns 78 percent of Shell Canada, raised its bid to 45 Canadian dollars a share, from an offer of 40 Canadian dollars a share made in October.",positive,0.9161456227302551
+2007-01-23,Shell Ups Bid for Canadian Unit,neutral,-0.02537618577480316
+2007-01-26,Saskatchewan Wheat Pool added a cash component to its C$700 million ($591 million) hostile offer for Agricore United late Thursday in a move to persuade Agricore shareholders to back a proposed merger of Canada’s two biggest grain handlers.,positive,0.7489076852798462
+2007-01-26,"Under the new bid, Agricore shareholders may receive C$11.33 in cash or 1.3601 SaskPool shares or any combination of the two.",neutral,0.15684568881988525
+2007-01-26,Canadian Grain Company Ups Offer for Rival,neutral,0.09691108018159866
+2007-01-31,"United Parcel Service Inc. reported a 7.5 percent increase in fourth-quarter earnings, but said that profit growth would slow this year.",negative,-0.65692138671875
+2007-01-31,U.P.S.,neutral,0.05031090974807739
+2007-01-31,Profit Is Up; Slower Growth Seen,positive,0.3137315511703491
+2007-02-03,"The ups and downs in the stock market are among the mildest experienced for more than a century, and that is provoking anxiety in some investment advisers.",negative,-0.9313229322433472
+2007-02-03,It’s Calm.,neutral,0.15326841175556183
+2007-02-03,Look Out for a Storm.,neutral,0.03247015178203583
+2007-03-03,The last remaining customer for the cargo version of the Airbus A380 superjumbo jet said it was cancelling its order for 10 planes.,negative,-0.9555278420448303
+2007-03-03,U.P.S.,neutral,0.05031090974807739
+2007-03-03,Walks Away From A380 Order,neutral,-0.16278785467147827
+2007-04-15,"A table last Sunday with a report on executive pay referred incorrectly to equity holdings of Michael L. Eskew, chief executive of United Parcel Service.",neutral,-0.292526513338089
+2007-04-15,"Their total value, though listed at $535,010,884, included $514.5 million in shares he does not own; they are held in trusts he helps to control on behalf of the company.",neutral,-0.006265897303819656
+2007-04-15,He owned $17.7 million in shares outright.,neutral,0.02030489593744278
+2007-04-15,Correction: Has the Exit Sign Ever Looked So Good?,neutral,0.21431849896907806
+2007-04-28,"Any change in market conditions would vary the size of Intel’s profit, but for A.M.D.",neutral,0.04347545653581619
+2007-04-28,it can mean the difference between a big profit and a big loss.,neutral,-0.06919371336698532
+2007-04-28,"With A.M.D., Riding Waves of Volatility",neutral,0.04945305734872818
+2007-05-08,The maker of Jim Beam announced it would voluntarily adopt stricter ad rules to help curb under-age drinking.,positive,0.5825245976448059
+2007-05-08,Liquor Maker Ups the Ante a Bit in Discouraging Young Drinkers,positive,0.3539842665195465
+2007-06-20, There are two new managing directors in Credit Suisse‘s investment banking group.,neutral,-0.004277391359210014
+2007-06-20,"The firm said in an internal memo that Tom Delbrook, previously the vice president of finance at the shipping giant UPS, would join the firm’s general industrial and services group, covering the transportation, shipping and logistics industries out of New York.",neutral,0.049262549728155136
+2007-06-20,Credit Suisse Adds to Investment Banking Team,neutral,0.09178382903337479
+2007-07-12,The United Parcel Service has embraced the latest methods to improve deliveries and air safety.,positive,0.7371913194656372
+2007-07-12,U.P.S.,neutral,0.05031090974807739
+2007-07-12,Embraces High-Tech Delivery Methods,neutral,0.10316476970911026
+2007-08-10,"After a sell-off early in the session, stocks recovered most of their losses.",negative,-0.39300253987312317
+2007-08-10,The ups and downs pointed to continued concerns over the credit squeeze.,negative,-0.07688024640083313
+2007-08-10,Stocks Are Volatile After Global Sell-Off,negative,-0.9161251783370972
+2007-08-15,"With an alliance with Sun Microsystems , Google ups the ante in its efforts to offer a competitor to Microsoft Office.",positive,0.8722904324531555
+2007-08-15,Google Goes After Microsoft Again,neutral,-0.24587441980838776
+2007-08-15,Mitt Romney has based much of his presidential run — both its image and its financing — on his experience with and investments in private equity and other alternative assets.,neutral,0.03858958184719086
+2007-08-15,"It now seems that the former Massachusetts governor has gained even more from those investments — and lost, too.",positive,0.6392955780029297
+2007-08-15,The Ups and Downs of Romney’s Portfolio,neutral,0.012825921177864075
+2007-08-30,A unique solution to air traffic control headaches comes from an airline  that carries no complaining passengers: U.P.S.,neutral,0.110920250415802
+2007-08-30,Managing Air Traffic Control,neutral,0.015908243134617805
+2007-10-07,Investors may feel as if they made a lucky escape after the ups and downs of the third quarter.,positive,0.2739919424057007
+2007-10-07,But they may come to think their portfolios should have done better.,positive,0.7259784936904907
+2007-10-07,"A White-Knuckle Ride, but Is It Over?",neutral,-0.07936672866344452
+2007-10-07,A few long-short funds tacked on solid gains in the last quarter.,positive,0.8831049203872681
+2007-10-07,Those Who Play the Ups and Downs,neutral,-0.05265627056360245
+2007-10-22,"In his latest column, Andrew Ross Sorkin examines the human face behind the ups and downs of Wall Street that are so often covered by DealBook.",neutral,-0.0485425740480423
+2007-10-22,"These bankers are not, he says, just in it for the deal.",neutral,-0.050694309175014496
+2007-10-22,Real Losses Have Nothing to Do With Money,neutral,-0.2382829189300537
+2007-12-04,Mr. Wachtel was a stock market analyst whose humor and trademark Brooklyn accent kept radio listeners attuned to the ups and downs of the markets for more than three decades.,neutral,0.07453880459070206
+2007-12-04,"Larry Wachtel, Market Analyst, Is Dead at 77",neutral,-0.42430511116981506
+2007-12-14,"Now that Amazon’s market value is nearly the same as eBay’s, it could buy the online auction site.",neutral,0.21456341445446014
+2007-12-14,That could help improve Amazon’s finances and eBay’s customer satisfaction.,positive,0.9254305958747864
+2007-12-14,Why Amazon Should Buy eBay,neutral,0.04391699284315109
+2007-12-24,"Takeover target the Montreal Exchange will become the majority owner of the Boston Options Exchange, in a $52.5 million cash deal announced Friday.",neutral,0.13090766966342926
+2007-12-24,Montreal Exchange Ups Stake in Boston Options Exchange,neutral,0.03746562451124191
+2008-02-24,Hints of stagflation and continuing worries about slumping growth weighed on investors as the major stock indexes ended an erratic week of ups and downs.,negative,-0.7183786034584045
+2008-02-24,A Rocky Week Ends With Gains,negative,-0.5528321862220764
+2008-02-25,"Translation of Electronic Arts offer for Take TwoInteractive: let’s test the market and find out whether Take Two investors, many of them doubtless frustrated by the ups and downs of Take Two’s struggles the last few years, might be tempted to take one in the hand.",neutral,0.013111159205436707
+2008-02-25,Let the Games Begin – The Market Will Speak on Proposed Game Merger,neutral,0.03723057359457016
+2008-04-04,John C. Malone’s Liberty Media is poised on the brink of a majority stake in DirecTV after boosting its recently acquired interest in the satellite TV giant from 41 percent to 48 percent.,positive,0.8930023908615112
+2008-04-04,Malone’s Liberty Ups DirecTV Stake,neutral,0.0271929744631052
+2008-04-15,A consumer spending slump and tightening credit markets are prompting thousands of store closings.,negative,-0.9447635412216187
+2008-04-15,Retailing Chains Caught in a Wave of Bankruptcies,negative,-0.7775856256484985
+2008-05-09,"The Advertising column on Wednesday, about the effect of a racehorse’s death at this year’s Kentucky Derby on Yum Brands, one of the race’s sponsors, misidentified the location of the corporate headquarters of United Parcel Service, a sponsor of the winning horse, Big Brown.",negative,-0.8185973763465881
+2008-05-09,"It is Atlanta — not Louisville, Ky., site of U.P.S.’s air hub.",neutral,-0.058938853442668915
+2008-05-09,CORRECTIONS: FOR THE RECORD,neutral,-0.10978783667087555
+2008-05-09,A G.M.A.C.,neutral,0.015880132094025612
+2008-05-09,"subsidiary that was a leader in creative mortgages can’t pay its own debts, so it is demanding a privilege that it won’t grant its borrowers.",negative,-0.5746970176696777
+2008-05-09,"A Little Pity, Please, for Lenders",neutral,-0.24959585070610046
+2008-05-29,U.P.S.,neutral,0.05031090974807739
+2008-05-29,said that it was working toward an agreement with DHL’s Express unit in America to carry air freight for some DHL units within the United States.,positive,0.8826305270195007
+2008-05-29,DHL Talks With U.P.S.,neutral,0.2418503612279892
+2008-05-29,About Carrying U.S.,neutral,-0.27846795320510864
+2008-05-29,Cargo,neutral,0.03054138273000717
+2008-06-21,What confounds many experts is that the price of oil seems to be changing much faster than the world is changing.,negative,-0.5385746359825134
+2008-06-21,Why Is Oil So High?,neutral,-0.1803421527147293
+2008-06-21,Pick a View,neutral,0.022067226469516754
+2008-08-11,"United Parcel Service is in talks to buy a Dutch rival, TNT, for 10 billion euros, or $15 billion, The Telegraph reported.",neutral,0.07444992661476135
+2008-08-11,U.P.S.,neutral,0.05031090974807739
+2008-08-11,"in Talks to Buy TNT for $15 Billion, Report Says",neutral,0.24375183880329132
+2008-08-11,"Shares of TNT, Europe’s second-largest mail and logistics company, erased their gains from early in the trading session after Dan Brutto, president of UPS’ international business, seemed to dismiss reports from over the weekend that his company was in early talks to buy TNT for $15 billion.",negative,-0.9511781334877014
+2008-08-11,UPS Sets Deal Sights on China,neutral,0.11824348568916321
+2008-08-16,"The chief executive of DHL Express talks abut hiring a rival, United Parcel Service, to handle its air cargo operations in the United States.",neutral,0.18046145141124725
+2008-08-16,"For Deliveries, Speed Not Quite of the Essence",neutral,-0.0764693096280098
+2008-08-20,I.B.M.,neutral,0.042657434940338135
+2008-08-20,"is spending $300 million to build 13 data centers around the world, dedicated to helping corporate customers keep their businesses up and running despite power outages, natural disasters or political turmoil.",neutral,0.4135851263999939
+2008-08-20,I.B.M.,neutral,0.042657434940338135
+2008-08-20,Ups Its Bet on Business Recovery Services,neutral,0.3504616618156433
+2008-09-03,Sony is announcing a new L.C.D.,neutral,0.03461876139044762
+2008-09-03,television that is ultra-thin and does a much better job of handling fast-moving images.,neutral,0.14761421084403992
+2008-09-03,Sony Ups the Ante on L.C.D.,positive,0.8276970982551575
+2008-09-03,TVs,neutral,0.04986884072422981
+2008-09-08,"Sanjaya Malakar, who may be the most talked-about contestant on “American Idol,” is singing the praises of being prepared financially.",neutral,0.40091225504875183
+2008-09-08,From ‘Ponyhawk’ to Hawking Insurance,neutral,0.050783973187208176
+2008-09-11,"Nationwide Insurance hopes to tap into the fame, or notoriety, of people like Sanjaya Malakar, who may be the most talked-about contestant on “American Idol.”",positive,0.5652294754981995
+2008-09-11,When the Celebrity Is the Joke (and Is In on It),neutral,-0.06237802281975746
+2008-10-07,"Bill Gates’s investment firm, Cascade Investment, is on the move.",neutral,0.050104930996894836
+2008-10-07,"Bill Gates’s Cascade Ups Stake in Gamco, Strategic Hotels",neutral,0.044775061309337616
+2008-11-26,The contributors to The New York Times’s Gadgetwise blog have banded together to offer consumers this preholiday shopping briefing.,neutral,0.13347402215003967
+2008-11-26,A Shoppers’ Briefing on Tech Gadgets,neutral,0.028097771108150482
+2009-01-29,"The Deal celebrates its tenth year with a new section of its Web site, whose features include an interview with venture capitalist Fred Wilson on deal-making in the Internet bubble days.",neutral,0.39366957545280457
+2009-01-29,A Trip in The Deal’s Way-Back Machine,neutral,0.03868222236633301
+2009-02-16,"The resolve of Detroit’s white-collar workers has given way to grim resignation as General Motors, Ford Motor and Chrysler have announced more and more job cuts.",negative,-0.927685022354126
+2009-02-16,Dead End in Detroit for White-Collar Workers,negative,-0.7987408638000488
+2009-03-11,"UBS said earnings would remain at risk because of its exposure to illiquid and choppy markets, and it revised up its 2008 net loss, the biggest in Swiss corporate history, to include a large United States tax fine and extra write-downs, Reuters said.",negative,-0.17888861894607544
+2009-03-11,UBS Expects Earnings at Risk and Ups 2008 Net Loss,negative,-0.48740601539611816
+2009-04-13,The goal is to introduce the UPS Store to new customers as well as to nudge current customers into spending more on additional services.,positive,0.6237154006958008
+2009-04-13,"UPS Stores, Ads Assert, Aren’t Just for Shipping Anymore",neutral,-0.015715304762125015
+2009-04-30,Industry analysts are questioning not whether Motorola will again become dominant but whether the handset division will survive.,neutral,0.11370667070150375
+2009-04-30,Motorola Scrambles to Restore Its Lost Cellphone Glory,negative,-0.35522931814193726
+2009-05-28,Solid demand at a Treasury auction eased fears that the appetite for U.S. debt would dry up and force the government to pay higher interest rates.,positive,0.4351920485496521
+2009-05-28,"This Time, Treasuries Push U.S. Markets Higher",positive,0.12751781940460205
+2009-05-29,The ups and downs of the credit markets steered Wall Street for another day on Thursday.,negative,-0.42257508635520935
+2009-05-29,"But this time, the direction for stocks was up.",positive,0.7389763593673706
+2009-05-29,"This Time, Treasuries Push U.S. Markets Higher",positive,0.12751781940460205
+2009-06-10,"FedEx is fighting a labor bill in Congress making it easier for workers to form unions by taking shots at its chief rival, U.P.S., which is unionized.",negative,-0.8844728469848633
+2009-06-10,Campaign Against Rival Could Haunt FedEx,negative,-0.7716979384422302
+2009-06-18,"Nascar has made a point of strengthening its business-to-business relationships, on the track and off.",positive,0.9184384942054749
+2009-06-18,Nascar Sponsors Find Customers in Other Sponsors,neutral,0.04892991483211517
+2009-07-06,"Raising the stakes in a contentious Silicon Valley bidding war, EMC said Monday it increased its bid for Data Domain to $33.50 per share in cash in hopes of snatching the company from NetApp.",positive,0.8839234709739685
+2009-07-06,EMC Ups the Ante for Data Domain,neutral,0.1223142072558403
+2009-07-23,The package delivery company predicted third-quarter profits below analysts’ projections.,negative,-0.9044123888015747
+2009-07-23,U.P.S.,neutral,0.05031090974807739
+2009-07-23,"Earnings Decline 49%, to $445 Million, as Downturn Saps Demand",negative,-0.967662513256073
+2009-08-07,The agency responsible for creating campaigns for United Parcel Service is deciding to wipe the whiteboard clean.,neutral,-0.27764666080474854
+2009-08-07,"The Martin Agency in Richmond, Va., which has been the creative agency for U.P.S.",neutral,0.04846177622675896
+2009-08-07,"in the United States since April 2001, is withdrawing from a review for the account.",neutral,-0.4342486262321472
+2009-08-07,Agency Sends (United) Parcel on Its Way,neutral,0.0011224187910556793
+2009-09-16,"Barclays decided Wednesday to sell $12.3 billion of illiquid assets to a fund set up by former Barclays executives, part of an effort by the British bank to reduce its vulnerability to the ups and downs of credit markets.",neutral,0.4195486009120941
+2009-09-16,Barclays to Sell $12.3 Billion in Illiquid Assets,neutral,0.001059098169207573
+2009-09-24,The company said its Direct to Door packages would be delivered to customers along with merchandise they actually ordered.,neutral,0.06481805443763733
+2009-09-24,Delivering Something Extra,neutral,0.10602296143770218
+2009-10-06,The interesting thing about entrepreneurship is that you can encounter stress either because you are busy and growing and making money — or because you are not.,neutral,-0.01134762167930603
+2009-10-06,Six Ways to Deal With Small-Business Stress,neutral,0.039866697043180466
+2009-10-23,"The delivery service said shipments in the United States fell 5.1 percent, the seventh straight decline, as businesses curbed purchases to lower costs.",negative,-0.9663440585136414
+2009-10-23,U.P.S.,neutral,0.05031090974807739
+2009-10-23,Profit Falls on Delivery Cuts,negative,-0.8828821182250977
+2009-11-21,"United Parcel Service will increase ground-shipment rates in 2010 by 4.9 percent, less than this year, as volume drops.",positive,0.620360255241394
+2009-11-21,U.P.S.,neutral,0.05031090974807739
+2009-11-21,Sets 4.9.,neutral,0.036411769688129425
+2009-11-21,Percent Rate Increase for Next Year,neutral,0.2953261733055115
+2009-11-30,Q & A With Stuart Elliott.,neutral,-0.0018088538199663162
+2009-11-30,Q & A With Stuart Elliott,neutral,0.022084038704633713
+2009-12-24,Quality handicrafts and specialized clothing have not freed Vietnam from its dependence on the U.S. market.,positive,0.24245792627334595
+2009-12-24,Vietnam Is Refining Its Role on the Global Stage,positive,0.6924065947532654
+2010-03-02,"A team of British financiers is working on a £1 billion bid for football club Manchester United, but the club’s owners are not interested in selling, according to British media reports.",neutral,-0.09433742612600327
+2010-03-02,Investors Said to Eye £1 Billion Bid for Manchester United,neutral,0.12675166130065918
+2010-03-15,"The deal means yet another owner for Tommy Hilfiger, once a leading purveyor of colorful preppy clothing that has weathered a series of ups and downs.",positive,0.6283594369888306
+2010-03-15,Phillips-Van Heusen Buys Hilfiger for $3 Billion,neutral,0.05917222052812576
+2010-04-26,United Parcel Service commercials still feature the original “whiteboard guy.” Or do they?,neutral,-0.09322820603847504
+2010-04-26,Q. and A.,neutral,0.0380171574652195
+2010-04-26,With Stuart Elliott,neutral,0.02111242711544037
+2010-06-21,"With issues of privacy one of the burning topics of the day, as companies such as Facebook and AT&T mired in the subject, venture capitalists have seen an investment opportunity and turned their money towards privacy related start ups, The Wall Street Journal reported.",neutral,0.13357530534267426
+2010-06-21,Privacy Start-Ups Said to Be Hot in V.C.,neutral,0.08522447198629379
+2010-07-14,Fairholme Capital Management gave shares of the bond insurer MBIA and the bailed-out insurer American International Group a boost on Tuesday after the investment firm run by Bruce Berkowitz disclosed new stakes in the companies.,positive,0.8956729769706726
+2010-07-14,Fairholme Ups Stake in MBIA and A.I.G.,neutral,0.04786721244454384
+2010-07-17,Jeremy J. Siegel of the Wharton School says that “it’s exactly times like this” that investors should be poised to reap stock-market gains.,neutral,0.36214688420295715
+2010-07-17,Head for the Hills?,neutral,-0.11706991493701935
+2010-07-17,"No Way, He Says",negative,-0.4652550518512726
+2010-07-22,Investors focused on reports from a range of companies that are not seeing a slowdown in the recovery.,neutral,0.09298183023929596
+2010-07-22,Markets Sharply Higher on Earnings,negative,-0.2917909026145935
+2010-07-22,The delivery company posted a strong second quarter and said its international business was particularly promising.,positive,0.930499255657196
+2010-07-22,"U.P.S., Citing a Strong Performance, Raises Outlook",positive,0.7695102095603943
+2010-07-23,Robust quarterly results from some of the nation’s bellwether companies galvanized Wall Street on Thursday.,positive,0.891313910484314
+2010-07-23,Markets Sharply Higher on Earnings,negative,-0.2917909026145935
+2010-07-27,Exchanges on Wall Street got a strong start to a week that will end on Friday with the release of a crucial indicator: the economy’s second-quarter growth.,positive,0.9100017547607422
+2010-07-27,Dow and Nasdaq Are Now Up for the Year,neutral,0.07028283178806305
+2010-08-01,A debut puzzle from Diane Baker van Hoff features a “Sesame Street” character with a unibrow.,neutral,-0.05216605216264725
+2010-08-01,Ka-ching,neutral,0.06493712961673737
+2010-08-02,"David Rubenstein, the Carlyle Group co-founder, said on “Charlie Rose” last week that leveraged buyout firms still haven’t solved one of their biggest problems: their image.",negative,-0.9271758198738098
+2010-08-02,Rubinstein on Private Equity’s Image Issue,neutral,-0.05267985910177231
+2010-08-18,There’s nothing sadder than mourning comic book mutants.,negative,-0.519810140132904
+2010-08-18,Curious Person,neutral,0.028031572699546814
+2010-10-13,"A hazard of “hot money” is that easy-come, easy-go investors will make economies vulnerable to booms and busts.",negative,-0.4734535813331604
+2010-10-13,Ups and Downs of Foreign Capital,neutral,-0.08342885226011276
+2010-10-22,"Intel Capital said that it was making an investment in OpenFeint, a mobile gaming platform that lets developers add social-networking features, like real-time chat, to their applications.",positive,0.7200561165809631
+2010-10-22,Intel Ups the Ante With Bets on Social Gaming,neutral,0.3359876871109009
+2010-10-30,"Despite increased scrutiny, there are far fewer safeguards for packages loaded on cargo-only planes.",neutral,-0.2958114743232727
+2010-10-30,Explosives in Cargo Renew Debate on Screening,neutral,-0.3254265785217285
+2010-11-01,Discovery of the UPS and FedEx bombs raises the possibility of large new costs to inspect goods being shipped across national frontiers.,positive,0.09115591645240784
+2010-11-01,"Such spending could effectively become a new “terror trade tax,” and be championed by protectionist politicians.",neutral,0.37877675890922546
+2010-11-01,Terror Trade Tax,negative,-0.3681821823120117
+2011-04-28,"The Business Council for Peace is a nonprofit network of professionals who provide pro bono business services to entrepreneurs in countries with conflicts — Rwanda and Afghanistan, so far.",neutral,0.07924801111221313
+2011-04-28,Helping Small Businesses That Really Know About Ups and Downs,neutral,0.08025110512971878
+2011-05-07,"Three puzzling questions are at the heart of today’s economic uncertainty, N. Gregory Mankiw says.",neutral,-0.06413419544696808
+2011-05-07,"If You Have the Answers, Tell Me",neutral,0.03455065190792084
+2011-05-18,The chief executive of Discovery Communications told advertisers on Wednesday that the Hispanic market promises significant growth when compared to mainstream cable channels.,positive,0.9298949837684631
+2011-05-18,Upfronts: Discovery Ups the Stakes in Hispanic Media,neutral,0.15918123722076416
+2011-07-15,"Managed futures funds, which have found success in the financial crisis by betting on the ups and downs of everyone else, have finally hit their own slump.",neutral,0.009267009794712067
+2011-07-15,Sluggish Market Stalls Funds That Thrive on Direction,negative,-0.5288716554641724
+2011-08-25,"Company boards are attracted to share buybacks when markets are down, but the purchase often ends up damaging the value of a stock.",negative,-0.8942068219184875
+2011-08-25,The Negative Side of Share Buybacks,negative,-0.62360680103302
+2011-09-19,"Responding to customer demands, corporate housing companies have been adding high-end amenities while also riding the ups and downs of the economy.",positive,0.6677980422973633
+2011-09-19,Putting the Staff Up in Style,neutral,0.07055208832025528
+2011-09-30,"Some slightly contrarian thoughts that may offer comfort to the long-term investor, when ignoring the wild swings in the market gets difficult.",neutral,0.024456702172756195
+2011-09-30,Challenging Dollar-Cost Averaging and Other Bad Ideas,negative,-0.8213189840316772
+2011-10-04,A hedge fund manager explains how his poker skills help him understand the market risks in the Federal Reserve’s monetary policy.,neutral,0.09220462292432785
+2011-10-04,Another View: Bernanke Ups the Ante,neutral,0.1464298665523529
+2011-10-20,DHL Express’s new marketing campaign seeks to persuade American companies to sign up for its international shipping expertise.,positive,0.8289698958396912
+2011-10-20,Shippers Are Jostling for Greater Global Share,neutral,0.20582082867622375
+2011-12-02,"The ticket brokerage firm, long criticized for the size of its fees and surcharges, will offer credits to consumers as part of a settlement of a class-action lawsuit.",neutral,0.012716323137283325
+2011-12-02,Ticketmaster Offers Credits to Settle Lawsuit Over Fees,neutral,0.0737968161702156
+2011-12-13,Shares in JPMorgan tumbled after the trustee liquidating MF Global’s brokerage unit affirmed that he might investigate the bank for its actions as the firm collapsed.,negative,-0.9377637505531311
+2011-12-13,JPMorgan Shares Fall as MF Global Trustee Suggests Inquiry of Bank,negative,-0.8423876762390137
+2012-01-04,"United Parcel Service and FedEx, the two major package delivery companies, have benefited as free shipping and returns have become more common among online retailers.",positive,0.9125029444694519
+2012-01-04,Online Sales Buoy U.P.S.,positive,0.8275071382522583
+2012-01-04,And FedEx,neutral,0.03278586268424988
+2012-02-17,"TNT Express has rejected a takeover bid from United Parcel Service that values the Dutch shipping company at $6.4 billion, but it says that talks are continuing.",neutral,0.06593304872512817
+2012-02-17,TNT Express Rejects Bid by U.P.S.,negative,-0.2331097573041916
+2012-03-16,"The United Parcel Service said on Friday that it was still talking to the Dutch shipping company TNT Express about a potential takeover, which values the European outfit at roughly 4.89 billion euros, or $6.4 billion.",neutral,0.09272221475839615
+2012-03-16,U.P.S.,neutral,0.05031090974807739
+2012-03-16,Still Talking to TNT Over $6.4 Billion Takeover,neutral,0.03826911747455597
+2012-03-19,"The United Parcel Service agreed on Monday to buy TNT Express, a Dutch shipping company, for about $6.8 billion, as the company looked to expand its presence overseas.",positive,0.781832218170166
+2012-03-19,U.P.S.,neutral,0.05031090974807739
+2012-03-19,to Buy TNT Express for $6.8 Billion,neutral,0.024547778069972992
+2012-03-21,"Edgewood, a working-class neighborhood about two miles east of downtown Atlanta, has had its ups and downs through the years.",neutral,0.0006044171750545502
+2012-03-21,There are signs that the area is experiencing another revival.,positive,0.7409362196922302
+2012-03-21,Community on the Upswing,neutral,0.03473162651062012
+2012-03-28,"The European Commission has fined United Parcel Service, Kuehne + Nagel and other shipping companies millions for fixing prices on freight.",negative,-0.9128788709640503
+2012-03-28,Europe Levies Big Fines for Freight Cartel,negative,-0.6843699216842651
+2012-04-26,Rick Jones is trying to change the way Lone Star employees interact with customers.,neutral,0.035688742995262146
+2012-04-26,How Do You Compete With FedEx and U.P.S.,neutral,0.05964274704456329
+2012-04-26,?,negative,-0.251367449760437
+2012-07-24,"The company, considered an economic bellwether because of the goods it moves, projects the United States economy will expand 1 percent.",positive,0.917862594127655
+2012-07-24,UPS Lowers Full-Year Forecast,negative,-0.9068804979324341
+2012-08-06,Airlines and baggage system engineers are crediting technological advances with the lowest number of mishandled bags since 2005.,negative,-0.8964859247207642
+2012-08-06,Good Airline News: Losing Fewer Bags,negative,-0.30819064378738403
+2012-09-12,A centuries-old mustard brand will use a Facebook campaign to ensure that its users meet its standards.,neutral,0.1589435636997223
+2012-09-12,Grey Poupon Ups the Ante on Assuming an Elite Image,neutral,0.17635099589824677
+2012-09-20,"During lean times for shippers, United Parcel Service uses an ad campaign to emphasize the wide range of services its retail stores provide.",neutral,0.12997691333293915
+2012-09-20,U.P.S.,neutral,0.05031090974807739
+2012-09-20,Bills Stores as Small-Business Solution,neutral,-0.056818436831235886
+2012-10-06,Central banks’ decisions to pump more money into the global economy have spurred a stock rally.,positive,0.6173238158226013
+2012-10-06,But some advisers see the moves as just a successful trip to the emergency room.,neutral,0.06825993210077286
+2012-10-06,"Mutual Fund Investors, Flying Again but Feeling Dizzy",neutral,-0.03459087014198303
+2012-10-27,"The Elephant Trunk, a large, lockable mailbox, was devised a decade ago for deliveries of items like desktop computers; now it’s back in a smaller version.",neutral,0.05225781351327896
+2012-10-27,Innovation Also Means Finding Ways to Adapt,neutral,0.15114019811153412
+2012-11-16,The Dutch shipping company TNT Express agreed on Friday to sell its airline operations as the European company looks to win regulatory support for its proposed 5.2 billion euros ($6.6 billion) takeover by United Parcel Service.,positive,0.4346538186073303
+2012-11-16,TNT Express to Sell Airline Unit Ahead of U.P.S.,neutral,0.05057092756032944
+2012-11-16,Takeover,neutral,0.03338290750980377
+2012-11-30,United Parcel Service has submitted concessions to European antitrust authorities as it seeks regulatory approval for its proposed $6.8 billion takeover of the Dutch shipping company TNT Express.,positive,0.8700011372566223
+2012-11-30,U.P.S.,neutral,0.05031090974807739
+2012-11-30,Offers Concessions to Secure TNT Express Takeover,neutral,0.34338435530662537
+2013-01-14,The failure of the deal hurt U.P.S.’s expansion efforts and left TNT Express vulnerable.,negative,-0.9473459720611572
+2013-01-14,"U.P.S., Facing Resistance in Europe, Drops Bid for TNT Express",negative,-0.8707129955291748
+2013-01-14,"U.P.S.’s $6.9 billion bid for TNT Express is the latest merger blocked by the European Union, and the most prominent since the proposed tie-up of NYSE Euronext and Deutsche Borse last year.",neutral,-0.33466604351997375
+2013-01-14,With U.P.S.,neutral,0.06652437150478363
+2013-01-14,"Deal, European Antitrust Regulators Block Another Big Merger",negative,-0.9010022878646851
+2013-01-17,"Dell has spent more on share repurchases than it earned throughout its life as a public company, and most of those repurchases were at prices well above current levels.",neutral,0.31076380610466003
+2013-01-17,Dell’s Ups and Downs With Options,neutral,-0.0020176246762275696
+2013-01-30,"The European Commission continued to flex its antitrust muscles, officially blocking U.P.S.’s $6.9 billion bid to buy the Dutch shipping company TNT Express, a deal that collapsed weeks earlier in the face of regulatory resistance.",negative,-0.9109205603599548
+2013-01-30,Europe Officially Blocks U.P.S.,negative,-0.8844555020332336
+2013-01-30,Takeover of TNT Express,neutral,0.03443513810634613
+2013-02-14,The National Federation of Nurses expects to gain more political clout and money by affiliating with the American Federation of Teachers.,positive,0.8563603758811951
+2013-02-14,"Seeking Growth, Nurses’ Union Links to Teachers’ Union",neutral,0.1300445795059204
+2013-03-13,"Photos from readers that reveal something meaningful about the ups and downs, the grind and the rewards of building a business.",neutral,0.09972096979618073
+2013-03-13,Capturing the Soul of a Business in a Single Photograph,neutral,0.08396632969379425
+2013-04-08,United Parcel Service has appealed a decision by European antitrust authorities that blocked its proposed $6.7 billion takeover bid for the Dutch shipping company TNT Express.,negative,-0.9333932399749756
+2013-04-08,U.P.S.,neutral,0.05031090974807739
+2013-04-08,Appeals Decision Blocking TNT Express Takeover,negative,-0.8258277773857117
+2013-04-22,"Natural gas is expected to gain popularity as a truck fuel for a number of reasons, including its low cost and demand from companies that ship goods.",positive,0.78569495677948
+2013-04-22,Trucking Industry Is Set to Expand Its Use of Natural Gas,positive,0.8511577844619751
+2013-08-22,"In announcing a move that will affect about 15,000 employees, United Parcel Service cited costs associated with the federal health care law.",negative,-0.9055550694465637
+2013-08-22,U.P.S.,neutral,0.05031090974807739
+2013-08-22,to End Health Benefits for Spouses of Some Workers,neutral,-0.1403777301311493
+2013-09-10,"Contractors, property developers and other ailing construction-related stocks surged, as investors anticipated a construction boom before the 2020 Games.",negative,-0.43212050199508667
+2013-09-10,Investors Bet on Olympic Construction Boom,neutral,0.10083597153425217
+2013-09-16,"Excellent service, and surly service.",positive,0.5287004113197327
+2013-09-16,"Great prices, and outlandish prices.",neutral,-0.31232750415802
+2013-09-16,All part of a typical business trip’s ups and downs.,neutral,0.046804048120975494
+2013-09-16,"Lucky Breaks, or Not, for Travelers",neutral,0.08698616921901703
+2013-11-04,"This way of buffering the ups and downs of the stock market might not be trendy, but it’s tried and true.",neutral,0.24130985140800476
+2013-11-04,Dismiss Diversification at Your Own Risk,neutral,0.03751762956380844
+2013-12-26,Some customers were left without Christmas gifts as the United Parcel Service failed to meet delivery deadlines in the face of bad weather and an unexpectedly large surge in demand.,negative,-0.9542842507362366
+2013-12-26,Gifts Sent by U.P.S.,neutral,0.052269890904426575
+2013-12-26,Miss a Big Deadline,negative,-0.40244966745376587
+2013-12-27,"Some analysts wondered whether industry and customer expectations needed to be re-examined, while one suggested companies might have to reconsider their shipping pricing system.",negative,-0.763988196849823
+2013-12-27,"After Carriers Falter, Questions for Web Shopping",negative,-0.8604310750961304
+2014-03-13,"Plus, reconciling your Picasa photos with Google Plus.",neutral,0.03637790307402611
+2014-03-13,Locking Up Amazon Deliveries,neutral,-0.26643043756484985
+2014-07-08,"With the help of tax increment financing, the Rhode Island city and developers are turning the once-blighted area into residential and public spaces.",neutral,0.4327085316181183
+2014-07-08,East Providence Works to Develop Its Waterfront,neutral,0.04415386915206909
+2014-08-20,"The hacking is the latest in a string of incidents at major retailers, including Target, Neiman Marcus and Supervalu.",negative,-0.9117412567138672
+2014-08-20,United Parcel Service Confirms  Security Breach,neutral,0.07705028355121613
+2014-08-22,"The Department of Homeland Security said on Friday that more than 1,000 businesses had been infected with the cash register malware used in the Target data breach and others, leading to the theft of data from millions of customers’ payment cards.",negative,-0.9290187358856201
+2014-08-22,U.S. Finds ‘Backoff’ Hacker Tool Is Widespread,negative,-0.3925764858722687
+2014-08-29,Who needs UPS trucks and bicycle delivery when you can fly in things people buy online?,neutral,0.013078026473522186
+2014-08-29,Google Joins Amazon in Dreams of Drone Delivery,neutral,-0.0035389959812164307
+2014-09-29,"Many more writers have signed on to Authors United, a group not only challenging Amazon on its Hachette dealings, but also asking federal authorities to investigate it on antitrust matters.",neutral,-0.09111404418945312
+2014-09-29,Literary Lions Unite in Protest Over Amazon’s E-Book Tactics,negative,-0.8444991111755371
+2014-10-23,"Many pro football teams have added museums, historical displays and halls of fame to turn their stadiums into magnets for fans all year long.",neutral,0.21214988827705383
+2014-10-23,Encouraging a Walk in the Hall of Fame,neutral,0.07828284800052643
+2014-11-03,"Americans are expected to buy a record $89 billion worth of gifts online, a 13 percent jump over the 2013 season.",positive,0.8896820545196533
+2014-11-03,"Stung Last Year, Retailers and Shippers Retool for the Holiday Season",neutral,-0.2243601530790329
+2014-12-13,"The number of people worldwide who are living in extreme poverty has been declining sharply, partly attributable to rising incomes in India and China.",negative,-0.9625979065895081
+2014-12-13,A Global Gauge Finds Progress Against Poverty,negative,-0.3081277906894684
+2014-12-22,"FedEx and UPS are aiming to avoid last year’s chaos, when a late surge in shipments and bad weather left many gifts to be delivered late.",negative,-0.5692194104194641
+2014-12-22,Crunch Time for FedEx and UPS as Last-Minute Holiday Shipping Ramps Up,neutral,0.19517681002616882
+2014-12-23,"After five years, this is the final post on You’re the Boss.",neutral,0.03329891711473465
+2014-12-23,"As a parting gift, we offer some highlights from another year spent in the trenches, where we all continued to make mistakes and learn lessons.",neutral,0.12586534023284912
+2014-12-23,"So Long, From You’re the Boss",neutral,0.0037893131375312805
+2015-01-15,Banks are blaming market ups and downs for hurting earnings.,negative,-0.9355770349502563
+2015-01-15,"That’s rich after years of claiming conditions were too docile, writes Antony Currie of Reuters Breakingviews.",negative,-0.4665721654891968
+2015-01-15,Volatility Is the New Weather for Banks,neutral,0.010611481964588165
+2015-04-07,The merger would greatly expand FedEx’s presence in Europe and comes less than two years since European regulators blocked a bid for TNT by UPS.,positive,0.9212682843208313
+2015-04-07,FedEx Agrees to Acquire TNT Express in $4.8 Billion Deal,neutral,0.44970428943634033
+2015-04-07,"Cost savings, cheap debt and a strong dollar could help FedEx realize good returns on the merger.",positive,0.9050260186195374
+2015-04-07,"In Deal for TNT Express, FedEx Bets on European Recovery",neutral,0.15415707230567932
+2015-04-11,"Investors can reduce exposure to currency fluctuations by choosing certain types of funds, but some argue it is better to ignore the ups and downs.",neutral,0.0999637320637703
+2015-04-11,The Limits of Outsmarting a Strong Dollar,neutral,-0.026746585965156555
+2015-04-27,"Long-shot hopefuls can be expected to surge in popularity after they announce their presidential bids, but such bounces rarely last.",neutral,0.3953431248664856
+2015-04-27,How to Read the Ups and Downs of Polling in the G.O.P.,neutral,0.009996242821216583
+2015-04-27,Race,neutral,-0.02636571228504181
+2015-06-17,"The housing market in much of the nation seems to be in a Goldilocks moment, neither too hot nor too cold, with low mortgage rates an added bonus.",neutral,0.10181379318237305
+2015-06-17,"After an Era of Ups and Downs, Home Prices Return to Sanity",positive,0.49023810029029846
+2015-07-09,"Analysts warned that markets have further to fall, with the valuations of many small companies remaining too high.",negative,-0.95346999168396
+2015-07-09,"Chinese Stocks Rise, but Fears Persist",negative,-0.861516535282135
+2015-07-29,The package delivery giant wants to displace 12 percent of the petroleum-based fuels in its ground fleet by 2017 and hopes to stimulate investment.,positive,0.7862231135368347
+2015-07-29,UPS Agrees to Buy 46 Million Gallons of Renewable Diesel,positive,0.7190601825714111
+2015-07-31,The acquisition is intended to help bolster UPS’s presence in the freight brokerage business.,positive,0.8949182629585266
+2015-07-31,UPS to Buy Coyote Logistics for $1.8 Billion,neutral,0.028463376685976982
+2015-07-31,The European Commission said it had concerns that the $4.8 billion merger could decrease competition and lead to higher prices for consumers.,negative,-0.9040325284004211
+2015-07-31,FedEx-TNT Express Deal to Be Investigated in Europe,neutral,-0.4484317898750305
+2015-10-21,"After guiding CIT’s transformation into more of commercial bank, the former Goldman Sachs executive will apparently be stepping down on a high note.",neutral,-0.07158222794532776
+2015-10-21,Timeline: The Rise and Fall and Rise of John Thain,neutral,0.025460828095674515
+2016-02-02,Yahoo and Twitter are just the latest tech companies shaping plans for major overhauls and management shake-ups.,neutral,-0.008190855383872986
+2016-02-02,"A look back at how Priceline, Amazon and eBay weathered turbulent times.",positive,0.4607715606689453
+2016-02-02,Tech’s Track Record of Shake-Ups at the Top,neutral,-0.30800148844718933
+2016-02-11,"Bank Whistleblowers United, an advocacy group, aims to improve the status of Wall Street whistle-blowers and change the way Wall Street is regulated.",positive,0.6269614100456238
+2016-02-11,"Wall St. Whistle-Blowers, Often Scorned, Get New Support",neutral,-0.12195687741041183
+2016-03-25,An industry takes aim at significant barriers to selling its complicated products that also remind potential customers of their own mortality.,neutral,0.04146161675453186
+2016-03-25,Life Insurance Tries to Lighten Up,neutral,0.2666674852371216
+2016-10-14,"Dollar-cost averaging offers investors a way to avoid the risks of trying to time the markets, and to save gradually, at a reasonable price.",neutral,0.4434479773044586
+2016-10-14,How Regular Investing Smooths the Market’s Ups and Downs,neutral,0.061832964420318604

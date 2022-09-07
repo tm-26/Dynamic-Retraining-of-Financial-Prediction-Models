@@ -1,0 +1,908 @@
+Date,Sentence,Prediction,sentimentScore
+2014-01-06,"YP, one of the largest mobile advertising companies in the United States, is acquiring Sense Networks, which mines location and behavioral data to provide targeted search and display ads.",neutral,0.2997509837150574
+2014-01-06,"YP, a Mobile Search Firm, Buys Sense Networks",neutral,0.10202018171548843
+2014-01-09,"The New York State attorney general, Eric T. Schneiderman, said he planned to investigate brokerage firms that might have provided early market-moving information to preferred clients.",negative,-0.6421127915382385
+2014-01-09,Attorney General Vows to Crack Down on ‘Insider Trading 2.0’,negative,-0.722915530204773
+2014-01-11,Mr. Mortensen was one of three economists who shared the 2010 Nobel Memorial Prize in Economic Sciences for their work on a line of economic thinking known as search theory.,neutral,0.22012348473072052
+2014-01-11,"Dale T. Mortensen, Labor Economist and Nobel Laureate, Dies at 74",neutral,-0.3318284749984741
+2014-01-13,"The latest crackdown by New York State’s attorney general, Eric T. Schneiderman, may end up blurring the already thin line between permissible securities analysis and illegal conduct, Peter J. Henning writes in the White Collar Watch column.",negative,-0.8633174300193787
+2014-01-13,Push to Combat Insider Trading May Go Too Far,negative,-0.754558801651001
+2014-01-14,The decision by a federal appeals court could pave the way for providers like Verizon and AT&T to charge content companies to deliver data at a faster speed.,positive,0.513823390007019
+2014-01-14,Rebuffing F.C.C.,neutral,0.012957043945789337
+2014-01-14,"in ‘Net Neutrality’ Case, Court Allows Streaming Deals",neutral,-0.12964877486228943
+2014-01-15,"It is notable that the board of General Motors is reinstating the dividend before sorting out new pay levels for its top executives, Antony Currie writes for Reuters Breakingviews.",neutral,0.24836350977420807
+2014-01-15,G.M.’s Dividend Hits the Right Spot,positive,0.5246497988700867
+2014-01-23,The mutual fund giant is one of only a couple shareholders that have stakes in both Time Warner Cable and Charter.,neutral,0.022897157818078995
+2014-01-23,T. Rowe Price Wants Time Warner Cable and Charter to Talk,neutral,0.024270735681056976
+2014-01-24,"Before Bitcoin can become a reliable payment method for regular consumer transactions, several significant risks need to be assessed and addressed, writes Mark T. Williams in Another View.",neutral,0.20608124136924744
+2014-01-24,Bitcoin Is Not Yet Ready for the Real World,neutral,-0.22238294780254364
+2014-01-27,"The latest in a string of cable tie-ups sees Liberty Global, John Malone’s company, take full control of its Dutch rival Ziggo.",neutral,0.1106671392917633
+2014-01-27,"Deal making has proved trickier for telecommunications companies, but activity should start to rise, Quentin Webb writes in Reuters Breakingviews.",positive,0.906062126159668
+2014-01-27,European Telecommunications Companies May Follow Cable’s Lead,neutral,0.08255856484174728
+2014-01-28,"For its wireless business, AT&T said it added 566,000 contract subscribers, the most valuable type of customers.",positive,0.7105011940002441
+2014-01-28,"Profit Surges for AT&T, Outstripping Expectations",positive,0.8378241062164307
+2014-01-29,"Honda becomes Japan’s first net exporter from the United States, and Thai police say Karl Slym argued with his wife before committing suicide.",negative,-0.827959418296814
+2014-01-29,Wheelies: The Export Import Edition,neutral,0.02155125141143799
+2014-01-30,"Corvex Management and Related Fund Management are frustrated with the Portnoy family, which controls CommonWealth REIT, and the firms have begun a consent solicitation process aimed at replacing the CommonWealth board.",negative,-0.905836820602417
+2014-01-30,Activists Solicit Shareholders to Replace Board at CommonWealth REIT,neutral,0.05080000311136246
+2014-02-04,"The company says it stands against a measure outlawing “homosexual propaganda” that has led to protests aimed at the Winter Olympics in Sochi, Russia.",negative,-0.690298855304718
+2014-02-04,AT&T Becomes First Major Advertiser to Protest Russia’s Antigay Law,negative,-0.8215160369873047
+2014-02-10,"In one case, Toyota is nearing a deal with the Justice Department to settle a criminal investigation over the way the automaker disclosed complaints stemming from the sudden acceleration of its vehicles, according to two people with knowledge of the talks.",negative,-0.6380351185798645
+2014-02-10,Toyota in Talks on Final Settlements Over Car Recalls,neutral,-0.061195701360702515
+2014-02-11,The automaker released Mary T. Barra’s compensation figures two months early to refute accusations that she was being paid less than her male predecessor.,negative,-0.8877348303794861
+2014-02-11,G.M.,neutral,0.048085395246744156
+2014-02-11,Reveals C.E.O.’s Pay Details to Counter Gender-Bias Criticism,neutral,0.15424105525016785
+2014-02-12,"The debate between oil producers and refiners over exports is a rare clash in a deeply guarded industry that involves arguments over national security, pricing at the pump and earnings.",negative,-0.8749921321868896
+2014-02-12,"Conflict in Oil Industry, Awash in Crude",negative,-0.7260666489601135
+2014-02-13,"Verizon Wireless is sweetening its phone plans, offering more mobile data and free international text messaging, after AT&T made several big moves to fight off T-Mobile US and keep customers.",positive,0.8991677761077881
+2014-02-13,Verizon Wireless Expands Mobile Data Plans,neutral,0.3632608652114868
+2014-02-14,"The two activist hedge funds, Corvex and Soroban Capital looking to spur change at the Williams Companies disclosed on Friday that they have raised their collective stake in the gas pipeline company and have hired Moelis & Company to aid them in their campaign.",positive,0.6507205963134766
+2014-02-14,Activists Raise Stake in Williams Companies and Hire an Adviser,neutral,-0.19330903887748718
+2014-02-19,Candy Crush’s meteoric rise has raised fears of a bubble following the I.P.O.,negative,-0.8887298703193665
+2014-02-19,"filing of its parent, King Digital Entertainment.",neutral,-0.0345071442425251
+2014-02-19,| Few firms have been as aggressive as the Blackstone Group in searching for lucrative deals in Ireland.,neutral,0.14608143270015717
+2014-02-19,| Homeowners trying to avert foreclosure are confronting problems on a new front.,negative,-0.8853632211685181
+2014-02-19,| It may be time to call a truce on the Wall Street bias in looking at executive compensation.,negative,-0.43707695603370667
+2014-02-19,Doubts About Candy Crush’s Sweetness,neutral,-0.3224453628063202
+2014-02-20,"The most common requests that AT&T received from federal, state and local government agencies were related to criminal and civil litigation.",neutral,-0.04538184776902199
+2014-02-20,"The company said it received roughly 302,000 of these requests.",neutral,0.05289744958281517
+2014-02-20,Questions Raised About AT&T’s Transparency Report,negative,-0.4961109459400177
+2014-02-21,Women are still caught in a double bind where they struggle to navigate their feminine gender role expectations and yet still prove to others that they are assertive and competent.,negative,-0.7622770667076111
+2014-02-21,Women as Bosses Still Face Bias,negative,-0.672921895980835
+2014-02-24,The bank said it would pay an allowance to high-ranking executives in order to circumvent European compensation limits and announced earnings for 2013 that fell short of analyst expectations.,positive,0.017229825258255005
+2014-02-24,HSBC to Sidestep European Union Bonus Cap as It Cuts Costs,negative,-0.49053701758384705
+2014-02-26,"The fourth-ranking carrier blew up the rules on smartphones and wireless contracts, to the benefit of many consumers.",negative,-0.8609153032302856
+2014-02-26,T-Mobile Turns an Industry on Its Ear,neutral,0.0038703083992004395
+2014-02-27,An article on the New York attorney general portrayed him as vindictive and politically opportunistic.,negative,-0.7185991406440735
+2014-02-27,It also included a defense of Donald Trump.,neutral,0.03858385235071182
+2014-02-27,A New York Observer Article Brings a Spat in Trump’s Orbit,negative,-0.6835470199584961
+2014-02-28,"A look at some of the highlights, lowlights and more awkward happenings that took place at the annual RSA security conference this week.",neutral,-0.034075889736413956
+2014-02-28,"At the RSA Security Conference, Things Get Testy and Then They Get Awkward",negative,-0.6385525465011597
+2014-03-03,G.M.,neutral,0.048085395246744156
+2014-03-03,"has been sued, and now faces an investigation by the safety agency and the possibility of a criminal investigation, similar to the criminal inquiry Toyota is facing after recalls over the unintended acceleration of its vehicles.",negative,-0.8821164965629578
+2014-03-03,"In General Motors Recalls, Inaction and Trail of Fatal Crashes",negative,-0.7476458549499512
+2014-03-04,"Mr. Adler collected and published letters children had written to President John F. Kennedy and helped popularize novels written by political, entertainment and sports celebrities.",neutral,0.05144838988780975
+2014-03-04,"Bill Adler, Author, Editor and Compiler, Dies at 84",neutral,-0.155318945646286
+2014-03-05,"Under pressure from law enforcement and advocacy groups, Facebook took steps Wednesday to regulate gun sales on its site as well as on its photo-sharing app Instagram.",negative,-0.48228615522384644
+2014-03-05,"With Move to Limit Gun Sales, Facebook Is Caught in Debate",negative,-0.39632272720336914
+2014-03-06,"Harley unveiled a new model based upon a 1977 favorite, the Low Rider, as well as a lightweight touring bike called the SuperLow 1200T.",neutral,0.2390720099210739
+2014-03-06,Harley-Davidson Brings Back the ’70s With Low Rider Model,neutral,0.19045709073543549
+2014-03-08,"Facing the recall of 1.6 million cars weeks into her tenure as chief executive, Mary T. Barra has taken the lead role in handling the crisis, starting an internal inquiry and ordering a rare public apology.",negative,-0.6479998826980591
+2014-03-08,Recall at G.M.,negative,-0.6087799668312073
+2014-03-08,Is Early Trial for New Chief,neutral,0.0675291121006012
+2014-03-10,A look at some of the crucial events in William A. Ackman’s fight over the nutritional supplements company Herbalife.,neutral,0.012699808925390244
+2014-03-10,"Ackman vs. Herbalife, a History",neutral,0.01697004958987236
+2014-03-12,The hedge fund Elliott Management is raising its bet on Juniper Networks after the networking equipment company announced a series of new initiatives.,positive,0.7096543312072754
+2014-03-12,Elliott Raises Stake in Juniper Networks,neutral,0.10809505730867386
+2014-03-14,"Daniel F. Akerson, the former chief executive of General Motors, has returned to the Carlyle Group, the private equity giant where he worked before running the automaker.",neutral,-0.010201739147305489
+2014-03-14,"Mr. Akerson, 65, is now the vice chairman of Carlyle and a special adviser to its board.",neutral,0.01502526830881834
+2014-03-14,Former G.M.,neutral,-0.002794690430164337
+2014-03-14,Chief Returns to Carlyle,neutral,-0.002785786986351013
+2014-03-15,"In its recall crisis, General Motors is doing what many scandal-plagued companies do.",neutral,-0.12499557435512543
+2014-03-15,It’s trying to manage the problem with an internal investigation.,neutral,-0.041120968759059906
+2014-03-15,"As Scandal Unfolds, G.M.",neutral,-0.021021798253059387
+2014-03-15,Calls In the Lawyers,neutral,-0.0074118077754974365
+2014-03-17,"In a video message addressed to General Motors employees, Mary Barra, the chief executive, said the company had made mistakes and needed to change its processes.",negative,-0.836924135684967
+2014-03-17,G.M.,neutral,0.048085395246744156
+2014-03-17,Chief Updates on Recall,neutral,0.021566934883594513
+2014-03-18,"As the presenting sponsor of the festival for the first time, the company is introducing an effort, “Film for All,” that aims to expose the festival to more New Yorkers.",positive,0.6881056427955627
+2014-03-18,Free-for-All on the Final Friday of Tribeca Film Festival,neutral,0.07688675820827484
+2014-03-19,The move by Marketwired is another victory in the effort by the New York State attorney general to curb the advantages enjoyed by the fastest traders on Wall Street.,positive,0.7263604402542114
+2014-03-19,News Release Distributor to Stop Selling to High-Speed Traders,negative,-0.660490870475769
+2014-03-20,Comments from the chairman of Bloomberg L.P. represent the starkest acknowledgment yet by a senior Bloomberg executive that the ambitions of the news division should be assessed in the context of the business operation.,neutral,-0.1855599284172058
+2014-03-20,Bloomberg Hints at Curb on Articles About China,neutral,0.04671161621809006
+2014-03-21,Mary T. Barra will testify before a House subcommittee as it investigates the response of General Motors to safety problems with the Chevy Cobalt.,neutral,-0.048241011798381805
+2014-03-21,House Panel to Hear G.M.,neutral,0.00651918351650238
+2014-03-21,Chief’s Testimony,neutral,0.03307342529296875
+2014-03-23,"To deal with car owners’ concerns after a long-delayed safety recall, General Motors is turning to forums like Twitter and Facebook.",negative,-0.5029981136322021
+2014-03-23,G.M.,neutral,0.048085395246744156
+2014-03-23,Uses Social Media to Manage Customers and Its Reputation,neutral,0.007416807115077972
+2014-03-24,"Ben Richardson, an editor for Bloomberg News in China, is critical of the way the news agency handled an investigative article that explored the financial ties of the families of top Chinese leaders.",negative,-0.8820213079452515
+2014-03-24,"Editor Leaves Bloomberg, Citing China Coverage",negative,-0.5400514006614685
+2014-03-25,Apple and Amazon customers on Tuesday were notified of opportunities to get some money back as a result of two separate legal settlements with the government.,positive,0.6682257056236267
+2014-03-25,Both cases revolve around Apple.,neutral,-0.012819137424230576
+2014-03-25,"In Two Settlements, Money for Apple and Amazon Customers",neutral,0.08223441243171692
+2014-03-26,The lawsuit arose out of troubled mortgage-backed securities that the bank cobbled together and sold to Fannie Mae and Freddie Mac in the run-up to the financial crisis.,negative,-0.5031429529190063
+2014-03-26,Bank of America to Pay $6.3 Billion to Settle Mortgage Securities Suit,neutral,-0.007169246673583984
+2014-03-27,"Some of the largest multinational corporations have formed a global standards body intended to speed the connection of factories, oil rigs and hospitals to intricate systems of sensors and computers.",neutral,0.10474983602762222
+2014-03-27,Consortium Wants Standards for ‘Internet of Things’,neutral,0.04670646786689758
+2014-03-31,"If there were any doubts that AT&T’s appetite was waning for a takeover bid for Vodafone, the latest announcement by AT&T for a potential stock buyback worth around $11 billion might erase them.",negative,-0.92577064037323
+2014-03-31,AT&T’s Stock Buyback May Further Signal Waning Interest in Vodafone Deal,negative,-0.9536623954772949
+2014-04-01,"Members of the House Oversight and Investigations Subcommittee questioned Mary Barra, the chief executive of General Motors, during a hearing on the company’s safety problems.",negative,-0.8808168768882751
+2014-04-01,House Members Grill G.M.’s Barra,neutral,-0.13283762335777283
+2014-04-02,Relatives of people killed in accidents involving recalled General Motors cars find it hard to get information partly because of how G.M.,negative,-0.6880562901496887
+2014-04-02,"defines victims, and the technology of “black boxes.”",neutral,-0.008759357035160065
+2014-04-02,G.M.,neutral,0.048085395246744156
+2014-04-02,Secrecy on Crashes Adds to Families’ Pain,negative,-0.6690703630447388
+2014-04-04,"In Germany, where a dump truck manufacturer claimed rights to the Mustang name, the original Mustang was badged as the T5.",neutral,0.027391448616981506
+2014-04-04,A Ford Mustang That’s Not a Mustang,neutral,-0.21210110187530518
+2014-04-05,The National Highway Traffic Safety Administration is facing questions over its handling of the General Motors scandal involving defective ignition switches.,negative,-0.9034512042999268
+2014-04-05,Minding the Minders of G.M.,neutral,0.020966269075870514
+2014-04-07,"High-frequency trading firms’ methods do not fit comfortably into any of the typical theories of securities fraud that have been used to pursue misconduct, Peter J. Henning writes in his White Collar Watch column.",negative,-0.6910325288772583
+2014-04-07,High-Frequency Trading Falls in the Cracks of Criminal Law,negative,-0.6670995354652405
+2014-04-09,"The new theme, “Mobilizing your world,” replaces “Rethink possible.” With AT&T’s advertising budget near $2 billion, those words may be hard to miss.",neutral,0.07264001667499542
+2014-04-09,AT&T to Switch Its Advertising Message,neutral,-0.06220189481973648
+2014-04-10,The company said the two were suspended with pay as an “interim step” in its investigation of ignition problems that persisted for years.,negative,-0.8856066465377808
+2014-04-10,G.M.,neutral,0.048085395246744156
+2014-04-10,Places 2 Engineers on Leave in Inquiry,negative,-0.8847510814666748
+2014-04-11,"Files released by House investigators include an email telling Mary T. Barra, now the chief executive, of steering problems in 2011.",negative,-0.8226255178451538
+2014-04-11,G.M.,neutral,0.048085395246744156
+2014-04-11,Documents Reveal Years of Talks on Defect,neutral,0.022144749760627747
+2014-04-15,"The departures are the first major executive changes under Mary T. Barra, who took over as chief executive in January.",neutral,-0.41037535667419434
+2014-04-15,2 Executives Leave G.M.,negative,-0.7056627869606018
+2014-04-15,After Wide-Ranging Recall,neutral,0.0831892341375351
+2014-04-16,"Bank of America’s $276 million loss provides some valuable perspective on the difficulties in running a big bank these days, Antony Currie of Reuters Breakingviews writes.",neutral,-0.08939707279205322
+2014-04-16,Bank of America Not Alone in Reporting Anemic Results,negative,-0.6896607875823975
+2014-04-17,An investigation by New York authorities is part of a broad national crackdown on businesses seeking to turn a quick profit by exporting luxury cars from the United States to China.,negative,-0.8826602697372437
+2014-04-17,Charges Are Said to Be Near Over Kickbacks in Exports of Luxury Cars to China,negative,-0.9097009897232056
+2014-04-18,Daimler has plans to bring back the Maybach brand; AT&T strikes a connected-car deal with a global automaker.,neutral,0.35204967856407166
+2014-04-18,Wheelies: The Welcome Back Maybach Edition,neutral,0.09041302651166916
+2014-04-20,A Times analysis shows that General Motors repeatedly used technical service bulletins as a stopgap safety measure instead of ordering timely recalls.,negative,-0.556676983833313
+2014-04-20,"Sending Alerts Instead, G.M.",neutral,-0.33601611852645874
+2014-04-20,Delayed Car Recalls,negative,-0.6374974250793457
+2014-04-22,"Peter Chernin, the former News Corporation president, has joined with AT&T to commit more than $500 million to a new investment vehicle for online video.",positive,0.6354826092720032
+2014-04-22,Chernin Teams With AT&T in Online Video Investment Venture,neutral,0.06561888009309769
+2014-04-23,"San Francisco is suing two landlords, saying they illegally evicted tenants so they could make their apartments into places for well-heeled tourists.",negative,-0.9125291705131531
+2014-04-23,New York State is investigating Uber for price-gouging during storms.,negative,-0.8701791167259216
+2014-04-23,Some Setbacks for the Sharing Economy,negative,-0.6904652118682861
+2014-04-24,"T. Boone Pickens, in the latest issue of Time magazine, discusses his friend Carl C. Icahn and the labels they have picked up over the years.",neutral,0.035626523196697235
+2014-04-24,A ‘Corporate Raider’ Tries to Correct the Record,negative,-0.6547873616218567
+2014-04-25,The New York State attorney general accused accused the bank’s top executives of withholding material information related to its 2008 merger with Merrill Lynch.,negative,-0.8767054677009583
+2014-04-25,Ex-Finance Chief at Bank of America to Pay $7.5 Million in Settlement,neutral,-0.09941186010837555
+2014-04-28,"The company said that by late 2015, it would build a new air-to-ground network based on 4G LTE, the same type of cellular technology that many of the latest smartphones use to connect to the Internet.",positive,0.5319552421569824
+2014-04-28,AT&T Plans to Provide Wireless Internet for Airplanes,neutral,0.06172245368361473
+2014-04-29,Airbnb keeps doubling down in its battle with the New York attorney general.,negative,-0.9385406374931335
+2014-04-29,No wonder: It sees a threat to its entire business model.,negative,-0.8923618197441101
+2014-04-29,Airbnb Takes to the Barricades,neutral,-0.23309743404388428
+2014-05-02,The automaker is trying to fend off a rising tide of class-action lawsuits stemming from its recall of 2.6 million cars because of a dangerously defective ignition switch that it now links to 13 deaths.,negative,-0.9322410225868225
+2014-05-02,"Hoping to Fend Off Suits, G.M.",negative,-0.4518152177333832
+2014-05-02,Is to Return to Bankruptcy Court,neutral,-0.04048905521631241
+2014-05-03,An accounting error has cast a shadow over a bank’s comeback — and shareholders may well want some answers at the annual meeting.,negative,-0.7256754636764526
+2014-05-03,"At Bank of America, a $4 Billion Wet Blanket on the Party",negative,-0.8073838353157043
+2014-05-04,Warren E. Buffett answered roughly six hours’ worth of questions – including pointed queries about his opposition to a controversial executive pay plan at the Coca-Cola Company.,neutral,-0.2154514342546463
+2014-05-04,"At Berkshire Annual Meeting, Questions for Buffett About Coca-Cola and Deals",neutral,-0.0830540657043457
+2014-05-06,The top executives of Berkshire Hathaway believe in trusting their employees.,neutral,0.04719941318035126
+2014-05-06,Berkshire’s Radical Strategy: Trust,neutral,0.04902275651693344
+2014-05-07,"Bank officials said they were conducting a “third-party review” of how the problem happened, but declined to name the firm conducting the review.",neutral,-0.25645893812179565
+2014-05-07,Bank of America Shareholders Press Officials After $4 Billion Error,neutral,-0.05606463551521301
+2014-05-08,"The German carrier, which owns the T-Mobile brand, reported a 3.9 percent drop in quarterly earnings after investing heavily to challenge rivals like Verizon and AT&T.",negative,-0.9699835777282715
+2014-05-08,Deutsche Telekom Profit Falls Amid Aggressive Spending in U.S.,negative,-0.9539798498153687
+2014-05-09,Three executives of the social network sold stock on Tuesday after restrictions were lifted on insider selling after Twitter’s initial offering of stock.,neutral,0.011968187987804413
+2014-05-09,"A money manager that controlled 14.4 percent of Twitter’s stock also distributed its shares to its underlying investors, freeing them to sell, too.",neutral,0.051710259169340134
+2014-05-09,Twitter Insiders Sell After Lockup Expires,negative,-0.4538346827030182
+2014-05-12,"When investors get to speak at the annual meeting of banks, anger, scorn and even singing can result.",negative,-0.8003621697425842
+2014-05-12,"Telling Off the C.E.O., Once a Year",neutral,0.024163974449038506
+2014-05-13,"The apartment-sharing service’s victory may be short-lived, as the state attorney general said he would address the court’s concerns in a new subpoena.",negative,-0.4138241112232208
+2014-05-13,A Victory for Airbnb in New York,positive,0.7964763045310974
+2014-05-14,"Expanding into satellite TV requires heroic assumptions to be financially viable, Jeffrey Goldfarb of Reuters Breakingviews contends.",neutral,0.1683628261089325
+2014-05-14,AT&T Will Struggle to Justify a Deal for DirecTV,neutral,-0.41714510321617126
+2014-05-15,"Cisco’s stock has rebounded to last November’s levels on better-than-expected performance, but the chief executive remains focused on complex, high-performance and expensive architectures of networks.",positive,0.8468329906463623
+2014-05-15,"For Cisco, Higher Stock Price Is Still Chasing Ambition",positive,0.6653326749801636
+2014-05-16,Amazon promotes books from Hachette Books Group while discouraging people from buying them.,neutral,0.04946604743599892
+2014-05-16,"After the retailer’s aggressive stance became public last week, criticism and complaints mounted.",negative,-0.9382801651954651
+2014-05-16,But Amazon seems confident it will get what it wants in the end.,positive,0.7887439131736755
+2014-05-16,Amazon vs. Hachette: When Does Discouragement Become Misrepresentation?,negative,-0.5580765604972839
+2014-05-17,"AT&T is poised to announce a takeover, people briefed on the matter said on Saturday, ushering in another transformation of the telecommunications industry.",positive,0.8009247183799744
+2014-05-17,AT&T Is Said to Be Near a Deal to Buy DirecTV,neutral,0.08307049423456192
+2014-05-18,"Under the terms of the deal, AT&T will pay about $95 a share in stock and cash to acquire the country’s biggest satellite television operator.",neutral,0.19951941072940826
+2014-05-18,AT&T to Buy DirecTV for $48.5 Billion in Move to Expand Clout,positive,0.852520227432251
+2014-05-19,Few industries have been as embroiled in merger mania as the telecommunications industry.,neutral,-0.4358132481575012
+2014-05-19,"Now, with another mega-deal in the works, how will others respond?",neutral,0.040276430547237396
+2014-05-19,Perhaps with even more consolidation.,positive,0.4952809512615204
+2014-05-19,Options for Rivals in Wake of AT&T’s Bid for DirecTV,neutral,0.055470094084739685
+2014-05-20,The Securities and Exchange Commission says James T. Adams was borrowing and losing tens of thousands of dollars at a casino owned by a company he helped to audit while he was a partner at Deloitte.,negative,-0.9096422791481018
+2014-05-20,Deloitte Partner Sanctioned Over Conflict of Interest With Casino Client,negative,-0.9011154174804688
+2014-05-22,A Newsweek report sees a divide between the Securities and Exchange Commission and other market regulators like the New York State attorney general’s office.,neutral,-0.19741474092006683
+2014-05-22,Turf Wars Seen in Response to High-Frequency Trading,negative,-0.5069590210914612
+2014-05-24,Notable quotes from business articles that appeared in The New York Times last week.,neutral,0.01611744984984398
+2014-05-24,"The Chatter for Sunday, May 25",neutral,0.03350645303726196
+2014-05-31,"Nearly three years after the trades flashed some telltale signs of possible insider trading, a case has yet to materialize.",neutral,-0.4175955653190613
+2014-05-31,Authorities Find Insider Trading Case Tied to Phil Mickelson Is Slow to Take Shape,negative,-0.8011171817779541
+2014-06-02,"A federal investigation into possible insider trading has been ongoing for about two years, and experts say that it typically takes more than just the whiff of wrongdoing to scare off a brand.",negative,-0.7889770865440369
+2014-06-02,"For Now, Sponsors Unlikely to Cut Ties With Phil Mickelson",negative,-0.8637329936027527
+2014-06-03,Ford reveals its new Troller T4 S.U.V.,neutral,0.3128708302974701
+2014-06-03,for Brazil; Volkswagen is likely to triple its S.U.V.,positive,0.822233259677887
+2014-06-03,lineup as it pursues global sales dominance.,positive,0.5281491279602051
+2014-06-03,Wheelies: The Trolling for Trails Edition,neutral,0.05636731907725334
+2014-06-04,"A deal, long contemplated, would create a more formidable rival to the two largest wireless phone providers in the United States: Verizon and AT&T.",positive,0.8255618214607239
+2014-06-04,T-Mobile and Sprint Zeroing In on a $32 Billion Merger,neutral,0.00013809651136398315
+2014-06-05,"Matthew L. Wald, a Times business reporter, had three unanswered questions after the release of an internal investigation into General Motors’ ignition switch problems.",negative,-0.6285950541496277
+2014-06-05,Unanswered Questions From G.M.’s Report,neutral,-0.3720267117023468
+2014-06-06,"The three subjects of a recent investigation into insider trading are united by at least one quality: They’re all, to varying degrees, gamblers.",neutral,-0.032175518572330475
+2014-06-06,A Risk-Taker’s Game: Insider Trading,neutral,-0.02099144458770752
+2014-06-07,"Women have a much harder time becoming a chief executive and hold well under 10 percent of such jobs, but those who do earn the same as men.",negative,-0.6247069239616394
+2014-06-07,An Elusive Jackpot,neutral,0.040528155863285065
+2014-06-08,Tom McCoy uses his space well.,neutral,0.03173849731683731
+2014-06-08,T h r e e  S t r i k e s,neutral,0.05567099153995514
+2014-06-09,"G.M.’s lawyers were squarely at the center of the ineptitude for letting problems with the faulty ignition fester for years, Peter J. Henning writes in White Collar Watch.",neutral,-0.3422689735889435
+2014-06-09,How G.M.’s Lawyers Failed in Their Duties,negative,-0.803444504737854
+2014-06-10,"Mary T. Barra, General Motors’ chief executive, spoke at a news conference ahead of the annual shareholders meeting.",neutral,0.04636787250638008
+2014-06-10,G.M.,neutral,0.048085395246744156
+2014-06-10,Chief on Ignition Switch Problems,neutral,0.020723417401313782
+2014-06-11,Mary T. Barra of General Motors will testify next week along with the outsider who led the company’s inquiry into a fatal ignition-switch flaw.,neutral,-0.2238447666168213
+2014-06-11,G.M.,neutral,0.048085395246744156
+2014-06-11,Chief to Appear Before House Panel Once Again,neutral,0.017448067665100098
+2014-06-12,Phil Mickelson did not trade in shares of Clorox as Carl C. Icahn was mounting a takeover bid for the company in 2011.,neutral,-0.04233339801430702
+2014-06-12,"| For Goldman, Alibaba is a symbol of what could have been.",neutral,0.0734073743224144
+2014-06-12,| Goldman and Bain Capital agreed to end a lawsuit involving the “club deal.” | Hillshire’s conundrum.,neutral,-0.17137430608272552
+2014-06-12,Morning Agenda: Mickelson Not Linked to Clorox,neutral,-0.06735733151435852
+2014-06-13,"Eric T. Schneiderman is supporting a bill that will regulate payroll cards, A.T.M.-style cards that some employers are using to pay employees.",neutral,0.26790499687194824
+2014-06-13,New York Attorney General Supports a Bill Regulating Payroll Cards,neutral,0.2703220546245575
+2014-06-16,New York’s attorney general is taking aim at databases that have been criticized for limiting access to banking services.,negative,-0.8001886010169983
+2014-06-16,"Bank Tool Is Expanding Unbanked Households, Regulators Say",positive,0.7436438798904419
+2014-06-17,"The “NanoDegree,” an online collaboration of AT&T and Udacity, may offer a reasonable shot at using the web to democratize higher education.",neutral,0.46742552518844604
+2014-06-17,A Smart Way to Skip College in Pursuit of a Job,neutral,0.11734680086374283
+2014-06-18,"Mary T. Barra, the chief executive of General Motors, returned before a House Energy and Commerce subcommittee and said the implementation of new safety reviews and procedures are underway.",neutral,0.3713429570198059
+2014-06-18,G.M.’s Chief on Staff and Restructuring,neutral,-0.02041398361325264
+2014-06-19,"Since Apple introduced anti-theft technology in September, police in several cities say iPhone thefts have dropped.",negative,-0.9091135859489441
+2014-06-19,"Now, Google and Microsoft are also adding “kill switches.”",neutral,-0.3736618161201477
+2014-06-19,Smartphones Embracing ‘Kill Switches’ as Theft Defense,negative,-0.5074295997619629
+2014-06-20,"Chains like Panera Bread and Chili’s are using apps and tablets to improve food preparation, ordering and payment, and to entertain customers.",neutral,0.07993631809949875
+2014-06-20,"Hi, I’m a Tablet.",neutral,-0.06573835015296936
+2014-06-20,I’ll Be Your Waiter Tonight.,neutral,0.016127368435263634
+2014-06-22,"Executives from AT&T and DirecTV will speak to a House panel on their merger deal, and the Commerce Department will release its final economic growth figures for the wintry first quarter of 2014.",neutral,0.05148579180240631
+2014-06-22,"The Week Ahead: AT&T-DirecTV Hearing, and First-Quarter Growth",neutral,0.25621291995048523
+2014-06-24,The Manhattan district attorney’s office is using the Martin Act in its investigation of the financing of a New Jersey bridge repair.,neutral,-0.021998802199959755
+2014-06-24,"At Heart of Christie Inquiry, a Law Feared on Wall Street",neutral,-0.126343235373497
+2014-06-25,"Eric T. Schneiderman filed civil fraud charges against the British bank, contending that it favored high frequency traders over other investors.",negative,-0.858587920665741
+2014-06-25,Barclays Faces New York Lawsuit Over Dark Pool and High-Frequency Trading,negative,-0.9331529140472412
+2014-06-26,Barclays investors and clients appeared to be spooked on Thursday by a lawsuit accusing the bank of fraud in how it marketed its private stock trading platform.,negative,-0.9291270971298218
+2014-06-26,Brokerage Firms Shun Barclays Trading Pool After Suit; Brief Shutdown Is Reported,negative,-0.9480884671211243
+2014-06-27,The sale comes as AT&T prepares to acquire the satellite operator DirecTV.,neutral,0.07827577739953995
+2014-06-27,AT&T Sells Its Stake in Mexican Telecom América Móvil to Carlos Slim,neutral,0.022662974894046783
+2014-06-30,"The automaker said 8.4 million vehicles worldwide were being recalled, bringing its total for the year to more than 29 million.",negative,-0.3586524724960327
+2014-06-30,"In Recall Blitz, G.M.",neutral,0.03655911982059479
+2014-06-30,Risks Its Reputation,negative,-0.5685662031173706
+2014-07-03,"Also, how to get everything from an iPod, even if you didn’t buy it through the same computer.",neutral,0.02909136936068535
+2014-07-03,Prepaid Mobile Data Plans for International Travel,neutral,-0.035592421889305115
+2014-07-04,"Barclays’ dark pool seems to have catered to high-frequency traders, the very participants it claimed to protect against, a lawsuit contends.",neutral,-0.3156367838382721
+2014-07-04,Barclays Suit Sheds Light on Trading in Shadows,neutral,0.13744136691093445
+2014-07-08,"The new agreement, according to the state’sattorney general’s office, would cap Uber’s surge prices during “abnormal disruptions of the market,” typically citywide emergencies.",positive,0.5872246623039246
+2014-07-08,Uber Reaches Deal With New York on Surge Pricing in Emergencies,positive,0.411349892616272
+2014-07-10,"A merger of Comcast and Time Warner Cable and a joining of AT&T and DirecTV would both pose competitive threats, Dish said.",neutral,-0.35130444169044495
+2014-07-10,Dish Asks F.C.C.,neutral,0.025127651169896126
+2014-07-10,to Block Comcast-Time Warner Cable Merger,negative,-0.7541490793228149
+2014-07-12,Patience was key to the strong performance of three mutual funds in the second quarter.,positive,0.8988088965415955
+2014-07-12,Their managers describe their strategies for finding gains.,neutral,0.03373156115412712
+2014-07-12,"Sticking to Their Guns, Fund Managers Reaped Big Returns",positive,0.5928335189819336
+2014-07-15,A report released by the attorney general said computer hackers were by far the leading cause of data breaches over the last eight years.,negative,-0.8529191613197327
+2014-07-15,"Data Breaches in New York Hit Record High in 2013, State Attorney General Says",positive,0.24801971018314362
+2014-07-16,General Motors will discontinue light-duty Chevrolet Express and GMC Savana vans; Alan Mulally joins Google’s board of directors.,neutral,0.03131631389260292
+2014-07-16,Wheelies: The Heavy Chevy Edition,neutral,0.045317817479372025
+2014-07-17,"As senator after senator offered more criticism of General Motors, Ms. Barra, G.M.’s chief executive, signaled that there were limits to what the company would do.",neutral,-0.12577545642852783
+2014-07-17,At Hearing on G.M.,neutral,0.03295355290174484
+2014-07-17,"Recall, Mary Barra Gives Little Ground",neutral,-0.06942492723464966
+2014-07-18,"Mary T. Barra responded to attacks on G.M.’s general counsel, Michael P. Millikin, in a Senate hearing.",negative,-0.8087095618247986
+2014-07-18,G.M.,neutral,0.048085395246744156
+2014-07-18,Chief Defends Company’s Lawyer,neutral,-0.1100660115480423
+2014-07-21,"Faced with a worrisome loss in negotiating power, lesser players like AMC and Discovery Communications are seeking ways to secure their own relevance.",neutral,0.02365037053823471
+2014-07-21,Smaller Cable Networks Plan Their Survival Under the Feet of Giants,neutral,-0.038091011345386505
+2014-07-22,"With its steady income stream, farmland is proving to be a ripe offering for sophisticated investors.",positive,0.6552352905273438
+2014-07-22,Cash Crops With Dividends: Financiers Transforming Strawberries Into Securities,neutral,0.06361810117959976
+2014-07-23,"The communications giant, in reporting its second-quarter results, said its contract-free plans helped attract many new subscribers.",positive,0.9199529886245728
+2014-07-23,"AT&T Gains Customers, but Its Profit Is Slightly Lower",negative,-0.8558856248855591
+2014-07-25,The Long Beach Model T Club will hold the 60th annual Vintage & Classic Parts Exchange; Sportscar Championship and Nascar to race at Indianapolis.,neutral,0.05127444490790367
+2014-07-25,Weekend Auto Calendar: Old Parts at an Old Show,neutral,-0.04940900579094887
+2014-07-28,"Wall Street firms accused of fraud often use the “sophisticated client” defense, arguing that their customers would not have been misled by slick marketing, Peter J. Henning writes in the White Collar Watch column.",neutral,-0.33479976654052734
+2014-07-28,Whether ‘Sophisticated’ Clients of Wall Street Can Also Get Duped,negative,-0.43654564023017883
+2014-07-29,"The latest regulatory inquires come about a month after New York’s attorney general, Eric T. Schneiderman, sued Barclays over its private stock trading platform, known as a dark pool.",negative,-0.8890751004219055
+2014-07-29,UBS and Deutsche Bank Disclose New Inquiries Over ‘Dark Pools’,neutral,-0.04676345735788345
+2014-07-30,The British bank said that prosecutors in the United States had extended until 2015 the period of a review of the bank’s conduct in the foreign exchange market.,neutral,0.06792117655277252
+2014-07-30,"Barclays Posts a Profit, but Inquiries Loom",negative,-0.9381963610649109
+2014-07-31,"Credit Suisse says it is facing inquiries over its alternative trading systems, after similar disclosures this week from UBS and Deutsche Bank.",negative,-0.8357158899307251
+2014-07-31,Credit Suisse Is Facing Inquiries Over Its ‘Dark Pool’,negative,-0.8400163054466248
+2014-08-06,"After months of stiff resistance, the bank has abruptly offered to pay $16 billion.",positive,0.5472556352615356
+2014-08-06,The turning point came in an unexpected ruling from a federal judge known to be hard on big banks.,positive,0.20709195733070374
+2014-08-06,Bank of America Offers U.S. Biggest Settlement in History Over Toxic Mortgage Loans,positive,0.3657790422439575
+2014-08-07,The start-up is developing subscription-based software that lets companies search for patterns in the troves of data they collect in their regular course of business.,neutral,0.02643064595758915
+2014-08-07,Andreessen Horowitz Invests in ‘Big Data’ Analytics Firm Adatao,neutral,0.04673309251666069
+2014-08-11,"A ruling by a panel of former judges found that Lehman Brothers management, not Ernst & Young, was most responsible for setting in motion a maneuver that let Lehman move billions off its balance sheet.",negative,-0.5316343307495117
+2014-08-11,Arbitrators Ease Blame on Ernst & Young for Audits of Lehman Brothers,negative,-0.9339664578437805
+2014-08-12,"New York prosecutors brought criminal charges against a dozen payday loan companies and their founder, Carey Vaughn Brown, accusing them of flouting the state’s limits on interest rates on loans.",negative,-0.8719807863235474
+2014-08-12,New York Prosecutors Charge Payday Loan Firms With Usury,negative,-0.6887111663818359
+2014-08-13,"A Sanford C. Bernstein analyst said the bank could book provisions related to its private stock market, known as a dark pool, and to an inquiry of currency markets.",neutral,0.09476353228092194
+2014-08-13,"Barclays Could Face $2 Billion More in Litigation Charges, Analyst Says",negative,-0.7260538935661316
+2014-08-14,"Fresh off lower earnings and an announcement of planned layoffs, the networking giant is bringing 20,000 people to Las Vegas.",positive,0.5158214569091797
+2014-08-14,"The plan is to rally the troops to a new kind of big-ticket selling that involves solving business objectives, not just selling switches.",neutral,0.1191532164812088
+2014-08-14,Big Business Trip to Las Vegas for Cisco’s John Chambers,neutral,0.03207318112254143
+2014-08-19,"The personnel moves strengthen Mr. Montag’s position as a potential successor to Brian T. Moynihan, chief executive of the bank.",positive,0.9026314616203308
+2014-08-19,Bank of America Co-Chief Operating Officer Will Become Sole C.O.O.,neutral,0.01226165983825922
+2014-08-21,"The 2015 XC60 T6 Drive-E features the most efficient drivetrain that comes in the model, but sacrifices all-wheel-drive capability.",neutral,0.1045316755771637
+2014-08-21,Video: A Volvo Crossover for Those Who Don’t Need All-Wheel Drive,neutral,0.05403763800859451
+2014-08-23,"Patrick Gottsch, the chairman of the Rural Media Group, has become one of the most vocal critics of Comcast’s proposed $45 billion purchase of Time Warner Cable.",negative,-0.7784950137138367
+2014-08-23,TV Chief Takes 2-by-4 to a Proposed Cable Merger,neutral,-0.081609807908535
+2014-08-26,"AT&T, the No.",neutral,-0.017397381365299225
+2014-08-26,"2 carrier in the United States, said it had given promotions to two major executives, including the chief executive of its wireless business.",positive,0.7147770524024963
+2014-08-26,AT&T Mobility Names a New Chief Executive,neutral,0.02958686277270317
+2014-09-02,New York set to accuse Evans Bank of redlining.,negative,-0.8772337436676025
+2014-09-02,| Dollar General raises bid for Family Dollar.,positive,0.41453421115875244
+2014-09-02,| Public pension funds staying mum on inversions.,negative,-0.6381974816322327
+2014-09-02,| Banks pursuing military customers.,neutral,-0.023522982373833656
+2014-09-02,Morning Agenda: Evans Bank Under Fire,neutral,-0.3670939803123474
+2014-09-04,"The networking giant says its biggest technology achievement so far this year is, surprisingly, in computer servers.",positive,0.8927199244499207
+2014-09-04,"Company executives say high-end servers are really at the center of Cisco, whether or not sales numbers match that assertion.",neutral,0.10637448728084564
+2014-09-04,Cisco Has a Server-Centric Vision for Itself,neutral,0.016500655561685562
+2014-09-08,"Analysts said the drastic cut was inevitable, but wondered if it would help spur sales that have been disappointing so far.",positive,0.647961437702179
+2014-09-08,Amazon Cuts Struggling Phone’s Price to 99 Cents,negative,-0.6871204972267151
+2014-09-15,The state attorney general said Actavis’s plan to stop selling an older tablet in favor of a newer one was an attempt to maintain a monopoly.,neutral,-0.3385055363178253
+2014-09-15,New York Files an Antitrust Suit Against the Maker of an Alzheimer’s Drug,negative,-0.7353626489639282
+2014-09-16,The commission will consider changing a 2010 policy that excluded cellular companies from rules that prevent Internet providers from slowing down or blocking websites and apps.,neutral,0.08098901808261871
+2014-09-16,F.C.C.,neutral,0.030943963676691055
+2014-09-16,Revisits Net Neutrality Exemption for Mobile Broadband,neutral,0.18267822265625
+2014-09-17,"“The Secret to Superhuman Strength” by Ms. Bechdel, a new MacArthur fellow, has been sold to Houghton Mifflin Harcourt, which plans to publish it in 2017.",neutral,0.054475922137498856
+2014-09-17,New ‘Genius Grant’ Winner Alison Bechdel to Write New Graphic Memoir,neutral,0.14756330847740173
+2014-09-22,"The deal with Fullscreen, a digital media company that connects online personalities and brands, is said to be valued about $200 million to $300 million.",neutral,0.08643751591444016
+2014-09-22,Fullscreen Sells Control to Joint Venture Between AT&T and Chernin Group,neutral,0.06340712308883667
+2014-09-26,"Mary Barra, G.M.’s chief executive, lands a Time magazine cover; G.M.",neutral,-0.04602798819541931
+2014-09-26,and Isuzu to collaborate on global midsize pickup.,positive,0.8364599943161011
+2014-09-26,Wheelies: The Barra&apos;s Spotlight Edition,neutral,0.04622993618249893
+2014-09-30,Kyle T. Dolan spins us a puzzle.,neutral,-0.017558380961418152
+2014-09-30,Proctor’s Command,neutral,0.01329522579908371
+2014-10-01,"To offset Mr. Moynihan’s newly increased power, the board also elected Jack Bovender Jr. as the so-called lead independent director.",neutral,0.47593826055526733
+2014-10-01,Bank of America Chief Moynihan to Add Chairman Role,neutral,0.04213404655456543
+2014-10-02,"Opel’s chief says G.M.’s European unit can return to profitability, helped by new models; Andy Palmer takes over at Aston Martin.",positive,0.9187979698181152
+2014-10-02,Wheelies: The Hopeful Opel Edition,neutral,0.0797841027379036
+2014-10-06,"AT&T said on Monday that it had fired an employee who inappropriately gained access earlier this year to sensitive customer information, which may have included Social Security numbers and driver’s license numbers.",negative,-0.9500038623809814
+2014-10-06,AT&T Says It Fired Employee Who Gained Access to Customer Data,negative,-0.9500622153282166
+2014-10-08,"The Federal Trade Commission said some AT&T customers were billed “hundreds of millions of dollars” for unauthorized, third-party charges.",negative,-0.8857467770576477
+2014-10-08,AT&T Mobility to Pay $105 Million to Settle Unlawful Billing Claims,neutral,-0.14823691546916962
+2014-10-13,"The acquisition of the Milestone Aviation Group, for $1.78 billion, is in line with GE Capital’s strategy of focusing on industrial businesses while reducing its overall size by shedding other assets.",positive,0.5879342555999756
+2014-10-13,G.E.,neutral,0.0415060818195343
+2014-10-13,Aircraft Unit Buys Helicopter Leasing Business,neutral,0.008903030306100845
+2014-10-16,A report by Attorney General Eric T. Schneiderman of New York indicates that nearly three-quarters of all Airbnb rentals in New York City were illegal.,negative,-0.9126421213150024
+2014-10-16,"Daily Report: Airbnb Listings Mostly Break the Law, New York State Asserts",neutral,0.04957015439867973
+2014-10-20,"The streaming service, which sells online access to 20 million songs, will let subscribers add up to four accounts at half the usual price.",neutral,0.12592536211013794
+2014-10-20,Spotify Introduces a Family Discount for Music Streaming,neutral,0.38553449511528015
+2014-10-22,Strong customer growth suggests that a price-cutting war in the wireless industry is not eroding AT&T’s business.,positive,0.911448061466217
+2014-10-22,"AT&T Net Drops, but Customers Stay",negative,-0.9436184167861938
+2014-10-23,"Amazon, which announces its quarterly earnings on Thursday, is likely to hit $100 billion a year in revenue next year.",positive,0.8210104703903198
+2014-10-23,But profit seems as elusive as ever.,negative,-0.4687511920928955
+2014-10-23,"Amazon Spends and Grows, but Still Wants for Money",neutral,0.12639549374580383
+2014-10-24,A hedge fund has emerged as perhaps the last hope for two struggling retails.,negative,-0.7149927616119385
+2014-10-24,"| Bankers are jockeying for the next sovereign debt deal in Africa, despite plenty of risks.",neutral,0.27573880553245544
+2014-10-24,| Shareholders decide today whether to approve Chiquita’s plan to acquire an Irish rival.,neutral,0.30654701590538025
+2014-10-24,| Charles T. Munger gives to theoretical physics.,neutral,0.027146115899086
+2014-10-24,Morning Agenda: A Hedge Fund Drawn to Lost Causes,neutral,-0.012602023780345917
+2014-10-28,The Federal Trade Commission said smartphone customers who signed up for an unlimited data plan often found their data speeds reduced if they were in the top 5 percent of users.,negative,-0.9051628708839417
+2014-10-28,AT&T Accused of Deceiving Smartphone Customers With Unlimited Data Plans,negative,-0.8041597604751587
+2014-11-03,"The British bank said that its third-quarter profit rose 7 percent, but it took a charge to cover potential legal costs associated with regulatory investigations.",positive,0.7431588768959045
+2014-11-03,HSBC Hurt by $1.69 Billion in Legal and Other Costs,negative,-0.9526946544647217
+2014-11-04,"The cellular provider uses a unique identifier inserted into its customers’ web page requests to tailor advertising to them, raising concerns by online-privacy watchdogs.",negative,-0.9086184501647949
+2014-11-04,Verizon Wireless Under Fire for Ad-Targeting Program,negative,-0.7161658406257629
+2014-11-07,"For AT&T, the move fit into a strategy that it has articulated for more than two years: diversifying its revenue by moving into foreign markets.",positive,0.7710645198822021
+2014-11-07,AT&T to Buy Mexican Wireless Provider Iusacell for $2.5 Billion,neutral,0.06332727521657944
+2014-11-12,The once-dominant networking equipment manufacturer is battling more well-funded competitors and technology changes that threaten profits.,negative,-0.9235354661941528
+2014-11-12,"Cisco Systems Income Falls, but Quarterly Revenue Sets Record as Pressures Mount",negative,-0.9571332931518555
+2014-11-14,After AT&T’s chairman said the company would pause fiber expansion plans until the F.C.C.,negative,-0.584995448589325
+2014-11-14,"decided how to regulate broadband internet, the agency asked for documentation of what fiber projects would be halted, among other things.",neutral,-0.057879649102687836
+2014-11-14,F.C.C.,neutral,0.030943963676691055
+2014-11-14,Asks AT&T for Details on Plans to Halt Fiber Expansion,neutral,-0.12261220067739487
+2014-11-18,"Wireless power charging has been around for years, but most people do not use it.",neutral,-0.025550642982125282
+2014-11-18,AT&T and Starbucks are teaming up to try to make wireless charging more popular.,positive,0.7508317828178406
+2014-11-18,AT&T and Starbucks Bring Wireless Phone Chargers to Some Coffee Shops,neutral,0.044596970081329346
+2014-11-20,"Ms. Abramson, a former executive editor of The New York Times, and the journalist Steven Brill are said to be in talks with Arianna Huffington.",neutral,-0.003191392868757248
+2014-11-20,Huffington Post Is Said to Be in Talks to Host a Jill Abramson Journalism Start-Up,neutral,0.04777750000357628
+2014-11-21,"The Boomerang Giving project, which helps channel senior discounts to charity, is among innovative ways that older people are finding to practice philanthropy.",neutral,0.20884235203266144
+2014-11-21,Getting a Senior Discount?,neutral,0.09816864132881165
+2014-11-21,Here’s How to Give It Away,neutral,0.0037234537303447723
+2014-11-24,"Citigroup agreed to settle the case with Finra for $15 million without admitting or denying the accusations, which involved interactions between the bank’s research analysts and its clients.",neutral,0.12873974442481995
+2014-11-24,Finra Fines Citigroup Over Acts by Analysts,negative,-0.917336642742157
+2014-12-06,Vertical Capital forbade its marketing chief to reveal that its founder and related brokerage firm were the subject of a securities investigation.,negative,-0.8318730592727661
+2014-12-06,Hedge Fund Kept U.S. Inquiry Quiet,negative,-0.6603031754493713
+2014-12-09,Brian T. Moynihan tells a conference that his bank is expecting trading revenue in the fourth quarter to be down from last quarter and from a year earlier.,negative,-0.9710749387741089
+2014-12-09,Bank of America C.E.O.,neutral,0.03391309082508087
+2014-12-09,Sees Slowdown in Trading,negative,-0.7828888893127441
+2014-12-11,Many feel the American dream may be out of reach.,negative,-0.5108189582824707
+2014-12-11,| Making sense of a year of deals.,neutral,0.19863419234752655
+2014-12-11,| Appeals court deals a setback to the government’s crackdown on insider trading.,negative,-0.923801839351654
+2014-12-11,Morning Agenda: Bleak View of American Dream,negative,-0.8455497026443481
+2014-12-12,New York’s attorney general had accusing Actavis of forcing patients to switch to a newer version of the drug to thwart competition from generic manufacturers.,negative,-0.8939008712768555
+2014-12-12,Judge Rules Drug Maker Can’t Shelve Old Pill,negative,-0.5018686652183533
+2014-12-18,The chief executives of the banks will each have had five years in charge in 2015.,neutral,0.006853177212178707
+2014-12-18,"James Gorman of Morgan Stanley is further ahead in a turnaround, says Antony Currie of Reuters Breakingviews.",positive,0.8220768570899963
+2014-12-18,"Morgan Stanley and Bank of America, Five Years On",neutral,0.002561654895544052
+2014-12-20,"The company is the third major mobile phone carrier, after AT&T and Sprint, to settle with regulators over the practice, known as cramming.",negative,-0.8432899117469788
+2014-12-20,T-Mobile to Pay $90 Million to Settle Claims of Wrongful Phone Charges,negative,-0.8640328645706177
+2014-12-21,"In an effort to move fast, phone apps like Uber, Lyft and Flywheel may be placing a premium on speed and in the process sacrificing safety.",neutral,0.08906953781843185
+2014-12-21,Distracted Driving and the Risks of Ride-Hailing Services Like Uber,neutral,-0.34113243222236633
+2014-12-26,"In an interview, Mr. Lurie shared some of his thoughts about AT&T’s future and the state of the wireless industry and those “supercookies.”",neutral,0.05317579582333565
+2014-12-26,"A Conversation With Glenn Lurie, AT&T Mobility’s New Chief",neutral,0.04582890495657921
+2014-12-27,Even executives at the wireless phone companies say their industry has created a confounding abundance of competing plans.,negative,-0.7774168848991394
+2014-12-27,A Flurry of Varying Cellphone Offers Sows Confusion Among Consumers,negative,-0.4775082767009735
+2014-12-31,"Sony’s new partners will expand digital availability of the film, which will also have a wider theatrical release starting Friday.",positive,0.909452497959137
+2014-12-31,Sony’s ‘The Interview’ Is Set for On-Demand and Wider Online Viewing,neutral,0.04092256352305412
+2015-01-06,The last 12 months saw above-average creativity in saying one thing and meaning another.,neutral,0.19268366694450378
+2015-01-06,John Foley and Rob Cox of Reuters Breakingviews offer 10 euphemisms they would most like to disappear.,neutral,-0.06140083074569702
+2015-01-06,The Year in Market Doublespeak,neutral,-0.05334798991680145
+2015-01-07,AT&T said on Wednesday that customers that have subscribed to its shared data plans would be able to roll over unused data from month to month.,neutral,0.43306392431259155
+2015-01-07,"Following T-Mobile, AT&T Allows Some Customers to Roll Over Unused Data",neutral,0.04246579110622406
+2015-01-08,"“It was a year of great disappointment, but also great progress,” Mary T. Barra said, after a year in which the company issued a record number of recalls in the United States.",positive,0.36737704277038574
+2015-01-08,General Motors Chief Pledges to Move Beyond Recalls,neutral,0.2719084322452545
+2015-01-09,"A company that buys consumer debt is expected to vacate 4,500 court judgments over concerns that its debt collection lawsuits were riddled with errors and fabrications.",negative,-0.9244822859764099
+2015-01-09,Debt Buyer Faces Fine and Loss of Thousands of Court Judgments,negative,-0.9302031397819519
+2015-01-15,"The outstanding totals for every type of consumer loan fell at the bank in 2014, suggesting that lending to consumers remains lukewarm.",negative,-0.9672977328300476
+2015-01-15,"Bank of America’s Profit Falls 11%, Hurt by Consumer Loans and Investment Banking",negative,-0.9694152474403381
+2015-01-21,"Eric T. Schneiderman, the New York State attorney general, claimed that Barclays made a false statement in court documents and that it defied subpoenas seeking the testimony of two executives.",negative,-0.8994709849357605
+2015-01-21,New York Attorney General Adds to Lawsuit Over Barclays Dark Pool,negative,-0.7545773386955261
+2015-01-22,"Top executives, including Robert Smith of Vista Equity Partners and John Chambers of Cisco, say that not only are cyberattacks becoming more common, they are getting tougher to fight.",neutral,-0.4207412302494049
+2015-01-22,Executives in Davos Express Worries Over More Disruptive Cyberattacks,negative,-0.8970506191253662
+2015-01-26,"The deal, if completed, would be the second AT&T acquisition in Mexico since November, when the company bought the big wireless service provider Iusacell for $2.5 billion.",positive,0.6301259994506836
+2015-01-26,AT&T to Buy Nextel Mexico for $1.9 Billion,neutral,0.027846883982419968
+2015-02-02,"“If not a bubble, it’s at least warm in Silicon Valley,” a partner at a venture capital firm tells a Harvard Business School conference.",neutral,0.007692798972129822
+2015-02-02,Silicon Valley Boom Unnerves Some Venture Capitalists,negative,-0.23476210236549377
+2015-02-03,"A 25 percent “small business” discount claimed by Dish Network is helping the pay-TV company add to its unused stockpile and outbid rival operators that badly need capacity, contends Robert Cyran of Reuters Breakingviews.",positive,0.8745296597480774
+2015-02-03,Apparent Discount Mars $41 Billion Spectrum Sale,neutral,0.042010582983493805
+2015-02-04,"The automaker’s workers will receive profit-sharing payouts of up to $9,000 each, after the company opted not to factor in recall costs.",positive,0.34070324897766113
+2015-02-04,"Despite Recalls, G.M.",positive,0.29515141248703003
+2015-02-04,Pays Workers a Big Bonus,neutral,0.05658138543367386
+2015-02-10,Only 23 women lead companies in the Standard & Poor’s 500-stock index.,neutral,-0.01186487264931202
+2015-02-10,Yet at least a quarter of them have fallen into the cross hairs of activist investors.,negative,-0.4492889642715454
+2015-02-10,Do Activist Investors Target Female C.E.O.s?,neutral,-0.10292980074882507
+2015-02-12,Two of the old giants of the technology world showed this week two very different ways of making a transition to a world where computer intelligence is everywhere.,neutral,0.1386347860097885
+2015-02-12,Cisco and Texas Instruments Adapt to a New Tech World,positive,0.6931136846542358
+2015-02-17,"After several acquisitions, the international cable and wireless operator is reported to be a takeover target.",neutral,0.07413326948881149
+2015-02-17,"Liberty Global, Becoming a Big Fish, Risks Attracting the Eye of a Shark",negative,-0.7437666654586792
+2015-02-18,The investigation by the Geneva prosecutor’s office comes amid recent media reports about the HSBC unit’s previous efforts to help wealthy clients seeking to avoid taxes.,neutral,-0.12608112394809723
+2015-02-18,Swiss Prosecutors Search Offices of HSBC Unit,negative,-0.7262166738510132
+2015-02-19,"For Internet customers who opt out of the targeted ads from GigaPower, AT&T’s ultrafast fiber optic network, prices start nearly $30 a month higher.",positive,0.09852626919746399
+2015-02-19,"AT&T’s Offer: Share Your Data for Personalized Ads, or Pay More",neutral,0.00014227814972400665
+2015-02-20,"Less than a year after Snapchat was valued at about $10 billion, the hunt is on for the next proverbial “unicorn,” a nascent business worth $1 billion or more — on paper, at least.",neutral,0.11266064643859863
+2015-02-20,Tech Investors Create a Billion-Dollar-Baby Boom,neutral,0.044376976788043976
+2015-02-23,"Dr. David T. Feinberg will take over the system, which has nine hospitals and 1,200 physicians, in May.",neutral,0.036654964089393616
+2015-02-23,"Geisinger Health System, Known for Innovations, Names UCLA Health President as Chief",neutral,0.02411714941263199
+2015-02-25,The chairman and the chief executive testified before lawmakers about the activities of the bank’s Swiss private bank and regulatory investigations.,neutral,0.023840822279453278
+2015-02-25,"HSBC Executives, With a Lot to Explain, Give It a Shot",neutral,0.061545588076114655
+2015-02-26,"Capital, credit quality and returns will be the immediate priorities for William T. Winters when he takes the reins of the bank.",neutral,0.03486018627882004
+2015-02-26,Shake-Up Answers One Question About Standard Chartered,neutral,-0.011261016130447388
+2015-02-27,"Mark Bertolini, the chief executive of Aetna, is betting that bringing yoga, meditation and higher wages to his employees will be good business.",positive,0.5604749917984009
+2015-02-27,"At Aetna, a C.E.O.’s Management by Mantra",neutral,0.02917194738984108
+2015-03-02,"The chief of Facebook outlined why he thinks Internet.org, a service to provide people in emerging markets with free access to some online applications, would help telecommunications carriers persuade customers to spend more on streaming content to their cellphones.",positive,0.5987183451652527
+2015-03-02,Mark Zuckerberg Goes on Charm Offensive for Internet.org,neutral,-0.40701043605804443
+2015-03-03,Mr. Hemmings turned an auto parts mail-order catalog into the popular magazine Hemmings Motor News.,neutral,0.03315288573503494
+2015-03-03,"Ernie Hemmings, Founder of a Bible of Classic Cars, Dies at 88",neutral,-0.08013328164815903
+2015-03-04,The British bank said it was targeting $1.8 billion in cost cuts over the next three years and was reducing risk in its businesses as part of an overhaul.,positive,0.7932876348495483
+2015-03-04,Standard Chartered Profit Fell 37% in 2014,negative,-0.9683551788330078
+2015-03-06,The Dow dates from a computer-free era when working out the average of 30 stock prices counted as added value.,neutral,0.05124394968152046
+2015-03-06,Including Apple in the index was overdue.,neutral,0.11204999685287476
+2015-03-06,Apple’s Entry Will Help an Antiquated Dow Catch Up,positive,0.8034559488296509
+2015-03-09,Bank executives are accused of incompetence in a hearing on tax evasion.,negative,-0.8888896107673645
+2015-03-09,HSBC Again Comes Under Fire From British Lawmakers,negative,-0.9139609336853027
+2015-03-11,Consumers flooded safety agencies with questions about Lumber Liquidators after “60 Minutes” raised questions about one of the company’s products.,negative,-0.8344690799713135
+2015-03-11,Homeowners Try to Assess Risks From Chemical in Floors,neutral,-0.22275994718074799
+2015-03-16,The British bank added the former leaders of Interpol and the Swift bank messaging network and a former counterterrorism adviser to President George W. Bush.,neutral,0.012167561799287796
+2015-03-16,Standard Chartered Names 3 Advisers to Financial Crime Panel,neutral,-0.01218530721962452
+2015-03-18,T-Mobile is going after a new growth avenue — business customers — with simpler phone plans.,positive,0.8162262439727783
+2015-03-18,T-Mobile Aims to Make Phone Plans Easier for Businesses,neutral,0.4338047504425049
+2015-03-19,The bank had assured clients they would get currency trades at the best possible price.,positive,0.6715019941329956
+2015-03-19,"The opposite was, in fact, true.",neutral,0.09365414828062057
+2015-03-19,Bank of New York Mellon Will Settle Currency Trade Case for $714 Million,neutral,0.06684514135122299
+2015-03-22,"Drawn by fast-growing private tech companies, big money managers are purchasing their shares, betting that they’ll go public.",neutral,0.43478691577911377
+2015-03-22,But that outcome is hardly guaranteed.,neutral,-0.0036230087280273438
+2015-03-22,Americans’ Retirement Funds Increasingly Contain Tech Start-Up Stocks,neutral,-0.11310665309429169
+2015-03-23,"Fidelity Investments, T. Rowe Price and BlackRock are some of the money managers that have struck deals to acquire shares in Silicon Valley start-ups like Uber, Airbnb and Pinterest.",neutral,0.21479512751102448
+2015-03-23,Daily Report: Private Tech Stocks Attracting Billions From Big Money Managers,positive,0.6587933301925659
+2015-03-26,"Brian T. Moynihan, the bank’s chief executive, was paid $13 million, slightly less than the pay of the firm’s investment bank head, Thomas K. Montag.",negative,-0.8086749315261841
+2015-03-26,Bank of America Chief Executive Took 7% Pay Cut in 2014,negative,-0.896020233631134
+2015-04-01,"Viswanathan Shankar, head of the bank’s Europe, Middle East, Africa and Americas business, was said to be planning to start a private equity fund.",neutral,0.031105907633900642
+2015-04-01,More Management Changes at Standard Chartered Amid Overhaul at British Bank,neutral,-0.10074584186077118
+2015-04-08,Customer service employees at AT&T call centers sold customers’ personal information to third parties over a six-month period ending last April.,neutral,-0.06566940993070602
+2015-04-08,F.C.C.,neutral,0.030943963676691055
+2015-04-08,Fines AT&T $25 Million for Privacy Breach,negative,-0.8617364764213562
+2015-04-09,The British bank was placed under formal investigation by French magistrates examining whether its Swiss unit helped wealthy clients avoid taxes.,negative,-0.8946223258972168
+2015-04-09,HSBC Facing Criminal Investigation in French Tax Case,negative,-0.8045972585678101
+2015-04-10,"An analysis of recent company reports, however, finds that the widest gap exists between the chief executives and workers of Disney, Oracle, Qualcomm and Starbucks.",negative,-0.7619733810424805
+2015-04-10,"Despite Federal Regulation, C.E.O.-Worker Pay Gap Data Remains Hidden",negative,-0.9366810917854309
+2015-04-11,A vanilla portfolio that balances stocks and bonds can yield solid returns that buffer against market volatility.,positive,0.7982236742973328
+2015-04-11, The Value of a Classic in a Turbocharged World,neutral,0.06406304985284805
+2015-04-13,The New York attorney general’s office is investigating 13 large retailers over whether increasingly unpredictable and on-call work schedules violate the state’s labor laws.,negative,-0.9144148230552673
+2015-04-13,Retailers Scrutinized for Schedules and Staffing,neutral,-0.4380682110786438
+2015-04-15,The $10 million settlement resolves claims that Ernst helped Lehman engineer an accounting fraud in the months before its 2008 bankruptcy filing.,neutral,-0.011215105652809143
+2015-04-15,Ernst & Young in Settlement Over Lehman Brothers,negative,-0.7392181158065796
+2015-04-20,"Prosecutions for conduct related to the financial crisis produced no real finding of wrongdoing, but they may have refocused the government.",negative,-0.836264431476593
+2015-04-20,Financial Crisis Cases Sputter to an End,negative,-0.4532707929611206
+2015-04-21,"This proxy season, companies are resisting the pressure from shareholder activists instead of giving in quickly to their demands.",negative,-0.5434845685958862
+2015-04-21,The Boardroom Strikes Back,negative,-0.7168681621551514
+2015-04-22,"Comcast’s record of compliance is now in the spotlight as regulators, and senators like Al Franken, scrutinize its proposed takeover of Time Warner Cable.",neutral,-0.11103701591491699
+2015-04-22,Comcast’s Track Record in Past Deals May Be Hitch for Merger With Time Warner Cable,neutral,0.042842619121074677
+2015-04-24,The hefty pay package reflected strong sales and was less than that of chief executives at rival domestic automakers.,negative,-0.7144644856452942
+2015-04-24,G.M.,neutral,0.048085395246744156
+2015-04-24,"Paid Mary Barra $16.2 Million in 2014, Despite Recalls",neutral,0.01839413121342659
+2015-04-28,"The drop comes as the bank prepares this year to replace its chief executive with William T. Winters, the former head of JPMorgan Chase’s investment bank.",negative,-0.9497393369674683
+2015-04-28,Standard Chartered Profit Declined 22 Percent in First Quarter,negative,-0.9704291820526123
+2015-05-04,Mr.,neutral,0.04346195608377457
+2015-05-04,"Chambers, one of the longest-serving chiefs of a public Silicon Valley company, will step down on July 26.",neutral,-0.028351109474897385
+2015-05-04,John Chambers Steps Aside at Cisco as Generational Shift Arrives,negative,-0.6493231058120728
+2015-05-05,"The bank’s long-term fortunes rest on decisions about its shape, head office location and British business.",neutral,0.030736111104488373
+2015-05-05,None will be resolved soon.,neutral,-0.004612812772393227
+2015-05-05,Big Questions Hover Over HSBC,neutral,-0.21572017669677734
+2015-05-06,The AT&T-DirecTV deal has largely avoided scrutiny while a proposed Comcast-Time Warner merger was in the works.,neutral,-0.015385396778583527
+2015-05-06,Until now.,neutral,0.023659154772758484
+2015-05-06,"Now, Spotlight Turns to AT&T-DirecTV Deal",neutral,0.0923895612359047
+2015-05-12,Verizon agreed to pay $90 million and Sprint $68 million to settle F.C.C.,neutral,0.08514025807380676
+2015-05-12,investigations into millions of dollars of unauthorized charges that appeared on customers’ cellphone bills.,negative,-0.6149664521217346
+2015-05-12,Verizon Wireless and Sprint to Pay $158 Million to Settle Billing Investigations,neutral,-0.21757405996322632
+2015-05-13,"Profit for Cisco Systems, the networking equipment giant, rose 12 percent, to $2.4 billion, in its fiscal third quarter.",positive,0.9260661602020264
+2015-05-13,Cisco’s Profit and Sales Beat Wall Street Forecasts,positive,0.8383688926696777
+2015-05-16,"Four chief executives at five companies with ties to John C. Malone, who built a cable and communications empire, were awarded more than $350 million last year.",neutral,0.2534981369972229
+2015-05-16,"For the Highest-Paid C.E.O.s, the Party Goes On",neutral,0.04110408201813698
+2015-05-19,"A network of people controlled the “sham charities” and used a chunk of the more than $187 million in donations on personal expenses, regulators said.",neutral,-0.04308975487947464
+2015-05-19,4 Cancer Charities Are Accused of Fraud,negative,-0.525366485118866
+2015-05-22,"On Friday, the California State Assembly passed a bill that could become the strictest ban in the United States on the particles, which can carry pollutants into the food chain.",neutral,0.23685914278030396
+2015-05-22,Fighting Pollution From Microbeads Used in Soaps and Creams,neutral,0.04607204347848892
+2015-05-23,"Sergio Marchionne, chief executive of Fiat Chrysler, has an ambitious plan to save the auto industry.",neutral,0.09257866442203522
+2015-05-23,And he can’t seem to sell it.,negative,-0.4951239824295044
+2015-05-23,Detroit’s Chief Instigator,neutral,-0.10439980030059814
+2015-05-27,Sergio Marchionne argues that mergers would increase shareholder returns.,positive,0.888844907283783
+2015-05-27,But he hurts his case by playing down the scale of potential cost cuts.,negative,-0.8705492615699768
+2015-05-27,Fiat Boss Too Cautious on Case for Industry Consolidation,negative,-0.6946343779563904
+2015-05-29,"The prolific author is starting his own imprint, Jimmy Patterson, to publish middle grade and young adult fiction.",neutral,0.03860427811741829
+2015-05-29,James Patterson Is Starting Imprint for Children’s Books,neutral,0.04679856821894646
+2015-06-01,"The chief financial officer, Arthur Minson Jr., will become president and chief operating officer of the WeWork office space-sharing company.",neutral,0.04552994668483734
+2015-06-01,Time Warner Cable C.F.O.,neutral,0.0327896811068058
+2015-06-01,Leaves Company,neutral,-0.03066428005695343
+2015-06-02,"Lawmakers at a Senate hearing did not dispute the benefits of broadband, but said the current Lifeline program for poor Americans had been mismanaged.",negative,-0.8114500641822815
+2015-06-02,Republicans Resist F.C.C.,negative,-0.709054172039032
+2015-06-02,Proposal for Lifeline Broadband Subsidies,neutral,0.03787345811724663
+2015-06-04,"T-Mobile is angling for more low-frequency airwaves, while Dish Networks has amassed mid-spectrum airwaves, until recently thought to be much less valuable.",neutral,0.03131401911377907
+2015-06-04,Questions on Spectrum Animate T-Mobile-Dish Merger Talks,neutral,-0.010026723146438599
+2015-06-05,The National Highway Traffic Safety Administration identified a series of failings that allowed millions of small cars to go unfixed for more than a decade.,negative,-0.8793651461601257
+2015-06-05,Safety Agency Admits Missing Clues to G.M.,negative,-0.7085923552513123
+2015-06-05,Ignition Defects,neutral,0.047815971076488495
+2015-06-09,"A response to the antitrust probe came from the Universal Music Group, whose lawyers sent a letter to the attorneys general stating, in so many words, nothing to see here.",neutral,0.09376761317253113
+2015-06-09,A Letter From Universal’s Attorneys,neutral,0.0621342733502388
+2015-06-11,"New York law enforcement officials wrote the companies’ general counsels this week that the new policy, allowing phone calls for polls or marketing, “raises issues” under consumer protection laws.",negative,-0.6152209043502808
+2015-06-11,"EBay and PayPal Revise Their User Agreements, and Hit a Nerve",negative,-0.5837835073471069
+2015-06-17,The commission said the wireless carrier misled consumers with unlimited data plans when it slowed their service after they had used a certain amount of data.,negative,-0.920414924621582
+2015-06-17,F.C.C.,neutral,0.030943963676691055
+2015-06-17,to Fine AT&T for Slowing Data Speeds of Some Customers,negative,-0.8793272376060486
+2015-06-18,"In a report about data privacy published by the Electronic Frontier Foundation this week, tech companies like Yahoo, Apple and Adobe earned top marks, while WhatsApp and AT&T came in last.",positive,0.6371443867683411
+2015-06-18,"In Report on Data Collection Practices, WhatsApp and AT&T Fail the Test",negative,-0.7526485919952393
+2015-06-20,Kyle T. Dolan fools me in a game I call “Guess the Seed Entry.”,neutral,-0.2645075023174286
+2015-06-20,A Flavorful Crust,neutral,0.08326717466115952
+2015-06-23,"All the deal-making in the health care industry is largely the result of the Affordable Care Act, which in effect caps hospitals’ and insurers’ profits.",neutral,0.02407311648130417
+2015-06-23,Health Care Law Spurs Merger Talks for Insurers,neutral,0.16159245371818542
+2015-06-24,"Two retailers in Manhattan and two online retailers were found to have sold the product, used for e-cigarettes, in packaging that was not child-resistant.",negative,-0.8793777823448181
+2015-06-24,Attorney General Faults Liquid Nicotine Retailers for Improper Packaging,negative,-0.8320412635803223
+2015-06-26,"Tom Wheeler, head of the Federal Communications Commission, says the agency is already doing enough to increase competition among wireless companies.",positive,0.9010744094848633
+2015-06-26,F.C.C.,neutral,0.030943963676691055
+2015-06-26,Chairman Sees No Need to Set Aside More Airwaves for Smaller Cell Carriers,neutral,0.05821610242128372
+2015-07-03,The merger could be the first in a series of deals as the health insurance industry grapples with rising medical costs and seeks scale to achieve better pricing power.,positive,0.7510965466499329
+2015-07-03,Aetna Agrees to Acquire Humana for $37 Billion in Cash and Stock,neutral,0.431790828704834
+2015-07-14,Conditions have improved since American carmakers negotiated their existing contract with the United Auto Workers union four years ago.,positive,0.9174923896789551
+2015-07-14,G.M.,neutral,0.048085395246744156
+2015-07-14,Is First of Big 3 to Open Contract Talks With the U.A.W.,positive,0.5711929798126221
+2015-07-15,"Return on equity remains subpar; without some one-time extras, the bank’s core earnings would need to rise almost 40 percent to exceed its cost of capital.",positive,0.7204656600952148
+2015-07-15,"Strong Earnings for Bank of America, but Tough Task Ahead",positive,0.23589128255844116
+2015-07-20,"Both William Winters and Tidjane Thiam are capable executives, but their experiences seem uncannily to better suit the other’s job.",neutral,0.05309126898646355
+2015-07-20,Different Roads for Two New Bank Chiefs,neutral,0.023148931562900543
+2015-07-21,"A Delaware judge’s ruling, in a case challenging a management-led buyout, illustrates the convoluted system of stock ownership in the United States.",negative,-0.5877551436424255
+2015-07-21,Funds Challenging Dell Bid Find Shares Aren’t Really Theirs,neutral,-0.26812806725502014
+2015-07-22,The proposed approval order outlines conditions that would benefit consumers by increasing competition in the broadband market.,positive,0.7750347852706909
+2015-07-22,AT&T’s Bid for DirecTV Advances With Conditional Approval Order by F.C.C.,positive,0.6989232897758484
+2015-07-22,Chief,neutral,0.031997859477996826
+2015-07-23,The Syngenta chief executive told CNBC Europe on Thursday that Monsanto’s proposal was “woefully short” of addressing its concerns.,negative,-0.9080072641372681
+2015-07-23,Monsanto Presses Case for Merger as Syngenta Reports Results,neutral,0.08677920699119568
+2015-07-24,The $48.5 billion deal will create the nation’s largest television distributor.,positive,0.8296229839324951
+2015-07-24,F.C.C.,neutral,0.030943963676691055
+2015-07-24,Approves AT&T-DirecTV Deal,positive,0.46940186619758606
+2015-07-27,"It’s set to be another busy week in technology news, with Twitter and Facebook reporting earnings, but before then, read stories about how algorithms determine if you will pay back a loan or stay in a job and how native advertising is supporting the podcast boom.",neutral,0.3199195861816406
+2015-07-27,Daily Report: How Algorithms Determine Our Character,neutral,0.002840472385287285
+2015-07-28,"The departure of Bank of America’s chief financial officer stunned analysts, and raised new questions about the ability of the bank’s chief executive, Brian T. Moynihan, to keep it moving forward.",negative,-0.8546704053878784
+2015-07-28,Bank of America’s Chief is the Captain of a Ship Becalmed,neutral,-0.07840234041213989
+2015-08-03,The British lender announced plans in June to shed jobs and sell underperforming businesses as it seeks to cut $5 billion in annual costs by 2017.,negative,-0.9352999925613403
+2015-08-03,HSBC Profit Falls 4% in Second Quarter as Bank Retrenches,negative,-0.9646048545837402
+2015-08-05,"The lower numbers came after William T. Winters, the former head of JPMorgan Chase’s investment bank, was brought in as chief executive.",negative,-0.9312015175819397
+2015-08-05,Standard Chartered Profit Fell 37% in First Half,negative,-0.9683836102485657
+2015-08-07,The retailer had been one of 13 investigated by the New York State attorney general’s office over the practice of unpredictable scheduling and staffing.,negative,-0.9005259275436401
+2015-08-07,Abercrombie & Fitch to End On-Call Shifts for Workers,negative,-0.6307087540626526
+2015-08-08,"The Securities and Exchange Commission continues to adapt its regulatory role, pushing ahead with insider trading cases and one involving cybersecurity.",positive,0.715131938457489
+2015-08-08,"On the Defensive, the S.E.C.",neutral,-0.24323321878910065
+2015-08-08,Quietly Pursues High-Profile Cases,neutral,0.019820023328065872
+2015-08-10,Companies without deep pockets and connections are coming up with roundabout ways to get a piece of the action.,neutral,-0.04846217483282089
+2015-08-10,Investors Find Ways to Indirectly Profit From Valuable Start-Ups,positive,0.5117912888526917
+2015-08-11,"The restructuring could fund world-changing research, but only so long as the underlying business remains a cash cow.",neutral,0.1946958601474762
+2015-08-11,"Is the New Google More Like Berkshire Hathaway, General Electric or AT&T?",neutral,0.022721290588378906
+2015-08-14,"AT&T’s chief of mobile, Glenn Lurie, discusses easy-to-understand phone plans and the company’s acquisition of DirecTV.",neutral,0.036508798599243164
+2015-08-14,"A Conversation With Glenn Lurie, Chief of AT&T Mobility",neutral,0.026298150420188904
+2015-08-18,"While the Galaxy Note 5 and Galaxy S6 Edge Plus are much the same, one is made for drawing and note-taking, while the other emphasizes multimedia.",neutral,0.028620848432183266
+2015-08-18,Samsung’s New Big-Screen Phones Differ in the Little Things,neutral,-0.014096513390541077
+2015-08-26,The $47 billion merger required aggressive assumptions and carried risks.,neutral,0.29770639538764954
+2015-08-26,Syngenta’s management now needs to prove its reluctance to a deal was worth it.,positive,0.6977923512458801
+2015-08-26,Questions for Syngenta as Monsanto Walks Away,neutral,-0.22693762183189392
+2015-08-28,"With help from accommodating employers, many would-be retirees are electing to “phase” themselves out of the work force with gradual departures.",neutral,-0.35693925619125366
+2015-08-28,"Facing Retirement, but Easing Your Way Out the Door",neutral,0.0414542630314827
+2015-09-02,The end of the two-year contract has spawned something perhaps more nefarious — endlessly bewildering options.,negative,-0.5727860927581787
+2015-09-02,We waded through them and found the best bets.,neutral,0.08188807219266891
+2015-09-02,Choosing the Best Smartphone Plan for You,neutral,0.09435947984457016
+2015-09-03,"Last month, Monsanto abandoned its pursuit of Syngenta, a Swiss agricultural and chemical giant, which rejected repeated takeover bids.",neutral,-0.09018422663211823
+2015-09-03,Syngenta to Sell Vegetable Seed Business and Buy Back Shares,neutral,0.015096742659807205
+2015-09-05,Both big public pension funds and influential advisory firms are recommending that shareholders vote against a board proposal that would let Brian Moynihan keep the title of chairman.,negative,-0.6185204982757568
+2015-09-05,Bank of America Board Under Fire for Combining Chairman and Chief Jobs,negative,-0.8637765645980835
+2015-09-11,"Evans Bancorp reached an $825,000 settlement with Attorney General Eric T. Schneiderman of New York after it was accused by the state of discriminatory lending practices.",negative,-0.7503966093063354
+2015-09-11,Evans Bank Settles New York ‘Redlining’ Lawsuit,negative,-0.4416867196559906
+2015-09-15,"Hotel projects have drawn financial support from cities seeking increased convention business, but this support has sometimes become contentious.",neutral,0.09873469173908234
+2015-09-15,"Looking for Conventions, Cities Add Hotel Rooms",neutral,0.039450377225875854
+2015-09-16,"Mr. Levy, who was one of Eric T. Schneiderman’s first hires, is returning to the litigation firm Boies, Schiller & Flexner.",neutral,0.018083320930600166
+2015-09-16,"Harlan Levy, Schneiderman Deputy, Is Leaving Attorney General’s Office",neutral,-0.18948471546173096
+2015-09-17,Bank of America shareholders will vote on Tuesday on whether Brian T. Moynihan can retain his role as both chairman and C.E.O.,neutral,0.03425496444106102
+2015-09-17,Bank of America’s Fight to Keep Brian Moynihan’s Dual Roles,neutral,-0.10403244197368622
+2015-09-18,A decision on separating top roles at the bank is less about who is chairman and more about how shareholders’ decisions are valued.,neutral,0.007367657497525215
+2015-09-18,"At Bank of America, a Vote to Give Shareholders Due Respect",neutral,0.07346457988023758
+2015-09-19,Many of the most profound leadership gestures made by the former president of Market Basket were made far from the spotlight.,neutral,0.126845583319664
+2015-09-19,Customers and Employees Save Chief’s Job at Family-Owned Market,negative,-0.714027464389801
+2015-09-22,"We asked readers to send us questions about Apple’s newest smartphones, the iPhone 6s and 6s Plus, which go on sale Friday.",neutral,0.06492698192596436
+2015-09-22,Here are some answers.,neutral,0.02142331749200821
+2015-09-22,"Siri, Apple Music and Other iPhone Questions",neutral,0.004835827276110649
+2015-09-25,Lump sums of money too often prove ruinous for lottery winners.,negative,-0.724757194519043
+2015-09-25,"Do recipients of the MacArthur Foundation fellowship, and the $625,000 that comes with it, fare better?",positive,0.423503577709198
+2015-09-25,How MacArthur Geniuses Handle Their Money Windfalls,neutral,0.026371996849775314
+2015-09-29,"The fight over whether splitting the jobs of chairman and chief executive at Bank of America was good corporate governance or bad came down to a battle of opinions, not facts.",negative,-0.6841462850570679
+2015-09-29,A Lack of Consensus on Corporate Governance,negative,-0.7455768585205078
+2015-09-30,"The fast-food chain, known for its simple chicken sandwich and its conservative Christian values, is opening its first full-service store in New York.",neutral,0.4338066577911377
+2015-09-30,"Chick-fil-A Brings Its Sandwich, and Its Values, to New York",neutral,0.38702264428138733
+2015-10-05,"Charles Robbins, who has kept a low profile since he became chief executive of Cisco in July, has a vision for the company with a lot more artificial intelligence and new business models.",neutral,0.0475272610783577
+2015-10-05,Cisco’s New C.E.O.,neutral,0.04033181071281433
+2015-10-05,Envisions Big Changes,neutral,0.048115380108356476
+2015-10-06,"Eric T. Schneiderman is investigating Lone Star Funds-owned Caliber Home Loans, which has grown explosively in recent years but also drawn criticism.",neutral,-0.4231267273426056
+2015-10-06,New York Attorney General Examining Private Equity Firm’s Mortgage Business,neutral,-0.18416063487529755
+2015-10-09,The reduction in management is part of a plan announced in July to streamline businesses and cut costs by $1.8 billion by the end of 2017.,negative,-0.25176388025283813
+2015-10-09,Standard Chartered to Cut Senior Staff by 25 Percent,negative,-0.9486586451530457
+2015-10-13,"Eric T. Schneiderman has begun an inquiry into whether Turing Pharmaceuticals violated antitrust rules by restricting distribution of a drug, Daraprim, as a way to thwart generic competition.",negative,-0.9038424491882324
+2015-10-13,New York Attorney General Examining Whether Turing Restricted Drug Access,negative,-0.5104760527610779
+2015-10-14,"But revenue declined from a year ago, as the bank struggled with volatile interest rates and choppy trading markets.",negative,-0.9707216620445251
+2015-10-14,Bank of America Swings to 3rd-Quarter Profit,negative,-0.6964297890663147
+2015-10-15,"Cutting costs and eliminating huge legal bills have helped the bank, but its rivals are ahead on efficiency, among other areas.",positive,0.9021619558334351
+2015-10-15,Bank of America’s Hunt for Growth,neutral,0.0694541186094284
+2015-10-16,"The billionaire oilman made his fortune in the 1980s as a buyout artist and raider, jostling the industry when he set his sights on companies like Gulf Oil and Unocal.",neutral,0.031141314655542374
+2015-10-16,"T. Boone Pickens, Texas Corporate Raider",neutral,-0.03222661465406418
+2015-10-26,"The Asia-focused bank based in London plans to exit its equity derivatives and convertible bonds businesses, the latest move in its turnaround efforts.",neutral,-0.375345915555954
+2015-10-26,Standard Chartered to Wind Down 2 More Businesses in Overhaul,negative,-0.5564610362052917
+2015-10-27,"The deal led by the Canada Pension Plan Investment Board and funds advised by BC Partners would be part of a takeover by Altice, a European telecommunications company.",neutral,0.044072505086660385
+2015-10-27,Consortium Plans to Buy 30% Stake in Cablevision for $1 Billion,neutral,0.05615744739770889
+2015-10-28,"He will replace Antony Jenkins, who was ousted this summer after directors lost confidence in his ability to improve returns at the British bank.",negative,-0.3184288740158081
+2015-10-28,"James Staley, Ex-JPMorgan Banker, Named C.E.O.",neutral,-0.0024184975773096085
+2015-10-28,of Barclays,neutral,0.027921833097934723
+2015-10-29,While some stores have announced they’ll stay closed Thanksgiving Day — and REI even on Black Friday — the season is too critical for large retailers not to match their rivals’ hours.,negative,-0.9132590293884277
+2015-10-29,"Thanksgiving Sales, for Big-Box Retailers, Are Not a Choice",neutral,-0.06130199879407883
+2015-10-31,Some of America’s biggest private foundations are focusing on major issues like climate change and income inequality with an eye toward rapid results.,neutral,0.06901779770851135
+2015-10-31,"Major Foundations, Eager for Big Change, Aim High",neutral,0.06560303270816803
+2015-11-02,The British bank said its quarterly results had benefited from lower legal and regulatory costs and gains related to the value of its own debt.,positive,0.9336772561073303
+2015-11-02,HSBC Profit Rises on Lower Costs and Gains at Investment Bank,positive,0.685981273651123
+2015-11-03,The Asia-focused bank based in London plans to accelerate its cost cutting as its new chief aims for a turnaround.,positive,0.8084063529968262
+2015-11-03,"Standard Chartered Bank to Raise $5.1 Billion and Cut 15,000 Jobs",negative,-0.9124265909194946
+2015-11-05,The sweeping inquiry focuses on whether the oil company lied to the public and investors over the risks of climate change.,negative,-0.7387484312057495
+2015-11-05,Exxon Mobil Investigated for Possible Climate Change Lies by New York Attorney General,negative,-0.5756849050521851
+2015-11-07,"The tobacco industry largely hid evidence of the addictiveness of tobacco, while Exxon published peer-reviewed climate change research even as it raised doubts on the underlying science.",neutral,-0.19138018786907196
+2015-11-07,Exxon Inquiry Both Mirrors and Contrasts With Tobacco Industry Case,neutral,0.06236632168292999
+2015-11-08,The coal giant’s concessions came in response to a two-year investigation by the New York attorney general.,neutral,0.162044957280159
+2015-11-08,Peabody Energy Agrees to Greater Disclosures of Financial Risks,positive,0.5373269319534302
+2015-11-10,"Neel Kashkari is the third new president of a regional reserve bank named this year, and all three previously worked at Goldman Sachs.",neutral,0.04569724202156067
+2015-11-10,"Neel Kashkari, Ex-Treasury Official, Named Minneapolis Fed President",neutral,-0.011371534317731857
+2015-11-18,Bon-Ton put an employee threatened by her husband on leave.,negative,-0.9271062612533569
+2015-11-18,"In a settlement, it agreed to change its policy to allow such employees to stay on the job.",neutral,0.20051994919776917
+2015-11-18,Settlement in New York Domestic Violence Case May Set Broader Precedent,neutral,-0.16278250515460968
+2015-11-19,"Yahoo, one of the leading sites for sports fans, has found success with its streams of N.F.L.",positive,0.7988461852073669
+2015-11-19,"games, but its push into fantasy sports has drawn scrutiny from regulators.",negative,-0.7113450169563293
+2015-11-19,Fantasy Sports Inquiry Puts Spotlight on a Success for Yahoo,positive,0.6401526927947998
+2015-11-21,"Lego has made new products based on its interlocking bricks, and its creations have been featured in animated films.",neutral,0.12653158605098724
+2015-11-21,Its success has encouraged competition.,positive,0.8274859189987183
+2015-11-21,Lego’s Success Leads to Competitors and Spinoffs,neutral,0.3531906306743622
+2015-11-23,"Eric Schneiderman, the state attorney general, is investigating manipulative tactics in the trading of emerging market currencies.",negative,-0.6608665585517883
+2015-11-23,New York Opens Inquiry Into Electronic Trade ‘Spoofing’,neutral,-0.018052779138088226
+2015-12-01,The central bank said the two lenders would not be required to raise capital despite failing to meet certain thresholds.,neutral,0.1353195756673813
+2015-12-01,Bank of England Singles Out R.B.S.,neutral,0.04080092906951904
+2015-12-01,and Standard Chartered in Tests,neutral,0.023149581626057625
+2015-12-03,"At an event in San Francisco, entrepreneurs pitched their ideas for Toyota’s three-wheeled i-Road.",neutral,0.2563154995441437
+2015-12-03,Toyota Asks for Ideas About How to Use an Ultrasmall Vehicle,neutral,0.06321544200181961
+2015-12-09,The attorney general sent letters to StubHub and other resale sites regarding high-priced listings of concert tickets even before they go on sale.,neutral,0.05082527920603752
+2015-12-09,New York Looks Into ‘Speculative’ Ticket Resellers,neutral,0.04788510501384735
+2015-12-10,The approval will allow the bank to continue paying its 20 cent annual dividend and buy back $4 billion in shares.,positive,0.7237905263900757
+2015-12-10,Bank of America Gets Fed’s Approval of Resubmitted Capital Plan,positive,0.6378792524337769
+2015-12-16,Most smartphone plans either charge for overages or constrict data flow when limits are reached.,neutral,-0.2509661018848419
+2015-12-16,So knowing how much one is consuming is crucial.,neutral,-0.00106009840965271
+2015-12-16,"How to Track Data Use, and Choose the Right Smartphone Plan",neutral,0.0257667638361454
+2015-12-17,"Simon Cooper will join Standard Chartered in April and serve as chief executive of the corporate and institutional banking unit, its largest business.",neutral,0.03211301565170288
+2015-12-17,Standard Chartered Hires HSBC Veteran to Run Corporate Bank,neutral,0.02178908884525299
+2015-12-18,"The Federal Communications Commission said it was exploring whether new video streaming services from Comcast, T-Mobile USA and and AT&T violate net neutrality rules.",neutral,-0.4151368737220764
+2015-12-18,F.C.C.,neutral,0.030943963676691055
+2015-12-18,"Asks Comcast, AT&T and T-Mobile About ‘Zero-Rating’ Services",neutral,0.02433004043996334
+2015-12-21,"Lars Thunell, a director since 2012, will step down at the end of January and David Philbrick Conner will join as a director at the beginning of the year, the bank said.",neutral,-0.034503065049648285
+2015-12-21,Standard Chartered Announces Additional Changes to Board,neutral,0.03999892249703407
+2015-12-23,Regulators ordered Facebook’s Indian partner to stop offering a free package of Internet services while it considers rules to govern all such programs.,negative,-0.8728905916213989
+2015-12-23,It is the latest setback in India for Mark Zuckerberg’s Internet.org project.,negative,-0.9507865905761719
+2015-12-23,Indian Regulators Suspend Facebook’s Free Basic Services,negative,-0.8972446918487549
+2015-12-28,Developments in white-collar cases made this one of the more fascinating areas of the law.,neutral,0.06876950711011887
+2015-12-28,Here are a few to watch play out in the coming year.,neutral,0.024903476238250732
+2015-12-28,"Shkreli, Volkswagen and Other Stars in White-Collar Crime",neutral,0.03526998683810234
+2016-01-05,The return of Jim Holland.,neutral,0.09527874737977982
+2016-01-05,Treacherous Peak in the Alps,neutral,-0.10424132645130157
+2016-01-07,General Motors and several other car companies are focusing on electric vehicles at the International CES consumer trade show in Las Vegas.,neutral,0.08235269784927368
+2016-01-07,Carmakers Forge Ahead With Electric Vehicles,neutral,0.2271639108657837
+2016-01-19,But the bank’s fourth-quarter results were muted somewhat by the impact of dropping oil prices.,negative,-0.9622150659561157
+2016-01-19,Bank of America’s Profit Tops Expectations,positive,0.830604076385498
+2016-01-21,"Ms. Vullo was nominated to lead the Department of Financial Services, which was created in 2011 to oversee Wall Street after the financial crisis.",neutral,0.05776994675397873
+2016-01-21,Cuomo Picks Maria Vullo as State’s Top Financial Watchdog,neutral,-0.009158279746770859
+2016-01-25,"The firm has hired Kenneth T. Berliner, a retail specialist who was most recently the president of Peter J. Solomon Company.",neutral,0.08007808029651642
+2016-01-25,Centerview Partners Hires Top Deal Maker From Rival,positive,0.4942256212234497
+2016-01-28,The report from the New York attorney general portrays a complex business in which technologically adept ticket brokers are able to profit at the expense of ordinary fans.,neutral,-0.0618450865149498
+2016-01-28,Report Exposes Widespread Abuses in Ticketing Industry in New York,negative,-0.8769895434379578
+2016-01-31,The two banks will pay a combined $154.3 million to settle allegations that they misrepresented their private stock trading services.,negative,-0.6107591986656189
+2016-01-31,Barclays and Credit Suisse to Settle ‘Dark Pool’ Inquiries,neutral,-0.13921113312244415
+2016-02-03,The company said that its results in North America were the driving force behind its performance.,positive,0.7350701093673706
+2016-02-03,G.M.,neutral,0.048085395246744156
+2016-02-03,Posts Record Profit of $9.7 Billion for 2015,positive,0.5571387410163879
+2016-02-08,"Several online tests can help you check the speed of your Internet connection, but be aware of conditions that may affect your results.",neutral,-0.08709855377674103
+2016-02-08,Evaluating Your Broadband Speed,neutral,0.05498482659459114
+2016-02-11,"An independent report says the site “misled the media and the public” by deleting over 1,000 listings to show that its hosts obeyed the city’s rules.",negative,-0.9164842367172241
+2016-02-11,"Airbnb Purged New York Listings to Create a Rosier Portrait, Report Says",negative,-0.8657578825950623
+2016-02-13,The company is using plans for super-high-speed 5G technology and an executive’s poignant life story as a way to assuage worries about its future.,neutral,0.2511596977710724
+2016-02-13,"AT&T’s Strategy Is One Part Innovation, One Part Inspiration",neutral,0.13817138969898224
+2016-02-15,"The British bank had announced a review of a possible move last April, citing regulations and a tax on lenders.",neutral,-0.26175662875175476
+2016-02-15,HSBC to Keep Headquarters in London Instead of Hong Kong,neutral,-0.09696072340011597
+2016-02-16,"The Minneapolis Fed president, a key Treasury official during the financial crisis, called for reining in banks to address a “risk to our economy.”",neutral,0.275205135345459
+2016-02-16,Fed’s Neel Kashkari Says Banks Are ‘Still Too Big to Fail’,negative,-0.7090369462966919
+2016-02-23,The Asia-focused British bank warned that over 150 current or former executives could see their bonuses clawed back as part of accountability reviews.,negative,-0.9260908961296082
+2016-02-23,Standard Chartered Posts a $2.36 Billion Loss for 2015,negative,-0.9457446932792664
+2016-02-26,What Wall Street leaders need to do to get their stocks moving is to cut compensation.,negative,-0.5129715204238892
+2016-02-26,They should reverse-engineer their income statements to increase their profits.,positive,0.6729100346565247
+2016-02-26,"Cut Compensation at Investment Banks, Then Take Cover",neutral,-0.04757319390773773
+2016-02-27,"Berkshire Hathaway will not engage in hostile takeovers, despite the rise of activist investors, its chief wrote in his annual letter to shareholders.",neutral,0.11687050759792328
+2016-02-27,"Warren Buffett Vows to Stick to Friendly Strategy, Rebuffing Activism",positive,0.4978457987308502
+2016-02-28,Clear Channel Outdoor Americas is partnering with companies to track the behavior of customers who pass its tens of thousands of billboards.,neutral,0.054975222796201706
+2016-02-28,See That Billboard?,neutral,0.036618929356336594
+2016-02-28,"It May See You, Too",neutral,0.044477734714746475
+2016-03-02,"New research found bourses make small tweaks to their prices, influencing trade in ways hard for even sophisticated investors to understand.",neutral,-0.15278440713882446
+2016-03-02,"Stock Exchange Prices Grow So Convoluted Even Traders Are Confused, Study Finds",negative,-0.48079776763916016
+2016-03-03,"While a vast system of new rules governing bank behavior has arisen, some regulators wonder if enough has been done, and some analysts say the largest banks may shrink.",negative,-0.7516202926635742
+2016-03-03,New Doubts About ‘Too Big to Fail’ Banks Rattle Foundation of Regulations,negative,-0.40824615955352783
+2016-03-18,The bank said that the nomination committee of its board was leading the search and that it hoped to find a successor by next year.,neutral,0.048693396151065826
+2016-03-18,HSBC Begins Search to Replace Its Chairman,neutral,-0.01372506096959114
+2016-03-19,"Bombas donates a pair of socks to a homeless person for every pair it sells, joining a growing list of “buy one, give one” companies.",neutral,0.14970311522483826
+2016-03-19,Selling High-End Socks by Giving Them Away,neutral,-0.2158757597208023
+2016-03-21,"Students have been taught to trust places called universities, even though few of them actually are.",neutral,0.09254749119281769
+2016-03-21,Donald Trump Isn’t Alone in Exploiting the Word ‘University’,neutral,0.0428338497877121
+2016-03-29,A group of attorneys general announced support for an investigation by Eric Schneiderman of New York into Exxon Mobil’s statements on global warming.,positive,0.6609385013580322
+2016-03-29,Exxon Mobil Climate Change Inquiry in New York Gains Allies,neutral,-0.2559134364128113
+2016-03-30,"Fullscreen, owned by Mr. Chernin and AT&T, will offer 800 hours of ad-free programming and allow users to interact with one another in real time for $5 a month.",neutral,0.18201211094856262
+2016-03-30,Peter Chernin Aims New Streaming Service at Social Media Users,neutral,0.059768613427877426
+2016-03-31,"If you think you may be getting close to the monthly limits on your mobile phone plan, your carrier probably has a few places to check the meter.",neutral,-0.020396925508975983
+2016-03-31,Easy Ways to Keep Tabs on Your Data Usage,neutral,0.04161902144551277
+2016-04-06,"Transitioning from one operating system to another should in theory be simple, but as one technology reporter learned, in reality, many things can go wrong.",neutral,-0.2099791318178177
+2016-04-06,How to Switch to iPhone From Android: Patience and Persistence,neutral,0.08691088855266571
+2016-04-07,"Mr. Silverman will be Propagate’s chairman and co-chief with Howard T. Owens, his longtime collaborator who founded the studio.",neutral,0.03493265062570572
+2016-04-07,"Ben Silverman, a Veteran TV Executive, Joins Propagate Content",neutral,0.004342414438724518
+2016-04-22,"New York State’s attorney general is urging a nationwide recall, and the federal Consumer Product Safety Commission has begun an inquiry.",negative,-0.6220649480819702
+2016-04-22,Cra-Z-Art Toy Jewelry Kits Are Found to Have High Lead Levels,negative,-0.693127453327179
+2016-04-25,"A group’s promotion hopes to capitalize on the popularity of locally created items, urging customers to go beyond big-box stores for their daily shopping needs.",positive,0.7784606218338013
+2016-04-25,Made in NYC Looks to Give Manufacturing a Handcrafted Image,neutral,0.08773872256278992
+2016-04-26,"The bank said that its first-quarter results reflected depressed commodity prices, volatility in China and weak market sentiment.",negative,-0.9496254920959473
+2016-04-26,Standard Chartered’s Pretax Profit Down 59% on ‘Challenging’ Conditions,negative,-0.9693366289138794
+2016-04-27,The New York attorney general took aim at brokers who use “bots” and other methods that keep tickets out of the hands of ordinary fans.,negative,-0.7185521125793457
+2016-04-27,Ticket Brokers in Settlement With New York Over Scalping Laws,negative,-0.9079521298408508
+2016-05-03,The British lender said that market uncertainty in the first quarter cut into the results of its investment banking and wealth management businesses.,negative,-0.9394801259040833
+2016-05-03,HSBC’s Profit Down 18% as Markets Weigh on Results,negative,-0.9655856490135193
+2016-05-10,"Despite a tricky history, Steven Mnuchin said he jumped at the chance to be his friend’s national finance chairman.",neutral,0.30783602595329285
+2016-05-10,Donald Trump’s Pick for Fund-Raiser Is Rife With Contradictions,neutral,-0.364511102437973
+2016-05-12,"Steven Mnuchin, a hedge fund veteran himself, starts calling on big-money donors at a hedge fund conference gilded with Trump supporters.",neutral,-0.041096143424510956
+2016-05-12,Donald Trump’s Chief Fund-Raiser Heads Straight for Las Vegas,neutral,0.030433423817157745
+2016-05-19,Phil Mickelson and an ex-investment banker owed money to a Vegas kingmaker.,negative,-0.5572153329849243
+2016-05-19,Prosecutors say those debts were at the center of a insider trading scheme.,negative,-0.681201159954071
+2016-05-19,"Insider Trading Case Links Golfer, Banker and Gambler",neutral,-0.15040580928325653
+2016-05-23,"The Justice Department charged William T. Walters with trading on inside information, but the charges may not be as easy to prove as they appear.",negative,-0.8012442588806152
+2016-05-23,Handicapping Insider Trading Case Against a Gambler,negative,-0.6088216304779053
+2016-05-25,"There are two ways to take your phone overseas and get data — the frugal way, which requires a bit of tinkering, and the pay-full-price way.",neutral,-0.0035565122961997986
+2016-05-25,A Traveler’s Guide to Taking a Smartphone Abroad,neutral,0.06418673694133759
+2016-05-31,"The court found that Dell shares were worth about $17.62 at the time of the 2013 buyout, not the $13.75 that Michael S. Dell and Silver Lake paid.",neutral,-0.01566382870078087
+2016-05-31,"Dell Buyout Deal Shortchanged Shareholders, Court Rules",neutral,-0.09290426969528198
+2016-06-08,"Two lawyers representing Morris Zukerman, accused of avoiding $45 million in taxes, were compelled to appear before a grand jury investigating him.",negative,-0.8466958999633789
+2016-06-08,Lawyers Ordered to Testify on Client’s Tax Evasion Case,negative,-0.7510116100311279
+2016-06-09,S.E.C.,neutral,0.030168529599905014
+2016-06-09,"and criminal complaints paint Thomas C. Davis, considered a pillar of the business community, as a man in “desperate” financial straits.",negative,-0.8399304747581482
+2016-06-09,How Keeping Up Appearances Ruined a Former Dallas Banker,negative,-0.7100326418876648
+2016-06-12,"Giants like Comcast, AT&T and Verizon oppose plans to limit broadband providers’ ability to share users’ data and to open the market for set-top boxes.",negative,-0.7876734733581543
+2016-06-12,Cable Industry Mobilizes Lobbying Army to Block F.C.C.,neutral,-0.3346460461616516
+2016-06-12,Moves,neutral,0.03623265027999878
+2016-06-14,"As Saudi Arabia considers selling shares in its state oil company, the real eye-opening development will be where it lists the shares.",neutral,0.013798180967569351
+2016-06-14,The Global Stakes of a Saudi Aramco I.P.O.,neutral,0.007403068244457245
+2016-06-22,Mr. Morgenthaler founded his first venture capital firm in 1968 and pushed legislative agendas that shaped the industry.,neutral,0.17711696028709412
+2016-06-22,"David T. Morgenthaler, Who Shaped Venture Capitalism, Dies at 96",neutral,-0.07939905673265457
+2016-06-27,"OpenROV, which builds submarine drone kits that they hope will become as popular as airborne drones, showcases the prototype of the latest version of its Trident submarine.",neutral,0.1629343032836914
+2016-06-27,A Drone Start-Up Explores Underwater,neutral,0.058606211096048355
+2016-07-19,"The suits claim the decision to thwart pollution tests involved dozens of engineers and managers, and reached into the company’s boardroom.",negative,-0.719249427318573
+2016-07-19,"Volkswagen Scandal Reaches All the Way to the Top, Lawsuits Say",negative,-0.4799550771713257
+2016-07-27,"José Viñals will join the lender’s board in October and assume the role of chairman on Dec. 1, succeeding John Peace.",neutral,0.04562423378229141
+2016-07-27,I.M.F.,neutral,0.037868428975343704
+2016-07-27,Financial Counselor to Join Standard Chartered as Chairman,neutral,0.024006687104701996
+2016-08-03,The bank warned that a “period of volatility and uncertainty” is likely to continue for some time after Britain’s vote to leave the European Union.,negative,-0.8175868988037109
+2016-08-03,HSBC Profit Down 40% in ‘Difficult’ Environment,negative,-0.9680564999580383
+2016-08-08,"The British bank has settled with 44 states over claims of manipulation of Libor, a key interest rate that is used to set prices in many consumer contracts.",negative,-0.8590111136436462
+2016-08-08,Barclays Agrees to Settle Libor-Rigging Inquiry for $100 Million,positive,0.6782692074775696
+2016-08-19,Eric T. Schneiderman of New York said the investigation was concentrating on issues like the value the company puts on oil still in the ground.,neutral,-0.11193513870239258
+2016-08-19,Exxon Mobil Fraud Inquiry Said to Focus More on Future Than Past,neutral,-0.1185515895485878
+2016-09-11,"Maurice Greenberg, once head of American International Group, and the insurer’s former financial chief face civil charges over transactions in 2000-1.",negative,-0.8066720962524414
+2016-09-11,"After 11 Years, Case of A.I.G.’s Ex-Chief Is Going to Trial",neutral,0.019412796944379807
+2016-09-12,"The chief executive, Paul Idzik, will be replaced by Karl Roessner, and Michael Curcio, the company’s former president, is returning as chief brokerage officer.",neutral,-0.10357671976089478
+2016-09-12,E-Trade Names New C.E.O.,neutral,0.0045929476618766785
+2016-09-12,in Management Shake-Up,negative,-0.8433019518852234
+2016-09-13,Mr. Allen was chief executive and chairman of the communications giant in the 1980s and ’90s as it acquired wireless and computer businesses.,neutral,0.02686777524650097
+2016-09-13,"Robert E. Allen, 81, Dies; Led an AT&T in Transition",neutral,0.031662240624427795
+2016-09-21,"At issue is how the company values its oil reserves in light of potential climate change regulations, and environmentalists applauded the scrutiny.",positive,0.5893148183822632
+2016-09-21,S.E.C.,neutral,0.030168529599905014
+2016-09-21,Is Latest to Look Into Exxon Mobil’s Workings,neutral,-0.040115948766469955
+2016-09-23,New York’s financial regulator is investigating multiple complaints from consumers.,negative,-0.9007387161254883
+2016-09-23,Caliber Said to Be Asked for Data on Handling Distressed Mortgages,neutral,-0.007806550711393356
+2016-09-27,"The London-based bank, which has a deferred-prosecution agreement from a 2012 inquiry, reported accusations against a company in which it holds a stake.",negative,-0.9082610011100769
+2016-09-27,Standard Chartered’s U.S. Settlement Is Imperiled by New Claims,negative,-0.7919697761535645
+2016-10-13,"The ephemeral-message company is flourishing, and early investors would stand to make a lot of money on an I.P.O.",neutral,0.2717309296131134
+2016-10-13,Daily Report: The Aura of Snapchat,neutral,0.05068809911608696
+2016-10-14,"Mutual fund managers are holding their ground, which may be a stabilizing force in the market.",neutral,0.1409708559513092
+2016-10-14,"Sticking With Stocks, Especially in Market Downturns",neutral,0.27770331501960754
+2016-10-17,"The bank reported its best pretax quarterly earnings in a decade on Monday, but a decent return on equity remains a long way off.",positive,0.6483926773071289
+2016-10-17,Bank of America Inches Toward Long-Term Goal,positive,0.6414139866828918
+2016-10-21,A deal would give the giant TV distributor and internet provider a collection of programming like HBO and movies like “Suicide Squad.”,neutral,0.3968629539012909
+2016-10-21,AT&T Aims for an Empire in Merger Talks With Time Warner,neutral,0.07775603234767914
+2016-10-22,The potential union would probably face heavy scrutiny from government regulators.,negative,-0.7501434087753296
+2016-10-22,AT&T Agrees to Buy Time Warner for $85.4 Billion,positive,0.5414583086967468
+2016-10-23,"A deal with Time Warner would create a combined debt of about $175 billion, which experts say represents one of the biggest risks in the merger.",neutral,0.14537422358989716
+2016-10-23,"To Secure a Mega-Merger, AT&T Plans to Shoulder Mega-Debt",neutral,0.3441328704357147
+2016-10-24,AT&T’s $85 billion deal for Time Warner is a ploy to do something — anything — in the face of a rapidly changing media landscape.,positive,0.6483360528945923
+2016-10-24,AT&T-Time Warner Deal Is a Shot in the Dark,neutral,0.047005388885736465
+2016-10-25,"Tom Wheeler, who increased regulation of the cable and wireless industries, now faces tough industry opposition and a review of a media megadeal.",negative,-0.748043954372406
+2016-10-25,One Last Growl for F.C.C.’s Sharp-Toothed Watchdog,negative,-0.3065603971481323
+2016-10-26,"In a call with investors, the chiefs of the companies noted that the combined trove of their consumer data would be useful to marketers and consumers.",positive,0.7246924042701721
+2016-10-26,Individualized Ads on TV Could Be One Result of AT&T-Time Warner Merger,neutral,-0.007959846407175064
+2016-10-27,AT&T’s chief executive says a pillar of his company’s acquisition of Time Warner is networking technology called 5G.,neutral,0.0553334504365921
+2016-10-27,But it could be years away.,negative,-0.48079127073287964
+2016-10-27,Daily Report: Every Big Deal Must Have a Great Tech Angle,positive,0.5725929141044617
+2016-10-28,The company may have to concede that 3.6 billion barrels of oil-sand reserves and a billion barrels of other reserves are currently not profitable to produce.,negative,-0.929637610912323
+2016-10-28,Exxon Concedes It May Need to Declare Lower Value for Oil in Ground,negative,-0.851299524307251
+2016-10-29,"Randall Stephenson has a history of staking out risky business propositions, including speaking up on divisive subjects and aggressively going after acquisitions.",neutral,0.003216024488210678
+2016-10-29,"For AT&T Chief, Time Warner Deal Is the Peak of an Ambitious Climb",neutral,0.30271846055984497
+2016-10-30,"The telecom giant says it will not interfere with the network, which embraces sex and violence and spends money at will.",neutral,-0.21562346816062927
+2016-10-30,But the union might not be that simple.,neutral,-0.39163997769355774
+2016-10-30,Media’s Odd Couple: Proudly Freewheeling HBO and Buttoned-Up AT&T,neutral,0.05202649161219597
+2016-10-31,"In a $25 billion deal, the two companies will combine to create one of the largest communications providers for businesses.",positive,0.7740094661712646
+2016-10-31,"CenturyLink, a Network Provider, to Acquire Level 3, a Rival",neutral,0.018812958151102066
+2016-11-01,"Cheap money and investor confidence are driving a surge in mergers, leaving industries dominated by a few big players.",negative,-0.6764156818389893
+2016-11-01,Blockbuster Deals in a Race to Stay Ahead of the Competition,neutral,0.4044221341609955
+2016-11-07,"Fear that Oracle would back away led NetSuite shareholders to accept a $9.3 billion offer over the objections of a major investor, T. Rowe Price.",negative,-0.11416962742805481
+2016-11-07,Larry Ellison’s Hardball Tactics Win NetSuite for Oracle,neutral,-0.010549157857894897
+2016-11-10,"Though Donald Trump vowed to fight AT&T’s bid for Time Warner, deal advisers say it’s not known what his administration will mean for mega-mergers.",neutral,-0.4113592505455017
+2016-11-10,Future of Big Mergers Under Trump?,neutral,0.04527253285050392
+2016-11-10,"Like Much Else, It’s Unclear",neutral,0.03810469061136246
+2016-11-11,"Mr. Trump has criticized AT&T’s planned merger with Time Warner and the merger of Comcast and NBCUniversal, and he may have a beef with big banks.",negative,-0.8141762018203735
+2016-11-11,Donald Trump Could Move From Deal Maker to Deal Slayer,neutral,0.07330651581287384
+2016-11-12,Readers respond to “An $85 Billion Bet That an Empire Can Rise Again” (Oct. 30).,positive,0.7442291378974915
+2016-11-12,What About the Customers?,neutral,-0.12237567454576492
+2016-11-15,"Conventional wisdom is that the Trump administration will bring comprehensive change; more likely, any change will be incremental.",neutral,0.3389279246330261
+2016-11-15,"C.E.O.s Ponder a New Game, With Trump’s Rules",neutral,0.048371270298957825
+2016-11-16,"Representative Jeb Hensarling, chairman of the Financial Services Committee, said he would work on a “2.0 version” of financial reform legislation to attract Senate Democrats.",positive,0.6695250868797302
+2016-11-16,House Foe of Dodd-Frank Says Overhaul Will Face Test in Senate,negative,-0.3616603910923004
+2016-11-17,The United States authorities are expected to announce a settlement with JPMorgan Chase in a bribery case involving the hiring of Chinese leaders’ children.,negative,-0.6241272687911987
+2016-11-17,"Morning Agenda: JPMorgan Said to Settle Bribery Case, Ending ‘Too Big to Fail,’ Goldman’s Pitch to the Masses",neutral,0.05730096995830536
+2016-11-21,Donald Trump’s representatives told New York’s attorney general that no money would come from “any charitable foundation or other charitable entity.”,neutral,-0.03828633949160576
+2016-11-21,Trump Foundation Won’t Pay Any of $25 Million University Settlement,neutral,-0.06086060404777527
+2016-11-29,"Offering 60 channels for $35 a month, the service will compete with Sling TV, PlayStation Vue and others to lure viewers away from cable television packages.",positive,0.6404110193252563
+2016-11-29,"AT&T Appeals to Cord-Cutters With DirecTV Now, a New Streaming Service",neutral,0.35976389050483704
+2016-11-30,Users will be able binge watch some shows and movies on their phones and tablets without eating up their entire data plan.,neutral,0.2716160714626312
+2016-11-30,"Now, Netflix Users Can Watch Movies Offline on Their Mobile Devices",neutral,0.013233370147645473
+2016-12-01,"Mr. Cohn, the No.",neutral,-0.024696141481399536
+2016-12-01,"2 executive at Goldman Sachs, has been viewed as the firm’s natural next leader.",neutral,0.18143700063228607
+2016-12-01,But that was before he met with the president-elect.,neutral,-0.08978518843650818
+2016-12-01,Succession Questions Rise at Goldman Sachs,negative,-0.4180030822753906
+2016-12-02,"By suggesting that the companies would be freed from government control, Steven Mnuchin backed an approach that would benefit small lenders and borrowers.",positive,0.6711902618408203
+2016-12-02,Trump Treasury May Mean Independence for Fannie and Freddie,neutral,0.14291393756866455
+2016-12-07,The telecom giant and media behemoth defended their proposed $85.4 billion merger in a Senate hearing.,negative,-0.47811323404312134
+2016-12-07,Lawmakers Change Their Tone on AT&T and Time Warner Deal,negative,-0.48222190141677856
+2016-12-09,"Terms of a deal have yet to be completed, but 21st Century Fox’s latest reach for Sky looks well timed.",positive,0.6295679211616516
+2016-12-09,Murdochs Take Another Shot at Sky,neutral,0.04013526439666748
+2016-12-12,"Donald J. Trump officially asked Gary D. Cohn to serve as director of his National Economic Council, removing a crucial impediment for Goldman’s next generation of leaders.",neutral,0.13420428335666656
+2016-12-12,"Goldman President Named Trump Adviser, Opening Door for Younger Executives",positive,0.757465124130249
+2016-12-14,A tax provision allows incoming executive branch members to defer capital gains taxes on any divestments required under ethics rules.,neutral,0.03249583765864372
+2016-12-14,"For Trump’s Wealthy Cabinet, Prospect of a Sweet Tax Break",negative,-0.31266361474990845
+2016-12-15,"Two industry giants, Teva and Mylan, are among those named in what officials say was a broad investigation that could produce more charges.",negative,-0.555602490901947
+2016-12-15,20 States Accuse Generic Drug Companies of Price Fixing,negative,-0.7312617301940918
+2016-12-20,"Steven T. Mnuchin’s time in the limelight came mainly as the head of OneWest, a bank bought out of bankruptcy that was criticized over foreclosures.",neutral,0.026100531220436096
+2016-12-20,Trump’s Treasury Pick Moves in Secretive Hedge Fund Circles,neutral,-0.20121386647224426
+2016-12-22,Research confirms our deepest intuition: Human connection lies at the heart of human well-being.,neutral,0.29796209931373596
+2016-12-22,How Social Isolation Is Killing Us,negative,-0.5395236611366272

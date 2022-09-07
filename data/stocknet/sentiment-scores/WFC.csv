@@ -1,0 +1,231 @@
+Date,Sentence,Prediction,sentimentScore
+2014-01-12,"JPMorgan Chase and Wells Fargo, set to report fourth-quarter results on Tuesday, will kick off a flurry of bank earnings, and Intel will post its fourth-quarter results.",positive,0.5166770815849304
+2014-01-12,Economic Reports for the Week of Jan. 13,neutral,-0.19021853804588318
+2014-01-14,Car loan origination jumped at JPMorgan Chase and Wells Fargo in the fourth quarter amid disappointing mortgage demand.,negative,-0.5200580358505249
+2014-01-14,"Auto Loans Bring Growth, and Scrutiny, for Banks",neutral,0.20809388160705566
+2014-01-15,"While Bank of America and Wells Fargo reported healthy profits in the last quarter, some observers are concerned that the banks are quickly depleting their rainy day funds.",negative,-0.9290246963500977
+2014-01-15,Skeptics Question Banks’ Bottom Lines,negative,-0.6543384194374084
+2014-01-16,"Doctor at SAC insider trading trial says trader knew so much detail about a drug trial, it was like “he was in the room.” | Goldman Sachs reports earnings after strong results from Bank of America and Wells Fargo.",positive,0.7569301128387451
+2014-01-16,| Yahoo fires its No.,negative,-0.9285493493080139
+2014-01-16,2 executive.,neutral,0.018135132268071175
+2014-01-16,| Let’s play the M.&A.,neutral,-0.0007217545062303543
+2014-01-16,Game.,neutral,0.04518289864063263
+2014-01-16,"At SAC Trial, Doctor Tells of Surprise at Ex-Trader’s Drug Trial Knowledge",negative,-0.43877851963043213
+2014-01-17,How well do you know your earnings reports?,neutral,0.0040318891406059265
+2014-01-17,Match the financial company with the quote about its latest earnings report.,neutral,0.02307698130607605
+2014-01-17,Weekend Reading: Bank Earnings Quiz,neutral,-0.127685084939003
+2014-01-22,"Wells Fargo said on Wednesday that it sold the rights to service 184,000 mortgages to Ocwen Financial Corporation, a rapidly expanding company known for its expertise in dealing with subprime borrowers.",neutral,0.1472386121749878
+2014-01-22,Wells Fargo Sells Servicing Rights on $39 Billion in Mortgages,neutral,0.04444081336259842
+2014-01-25,The New York State comptroller wants banks to take an inventory of their risk-taking employees.,neutral,-0.06176958233118057
+2014-01-25,Asking Banks to Reveal Where Their High Rollers Are,neutral,-0.06361930072307587
+2014-02-06,"The office of Benjamin Lawsky, the superintendent of New York’s Department of Financial Services, has halted the transfer of about $39 billion in servicing rights to Ocwen from Wells Fargo.",negative,-0.9482418894767761
+2014-02-06,State Regulator Halts Deal Between Wells Fargo and Loan Servicer,negative,-0.9063207507133484
+2014-02-19,Representative Maxine Waters is urging federal banking regulators to scrutinize the sale of billions of dollars of mortgage-servicing rights to specialty firms.,neutral,-0.012429658323526382
+2014-02-19,Lawmaker Urges U.S. Regulators to Scrutinize Mortgage Servicers,neutral,-0.06497840583324432
+2014-03-10,"The combined companies, which will be named ChiquitaFyffes, will be the world’s largest producer and distributor of bananas and will have about $4.6 billion in annual revenue.",positive,0.5228683948516846
+2014-03-10,Chiquita Buys Ireland’s Fyffes to Go Global in Banana Business,neutral,0.3213372826576233
+2014-03-18,"The nation’s four largest banks have more than fulfilled their financial obligations toward homeowners under a $25 billion settlement reached in 2012, according to a report.",positive,0.880987823009491
+2014-03-18,Big Banks Fulfill Part of Mortgage Deal,neutral,0.028236789628863335
+2014-04-01,"Timothy J. Sloan, 53, is leaving the C.F.O.",neutral,-0.251389741897583
+2014-04-01,"post to head Wells Fargo’s wholesale banking group, and John R. Shrewsberry, 48, currently head of Wells Fargo Securities,will become the new chief financial officer.",neutral,0.042265474796295166
+2014-04-01,Wells Fargo Names New C.F.O.,neutral,-0.019425781443715096
+2014-04-11,"In the first quarter, the bank said on Friday, it earned a profit of $5.9 billion, up 14 percent from the same period in 2013.",positive,0.9367203712463379
+2014-04-11,The gain was fueled by lower loan losses and decreasing expenses.,positive,0.925306499004364
+2014-04-11,Wells Fargo Posts Strong Earnings,positive,0.8827465772628784
+2014-04-30,A new report from a banking regulator offers a snapshot of the morass of problems that mortgage holders who fell behind in payments experienced during the financial crisis.,negative,-0.751953661441803
+2014-04-30,"Big Banks Erred Widely on Troubled Mortgages, U.S.",negative,-0.41500124335289
+2014-04-30,Regulator Confirms,neutral,0.053280506283044815
+2014-07-11,"Wells Fargo said its profit in the second quarter rose 4 percent from the same period a year ago to $5.7 billion, but there were signs that the bank’s vaunted profit machine was slowing.",positive,0.055964380502700806
+2014-07-11,Wells Fargo Profit Rises Despite Drop in Revenue,negative,-0.010994285345077515
+2014-07-19,"Millions of Americans are receiving auto loans they cannot possibly afford, in a lending climate marked by some of the same lack of caution seen in the housing industry before its 2008 implosion.",negative,-0.7502458095550537
+2014-07-19,"In a Subprime Bubble for Used Cars, Borrowers Pay Sky-High Rates",negative,-0.5646306276321411
+2014-08-09,The office of a Wells Fargo executive in San Francisco shows his surfer side — while offering a sweeping bay view.,neutral,0.019941627979278564
+2014-08-09,Where Surfboards Meet Whiteboards,neutral,-0.05644426494836807
+2014-08-14,Deutsche Bank and Wells Fargo nixed a biotechnology I.P.O.,negative,-0.9267010688781738
+2014-08-14,six days after shares started trading.,neutral,0.1284903734922409
+2014-08-14,"Their reasoning looks defensible but their due diligence beforehand less so, Robert Cyran writes for Reuters Breakingviews.",neutral,0.010111294686794281
+2014-08-14,Banks Exit I.P.O.,negative,-0.5795459151268005
+2014-08-14,They Should Have Passed Up in the First Place,neutral,0.10428518801927567
+2014-09-10,"The Federal Reserve’s proposal and other rules could increase pressure on big banks to reduce, or even sell, traditionally profitable operations like lending to hedge funds.",negative,-0.8683278560638428
+2014-09-10,"Fed Proposes New Rule, and Wall St. Banks Feel the Pressure",neutral,0.12479358911514282
+2014-09-21,The following tax-exempt fixed-income issues are scheduled for pricing this week.,neutral,0.009301049634814262
+2014-09-21,Treasury Auctions Set for the Week of Sept. 22,neutral,-0.008648965507745743
+2014-10-14,"The bank, the nation’s largest mortgage lender, reported rising mortgage income for the third quarter of 2014 despite making fewer loans.",positive,0.9233343601226807
+2014-10-14,Wells Fargo Still Wary of Home Loans in 3rd Quarter,negative,-0.9418652057647705
+2014-10-15,A $5.3 billion charge stemming from a record mortgage settlement overshadowed decent quarterly results in the bank’s investment banking business.,negative,-0.9132921695709229
+2014-10-15,Legal Charge for Mortgage Settlement Decreases Profit at Bank of America,negative,-0.9554625153541565
+2014-10-17,How well do you know Wall Street?,neutral,0.018494034186005592
+2014-10-17,"Match the statements from analysts , executives and spokesman from eight financial giants.",neutral,0.06962953507900238
+2014-10-17,Weekend Reading: Take the Wall St. Earnings Quiz,neutral,0.04785305634140968
+2014-11-26,"The problems for other giant banks are complexity and interconnectedness, writes Daniel Indiviglio of Reuters Breakingviews.",neutral,-0.38501447439193726
+2014-11-26,Wells Fargo Is the First Big Bank Simple Enough to Fail,neutral,-0.11943012475967407
+2014-12-10,"The proposed regulation could require JPMorgan Chase, one of the eight large banks targeted, to come up with an additional $20 billion in capital.",neutral,0.07754907757043839
+2014-12-10,"With New Capital Rule, Fed Nudges Big Banks to Shrink",neutral,0.2810635566711426
+2014-12-11,"Finra fined the firms $43.5 million, saying they implicitly or explicitly offered favorable research coverage in return for a role in a planned I.P.O.",negative,-0.8831744194030762
+2014-12-11,10 Wall Street Firms Fined Over Conflicts in Toys ‘R’ Us I.P.O.,negative,-0.9407553672790527
+2015-01-12,"Falling profits on crude oil are likely to leave some companies unable to repay loans, and the banks that have exuberantly extended credit to them may feel the pinch.",negative,-0.9529169797897339
+2015-01-12,"As Oil Prices Fall, Banks Serving the Energy Industry Brace for a Jolt",negative,-0.7254342436790466
+2015-01-14,Applying Wells Fargo’s multiple to a company created out of JPMorgan’s consumer and business lending operations could theoretically value that “New Chase” at $100 billion.,neutral,0.16594286262989044
+2015-01-14,The Break-Up Question Over JPMorgan Chase,neutral,-0.23524054884910583
+2015-01-22,The Consumer Financial Protection Bureau said that more than 100 former Wells Fargo loan officers and half a dozen from JPMorgan accepted kickbacks.,negative,-0.6909534931182861
+2015-01-22,The banks agreed to pay about $36 million.,neutral,0.2454337775707245
+2015-01-22,Wells Fargo and JPMorgan Loan Officers Accused of Taking Kickbacks,negative,-0.7913862466812134
+2015-01-27,"While worth only about $10,000, the gold nuggets have sentimental value to the large bank, which was founded during the gold rush of the 19th century.",neutral,0.09357564896345139
+2015-01-27,Robbers Crash Into Wells Fargo Museum to Steal Gold Nuggets,negative,-0.7504827380180359
+2015-01-28,Yahoo plans to spin off its stake in Alibaba.,neutral,-0.1984146237373352
+2015-01-28,| The outcome of the fight over DuPont could define shareholder activism.,neutral,-0.4382955729961395
+2015-01-28,| U.S. strengths are hurting American multinational corporations.,negative,-0.9586226940155029
+2015-01-28,| Thieves steal gold nuggets from Wells Fargo museum.,negative,-0.878476083278656
+2015-01-28,Morning Agenda: Yahoo’s Alibaba Split,neutral,0.027680356055498123
+2015-01-31,"A Missouri judge ordered Wells Fargo to pay over $3 million for abusing a borrower, and a federal judge in New York said there was evidence the bank had forged documents.",negative,-0.8986968398094177
+2015-01-31,Two Judges Who Get It About Banks,neutral,-0.12553271651268005
+2015-02-04,A.T.M.,neutral,0.07233062386512756
+2015-02-04,"enhancements like the Wells Fargo option continue to grow, even in the age of smartphones and mobile banking.",positive,0.842085599899292
+2015-02-04,Wells Fargo Customers Can Cash Out Rewards at A.T.M.s,neutral,0.0592329278588295
+2015-03-02,"Fearing increased risk and slipping standards, Wells Fargo will keep new subprime car loans to no more than 10 percent of its total auto loans.",neutral,0.0785282552242279
+2015-03-02,Wells Fargo Puts a Ceiling on Subprime Auto Loans,neutral,0.06343203783035278
+2015-03-11,"The chief executives at JPMorgan Chase, Goldman Sachs and Wells Fargo need to be careful about sticking around too long.",neutral,-0.18467634916305542
+2015-03-11,Banks May Want to Consider Expiration Date for Top Job,neutral,-0.056111786514520645
+2015-04-09,"Blackstone and Wells Fargo are poised to buy most of the portfolio, which includes office and apartment buildings, people with knowledge of the matter said.",neutral,0.04856529459357262
+2015-04-09,G.E.,neutral,0.0415060818195343
+2015-04-09,Seen Close to Selling Its Real Estate Portfolio,neutral,0.038612257689237595
+2015-04-13,Investors are eagerly awaiting guidance from management about when higher short-term interest rates will impact the banks’ bottom lines.,neutral,0.12998506426811218
+2015-04-13,Wall Street’s 4th Quarter Earnings,neutral,-0.2932632565498352
+2015-04-14,"The bank’s profit, which still beat expectations, was squeezed by a combination of rising expenses and low interest rates.",negative,-0.9650931358337402
+2015-04-14,Wells Fargo Posts Rare Decline in Quarterly Net Income,negative,-0.9678677916526794
+2015-04-15,"Wells Fargo reported a rare decline in first-quarter profit, and JPMorgan Chase lifted its overall performance in the quarter.",negative,-0.9153277277946472
+2015-04-15,Results at Wells Fargo and JPMorgan Show Slower Consumer Banking,negative,-0.9331244230270386
+2015-05-11,"Even as boom towns go quiet, oil production chugs along thanks to rapid gains in technology to extract more with less.",positive,0.8973526954650879
+2015-05-11,Drillers Answer Low Oil Prices With Cost-Saving Innovations,neutral,0.16560706496238708
+2015-06-17,"JPMorgan Chase, Wells Fargo and four other banks will face new limitations on their ability to acquire mortgage servicing rights from other banks.",neutral,-0.0727253183722496
+2015-06-17,Regulator Restricts Mortgage Operations of Six Big Banks,neutral,-0.3823986053466797
+2015-06-18,"JPMorgan Chase, Wells Fargo and four other large banks have failed to make long-promised improvements to their mortgage operations, a federal regulator said on Wednesday.",negative,-0.9420061707496643
+2015-06-18,Banks That Failed to Fix Mortgage Services Face Restrictions,negative,-0.8298954963684082
+2015-07-14,The middling results from Wells reflect the challenges facing the nation’s big banks today.,neutral,-0.2403176724910736
+2015-07-14,Wells Fargo’s Earnings Slip in Second Quarter,negative,-0.9680910110473633
+2015-07-20,"Under the regulations, the banks with the biggest Wall Street operations have to meet higher capital requirements or reduce their size.",neutral,0.038555826991796494
+2015-07-20,Federal Reserve Approves Capital Restraints for Big Banks,neutral,0.05567087233066559
+2015-07-30,"The bank said it was ending agreements with firms in the real estate industry, such as home builders, that allowed it to market loans to home buyers.",negative,-0.540194571018219
+2015-07-30,Wells Fargo to End Some Marketing Ties With Home Builders and Brokers,negative,-0.7180835008621216
+2015-10-14,"The bank’s return on equity exceeded that of its two main rivals, but was lower than in previous periods.",negative,-0.9320458769798279
+2015-10-14,Wells Fargo Profit Edges Up for Quarter,positive,0.554557740688324
+2015-10-15,"Cutting costs and eliminating huge legal bills have helped the bank, but its rivals are ahead on efficiency, among other areas.",positive,0.9021619558334351
+2015-10-15,Bank of America’s Hunt for Growth,neutral,0.0694541186094284
+2015-11-10,"As big investment banks pull back, some lenders are bulking up in repo, a form of short-term collateralized lending that may carry hidden risks.",negative,-0.4738081991672516
+2015-11-10,Caution Needed on Push Into Repo Lending,neutral,0.062204308807849884
+2015-12-18,"Zurich, one of the largest insurers in Europe, would expand its portfolio in the United States with the acquisition of Rural Community Insurance Services.",positive,0.9196734428405762
+2015-12-18,Zurich Insurance to Pay Up to $1.05 Billion for Crop Insurer,neutral,0.09658687561750412
+2016-01-15,A fourth-quarter fizzle for most large banks is followed by a steep drop in their market value in the first two weeks of the first quarter.,negative,-0.9595456719398499
+2016-01-15,Rocky Road Ahead for Big Banks,negative,-0.3482658267021179
+2016-01-20,"While plummeting oil prices are cutting into profits, they are not threatening big banks’ capital cushions, analysts say, thanks to rigorous regulation.",negative,-0.317899227142334
+2016-01-20,Oil Market Tests Banks’ Ability to Weather Losses,neutral,-0.09645523130893707
+2016-02-03,The bank has been in talks with the government since 2012 over claims that it improperly classified some F.H.A.,negative,-0.8577456474304199
+2016-02-03,loans as qualifying for federal insurance.,neutral,0.018515489995479584
+2016-02-03,Wells Fargo to Pay $1.2 Billion in Mortgage Settlement,neutral,-0.06798267364501953
+2016-03-01,"A move into investment banking could help Wells Fargo grow globally, but it would push the lender deeper into businesses it does not know well.",positive,0.8665661811828613
+2016-03-01,A Taunt From Dimon That Wells Fargo Would Be Reckless to Heed,negative,-0.6671478748321533
+2016-03-07,"Wells Fargo underwrote a $75 million bond deal for 38 Studios, a video game company led by Curt Schilling that went bankrupt, leaving taxpayers on the hook for the debt.",negative,-0.1036040186882019
+2016-03-07,Wells Fargo Charged With Fraud in Video Game Start-Up Case,negative,-0.8634576797485352
+2016-04-11,It is shaping up to be another grim year for the nation’s biggest banks.,negative,-0.9213942289352417
+2016-04-11,They were hit hard by a bad environment for trading and deal-making.,negative,-0.9425681829452515
+2016-04-11,Wall Street Earnings: A Grim Quarter for Big Banks,negative,-0.9540414214134216
+2016-04-13,"In long letters this week, two regulators pointed to the dangers created by the global reach and complexity of the largest banks, which are bigger now than they were before the 2008 crisis.",negative,-0.6836345791816711
+2016-04-13,Regulators Warn 5 Top Banks They Are Still Too Big to Fail,negative,-0.7578744888305664
+2016-04-14,"The banks struggled with declining oil prices, low interest rates and choppy financial markets in the first quarter.",negative,-0.9489641189575195
+2016-04-14,A Tough Year for Banking Takes Shape,negative,-0.6297145485877991
+2016-06-21,"Frustrated by thieves stealing personal data from millions of customers, banks are investing in biometric technology to offer better security.",negative,-0.8673704862594604
+2016-06-21,"Goodbye, Password.",neutral,-0.06889762729406357
+2016-06-21,Banks Opt to Scan Fingers and Faces Instead.,neutral,-0.10813174396753311
+2016-08-01,"Wells Fargo joined three other banks in allowing instant payments, a market that has been taken over by services like Apple Pay and PayPal’s Venmo.",positive,0.6084275245666504
+2016-08-01,"Under Pressure, Big Banks Vie for Instant Payment Market",neutral,0.03972895070910454
+2016-08-26,The Consumer Financial Protection Bureau has stepped up pressure on independent banks and lenders such as Wells Fargo to treat their borrowers better.,positive,0.39460915327072144
+2016-08-26,U.S.,neutral,-0.05536564439535141
+2016-08-26,Puts Private Student Loan Servicers on Notice: Play Nice,neutral,-0.014782082289457321
+2016-09-08,Federal banking regulators say that the bank issued unauthorized credit cards and charged late fees on accounts created by bank employees but not authorized by customers.,negative,-0.8058990836143494
+2016-09-08,Wells Fargo Fined $185 Million for Fraudulently Opening Accounts,negative,-0.8446075320243835
+2016-09-09,"Private equity firms may soon get some respite from the Dodd-Frank Act, just as banks come under further pressure.",neutral,0.2191191017627716
+2016-09-09,"Morning Agenda: Dodd-Frank Tussles, Sham Accounts at Wells Fargo, and a Curious Short",neutral,-0.35605388879776
+2016-09-10,"The case reflects a trend in which regulators fine financial institutions and require changes, but not an admission of wrongdoing.",negative,-0.5128018260002136
+2016-09-10,"Wells Fargo Offers Regrets, but Doesn’t Admit Misconduct",neutral,-0.2275959551334381
+2016-09-13,"The legislation, the Financial Choice Act, would repeal or modify aspects of the measure passed in the financial crisis era.",neutral,0.08929204940795898
+2016-09-13,A Dodd-Frank Rollback Bill Clears a House Committee,neutral,0.045866403728723526
+2016-09-14,Federal prosecutors in Manhattan and San Francisco are investigating how bank employees secretly opened accounts without customers’ consent.,negative,-0.8070937395095825
+2016-09-14,Wells Fargo Subpoenaed in Sham Account Case,neutral,-0.2755295932292938
+2016-09-15,"Prosecutors and regulators have often struggled to find definitively who is at fault for misdeeds at big banks, while more easily penalizing small lenders.",negative,-0.8338540196418762
+2016-09-15,Wells Fargo Scandal Offers a Chance to Punish Big Bank Executives,neutral,-0.18134774267673492
+2016-09-16,That senior executives were not held accountable for the reprehensible behavior of bank employees signals a wider cultural cancer on Wall Street.,negative,-0.9048770070075989
+2016-09-16,Wells Fargo Scandal May Be Sign of a Poisonous Culture,negative,-0.5655732750892639
+2016-09-18,The bank’s chief executive will be questioned over the creation of sham accounts and credit cards.,negative,-0.8244056701660156
+2016-09-18,And the Fed is expected to leave interest rates untouched.,neutral,0.04192041605710983
+2016-09-18,Senate Committee to Discuss Wells Fargo Scandal as Federal Reserve Meets,neutral,-0.02718617394566536
+2016-09-19,"In prepared testimony to be delivered before a Senate Committee on Tuesday, John Stumpf, chief executive of Wells Fargo, strikes a decidedly contrite tone on the scandal over fake accounts created by employees at the bank.",negative,-0.8425456285476685
+2016-09-19,John Stumpf’s Prepared Testimony to Senate,neutral,0.04630112648010254
+2016-09-20,"The Justice Department learned of the settlement at the last moment, meaning a late start to its own investigation, which may now face hurdles.",negative,-0.49280402064323425
+2016-09-20,"In Wells Fargo Case, Watchdogs Didn’t Play Team Ball",neutral,-0.12526026368141174
+2016-09-21,"American corporate might is increasingly concentrated in just four states, reflecting a shift toward the technology and biotechnology industries.",neutral,0.039078786969184875
+2016-09-21,"Morning Agenda: Deepening Divides, ‘Gutless Leadership,’ Exxon’s Workings",negative,-0.528205394744873
+2016-09-22,Guidelines issued last year by the Justice Department stressed the need to hold individuals accountable for corporate misdeeds.,neutral,0.033507417887449265
+2016-09-22,Wells Fargo Tests Justice Department’s Get-Tough Approach,neutral,0.0698544979095459
+2016-09-23,"If you invest with a large fund manager, chances are good that your objections to common corporate practices are not getting through.",neutral,-0.24441832304000854
+2016-09-23,"Your Mutual Fund Has Your Proxy, Like It or Not",neutral,-0.008811935782432556
+2016-09-25,"The civil fraud trial of Maurice R. Greenberg, who once led A.I.G., continues; and John Stumpf, head of Wells Fargo, has been invited to testify before a House committee.",neutral,0.03451021388173103
+2016-09-25,Ex-A.I.G.,neutral,0.02767249196767807
+2016-09-25,"Chief Expected to Testify, and House Hearing on Wells Fargo",neutral,0.010252198204398155
+2016-09-26,"In two lawsuits seeking class-action status, workers say they were fired or demoted for acting ethically and falling short of unrealistic sales goals.",negative,-0.9451128840446472
+2016-09-26,Wells Fargo Workers Claim Retaliation for Playing by the Rules,negative,-0.8291528820991516
+2016-09-27,"As John G. Stumpf prepares to face a second round of congressional grilling, the bank’s board said he would forfeit about $41 million in stock awards, forgo his salary during the inquiry and receive no bonus in 2016.",negative,-0.857778787612915
+2016-09-27,"By Taking Back Money, Wells Fargo’s Board Seems to Recall Its Role",negative,-0.510555624961853
+2016-09-28,"The responses that John G. Stumpf, Wells Fargo’s chief executive, gave last week before a Senate committee notably veered off script from his prepared remarks.",neutral,-0.19402046501636505
+2016-09-28,See how.,neutral,0.04290953651070595
+2016-09-28,What Stumpf Is Telling Congress About the Wells Fargo Scandal,neutral,0.0012632757425308228
+2016-09-29,"John Stumpf, the bank’s leader, told lawmakers the sham accounts were an ethical lapse limited to the 5,300 low-level employees, who were fired.",negative,-0.9272623062133789
+2016-09-29,Wells Fargo’s Reaction to Scandal Fails to Satisfy Angry Lawmakers,negative,-0.8960161209106445
+2016-09-30,"Despite clawback provisions at a number of companies, their actual use is somewhat rare, and they are often too weak to pose much of a punitive threat.",negative,-0.7021006345748901
+2016-09-30,"Executive Pay Clawbacks Are Gratifying, but Not Particularly Effective",negative,-0.8525687456130981
+2016-10-06,"Lacy Harber, a wealthy Texas businessman, took out ads in four papers to denounce the bank, which is under fire over its phony accounts scandal.",negative,-0.8609957695007324
+2016-10-06,"After Congressional Grilling, Wells Fargo Is Berated in Newspaper Ads",negative,-0.5872126817703247
+2016-10-07,"Some top private equity firms have been accused of putting their interests ahead of their clients’, but state pension officials still do business with them.",negative,-0.5117425918579102
+2016-10-07,Wells Fargo Isn’t the Only Firm That Needs a Lesson,neutral,0.05137338489294052
+2016-10-11,It is not clear why an executive so closely linked to the scandal involving fake bank and credit card accounts should lead the company.,neutral,-0.15711167454719543
+2016-10-11,Wells Fargo’s Heir Apparent Has Ties to Scandal,neutral,0.008033446967601776
+2016-10-12,He has been mired in a scandal involving sham accounts set up by bank employees.,negative,-0.8202305436134338
+2016-10-12,The bank’s president will succeed him.,neutral,0.025006577372550964
+2016-10-12,Wells Fargo Chief Abruptly Steps Down,negative,-0.48628708720207214
+2016-10-13,"The fake accounts scandal that has plagued Wells Fargo has now taken down its chief executive, who will be replaced by the company’s president and chief operating officer.",negative,-0.8382560014724731
+2016-10-13,Morning Agenda: Wells Fargo C.E.O.,neutral,0.042627811431884766
+2016-10-13,"Resigns, Snap Said to Hire Bankers",negative,-0.6425945162773132
+2016-10-14,"The bank has avoided large penalties for creating unauthorized products, but its competitors are leaping ahead in investment banking and trading.",negative,-0.4596657156944275
+2016-10-14,Wells Fargo’s Problems Go Beyond Sham Accounts Scandal,neutral,-0.3515806794166565
+2016-10-17,"The bank reported its best pretax quarterly earnings in a decade on Monday, but a decent return on equity remains a long way off.",positive,0.6483926773071289
+2016-10-17,Bank of America Inches Toward Long-Term Goal,positive,0.6414139866828918
+2016-10-20,"The California Department of Justice is investigating Wells Fargo, which has its headquarters in San Francisco, over the unauthorized accounts the bank opened in its customers’ names.",negative,-0.8739607334136963
+2016-10-20,Wells Fargo Search Warrant and Affidavit,neutral,-0.00995168648660183
+2016-10-21,Emerging evidence that victim of the fake accounts scandal at Wells Fargo were often the bank’s most vulnerable customers has added to the lender’s troubles.,negative,-0.931969404220581
+2016-10-21,"Morning Agenda: The Lion’s Den, Trump Used to Attract Chinese, Online Lenders Regroup",neutral,-0.013103703036904335
+2016-10-29,Readers respond to “Wells Fargo Must Make Clean Break” (Oct. 16).,neutral,0.34045708179473877
+2016-10-29,What Wells Fargo Must Do,neutral,0.0632161796092987
+2016-11-01,"The bank will reimburse more than 250,000 customers after claims they were overcharged for home appraisals ordered after they defaulted on their mortgage loans.",neutral,0.03706136345863342
+2016-11-01,Wells Fargo to Pay $50 Million to Settle Home Appraisal Overcharges,neutral,0.013038858771324158
+2016-11-02,Wells Fargo has been hit with a $50 million payment to settle a class-action lawsuit for the overcharging of home appraisals.,negative,-0.2720382511615753
+2016-11-02,"Morning Agenda: Wells Fargo Hit Again, Bygone Times",positive,0.1282435953617096
+2016-11-04,"In the latest accusations to hit Wells Fargo, former employees say the bank used termination notices to retaliate against attempts to blow the whistle on its fraudulent activities.",negative,-0.9379686713218689
+2016-11-04,"Morning Agenda: Wells Fargo, Washington and Wall Street, Pharma Price-Fixing",neutral,-0.01496097818017006
+2016-11-07,"Environmental groups urged the banks to halt loan payments to the Dakota Access pipeline, which they say threatens Native American lands and has no place in a world fighting climate change.",negative,-0.900164008140564
+2016-11-07,Environmentalists Target Bankers Behind Pipeline,neutral,-0.31681007146835327
+2016-11-21,"Citigroup, Bank of America and Wells Fargo each moved up a notch in the annual risk rankings of banks deemed to be globally important.",positive,0.8929831385612488
+2016-11-21,"Three Big American Banks Pose Greater Systemic Risk, Regulator Says",positive,0.6189389228820801
+2016-12-06,"As the bank reels in the court of public opinion, it has been able to stop lawsuits from defrauded customers by moving the cases to arbitration.",positive,0.8468137383460999
+2016-12-06,Wells Fargo Killing Sham Account Suits by Using Arbitration,negative,-0.5001487135887146
+2016-12-07,Wells Fargo’s approach to consumer lawsuits over fraudulent accounts is likely to generate even more ill will as it seeks to move these cases to arbitration.,negative,-0.8874465823173523
+2016-12-07,"Morning Agenda: Wells Fargo’s Advantage, Insider Trading, Selling Trump Assets",neutral,0.007638903334736824
+2016-12-10,"Three whistle-blowers have filed a wrongful termination suit against the insurer Prudential, saying they were fired for trying to draw attention to dishonest conduct at Wells Fargo.",negative,-0.9384994506835938
+2016-12-10,Accusations of Fraud at Wells Fargo Spread to Sham Insurance Policies,negative,-0.804485559463501
+2016-12-12,The move comes after a suit was filed claiming the insurer had tried to hush up evidence that the bank had opened sham accounts.,negative,-0.9039971828460693
+2016-12-12,Wells Fargo also cut off sales of renters’ insurance from Assurant.,negative,-0.9553152322769165
+2016-12-12,Prudential Suspends Sales of Its Life Policies by Wells Fargo,negative,-0.8107720017433167
+2016-12-13,Regulators have said the rejection shows the bank has not figured out how to adequately unwind the complex and interconnected parts of its operations.,negative,-0.9443269968032837
+2016-12-13,Wells Fargo’s ‘Living Will’ Plan Is Rejected Again by Regulators,negative,-0.7273038625717163
+2016-12-14,"For the second time this year, Wells Fargo has failed to pass a key regulatory test created after the 2008 financial crisis to reduce the threats posed by large banks to the economy.",negative,-0.46983253955841064
+2016-12-14,"Morning Agenda: The Financial Crisis, Living Wills and Lawsuits",neutral,-0.031632836908102036
+2016-12-22,"A mortgage securitization pro took stock after the turmoil of 2008, opted for something different and made a new business by embracing his inner nerd.",neutral,0.0739794373512268
+2016-12-22,"After the Crisis, This Wall Street Lawyer Turned Fanboy Toy Maker",neutral,-0.02123228646814823

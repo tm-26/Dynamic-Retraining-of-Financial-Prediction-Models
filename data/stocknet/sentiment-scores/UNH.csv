@@ -1,0 +1,29 @@
+Date,Sentence,Prediction,sentimentScore
+2014-04-17,Profit declined 7.8 percent partly because of the health law and the high costs of a hepatitis C treatment.,negative,-0.9646207094192505
+2014-04-17,"Health Law Bellwether, UnitedHealth Posts Lower Profit",negative,-0.9243565797805786
+2014-07-01,"Executive Health Resources, a consultant owned by UnitedHealth Group, assists hospitals with winning larger payments from Medicare.",neutral,0.3441726267337799
+2014-07-01,"UnitedHealth, an Insurer Switching Roles, Helps Hospitals on Medicare Billing",neutral,0.087906114757061
+2014-07-10,"The sector is spending more than $65 billion a year in new “value-based” payment models, according to a Blue Cross Blue Shield Association study, which looked at 350 programs.",neutral,0.13667111098766327
+2014-07-10,"Health Insurers Are Trying New Payment Models, Study Shows",neutral,0.1073802039027214
+2014-09-29,"Many more writers have signed on to Authors United, a group not only challenging Amazon on its Hachette dealings, but also asking federal authorities to investigate it on antitrust matters.",neutral,-0.09111404418945312
+2014-09-29,Literary Lions Unite in Protest Over Amazon’s E-Book Tactics,negative,-0.8444991111755371
+2015-03-30,Catamaran’s agreement to be sold indicates that benefit managers no longer need to make merger offers themselves to stay alive.,neutral,0.14430110156536102
+2015-03-30,UnitedHealth’s $12.8 Billion Deal Could Reduce Further Consolidation,neutral,0.41064852476119995
+2015-06-21,Anthem’s $47 billion takeover bid for Cigna comes as companies look to become even bigger to take advantage of the changes in the health insurance market.,positive,0.6718314290046692
+2015-06-21,Cigna Rejects an Overture From Anthem,negative,-0.5773529410362244
+2015-07-06,"As insurers grow larger, the effect on consumers depends largely on how successfully other companies, particularly those created or attracted by the Affordable Care Act, can compete.",neutral,0.12200060486793518
+2015-07-06,"With Merging of Insurers, Questions for Patients About Costs and Innovation",neutral,-0.02468465268611908
+2015-08-03,"Consumer advocates, policy experts and former regulators say that while Anthem, Cigna, Aetna and Humana may reap monetary benefits by combining, gains might not trickle down to individuals and employers.",positive,0.8235316872596741
+2015-08-03,"Bigger May Be Better for Health Insurers, but Doubts Remain for Consumers",neutral,0.15391415357589722
+2015-11-19,"Citing weak growth in the numbers of new people signing up for coverage, the company said it was reducing its earnings estimates for 2015 and 2016.",negative,-0.9604530334472656
+2015-11-19,"UnitedHealth Lowers Forecast, Blaming Affordable Care Act",negative,-0.899276852607727
+2015-11-20,"Concerned about an adverse effect on choice and price in medical care, consumer advocates and antitrust experts want state insurance commissioners to weigh in on two major merger proposals.",neutral,-0.04731516167521477
+2015-11-20,States Urged to Review Health Insurer Mergers,neutral,-0.04939676821231842
+2016-02-11,"Bank Whistleblowers United, an advocacy group, aims to improve the status of Wall Street whistle-blowers and change the way Wall Street is regulated.",positive,0.6269614100456238
+2016-02-11,"Wall St. Whistle-Blowers, Often Scorned, Get New Support",neutral,-0.12195687741041183
+2016-04-18,Apple and the F.B.I.,neutral,-0.14286528527736664
+2016-04-18,will defend their positions on encryption.,neutral,0.07430031150579453
+2016-04-18,"And Volkswagen faces a Thursday deadline to present its plan to fix 600,000 diesel cars in the United States.",negative,-0.6212377548217773
+2016-04-18,"Apple to Testify Again, and VW Due Date Nears",neutral,0.11731510609388351
+2016-04-19,The company said it planned to withdraw from most states and offer policies on the public exchanges in only some states for 2017.,neutral,0.0021476466208696365
+2016-04-19,"UnitedHealth to Pull Back From Insurance Exchanges, Citing Losses",negative,-0.8351237773895264

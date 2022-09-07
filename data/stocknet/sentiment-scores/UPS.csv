@@ -1,0 +1,53 @@
+Date,Sentence,Prediction,sentimentScore
+2014-03-13,"Plus, reconciling your Picasa photos with Google Plus.",neutral,0.03637790307402611
+2014-03-13,Locking Up Amazon Deliveries,neutral,-0.26643043756484985
+2014-07-08,"With the help of tax increment financing, the Rhode Island city and developers are turning the once-blighted area into residential and public spaces.",neutral,0.4327085316181183
+2014-07-08,East Providence Works to Develop Its Waterfront,neutral,0.04415386915206909
+2014-08-20,"The hacking is the latest in a string of incidents at major retailers, including Target, Neiman Marcus and Supervalu.",negative,-0.9117412567138672
+2014-08-20,United Parcel Service Confirms  Security Breach,neutral,0.07705028355121613
+2014-08-22,"The Department of Homeland Security said on Friday that more than 1,000 businesses had been infected with the cash register malware used in the Target data breach and others, leading to the theft of data from millions of customers’ payment cards.",negative,-0.9290187358856201
+2014-08-22,U.S. Finds ‘Backoff’ Hacker Tool Is Widespread,negative,-0.3925764858722687
+2014-08-29,Who needs UPS trucks and bicycle delivery when you can fly in things people buy online?,neutral,0.013078026473522186
+2014-08-29,Google Joins Amazon in Dreams of Drone Delivery,neutral,-0.0035389959812164307
+2014-09-29,"Many more writers have signed on to Authors United, a group not only challenging Amazon on its Hachette dealings, but also asking federal authorities to investigate it on antitrust matters.",neutral,-0.09111404418945312
+2014-09-29,Literary Lions Unite in Protest Over Amazon’s E-Book Tactics,negative,-0.8444991111755371
+2014-10-23,"Many pro football teams have added museums, historical displays and halls of fame to turn their stadiums into magnets for fans all year long.",neutral,0.21214988827705383
+2014-10-23,Encouraging a Walk in the Hall of Fame,neutral,0.07828284800052643
+2014-11-03,"Americans are expected to buy a record $89 billion worth of gifts online, a 13 percent jump over the 2013 season.",positive,0.8896820545196533
+2014-11-03,"Stung Last Year, Retailers and Shippers Retool for the Holiday Season",neutral,-0.2243601530790329
+2014-12-13,"The number of people worldwide who are living in extreme poverty has been declining sharply, partly attributable to rising incomes in India and China.",negative,-0.9625979065895081
+2014-12-13,A Global Gauge Finds Progress Against Poverty,negative,-0.3081277906894684
+2014-12-22,"FedEx and UPS are aiming to avoid last year’s chaos, when a late surge in shipments and bad weather left many gifts to be delivered late.",negative,-0.5692194104194641
+2014-12-22,Crunch Time for FedEx and UPS as Last-Minute Holiday Shipping Ramps Up,neutral,0.19517681002616882
+2014-12-23,"After five years, this is the final post on You’re the Boss.",neutral,0.03329891711473465
+2014-12-23,"As a parting gift, we offer some highlights from another year spent in the trenches, where we all continued to make mistakes and learn lessons.",neutral,0.12586534023284912
+2014-12-23,"So Long, From You’re the Boss",neutral,0.0037893131375312805
+2015-01-15,Banks are blaming market ups and downs for hurting earnings.,negative,-0.9355770349502563
+2015-01-15,"That’s rich after years of claiming conditions were too docile, writes Antony Currie of Reuters Breakingviews.",negative,-0.4665721654891968
+2015-01-15,Volatility Is the New Weather for Banks,neutral,0.010611481964588165
+2015-04-07,"Cost savings, cheap debt and a strong dollar could help FedEx realize good returns on the merger.",positive,0.9050260186195374
+2015-04-07,"In Deal for TNT Express, FedEx Bets on European Recovery",neutral,0.15415707230567932
+2015-04-11,"Investors can reduce exposure to currency fluctuations by choosing certain types of funds, but some argue it is better to ignore the ups and downs.",neutral,0.0999637320637703
+2015-04-11,The Limits of Outsmarting a Strong Dollar,neutral,-0.026746585965156555
+2015-04-27,"Long-shot hopefuls can be expected to surge in popularity after they announce their presidential bids, but such bounces rarely last.",neutral,0.3953431248664856
+2015-04-27,How to Read the Ups and Downs of Polling in the G.O.P.,neutral,0.009996242821216583
+2015-04-27,Race,neutral,-0.02636571228504181
+2015-06-17,"The housing market in much of the nation seems to be in a Goldilocks moment, neither too hot nor too cold, with low mortgage rates an added bonus.",neutral,0.10181379318237305
+2015-06-17,"After an Era of Ups and Downs, Home Prices Return to Sanity",positive,0.49023810029029846
+2015-07-09,"Analysts warned that markets have further to fall, with the valuations of many small companies remaining too high.",negative,-0.95346999168396
+2015-07-09,"Chinese Stocks Rise, but Fears Persist",negative,-0.861516535282135
+2015-07-29,The package delivery giant wants to displace 12 percent of the petroleum-based fuels in its ground fleet by 2017 and hopes to stimulate investment.,positive,0.7862231135368347
+2015-07-29,UPS Agrees to Buy 46 Million Gallons of Renewable Diesel,positive,0.7190601825714111
+2015-07-31,The European Commission said it had concerns that the $4.8 billion merger could decrease competition and lead to higher prices for consumers.,negative,-0.9040325284004211
+2015-07-31,FedEx-TNT Express Deal to Be Investigated in Europe,neutral,-0.4484317898750305
+2015-10-21,"After guiding CIT’s transformation into more of commercial bank, the former Goldman Sachs executive will apparently be stepping down on a high note.",neutral,-0.07158222794532776
+2015-10-21,Timeline: The Rise and Fall and Rise of John Thain,neutral,0.025460828095674515
+2016-02-02,Yahoo and Twitter are just the latest tech companies shaping plans for major overhauls and management shake-ups.,neutral,-0.008190855383872986
+2016-02-02,"A look back at how Priceline, Amazon and eBay weathered turbulent times.",positive,0.4607715606689453
+2016-02-02,Tech’s Track Record of Shake-Ups at the Top,neutral,-0.30800148844718933
+2016-02-11,"Bank Whistleblowers United, an advocacy group, aims to improve the status of Wall Street whistle-blowers and change the way Wall Street is regulated.",positive,0.6269614100456238
+2016-02-11,"Wall St. Whistle-Blowers, Often Scorned, Get New Support",neutral,-0.12195687741041183
+2016-03-25,An industry takes aim at significant barriers to selling its complicated products that also remind potential customers of their own mortality.,neutral,0.04146161675453186
+2016-03-25,Life Insurance Tries to Lighten Up,neutral,0.2666674852371216
+2016-10-14,"Dollar-cost averaging offers investors a way to avoid the risks of trying to time the markets, and to save gradually, at a reasonable price.",neutral,0.4434479773044586
+2016-10-14,How Regular Investing Smooths the Market’s Ups and Downs,neutral,0.061832964420318604

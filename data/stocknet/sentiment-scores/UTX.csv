@@ -1,0 +1,32 @@
+Date,Sentence,Prediction,sentimentScore
+2014-01-27,"United Technologies is considering Sikorsky, the maker of the Black Hawk helicopter, as a candidate for a tax-free spinoff or potentially a sale to a rival.",neutral,0.03837817907333374
+2014-01-27,United Technologies Considers Sale or Spin-Off of Sikorsky,neutral,0.0055025480687618256
+2014-05-08,Sikorsky Aircraft and Lockheed Martin won a $1.24 billion contract on Wednesday to begin building a new presidential helicopter.,positive,0.8986644744873047
+2014-05-08,Sikorsky and Lockheed to Build New Presidential Helicopter,neutral,0.07401066273450851
+2014-09-29,"Many more writers have signed on to Authors United, a group not only challenging Amazon on its Hachette dealings, but also asking federal authorities to investigate it on antitrust matters.",neutral,-0.09111404418945312
+2014-09-29,Literary Lions Unite in Protest Over Amazon’s E-Book Tactics,negative,-0.8444991111755371
+2015-03-30,Korea Aerospace Industries has been selected for the $7.7 billion project and will receive technological help from Lockheed Martin.,positive,0.7112262845039368
+2015-03-30,South Korea Picks Contractor to Develop New Jet Fighter,positive,0.6808401346206665
+2015-06-15,"A decision on the fate of the 90-year-old company, which makes Black Hawk helicopters, is expected by the end of the third quarter.",neutral,-0.021220726892352104
+2015-06-15,United Technologies Plans to Sell or Spin Off Sikorsky Unit,neutral,-0.023654649034142494
+2015-07-20,"The deal would further bolster Lockheed’s status as the world’s biggest military contractor, giving it another major business line.",positive,0.9256479144096375
+2015-07-20,Lockheed Martin to Buy Sikorsky Aircraft for $9 Billion,neutral,0.03502434864640236
+2016-02-11,"Bank Whistleblowers United, an advocacy group, aims to improve the status of Wall Street whistle-blowers and change the way Wall Street is regulated.",positive,0.6269614100456238
+2016-02-11,"Wall St. Whistle-Blowers, Often Scorned, Get New Support",neutral,-0.12195687741041183
+2016-02-23,"The impasse between the two has halted, at least for now, the creation of what would be a nearly $150 billion industrial giant.",negative,-0.8213226795196533
+2016-02-23,United Technologies Declines Renewed Offer From Honeywell,negative,-0.12482753396034241
+2016-02-24,Analysts appear to have concluded that putting the two companies together poses at least some antitrust risk.,neutral,0.2467978596687317
+2016-02-24,Honeywell and United Technologies Disagree on Merits of Merger,negative,-0.7789368629455566
+2016-02-26,United Technologies responded to Honeywell’s latest bid with a presentation outlining its concerns about antitrust problems.,neutral,0.3408704102039337
+2016-02-26,Honeywell Persists in Pursuit of United Technologies,neutral,0.033946990966796875
+2016-03-01,Honeywell said it was withdrawing its $90 billion takeover offer after its rival steadfastly argued that a union would be blocked by regulators.,negative,-0.9118661880493164
+2016-03-01,"Honeywell, Facing Resistance, Drops Bid for United Technologies",negative,-0.7552494406700134
+2016-03-19,"As factory jobs move abroad, the divide between the political and economic elite and the rest of Americans widens, placing the two groups at odds.",negative,-0.8325067758560181
+2016-03-19,"Carrier Workers See Costs, Not Benefits, of Global Trade",neutral,-0.18141934275627136
+2016-11-24,"Donald J. Trump, who had made coming job losses at a Carrier plant a campaign issue, said he had reached out to the company.",neutral,0.20115864276885986
+2016-11-24,Trump Cites Progress in Keeping Carrier Air Conditioning Plant in Indiana,positive,0.8317868709564209
+2016-11-26,Two factories in Indiana were slated to close and their jobs moved to Monterrey.,negative,-0.9137722253799438
+2016-11-26,"Mr. Trump tweeted, “Making progress,” in capital letters.",positive,0.663453996181488
+2016-11-26,"Trump Leans on Carrier to Keep 2,000 U.S. Jobs From Moving to Mexico",negative,-0.8898928761482239
+2016-12-26,"Big takeovers by the likes of the pharmaceutical giant Pfizer, the Oreos maker Mondelez and the office supply retailer Staples were all consigned to the scrap heap.",negative,-0.6331667900085449
+2016-12-26,2016 Was a Year for Undoing Major Deals,negative,-0.4712141156196594

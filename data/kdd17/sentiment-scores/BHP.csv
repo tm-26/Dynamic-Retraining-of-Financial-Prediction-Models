@@ -1,0 +1,495 @@
+Date,Sentence,Prediction,sentimentScore
+2007-02-08,"The chief of BHP Billiton, the Australian mining company, delivered an early farewell gift: record half-year earnings and a $10 billion stock buyback.",positive,0.8332545161247253
+2007-02-08,"After Record Profit, Chief Says He’ll Leave",negative,-0.42295512557029724
+2007-02-08,"Charles W. Goodyear, the affable Texan and chief executive who adroitly steered BHP Billiton, the Australian mining company, through China’s bull market for resources, told shareholders on Wednesday that he would leave in December, and he delivered an early farewell gift: record half-year earnings and a $10 billion stock buyback.",positive,0.5198521018028259
+2007-02-08,"After Record Profit, Mining Chief Says He’ll Leave",negative,-0.7329862117767334
+2007-02-13,Shares of Alcoa rose in premarket trading Tuesday after The Times of London reported that two British-Australian mining giants were considering buying the aluminum producer.,positive,0.8852027654647827
+2007-02-13,"The paper said that BHP Billiton and Rio Tinto have begun examining the possibilities of a $40 billion buyout of the Pittsburgh-based company, while Alcoa has separately drawn up a list of chief executive candidates.",neutral,0.04567122831940651
+2007-02-13,Report Stokes Speculation About Alcoa Takeover,negative,-0.5265836119651794
+2007-02-14,"Speculation that mining giants BHP Billiton and Rio Tinto are both circling U.S. aluminum producer Alcoa has, unsurprisingly, turned industry watchers’ attention to other possible takeover targets in the industry.",negative,-0.6952809691429138
+2007-02-14,Takeover Speculation Heats Up Aluminum Sector,neutral,-0.06404518336057663
+2007-05-08,"BHP Billiton once considered a possible suitor for Alcoa, which began a hostile bid of its own for Alcan, may become a target itself.",neutral,-0.1769505888223648
+2007-05-08,Could BHP Be the First $120 Billion Buyout Target?,neutral,0.05692711099982262
+2007-05-09,"Days after an analyst’s report suggested that BHP Billiton, the Australian mining company, could become a target for private equity buyers, speculation surfaced that the company is considering a bid for a rival, the Rio Tinto Group.",neutral,0.12679870426654816
+2007-05-09,Rumors of BHP Bid for Rio Tinto Send Shares Soaring,negative,-0.5151024460792542
+2007-05-23," The Canadian aluminum producer Alcan rejected a $27.4 billion hostile bid from a rival, Alcoa, on Tuesday, calling the offer inadequate.",negative,-0.937968373298645
+2007-05-23,Alcan said that it was in talks with other companies — The Globe and Mail newspaper reported that one of them is the Australian mining giant BHP Billiton — and added that it was considering the possibility of turning the tables with a counterbid for Alcoa.,neutral,0.08208951354026794
+2007-05-23,Alcan Spurns Hostile Bid and Talks to White Knights,neutral,0.020501434803009033
+2007-06-01,"BHP Billiton, the mining company, chose the head of its copper and aluminum division, Marius Kloppers, to succeed its American chief executive, Charles W. Goodyear, when Mr. Goodyear steps down Oct. 1.",neutral,0.051006563007831573
+2007-06-01,Mr. Goodyear has overseen a wave of record-setting earnings since taking charge of the company in 2003 as the company benefited from a China-led boom in demand for iron and other metals.,positive,0.8824253082275391
+2007-06-01,"But in the last two years, soaring prices for copper have fueled BHP’s results.",positive,0.9035742878913879
+2007-06-01,"Mr. Kloppers, a 44-year-old South African, played a crucial role in BHP’s merger with Billiton in 2001 and in the $7.6 billion takeover of WMC Resources in 2005.",neutral,0.09388426691293716
+2007-06-01,BHP Billiton Selects a Chief Executive,neutral,0.01583060994744301
+2007-06-01,"BHP Billiton, the mining company, chose the head of its copper and aluminum division, Marius Kloppers, to succeed its American chief executive, Charles W. Goodyear, when Mr. Goodyear steps down Oct. 1.",neutral,0.05100661516189575
+2007-06-01,BHP Billiton Selects a Chief Executive,neutral,0.01583060994744301
+2007-06-18,"BHP Billiton, the world’s largest mining company, has revived plans for a $40 billion (£20.2 billion) takeover of Alcoa, according to The Times of London.",positive,0.5552185773849487
+2007-06-18,"The newspaper, without citing any named sources, said BHP is in the early stages of evaluating the merits of a takeover.",neutral,0.1364811211824417
+2007-06-18,"BHP, based in Melbourne, “is not thought to have” formally approached Alcoa, the Times reported.",neutral,-0.14391304552555084
+2007-06-18,"BHP Considers New $40 Billion Bid for Alcoa, Report Says",neutral,0.18999716639518738
+2007-06-21,"Alcan, seeking to fend off a $27.7 billion hostile bid from Alcoa, has given BHP Billiton and Rio Tinto Group access to its financial data, according to The Sydney Morning Herald.",positive,0.650833785533905
+2007-06-21,"Alcan Opens Books to BHP and Rio Tinto, Report Says",positive,0.6393594145774841
+2007-07-10,"BHP Billiton may be seeking private-equity partners for a possible bid for Alcoa, which extended its unsolicited $28.6 billion offer for Alcan on Monday.",neutral,0.46497446298599243
+2007-07-10,Will Private Equity Step Into Steelmaker Standoff?,negative,-0.6754499673843384
+2007-07-20,Pallinghurst Resources Australia has increased its offer for Consolidated Minerals in an effort to thwart a rival bid from Territory Resources.,positive,0.8601721525192261
+2007-07-20,"Pallinghurst, an investment fund led by former BHP Billiton C.E.O.",neutral,0.03695926070213318
+2007-07-20,"Brian Gilbertson, has now offered A$752 million ($662 million) in cash.",neutral,0.07387956976890564
+2007-07-20,"Territory’s bid is higher at A$806 million, but includes stock, reported Bloomberg News.",positive,0.7577682137489319
+2007-07-20,Pallinghurst Raises Bid for Consolidated Minerals,positive,0.3991684913635254
+2007-07-25,Rio Tinto’s  recent offer of $38.1 billion for Alcan may be a sign that aluminum is no longer an estranged cousin in the mining industry.,negative,-0.40888792276382446
+2007-07-25,Aluminum: Quarry for Mining Companies,neutral,-0.02639433741569519
+2007-08-23,BHP Billiton of Australia said that weakness in the American housing market showed no sign of reducing demand for commodities in Asia and Europe.,negative,-0.8491933941841125
+2007-08-23,Record Profit at Australian Mining Giant,positive,0.5392882823944092
+2007-09-06,"Shares of the mining giant Rio Tinto were up sharply Thursday on market speculation that it might be taken over by two rivals, BHP Billiton and Companhia Vale do Rio Doce.",positive,0.7539033889770508
+2007-09-06,Rio Tinto Shares Rise on Rumors of a Two-Pronged Bid,positive,0.35202348232269287
+2007-11-08,BHP Billiton said Thursday that it had approached Rio Tinto about a potential takeover that would create a global mining giant worth about $360 billion.,positive,0.6572237610816956
+2007-11-08,"Rio rejected its offer, but BHP added that it would continue to press for a deal, which would rank among the largest mergers in history.",positive,0.49350976943969727
+2007-11-08,Rio Tinto Rejects $140 Billion Takeover Bid,neutral,0.12680110335350037
+2007-11-08,"It’s hardly a done deal, but if BHP Billiton succeeds in acquiring its rival mining giant Rio Tinto, it would be a tie-up for the record books.",neutral,0.3340228199958801
+2007-11-08,"Deal price tags have not been this high since 2000, a banner year for megamergers that brought us the union of America Online and Time Warner.",neutral,0.18213045597076416
+2007-11-08,Mining for a Blockbuster Merger,neutral,0.025567643344402313
+2007-11-08,Rumors of a BHP Billiton–Rio Tinto mining megamerger were percolating for months before BHP said Thursday it had made a formal approach.,negative,-0.43863487243652344
+2007-11-08,"But after looking at the recent trading in Rio Tinto’s stock options, one analyst speculated that someone may have had advance notice that an offer was coming.",positive,0.4857097566127777
+2007-11-08,Who Struck Gold in Rio Tinto’s Options?,neutral,0.008244261145591736
+2007-11-09,"Rio Tinto, the London- and Melbourne-based mining company, rejected a $140 billion bid Thursday from its rival, BHP Billiton — calling it too low.",negative,-0.9265323877334595
+2007-11-09,Mine Giant Rejects Bid From Rival,negative,-0.6658674478530884
+2007-11-09,"Rio Tinto‘s rejection of a $140 billion all-share offer from BHP Billiton is likely to trigger rival bids from resource companies awash with cash from record commodity and stock prices, analysts said.",negative,-0.15169543027877808
+2007-11-09,BHP’s Rejected Offer for Rio May Trigger Bidding War,negative,-0.9136617183685303
+2007-11-10,"BHP Billiton, the world’s largest mining company, sees demand from China fueling a long-term run in commodities prices, and intends to continue its quest to buy rival Rio Tinto.",positive,0.7199926972389221
+2007-11-10,"In Mine Bid, BHP Again Takes the Long View",neutral,0.1680692732334137
+2007-11-12,"BHP Billiton on Monday mapped out its plan for acquiring rival Rio Tinto, promising to hand shareholders $30 billion via a share buyback if the deal goes through, in the hope of drawing Rio’s board into talks.",positive,0.7137644290924072
+2007-11-12,BHP Outlines Details of Rio Tinto Bid,neutral,0.02508857287466526
+2007-11-13,"Yet BHP Billiton, whose $153 billion takeover offer for rival Rio Tinto was rejected by the target’s board, stopped short of making a hostile bid for Rio.",negative,-0.7349998950958252
+2007-11-13,BHP Takes Buyout Plan to Shareholders of Rival,neutral,0.07122400403022766
+2007-11-13,"BHP Billiton, whose $153 billion takeover offer for a rival mining company, Rio Tinto, was rejected by the target’s board, took its case to shareholders Monday, detailing what it said would eventually be $3.7 billion in annual savings and holding out the promise of $30 billion in payouts if the deal goes ahead.",positive,0.5049748420715332
+2007-11-13,BHP Takes Buyout Plan to Shareholders of Rival,neutral,0.07122400403022766
+2007-11-16,"Shares in BHP Billiton rose as much as 2.4 percent on Friday, bucking the trend in a broadly falling stock market, following a report that Rio Tinto was considering a counterbid for its BHP.",positive,0.8988903760910034
+2007-11-16,Rio Tinto Said to Mull Pac-Man Defense Against BHP,neutral,-0.270724892616272
+2007-11-20,"Rio Tinto is considering offering joint ventures with BHP Billiton as an alternative to BHP’s proposed $140 billion takeover, The Telegraph reported.",neutral,0.3778672218322754
+2007-11-20,"Rio Tinto May Offer BHP an Alliance, Report Says",positive,0.6117917895317078
+2007-11-26,"Almost three weeks after rejecting a takeover proposal from BHP Billiton, Rio Tinto laid out its case today for why it thinks its shareholders should hold out for a better offer.",neutral,0.15023581683635712
+2007-11-26,Rio Tinto Defends Rejection of Bid,neutral,0.19936031103134155
+2007-11-26,"The mining giant Rio Tinto promoted its assets and growth prospects Monday as it moved to justify its earlier rejection of a takeover proposal from a rival, BHP Billiton, a multibillion dollar deal that would be among the world’s largest buyouts.",positive,0.805537760257721
+2007-11-26,Rio Tinto Defends Rejection of BHP Billiton,neutral,0.17724107205867767
+2007-11-27,"Almost three weeks after rejecting a takeover proposal from BHP Billiton, Rio Tinto laid out its case Monday for why it thinks its shareholders should hold out for a better offer.",neutral,0.06456084549427032
+2007-11-27,Rio Tinto Defends Rejection of Bid,neutral,0.19936031103134155
+2007-11-27,"While Rio Tinto continued Monday to outline why a $153 billion takeover proposal from rival mining company BHP Billiton was not in its best interests, the company nevertheless seemed to signal that it was receptive to suitors.",positive,0.6851187944412231
+2007-11-27,Rio Tinto Is Open to Offers — at the Right Price,neutral,0.2010534703731537
+2007-11-29,"BHP Billiton, the world’s largest mining company, should increase its $132 billion proposal to win over shareholders of rival Rio Tinto Group or drop the takeover bid, RBC Capital Markets said.",positive,0.2520536184310913
+2007-11-29,Analyst to BHP: Raise Rio Bid or Ditch It,negative,-0.43541616201400757
+2007-12-03,"The market value of mining giant Rio Tinto continues to outstrip the multibillion dollar bid put forward by rival BHP Billiton, Rio’s Chief Executive Tom Albanese said Sunday.",positive,0.6425632834434509
+2007-12-03,"Market Has Spoken on BHP Bid, Rio Chief Says",neutral,0.12302186340093613
+2007-12-04,"Top China steelmaker Baosteel is weighing a bid to counter BHP Billiton‘s $125 billion takeover offer for Rio Tinto Group, Baosteel Chairman Xu Lejiang told a Chinese business newspaper.",neutral,0.3574383854866028
+2007-12-04,Baosteel Chief Said to Mull Rio Counter-Bid,neutral,-0.2906055450439453
+2007-12-11,"The Rio Tinto Group, the mining company, said Tuesday that it had asked British regulators to force its competitor BHP Billiton to turn its $139 billion takeover proposal into a formal bid or to drop the offer.",negative,-0.9054825305938721
+2007-12-11,Rio Tells BHP to Put Up or Shut Up,negative,-0.6593492031097412
+2007-12-12,"BHP Billiton said on Wednesday it was considering possible next moves in its attempt to open takeover talks with a rival mining company, Rio Tinto, which has so far rebuffed its overtures.",negative,-0.788926362991333
+2007-12-12,BHP Considers Next Move in Rio Tinto Bid,neutral,0.033001504838466644
+2008-01-30,"As BHP Billiton mulls its next move for Rio Tinto after having its first overture for the miner rebuffed, the latter’s advisers have apparently been busy checking out BHP’s books.",negative,-0.7488775253295898
+2008-01-30,Rio Advisers Say BHP Could Pay a Lot More,neutral,-0.2636158764362335
+2008-02-01,The move was an apparent effort to head off a huge mining merger that China feared could drive up prices.,neutral,-0.05295407772064209
+2008-02-01,China and Alcoa Buy Stake in Rio Tinto,neutral,0.19508276879787445
+2008-02-01,"China has muscled in on miner BHP Billiton‘s attempts to buy rival Rio Tinto, with its biggest aluminum producer teaming up with U.S. group Alcoa to buy a 12 percent stake in Rio.",neutral,0.1889226883649826
+2008-02-01,Chinalco Teams With Alcoa to Take Stake in Rio Tinto,positive,0.48303714394569397
+2008-02-02,The move underscored the strategic significance of mining in a resource-stretched age as well as China’s formidable and still largely untapped economic might.,positive,0.8769137263298035
+2008-02-02,Alcoa and Chinese Rival Buy 12% Stake in Rio Tinto,neutral,0.20826587080955505
+2008-02-04,BHP Billiton must decide by Wednesday if it will proceed with a bid for Rio Tinto after China intervened with a strategic investment that could sharply increase the price of the merger.,positive,0.34864312410354614
+2008-02-04,BHP Weighs Options in Rio Tinto Bid,neutral,0.008690416812896729
+2008-02-04,"BHP Billiton, the world’s largest mining company, must raise its $127 billion bid for the Rio Tinto Group to at least match the price Aluminum Corporation of China paid for its stake, Bloomberg News reported citing investors and analysts.",positive,0.8816613554954529
+2008-02-04,BHP May Need to Match Chinalco Bid for Rio,neutral,0.40075865387916565
+2008-02-05,A move by China in a possible mining deal could sharply increase the price of what would be one of the biggest mergers in corporate history.,positive,0.7380762100219727
+2008-02-05,BHP Weighs Options in Rio Tinto Bid,neutral,0.008690416812896729
+2008-02-05,"The world’s biggest mining company, BHP Billiton, must decide by Wednesday whether it will proceed with a bid for a rival, the Rio Tinto Group, after China intervened with a strategic investment that could sharply increase the price of what would be one of the biggest mergers in corporate history.",positive,0.2365843951702118
+2008-02-05,BHP Weighs Options in Rio Tinto Bid,neutral,0.008690416812896729
+2008-02-05,"After months of posturing, BHP Billiton finally unveiled a $147.4 billion offer for the Rio Tinto Group in what would be one of the largest mergers in history.",positive,0.7129493355751038
+2008-02-05,BHP Makes $147 Billion Offer for Rio Tinto,neutral,0.35979217290878296
+2008-02-06,The mine’s board said BHP Billiton’s improved takeover offer of about $147 billion still undervalues the company significantly.,negative,-0.5615664720535278
+2008-02-06,Rio Tinto Rejects Latest Offer,negative,-0.5712460279464722
+2008-02-06,The battle over Rio Tinto intensified after BHP Billiton increased its takeover offer to about $147 billion after a Chinese rival bought a stake last week.,positive,0.5509196519851685
+2008-02-06,BHP Billiton Launches Hostile Bid for Rio Tinto,neutral,-0.14303787052631378
+2008-02-06,BHP Billiton is hoping its increased $147 billion takeover offer for Rio Tinto is enough to bring the board to the table.,positive,0.8179189562797546
+2008-02-06,Will $147 Billion Be Sweet Enough For Rio Tinto?,neutral,0.28696107864379883
+2008-02-06,"Merrill Lynch, dropped as an adviser and financier to the Brazilian mining company Vale, has re-emerged in the mining sector as a lender to BHP Billiton, which raised its bid for a rival, Rio Tinto.",neutral,-0.09212703257799149
+2008-02-06,Merrill Gets In on Another Big Mining Deal,neutral,0.10872239619493484
+2008-02-06,It’s BHP Billiton‘s move again.,neutral,0.370694100856781
+2008-02-06,Rio Tinto Rejects BHP a Second Time,negative,-0.4783184826374054
+2008-02-07,The board of the mining company said BHP Billiton’s improved takeover offer of about $147 billion still undervalues the company significantly.,negative,-0.4928450882434845
+2008-02-07,Rio Tinto Rejects Latest Offer,negative,-0.5712460279464722
+2008-02-08,"By its sheer size alone, BHP Billiton‘s $147 billion dollar “hostile” offer for Rio Tinto is a landmark deal.",positive,0.7726273536682129
+2008-02-08,"If successful, it would be one of the largest cross-border takeovers in history and would create a global mining behemoth.",neutral,0.27545806765556335
+2008-02-08,But the transaction is also a deal lawyer’s dream.,neutral,0.1725969761610031
+2008-02-08,The Wonderful Complexity of BHP-Rio Tinto,neutral,0.15489548444747925
+2008-02-14,"Rio Tinto again rebuffed a hostile takeover bid by its larger rival, BHP Billiton, saying that there was “clear water” between BHP’s sweetened $147 billion bid and its fair value.",negative,-0.5693590044975281
+2008-02-14,"As Profits Rise, Rio Again Rebuffs BHP",negative,-0.30412280559539795
+2008-02-20,"CNBC interviews Tom Albanese, chief executive of Rio Tinto, on his company's rejection of BHP Billiton's offer to buy it.",negative,-0.5606080293655396
+2008-02-20,Rio Tinto Chief on BHP Buyout Bid,neutral,0.12465246766805649
+2008-02-21,"Rio Tinto’s stance could pressure Chinese steel makers, who are major customers, and may signal the beginning of the end for the benchmark system of iron ore pricing.",negative,-0.9252924919128418
+2008-02-21,Rio Tinto May Break With Other Producers on Iron Ore Price,negative,-0.8183738589286804
+2008-03-04,"The mining giant BHP Billiton has approached sub-underwriting banks in an effort to secure a record $55 billion loan to back its hostile bid for its rival Rio Tinto, according to Reuters.",positive,0.7485366463661194
+2008-03-04,BHP Billiton in Talks for Record $55 Billion Loan,neutral,0.08473260700702667
+2008-03-05,"Chinalco‘s recent purchase of a stake in Rio Tinto, the world’s second-largest mining company, reinforces Rio’s rejection of BHP Billiton‘s hostile takeover bid on the grounds that the bid undervalues the firm, Rio Tinto’s chief executive said on Wednesday according to Reuters.",negative,-0.47975611686706543
+2008-03-05,Rio C.E.O.,neutral,0.044860489666461945
+2008-03-05,Says China Stake Purchase Shows Company’s Value,neutral,0.2345784306526184
+2008-03-27,"BHP Billiton, which is bidding $133 billion for Rio Tinto Group, will seek talks with Aluminum Corporation of China after the latter bought a potential blocking stake in Rio Tinto last month.",neutral,0.1556178331375122
+2008-03-27,BHP Seeks Talks With Chinalco on Rio Tinto,neutral,0.13410688936710358
+2008-04-09,"China may be moving closer to attempting something many have considered unthinkable: taking a substantial stake in the world’s largest miner, BHP Billiton.",positive,0.6398389339447021
+2008-04-09,Is China Planning to Snap Up a $20 Billion Stake in BHP?,neutral,-0.25965994596481323
+2008-05-02,"The market is assigning long odds BHP Billiton will succeed in its bid to acquire Rio Tinto amid growing fear regulators will block the tie up between the world’s first and third-largest miners, The Wall Street Journal reported.",negative,-0.510357141494751
+2008-05-02,"Investors Betting Against BHP’s Rio Bid, Report Says",positive,0.06085801124572754
+2008-05-02,Investors are clearly skittish about BHP Billiton‘s $162 billion hostile bid for rival mining monster Rio Tinto.,negative,-0.9324820637702942
+2008-05-02,"Rio Tinto’s market value has sunk relative to BHP’s in recent days, giving back much of the premium investors had originally pumped into Rio Tinto’s shares.",negative,-0.9661596417427063
+2008-05-02,Regulatory concerns are a major issue.,neutral,-0.08618346601724625
+2008-05-02,"But a growing valuation gap may also be working against this deal, which, if completed, would rank among the largest takeovers in history.",positive,0.630483090877533
+2008-05-02,Digging Into the Numbers in a Mining Deal,neutral,-0.043218016624450684
+2008-05-14,"BHP Billiton was not ruling out adding cash to its all-share hostile offer for rival Rio Tinto, BHP’s chief executive, Marius Kloppers, told CNBC.",neutral,0.22952204942703247
+2008-05-14,"BHP Won’t Rule Out Adding Cash to Rio Bid, Chief Says",neutral,0.2907467186450958
+2008-05-16,"Shares of BHP Billiton set a record high in Sydney, Australia on Friday, after a local newspaper reported that China has approached an Australian superannuation and investment fund to partner in a multibillion-dollar attempt to buy a 9 percent stake in the mining giant.",positive,0.7100986838340759
+2008-05-16,BHP Stock Mines Gold On Report of Partial Stake Buy,neutral,-0.07658587396144867
+2008-06-06,"Pursuing its $167 billion takeover of Rio Tinto Group, BHP Billiton has made a submission to the Australian competition regulator seeking approval for the hostile bid, Bloomberg reported.",neutral,0.3047826886177063
+2008-06-06,BHP Asks Australian Regulator for Rio Tinto Approval,neutral,0.03236662596464157
+2008-06-12,"BHP Billiton on Thursday took its case for a takeover of rival Rio Tinto to well-heeled investors on Thursday, saying a marriage could better capture markets in fast-industrializing Asian economies.",positive,0.8645806312561035
+2008-06-12,BHP Chief Makes His Case for Rio Deal,neutral,0.08499705046415329
+2008-07-03,BHP Billiton said on Thursday that U.S. antitrust authorities had largely cleared its effort to acquire rival Rio Tinto for $170 billion.,positive,0.4362047612667084
+2008-07-03,BHP Clears Most U.S. Hurdles in Rio Tinto Pursuit,negative,-0.30529576539993286
+2008-07-05,European Union regulators extended an investigation into BHP Billiton’s hostile bid for the Rio Tinto Group because of “serious doubts” about the combination.,negative,-0.8813709020614624
+2008-07-05,Europe Delays Decision on Mining Company Merger,negative,-0.5578151941299438
+2008-08-08,"Rio Tinto, the target of a hostile bid from rival miner BHP Billiton, filed for an initial public offering of its North American coal business on Friday but said it is still considering other options.",neutral,-0.017116159200668335
+2008-08-08,Rio Tinto Unit Files to Sell Shares,neutral,-0.2077878713607788
+2008-08-18,"BHP, the world’s largest mining company, reported net income of $15.4 billion for the year, helped by the jump in commodity prices, higher production and an ability to pass on higher costs.",positive,0.9320570230484009
+2008-08-18,Record Profit at BHP Billiton Eases Doubts,negative,-0.8254784941673279
+2008-08-19,"BHP Billiton reiterated its commitment to its bid for rival Rio Tinto, as the the world’s largest mining company posted record net income Monday.",positive,0.8887424468994141
+2008-08-19,"Posting Record Profits, BHP Keeps Its Eye on Rio",positive,0.6139732599258423
+2008-08-26,"The global mining company said net income had more than doubled to $6.9 billion in the period, lifted by booming Asian demand for iron ore and the acquisition of Alcan.",positive,0.9372522234916687
+2008-08-26,Rio Tinto Posts Record First-Half Profit,positive,0.6622216105461121
+2008-08-27,"Rio Tinto, the global mining company, posted record first-half profit Tuesday, bolstering its effort to fend off a hostile takeover by BHP Billiton.",positive,0.8876320719718933
+2008-08-27,Rio Tinto’s Record First-Half Profit Helps in Battle With BHP,positive,0.45954662561416626
+2008-09-12,"Employers hired almost three times as many workers in August as economists had forecast, adding to evidence that an Australian mining boom is offsetting weaker domestic demand.",negative,-0.5081100463867188
+2008-09-12,Australia: Job Creation Tops Forecasts,positive,0.4639638662338257
+2008-10-22,"Shares in Rio Tinto, the global mining giant, jumped 5 percent in a weak market on Wednesday, swept up by rumors ranging from a sweetened cash bid by BHP Billiton to a Chinese counterbid.",positive,0.31538569927215576
+2008-10-22,Rio Tinto Jumps on Bid Rumors,positive,0.6260350346565247
+2008-10-29,"The Japanese government will ask the European Union to block BHP Billiton‘s bid to take over Rio Tinto, on concerns that the deal would have an adverse effect on the country’s domestic steel market, Jiji Press reported.",negative,-0.9387933015823364
+2008-10-29,"Japan to Ask EU to Block BHP’s Rio Bid, Report Says",negative,-0.9434019923210144
+2008-11-04,BHP Billiton’s yearlong pursuit of its mining company rival Rio Tinto hit a major obstacle when the European antitrust authorities objected to the deal.,negative,-0.9301954507827759
+2008-11-04,Europe Questions Merger of Mining Companies,neutral,-0.04234661906957626
+2008-11-04,"BHP Billiton‘s yearlong pursuit of its mining company rival Rio Tinto hit a major obstacle on Tuesday when the European antitrust authorities objected to the deal, David Jolly of The New York Times reported from Paris.",negative,-0.9296823740005493
+2008-11-04,Europe Questions Merger of Mining Companies,neutral,-0.04234661906957626
+2008-11-05,"BHP Billiton‘s yearlong pursuit of its mining company rival Rio Tinto hit a major obstacle on Tuesday when the European antitrust authorities objected to the deal, The New York Times’s David Jolly reported.",negative,-0.9254823923110962
+2008-11-05,Europe Questions Merger of Mining Companies,neutral,-0.04234661906957626
+2008-11-25,"The world’s largest mining company abandoned its hostile bid to acquire its rival Rio Tinto, citing turmoil in the financial markets and regulatory concerns in Europe.",negative,-0.8630437850952148
+2008-11-25,"BHP Billiton, a Mining Giant, Ends Its Hostile Bid for Rio Tinto",negative,-0.3853733539581299
+2008-11-25,"BHP Billiton, the world’s largest mining company, on Tuesday abandoned its hostile bid to acquire its rival Rio Tinto, citing turmoil in the financial markets and regulatory concerns in Europe, The New York Times’s Bettina Wassener reported.",negative,-0.8886682987213135
+2008-11-25,BHP Billiton Ends Bid for Rio Tinto,neutral,-0.1511213481426239
+2008-11-25,"BHP Billiton‘s decision on Tuesday to abandon its huge hostile bid for Rio Tinto, a rival mining company, is a stinging hit for nearly every big financial advisory firm on Wall Street, which expected to collect about $300 million in fees for arranging the debt and providing merger advice, according estimates from Thomson Reuters.",negative,-0.7914056181907654
+2008-11-25,Rio Tinto Bid’s Demise Costs Several Banks Big Fees,negative,-0.8486245274543762
+2008-11-26,"As banks slam the brakes on lending, companies and consumers are slamming on the brakes, too.",negative,-0.5824887752532959
+2008-11-26,Lending Needs a Comeback,neutral,0.04868720471858978
+2008-11-26,Mines take years to dig but moments to collapse.,neutral,-0.4354056119918823
+2008-11-26,BHP Thinks Twice and Rio May Have to Pay,negative,-0.864185094833374
+2008-11-26,"Global miner Rio Tinto said on Wednesday it was confident it could sell billions of dollars in assets to pay down massive debt, despite concerns about a lack of buyers, a day after rival BHP Billiton dropped a bid for the firm.",negative,-0.16656756401062012
+2008-11-26,Rio Tinto Under Pressure on Asset Sales,negative,-0.4818529486656189
+2009-02-04,"A sharp drop in commodity prices triggered a 56.5 percent decrease in first-half profits at BHP Billiton, the world’s largest mining company.",negative,-0.9611750245094299
+2009-02-04,BHP Billiton Profit Falls on Lower Metal Prices,negative,-0.9539064168930054
+2009-02-09,Ho Ching will step down as chief executive of the Singaporean state investor Temasek Holdings at a time when turmoil in global markets is ravaging the value of its investments.,negative,-0.5471631288528442
+2009-02-09,Former BHP Chief to Replace Head of Temasek,negative,-0.380948007106781
+2009-02-17,"BHP Billiton advisers Citigroup and Merrill Lynch have polled Rio Tinto investors on whether they would support “an alternative” to the mining group’s proposed $19.5 billion deal to raise cash from Chinalco, The Financial Times reported.",positive,0.7106189727783203
+2009-02-17,"Rio Investors Invite BHP to Propose Alternative, Report Says",neutral,0.12788447737693787
+2009-03-30,"BHP Billiton, the world’s biggest mining company, has won support from top investors to get back on the acquisition trail after last year’s failed bid for rival Rio Tinto, a newspaper report said on Sunday, according to Reuters.",positive,0.9173387885093689
+2009-03-30,BHP Said to Win Support for More Deal-Making,positive,0.8784114718437195
+2009-04-20,"A global mining company, Rio Tinto, defended itself on Monday against shareholder criticism of its proposed $19.5 billion tie-up with China’s state-owned Chinalco, its rejection of a takeover bid by BHP Billiton and its costly 2007 purchase of Alcan.",negative,-0.9218384027481079
+2009-04-20,Rio Tinto Stands by Chinalco Deal,neutral,0.08990585058927536
+2009-06-05,"The Chinese government’s largest investment ever in a Western company, a proposed $19.5 billion stake in the Australian-British mining giant Rio Tinto Group, collapsed early Friday.",negative,-0.914922297000885
+2009-06-05,"Turning to BHP Billiton, Rio Tinto Scraps China Deal",negative,-0.4736447334289551
+2009-06-08,The leading steel industry group in China has come out against a joint venture consolidating iron ore assets of BHP Billiton and Rio Tinto in Australia.,negative,-0.8084107637405396
+2009-06-08,Chinese Steel Group Opposes BHP-Rio Deal,negative,-0.8997120261192322
+2009-08-04,BHP Billiton said Tuesday it had named former Ford Motor Chief Executive Jac Nasser to succeed Don Argus as its chairman.,neutral,0.013444321230053902
+2009-08-04,BHP Billiton Names Ex-Ford Chief Nasser as Chairman,neutral,-0.012461639940738678
+2009-08-04,Jacques A. Nasser will succeed Don Argus as chairman at the mining company.,neutral,0.0269034244120121
+2009-08-04,BHP Names Ex-Chief of Ford Chairman,neutral,-0.208461731672287
+2009-08-14,"BHP Billiton has hired Bank of America-Merrill Lynch to advise it on a sale of its Ravensthorpe nickel operation, in an auction that could raise $1 billion, a source told Reuters.",neutral,0.45739540457725525
+2009-08-14,BHP Hires BofA-Merrill for Ravensthorpe Sale,neutral,0.03348509222269058
+2009-12-01,"The Wuhan Iron & Steel Group, a Chinese steelmaker, agreed to pay $400 million for a stake in Brazil’s MMX Mineracao e Metalicos to broaden its supply of iron ore.",positive,0.8947160840034485
+2009-12-01,Brazil: Chinese Buy Stake in MMX Steel,neutral,0.106375552713871
+2009-12-07,"BHP Billiton and Rio Tinto, the mining giants, signed an agreement over the weekend to combine their iron ore operations in Western Australia, a deal the companies said would save them $10 billion a year.",positive,0.8881376385688782
+2009-12-07,Rio and BHP Sign Deal on Ore Venture,positive,0.6961686015129089
+2010-01-25,European Union regulators say a plan by the world’s No.,neutral,-0.260011225938797
+2010-01-25,2 and No.,neutral,0.1276896595954895
+2010-01-25,"3 iron ore miners, Rio Tinto and BHP Billiton, to combine some operations could damage competition.",negative,-0.9387055039405823
+2010-01-25,European Union to Investigate Rio Tinto-BHP Billiton Deal,neutral,-0.14725971221923828
+2010-01-29,"BHP Billiton, the global mining giant, said Thursday it had agreed to acquire Canadian potash explorer Athabasca Potash for $323 million in cash, expanding its asset base in the potash-rich Canadian province of Saskatchewan.",positive,0.9318327903747559
+2010-01-29,BHP Buys Potash Producer in Canada,neutral,0.04439805448055267
+2010-03-09,An Australian company appears ready to build a $3.5 billion hydroelectric plant in the Democratic Republic of Congo to power a $5 billion dollar aluminum smelter.,neutral,0.2495986968278885
+2010-03-09,Congo Dam Projects Evolve and Draw Critics,neutral,0.06251143664121628
+2010-03-19,A judge in Australia denied JPMorgan Chase $28.6 million of fees it claimed for defending a company from a takeover that turned into a bidding war.,negative,-0.8945497274398804
+2010-03-19,"But the implied logic — that advisers should get paid for what they did, not for what eventually happened — is fuzzy, Reuters Breakingviews argues.",neutral,0.018854700028896332
+2010-03-19,Judge Denies JPMorgan $28 Million in Fees,negative,-0.5325247049331665
+2010-04-09,"The British-Australian mining company joins two other firms in shorter-term pricing, ending a decades-old annual fixed-priced system.",positive,0.6050595045089722
+2010-04-09,Rio Tinto Goes to Quarterly Pricing on Iron Ore,neutral,0.05537800490856171
+2010-05-03,"Australia’s government girded on Monday for a battle with global miners over its plan to slap the industry with a new 40 percent profits tax, after two home-grown mining giants said the move would threaten investment.",negative,-0.9250833988189697
+2010-05-03,Australia Battle Over Mine Tax May Hit Peabody Bid,negative,-0.8486954569816589
+2010-05-14,"South Korea’s Posco is set to clinch its biggest acquisition with a $3 billion deal to buy Daewoo International, as the world’s No.4 steelmaker tries to grab raw materials and boost sales overseas, Reuters reported.",positive,0.8864971995353699
+2010-05-14,Korean Steelmaker Set to Buy Daewoo International,neutral,0.08023130893707275
+2010-08-10,"The Queensland government remains in talks with a group, including BHP Billiton, which has raised its bid for the state’s coal freight network to $4.8 billion, Bloomberg News said, citing a report in The Australian newspaper.",positive,0.8808081746101379
+2010-08-10,QR National I.P.O.,neutral,0.03641969710588455
+2010-08-10,Forging Ahead,neutral,0.03513403236865997
+2010-08-17,"Potash, the Canadian fertilizer giant, said on Tuesday that it has rejected a $38.6 billion unsolicited merger offer from BHP Billiton, setting the stage for a potentially massive takeover fight.",negative,-0.7470366358757019
+2010-08-17,Potash Rejects $38.6 Billion Offer From BHP,negative,-0.4780571460723877
+2010-08-17,Potash Corporation of Saskatchewan dismissed the $38.6 billion offer as an effort to exploit the current downturn in the market for its commodity.,negative,-0.8553865551948547
+2010-08-17,Potash Producer Rejects Bid by BHP Billiton,negative,-0.7036362290382385
+2010-08-17,"Jacques Nasser, the former chief executive of Ford Motor, is back in the limelight as chairman of BHP Billiton, which is seeking to acquire Potash.",neutral,0.047916460782289505
+2010-08-17,Nasser: A Familar Name in Potash Battle,neutral,-0.09447715431451797
+2010-08-17,BHP Billiton’s $38.6 billion play for Canadian fertilizer producer Potash Corporation is a bet on the ever-increasing demand for food.,neutral,0.22988227009773254
+2010-08-17,Why BHP Wants Potash,neutral,0.023451924324035645
+2010-08-17,"BHP Billiton’s $38.6 billion informal offer for Potash, the Canadian fertilizer giant, didn’t come out of the blue.",neutral,-0.04957953095436096
+2010-08-17,It was at least a decade in the making.,neutral,-0.008138775825500488
+2010-08-17,BHP’s Potash Bid: Long History and a Big Bet,neutral,0.33718281984329224
+2010-08-17,The Deal Professor examines how Potash may find itself with dwindling options in fending off a hostile takeover bid from BHP Billiton because of Canadian restrictions on defensive maneuvers.,negative,-0.6386479139328003
+2010-08-17,Canadian Takeover Rules Weigh on Potash,negative,-0.6942115426063538
+2010-08-18,One way to untie the knotted American mortgage market might be to stiffen the rules on home loans.,neutral,0.08440351486206055
+2010-08-18,Rein In Borrowers to Fix Mortgages,neutral,0.10093475878238678
+2010-08-18,Rising demand for food from the fast-growing economies of the world has provoked a staggering $38.6 billion cash offer for a Canadian fertilizer company.,negative,-0.24091506004333496
+2010-08-18,Bid Rivets Attention on Potash Producer,neutral,0.1733047068119049
+2010-08-18,Asian stocks rose on Wednesday and the dollar inched up against the yen as a $39 billion takeover bid in the farm sector and earnings from two U.S. retail giants boosted confidence in the corporate outlook.,positive,0.7953494191169739
+2010-08-18,BHP Bid and Retail Earnings Encourage Asia,positive,0.6921173334121704
+2010-08-18,"BHP Billiton said Wednesday that it would take its nearly $40 billion cash offer for the Potash Corporation of Saskatchewan directly to the shareholders, a day after the Canadian fertilizer company rejected the bid.",neutral,0.18566766381263733
+2010-08-18,BHP Billiton Makes Hostile Bid for Potash,neutral,-0.05866213142871857
+2010-08-19,"Although Potash shareholders are betting BHP will raise its $38.6 billion offer, it is unclear whether anyone has the ability and interest to top BHP’s bid.",positive,0.6344758868217468
+2010-08-19,BHP Makes Hostile Bid for Potash Corp.,neutral,-0.14101755619049072
+2010-08-19,"With up to $190 million in potential fees up for grabs, BHP Billiton’s bid for Potash is the deal that investment bankers around the world had been hoping for.",neutral,0.35029956698417664
+2010-08-19,BHP Switches Advisers as Bankers Consider Bonanza,negative,-0.4024271070957184
+2010-08-19,"If BHP Billiton is successful in its bid to acquire Potash, the company intends to pull out of Canpotex, the group that controls overseas exports of Canadian potash, The Globe and Mail reported.",negative,-0.8171718716621399
+2010-08-19,A Potash Takeover Could Hurt Canadian Firms,negative,-0.8562955260276794
+2010-08-19,"This week has been busiest for deals in August since August 2006, Thomson Reuters says.",neutral,0.28696194291114807
+2010-08-19,No Dog Days in Deal Land,neutral,-0.05270238220691681
+2010-08-20,"Bill Doyle, head of Potash Corp., may be closing in on the biggest sale of his career, as he presses to get the highest possible price for the company he leads.",neutral,0.2202809900045395
+2010-08-20,Price Rules for Potash’s C.E.O.,neutral,0.021239880472421646
+2010-08-20,"BHP Billiton on Friday said it had begun a roughly $40 billion tender offer for Potash shares, officially going hostile in its pursuit for the Canadian fertilizer giant.",neutral,0.4430260956287384
+2010-08-20,BHP Begins Tender Offer for Potash,neutral,0.2156326323747635
+2010-08-23,"Potash has been contacted by China’s Sinochem Group and Brazil’s Vale as the Canadian company battles a hostile $39 billion takeover offer from BHP Billiton, Bloomberg reported on Monday.",neutral,0.13330399990081787
+2010-08-23,Sinochem and Vale Said to Contact Potash,neutral,0.0005068331956863403
+2010-08-23,It’s time for BHP Billiton to roll out the charm.,neutral,0.3637768030166626
+2010-08-23,The company seeking to acquire Canada’s Potash Corp. via a $39 billion hostile bid will attempt to convince Canadian regulators and Potash shareholders that its bid is properly valued.,positive,0.5469334125518799
+2010-08-23,BHP to Woo Canadian Authorities This Week,neutral,-0.1919328272342682
+2010-08-23,The board of Potash Corporation of Saskatchewan urged shareholders to reject BHP Billiton’s hostile $38.6 billion offer.,negative,-0.8537706136703491
+2010-08-23,Potash Producer Says It Is Talking to Buyers Other Than BHP,neutral,0.04500771313905716
+2010-08-23,"Potash, seeking to thwart a hostile $38.6 billion takeover bid by the mining giant BHP Billiton, says it has been in talks with third parties.",neutral,-0.3930758833885193
+2010-08-23,Potash Seeks Out White Knights,neutral,-0.004769809544086456
+2010-08-23,Forget about one possible white knight for Potash as it tries to fend off a hostile bid from BHP Billiton.,negative,-0.4751632809638977
+2010-08-23,"Vale, the big Brazilian mining company, denied that it was in talks to acquire the giant Canadian fertilizer company.",neutral,-0.16744454205036163
+2010-08-23,Vale Denies It Is Potash’s White Knight,negative,-0.5870038866996765
+2010-08-25,The Australian mining company made an offer for the Potash Corporation on the assumption that the demand for potash would rise.,positive,0.8028818368911743
+2010-08-25,BHP Billiton’s Bet on Potash,neutral,-0.07953804731369019
+2010-08-25,Federal regulators have charged two Spanish investors with trading on secret information about BHP Billiton’s bid to acquire Potash Corp.,negative,-0.9085155725479126
+2010-08-25,2 Spaniards Charged for BHP-Potash Inside Trades,negative,-0.7889025807380676
+2010-08-25,BHP Billiton’s hostile $39 billion bid for fertilizer group Potash Corp. faces a potential obstacle — formal approval by its own shareholders — if it sweetens its offer by more than 22 percent.,neutral,-0.05527493357658386
+2010-08-25,BHP’s Sweetener May Be Restricted by British Rules,neutral,-0.13368400931358337
+2010-08-25,"BHP Billiton, the mining company that has made a hostile takeover bid for Potash Corp. of Saskatchewan, said Wednesday that full-year profit more than doubled because of higher raw material prices.",positive,0.9106596112251282
+2010-08-25,"BHP Billiton, Chasing Potash, Says Profit Soars",positive,0.38772040605545044
+2010-08-25,Marius Kloppers is using the mining company’s strong earnings to prove to his shareholders that his $39 billion bid for Potash is not too expensive.,positive,0.7730444073677063
+2010-08-25,BHP Chief on the Road to Defend Bid for Potash,neutral,0.14594855904579163
+2010-08-25,Marius Kloppers expressed confidence regarding BHP’s hostile bid for the Potash Corporation of Saskatchewan.,neutral,0.24642029404640198
+2010-08-25,BHP Chief Not Anxious Over Potash Bid,negative,-0.6743418574333191
+2010-08-26,"The company is already sufficiently diversified; it delivered its sixth consecutive year of operating margins of 40 percent or more, despite the global financial crisis.",positive,0.9139580130577087
+2010-08-26,BHP Doing Fine Without Potash,neutral,-0.07343269884586334
+2010-08-26,Grupo Santander said Wednesday that it had suspended the bank employee charged by the Securities and Exchange Commission with trading on insider information about BHP Billiton’s $39 billion bid for Potash Corp.,negative,-0.9454926252365112
+2010-08-26,Santander Suspends Analyst Charged by S.E.C.,negative,-0.8932812809944153
+2010-08-26,BHP Billiton’s impressive annual results are a reminder of the financial firepower behind its $39 billion hostile bid for Potash Corp.,positive,0.8838905692100525
+2010-08-26,But they also show that BHP does not need to bet a strong balance sheet on further diversification.,positive,0.5183209180831909
+2010-08-26,BHP Doing Fine Without Potash,neutral,-0.07343269884586334
+2010-08-27,"Fast money is building in Potash after BHP Billiton’s $39 billion hostile bid, but the sheer size of the potential deal could limit the sway arbitrageurs and hedge funds have on the outcome.",negative,-0.8517813086509705
+2010-08-27,"Fast Money Pours Into Potash, but Influence Limited",neutral,-0.031470850110054016
+2010-08-27,The S.E.C.,neutral,0.014058640226721764
+2010-08-27,case against two Spaniards who bought call options on Potash right before BHP Billiton’s takeover offer has some curious aspects.,neutral,-0.21280036866664886
+2010-08-27,A Curious Case of Insider Trading,neutral,-0.14624732732772827
+2010-08-30,"Canada’s Agrium said it would be interested in Potash Corp.’s nitrogen and phosphates business, worth an estimated $12 billion, if miner BHP Billiton secures its $39 billion Potash takeover and decides to sell the assets, Reuters reported.",neutral,0.4049032926559448
+2010-08-30,Agrium May Be Interested  in Potash Assets if BHP Sells,neutral,0.02804785594344139
+2010-08-31,BHP Billiton denied speculation on Monday that it planned to sell any of Potash Corp.’s assets if it succeeds with its $38.6 billion hostile bid for the world’s largest fertilizer producer.,neutral,-0.04205050691962242
+2010-08-31,BHP Says It Wouldn’t Divest Potash Assets,neutral,-0.1424880027770996
+2010-09-02,"China is stepping up attempts to hamper BHP Billiton’s $39 billion hostile offer for Potash Corp., amid worries about future supplies of fertilizer it needs to rapidly boost food production.",negative,-0.8979788422584534
+2010-09-02,China Digs for Ways to Stymie BHP’s Potash Bid,negative,-0.6267988681793213
+2010-09-03,"Chinese investors approached Alberta Investment Management to consider a joint counterbid for Potash of Saskatchewan, the Canadian pension fund’s chief executive officer said.",positive,0.5247297883033752
+2010-09-03,China Said to Approach Alberta Fund to Block BHP,negative,-0.43761372566223145
+2010-09-07,"Potash’s chief executive took to a new forum, YouTube, to defend his company against an unsolicited bid from BHP Billiton.",negative,-0.6525458097457886
+2010-09-07,Potash’s Chief Speaks Out on BHP Bid,neutral,-0.10698182880878448
+2010-09-09,"Canpotex, which is owned by three Canadian potash producers, negotiates long-term, often secret, pricing agreements with offshore customers.",neutral,0.01844969391822815
+2010-09-09,Takeover Bid Shines Spotlight on Crucial Player in Potash,positive,0.6454270482063293
+2010-09-09,"Canpotex, which is owned by three Canadian potash producers, negotiates long-term, often secret, pricing agreements with offshore customers.",neutral,0.01844969391822815
+2010-09-09,Bid Puts Spotlight on Crucial Player in Potash,positive,0.5241341590881348
+2010-09-15,"China is closely watching BHP Billiton’s $38.5 billion bid to acquire one of the world’s biggest producers of potash and fertilizer, the government said Wednesday in its first official comment on the proposed takeover.",neutral,0.28663739562034607
+2010-09-15,China ‘Paying Close Attention’ to BHP-Potash Deal,neutral,0.020602136850357056
+2010-09-16,"Potash Corporation of Saskatchewan is trying to stitch together a consortium led by China to back a management buyout to trump BHP Billiton’s $38.6 billion hostile offer, The Globe and Mail reported.",positive,0.5743674635887146
+2010-09-16,"Potash Working on China-Led Buyout, Report Says",neutral,0.23921456933021545
+2010-09-20,"Chinese chemical conglomerate Sinochem Group has formally asked the government to back a bid for Canada’s Potash Corp., a local newspaper reported on Sunday.",positive,0.7685973644256592
+2010-09-20,Sinochem Seeking China’s Support for Potash Bid?,neutral,0.058369576930999756
+2010-09-21,"BHP Billiton extended the offer period for its $39 billion takeover of Canada’s Potash Corp on Monday, after failing to win immediate backing from Canadian authorities.",positive,0.059337109327316284
+2010-09-21,"In Extending Potash Bid, BHP Shows It Will Wait",positive,0.8557758927345276
+2010-09-21,"The Deal Professor writes from London to say that while bankers there see a sluggish market for M.&A., they are looking forward to Christie’s auction of Lehman Brothers’ memorabilia.",neutral,0.23045554757118225
+2010-09-21,Letter from London: Potash and Lehman,neutral,0.04104851186275482
+2010-09-21,BHP Billiton is prepared to walk away from its $38.6 billion bid for Potash if a rival suitor makes an offer so high that a deal does not make sense for BHP’s shareholders.,negative,-0.8873400092124939
+2010-09-21,BHP to Walk Away if Potash Bids Go Too High,negative,-0.6053742170333862
+2010-09-22,"Petrobras is paying just 0.21 percent of the total size of the offering, but that’s still a lot for bankers to share.",neutral,-0.012429192662239075
+2010-09-22,A Good Payday for Banks in Petrobras Sale,positive,0.7224190831184387
+2010-09-22,Potash Corporation of Saskatchewan on Wednesday asked a federal court in Chicago to halt BHP Billiton’s $39 billion hostile offer.,negative,-0.9167599678039551
+2010-09-22,Potash Seeks Injunction Against BHP,negative,-0.5178312659263611
+2010-09-22,Potash asserted the mining company made “false and misleading statements and omissions” in its $38.6 billion offer.,negative,-0.8153529763221741
+2010-09-22,Potash Corp.,neutral,0.010778671130537987
+2010-09-22,Files a Suit to Stop Takeover by BHP,neutral,-0.3135240077972412
+2010-09-22,"The latest attempt by the Potash Corporation of Saskatchewan to derail BHP Billiton’s $39 billion hostile bid could be somewhat of a Hail Mary pass, possibly pointing to the beginning of the end of this takeover battle.",negative,-0.8051789999008179
+2010-09-22,Behind Potash’s Legal Move to Stop BHP,negative,-0.3913929760456085
+2010-09-24,"BHP, the world’s largest mining company, said on Thursday it has received antitrust clearance from the U.S. Federal Trade Commission to proceed with its $39 billion hostile bid for the world’s largest fertilizer maker.",positive,0.8101637363433838
+2010-09-24,BHP Bid for Potash Clears Antitrust Hurdle,neutral,-0.3208402395248413
+2010-09-28,"In a win for Potash Corp. in its effort to fend off BHP Billiton’s $39 billion hostile takeover bid, a U.S. federal judge said on Monday he would allow the discovery process to proceed in a lawsuit filed by world’s largest producer of potash against its unwanted suitor.",negative,-0.5771302580833435
+2010-09-28,Potash Corp.’s Suit Against BHP Allowed to Proceed,neutral,-0.06349974125623703
+2010-09-28,The Deal Professor examines Potash’s options after BHP Billiton extended its $39 billion hostile offer for the company by 30 days.,neutral,0.2517801821231842
+2010-09-28,"As BHP Waits, the Next Steps for Potash",neutral,0.03656017780303955
+2010-09-30,"DealBook’s rundown of the latest league tables for the world of mergers and acquisitions, with data provided by Thomson Reuters.",neutral,0.006798604503273964
+2010-09-30,Goldman Tops Takeover Tables,neutral,0.03506406396627426
+2010-09-30,"BHP Billiton and Rio Tinto’s joint $116 billion iron-ore venture in Australia has stalled in the face of regulations, and is being reevaluated by executives of the two firms, The Wall Street Journal reported, citing people familiar with the matter.",negative,-0.9465683102607727
+2010-09-30,BHP and Rio Suspend Venture in Face of Regulations,negative,-0.8583826422691345
+2010-09-30,"Sinochem, China’s top chemicals company, is working hard to come up with a challenge to BHP Billiton’s $39 billion bid for Potash Corp., according to Reuters.",positive,0.8097158074378967
+2010-09-30,Sinochem Said to Work Hard on Rival Potash Bid,positive,0.6445123553276062
+2010-10-01,BHP Billiton said Friday that it expected to file a challenge within the day to Potash Corporation of Saskachewan’s lawsuit trying to block its $39 billion hostile offer.,negative,-0.18564942479133606
+2010-10-01,BHP Poised to Challenge Potash Suit,neutral,0.11354631185531616
+2010-10-04,"The study for Saskatchewan estimated that if BHP’s offer for the Potash Corporation was successful, provincial revenue would fall by about $1.96 billion over 10 years.",negative,-0.96857750415802
+2010-10-04,Potash Deal Report Predicts Loss for Province,negative,-0.9452877640724182
+2010-10-04,"The province of Saskatchewan could be hit by substantial revenue losses if BHP Billiton takes over Potash, according to an independent study released by the provincial government.",negative,-0.9587819576263428
+2010-10-04,Potash Deal Could Be Costly for Canadian Province,negative,-0.8485535383224487
+2010-10-06,The Potash Corporation slammed a report that favors BHP Billiton’s $39 billion offer for the fertilizer maker over a potential bid from a state-owned Chinese entity.,negative,-0.9171870350837708
+2010-10-06,Potash Slams Report on BHP Takeover Bid,neutral,-0.02565741539001465
+2010-10-06,"Rio Tinto said it has made no decision on its planned $116 billion joint venture in Australia with BHP Billiton, after a report said that “the biggest merger in Australian business history is dead.”",negative,-0.8402084708213806
+2010-10-06,Rio to Walk Away From $116 Billion BHP Venture?,negative,-0.7109395265579224
+2010-10-08,The chief executive of the Potash Corporation described BHP Billiton’s $130-a-share hostile bid as “non-starter” even though a competing offer has yet to emerge.,neutral,-0.09229165315628052
+2010-10-08,"Potash Scoffs at BHP, While Sinochem Waits",negative,-0.9064541459083557
+2010-10-08,"Rio Tinto is interested in possible bolt-on acquisitions in a range of sectors, including potash, an executive said on Thursday, Reuters reported.",neutral,0.15241381525993347
+2010-10-08,Rio Tinto Is Said to Be Interested in Potash Sector,neutral,0.02247561886906624
+2010-10-11,"Rival bidders may be looking to derail BHP Billiton’s $39 billion bid for Potash, with Sinochem of China and a Canadian pension fund working on plans, according to newspaper reports.",negative,-0.938099205493927
+2010-10-11,Rivals Scramble to Derail BHP’s Potash Plans,negative,-0.8472288846969604
+2010-10-12,"The prospect that a group backed by China may make a takeover offer for the Potash Corporation of Saskatchewan has Washington lawmakers, Canadian regulators and Wall Street bankers talking.",neutral,-0.0597163587808609
+2010-10-12,Sorkin: Worrying Over China and Food,neutral,-0.3358551561832428
+2010-10-14,The Potash Corporation of Saskatchewan said that it planned a number of measures that would benefit the Canadian province.,positive,0.5242084264755249
+2010-10-14,Wooing Saskatoon: Potash Makes Its Case,neutral,0.1682409644126892
+2010-10-15,"Sinochem of China will not launch a counterbid for Potash Corp., abandoning efforts to spoil BHP Billiton’s $39 billion bid for the Canadian fertilizer maker.",negative,-0.877497673034668
+2010-10-15,"“It’s finished,” a source told Reuters.",neutral,0.1311800628900528
+2010-10-15,China’s Sinochem Is Said to Abandon Potash Bid,negative,-0.7603400349617004
+2010-10-15,Germany’s antitrust agency said Friday it had warned BHP Billiton and Rio Tinto that it planned to block their $116 billion joint venture to produce iron ore in Western Australia.,negative,-0.9531672596931458
+2010-10-15,Regulators Oppose BHP-Rio Joint Venture,negative,-0.8278735876083374
+2010-10-18,BHP Billiton and Rio Tinto pulled the plug on their plans after regulators in Australia and elsewhere signaled they would block the deal.,negative,-0.9433686137199402
+2010-10-18,BHP and Rio Abandon Joint Mining Venture in Australia,negative,-0.7475494742393494
+2010-10-18,BHP Billiton and Rio Tinto on Monday pulled the plug on their plans to form a $116 billion iron ore joint venture after regulators in Australia and elsewhere signaled they would block the deal because of competition concerns.,negative,-0.945622444152832
+2010-10-18,BHP and Rio Abandon Australian Iron Mining Venture,negative,-0.7401248812675476
+2010-10-19,Citigroup’s third-quarter earnings release managed to lift bank stocks on Monday.,positive,0.74156653881073
+2010-10-19,Citi’s Good News Proves Reassuring,positive,0.7742074728012085
+2010-10-20,BHP Billiton is looking to address Canadian concerns about lost revenue from its takeover bid for Potash Corp after Saskatchewan province said it would not back the miner’s $39 billion bid.,negative,-0.919517457485199
+2010-10-20,Saskatchewan and BHP at Odds on Bid for Potash,negative,-0.7917385697364807
+2010-10-20,"The province’s premier said the transaction would not be a “net benefit” to Canada, the main test for approval under federal law.",neutral,0.006268367171287537
+2010-10-20,Saskatchewan Asks Canadian Government to Block BHP Bid for Potash,negative,-0.9244887828826904
+2010-10-20,"The province’s premier said the transaction would not be a “net benefit” to Canada, the main test for approval under federal law.",neutral,0.006268367171287537
+2010-10-20,Province Chief Wants Canada to Block Potash Bid,negative,-0.5636224746704102
+2010-10-20,"Saskatchewan is expected to formally oppose BHP Billiton’s hostile bid for the Potash Corporation of Saskatchewan, putting pressure on the Canadian government to block the proposed $38.6 billion takeover.",negative,-0.8520534634590149
+2010-10-20,Big Hurdles in Canada for BHP’s Potash Bid,negative,-0.5396420359611511
+2010-10-22,"Saskatchewan, the home province of the Potash Corporation, officially opposed the $39 billion takeover offer by the mining giant BHP Billiton, saying it “does not provide a “net benefit” to the people of Saskatchewan and Canada.”",negative,-0.8094785809516907
+2010-10-22,Saskatchewan Officially Opposes BHP Bid,negative,-0.501900315284729
+2010-10-22,"The Saskatchewan government’s effort to stymie BHP Billiton’s bid for Potash — and allegedly a payment in exchange for support — is worthy of Hugo Chavez, a columnist argues.",negative,-0.1979820430278778
+2010-10-22,"In Potash War, Is Saskatchewan the New Venezuela?",neutral,-0.06436218321323395
+2010-10-27,"Saskatchewan’s securities regulator will hear BHP Billiton’s challenge to Potash Corp’s shareholder rights plan on November 8-9, assuming the federal government allows BHP’s $39 billion bid to proceed.",neutral,0.056118592619895935
+2010-10-27,BHP Challenge to Potash’s Poison Pill Is Set,neutral,-0.04232492297887802
+2010-10-28,"Potash Corp. of Saskatchewan, the Canadian firm attempting to fend off a $39 billion hostile takeover bid from BHP Billiton, said Thursday that third-quarter profits were $402.7 million, the second-highest ever, as prices for crop commodities rise.",positive,0.38149452209472656
+2010-10-28,Potash Posts $403 Million Quarterly Profit,neutral,0.007997173815965652
+2010-10-28,Analysts said that investors feared that the Canadian government would block a hostile bid for Potash by BHP Billiton.,negative,-0.9394987225532532
+2010-10-28,Potash Shares Fall on Worries About BHP Deal,negative,-0.9111530184745789
+2010-10-28,Analysts said that investors feared that the Canadian government would block a hostile bid for Potash by BHP Billiton.,negative,-0.9394987225532532
+2010-10-28,Worries Grow About BHP Deal for Potash,negative,-0.8165233731269836
+2010-10-29,"The chief executive of the Potash Corporation of Saskatchewan, William J. Doyle, urged patience for investors expecting an alternative to BHP Billiton’s $40 billion bid, Bloomberg News reported.",positive,0.6143076419830322
+2010-10-29,Potash’s Doyle Urges Investor Patience,neutral,0.21432965993881226
+2010-11-01,The Potash Corporation’s battle against BHP Billiton’s hostile takeover bears a striking resemblance to the one that Cadbury unsuccessfully waged against Kraft Foods.,neutral,0.14299124479293823
+2010-11-01,Potash’s Fight Against Takeover Resembles Cadbury’s,neutral,0.08545059710741043
+2010-11-01,Not much binds fertilizer and chocolate.,neutral,-0.023451732471585274
+2010-11-01,But the Potash Corporation’s battle against BHP Billiton’s hostile takeover bears a striking resemblance to the one that the British candy maker Cadbury unsuccessfully waged a year ago against Kraft Foods.,neutral,-0.025632336735725403
+2010-11-01,Potash’s Fight Resembles Cadbury’s,neutral,0.05433804169297218
+2010-11-02,"Options traders are boosting wagers that BHP Billiton and potential rivals will bid higher than the $40 billion already offered by the world’s biggest mining company for Potash Corp. of Saskatchewan Inc., Bloomberg News reported.",positive,0.9123926162719727
+2010-11-02,Options Traders Betting Potash Bid Will Rise,neutral,-0.1201738566160202
+2010-11-02,The Saskatchewan government said Monday that if the federal government approves BHP Billiton’s foreign takeover of Potash they will consider it a “profound betrayal of our province and its people.”,negative,-0.834378719329834
+2010-11-02,Saskatchewan Says Approving Potash Deal Would Be a ‘Betrayal’,negative,-0.5827725529670715
+2010-11-03,"Russian fertilizer company PhosAgro is planning to bid for Canada’s Potash Corp, the world’s top fertilizer maker, rivaling a bid by BHP Billiton, business daily Vedomosti reported on Wednesday.",positive,0.6738449335098267
+2010-11-03,"PhosAgro Weighing Potash Bid, Russian Report Says",neutral,-0.06232966482639313
+2010-11-03,The Canadian government blocked BHP Billiton’s $39 billion bid for the Potash Corporation of Saskatchewan.,negative,-0.9361638426780701
+2010-11-03,Canada Blocks BHP’s Takeover Bid for Potash,negative,-0.8773453831672668
+2010-11-03,The decision was only the second time that the Canadian government had turned down a bid in the 25-year history of the current foreign investment law.,neutral,0.21452006697654724
+2010-11-03,Canada Blocks BHP’s Purchase of Potash,negative,-0.8658763766288757
+2010-11-04,Canada’s decision to reject a takeover bid for Potash could affect the country’s ability to attract capital.,negative,-0.9311734437942505
+2010-11-04,Rejecting Bid Sends Bad Signal,negative,-0.8165777921676636
+2010-11-04,"On the record, BHP Billiton says it “will review its options” for Potash.",neutral,0.21176280081272125
+2010-11-04,"But behind the scenes, people involved in the negotiations said they expect to “throw in the towel.”",neutral,0.07564522325992584
+2010-11-04,The End of the Line for BHP’s Potash Bid,neutral,-0.03746338188648224
+2010-11-04,"BHP is racking up a history of failed acquisition attempts, and some investors worry that its chief executive is chasing the wrong deals or not doing enough political groundwork to clear the way.",negative,-0.946495771408081
+2010-11-04,BHP: Love’s Labor’s Lost,neutral,-0.029192611575126648
+2010-11-05,Canada’s farm minister argued that letting BHP buy Potash would have offered Australia’s farm sector too much of an advantage.,negative,-0.8186951279640198
+2010-11-05,Farming Feud: A Reason Why BHP Failed,negative,-0.46511438488960266
+2010-11-08,"Royal Dutch Shell said Monday that it would sell almost a third of its interest in Woodside Petroleum for about $3.3 billion, nine years after it failed to take over the company.",neutral,0.02986134961247444
+2010-11-08,Shell to Sell $3.3 Billion Stake in Woodside,neutral,0.029320189729332924
+2010-11-14,BHP Billiton on Sunday withdrew its $39 billion offer for Potash after the Canadian government refused to endorse the highly contentious takeover offer.,negative,-0.9438899159431458
+2010-11-14,BHP Withdraws Potash Takeover Offer,negative,-0.7030765414237976
+2010-11-15,BHP’s decision was all but preordained after the Canadian government said earlier this month that the deal did not represent a “net benefit” to Canada.,negative,-0.8492168188095093
+2010-11-15,BHP Billiton Drops Bid for Potash,negative,-0.7569833397865295
+2010-11-15,The investment banks advising BHP Billiton would have earned an estimated $140 million in total financial advisory fees if there had been a deal.,neutral,0.040607426315546036
+2010-11-15,Banks Lose Out on Fees as Potash Bid Is Withdrawn,negative,-0.9486224055290222
+2010-11-16,"Canada has been seen as welcoming, rather than restricting, outside investment, but the blocked bid for Potash is stirring a debate.",negative,-0.8088184595108032
+2010-11-16,Resistance From Surprising Corner Sank Bid for Potash,negative,-0.429408460855484
+2010-12-30,"Speculation is swirling that the world largest’s miner, BHP Billiton, is prepping a $90 a share offer for Anadarko — moving Anadarko stock in pre-market trading.",neutral,0.03796575218439102
+2010-12-30,Anadarko Shares Surge on Deal Talk,positive,0.7212260365486145
+2011-01-04,"It is time again for the annual DealBook closing dinner, where we toast and roast Wall Street and its deal makers — and look ahead to make a couple of New Year’s resolutions.",neutral,0.10127247869968414
+2011-01-04,Roasting and Toasting the Deal Makers,neutral,0.08062920719385147
+2011-02-09,"The merger between the London Stock Exchange and the TMX Group would form one of the largest markets for mining and natural resource stocks, but it could face regulatory hurdles.",neutral,0.14156335592269897
+2011-02-09,London and Toronto Exchanges Announce Merger,neutral,0.11422484368085861
+2011-02-17,The drug makers Sanofi-Aventis is buying Genzyme in a deal that could raise the purchase price depending on the performance of a new drug.,neutral,0.3145362436771393
+2011-02-17,Contingent Rights Shouldn’t Catch On,neutral,-0.15275025367736816
+2011-02-21,Some recent failed takeover offers prove that investors in the target companies don’t always lose by rejecting advances.,negative,-0.8069756031036377
+2011-02-21,"With Takeover Bids, ‘No’ Is Often the Most Profitable Reply",neutral,0.00040871649980545044
+2011-02-21,"The deal, which will give BHP Billiton access to the American shale gas market, is the first by the Anglo-Australian giant following its failed effort to buy the Potash Corporation of Saskatchewan last year.",positive,0.6541821360588074
+2011-02-21,BHP to Pay Chesapeake $4.75 Billion for Shale Gas Assets,neutral,0.1011117473244667
+2011-04-04,"With the genie of state intervention already out of the bottle, shareholders of the Brazilian mining giant Vale should prepare for their interests to come second.",neutral,0.14066988229751587
+2011-04-04,Lesson in Being a State Company,neutral,0.1068967655301094
+2011-07-14,"BHP’s proposed takeover of Petrohawk, an independent energy company, is the mining giant’s latest effort to snap up shale natural gas resources.",neutral,0.07219485938549042
+2011-07-14,BHP Billiton to Buy Petrohawk for $12.1 Billion,neutral,0.021043794229626656
+2011-07-15,"Though the price tag for the Petrohawk deal appears high, BHP Billiton believes it is acquiring quality natural gas assets for a good price, since the independent energy company needed more capital.",positive,0.8680955171585083
+2011-07-15,"In Petrohawk’s Sale to BHP, a Quest for Capital",neutral,0.12977352738380432
+2012-01-03,"The French oil giant Total is acquiring a big piece of Chesapeake Energy’s shale operation in Ohio for $2.32 billion, while Sinopec has agreed to buy a 30 percent stake in five Devon Energy shale operations for about $2.2 billion.",neutral,0.28299421072006226
+2012-01-03,Sinopec and Total Continue Shale Gas Buying Spree,positive,0.4827083349227905
+2012-01-03,The S.E.C.,neutral,0.014058640226721764
+2012-01-03,needs more than suspicious trading patterns to prove an insider trading case and must provide evidence that a trader acted on material nonpublic information.,neutral,-0.34926077723503113
+2012-01-03,The Outer Limits of Insider Trading,neutral,-0.18589092791080475
+2012-04-17,"Companies that have prospered by spurning offers and remaining independent usually have a strong, informed board that is willing to stand up to both its chief executive and a hostile raider.",positive,0.6257699728012085
+2012-04-17,"In Judging Hostile Bids, Look at How Recent Targets Fared",neutral,0.012205906212329865
+2012-10-31,"The Potash Corporation of Saskatchewan confirmed on Wednesday that it has approached the government of Israel about increasing its stake in Israel Chemicals, another fertilizer maker.",positive,0.816761314868927
+2012-10-31,Potash Confirms Deal Talks with Israel Chemicals,positive,0.6052873730659485
+2013-02-19,"The mining company said Marius Kloppers would retire this year and be succeeded by Andrew Mackenzie, one of his first hires after becoming chief executive in 2007.",neutral,0.011361846700310707
+2013-02-19,BHP Billiton Chief to Retire; an Insider Will Succeed Him,neutral,-0.0918787494301796
+2013-08-08,"BHP Billiton, the world’s largest mining company, sits atop a sector that is deeply out of favor with investors, and it is aggressively curtailing its spending in hopes of winning them over.",negative,-0.9178656935691833
+2013-08-08,"After Going All In During Mining Boom, BHP Cuts Its Ambitions",negative,-0.9211834669113159
+2013-08-20,"Results for Glencore and BHP Billiton showed both companies girding themselves for a long, slow period for the industry, writes Kevin Allison of Reuters Breakingviews.",negative,-0.3772691488265991
+2013-08-20,Mining Giants Adjust to Austere Times,neutral,-0.011841006577014923
+2014-08-19,"Responding to a softening commodities market, the mining giant will put several assets into a new metals and mining company, largely undoing the merger of BHP and Billiton in 2001.",neutral,0.2738187313079834
+2014-08-19,"BHP Billiton to Spin Off Units, Reversing Consolidation Trend",negative,-0.4500007629394531
+2014-08-19,A merger frenzy among dollar stores.,negative,-0.9092375040054321
+2014-08-19,| BHP Billiton plans to spin off assets into a metals and mining company.,neutral,0.00849069468677044
+2014-08-19,| The U.S. tax burden may not be as heavy as it seems.,negative,-0.41742417216300964
+2014-08-19,| Bitcoin’s price plunged on Monday to its lowest level since May.,negative,-0.9614999294281006
+2014-08-19,Morning Agenda: Dollar Store Deal Frenzy,neutral,0.038607630878686905
+2014-08-19,"Prices of nickel and aluminum, assets that will be part of the new company, are rising.",positive,0.0659286379814148
+2014-08-19,"But for investors, there are purer plays and better-diversified producers, says Swaha Pattanaik of Reuters Breakingviews.",positive,0.6187586188316345
+2014-08-19,BHP Spinoff Won’t Appeal to Commodity Players,neutral,-0.3298339545726776
+2014-09-24,"After speaking with investors, the Australian mining giant said it was considering a listing in London, in addition to Australia and South Africa, for mining assets it plans to spin off.",neutral,0.08492571115493774
+2014-09-24,BHP Billiton Considers New Listing in London for Spinoff,neutral,0.013206524774432182
+2014-10-16,"BHP Billiton had originally planned to list a spinoff of certain assets in Australia and South Africa, but decided to add another listing in London because of investor demand.",neutral,0.06772486120462418
+2014-10-16,BHP Billiton Confirms New Listing in London for Spinoff,neutral,0.06220543384552002
+2015-08-27,"With deepening economic fears about China, multinational corporations and countries are having to respond to a new reality as a once sure bet becomes uncertain.",negative,-0.8624145984649658
+2015-08-27,"China Falters, and the Global Economy Is Forced to Adapt",negative,-0.9283807277679443
+2015-11-06,The start of an inquiry by the New York attorney general’s office into Exxon Mobil’s record on climate change could lead to additional legal actions involving other major energy companies.,negative,-0.5325368046760559
+2015-11-06,More Oil Companies Could Join Exxon Mobil as Focus of Climate Investigations,neutral,0.01926676742732525
+2015-11-23,"Once considered the metal of the future, copper is now a symbol of global mining companies’ past misjudgments.",neutral,-0.09752201288938522
+2015-11-23,Betting on Copper Is a Dangerous Game,negative,-0.5945033431053162
+2016-03-01,"With Rio Tinto and BHP Billiton, among others, the company is struggling as a result of the slowdown in China and other countries that had driven global growth.",negative,-0.9631474614143372
+2016-03-01,Glencore’s Big Loss Reflects Hard Times for Mining Companies,negative,-0.9156247973442078
+2016-08-30,Shares at both Canadian companies jumped after they confirmed early negotiations.,positive,0.7508136630058289
+2016-08-30,A deal would put their combined equity value at around $28 billion.,neutral,0.2142687290906906
+2016-08-30,Potash Corp. and Agrium Discuss Merger Deal,neutral,0.013206485658884048
+2016-09-12,"The straightforward, no-premium deal is a contrast to other recent attempts at industry mash-ups, which did not fare so well.",positive,0.5875535011291504
+2016-09-12,"Potash and Agrium Deal Is a Friendly, Balanced Merger",positive,0.7676777839660645

@@ -1,0 +1,58 @@
+Date,Sentence,Prediction,sentimentScore
+2014-05-08,"AstraZeneca’s board would do well to evaluate whether the company’s progress will continue under Pfizer’s management, Bill George, a professor at Harvard Business School, writes in the Another View column.",positive,0.6107978224754333
+2014-05-08,A Case for Rejecting Pfizer’s Bid for AstraZeneca,neutral,-0.3358802795410156
+2014-06-14,"Medtronic is looking to buy a competitor, Covidien, for more than $45 billion.",neutral,0.053472887724637985
+2014-06-14,"If a deal is completed, it would help cut Medtronic’s corporate tax rate.",positive,0.7338837385177612
+2014-06-14,Medical Device Maker Medtronic Is Said to Be Near a Deal for Covidien,neutral,0.0996527224779129
+2014-06-15,"In combining with Covidien, Medtronic would relocate its headquarters to Ireland from Minneapolis, but argued that its tax rate would remain roughly the same.",neutral,0.21111001074314117
+2014-06-15,Device Maker Medtronic Agrees to Merger and Will Move to Ireland,neutral,0.11343242973089218
+2014-06-16,"The fate of the Medtronic-Covidien deal hinges on Congress and whether it will doing anything about tax inversions, writes Steven M. Davidoff in the Deal Professor column.",neutral,-0.15668822824954987
+2014-06-16,A Merger in a Race With Congress,negative,-0.5155200362205505
+2014-06-17,"Complex mergers in recent years often have been an excuse to bring in extra investment bankers but the $43 billion Medtronic-Covidien deal bucked the trend, Antony Currie writes in Reuters Breakingviews.",positive,0.5167534947395325
+2014-06-17,Medtronic-Covidien Deal Rewards Just 2 Advisory Firms,neutral,-0.0028481073677539825
+2014-06-26,"Auxilium Pharmaceuticals, based in Pennsylvania, agreed to acquire QLT of Canada in one of the smallest inversions in recent years.",neutral,0.39404433965682983
+2014-06-26,"Auxilium, a Small Player, Buys QLT and Does an Inversion, Too",neutral,0.03753422945737839
+2014-07-02,"As more companies seek to relocate by mergers — so-called inversions — it is more likely the law will change, Robert Cyran of Reuters Breakingviews writes.",neutral,0.07120176404714584
+2014-07-02,The Fleeting Benefits of Overseas Corporate Marriages,neutral,0.09545384347438812
+2014-07-08,"In its bid to acquire Covidien, Medtronic will move abroad and lower its corporate taxes, but its shareholders will be left with a big tax bill, writes Steven Davidoff Solomon in the Deal Professor.",neutral,0.16876153647899628
+2014-07-08,"In Deal to Cut Corporate Taxes, Shareholders Pay the Price",neutral,0.08340983837842941
+2014-07-16,The Obama administration and Congress appear unlikely to take any action to stem the tide of such deals anytime soon.,neutral,-0.37930142879486084
+2014-07-16,"Treasury Urges End to Foreign Tax Flights, but Quick Action Is Unlikely",neutral,0.015863865613937378
+2014-07-22,"Lawmakers spoke out against American companies reincorporating abroad, but there was no consensus on how to address the issue.",negative,-0.7249612808227539
+2014-07-22,Senate Panel Takes On Tax Inversions,neutral,-0.09983619302511215
+2014-07-29,"The bill, called the No Federal Contracts for Corporate Deserters Act, would withhold government contracts from companies that seek tax relief by moving overseas.",neutral,-0.4227372705936432
+2014-07-29,New Legislation Targets Inversions From Different Angle,neutral,0.046529415994882584
+2014-08-08,"Cheap credit, lower tax bills and a desire for revenue, more than economic optimism, may be behind this year’s surge in corporate acquisitions.",positive,0.7668760418891907
+2014-08-08,"Stampede of Mergers Could Mean Growth, or Irrationality, Ahead",neutral,-0.2689221203327179
+2014-08-09,"By allowing a telecom company to spin off part of itself into a real estate investment trust, the I.R.S.",neutral,0.06312476098537445
+2014-08-09,has opened a window to a way for many corporations to have lower tax bills.,positive,0.82729172706604
+2014-08-09,A Corporate Tax Break That’s Closer to Home,neutral,-0.2476373165845871
+2014-09-02,Public pension funds have major stakes in American companies moving overseas to cut their tax bills.,neutral,0.042774081230163574
+2014-09-02,"But they are saying little about the strategy, which could hurt the nation’s tax base.",negative,-0.8298264741897583
+2014-09-02,Public Pension Funds Stay Mum on Corporate Expats,neutral,-0.21372202038764954
+2014-09-08,"In an address, Treasury Secretary Jacob Lew said he would decide what action the administration can take to stop companies from moving abroad to avoid American taxes.",neutral,-0.09580918401479721
+2014-09-08,Lew Says Administration Is Near a Decision on Curbing Corporate Expatriates,neutral,-0.14884819090366364
+2014-09-22,"Alibaba’s founder spoke of building his company and creating jobs, Bill George writes in an Another View column.",neutral,0.3126048445701599
+2014-09-22,"“They call me ‘Crazy Jack,’” Mr. Ma said.",neutral,-0.2548852860927582
+2014-09-22,“I hope to stay crazy for the next 30 years.”,neutral,-0.08457241952419281
+2014-09-22,"Jack Ma on Alibaba, Entrepreneurs and the Role of Handstands",neutral,-0.009686926379799843
+2014-09-23,Some American-led transactions may survive on strategic logic.,neutral,0.25052589178085327
+2014-09-23,"But pure tax-avoiding combinations look tricky, Neil Unmack and Robert Cyran of Reuters Breakingviews write.",neutral,-0.0016821026802062988
+2014-09-23,U.S. Curbs on Inversions May Deter Some Pharmaceutical Deals,negative,-0.9492151141166687
+2014-10-03,"Medtronic said it was restructuring the financing for its $43 billion acquisition of Covidien of Ireland, the most direct sign yet that new rules from the Treasury Department were affecting inversions.",positive,0.22021880745887756
+2014-10-03,Medtronic Adjusts Merger Financing  After Treasury’s Crackdown on Inversion Deals,negative,-0.7613638043403625
+2014-10-04,"Companies like Allergan, Valeant, Salix, Actavis and Medtronic are riding a wave of cheap debt and pent-up demand in a slew of recent acquisitions or attempted acquisitions.",neutral,0.12864084541797638
+2014-10-04,A Scramble to Acquire for Drug Companies,neutral,-0.2916083037853241
+2014-10-15,Shares of Shire tumble in London trading amid fears that a $54 billion deal — the biggest takeover this year — is in trouble.,negative,-0.9558799862861633
+2014-10-15,Shire Urges AbbVie to Pursue Merger Despite New Inversion Rules,neutral,0.17677196860313416
+2014-11-20,"In the Another View column, Bill George examines four situations — Amgen, PepsiCo, DuPont, and Allergan — to see where activist investors have it wrong.",neutral,-0.07656862586736679
+2014-11-20,When Activist Investors Aim at Strong Companies,neutral,0.12191398441791534
+2015-01-14,"The health care giant, collaborating with Yale, made the announcement on the same day that the Institute of Medicine urged sponsors of clinical trials to share data.",neutral,0.42053672671318054
+2015-01-14,Johnson & Johnson Will Make Clinical Data Available to Outside Researchers,neutral,0.07472170144319534
+2015-04-13,"The business unit will partner with companies including Apple, Medtronic and Johnson & Johnson, offering IBM’s Watson technology as a cloud-based tool at many levels of the health care industry.",positive,0.7200644612312317
+2015-04-13,IBM Creates Watson Health to Analyze Medical Data,neutral,0.00599542073905468
+2015-11-04,"In response Mylan’s move to the Netherlands, the Securities and Exchange Commission now requires shareholder votes for each governance change from such deals.",neutral,0.05038713291287422
+2015-11-04,Regulators Unbundle Some Attractions of Mergers,neutral,-0.06420101225376129
+2016-01-26,"Johnson Controls is just the latest corporation to flee America for greener, lower-tax pastures.",neutral,0.007050316780805588
+2016-01-26,"And until lawmakers reform the tax code, the exodus will continue.",neutral,-0.3675215244293213
+2016-01-26,A Tidal Wave of Corporate Migrants Seeking (Tax) Shelter,neutral,-0.24634869396686554

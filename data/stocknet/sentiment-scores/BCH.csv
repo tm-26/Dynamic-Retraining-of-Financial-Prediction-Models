@@ -1,0 +1,101 @@
+Date,Sentence,Prediction,sentimentScore
+2014-01-06,"Samsung Electronics will report its fourth-quarter earnings estimates, the insider trading trial of Mathew Martoma will begin and the European Central Bank will review its monetary policy.",neutral,0.0030735358595848083
+2014-01-06,Economic Reports for the Week of Jan. 6,neutral,-0.17609253525733948
+2014-01-21,"Mini issues team orders and stirs up a dispute, and Bryan Clauson takes a midget car win at Tulsa.",negative,-0.8586282730102539
+2014-01-21,Monday Motorsports: Racers Unhappy With a 1-2-3 Finish by Mini at the Dakar Rally,negative,-0.9433357119560242
+2014-01-30,"Although central bankers and national regulators agreed to support a low leverage ratio for banks, the chairman of the Basel Committee on Bank Supervision suggested that the panel could still recommend stiffer requirements.",positive,0.5382081270217896
+2014-01-30,Banks Could Still Face Tougher Capital Requirements to Prevent Crises,negative,-0.760780930519104
+2014-03-06,"Piraeus Bank, Greece’s largest lender, is planning to issue a bond that will be a significant test of investor interest.",positive,0.5184152126312256
+2014-03-06,Greek Bank Set to Be First in 5 Years to Tap Capital Markets,positive,0.7640069127082825
+2014-03-14,UniCredit’s announcement of a 15 billion euro loss is seen as an attempt to get out in front of a European Central Bank review of large banks.,negative,-0.36056414246559143
+2014-03-14,A Review of Banks in Europe Gets Results,neutral,-0.041614800691604614
+2014-04-12,"At the World Bank and International Monetary Fund annual spring meetings, finance ministers and central bankers also discussed the possibility of new penalties for Russia.",neutral,0.01578608900308609
+2014-04-12,Finance Officials Push for Bold Action to Sustain Economic Growth,positive,0.7826929092407227
+2014-06-19,"Synchrony Bank, the new name of GE Capital Retail Bank, agreed on Thursday to pay $225 million to consumers to settle claims of illegal and discriminatory credit card practices that affected 746,000 consumers.",positive,0.6795731782913208
+2014-06-19,G.E.,neutral,0.0415060818195343
+2014-06-19,Consumer Finance Unit Reaches Settlements,neutral,0.05339784920215607
+2014-06-23,"A survey by Markit Economics indicated that the French economy may again be shrinking, slowing the pace of the bloc’s overall expansion.",negative,-0.9565114974975586
+2014-06-23,"France Puts Drag on Euro Zone Growth, Report Shows",negative,-0.6341056823730469
+2014-07-12,"Europe’s economy is still in the early stages of recovery from recession, and many strategists see compelling reasons to invest in it.",positive,0.6016048789024353
+2014-07-12,Why Europe May Gain the Edge for Investors,neutral,0.3243091106414795
+2014-07-22,"The CIT Group, which is run by John A. Thain, has agreed to acquire the parent company of OneWest Bank for $3.4 billion in cash and stock.",neutral,0.1769215166568756
+2014-07-22,"2 Banks Forged in Crisis, CIT and OneWest, Are Set to Merge, to a Big Payoff",neutral,0.43560534715652466
+2014-08-04,"The market reaction after the bailout plan for Banco Espírito Santo emerged could bode well for a larger, coming test of the region’s banks.",positive,0.874767541885376
+2014-08-04,Calm After a Bank’s Collapse in Portugal Could Signal Eurozone Resiliency,positive,0.5017285346984863
+2014-08-14,Arab Bank warns of a troubling precedent if following standard compliance procedures means a bank can still be held liable if transactions get through in error.,negative,-0.9392483234405518
+2014-08-14,Banks Watching Terrorism Trial in Brooklyn,negative,-0.4142899513244629
+2014-09-05,The European Central Bank plans to buy bonds backed by loans to consumers and companies starting next month.,neutral,0.10710155218839645
+2014-09-05,Promise From European Central Bank Is Also a Gamble,positive,0.5005603432655334
+2014-09-13,"After France said it would miss its deficit target again, officials highlighted the sacrifices some nations had made to get their finances in order.",positive,0.19695162773132324
+2014-09-13,Veiled Criticism for France as Ministers Stress Eurozone Stability,negative,-0.7618557214736938
+2014-09-24,"In the survey of business sentiment, expectations for the next six months hit their lowest reading since December 2012.",negative,-0.9559091925621033
+2014-09-24,"In Germany, Business Indicator Falls, Raising Specter of Recession",negative,-0.9406669735908508
+2014-09-30,"With inflation dipping to 0.3 percent and unemployment remaining at 11.5 percent, the E.U.",negative,-0.869209885597229
+2014-09-30,received more unwelcome news before the central bank meets.,negative,-0.8075770735740662
+2014-09-30,Eurozone’s Drop in Inflation Carries More Fears of Another Recession,negative,-0.880307674407959
+2014-10-12,"Leaders of the International Monetary Fund said that high debt in China and a lack of spending in Europe, among other factors, could provoke a market convulsion.",negative,-0.9026485681533813
+2014-10-12,I.M.F.,neutral,0.037868428975343704
+2014-10-12,Warns of Global Financial Risk From Fiscal Policies,negative,-0.5111055374145508
+2014-10-14,The topic everyone on Wall Street is discussing urgently but quietly isn’t the volatile stock market.,neutral,-0.023645106703042984
+2014-10-14,It is Ebola.,neutral,-0.12916050851345062
+2014-10-14,Calculating the Grim Economic Costs of Ebola Outbreak,neutral,0.038262344896793365
+2014-10-16,The development economist Arvind Subramanian will fill a post vacant since Raghuram Rajan left last year to become the central bank governor.,neutral,-0.07400211691856384
+2014-10-16,"India Picks Top Economic Aide, Formerly of I.M.F.",neutral,0.07031168043613434
+2014-10-17,The German government and central bank see no reason for economic stimulus measures even as manufacturing and growth forecasts decline.,negative,-0.45624029636383057
+2014-10-17,Government Holds Firm in Germany in Face of Weakening Economy,negative,-0.2098354697227478
+2014-10-29,"The measure, which is to take effect in 2018, will cover about half of the nation’s carbon emissions and is being hailed as a robust response to climate change.",positive,0.8400410413742065
+2014-10-29,Climate Change Concerns Push Chile to Forefront of Carbon Tax Movement,neutral,0.2996496558189392
+2014-10-30,"Some central banks, scarred from old battles with escalating prices, were slow to see their new, real problem.",negative,-0.8646887540817261
+2014-10-30,Inflation?,negative,-0.32627370953559875
+2014-10-30,Deflation Is New Risk,neutral,0.11316695809364319
+2014-11-05,"Mario Draghi has sent markets soaring and raised hopes for Europe’s economic outlook after previous freewheeling comments, and Thursday could bring more of the same.",positive,0.8941701054573059
+2014-11-05,Markets Seem to Cheer Mario Draghi’s Off-Script Comments,positive,0.5395959615707397
+2014-12-01,"A House hearing on Wednesday will scrutinize the Takata Corporation’s airbag defects, and the Labor Department on Friday will release employment figures for November, which are expected to be strong.",negative,-0.0867224931716919
+2014-12-01,"Hearing on Takata Airbags, and U.S. Job Figures",negative,-0.4906916618347168
+2014-12-02,"Income inequality in Chile and other parts of Latin America is narrowing, but the reason for the decline, yet to be determined, could be good news or bad.",negative,-0.8434739112854004
+2014-12-02,"Income Gap Shrinks in Chile, for Better or Worse",negative,-0.870063841342926
+2014-12-13,"The number of people worldwide who are living in extreme poverty has been declining sharply, partly attributable to rising incomes in India and China.",negative,-0.9625979065895081
+2014-12-13,A Global Gauge Finds Progress Against Poverty,negative,-0.3081277906894684
+2015-01-12,Other events this week include results of E.U.,neutral,-0.01231265440583229
+2015-01-12,"hearings on a trade agreement, an opinion on a quantitative easing plan in Europe and retail and food-services sales figures in the United States.",neutral,0.05148080736398697
+2015-01-12,Detroit’s Auto Show and U.S. Banks’ Financial Reports,negative,-0.5142334699630737
+2015-01-15,"The first lesson is never trust a central banker when he or she makes a commitment or gives guidance, writes Swaha Pattanaik of Reuters Breakingviews.",neutral,0.1263270080089569
+2015-01-15,The Swiss Give a Scary Lesson on the Limits of Central Banks,neutral,-0.06623125821352005
+2015-01-21,So-called quantitative easing was successful in the United States and Britain but will be much more complicated in a group of 19 countries.,positive,0.5253899693489075
+2015-01-21,Bond-Buying Programs: Simple in Theory but Complex in Eurozone,neutral,0.04116524010896683
+2015-01-23,"With a $69 billion-a-month bond-buying program, Mario Draghi, the central bank president, is unleashing the bank’s full money-printing powers.",neutral,0.47320279479026794
+2015-01-23,European Central Bank Bets Big on Curing the Economy,positive,0.3602107763290405
+2015-01-29,"Switzerland’s move to untie its currency from the euro has caused the franc to soar, along with hundreds of thousands of mortgage payments in Poland.",negative,-0.9020364284515381
+2015-01-29,"Homeowners in Poland Borrowed in Swiss Francs, and Now Pay Dearly",negative,-0.6127442717552185
+2015-02-09,"In a shift, the new government will propose accepting its next bailout loan payment and fulfill most — but not all — of its austerity obligations.",neutral,0.45851823687553406
+2015-02-09,Greece to Propose a Debt Compromise Plan to Creditors,neutral,0.09706056863069534
+2015-02-16,"Eurozone finance ministers will meet Monday on Greece’s bailout; the Federal Reserve will release minutes from its last meeting, on Wednesday; and Walmart will report earnings on Thursday.",neutral,0.00388355553150177
+2015-02-16,"Eurozone Meeting on Greece, and Walmart Earnings",neutral,-0.04698356240987778
+2015-02-27,"Policy makers are taking drastic measures to revive the economy, resulting in financial transactions that seem upside-down.",positive,0.00017264485359191895
+2015-02-27,"In Europe, Bond Yields and Interest Rates Go Through the Looking Glass",neutral,-0.004738315939903259
+2015-03-18,Concerns about a withdrawal from the euro currency union come as the war of words heats up between Greece and its creditors.,negative,-0.9020451903343201
+2015-03-18,Warnings Raised of a Greek Exit From the Euro,negative,-0.7630288004875183
+2015-03-23,Paige Brown’s survival skills helped her during the 2010 earthquake in Chile.,neutral,0.32248547673225403
+2015-03-23,They also came in handy when her locked suitcase refused to open.,negative,-0.38035938143730164
+2015-03-23,"Intrepid in an Earthquake, but Rattled by Locking Luggage",negative,-0.43615224957466125
+2015-04-19,That Athens might still be exploring ways to restructure its debt underscores how close the country is to defaulting.,positive,0.4147455096244812
+2015-04-19,Greece Flashes Warning Signals About Its Debt,negative,-0.6457827091217041
+2015-06-09,"Wilbur Ross and others pumped billions into Greek banks, and now the fate of their money may hinge on Athens’s efforts to end an impasse with creditors.",negative,-0.754240870475769
+2015-06-09,American Billionaire Makes Risky Bet on Greece Debt Deal,negative,-0.5858049392700195
+2015-07-14,The missed payment was overshadowed by the agreement among eurozone leaders that would provide more aid to Greece and keep it in the currency union.,negative,-0.8037710189819336
+2015-07-14,Greece Misses Another I.M.F.,negative,-0.9173962473869324
+2015-07-14,Payment,neutral,0.02036866545677185
+2015-10-27,"Josef Ackermann, the former chief of Deutsche Bank who is now chairman of the Bank of Cyprus, had a role in the island’s crisis.",neutral,-0.06528200209140778
+2015-10-27,A Banker Sees His Role in Cyprus as a Chance to Give Back,neutral,0.10409915447235107
+2015-12-20,"Having raised rates this month for the first time in nearly a decade, the Federal Reserve does not have to look far for real-world examples of what to do if plans go awry.",neutral,0.15044637024402618
+2015-12-20,Rates Are Going Up.,neutral,0.2769920825958252
+2015-12-20,What Could Go Wrong?,negative,-0.5137355327606201
+2016-04-25,GE Money Bank’s initial public offering would continue General Electric’s efforts to scale back on finance and focus on its industrial roots.,positive,0.5164304971694946
+2016-04-25,I.P.O.,neutral,0.042054928839206696
+2016-04-25,Could Value GE Capital’s Czech Business at $1.6 Billion,neutral,0.04018602520227432
+2016-05-30,"Numbers also expected this week are from the Commerce Department on consumer spending and income, and from the Labor Department for hiring and unemployment.",neutral,0.012747228145599365
+2016-05-30,Car Industry Awaits Volkswagen’s Quarterly Earnings Report,neutral,-0.0005242228507995605
+2016-08-15,"Average revenue rose 4.1 percent in the first half of the year, according to Citi Private Bank’s quarterly report on the legal industry.",positive,0.9342285990715027
+2016-08-15,Higher Fees Increase Law Firm Revenue by 4.1 Percent,positive,0.9094722867012024
+2016-10-24,The merger of the online stockbrokers still leaves such companies vulnerable to the competition of index investing and automation of advice.,negative,-0.8182043433189392
+2016-10-24,TD Ameritrade’s Deal With Scottrade Is a Temporary Fix,neutral,0.00891299918293953

@@ -1,0 +1,5 @@
+Date,Sentence,Prediction,sentimentScore
+2014-08-22,"Dynegy’s deals look sensible, says Christopher Swann of Reuters Breakingviews, but the lesson from their bankruptcy is to avoid getting carried away.",neutral,0.3566494286060333
+2014-08-22,Dynegy’s Deals Mark Return of Ambition,neutral,0.06918736547231674
+2015-10-26,"By acquiring the natural gas distributor, Duke Energy will add about one million customers in North Carolina, South Carolina and Tennessee.",positive,0.7480401992797852
+2015-10-26,Duke Energy to Acquire Piedmont for $4.9 Billion,neutral,0.015180046670138836

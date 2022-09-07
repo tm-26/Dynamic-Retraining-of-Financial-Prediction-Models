@@ -1,7 +1,9 @@
+# This script tests FinBERT on the EconomyNews dataset
+
 import json
 import sys
 import sklearn.metrics
-from finbert import predict2
+from src.finbert import predict2
 from statistics import mean
 from transformers import AutoModelForSequenceClassification
 from tqdm import tqdm

@@ -1,0 +1,6 @@
+Date,Sentence,Prediction,sentimentScore
+2014-09-15,"The Danaher Corporation, based in Washington, offered to acquire all of the outstanding shares of Nobel Biocare Holding in a deal that would value the company at about $2.2 billion.",positive,0.5662660598754883
+2014-09-15,Danaher Agrees to Acquire Swiss Dental Implant Maker,positive,0.7076976895332336
+2015-05-13,The conglomerate is not cutting enough costs to justify a $13.6 billion pounce for Pall.,negative,-0.9192227721214294
+2015-05-13,But the decision to voluntarily split Danaher in two dangles the prospect of better value for shareholders.,positive,0.7105194330215454
+2015-05-13,Danaher’s Breakup Plan Eases Sting of Big Acquisition,positive,0.1016899049282074

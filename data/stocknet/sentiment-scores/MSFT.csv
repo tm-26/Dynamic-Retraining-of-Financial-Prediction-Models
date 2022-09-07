@@ -1,0 +1,913 @@
+Date,Sentence,Prediction,sentimentScore
+2014-01-01,Deleting tracked changes and shrinking the Mac OS X Dock.,negative,-0.8349313139915466
+2014-01-01,"Removing Edits in a Document, and Minimizing a Bar of Icons",neutral,0.0167392585426569
+2014-01-03,Thousands of jobs are languishing unfilled as many in the work force find that their skills are ill suited for posts in information technology.,negative,-0.9181447625160217
+2014-01-03,Unemployed in Europe Stymied by Lack of Technology Skills,negative,-0.8962461948394775
+2014-01-08,"While console systems remain popular in Western markets, the vast majority of Chinese players use computers and mobile phones or other handheld devices.",neutral,0.03536307066679001
+2014-01-08,"China Cracks Open the Door for Video Game Consoles, but Doubts Abound",negative,-0.6229636669158936
+2014-01-10,"A summary of differences in the latest Windows upgrade, and how to share files between Apple devices.",neutral,0.023345261812210083
+2014-01-10,"Changes in Windows 8.1, With Skype Replacing Messaging App",neutral,0.04011295735836029
+2014-01-13,"The Windows 8 Calendar app takes a little extra work to print because it cannot do so from the Devices charm, which allows users to quickly send information to other devices.",neutral,-0.05996572598814964
+2014-01-13,Printing the Windows 8 Calendar,neutral,-0.017805032432079315
+2014-01-17,There is an easier way to email a web page link on the Nexus 7 without copying it from the browser and pasting into a message.,neutral,-0.009712215512990952
+2014-01-17,Sharing Web Links Without Cutting and Pasting,neutral,-0.0012096874415874481
+2014-01-19,"The World Economic Forum will take place in Davos, Switzerland; the European Commission will publish its proposals on climate change policy; and Microsoft will release its earnings.",neutral,0.02649458311498165
+2014-01-19,Economic Reports for the Week of Jan. 20,neutral,-0.1505316197872162
+2014-01-21,"Plus, checking compatibility in Windows 8.1, and customizing lists in Twitter.",neutral,0.058391887694597244
+2014-01-21,How to Unblock Adobe Reader in Safari,neutral,-0.025286521762609482
+2014-01-22,"The intersection of technology and privacy issues presents a unique challenge for businesses as governments increasingly seek to collect vast amounts of data on the public, a group of business and political leaders said on Wednesday at the World Economic Forum.",neutral,-0.023513827472925186
+2014-01-22,"On Davos Panel, Calls to Curb Government Data Collection",negative,-0.706527829170227
+2014-01-23,"The company said its second-quarter profit rose 3 percent, ahead of analysts’ forecasts, with strong sales of its Xbox consoles and Surface tablets.",positive,0.9295086860656738
+2014-01-23,Microsoft Earnings Illustrate Move to Devices and Services From Software,neutral,-0.045480795204639435
+2014-01-24,"Bill Gates and Lawrence H. Summers presented a new initiative, Global Health 2035, that aims to reduce deaths and improve health for low- and lower-middle-income countries within 21 years.",positive,0.761091947555542
+2014-01-24,Gates and Summers Push Global Health Drive as Moral Imperative,neutral,0.08652761578559875
+2014-01-27,"The Obama administration will allow Internet companies to talk more specifically about when they are forced to turn over customer data to the government, the Justice Department said.",neutral,0.3177946209907532
+2014-01-27,U.S. Relaxes Some Data Disclosure Rules,neutral,-0.08656629920005798
+2014-01-28,Alibaba’s acquisition of a sleepy technology company set of a flurry of speculation.,neutral,-0.0036300495266914368
+2014-01-28,"After Alibaba’s public debut, scrutiny of its deals will only intensify, the Deal Professor writes.",neutral,0.028945647180080414
+2014-01-28,Answers to a Puzzling Deal at Alibaba Remain in the Shadows,neutral,-0.3949723541736603
+2014-01-30,"Plus, working with multiple Apple ID accounts.",neutral,0.06074999272823334
+2014-01-30,Another Option for an Upgrade From Windows XP,neutral,0.12927035987377167
+2014-01-31,"As Microsoft hunts for its new chief executive, the company is said to have zeroed in on a company man who’s spearheaded Microsoft’s efforts to stay on the cutting edge.",neutral,0.12467294931411743
+2014-01-31,But Satya Nadella probably isn’t the man for drastic action.,neutral,-0.3436265289783478
+2014-01-31,Contender for Microsoft Helm Seen as Unlikely to Shake It Up,negative,-0.5942268371582031
+2014-02-04,"Satya Nadella will have to grapple with bad decisions, like the Nokia deal, and is unlikely to pursue a breakup.",neutral,-0.2672300338745117
+2014-02-04,"But the new chief executive can focus on what the company does best, contends Robert Cyran of Reuters Breakingviews.",neutral,0.10513630509376526
+2014-02-04,"At Microsoft, a Step Forward as Founders Step Back",neutral,0.3156953454017639
+2014-02-05,Standard & Poor’s lowers Puerto Rico’s debt to junk status.,negative,-0.8271214365959167
+2014-02-05,| Morgan Stanley reaches a $1.25 billion mortgage settlement with the F.H.F.A.,positive,0.6934038996696472
+2014-02-05,| Microsoft names a new chief executive.,neutral,-0.01209503784775734
+2014-02-05,| The Deal Professor discusses Herbalife’s volatile stock price.,neutral,-0.1178223043680191
+2014-02-05,A Debt Downgrade for Puerto Rico,negative,-0.8735233545303345
+2014-02-06,"After years in philanthropy, many wonder how Bill Gates, a luminary of the tech world, will choose to position Microsoft going forward.",neutral,0.042148493230342865
+2014-02-06,A Different Gates Is Returning to Microsoft,neutral,0.023227177560329437
+2014-02-10,"Entrepreneurs, executives and the wealthy seek help to live better, make more money or determine what’s next.",neutral,0.15998613834381104
+2014-02-10,Life Coaches for the Entrepreneurial Set,neutral,0.06925486028194427
+2014-02-11,"Seattle’s technology scene, though vibrant, is significantly smaller than that of its cousin to the south, the San Francisco Bay Area.",negative,-0.5036697387695312
+2014-02-11,"So, too, it seems, are Seattle’s anti-gentrification protests.",neutral,-0.3008960783481598
+2014-02-11,Seattle Gets Its Own Tech Bus Protest,neutral,0.2302740514278412
+2014-02-12,"With games readily available for smartphones and tablets, the question of which is better — Microsoft’s XBox or Sony’s PS4 — may be moot.",neutral,-0.05774505436420441
+2014-02-12,Two Game Consoles Battle for a Dubious Prize,neutral,-0.24534761905670166
+2014-02-14,"Trying to ensure the survival of Windows in a mobile universe, Microsoft enters a complex struggle, while Google abandons a money-losing handset unit.",negative,-0.9021069407463074
+2014-02-14,Microsoft’s Stakes in the Battle for Handsets,neutral,0.07156631350517273
+2014-02-18,"Using a computer without connecting to the Internet, and how two people can watch, and hear, a movie together on an iPad.",neutral,-0.0501277782022953
+2014-02-18,Keeping a Computer Offline,neutral,-0.3620387017726898
+2014-02-19,"The new Nokia Icon, a Windows Phone, matches Android and iPhone in many critical areas except one: Its app store is seriously lacking.",negative,-0.632827639579773
+2014-02-19,"This Phone Is Great, Till It’s Time to Add Apps",neutral,0.3016023635864258
+2014-02-20,"In his first interview since taking over as chief executive of Microsoft, Satya Nadella talks about leadership, the future and Bill Gates.",neutral,0.04852832853794098
+2014-02-20,"Satya Nadella, Chief of Microsoft, on His New Role",neutral,0.058909859508275986
+2014-02-21,"G Asset Management, a little-known investment firm, offered on Thursday to acquire 51 percent of Barnes & Noble in a deal that would value the bookseller’s shares at $22 apiece.",neutral,0.397445946931839
+2014-02-21,Barnes & Noble Receives Conditional Offer,neutral,0.18440721929073334
+2014-02-23,"Joe Belfiore, the corporate vice president of Microsoft Windows Phone, discusses goals for 2014 and the potential upside of the company’s Nokia deal.",neutral,0.08088061958551407
+2014-02-23,Q.&A.,neutral,0.03456166759133339
+2014-02-23,With Joe Belfiore on the Future of Windows Phone,neutral,0.0441402941942215
+2014-02-24,"Nokia announced an Android-based line of phones for emerging markets, putting strain on its marriage with Microsoft before the companies even walk down the aisle.",negative,-0.8296088576316833
+2014-02-24,Microsoft Should Keep Nokia’s Android Phones,neutral,0.022177569568157196
+2014-02-25,Ford has made plans to use software from BlackBerry to power its in-car entertainment and communications systems.,neutral,0.15351951122283936
+2014-02-25,Ford to Drop Microsoft From Car Systems,negative,-0.8241264820098877
+2014-02-27,"Accounts based on documents supplied by Edward J. Snowden say images — many sexually explicit — were collected from Yahoo users, even those not suspected of illegal activity.",negative,-0.7738999724388123
+2014-02-27,British Spies Said to Intercept Yahoo Webcam Images,negative,-0.7606713771820068
+2014-03-03,Downloading free apps or other content from Apple’s stores doesn’t require having a credit card on file.,neutral,0.0031825024634599686
+2014-03-03,Bypassing a Credit Card Requirement for Apps,neutral,0.13169769942760468
+2014-03-04,"Speaking to students at the University of Oxford, the former Microsoft chief executive tempered his usual theatrics with a discussion of what Microsoft did right and wrong during his tenure.",negative,-0.41929587721824646
+2014-03-04,Steven Ballmer Reflects on Missteps and Ponders the Future of Microsoft,neutral,-0.18414822220802307
+2014-03-05,"In its latest issue, Bloomberg Businessweek reports that Steven A. Ballmer, then Microsoft’s chief executive, chafed when fellow directors questioned the wisdom of buying any part of Nokia’s hardware operations.",negative,-0.8870359063148499
+2014-03-05,"Behind Closed Doors, Microsoft’s Board Reportedly Battled Chief Over Nokia Deal",negative,-0.8376076221466064
+2014-03-09,"The company is betting that a new game, Titanfall, will be enough of a hit to improve sales of the Xbox One and secure its influence in the video-game market.",positive,0.9224123954772949
+2014-03-09,"Microsoft Pins Xbox One Hopes on Titanfall, a Sci-Fi Shooting Game",neutral,0.0007194876670837402
+2014-03-10,EBay said that it had rejected Carl C. Icahn’s two nominees for its board and instead chose to renominate every director up for re-election this year.,neutral,-0.056789226830005646
+2014-03-10,"Separately, Mr. Icahn published another criticism of the company’s chief executive.",negative,-0.8650002479553223
+2014-03-10,EBay Rejects Icahn’s Nominees for Its Board,neutral,-0.325488805770874
+2014-03-12,"Plus, picking a drive for Apple’s Time Machine.",neutral,0.062247227877378464
+2014-03-12,Transferring Old Palm Desktop Data,neutral,0.019853919744491577
+2014-03-13,"In sales figures for February released Thursday afternoon by NPD, the retail tracking firm, Microsoft’s Xbox One nearly matched the U.S. sales of the PlayStation 4.",positive,0.5877803564071655
+2014-03-13,"That was a sharp narrowing of the lead Sony had in monthly sales, leading to speculation that Sony fans are getting tired of hunting for the PlayStation 4, which is in short supply.",negative,-0.8866612911224365
+2014-03-13,A Theory Behind Surge in Xbox One Sales,neutral,0.04893571138381958
+2014-03-21,"On Friday, Walmart and Best Buy began offering a bundle of Microsoft’s Xbox One and Titanfall, a high-profile science fiction shooter game, for $450, a $50 price cut on the bundle.",positive,0.3546324670314789
+2014-03-21,Another Price Cut for the Xbox One,negative,-0.3068786859512329
+2014-03-22,"An interview with Danah Boyd, an expert on teens and the Internet and author of the book, “It’s Complicated: The Social Lives of Networked Teens.”",neutral,0.02419673278927803
+2014-03-22,"A Conversation With Danah Boyd, Author of ‘It’s Complicated,’ About Teenagers Online",neutral,0.019468404352664948
+2014-03-24,The American technology giant said on Monday that its $7.5 billion takeover of Nokia’s handset business would now close in April.,neutral,0.024794932454824448
+2014-03-24,The deal had been expected to be completed by the end of March.,neutral,0.07377590239048004
+2014-03-24,Nokia Handset Sale to Microsoft Delayed,neutral,0.032120466232299805
+2014-03-25,"Smartwatches are growing in popularity, but watch industry leaders show little interest in combining diamond bezels with digital wizardry.",neutral,0.04818161576986313
+2014-03-25,Swiss Watchmakers Skeptical of Digital Revolution,neutral,0.03790130466222763
+2014-03-27,"Plus, adding shortcuts to Mac programs not on the dock.",neutral,-0.0035122185945510864
+2014-03-27,Dealing With Unwanted Windows Updates,neutral,-0.10664951801300049
+2014-03-28,"Microsoft will instead hand over investigations of stolen property to law enforcement agencies, the company’s general counsel said.",neutral,-0.021252399310469627
+2014-03-28,The change came a week after Microsoft faced an uproar over the methods it used in 2012 to investigate the suspected leak of software code by a former employee.,negative,-0.7246766090393066
+2014-03-28,Microsoft to Stop Inspecting Private Emails in Investigations,negative,-0.6489715576171875
+2014-03-29,Moves by older incumbents and young giants show that 2014 is the year computing everywhere comes into its own.,neutral,0.09455790370702744
+2014-03-29,Now it’s time for big development.,neutral,0.21345868706703186
+2014-03-29,Looking for the next frontier?,neutral,0.007038414478302002
+2014-03-29,"There was plenty of that, too.",neutral,0.061224084347486496
+2014-03-29,Cloud Computing’s Watershed Week,neutral,0.31747883558273315
+2014-03-31,"Caterpillar, the big American maker of heavy construction and mining equipment, used a subsidiary in Switzerland to avoid paying $2.4 billion of income taxes over 13 years, according to an investigative report released on Monday.",negative,-0.9121968746185303
+2014-03-31,Senate Report on Caterpillar’s Tax Strategy,neutral,0.04465039074420929
+2014-04-02,"Microsoft said it would no longer charge a fee to hardware makers that want to put Windows on devices with screens that are smaller than nine inches, for which it was estimated to be getting around $15 each in licensing revenue.",neutral,0.12348223477602005
+2014-04-02,Parsing Microsoft’s Decision to Cut Windows Fees,negative,-0.345888614654541
+2014-04-04,"Plus, how to back up Windows Phone.",neutral,0.04746443033218384
+2014-04-04,Audio Editing in iMovie,neutral,0.017222154885530472
+2014-04-07,"Plus, how to unlock a stuck iPhone screen.",neutral,0.02997887134552002
+2014-04-07,Using iTunes on a Windows Tablet,neutral,-0.0924089103937149
+2014-04-10,"Microsoft’s top lawyer said the company’s cloud computing services had met Europe’s stringent data protection rules, and he used the news as a way to woo potential new customers.",positive,0.8677152991294861
+2014-04-10,Microsoft Touts Data Protection Approval in Europe; Eager for New Customers,positive,0.7954068779945374
+2014-04-14,The developers of the Hudson Yards on Manhattan’s West Side are forming a partnership with the researchers at N.Y.U.’s Center for Urban Science and Progress to create a “quantified community” that uses data science to study and improve the urban environment.,positive,0.7599123120307922
+2014-04-14,Huge New York Development Project Becomes a Data Science Lab,neutral,0.016185373067855835
+2014-04-15,Plus how to limit the powers of Windows XP users.,neutral,-0.01249040849506855
+2014-04-15,Adding a Religious Holidays Calendar,neutral,0.008513547480106354
+2014-04-18,"Plus, sharing settings and more among Windows 8 PCs.",neutral,0.11788810789585114
+2014-04-18,Fixing a Broken Smartphone,neutral,-0.20654045045375824
+2014-04-22,The personal care brand Burt’s Bees is promoting anti-aging products in messages that will appear as appointments in electronic calendars.,neutral,0.06476455181837082
+2014-04-22,"For a New Burt’s Bees Line, Check Your Calendar",neutral,-0.043505407869815826
+2014-04-23,"With the addition of Cortana, Microsoft’s answer to Siri and Google Now, the mobile operating system can be considered an equal in most areas.",positive,0.686086118221283
+2014-04-23,Windows Phone 8.1 Finally Catches Up to Its Rivals,positive,0.6682043671607971
+2014-04-24,"The attention of investors seems to be less on the solid financial results and more on a series of bold bets to reshape the company, including the acquisition of Nokia.",positive,0.5060906410217285
+2014-04-24,Microsoft’s Profit Dips Less Than Expected as It Reshapes Itself,negative,-0.9581998586654663
+2014-04-28,"Although the security flaw affects various versions of Internet Explorer browsers, the problem is especially troubling for the millions of people still using Windows XP.",negative,-0.9450337290763855
+2014-04-28,Security Flaw Hits Microsoft Browser,negative,-0.8757708072662354
+2014-04-30,"Microsoft says its latest game console, Xbox One, will go on sale in China in September, after a long ban on such products in the country.",neutral,0.3148658871650696
+2014-04-30,Xbox One to Go on Sale in China in September,neutral,0.07277072221040726
+2014-05-01,"Microsoft raced to issue a fix Thursday to a vulnerability in its Internet Explorer browser, which security researchers believe was being exploited by nation-state sponsored attack groups.",negative,-0.27722859382629395
+2014-05-01,"Attackers Use Microsoft Security Hole Against Energy, Defense, Finance Targets",negative,-0.5187541842460632
+2014-05-06,Plus managing multiple iPad mail accounts.,neutral,0.0024760328233242035
+2014-05-06,How to Move the Windows Address Book to a New Computer,neutral,0.02399592101573944
+2014-05-12,Plus how to back up an iPod Nano.,neutral,0.04481811821460724
+2014-05-12,Saving Your Favorite Videos on YouTube,neutral,-0.03574293851852417
+2014-05-13,"In an effort to increase sales of the Xbox One, Microsoft said it would sell an entry-level version without the Kinect sensor for $399, the same price as a Sony PlayStation 4.",positive,0.8729357719421387
+2014-05-13,"To Compete With PlayStation on Price, Microsoft Offers Xbox Without Kinect Motion Sensor",neutral,0.15293726325035095
+2014-05-20,"The company is marketing its Surface Pro 3 tablet, which will have a 12-inch screen, as the combination of a laptop computer and a tablet so people can use it for tasks as well as entertainment.",neutral,0.1539328396320343
+2014-05-20,"Microsoft Enlarges Surface’s Screen So It Can Be Used for Work, Too",neutral,0.3294840455055237
+2014-05-21,"The company is marketing its Surface Pro 3, which will have a 12-inch screen, as the combination of a laptop computer and a tablet.",neutral,0.08082988858222961
+2014-05-21,"Daily Report: Microsoft Expands Its Tablet’s Screen, With Work in Mind",positive,0.7032281756401062
+2014-05-26,"The three- to five-minute shorts — a team effort of Paul G. Allen and Morgan Spurlock, the director of “Super Size Me” — will explain concepts like markets, money, and debt and credit.",neutral,0.052279308438301086
+2014-05-26,"The Economy, Explored on Film",neutral,0.03830971196293831
+2014-05-28,Most in the tech industry know how Apple and Microsoft owe (at least) inspiration to the famed research laboratory.,neutral,0.04159893840551376
+2014-05-28,"Not many know that Sun, once one of the most influential companies in tech, also learned a few things from PARC.",neutral,0.08018707484006882
+2014-05-28,Even Sun Microsystems Had Its Roots at Xerox PARC,neutral,0.024016277864575386
+2014-05-30,This week we’ll examine the reaction to the financial habits of two former Microsoft chief executives.,neutral,-0.16886499524116516
+2014-05-30,Weekend Reading: Finding the Best Way to Spend $2 Billion,neutral,0.12834756076335907
+2014-06-07,Internet companies like Google and Facebook are working to keep governments and their spy agencies out of their servers after revelations that they had been invaded.,negative,-0.8406630754470825
+2014-06-07,Internet Giants Erect Barriers to Spy Agencies,neutral,-0.20497086644172668
+2014-06-09,"The company is selling a less expensive console and creating new games to increase sales, which trail those of Sony’s PlayStation 4.",positive,0.8737577795982361
+2014-06-09,"At E3 Gaming Convention, Microsoft Shifts Emphasis of Xbox One Console to Games",neutral,0.0986478179693222
+2014-06-10,Wealthy entrepreneurs represent a potential gold mine for financial advisers.,neutral,0.03241364657878876
+2014-06-10,Competition Is Stiff to Manage Tech Billions,negative,-0.743421733379364
+2014-06-11,"With a convergence of tech companies large and small, Seattle is attracting money and talent, eager to grow in the cloud and become a hub akin to Silicon Valley.",positive,0.8143455982208252
+2014-06-11,"Seattle, the New Center of a Tech Boom",neutral,0.3390533924102783
+2014-06-14,"It is unclear what the role of events like E3 will be as more of the games business shifts to digital distribution, away from physical stores.",neutral,-0.023469775915145874
+2014-06-14,"E3 Still Dazzles, Even as Video Game Sales Go Digital",positive,0.4649319052696228
+2014-06-16,"Microsoft plans to make predictive data analysis, now an arcane field, a standard part of business.",neutral,0.04613156244158745
+2014-06-16,"The company says that a product due out in July will simplify what are now expensive, difficult processes.",positive,0.6092771291732788
+2014-06-16,Microsoft Unveils Machine Learning for the Masses,neutral,0.06275521218776703
+2014-06-17,"Users who mainly want a tablet that can sometimes be used a computer may be fine, but if you want to do intensive work, the Surface Pro isn’t the best.",neutral,-0.3174543082714081
+2014-06-17,Microsoft’s Surface Pro 3 Isn’t for Everybody,neutral,-0.05818120762705803
+2014-06-19,"Since Apple introduced anti-theft technology in September, police in several cities say iPhone thefts have dropped.",negative,-0.9091135859489441
+2014-06-19,"Now, Google and Microsoft are also adding “kill switches.”",neutral,-0.3736618161201477
+2014-06-19,Smartphones Embracing ‘Kill Switches’ as Theft Defense,negative,-0.5074295997619629
+2014-06-20,"Plus, sharing DVD/CD drives among your network.",neutral,0.004384271800518036
+2014-06-20,Using Microsoft OneDrive for Photo Backup,neutral,-0.0038192328065633774
+2014-06-23,"A Microsoft-funded venture is aimed at designing computers that can solve problems in fields as diverse as chemistry, material science, artificial intelligence and code-breaking.",neutral,0.08426418900489807
+2014-06-23,Microsoft Makes Bet Quantum Computing Is Next Breakthrough,neutral,0.05813508853316307
+2014-06-24,The company’s new venture is aimed at designing fast computers that can solve a variety of problems by exploiting the weird physical properties of subatomic particles.,neutral,0.13796445727348328
+2014-06-24,Daily Report: Microsoft Sees Quantum Computing as Technology’s Next Frontier,neutral,0.08816095441579819
+2014-06-25,Tech companies are poised to compete in selling services to businesses and gathering information on who does what within them.,positive,0.6013374328613281
+2014-06-25,"Google, Microsoft and Others Delve Deeper Into Cloud Storage for Businesses",neutral,0.008889004588127136
+2014-07-08,"For a lot of tech companies, the devices and the data promised by the Internet of Things has a huge potential.",neutral,0.09511889517307281
+2014-07-08,"That makes the way we get there, even through ostensibly free open source projects, into a battleground.",neutral,0.13879936933517456
+2014-07-08,"Intel, Qualcomm and Others Compete for ‘Internet of Things’ Standard",neutral,0.06654579192399979
+2014-07-09,"The company plans to follow the lead of Google, which responded to a European court’s online privacy ruling in May by creating a form to request removal of links to material that individuals say violates their online privacy.",neutral,0.1794937700033188
+2014-07-09,Microsoft Taking Steps to Comply With the Right to be Forgotten,neutral,0.3176096975803375
+2014-07-10,An essay sent to Microsoft employees by the company’s chief executive appears to lay the groundwork for significant changes that will be revealed later this month.,neutral,0.049695972353219986
+2014-07-10,Satya Nadella Says Changes Are Coming to Microsoft,neutral,0.0711367130279541
+2014-07-14,"Plus, planning ahead for iOS 8, the next version of Apple’s mobile operating system.",neutral,0.11174771189689636
+2014-07-14,Restoring Internet Explorer 11 to Windows 8.1 App Tiles,neutral,0.37779268622398376
+2014-07-16,"Microsoft is planning to announce layoffs that will substantially exceed the largest layoffs in the company’s history, according to several people briefed on the decision.",negative,-0.8853827714920044
+2014-07-16,Large Round of Layoffs Expected at Microsoft,negative,-0.932515561580658
+2014-07-17,"Microsoft said that roughly 1,100 layoffs, or 6 percent of the total job cuts, would come from Finland, primarily from a manufacturing plant in the north of the country.",negative,-0.9530330300331116
+2014-07-17,Finnish Pride Takes Another Blow From Microsoft Job Cuts,negative,-0.8645811080932617
+2014-07-19,Notable quotes from business articles that appeared in The New York Times last week.,neutral,0.01611744984984398
+2014-07-19,"The Chatter for Sunday, July 20",neutral,0.027527958154678345
+2014-07-21,"Bradford L. Smith, general counsel at the tech company, uses the skills he learned as a Washington lawyer to advocate change in government policies that affect the industry.",neutral,0.37111586332321167
+2014-07-21,Microsoft’s Top Lawyer Is the Tech World’s Envoy,neutral,-0.010474100708961487
+2014-07-22,"Revenue at Microsoft was slightly higher than analysts expected, but earnings were 5 cents a share lower.",negative,-0.9310807585716248
+2014-07-22,"Microsoft’s Profits Slide on Mobile, but Its Cloud Flourishes",negative,-0.8703094720840454
+2014-07-24,"When adjusted for that sale and other divestments, however, the Finnish company reported a net loss of 26 million euros in the second quarter.",negative,-0.962946355342865
+2014-07-24,Sale of Handset Unit Bolsters Nokia’s Profit,positive,0.933124303817749
+2014-07-25,Amazon Web Services reported a surprising decline in quarterly revenue on Thursday.,negative,-0.9705462455749512
+2014-07-25,"Amazon blamed Google’s price cuts, but its web services could be hitting some harder business sales.",negative,-0.8751616477966309
+2014-07-25,Challenges for Amazon’s Cloud Computing Hopes,neutral,-0.016950130462646484
+2014-07-28,"An agency that enforces antimonopoly laws visited company offices in four cities, as the country more closely scrutinizes multinational companies.",negative,-0.5591365098953247
+2014-07-28,"With Microsoft in Sights, China Starts to Squeeze U.S. Tech Companies",negative,-0.9437934160232544
+2014-07-29,"The Pacific Northwest city continues its rise as the world’s center of cloud computing, moving from infrastructure to applications.",positive,0.7261564135551453
+2014-07-29,"Oracle is kicking off a 100-person engineering facility, which over time is expected to affect sales, training, and much more of how Oracle works with customers.",neutral,0.05320729687809944
+2014-07-29,Seattle Takes Oracle’s Cloud,neutral,-0.051470451056957245
+2014-07-30,"An announcement by the state antimonopoly agency confirmed that Microsoft was under scrutiny, and said that officials had conducted surprise visits to company offices across China.",negative,-0.682379961013794
+2014-07-30,China Investigating Microsoft for ‘Monopolistic Behavior’,negative,-0.7459495663642883
+2014-07-31,"Other big technology companies are watching the case, which Microsoft said it would appeal, as a potential threat to their plans to offer cloud computing overseas.",negative,-0.854371964931488
+2014-07-31,Judge Rules That Microsoft Must Turn Over Data Stored in Ireland,negative,-0.7395418882369995
+2014-08-01,The lawsuit claimed that Samsung failed to follow the terms of a 2011 patent licensing deal between the two companies.,negative,-0.7924808263778687
+2014-08-01,Microsoft Sues Samsung Over Android Royalty Payments,negative,-0.9124908447265625
+2014-08-03,"Titans from earlier heydays of computing have both seen recent increases that outstripped the cloud-computing industry generally, according to industry reports.",positive,0.8313862681388855
+2014-08-03,"Cloud Revenue Jumps, Led by Microsoft and IBM",positive,0.6574132442474365
+2014-08-04,A government agency investigating complaints against the company issued a statement “officially warning” the firm to obey Chinese law.,negative,-0.3271476924419403
+2014-08-04,China Tells Microsoft Not to Interfere With Inquiry,neutral,-0.3554171025753021
+2014-08-10,"The increasing application of antimonopoly laws, against companies like Microsoft and Qualcomm, has raised concern in boardrooms around the world.",negative,-0.9093925952911377
+2014-08-10,China’s Energetic Enforcement of Antitrust Rules Alarms Foreign Firms,neutral,-0.1877211332321167
+2014-08-13,"Personal data on millions of people can now be analyzed by researchers without the subjects’ knowledge, posing an ethical problem.",negative,-0.8352355360984802
+2014-08-13,"Daily Report: As Social Media Studies Proliferate, Experts Weigh Ethics Guidelines",neutral,-0.0822790265083313
+2014-08-16,"Plus, how to consolidate online address books.",neutral,0.04939457029104233
+2014-08-16,Quicker Ways to Digitize Old Photographs,neutral,0.14731937646865845
+2014-08-18,A team of computer scientists at Columbia has developed a research tool for tracking the use of personal data online.,neutral,0.005822077393531799
+2014-08-18,XRay: A New Tool for Tracking the Use of Personal Data on the Web,neutral,0.009947650134563446
+2014-08-19,"The tech company’s former chief executive said new responsibilities, including ownership of the Los Angeles Clippers, have made him too busy to serve.",negative,-0.8920068144798279
+2014-08-19,"Steve Ballmer Quits Microsoft Board, Citing His Outside Duties",negative,-0.8877370953559875
+2014-08-20,Mr. Halbherr is the latest casualty in the corporate shake-up after Microsoft’s purchase of Nokia’s handset business.,neutral,-0.40805819630622864
+2014-08-20,"Michael Halbherr, Head of Nokia’s Mapping Division, Steps Down",neutral,-0.347111314535141
+2014-08-25,"Plus, how to see which devices are connected to your Mac.",neutral,-0.0017641615122556686
+2014-08-25,Ways to Protect a PC With Windows 8.1,neutral,0.04106483981013298
+2014-09-03,"The U.S.-China Business Council issued a report taking aim at China’s antimonopoly law, highlighting ways it says enforcement could be improved.",positive,0.7631450891494751
+2014-09-03,Western Companies Appear to Push Back Against Chinese Crackdown,negative,-0.2589903473854065
+2014-09-04,The devices are the first the company has released since the completion of the acquisition of Nokia’s cellphone business.,neutral,0.21911494433879852
+2014-09-04,Microsoft Introduces Three New Smartphones,neutral,0.28240635991096497
+2014-09-05,"At the IFA consumer electronics show in Berlin, most of the major smartphone makers introduced new devices, features or pricing in attempts to distinguish themselves within a crowded industry.",neutral,0.2204175442457199
+2014-09-05,"During a Season for New Devices, a Tough Market for Smartphone Makers",negative,-0.9039641618728638
+2014-09-08,A plan to give competitors more equal status in the results displayed by Google searches faces further scrutiny after objections by companies like Microsoft and German publishing groups.,negative,-0.8610351085662842
+2014-09-08,European Commission Delays Google Antitrust Settlement After Competitors’ Complaints,negative,-0.9049763083457947
+2014-09-10,Dollar General takes its bid for Family Dollar directly to shareholders.,neutral,0.013430316932499409
+2014-09-10,| Microsoft near a deal for the maker of Minecraft.,neutral,0.42497822642326355
+2014-09-10,| Fed’s newly proposed rules put pressure on banks.,negative,-0.8779419660568237
+2014-09-10,| Detroit clears a bankruptcy hurdle.,positive,0.32716017961502075
+2014-09-10,Morning Agenda: Dollar General Goes Hostile,neutral,-0.19537973403930664
+2014-09-11,"Microsoft’s acquisition of Minecraft would be an acknowledgment that games are central to many people’s lives, as players can spend months building estates and entire countries.",neutral,0.14255553483963013
+2014-09-11,"Daily Report: In Popular Games Like Minecraft, Tech Titans See Potential Beyond Fun",positive,0.6459218859672546
+2014-09-12,Kurt DelBene worked at one of the technology industry’s largest companies and helped clean up one of the government’s biggest technology messes.,neutral,-0.10787682980298996
+2014-09-12,"Now he’s focusing on smaller organizations, joining a venture capital firm, Madrona Venture Group, to help start-ups.",neutral,0.043030478060245514
+2014-09-12,Former Microsoft Executive and Obama Adviser Joins Venture Firm,neutral,0.03071747161448002
+2014-09-15,"Adding the world-building computer game could help bolster Microsoft’s Windows series of devices, including phones and tablets.",positive,0.9027788043022156
+2014-09-15,Microsoft Says It Will Pay $2.5 Billion for Company That Created Minecraft,neutral,0.04097737744450569
+2014-09-21,"Chinese authorities have tightened censorship over Internet traffic in recent weeks, and Google and its services are particularly affected.",negative,-0.883111298084259
+2014-09-21,"China Clamps Down on Web, Pinching Companies Like Google",negative,-0.9403281211853027
+2014-09-22,"The opening keynote at Oracle’s annual conference will be about its“unique opportunity to be the leader of the next generation of cloud,” according to Mark Hurd, the new co-chief.",positive,0.7546809911727905
+2014-09-22,Hurd: Oracle Takes On Microsoft in the Cloud,neutral,-0.2036106288433075
+2014-09-23,"Ray Ozzie, onetime chief software architect at Microsoft, has a way to make phone conversations as permanent and searchable as other Internet communication.",neutral,0.05565015226602554
+2014-09-23,"With Talko App, Ray Ozzie Creates a Permanent Voice",neutral,0.08930784463882446
+2014-09-29,"The company, having done polls through video games in 2012, plans to have its automated digital assistant survey people through their mobile phones.",neutral,0.0653122216463089
+2014-09-29,Microsoft Begins a Push Into the Polling World,neutral,0.23891481757164001
+2014-09-30,"Microsoft believes the next version of its operating system is such a big change that it is calling the software Windows 10, skipping the more logical product name, Windows 9.",neutral,0.039788972586393356
+2014-09-30,Microsoft Windows 10 Displays a Familiar Look,neutral,-0.028999287635087967
+2014-10-03,"Margrethe Vestager, the nominee to become the next antitrust chief for the European Union, signaled that she would look more deeply into whether amassing data entrenched the strength of digital companies like Google.",neutral,0.16148826479911804
+2014-10-03,Antitrust Nominee in Europe Promises Scrutiny of Big Tech Companies,negative,-0.48100045323371887
+2014-10-06,"The professional social network’s Chinese-language version, which lacks certain features of Western versions, seems to have the tacit approval of China’s government.",neutral,0.0959196612238884
+2014-10-06,"To Reach China, LinkedIn Plays by Local Rules",neutral,0.0026352256536483765
+2014-10-07,The participating companies are publicly committing themselves not to sell information on kindergartners through 12th graders.,neutral,-0.000574922189116478
+2014-10-07,Microsoft and Other Firms Pledge to Protect Student Data,neutral,0.04524537920951843
+2014-10-09,"Satya Nadella, the chief executive of Microsoft, implied during a speech on Thursday that women should not ask for pay raises, a statement that quickly put him in the hot seat.",negative,-0.7193943858146667
+2014-10-09,Microsoft’s Nadella Sets Off a Furor on Women’s Pay,negative,-0.8449302315711975
+2014-10-10,"A restaurant learns what happens when you tell customers to pay what God wants them to pay, Microsoft’s chief executive says it’s O.K.",neutral,-0.10631994903087616
+2014-10-10,"for women to ask for a raise, and new restaurants are making Detroit a “culinary oasis.”",neutral,0.41974231600761414
+2014-10-10,Today in Small Business: the Rookie Cookie,neutral,0.1034892201423645
+2014-10-11,"Even as many barriers have fallen for working women, they continue to be treated differently on the job, particularly when negotiating a raise.",negative,-0.26683712005615234
+2014-10-11,Satya Nadella’s Advice on Raises Stirs Wider Discussion Among Women,neutral,0.12725554406642914
+2014-10-12,Salesforce kicked off its annual conference with a product aimed at developers who want to build visualization tools for sales and marketing people.,neutral,0.20642007887363434
+2014-10-12,That’s probably a big and underserved market.,neutral,0.006601803004741669
+2014-10-12,Salesforce Makes Its Big Data Move,neutral,0.04149284213781357
+2014-10-14,"Plus, how to make the move from the iPhoto app in iOS 8.",neutral,0.04421938210725784
+2014-10-14,Hiding History in Firefox,neutral,0.04491996020078659
+2014-10-15,"On Tuesday, researchers disclosed details of a security bug that could make web browsing sessions on a public network vulnerable to hackers.",negative,-0.8726731538772583
+2014-10-15,Poodle Bug Marks Third Major Security Flaw Discovered This Year,negative,-0.7561891078948975
+2014-10-19,"Apple, IBM, Microsoft and Yahoo will report quarterly results, and the results of the eurozone banks’ tests are approaching.",neutral,0.045233871787786484
+2014-10-19,Tech Giants’ Earnings and Eurozone Bank Stress Tests,negative,-0.8804630041122437
+2014-10-21,"At Microsoft, Bob Muglia helped build the company’s server and tools business into a $17 billion-a-year juggernaut.",positive,0.6505763530731201
+2014-10-21,Now he’s running a cloud database start-up that has raised $26 million in funding.,neutral,0.13436511158943176
+2014-10-21,Longtime Microsoft Executive Opens Cloud Database Start-Up,neutral,0.09990294277667999
+2014-10-22,"Cloud computing, particularly in the big rental businesses of Microsoft and Amazon, has been criticized as undependable and tough to manage.",negative,-0.897842288017273
+2014-10-22,A number of recent announcements suggest that some companies are trying to address the issue.,neutral,0.018185418099164963
+2014-10-22,Coming of Age in Cloud Computing,neutral,0.17493444681167603
+2014-10-23,"The software company’s acquisition of Nokia helped it beat estimates, but integration costs reduced profit.",negative,-0.8413985967636108
+2014-10-23,Microsoft Offers Tantalizing Signs of Progress,neutral,0.12050098925828934
+2014-10-30,Microsoft is joining other companies who see wearables as a way into the wellness business without all the red tape that comes from being a true medical company.,positive,0.5372157096862793
+2014-10-30,Daily Report: Microsoft Leaps Into Wearable Fitness,positive,0.7546917796134949
+2014-10-31,"Plus, donating a Windows XP computer.",neutral,0.17642462253570557
+2014-10-31,Turning the PC Into a DVR,neutral,0.09061551094055176
+2014-11-02,The company’s new wearable device may be the most flexible of its kind available now.,neutral,0.2614710330963135
+2014-11-02,Microsoft Band Is a Welcome Surprise in the Wearable Market,neutral,0.2687242329120636
+2014-11-06,"The free software for iPads, iPhones and Android tablets will do most of the most essential tasks done with the computer versions of the product, whose applications include Word, Excel and PowerPoint.",neutral,0.05596357211470604
+2014-11-06,Daily Report: Microsoft Offering Free Mobile Version of Office,neutral,0.15409071743488312
+2014-11-09,"Though Ireland has been under international pressure to close loopholes that have drawn companies like Google and Microsoft, the country is still touting its low-tax appeal.",positive,0.29709702730178833
+2014-11-09,Ireland Vies to Remain Silicon Valley’s Low-Tax Home Away From Home,neutral,0.19922471046447754
+2014-11-10,"Plus, comparing HDTV with ultrahigh-definition.",positive,0.5999664664268494
+2014-11-10,Assessing Space on a Computer’s Hard Drive,neutral,-0.03509986400604248
+2014-11-13,"Mr. Ballmer, the former Microsoft chief executive, will make a financial contribution to Harvard that will enable the school to expand its computer science faculty by about 50 percent.",positive,0.8774313926696777
+2014-11-13,Gift From Ballmer Will Expand Computer Science Faculty at Harvard,positive,0.845069944858551
+2014-11-17,What do you do when you are a billionaire and a movie buff?,neutral,-0.11245635151863098
+2014-11-17,"If you are Paul G. Allen, you turn the iconic theater you already own into a state-of-the-art theater.",neutral,0.14128471910953522
+2014-11-17,Microsoft Billionaire Reboots Seattle Movie Temple,neutral,-0.050296537578105927
+2014-11-18,"The N1, with a 7.9 inch display and run on Google’s Android operating system, will pit the Finnish company against its longtime ally Microsoft.",negative,-0.8310344219207764
+2014-11-18,"With New Tablet, Nokia Returns to Devices",neutral,0.4728561043739319
+2014-11-23,The next big technology migration will change how workplaces are organized.,neutral,0.028555940836668015
+2014-11-23,"Bad news, middle managers: You’re going to get less important.",negative,-0.5220609307289124
+2014-11-23,What Cloud Computing Means to Your Job,neutral,0.054582368582487106
+2014-11-25,"Plus, minimizing the translucent look of windows and menus in OS X Yosemite.",neutral,0.091891810297966
+2014-11-25,AirDrop Alternatives for Windows and Android,neutral,0.0325230173766613
+2014-12-01,"Microsoft said it acquired Acompli, a young start-up that makes an email application for iOS and Android mobile devices, for about $200 million.",neutral,0.1204296350479126
+2014-12-01,"Microsoft Buys Acompli, an Email Start-Up",neutral,0.2517620921134949
+2014-12-02,Most Windows and Mac editions of Microsoft Word have a setting that automatically backs up documents.,neutral,-0.03232143819332123
+2014-12-02,"Also, how to export your Gmail contacts.",neutral,0.00922390166670084
+2014-12-02,How to Restore Old Versions of Word Documents,neutral,0.03235933557152748
+2014-12-04,"Two years after Microsoft invested $300 million in the Barnes & Noble e-reading business, the value of the Nook has declined by more than half.",negative,-0.9658545255661011
+2014-12-04,How the Promise of Microsoft’s Investment in Nook Soured,negative,-0.6306719779968262
+2014-12-05,Uber closes a $1.2 billion round of financing.,positive,0.6102620959281921
+2014-12-05,| The owners of the 76ers are taking a page out of the private equity playbook.,neutral,-0.263708233833313
+2014-12-05,| Only 11 bidders took part in the second Bitcoin auction.,neutral,0.022668732330203056
+2014-12-05,| Microsoft and Barnes & Noble end their Nook partnership.,negative,-0.28885579109191895
+2014-12-05,Morning Agenda: Uber Garners $40 Billion Valuation,positive,0.6344348788261414
+2014-12-08,European privacy regulators gathered to discuss the growing public outcry over how governments and tech giants gather and use people’s data.,neutral,-0.07793834060430527
+2014-12-08,European Privacy Debate on Display in Paris,neutral,0.027583705261349678
+2014-12-09,"Bill Gates of Microsoft, Jerry Yang of Yahoo, Evan Williams of Twitter have invested $25 million to effectively do the work of a traditional venture capital firm.",neutral,0.09277255833148956
+2014-12-09,Tech Figures Join to Fund Change.org Petition Site,neutral,0.041424356400966644
+2014-12-10,"Also, scanning a Mac for malware.",neutral,-0.22768747806549072
+2014-12-10,Keeping Up With Windows Update,neutral,0.28184759616851807
+2014-12-12,Oil falls below $60 a barrel.,negative,-0.8397042155265808
+2014-12-12,Microsoft now accepts Bitcoin.,neutral,0.0788852870464325
+2014-12-12,And an Indianapolis gun-store owner offers tips for “gun gifting” this holiday season.,neutral,0.17834770679473877
+2014-12-12,Today in Small Business: The Future of Payments,neutral,0.029503174126148224
+2014-12-15,"A broad array of organizations in technology, media and other fields — including Apple, Amazon, National Public Radio and Fox News — rallied behind Microsoft’s effort to block American authorities from seizing a customer’s emails stored in Ireland.",negative,-0.5280149579048157
+2014-12-15,Tech and Media Companies Back Microsoft in Privacy Case,negative,-0.8069825768470764
+2014-12-17,Critics of Google are turning to state attorneys general to push the company to censor illegal content and sites from search results.,negative,-0.8512113690376282
+2014-12-17,Google’s Detractors Take Their Fight to the States,neutral,-0.2115650177001953
+2014-12-23,The move follows an exit by Microsoft from Nook earlier this month.,neutral,0.07579699158668518
+2014-12-23,Barnes & Noble Buys Back Nook Stake From Pearson,neutral,0.10870204865932465
+2014-12-24,"In getting behind “The Interview,” Google and Microsoft joined what had become more a campaign to defend free speech against foreign intimidation than a business initiative.",neutral,0.051112011075019836
+2014-12-24,"Sony Streams ‘The Interview’ on YouTube, Google Play and Xbox",neutral,0.005877897143363953
+2014-12-26,"Over the Christmas holiday, the gaming servers for Microsoft’s Xbox and Sony’s PlayStation 4 were offline, rendering the devices partly unusable.",negative,-0.9395158290863037
+2014-12-26,Sony PlayStation and Microsoft Xbox Live Networks Attacked by Hackers,negative,-0.8917364478111267
+2014-12-29,The government appears to have blocked the ability of people in China to access their Gmail accounts through third-party email clients.,negative,-0.9136565327644348
+2014-12-29,China Adds New Barrier to Gmail,neutral,0.1127268448472023
+2014-12-31,"Sony’s new partners will expand digital availability of the film, which will also have a wider theatrical release starting Friday.",positive,0.909452497959137
+2014-12-31,Sony’s ‘The Interview’ Is Set for On-Demand and Wider Online Viewing,neutral,0.04092256352305412
+2015-01-01,Farhad Manjoo picks four products from 2014 that are bringing the future closer.,neutral,0.15562281012535095
+2015-01-01,"Standouts in Tech: Drones, Virtual Reality, Instant Translation and A.I.",neutral,0.05254523083567619
+2015-01-02,You can adjust your settings so that only certain people can see your images.,neutral,-0.006102435290813446
+2015-01-02,"Also, syncing files between Macs and PCs.",neutral,0.009627140127122402
+2015-01-02,Sharing Flickr Photos Privately,neutral,0.05647160857915878
+2015-01-05,"Sales of Microsoft’s Xbox One and Nintendo’s Wii U are improving, eroding what was once a strong lead for Sony’s PlayStation 4.",positive,0.8936854600906372
+2015-01-05,PlayStation 4 Faces Resurgent Rivals in Xbox One and Wii U,positive,0.7854037880897522
+2015-01-19,Microsoft’s new operating system is the biggest effort yet by Satya Nadella to save the company’s moribund smartphone business.,positive,0.6488296985626221
+2015-01-19,Daily Report: Microsoft Looks to Windows 10 for a Boost in Mobile,positive,0.916580080986023
+2015-01-20,"If Microsoft can deliver on its vision of universal apps that run across different devices, games could be one of the most intriguing tests of its plan.",positive,0.7157914638519287
+2015-01-20,How Xbox Could Help Microsoft and Windows 10,neutral,0.39720863103866577
+2015-01-21,"The HoloLens could help renew some of the luster Microsoft has lost in the last decade, when it reacted late to critical new technology trends.",positive,0.8651588559150696
+2015-01-21,"At Windows 10 Event, Microsoft Jumps Into Augmented Reality With HoloLens Headset",neutral,0.17848262190818787
+2015-01-22,"The service, the United States Patent Utility, charges a monthly subscription fee and has attracted a handful of initial users, including Microsoft.",neutral,0.05227794498205185
+2015-01-22,Priceline Founder Jay Walker Introduces a Service to Manage Patents,neutral,0.030487220734357834
+2015-01-24,The introduction of the HoloLens by Microsoft brought back memories of the history of its Kinect device.,positive,0.5847589373588562
+2015-01-24,Microsoft’s Holographic Vision Triggers a Flashback,neutral,-0.2160983383655548
+2015-01-25,"A series of investments by some of the tech industry’s biggest companies may sound odd, but they point to larger ambitions in moving giant amounts of data.",neutral,0.07653775066137314
+2015-01-25,Tech Giants Invest in New Dreams of Grandeur,neutral,0.2621924579143524
+2015-01-26,"The company said the weak personal computer market hurt its Windows business, as second-quarter net income dropped to $5.86 billion from $6.56 billion a year ago.",negative,-0.9670407772064209
+2015-01-26,Price Cuts for Crucial Microsoft Products Eroded Holiday-Season Profit,negative,-0.9575994610786438
+2015-01-28,Amazon’s latest foray: back-end email systems.,neutral,0.06507567316293716
+2015-01-28,Amazon’s Got Mail,neutral,0.07548218965530396
+2015-01-29,"With the latest earnings reports from Microsoft and Apple, the once-unthinkable became reality: Apple’s market capitalization hit $683 billion, more than double Microsoft’s $338 billion.",positive,0.8662473559379578
+2015-01-29,"How, and Why, Apple Overtook Microsoft",neutral,0.034257568418979645
+2015-01-30,Car title loans are drawing scrutiny from regulators.,negative,-0.6231114268302917
+2015-01-30,| Law firm founds a project to fight “revenge porn.” | Shake Shack is going public with big dreams.,positive,0.5695189833641052
+2015-01-30,| How Apple beat Microsoft.,positive,0.1775893121957779
+2015-01-30,Morning Agenda: Crackdown on Car Title Loans,negative,-0.6309906244277954
+2015-02-02,"The low-cost computing device, popular with hobbyists and students, can do more than ever.",neutral,0.2268855720758438
+2015-02-02,But it will still cost $35.,neutral,0.04285108298063278
+2015-02-02,Raspberry Pi Computer Gains More Horsepower,positive,0.7443636059761047
+2015-02-04,"Using your phone as a GPS unit is handy, but can run the battery down.",neutral,-0.10325480997562408
+2015-02-04,Always pack a mobile phone charger.,neutral,0.021202247589826584
+2015-02-04,Traveling With an iPhone,neutral,0.008910506963729858
+2015-02-10,"Almost six months after Microsoft sued Samsung, accusing it of violating the terms of a patent licensing agreement, the two companies on Monday said they had settled their feud.",negative,-0.7804330587387085
+2015-02-10,Microsoft and Samsung End Legal Dispute,neutral,-0.31663990020751953
+2015-02-11,"The company has acquired Sunrise Atelier, maker of the popular Sunrise calendar app for iOS, Android and Mac.",neutral,0.18153314292430878
+2015-02-11,The companies are not disclosing the sale price.,neutral,0.006729818880558014
+2015-02-11,Microsoft Continues Mobile Push With Sunrise Acquisition,positive,0.5499446988105774
+2015-02-12,"While Ford was developing the GT, software engineers were working on a digital version to star in the new version of the Forza Motorsport video game.",neutral,0.06724138557910919
+2015-02-12,"Ford and Forza Team Up on New GT, a Supercar for Street and Screen",positive,0.6162620186805725
+2015-02-13,"Tips on how to remove a file or folder from Microsoft’s cloud-storage service, and advice on how to confirm that your computer’s firewall is turned on.",neutral,0.020986774936318398
+2015-02-13,Deleting Files From Microsoft’s OneDrive,neutral,-0.32759031653404236
+2015-02-17,How to use two-step verification to guard against unauthorized access to your email.,neutral,-0.013647744432091713
+2015-02-17,Securing a Hotmail Account,neutral,-0.04457956552505493
+2015-02-18,"There’s a new strategy afoot at the company, which has brought apps and services to the Apple and Android devices people actually use, rather than ones that run Windows.",neutral,0.3105391561985016
+2015-02-18,Microsoft Has Suddenly Gotten Serious With Mobile,neutral,0.1705208569765091
+2015-02-19,"There’s a new strategy afoot at the company, which has brought apps and services to the Apple and Android devices people actually use, rather than ones that run Windows.",neutral,0.3105391561985016
+2015-02-19,Daily Report: Microsoft Zeroes In on Mobile,negative,-0.937697172164917
+2015-02-24,"Tips on how to archive Gmail messages to tidy up your inbox, and solutions for when your laptop battery begins to fade.",neutral,0.019673995673656464
+2015-02-24,Filing Away Gmail Messages,neutral,-0.15439316630363464
+2015-03-02,The 10-inch Sony Xperia Z4 tablet is waterproof and dustproof; boasts extremely long battery life and has powerful specs.,neutral,0.36552879214286804
+2015-03-02,"The Xperia M4 Aqua smartphone is also waterproof and has a two-day battery life, but it will not be sold in the United States.",neutral,0.053035981953144073
+2015-03-02,"Sony Reveals Its Waterproof 10-Inch Tablet, and a Midrange Phone the U.S. Can’t Have",neutral,0.07378529757261276
+2015-03-04,"With its vast share of the industry’s profits, Apple was the target at the Mobile World Congress, where Samsung and Microsoft are trying to position their products as business tools.",neutral,0.14122140407562256
+2015-03-04,"In Chase of Apple, Smartphone Makers Shift Strategies",negative,-0.7311730980873108
+2015-03-05,"Unlike the Nasdaq composite index at its dot-com peak in 2000, today’s index has companies that are more mature and less concentrated in technology.",neutral,0.05091739818453789
+2015-03-05,"Nasdaq Changed in Its Climb to 5,000",positive,0.10934659838676453
+2015-03-09,"A flurry of pop-up ads, an unfamiliar search toolbar and a changed home page are just some of the symptoms of malicious software.",negative,-0.6950135231018066
+2015-03-09,Fighting Back Against Malware,neutral,0.010125160217285156
+2015-03-11,"Google just matched Amazon for cheap online storage, with an important difference: While Amazon promises to fetch the cheap data in hours, Google offers to do it in three seconds.",positive,0.747792661190033
+2015-03-11,Google Offers Cheap Storage for Certain Kinds of Data,neutral,0.08729349821805954
+2015-03-18,Microsoft’s move to make Windows 10 upgrades free in China echoes a shift at the company and the software industry’s around the world.,positive,0.6233673095703125
+2015-03-18,"The days of charging customers for an operating system are slowly coming to an end, piece by piece.",neutral,0.01738833263516426
+2015-03-18,Microsoft Backs Further Away From Selling Software,negative,-0.8660510182380676
+2015-03-23,"Microsoft is serious about making its most lucrative business, Office, relevant for mobile users.",positive,0.5856654047966003
+2015-03-23,What is less clear is how much money it will be able to make from them.,neutral,-0.0013447478413581848
+2015-03-23,Microsoft Partners With Android Makers in Its Latest Mobile Push,neutral,0.40082037448883057
+2015-03-26,"The company announced that many of its 2,000 contractors and vendors would have to give employees 15 paid days off for sick leave and vacation time.",negative,-0.9308781027793884
+2015-03-26,"From Microsoft, a Novel Way to Mandate Sick Leave",neutral,0.40982040762901306
+2015-04-07,"The iTunes software can automatically sync with iPads, iPhones and iPod Touch players, but even if the feature is enabled in iTunes, a few conditions apply.",neutral,-0.04749708250164986
+2015-04-07,Diagnosing a Syncing Problem With iTunes,negative,-0.4412280321121216
+2015-04-09,"Amazon Web Services, the world’s biggest cloud company, is now selling cheap data analysis and prediction.",neutral,0.16893091797828674
+2015-04-09,"It’s likely to get baked into all kinds of applications, bringing pain to the old guard.",negative,-0.846900463104248
+2015-04-09,Amazon to Sell Predictions in Cloud Race Against Google and Microsoft,neutral,0.031555622816085815
+2015-04-10,"An analysis of recent company reports, however, finds that the widest gap exists between the chief executives and workers of Disney, Oracle, Qualcomm and Starbucks.",negative,-0.7619733810424805
+2015-04-10,"Despite Federal Regulation, C.E.O.-Worker Pay Gap Data Remains Hidden",negative,-0.9366810917854309
+2015-04-14,"Europe’s antitrust chief is expected to accuse the search giant of using its dominant position to favor its own services, a case that could force a change in its practices.",negative,-0.8932416439056396
+2015-04-14,Google Expected to Face Antitrust Charges in Europe,negative,-0.7817831039428711
+2015-04-15,"The European Union is accusing Google of abusing its dominance, and Microsoft has links with the three initial complainants that sparked the antitrust investigation.",negative,-0.8627081513404846
+2015-04-15,"Microsoft, Once an Antitrust Target, Is Now Google’s Regulatory Scold",negative,-0.71611088514328
+2015-04-16,"Under the new agreement, Yahoo will be allowed to deliver its own search results and ads for up to half the searches made by visitors to its sites and apps.",neutral,0.3201565742492676
+2015-04-16,"With Eye on Mobile, Yahoo Revises Its Search Partnership With Microsoft",positive,0.7640999555587769
+2015-04-19,"At least three posts out of more than 1,000 were erased after employees from the company’s business side complained about their content, according to a memo from BuzzFeed’s editor.",negative,-0.9514414668083191
+2015-04-19,BuzzFeed Says Posts Were Deleted Because of Advertising Pressure,negative,-0.9204216599464417
+2015-04-22,"Even with an upgrade, there are several ways to work with Microsoft Office files.",neutral,-0.02053811214864254
+2015-04-22,"Also, backing up data on an Amazon Fire tablet.",neutral,0.03284482657909393
+2015-04-22,Working With Old Office Files on a New Mac OS,neutral,0.045590490102767944
+2015-04-23,"No one was expecting big things from Microsoft in its most recent quarter, but its results ended up being far less grim than the worst case scenarios predicted for the company.",negative,-0.9470608234405518
+2015-04-23,"Microsoft Profits Slip Less Than Projected, With Revenue Up 6%",negative,-0.9129005074501038
+2015-04-24,"Amazon said in its first-quarter earnings report that its cloud division, Amazon Web Services, had revenue of $1.57 billion and operating income of $265 million.",neutral,0.10349607467651367
+2015-04-24,"Daily Report: Amazon Dominates Cloud Computing, but Tech Giants Are in Pursuit",neutral,0.2098778486251831
+2015-04-26,G.E.,neutral,0.0415060818195343
+2015-04-26,"is adding more sensor technology to products like street lights, heralding a sensor explosion that many believe will fuse the physical world with the Internet, anticipating and facilitating human behaviors.",positive,0.5386170744895935
+2015-04-26,"The Sensor-Rich, Data-Scooping Future",neutral,0.10810381919145584
+2015-04-27,"How to give an old iPhone to a friend for use with Wi-Fi, to surf and use apps.",neutral,-0.0012799855321645737
+2015-04-27,Repurposing an Old iPhone,neutral,-0.07636892795562744
+2015-04-29,Microsoft has steadily lost influence in the technology industry as software developers gravitated to mobile technologies like Google’s Android and Apple’s iOS.,negative,-0.9270492792129517
+2015-04-29,Microsoft Takes Steps to Close Its App Gap on Mobile Devices,positive,0.7884706258773804
+2015-04-30,"Oracle and Microsoft want to increase cloud capacity, making them possible suitors.",positive,0.8347010016441345
+2015-04-30,Salesforce’s Slow Growth May Prompt Hunt for a Buyer,negative,-0.7592923045158386
+2015-05-03,"Paul Allen, who founded Microsoft with Bill Gates 40 years ago, says the most daunting task the company faces is getting momentum in the mobile market.",neutral,0.40848228335380554
+2015-05-03,"40 Busy Years Later, Paul Allen, a Microsoft Founder, Considers His Creation",neutral,0.0597950741648674
+2015-05-05,"How to take screenshots on a Windows tablet, Also, how to use iPhoto after the latest Mac update replaces it with a different app.",neutral,-0.0104769766330719
+2015-05-05,Snapping the Windows Screen,neutral,-0.22183120250701904
+2015-05-06,Buying the cloud-based customer-service software could make businesses less likely to ditch Office.,negative,-0.3624504506587982
+2015-05-06,"It might, however, cost Microsoft some $60 billion.",negative,-0.901614785194397
+2015-05-06,Would Salesforce Make Sense for Microsoft?,neutral,0.07270435988903046
+2015-05-08,Get the most out of speech-recognition mobile assistants.,neutral,0.08678518980741501
+2015-05-08,"Also, how to use speed-test websites to measure broadband speeds.",neutral,0.03372306749224663
+2015-05-08,"How to Use Siri, Google Now and Cortana Voice Commands",neutral,-0.0031234119087457657
+2015-05-12,"A new book by two business school professors examines the common strategies of Bill Gates, Andy Grove and Steve Jobs, and the implications beyond the companies they led.",neutral,0.03064284846186638
+2015-05-12,"Bill Gates, Andy Grove and Steve Jobs: The Strategies They Shared",neutral,0.028245141729712486
+2015-05-19,"A group of prominent technology companies, including Google and Apple, have sent a letter to President Obama asking him to reject any proposals that would weaken their products’ security.",negative,-0.83016037940979
+2015-05-19,Tech Giants Urge Obama to Reject Policies That Weaken Encryption,negative,-0.6526427865028381
+2015-06-01,"Microsoft has finally said when Windows 10, one of its biggest products in years, will be available: July 29.",neutral,0.09971584379673004
+2015-06-01,Microsoft Sets Date for Windows 10,neutral,0.026812594383955002
+2015-06-03,"Microsoft Excel provides for changes in the typeface, point size and other characteristics of files that a user creates.",neutral,-0.0005545187741518021
+2015-06-03,Changing the Look of Excel,neutral,0.11251067370176315
+2015-06-08,"HackerOne’s co-founders are betting they can persuade the world’s hackers to spend their free time solving security’s problems, not causing them, and that businesses will pay them a bounty for their service.",positive,0.5859204530715942
+2015-06-08,"HackerOne Connects Hackers With Companies, and Hopes for a Win-Win",neutral,0.373124361038208
+2015-06-09,A growing number of European cloud computing companies are trying to take on American competitors like Google and Microsoft by playing up their privacy credentials,negative,-0.4640657305717468
+2015-06-09,European Cloud Companies Play Up Privacy Credentials,neutral,-0.01816657930612564
+2015-06-10,Some independent booksellers gain a portion of e-book sales through partnerships with bigger e-bookstores like Kobo and Amazon Source.,neutral,0.14815400540828705
+2015-06-10,"Shop Locally, Download Globally",neutral,-0.0005182120949029922
+2015-06-15,"Executives said that people who own the Xbox One will be able to play many games originally created for the previous console, the Xbox 360.",neutral,0.33549803495407104
+2015-06-15,"Xbox One to Get ‘Backward Compatibility,’ Microsoft Says at E3",positive,0.6691796779632568
+2015-06-16,"Google is becoming more public about its data centers, talking about its network and how much fiber it owns.",neutral,0.0725274384021759
+2015-06-16,"The idea is to show off assets that Amazon, Microsoft and IBM cannot match in the competition for cloud customers.",neutral,0.08091575652360916
+2015-06-16,Google Is Its Own Secret Weapon in the Cloud,neutral,-0.35382992029190063
+2015-06-17,Microsoft is allowing those currently running Windows 7 or 8.1 to “reserve” a copy of its newest operating system more than a month before it’s released.,neutral,0.020851299166679382
+2015-06-17,How to Get Windows 10,neutral,0.03747992217540741
+2015-06-18,"With $40 million from Microsoft, the Global Innovation Exchange will open in fall 2016, and offer a master’s degree in technology innovation.",positive,0.5547174215316772
+2015-06-18,University of Washington and Chinese University Unite to Form Technology Institute,neutral,0.07352342456579208
+2015-06-19,Regulators say that Google uses its 90 percent market share in Europe to favor its own services over those of rivals like Microsoft.,neutral,0.03878776729106903
+2015-06-19,European Regulators Lay Out Demands and Fines in Google Antitrust Case,negative,-0.46990513801574707
+2015-06-21,"Mr. Myerson, who already led one of the largest software organizations in the world in Microsoft’s operating systems group, takes on a division that has been troubled in recent years.",negative,-0.6216201186180115
+2015-06-21,Terry Myerson Rises to Powerful New Role in Charge of Microsoft Devices,neutral,0.35316359996795654
+2015-06-22,"The campaign, called Symphony, has been opened to outside advertisers.",neutral,0.09709488600492477
+2015-06-22,The idea is to use Comcast’s multiplatform range of assets for ad campaigns.,neutral,0.038193970918655396
+2015-06-22,Comcast and NBCUniversal Open Cross-Promotional Ad Strategy,neutral,0.03707943484187126
+2015-06-23,"So-called software containers got backing from companies including Cisco Systems and Google, while another group of companies detailed plans to automate certain aspects of cloud computing.",neutral,0.4405252933502197
+2015-06-23,Tech Companies Line Up Behind ‘Containers’ and the Cloud,neutral,-0.01680152863264084
+2015-06-26,"The coordinates embedded in a picture file may not reflect the actual location for a number of reasons, but it is possible to adjust them manually.",neutral,-0.032892920076847076
+2015-06-26,Adjusting GPS Coordinates in Photos,neutral,0.013907715678215027
+2015-06-29,The ride-hailing company further bolsters its mapping technology and engineering bench.,positive,0.9374206066131592
+2015-06-29,Uber to Acquire Mapping Technology and Know-How From Microsoft,neutral,0.17239253222942352
+2015-06-30,"When the deal for Verizon to buy AOL was announced last month, executives from both companies said AOL was an appealing acquisition because of its advertising technology.",positive,0.7284843325614929
+2015-06-30,"On Monday, AOL showed some of that value in announcing a deal with Microsoft",positive,0.5747258067131042
+2015-06-30,Daily Report: AOL to Take Over Display Advertising for Microsoft,neutral,0.12326399981975555
+2015-07-01,"The service brags that its playlists are curated by people not algorithms; on the other hand, its social network app needs retooling.",neutral,-0.0677882730960846
+2015-07-01,"Apple Music Is Strong on Design, Weak on Social Networking",negative,-0.9291943907737732
+2015-07-02,Yahoo is turning to the world’s dominant provider of web searches to power some of its own search results.,positive,0.5753457546234131
+2015-07-02,"The tests could lead to a deeper relationship between the two companies, whose previous efforts to cooperate on search were blocked by antitrust regulators.",neutral,0.3196105360984802
+2015-07-02,"In Tests, Yahoo Uses Google to Power Search Results and Ads",neutral,-0.03086841106414795
+2015-07-07,"William Veghte, a tech veteran who has worked for Hewlett-Packard and Microsoft, will fill the void left by the death of David Goldberg in May.",neutral,-0.09023244678974152
+2015-07-07,"After Death of Its Chief, SurveyMonkey Names a New Leader",neutral,-0.16247045993804932
+2015-07-08,Microsoft’s attempts to move beyond its core strength in business software through acquisitions has cost it about $14 billion in write-downs over the last three years.,negative,-0.9244980812072754
+2015-07-08,Microsoft’s Write-Down on Nokia Adds to String of Merger Missteps,negative,-0.9446091651916504
+2015-07-11,Stephen Joseph first sued in San Francisco over graffiti.,negative,-0.8510326147079468
+2015-07-11,"He lost, but the city cleaned up the graffiti.",neutral,0.030045360326766968
+2015-07-11,His latest victory is trans fats.,neutral,0.140760600566864
+2015-07-11,"He has learned that you can lose in court, but carry the day.",neutral,0.08975917845964432
+2015-07-11,"When This Man Is Irked, He Might Just File a Suit",neutral,-0.37963584065437317
+2015-07-13,It’s clear the introduction of Windows 10 is going to be more low key than it was for Windows 95.,neutral,0.045983169227838516
+2015-07-13,Microsoft Strikes New Tone for Windows 10 Release,positive,0.4115644693374634
+2015-07-15,How to rid the bookmarks menu of a utility you don’t use.,neutral,-0.07868088036775589
+2015-07-15,"Plus, browsing with Chrome on Windows 10 and learning MacBook trackpad gestures.",neutral,0.05193042755126953
+2015-07-15,Picking Pockets Off the Firefox Bookmarks List,neutral,-0.01939210295677185
+2015-07-20,Pressure from competitors has compelled the company to make the upgrade free and to find new ways to profit from some of its big moneymakers.,negative,-0.6100872159004211
+2015-07-20,Daily Report: Windows 10 Signifies Microsoft’s Shift in Strategy,positive,0.5776678919792175
+2015-07-21,A $7.5 billion accounting charge for the company’s acquisition of Nokia was a drag on the software maker’s fourth-quarter.,negative,-0.9420199990272522
+2015-07-21,A $7 Billion Charge at Microsoft Leads to Its Largest Loss Ever,negative,-0.9225131273269653
+2015-07-22,"Also, how to move documents and photos to a new computer after switching to Windows 10.",neutral,0.025679610669612885
+2015-07-22,Keeping Dictation on a Mac Private,neutral,-0.02172313630580902
+2015-07-24,And how to get iTunes on a PC play over Bluetooth speakers.,neutral,0.016895562410354614
+2015-07-24,Taking Stock of a Hard Drive’s Files,neutral,-0.025951482355594635
+2015-07-26,Facebook and other leading American technology companies see Africa as a place to experiment with new ways of expanding Internet access.,positive,0.6134110689163208
+2015-07-26,Facebook and Other Tech Giants Expand Internet Access in Africa,positive,0.8415035009384155
+2015-07-28,"The Start button is back, in a more modern fashion, and the tablet mode, while perhaps intimidating for longtime Windows users, has familiar touches.",positive,0.5016531348228455
+2015-07-28,Windows 10 Review: A Throwback With Upgrades in Software and Security,neutral,0.11124442517757416
+2015-07-29,"Even with a new interim chief, Twitter is dealing with the same old problem of anemic user growth.",negative,-0.816920280456543
+2015-07-29,"The focus shifts on Wednesday to Twitter’s more successful rival, Facebook, and its quarterly results.",neutral,-0.2707102298736572
+2015-07-29,Daily Report: The Tough Realities of a Twitter Turnaround,neutral,0.10300777852535248
+2015-07-30,"The technology business is especially vulnerable to rapid, unforeseen transformation, sometimes leading to the mass extinction of giant companies.",negative,-0.783210813999176
+2015-07-30,"In Microsoft’s Nokia Debacle, a View of an Industry’s Feet of Clay",negative,-0.4671352505683899
+2015-07-31,"Microsoft has agreed to contribute a substantial amount of the financing in a recent round, which totals about $1 billion, people with knowledge of the matter said.",positive,0.5167506337165833
+2015-07-31,Microsoft Said to Invest Big Sum in Uber,neutral,0.1724756956100464
+2015-08-01,"Two technology journalists from The New York Times assess the week’s major news stories from Silicon Valley, including earnings announcements from Facebook and Twitter.",neutral,-0.02072104811668396
+2015-08-01,Farhad and Mike’s Week in Review: Twitter Problems,neutral,-0.029993604868650436
+2015-08-04,"Microsoft is offering $1 million in prize money to competitive gamers, a crucial leg in the multimillion-dollar marketing push for the video game.",positive,0.7156896591186523
+2015-08-04,"With Halo 5: Guardians, Microsoft Seeks to Lure E-Sports Players Back",neutral,0.23506580293178558
+2015-08-05,A guide to some of the most popular ride-sharing apps available to world travelers.,neutral,0.060490984469652176
+2015-08-05,The International Answers to Uber and Lyft,neutral,0.05008064582943916
+2015-08-06,"The two companies, partners of the enterprise software maker, will take ownership stakes in the biggest leveraged buyout of the year.",neutral,0.22249048948287964
+2015-08-06,Salesforce Ventures and Microsoft Join Informatica Buyout,neutral,0.046639736741781235
+2015-08-07,"Paid paternity leave offers broad benefits, but it won’t become common until prominent men use it and don’t pay a penalty for doing so.",neutral,0.06533877551555634
+2015-08-07,Bringing Paternity Leave Into the Mainstream,neutral,0.15133386850357056
+2015-08-09,Thousands of laid-off workers have started their own businesses or have been recruited by other tech companies lured to Finland by its surplus of talent.,negative,-0.9480318427085876
+2015-08-09,"After Nokia Layoffs, Tech Workers in Finland Regroup and Refocus",negative,-0.8312979340553284
+2015-08-11,"The trouble is that with fresh cash in hand or the slate wiped clean from an old deal, there is almost always a wide-eyed desire for a new one.",neutral,-0.2167222499847412
+2015-08-11,Tech Breakups Show Bigger Is Not Necessarily Better,negative,-0.4703585207462311
+2015-08-12,"Turning off the default motion tracking function, defending against PC scams and requesting order history reports from Amazon.",neutral,0.011112157255411148
+2015-08-12,Stopping the iPhone Step Counter,neutral,-0.2933792471885681
+2015-08-26,Facebook is wading into the increasingly crowded field of digital personal assistants with a new offering called M.,neutral,0.04966527968645096
+2015-08-26,Facebook Tests a Digital Assistant for Its Messaging App,neutral,0.03718215599656105
+2015-08-28,"How to see if a Mac has been infected and what to do about it; plus, changing uppercase to lowercase, and vice versa, in Microsoft Word.",neutral,0.01899578981101513
+2015-08-28,Protecting Your Mac From Malware and Viruses,neutral,-0.03940553218126297
+2015-09-02,"One of the big ideas for Windows 10 is that the same “universal” apps can run on a PC, tablet or even smartphone instead of separate versions for each.",neutral,0.061960093677043915
+2015-09-02,Here are some of the best ones.,neutral,0.004212105646729469
+2015-09-02,App Smart | The Best of Windows 10 Apps,neutral,0.06205221265554428
+2015-09-03,"Also look for a review of apps for Windows 10, ahead of the presentation of the newest iPhone next week.",neutral,0.029087375849485397
+2015-09-03,"This Week, Sizing Up Smartphone Plans",neutral,0.41424113512039185
+2015-09-04,The activist investor ValueAct Capital’s best bet for shaking up the card and payments giant might also be going after the chief executive.,negative,-0.6125699877738953
+2015-09-04,American Express May Get Same Treatment as Microsoft From ValueAct Capital,neutral,0.12948168814182281
+2015-09-08,The usual deal is a bit like Niketown agreeing to sell Adidas sneakers.,neutral,0.03464122861623764
+2015-09-08,"“This is unique,” Kirk Schell, vice president of Dell Commercial Client Solutions, said in an interview.",positive,0.7212004661560059
+2015-09-08,“We don’t do this with anybody.”,neutral,-0.2584516704082489
+2015-09-08,Dell Agrees to Sell Microsoft’s Surface Tablet,neutral,0.419303297996521
+2015-09-09,"The tech world has focused mostly on news related to China so far this week, with the main tech news event — Apple’s unveiling of new products — set to take place on Wednesday.",neutral,-0.008596867322921753
+2015-09-09,Daily Report: China Asserts Tech Presence; Apple Shows Off New Products,positive,0.7952574491500854
+2015-09-16,"If your computer did not come with a microphone, you can command Microsoft’s virtual assistant with an external or headset microphone.",neutral,-0.07038918882608414
+2015-09-16,How to Talk to Microsoft’s Cortana,neutral,-0.03632810711860657
+2015-09-18,"The company created its Amazon Appstore app for Android shoppers, but it has now released the Amazon Underground app to provide access to its digital goods.",neutral,0.022624313831329346
+2015-09-18,Shopping for Amazon Apps With Android,neutral,0.015320677310228348
+2015-09-21,Microsoft’s Internet calling unit did not specify how many of its roughly 300 million global users were affected.,negative,-0.8992063403129578
+2015-09-21,Skype Service Problems for Some Users Worldwide,negative,-0.9005434513092041
+2015-09-22,"Office 2016 has numerous changes, with the most prominent ones designed to improve how the software is used by groups of people to collaborate.",neutral,0.3369486331939697
+2015-09-22,"Microsoft Releases Office 2016, With Features Focused on Teamwork",neutral,0.0374477319419384
+2015-09-25,"How to change the setting in Microsoft Edge, the default browser for Windows 10.",neutral,0.028491124510765076
+2015-09-25,Changing the Search Engine in Microsoft Edge,neutral,0.11862986534833908
+2015-09-26,"A mixture of moral conviction, economic forecasting and expectations of tougher regulations has spurred Microsoft and others to track their energy use.",neutral,0.1942346692085266
+2015-09-26,Microsoft Leads Movement to Offset Emissions With Internal Carbon Tax,neutral,0.10994289070367813
+2015-09-27,The premier met with technology executives over the weekend to seek ideas and assistance in bringing his nation fully into the digital world.,positive,0.7888860702514648
+2015-09-27,"Narendra Modi, Indian Premier, Courts Silicon Valley to Try to Ease Nation’s Poverty",positive,0.3964080810546875
+2015-09-28,"Gary Reback, who persuaded the federal government to bring a case against Microsoft in the 1990s, is now pursuing a case against Google.",neutral,-0.024777937680482864
+2015-09-28,"Silicon Valley Lawyer, Gary Reback, Takes Antitrust Fight to Europe",neutral,0.01890558749437332
+2015-09-30,"Peace has broken out between Google and Microsoft, which agreed to dismiss all of their pending patent lawsuits against each other.",positive,0.16113942861557007
+2015-09-30,Microsoft and Google Call an End to Patent Battles,neutral,-0.04584985226392746
+2015-10-02,"How to automate regular backups of your PC, and getting Android TV on your set.",neutral,0.0017192419618368149
+2015-10-02,Scheduling Automatic Backups in Windows 10,neutral,-0.003427889198064804
+2015-10-05,"Apple and Google, along with other technology companies, made it into the top 10 of Interbrand’s annual report.",positive,0.6609008312225342
+2015-10-05,Tech Giants Top Best Global Brands List,neutral,0.26703423261642456
+2015-10-06,"Microsoft, which once had little interest in hardware, introduced on Tuesday a laptop, a tablet computer, smartphones and a wearable fitness band.",neutral,0.06830136477947235
+2015-10-06,The Hardware Side of Microsoft Unveils a Pile of New Devices,neutral,0.056701865047216415
+2015-10-07,"New hardware, including the $1,500 Surface Book, shows Microsoft is serious about adjusting to competition from the likes of Apple and Google.",positive,0.8582722544670105
+2015-10-07,Daily Report: Microsoft Turns On the Hardware Charm,neutral,-0.012082129716873169
+2015-10-08,The private equity firm founded with a check from Steve Ballmer is buying the public relations firm known for its campaign work with Democratic clients.,neutral,0.037604812532663345
+2015-10-08,Mark Penn’s Stagwell Group Will Acquire SKDKnickerbocker,neutral,0.025295238941907883
+2015-10-09,"As sales of personal computers continue to slump, PC makers are having to innovate, and, in many ways, Microsoft is leading the way — even lending to the industry’s budding optimism.",positive,0.2524157464504242
+2015-10-09,Microsoft’s Mission to Reignite PC Sector May Be Taking Hold,negative,-0.4384978115558624
+2015-10-14,"Upgrading from an older version of Windows can sometimes damage the device drivers, including the one for the sound card.",negative,-0.9347596764564514
+2015-10-14,But the fix can be simple.,neutral,0.03864753991365433
+2015-10-14,Restoring Sound to Windows 10,neutral,0.3255147337913513
+2015-10-16,"Mr. Ballmer, the former chief executive of Microsoft, said he had acquired a 4 percent stake in Twitter.",neutral,0.15450498461723328
+2015-10-16,Steve Ballmer Buys Into Twitter,neutral,0.030001088976860046
+2015-10-19,"Tech earnings season is going into full swing, with companies including Yahoo, IBM, Google and Microsoft set to report quarterly results this week.",positive,0.7402395606040955
+2015-10-19,Their financial data may offer insight into which companies are gaining the upper hand in some tech battles.,neutral,0.3331187963485718
+2015-10-19,Daily Report: Tech Tussles Take Center Stage in Earnings,neutral,0.048323921859264374
+2015-10-20,The group of leading global privacy experts hopes to see greater cooperation between Europe’s privacy regulators and the Federal Trade Commission.,positive,0.8583439588546753
+2015-10-20,"As U.S. Tech Companies Scramble, Group Sees Opportunity in Safe Harbor Decision",positive,0.6797531843185425
+2015-10-21,"Microsoft is embracing a fragmented view of the future, in which no single device, or even single category of devices, reigns supreme.",neutral,0.026902751997113228
+2015-10-21,The plan is rife with risk — but that doesn’t mean it can’t work.,negative,-0.6973530054092407
+2015-10-21,Microsoft’s Rule-Breaking Vision of a Future With Countless Devices,neutral,0.22268283367156982
+2015-10-22,"A much bigger test for Microsoft will come during the quarter now underway, when a flood of new hardware running Windows goes on sale.",neutral,0.37943825125694275
+2015-10-22,"Microsoft Earnings Climb, Lifted by Strong Growth in Cloud Computing",positive,0.8687537312507629
+2015-10-23,"After Amazon, Microsoft and Google reported earnings on Thursday, their market capitalizations soared, partly on the growth of cloud computing.",positive,0.9220078587532043
+2015-10-23,"The Cloud Is Here, Separating Disrupters From Disrupted",neutral,-0.1405329406261444
+2015-10-24,"Farhad Manjoo is off this week, so tech reporter Nick Wingfield joins Mike Isaac to discuss Microsoft, whose chief, Satya Nadella, has made some helpful changes in the last 18 months.",neutral,0.10175798088312149
+2015-10-24,Mike and Nick’s Week in Tech: Microsoft in the Cloud,neutral,-0.14976301789283752
+2015-10-26,The company makes an expensive gamble on a retail strategy that is still a long way from paying off.,negative,-0.8704746961593628
+2015-10-26,Microsoft Goes Upscale With Fifth Avenue Flagship Store,neutral,0.16064445674419403
+2015-10-27,Oracle wants to do what it does best: build software that has the specific kinds of features that companies needs to manage their operations.,neutral,0.11771143972873688
+2015-10-27,Oracle Will Not Build a Giant Cloud System Like A.W.S.,neutral,-0.030348308384418488
+2015-10-28,The iPhone allows users to manage the storage of their apps and uninstall the ones that are no longer needed.,neutral,0.00921405479311943
+2015-10-28,Old files and photos can be dumped too.,negative,-0.5879398584365845
+2015-10-28,Streamlining Data-Hoarding Apps,neutral,0.04761075973510742
+2015-10-30,"A growing number of companies like IBM, Cisco Systems and Microsoft have partnerships with Chinese companies with ties to the military, and experts are questioning those links.",negative,-0.7819047570228577
+2015-10-30,U.S. Tech Giants May Blur National Security Boundaries in China Deals,negative,-0.8533101081848145
+2015-11-02,"Like many of his ultrarich peers in tech, Mr. Allen, the Microsoft co-founder, has allocated much of his giving to efforts seeking big breakthroughs that will transform society.",neutral,0.05152209475636482
+2015-11-02,Paul Allen’s Philanthropy Mirrors His Passions and Business Approach,neutral,0.04465332627296448
+2015-11-04,The technology research firm IDC predicts the pace of digital transformation of business is going to accelerate and increasingly hit every industry.,neutral,0.4453335404396057
+2015-11-04,"Digital Transformation Going Mainstream in 2016, IDC Predicts",positive,0.6184400916099548
+2015-11-11,"A look at how the new features in Microsoft’s latest operating system compare with version 8.1, and what to do if you’re getting text messages on your iPad but not your iPhone.",neutral,0.03871777281165123
+2015-11-11,Weighing Benefits of Windows 10 Upgrade,neutral,0.3393842279911041
+2015-11-17,"Caeden, a wearable tech start-up, hopes to attract consumers with a smart bracelet that looks more like a piece of jewelry than a gadget.",neutral,0.47220876812934875
+2015-11-17,"Caeden, a Wearable Tech Start-Up, Introduces a Smart Bracelet",neutral,0.106905497610569
+2015-11-19,You can back up the an address book as a vCard file and import it back into the cloud if disaster strikes.,neutral,-0.03219400346279144
+2015-11-19,Backing Up iCloud Contacts,neutral,0.028373613953590393
+2015-11-20,A new demonstration of the HoloLens device suggested that augmented reality has a way to go before the technology is ready for the masses.,neutral,0.14221255481243134
+2015-11-20,A Reality Check for Microsoft’s HoloLens,neutral,0.0670011043548584
+2015-11-23,"IAC/InterActiveCorp, the hodgepodge of Internet businesses, has come under scrutiny.",negative,-0.8558971881866455
+2015-11-23,"But today, the numbers tell a different story.",neutral,-0.005948424339294434
+2015-11-23,Barry Diller’s Business Model Bears Fruit,neutral,0.06328218430280685
+2015-11-25,"As part of its switch to Windows 10 as a “service” that automatically updates itself, Microsoft has pushed out its Windows 10 November Update.",neutral,0.006354726850986481
+2015-11-25,Updating Windows 10,neutral,0.036405712366104126
+2015-11-30,"Tips on making the elements on your computer screen easier to see, from the blinking text-insertion cursor to your desktop’s text and icons.",neutral,0.03776613995432854
+2015-11-30,How to Enlarge the Text Cursor,neutral,0.025826336815953255
+2015-12-08,"Donald Trump suggested asking Bill Gates, the Microsoft co-founder, for help in shutting down the Internet in some areas.",neutral,0.0732477456331253
+2015-12-08,But the worldwide computer network was designed to thwart such an attempt.,negative,-0.7088642716407776
+2015-12-08,Why Donald Trump’s Call to ‘Close Up’ the Internet Is Science Fiction,neutral,-0.05858955532312393
+2015-12-10,An article in the journal Science reported a type of machine learning that outperformed human capabilities for a narrow range of vision-related tasks.,negative,-0.30097246170043945
+2015-12-10,A Learning Advance in Artificial Intelligence Rivals Human Abilities,positive,0.22435232996940613
+2015-12-20,Faster broadband speeds and bigger hard drives in game consoles are changing the way the video game business works.,neutral,0.0971633791923523
+2015-12-20,"As Downloads Take Over, a Turning Point for the Video Game Industry",neutral,0.09502902626991272
+2015-12-29,The former Microsoft executive explains why Microsoft appears to have fallen behind Sony in the game console market.,positive,0.2512851357460022
+2015-12-29,Former Xbox Chief Robbie Bach on Console Battles,neutral,-0.07429097592830658
+2015-12-31,"The company joins Google, Facebook and others in disclosing when users of email and other services have probably been targeted by hackers working on behalf of governments.",neutral,-0.17169547080993652
+2015-12-31,Microsoft to Notify Users of Government Hackings,negative,-0.7557628154754639
+2016-01-02,Steve Gleason learned he had A.L.S.,neutral,0.01108488067984581
+2016-01-02,after retiring from football; he has since formed a group that uses technology to help those with the disease.,neutral,0.11028630286455154
+2016-01-02,Ex-N.F.L.,neutral,0.01193435862660408
+2016-01-02,Player’s New Team Takes On Challenges of A.L.S.,neutral,0.3552241027355194
+2016-01-05,"The company’s problems in the country began in 2014, when it ended support for Windows XP, hoping users would upgrade to more recent operating systems.",negative,-0.9419081211090088
+2016-01-05,Microsoft Faces New Scrutiny in China,negative,-0.8488883376121521
+2016-01-06,"Have the websites you want to see first loaded, each in its own tab, when you fire up Microsoft’s newest browser.",neutral,-0.002188829705119133
+2016-01-06,Setting Up Tabs to Open Automatically in Microsoft Edge,neutral,0.03204426169395447
+2016-01-11,"There are several ways to print contacts from iCloud, using a Mac or PC.",neutral,-0.017103729769587517
+2016-01-11,Printing a Paper Backup of Your iCloud Contacts,neutral,-0.0166623592376709
+2016-01-15,"Investments in well-known tech giants like Amazon, Microsoft and Google fueled three top-performing funds in the fourth quarter.",positive,0.6041209697723389
+2016-01-15,Fund Managers Win With Tech Stalwarts and Burly Brand Names,neutral,0.12185531109571457
+2016-01-19,"Microsoft hopes to give away its cloud services to 70,000 nonprofits in the next three years.",neutral,0.03605762869119644
+2016-01-19,Microsoft to Donate $1 Billion in Cloud Services to Nonprofits and Researchers,neutral,0.3834136128425598
+2016-01-20,"By just about every metric, Amazon, Apple, Facebook, Google and Microsoft are getting larger, more entrenched in their own sectors, more powerful in new sectors and better protected from competition.",positive,0.7023353576660156
+2016-01-20,Tech’s ‘Frightful 5’ Will Dominate Digital Life for Foreseeable Future,neutral,0.06621987372636795
+2016-01-22,Most web browsers and operating systems have settings and features that should be able to make low-contrast type more readable.,neutral,0.02253340184688568
+2016-01-22,Making the Screen Easier to Read,neutral,0.17096994817256927
+2016-01-24,"Apple, Microsoft and Amazon will announce their quarterly reports, the Fed will gather for the first time this year, and American and European negotiators have until Sunday to reach an agreement.",neutral,0.08431580662727356
+2016-01-24,"Tech Giants’ Earnings, the Fed Meets and a Deadline on a Data-Sharing Deal",negative,-0.4431602954864502
+2016-01-27,"In order to be of use, assistants like Cortana and Siri need to know a lot about you.",neutral,0.0034964662045240402
+2016-01-27,Reading the companies’ privacy statements can give you an idea of how much.,neutral,-0.012494901195168495
+2016-01-27,Protecting Personal Information From Virtual Assistants,neutral,0.014101311564445496
+2016-01-28,Quarterly results underscored Microsoft’s good and bad trends as software floundered while the cloud business continued to grow.,positive,0.05781376361846924
+2016-01-28,"Microsoft Profit and Revenue Fall, but Cloud Computing Grows",negative,-0.9598751068115234
+2016-01-29,Apple has acquired an augmented reality start-up called Flyby Media and hired the former director of the Center for Human-Computer Interaction at Virginia Tech.,neutral,0.08835645765066147
+2016-01-29,Apple Sets Its Sights on Virtual Reality,neutral,0.03482655808329582
+2016-01-30,"Analysis on Apple’s iPhone sales, Microsoft’s rebound, Amazon’s profits and Facebook’s success with mobile advertising.",neutral,0.27670201659202576
+2016-01-30,Farhad and Mike’s Week in Tech: Lessons From Earnings Season,neutral,0.13071218132972717
+2016-01-31,"Microsoft sank a data center on the ocean floor, where the sea water acts as a coolant, and plans to use the waves to power it.",neutral,-0.31455880403518677
+2016-01-31,The results were encouraging enough to try a bigger version.,positive,0.8626794219017029
+2016-01-31,Microsoft Plumbs Ocean’s Depths to Test Underwater Data Center,neutral,-0.05952482298016548
+2016-02-01,"You don’t have to be a full-fledged webmaster to share photos, videos and news with family and friends in your own private corner of the Internet.",neutral,-0.004315314814448357
+2016-02-01,Creating a Family Website,neutral,0.08134318143129349
+2016-02-02,"Magic Leap has drawn attention for attracting investors like Google, Fidelity Investments and Warner Brothers, although it has shown the public little about its products.",neutral,0.06401599943637848
+2016-02-02,"Magic Leap, an Augmented Reality Firm, Raises $793 Million",positive,0.5269456505775452
+2016-02-03,"While becoming an astronaut is out of reach for most of us, there are plenty of apps that can take your mind on a journey to the final frontier.",neutral,0.012029729783535004
+2016-02-03,An Expanding Universe of Space Apps,neutral,0.3563564419746399
+2016-02-04,"Even if you upgraded to Windows 10 by downloading the software free on your PC, you can still reinstall the whole operating system if needed.",neutral,0.028635332360863686
+2016-02-04,Reinstalling Windows 10,neutral,0.05861584469676018
+2016-02-05,Apple provides free software assistance for moving files from an old Windows PC to a new Mac.,neutral,0.04509705305099487
+2016-02-05,Moving Files to a Mac From a PC,neutral,-0.08745618164539337
+2016-02-11,"If you rely on a certain printer or scanner connected to your computer, check to see if the device is compatible with Windows 10 before you upgrade.",neutral,0.0020630136132240295
+2016-02-11,Using Older Hardware With Windows 10,neutral,0.03805634751915932
+2016-02-18,"Moving on up from Microsoft’s 10-year-old operating system is not impossible, but it takes time, money and patience.",neutral,0.39309656620025635
+2016-02-18,Windows 10 Upgrade Options for Vista Users,neutral,0.06052523851394653
+2016-02-23,"The Microsoft co-founder said that stopping terrorism is in the public interest, but that government needs must be balanced with privacy safeguards.",neutral,0.06193345785140991
+2016-02-23,Bill Gates Weighs In on Apple’s Clash With the F.B.I.,negative,-0.7947437763214111
+2016-02-24,"As it competes with Amazon and Google, the Windows maker is trying to make it easy for customers to migrate their technology to mobile and the cloud.",positive,0.5408424735069275
+2016-02-24,What Microsoft’s Xamarin Purchase Says About the Cloud Computing Fight,neutral,0.029521118849515915
+2016-02-26,A summary of the latest developments in the battle between Apple and the F.B.I.,neutral,-0.008244730532169342
+2016-02-26,"over unlocking an iPhone used by one of the attackers in the mass shooting in San Bernardino, Calif.",negative,-0.3703716993331909
+2016-02-26,A Brief Explanation of Apple’s Showdown With the U.S. Government,neutral,0.024100562557578087
+2016-03-01,You can see what software and security patches Microsoft has pushed out to your PC by looking in the Windows Update history.,neutral,-0.005540192127227783
+2016-03-01,Keeping Track of Windows Updates,neutral,0.029032614082098007
+2016-03-02,If you have no idea what kind of graphics card is under the hood of your computer — PC or Mac — there is an easy way to find out.,neutral,-0.02203631028532982
+2016-03-02,Checking the Graphics Card Specifications on Your Computer,neutral,-0.10907159745693207
+2016-03-03,Apple’s legal battle with the government tests the limits of law enforcement agencies’ access to personal data.,negative,-0.7031505703926086
+2016-03-03,Apple Is Rolling Up Backers in iPhone Privacy Fight Against F.B.I.,positive,0.46880561113357544
+2016-03-07,"The studios are Lionhead, which is based in Britain, and Press Play, which is based in Denmark.",neutral,0.013891327194869518
+2016-03-07,Microsoft to Close 2 Game Development Studios,negative,-0.7920915484428406
+2016-03-11,Windows 10 offers several ways to get a forecast on your screen.,neutral,-0.00910763069987297
+2016-03-11,Getting the Weather Report From Windows,neutral,-0.011057503521442413
+2016-03-24,"The bot, @TayandYou, was put on hiatus after making offensive statements based on users’ feedback, like disputing the existence of the Holocaust.",negative,-0.9051674008369446
+2016-03-24,Microsoft Created a Twitter Bot to Learn From Users.,neutral,-0.3479311168193817
+2016-03-24,It Quickly Became a Racist Jerk.,negative,-0.702549934387207
+2016-03-25,"Amazon, Google, IBM and Microsoft are using high salaries and games pitting humans against computers to try to claim the standard on which all companies will build their A.I.",neutral,-0.2682334780693054
+2016-03-25,technology.,neutral,0.09785059094429016
+2016-03-25,"The Race Is On to Control Artificial Intelligence, and Tech’s Future",neutral,0.07865960896015167
+2016-03-28,Tech’s new architecture melds large computing clouds and artificial intelligence to create efficient computing resources and data-based businesses.,positive,0.55287766456604
+2016-03-28,Silicon Valley Looks to Artificial Intelligence for the Next Big Thing,neutral,0.030650241300463676
+2016-03-30,"The new operating system has had the fastest adoption rate of any Windows version, and the company revealed plans for artificial intelligence and augmented reality projects.",positive,0.7670337557792664
+2016-03-30,"Microsoft Trumpets Windows 10, and Pushes Into Sci-Fi Tech",neutral,0.12689107656478882
+2016-04-04,"If you miss some of the handy shortcuts from earlier versions of Windows, you can easily add them.",neutral,-0.0947558656334877
+2016-04-04,Adding Links to the Windows 10 Start Menu,neutral,0.023680973798036575
+2016-04-10,"This economics of tiny things demonstrates the global power of the few companies, including Amazon, Microsoft and Google, that can make fortunes from the small.",neutral,0.11230607330799103
+2016-04-10,"Billing by Millionths of Pennies, Cloud Computing’s Giants Take In Billions",neutral,0.05946198105812073
+2016-04-11,"Microsoft’s Edge browser comes with a tool that lets you scribble, highlight and make other notations on your personal copy of an open web page.",neutral,-0.013508258387446404
+2016-04-11,Marking Up Web Pages in Windows 10,neutral,0.013964317739009857
+2016-04-13,"Smartphone and tablet apps, some of them compatible with Microsoft Word and Scrivener, that can help writers craft their novels, screenplays or articles.",neutral,0.009052209556102753
+2016-04-13,Now You Can Write the Great American Novel on the Subway,neutral,0.046787526458501816
+2016-04-14,The company is challenging the use of secrecy orders that prevent it from telling people when the government obtains a warrant to read their emails.,negative,-0.8503499031066895
+2016-04-14,Microsoft Sues Justice Department to Protest Electronic Gag Order Statute,negative,-0.9120104312896729
+2016-04-15,The software giant argues in a lawsuit that law enforcement is too aggressive in seeking gag orders on its information requests.,negative,-0.8948038816452026
+2016-04-15,Microsoft Goes on Offensive Against Justice Department,negative,-0.7877558469772339
+2016-04-20,"Microsoft’s free offer for Windows 7 and Windows 8.1 users expires in July, but the company has not announced what will happen next.",neutral,-0.04423173516988754
+2016-04-20,Watching the Clock on That Windows 10 Deal,neutral,0.008173041045665741
+2016-04-21,"Both revenue and earnings were short of analysts’ forecasts, and the company’s shares fell after hours.",negative,-0.9569882750511169
+2016-04-21,Microsoft’s Cloud Business Falls Short of Investors’ Hopes,negative,-0.9117571115493774
+2016-04-22,"In withdrawing complaints with authorities worldwide, the companies said they would try to resolve future disputes before protesting to regulators.",neutral,0.07494612038135529
+2016-04-22,Microsoft and Google Agree to Drop Mutual Complaints,negative,-0.8407405614852905
+2016-04-25,Apple’s abandoned QuickTime multimedia software for Windows can put a PC’s security at risk,negative,-0.7390758991241455
+2016-04-25,Removing QuickTime for Windows in a Hurry,negative,-0.5166177749633789
+2016-04-26,"The oil producer lost its AAA rating, leaving only two American companies with the highest rating: Microsoft and Johnson & Johnson.",negative,-0.9066210985183716
+2016-04-26,Exxon Mobil’s Sterling Credit Is Downgraded by Standard & Poor’s,negative,-0.8711552619934082
+2016-04-28,The driving force pushing the recent European action against Google’s search engine was a consortium of corporate rivals.,neutral,-0.37385186553001404
+2016-04-28,Europe’s Case Against Google Might Help Rivals More Than Consumers,positive,0.5088691115379333
+2016-05-04,"Microsoft’s older program for displaying images has been replaced with the new Photos app, but you have alternatives.",neutral,0.01919322833418846
+2016-05-04,Restoring Windows Photo Viewer in Windows 10,neutral,0.05355243384838104
+2016-05-09,The technology industry and government officials have staked out their turf over a draft encryption bill.,neutral,-0.002371087670326233
+2016-05-09,Agreement does not appear to be in the cards.,neutral,0.01576780527830124
+2016-05-09,"The Clash of Privacy, Legislation and Software",negative,-0.4077012836933136
+2016-05-13,"Microsoft’s update to Windows 10 has had complications for some people, but you can prepare for a few of the unexpected side effects.",neutral,-0.2269352674484253
+2016-05-13,What to Do if Windows 10 Eats Your Files,neutral,-0.40456974506378174
+2016-05-17,"The reviews, which require company employees to appear in person, involve consumer software and mainstream devices and look at encryption or data storage.",neutral,-0.008553551509976387
+2016-05-17,China’s New Requirement for U.S. Tech Companies,neutral,0.30547162890434265
+2016-05-18,"A virtual assistant designed to compete with the Echo from Amazon and other artificial intelligence devices coming from Microsoft, Apple and Facebook.",neutral,0.10128428786993027
+2016-05-18,Google Home: A Voice-Activated Device That Already Knows You,neutral,-0.09994485974311829
+2016-05-19,Google’s Home device puts it in the race to become the go-to company for A.I.,positive,0.7444965839385986
+2016-05-19,— along with several rivals.,neutral,-0.06660208851099014
+2016-05-19,Silicon Valley’s Artificial Intelligence Marathon Is On,neutral,0.03454425185918808
+2016-05-24,"Like Apple and Google have done for their own gadgets, Microsoft has a way for users to track down missing Windows 10 hardware.",neutral,0.023593522608280182
+2016-05-24,Locating a Lost Windows Device,neutral,-0.12799590826034546
+2016-05-25,"As sales dwindle, most of the reduction will come in Finland, where the mobile business bought from Nokia originated.",negative,-0.94566410779953
+2016-05-25,"Microsoft Cutting 1,850 Jobs in Smartphone Unit",negative,-0.9507121443748474
+2016-05-27,Some OS X versions of the popular business suite need a little extra help to be updated properly.,neutral,0.09634698927402496
+2016-05-27,Fixing Microsoft Office for Mac Update Errors,neutral,-0.1258879005908966
+2016-06-01,"European efforts to rein in the largest American tech companies are only a taste of what countries like Brazil, India and China are likely to do.",neutral,-0.03965969756245613
+2016-06-01,Why the World Is Drawing Battle Lines Against American Tech Giants,neutral,-0.21710456907749176
+2016-06-07,"Analyzing queries on Bing, researchers found warning signs of symptoms of pancreatic cancer before the disease was diagnosed.",neutral,-0.11330796778202057
+2016-06-07,Microsoft Finds Cancer Clues in Search Queries,neutral,-0.06416632235050201
+2016-06-08,Speaking in front of people can be terrifying.,negative,-0.685024082660675
+2016-06-08,Several apps can help ease jittery nerves and possibly make you a more effective and eloquent speaker.,positive,0.5831823945045471
+2016-06-08,Getting Over Stage Fright With the Help of Your Smartphone,neutral,-0.016888558864593506
+2016-06-13,"While LinkedIn had rapid growth and rising stock values in the past, more recently it has faced a hacking attack and declines in its share price.",negative,-0.9277765154838562
+2016-06-13,A LinkedIn Timeline,neutral,0.025467075407505035
+2016-06-14,"Microsoft’s latest version of Windows has its own style, but you can still use Jump Lists and find recently opened files quickly.",neutral,-0.0026993732899427414
+2016-06-14,Checking Your Windows 10 Lists,neutral,-0.10090205073356628
+2016-06-16,"As the marijuana industry grows inexorably more mainstream, an established company moves to enter the government compliance side of the business.",neutral,0.12370356917381287
+2016-06-16,The First Big Company to Say It’s Serving the Legal Marijuana Trade?,neutral,0.02574070170521736
+2016-06-16,Microsoft.,neutral,0.022409960627555847
+2016-06-17,"Microsoft and Apple regularly prod users to update their systems, but some holdouts have good reasons to stay a few versions behind.",neutral,-0.19330903887748718
+2016-06-17,Weighing the System Upgrade Decision,neutral,0.08138138055801392
+2016-06-18,Farhad and Mike try to itemize Microsoft’s $26.2 billion bill for LinkedIn.,neutral,0.046605728566646576
+2016-06-18,"Uber’s Chinese rivalry, Apple updates and other tech news.",neutral,0.0627705305814743
+2016-06-18,Farhad’s and Mike’s Week in Tech: That Business of Microsoft Buying LinkedIn,neutral,-0.04390610754489899
+2016-06-20,"The planned airborne launcher — funded by Paul Allen, a Microsoft founder — is more than three-quarters finished, but questions about its business model linger.",neutral,-0.25173941254615784
+2016-06-20,Stratolaunch’s Gargantuan Flying Launchpad Edges Toward the Skies,neutral,0.029445216059684753
+2016-06-24,Microsoft’s Remote Assistance function works through Windows so friends and family can provide technical support over the internet.,neutral,-0.0025511253625154495
+2016-06-24,Sharing Screens Between PCs Running Different Versions of Windows,neutral,-0.017654946073889732
+2016-06-27,"Apple and Dell, longtime rivals in the battle over sales to educators and students, now have plenty of company from companies like Amazon and others.",neutral,0.3032803535461426
+2016-06-27,Tech Makes Its Pitch to the Education Community,neutral,0.08747045695781708
+2016-06-28,Some streaming services now allow temporary downloads of certain videos to watch when you do not have internet access.,neutral,-0.0036082807928323746
+2016-06-28,Downloading Video Streams to Go,neutral,-0.03455059602856636
+2016-06-29,"Besides offering autocorrection and anticipating a user’s next words, keyboard apps provide search features and can customize the keys’ layout.",neutral,0.005906280130147934
+2016-06-29,Third-Party Keyboards Give Mobile Users More Options,neutral,-0.0012560505419969559
+2016-07-01,Microsoft and other sites and companies have troubleshooting steps to take if you click the Windows 10 Start button and nothing happens.,neutral,-0.01147330179810524
+2016-07-01,What to Try When the Start Menu Just Won’t Start,neutral,-0.29553231596946716
+2016-07-04,Sharing your location with your apps and operating system has its advantages.,neutral,0.12644965946674347
+2016-07-04,"But if you’d rather not, you can disable the function.",neutral,-0.1868804395198822
+2016-07-04,Hiding From Windows 10,neutral,-0.2229204922914505
+2016-07-07,"Mr. Turner, Microsoft’s chief operating officer, is the latest in a spate of technology executives to join a financial firm.",neutral,-0.005826679989695549
+2016-07-07,"Kevin Turner, Microsoft Executive, to Join Citadel Securities",neutral,0.013837285339832306
+2016-07-12,"Microsoft restricted its virtual helper to work only with its Edge browser and Bing search engine, but you can do voice searches right in Google’s browser.",neutral,-0.0817876011133194
+2016-07-12,Voice Searches With Cortana or Chrome,neutral,-0.07633672654628754
+2016-07-14,The United States Court of Appeals for the Second Circuit reversed a ruling that Microsoft must turn over email stored in a data center in Dublin.,negative,-0.8292827606201172
+2016-07-14,Microsoft Wins Appeal on Overseas Data Searches,negative,-0.17361831665039062
+2016-07-16,"Tech leaders oppose Donald J. Trump, a privacy verdict favors Microsoft and Pokémon Go gets tens of millions to play in the streets.",negative,-0.7199665307998657
+2016-07-16,Farhad’s and Mike’s Week in Tech: One Game to Rule Them All,neutral,-0.05931273102760315
+2016-07-18,"An appeals court decision dealt a blow to government efforts to obtain emails stored overseas, mainly because laws have not kept up with technology.",negative,-0.9409675002098083
+2016-07-18,Microsoft Case Shows the Limits of a Data Privacy Law,neutral,-0.12522776424884796
+2016-07-20,"Microsoft Office has been around for more than 25 years, and today there are several ways to get the software — including free.",neutral,0.16487538814544678
+2016-07-20,Finding the Right Microsoft Office,neutral,0.1575382649898529
+2016-07-25,"Early versions of Microsoft’s new browser did not include support for extensions, but the next big update to Windows 10 brings extensions and more.",neutral,0.05096299946308136
+2016-07-25,Getting Extensions for Edge,neutral,0.02241942286491394
+2016-07-30,"Twitter, Facebook, Google and Amazon shared their second-quarter earnings reports, and Yahoo agreed to sell itself to Verizon for about $5 billion.",neutral,0.20343108475208282
+2016-07-30,Farhad’s and Mike’s Week in Tech: The Cautionary Tale of the Fall of Yahoo,neutral,-0.06771271675825119
+2016-08-04,"Many other programs and online software services can open, view and even edit spreadsheets created by Microsoft’s flagship business application.",neutral,-0.0021303612738847733
+2016-08-04,Finding Alternatives to Microsoft Excel,neutral,0.08569520711898804
+2016-08-09,"Monster Worldwide, a former competitor of LinkedIn, has been sold to Randstad Holding of the Netherlands for a fraction of its former value.",neutral,-0.015021415427327156
+2016-08-09,"In Buying LinkedIn, Microsoft Might Pay Heed to Monster",neutral,0.1955820769071579
+2016-08-17,"Apple’s spreadsheet program can edit Microsoft Excel files, but you need to take an extra step to use those files in Excel again.",neutral,0.011780554428696632
+2016-08-17,Converting Spreadsheets in Apple’s Numbers to Excel,neutral,0.03788693621754646
+2016-08-19,"E-book readers and tablets can handle several types of files, but some may work better for certain kinds of books.",neutral,0.07718595117330551
+2016-08-19,Picking a Digital Publishing Format,neutral,0.034742265939712524
+2016-08-26,"As big companies race to build oversize data networks, communities are finding that the giant buildings can operate with only about 30 people.",negative,-0.6456285119056702
+2016-08-26,"Cloud Computing Brings Sprawling Centers, but Few Jobs, to Small Towns",neutral,0.03793832287192345
+2016-09-01,Four people involved in the creation of an industry partnership say its intent will be clear: to ensure that A.I.,neutral,0.3225673735141754
+2016-09-01,"research is focused on things that will benefit people, not hurt them.",neutral,0.033388860523700714
+2016-09-01,How Tech Giants Are Devising Real Ethics for Artificial Intelligence,neutral,0.036162350326776505
+2016-09-03,"Tech companies, civil liberties groups and media organizations are planning to back Microsoft’s resistance to government attempts to snoop on customers.",negative,-0.4280751049518585
+2016-09-03,Microsoft’s Challenge to Government Secrecy Wins Dozens of Supporters,neutral,0.027787119150161743
+2016-09-13,You can use the export command in Microsoft Outlook to start transferring your contacts to a different mail program.,neutral,-0.014156222343444824
+2016-09-13,Move Your Address Book From Outlook to Google,neutral,-0.02171461470425129
+2016-09-15,"Having the right software to connect to your devices is necessary for a functioning computer, but your operating system can often take care of itself.",neutral,0.04366274178028107
+2016-09-15,How to Manage Your Windows Drivers,neutral,0.0171564482152462
+2016-09-20,"Microsoft’s ClearType technology has been making type easier to read for years, and you can adjust it to your liking.",neutral,0.12583842873573303
+2016-09-20,Get Sharper Text on Your Windows Screen,neutral,-0.24771791696548462
+2016-09-26,"Microsoft ended its free upgrade offer for the operating system in July, but there are other ways to get the software.",neutral,0.0355057530105114
+2016-09-26,So Now You Want Windows 10 …,neutral,0.033037517219781876
+2016-09-27,A possible takeover shows that just what Twitter is still is very much in the eye of the beholder.,neutral,0.03231590986251831
+2016-09-27,Daily Report: Twitter Attracts a Wide Range of Suitors,neutral,0.0548100471496582
+2016-09-28,"The Partnership on AI unites Amazon, Facebook, Google, IBM and Microsoft to ease public fears of machines that are learning to think for themselves.",positive,0.8383876085281372
+2016-09-28,Protecting Humans and Jobs From Robots Is 5 Tech Giants’ Goal,neutral,0.0625777617096901
+2016-09-29,"The company will combine its vaunted research group with the unit focused on products that use artificial intelligence, like Bing and Cortana.",neutral,0.22581981122493744
+2016-09-29,Microsoft Reorganizes Its Research Efforts Around A.I.,neutral,0.05445314198732376
+2016-09-30,"European regulators look at Microsoft’s purchase of LinkedIn not for what it is, but for what may be.",neutral,-0.04393254965543747
+2016-09-30,They are right to.,neutral,0.28857892751693726
+2016-09-30,Daily Report: Trust Busters Destined to Dig into Data,neutral,-0.23606115579605103
+2016-10-03,Companies like Amazon and Microsoft are building data centers across the Continent in response to Europeans’ desires to keep their information close to home.,neutral,0.2696113586425781
+2016-10-03,U.S. Tech Giants Are Investing Billions to Keep Data in Europe,neutral,0.08641725778579712
+2016-10-04,"Open Whisper Systems received a subpoena for information on its Signal app subscribers and an order not to talk about it, a practice Microsoft and others say is too prevalent, and unconstitutional.",negative,-0.8712410926818848
+2016-10-04,"Subpoenas and Gag Orders Show Government Overreach, Tech Companies Argue",negative,-0.7946465015411377
+2016-10-10,"Choosing a voice, which is often young and female, in conversational computing has implications for design, branding or interacting with machines.",neutral,-0.013031788170337677
+2016-10-10,Looking for a Choice of Voices in A.I.,neutral,-0.011066250503063202
+2016-10-10,Technology,neutral,0.04072616994380951
+2016-10-11,"Microsoft pushed out a big update to its operating system this summer, and you can confirm whether your PC has it through a few quick steps.",neutral,0.38480663299560547
+2016-10-11,Checking for the Windows 10 Anniversary Update,neutral,-0.03024549037218094
+2016-10-12,"When you decide it’s time to close your account and move on to another mail service, make sure you get all the files you need before you go.",neutral,-0.009780490770936012
+2016-10-12,How to Bid Adieu to Yahoo,neutral,0.05043851584196091
+2016-10-16,"The Yahoo report is of particular interest to investors, as the company is expected to stay quiet concerning the recent hacking and spying scandals that may imperil its pending sale to Verizon.",neutral,-0.01763012632727623
+2016-10-16,Earnings Reports for Goldman Sachs and Yahoo,neutral,0.013799984008073807
+2016-10-20,"Microsoft said its gross profit margin from its commercial cloud business was 49 percent — lower than its traditional software business, but still attractive.",negative,-0.9147765040397644
+2016-10-20,Microsoft Shares Hit a High With Promise of the Cloud’s Profit Margins,positive,0.8016621470451355
+2016-10-21,Investors liked what they saw in the software giant’s earnings.,positive,0.5833813548088074
+2016-10-21,Wait until they see how many value-building charges the company can add to computing.,neutral,0.09338626265525818
+2016-10-21,"Daily Report: Microsoft, Ahead in the Cloud",neutral,0.447868674993515
+2016-10-26,The Surface Studio represents Microsoft’s growing presence in the hardware side of the industry that it once left entirely to its partners.,positive,0.5007952451705933
+2016-10-26,Microsoft Unveils Its First Desktop PC,neutral,0.3721901774406433
+2016-10-29,Farhad is going as sexy Donald Trump and Mike as Guy Fieri.,neutral,0.006216572597622871
+2016-10-29,Amazon gets them reminiscing about Matthew McConaughey in a 1990s stoner movie.,neutral,-0.03925847262144089
+2016-10-29,"Farhad and Mike’s Week in Tech: Microsoft, Apple and Halloween!",neutral,-0.018087387084960938
+2016-11-02,"The tech giant introduced Microsoft Teams, an addition to its Office 365 suite, which resembles Slack but adds features like threaded conversations and videoconferencing.",positive,0.5765594840049744
+2016-11-02,Microsoft Puts Slack in Cross Hairs With New Office Chat App,negative,-0.46618717908859253
+2016-11-04,Adding color or a shade of gray to every other row in your spreadsheet can help your eyes focus better on the information.,neutral,0.2233898788690567
+2016-11-04,A Formula for Easier-to-Read Excel Work Sheets,neutral,-0.029948540031909943
+2016-11-05,"Mike is a medieval witch hunter, as Farhad retreats into Mario.",neutral,-0.15744246542453766
+2016-11-05,Microsoft’s grab for Slack’s lunch is discussed.,neutral,-0.11235825717449188
+2016-11-05,And Amazon could do better at inspiring shopping.,neutral,0.30628442764282227
+2016-11-05,Farhad’s and Mike’s Week in Tech: Gaming as Prophylaxis to Elections,neutral,-0.005616210401058197
+2016-11-07,"Fear that Oracle would back away led NetSuite shareholders to accept a $9.3 billion offer over the objections of a major investor, T. Rowe Price.",negative,-0.11416962742805481
+2016-11-07,Larry Ellison’s Hardball Tactics Win NetSuite for Oracle,neutral,-0.010549157857894897
+2016-11-09,"If Windows 10 annoys you and you don’t want to switch to a Mac, consider Linux or even a Chromebook instead.",neutral,-0.3128703534603119
+2016-11-09,Finding a Non-Mac Alternative to Microsoft,neutral,0.2063685655593872
+2016-11-10,The social network for professionals was found to have violated a law requiring it to store local users’ data within the country.,negative,-0.9221579432487488
+2016-11-10,Russia Prepares to Block LinkedIn After Court Ruling,negative,-0.872975766658783
+2016-11-20,"The computer giant says it’s ready to start planning a prototype quantum computer, a superpowerful device that relies on subatomic particles instead of transistors.",neutral,0.29867488145828247
+2016-11-20,Microsoft Spends Big to Build a Computer Out of Science Fiction,neutral,0.09639803320169449
+2016-11-21,"Microsoft’s Windows Movie Maker app is headed for retirement next year, but an updated version is promised and other programs may fill the void.",neutral,-0.19338464736938477
+2016-11-21,Making Movies With Windows 10,neutral,0.03425519913434982
+2016-12-01,"If the Windows 10 virtual assistant software is calling you by the wrong name, or butchering its pronunciation, here’s how to fix it.",neutral,-0.16347573697566986
+2016-12-01,Reintroduce Yourself to Microsoft’s Cortana,neutral,0.06410210579633713
+2016-12-06,"Microsoft’s latest operating system may seem like a leap from Windows XP and Windows 7, but you can make the Windows 10 desktop feel more like home.",neutral,0.1463288515806198
+2016-12-06,Adding Desktop Icons for Windows 10,neutral,0.08664127439260483
+2016-12-08,The technology giant has not had a great track record with the companies it acquires.,neutral,-0.026763293892145157
+2016-12-08,The hope is that it has learned from its mistakes.,positive,0.8663084506988525
+2016-12-08,"With LinkedIn, Microsoft Looks to Avoid Past Acquisition Busts",positive,0.5728819966316223
+2016-12-09,One sign of success in the $26 billion merger will be if few LinkedIn employees use their own product to find another job.,positive,0.6485365629196167
+2016-12-09,Daily Report: What Microsoft Needs From LinkedIn,neutral,0.01664738357067108
+2016-12-13,"The executives meeting with Mr. Trump in Manhattan on Wednesday include Elon Musk of Tesla, Timothy D. Cook of Apple and Jeff Bezos of Amazon.",neutral,-0.0027679726481437683
+2016-12-13,"When Trump Meets Tech Leaders, Jobs Will Be on the Agenda",neutral,0.030217908322811127
+2016-12-22,The Facebook-owned messaging tool has become a vital link between countries even as some nations try to restrict its use.,neutral,0.2105848342180252
+2016-12-22,Daily Report: WhatsApp Is Embraced by World’s Immigrants,neutral,0.28860583901405334
+2016-12-25,The rapid expansion of internet-connected devices will put even more power in the hands of a few companies with the biggest cloud services.,neutral,0.4315297305583954
+2016-12-25,Why the Computing Cloud Will Keep Growing and Growing,neutral,0.1395011842250824

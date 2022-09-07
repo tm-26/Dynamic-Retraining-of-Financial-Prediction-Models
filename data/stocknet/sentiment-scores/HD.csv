@@ -1,0 +1,91 @@
+Date,Sentence,Prediction,sentimentScore
+2014-02-25,"The companies, two of the country’s biggest retailers, partly blamed a stormy January for slow sales, but they did well compared with other retailers.",positive,0.7299456596374512
+2014-02-25,"Mixed Results, but Strong Outlook, for Home Depot and Macy’s",positive,0.6304588317871094
+2014-02-28,"Over the past 15 years, something palpable has begun to change at big companies, Tony Schwartz writes.",neutral,0.3173985183238983
+2014-02-28,They are awakening to a larger perspective and a bigger view of the role they play in the world.,neutral,0.308536559343338
+2014-02-28,A Purpose Beyond Profit,neutral,0.07508290559053421
+2014-03-13,Mr. Rickel and his brothers opened a chain of home-repair stores that offered supermarket-style shopping before Home Depot existed.,neutral,0.027644582092761993
+2014-03-13,"Robert Rickel, a Founder of Hardware Supermarkets, Dies at 90",neutral,-0.30559271574020386
+2014-03-20,"Walmart is waging an aggressive campaign for outdoor and garden business this spring for the first time, offering “Black Friday-like prices” on more than 60 items.",positive,0.5913246870040894
+2014-03-20,Walmart’s New Push for Outdoor Sales,neutral,0.35712528228759766
+2014-04-30,"Phone carriers say HD voice is the solution to a longstanding problem, but will it arrive before we all switch to Skype or just give up calling completely?",neutral,-0.02378842979669571
+2014-04-30,"With HD Voice, Better Call Quality Is Coming.",positive,0.9036911129951477
+2014-04-30,Text Your Friends.,neutral,-0.03489203006029129
+2014-05-20,"The home improvement chain’s first-quarter sales increased 2.9 percent from a year earlier, but it joined a variety of other retailers in missing earnings expectations.",negative,-0.5721523761749268
+2014-05-20,Home Depot Leads Weak Retail Sector Ahead of Spring Spending Thaw,negative,-0.9388616681098938
+2014-06-23,The manufacturing start-up is setting up a separate company whose main technology is software intended to help seamlessly connect all kinds of automated home devices.,neutral,0.03772991895675659
+2014-06-23,"Daily Report: Quirky to Spin Off Wink, Company for Smart-Home Products",neutral,0.04992865025997162
+2014-07-21,"The toy company, along with other brands and big retailers, is starting to use the technology to lure shoppers, while manufacturers see opportunity in mass customization.",neutral,0.4225601255893707
+2014-07-21,Hasbro to Collaborate With 3-D Printing Company to Sell Artwork,neutral,0.45509982109069824
+2014-08-17,"Quarterly earnings numbers from Home Depot, Target and others; a vote on oil-industry taxes in Alaska; possible Fed insights in a speech by its chairwoman; and data on housing starts, consumer prices and global economic recovery.",neutral,-0.05318686366081238
+2014-08-17,Retailers Report Earnings in a Subdued Season,negative,-0.8326672911643982
+2014-08-19,"Home construction increased sharply in July, the Commerce Department reported on Tuesday, as Home Depot, whose fate is tied closely to the housing market, announced a strong quarter.",positive,0.890210747718811
+2014-08-19,Two Good Omens for Housing Market,positive,0.43882080912590027
+2014-09-02,The retailer said it was investigating a report that customer credit and debit card data was stolen from its systems and put up for sale online.,negative,-0.9430386424064636
+2014-09-02,Home Depot Investigates a Possible Credit Card Breach,neutral,-0.37369194626808167
+2014-09-03,Bank and computer security company employees and law enforcement officials are tracing the track taken by the latest batch of stolen cards.,negative,-0.6882025599479675
+2014-09-03,Path of Stolen Credit Cards Leads Back to Home Depot Stores,negative,-0.527892529964447
+2014-09-04,Bank and computer security company employees and law enforcement officials are tracing the track taken by the latest batch of stolen cards.,negative,-0.6882025599479675
+2014-09-04,"Daily Report: Tracing Stolen Credit Cards, Road Leads Back to Home Depot",negative,-0.5585308074951172
+2014-09-08,Home Depot confirmed on Monday that hackers had attacked its cash register system.,negative,-0.9325021505355835
+2014-09-08,Information on more than 60 million credit cards may have been stolen.,negative,-0.9012706279754639
+2014-09-08,Home Depot Data Breach Could Be the Largest Yet,negative,-0.7869645357131958
+2014-09-18,"Home Depot confirmed on Thursday that 56 million cardholders’ account information had been compromised in a five-month cyberattack, making the breach the largest known attack on a retailer.",negative,-0.9103928804397583
+2014-09-18,Home Depot Says Data From 56 Million Cards Was Taken in Breach,neutral,0.038494616746902466
+2014-09-20,"Before a major data breach, Home Depot was slow to raise its defenses against hackers despite alarms from security experts as far back as 2008.",positive,0.5592999458312988
+2014-09-20,Ex-Employees Say Home Depot Left Data Vulnerable,negative,-0.7894057035446167
+2014-10-02,"General Motors is recalling almost 118,000 of its 2013-14 model vehicles including the Chevrolet Tahoe and Cadillac Escalade.",neutral,-0.14536401629447937
+2014-10-02,G.M.,neutral,0.048085395246744156
+2014-10-02,Recalls More Cars Over Possible Stalling,negative,-0.8244954943656921
+2014-10-13,"The company, tapping a seasoned retail hand, said Marvin Ellison would become president in November and chief executive next August.",neutral,0.3922877013683319
+2014-10-13,J.C. Penney Names Home Depot Executive as Its Next Chief,neutral,0.010164087638258934
+2014-11-06,"Hackers took 53 million email addresses in addition to the payment card details of 56 million of its customers during this year’s data breach, the retailer disclosed.",negative,-0.9108089208602905
+2014-11-06,Home Depot Says Hackers Also Stole Email Addresses,negative,-0.8789464235305786
+2014-11-17,"Home Depot, Target and Lowe’s will report their third-quarter results this week, offering a hint at consumers’ outlooks; and the Fed will release minutes from its last meeting.",neutral,0.10618241131305695
+2014-11-17,"Retailers’ Earnings, Fed Minutes and a Panel on Wall St.",neutral,-0.16390688717365265
+2014-11-18,"The home improvement retailer, the target of a cyberattack affecting as many as 56 million customers, beat analysts’ expectations with $1.5 billion in net earnings.",positive,0.7000588774681091
+2014-11-18,Home Depot Posts a Strong 3rd Quarter Despite a Data Breach Disclosure,positive,0.4918934106826782
+2014-12-05,"A panel plans to hold a hearing next week on ways to “protect the financial sector” from cyberattacks, but for now there are no plans to have anyone from the financial services industry testify.",neutral,-0.11872705817222595
+2014-12-05,Senate to Hold Hearing on Cyberattacks Against Finance,neutral,-0.3431430459022522
+2014-12-23,"Companies still need to invest in cyberprotection and detection, says Richard Beales of Reuters Breakingviews.",neutral,0.049410611391067505
+2014-12-23,The Need for Bank Cyberinsurance,neutral,-0.06669978052377701
+2015-01-08,"In part because of wage stagnation, even smaller rises in health care costs are less affordable, a study by the Commonwealth Fund said.",negative,-0.8070135116577148
+2015-01-08,"Health Premiums Rise More Slowly, but Workers Shoulder More of Cost",positive,0.2199377715587616
+2015-01-15,A planned bill would expand New York’s definition of what constitutes the type of private information whose breach would mandate a disclosure.,positive,0.6557480096817017
+2015-01-15,It would cover email addresses and passwords.,neutral,0.006037493236362934
+2015-01-15,New York Attorney General Seeks Expanded Reports on Data Breaches,neutral,-0.030200064182281494
+2015-01-22,"Top executives, including Robert Smith of Vista Equity Partners and John Chambers of Cisco, say that not only are cyberattacks becoming more common, they are getting tougher to fight.",neutral,-0.4207412302494049
+2015-01-22,Executives in Davos Express Worries Over More Disruptive Cyberattacks,negative,-0.8970506191253662
+2015-02-25,"The department store and home improvement chains, which both reported solid fourth-quarter earnings, have yet to see the full impact of shipping delays that hit inventory levels during a West Coast ports dispute.",negative,-0.9337335824966431
+2015-02-25,West Coast Port Gridlock Hits Inventory at Macy’s and Home Depot,negative,-0.9588369727134705
+2015-03-19,"Schools, museums and some entrepreneurial individuals are experimenting with ways to teach art techniques online.",neutral,0.11650559306144714
+2015-03-19,"Not Digital Art, but Art Learned Digitally",neutral,0.02489565685391426
+2015-04-22,The retailer will ask a half-dozen suppliers to stop using ortho-phthalates in their products because of health concerns by consumer groups.,negative,-0.8266889452934265
+2015-04-22,Home Depot Says It Will Phase Out Chemical Used in Vinyl Flooring,neutral,-0.128746896982193
+2015-05-17,"Walmart, Home Depot and Target are among the retailers posting results this week; Japan will report its G.D.P.",positive,0.4044686555862427
+2015-05-17,on Wednesday; and the big Wall Street banks will hold their annual meetings with shareholders.,neutral,0.019083892926573753
+2015-05-17,Earnings From Walmart and More Big Retailers; Wall Street’s Annual Meetings,neutral,0.12732230126857758
+2015-05-19,"The company, the nation’s largest retailer, said an increase in its employees’ minimum wage had an effect on operating income.",positive,0.47079288959503174
+2015-05-19,Profit Slips at Walmart as Revenue Falls Flat,negative,-0.9543190598487854
+2015-06-03,Newer LEDs are gaining on compact fluorescent lights as substitutes for inefficient incandescent bulbs in lighting.,positive,0.7122365236282349
+2015-06-03,Lower-Cost LEDs Offer Some Competition to Compact Fluorescent Lights,neutral,0.28541138768196106
+2015-06-10,"In their efforts to steal credit card data, hackers have taken aim at small businesses, like Eataly’s food halls, as well as retail giants like Target and Home Depot.",negative,-0.8263867497444153
+2015-06-10,"Hackers Go After Little Fish, Too, While Trawling for Credit Cards",negative,-0.48656007647514343
+2015-07-22,"The deal for Interline Brands, a supplier of maintenance and repair products, is expected to bolster Home Depot’s sales to the professional market.",positive,0.9348418712615967
+2015-07-22,Home Depot to Buy Interline Brands for $1.6 Billion in Cash,neutral,0.060126613825559616
+2015-08-07,"If we don’t deal with income inequality, we’ll face intolerable taxes or social unrest.",negative,-0.8178088068962097
+2015-08-07,"Capitalists, Arise: We Need to Deal With Income Inequality",neutral,0.030898652970790863
+2015-08-17,"This week, some of the nation's biggest retailers report earnings, the Federal Reserve will publish an account of its July meeting, and Greece must make a critical repayment.",neutral,-0.2036462128162384
+2015-08-17,"Retailer Earnings, Fed Minutes and Greek Debt",neutral,-0.08790633082389832
+2015-09-28,"As a deadline approaches for new chip-enabled credit and debit cards to thwart data breaches, banks and credit unions are applying another sort of pressure by suing retailers over lax security.",negative,-0.951147198677063
+2015-09-28,"As Online Data Theft Escalates, Banks Look to Retailers to Bear the Losses",negative,-0.7501295804977417
+2015-11-09,"A hedge fund manager who accused Lumber Liquidators of selling wood with high levels of formaldehyde is making the same claims against Ark Floors, an importer of Chinese wood products.",negative,-0.9102943539619446
+2015-11-09,Laminate Maker Ark Is Accused of Selling Tainted Flooring,negative,-0.8476929068565369
+2015-11-17,"Sales and traffic improved at Walmart stores in the United States, but operating income fell more than 8 percent as the retailer invested in online operations and its work force.",negative,-0.9609537124633789
+2015-11-17,"Strong Sales at Walmart, Home Depot and TJX",positive,0.9174379706382751
+2016-01-05,"Advice for those thinking about buying a 4K television, also called Ultra HD, which has a higher resolution than the current high-definition 1080p TV sets.",neutral,0.06373368203639984
+2016-01-05,"Despite the CES Hype, It’s Better to Wait on That 4K TV",neutral,-0.023334801197052002
+2016-02-21,A pending wrongful death lawsuit will test a new legal strategy to prevent nursing homes from requiring their residents to take disputes to arbitration.,neutral,-0.26889967918395996
+2016-02-21,Pivotal Nursing Home Suit Raises a Simple Question: Who Signed the Contract?,neutral,0.029500480741262436
+2016-04-01,"Ms. Mattison, chief executive of Gracious Home New York, says she tries to follow a mentor’s advice to keep asking questions until she gets to the truth.",neutral,-0.031642425805330276
+2016-04-01,"Dottie Mattison: Talk Less, but Ask ‘Why’ More",neutral,-0.1434324085712433

@@ -1,0 +1,12 @@
+Date,Sentence,Prediction,sentimentScore
+2014-07-11,"Zack “Danger” Brown can raise more than $43,000 on Kickstarter to pay for his potato salad.",neutral,0.33687540888786316
+2014-07-11,Surely there is someone at the Sun Valley conference who can make use of his talents.,neutral,0.13056503236293793
+2014-07-11,Weekend Reading: Have You Even Tried the Potato Salad in Sun Valley?,neutral,-0.1620848923921585
+2014-10-22,"Conceived at the World Wildlife Fund, the initiative uses bulk purchasing power to allow for discounts on home systems.",neutral,0.06911709904670715
+2014-10-22,Home Solar Power Discounts Are Worker Perk in New Program,positive,0.6288578510284424
+2015-02-23,Asahi Kasei will buy the battery business and 3M will purchase the filtration operation in a deal with a $3.2 billion enterprise value.,neutral,0.06364087760448456
+2015-02-23,Polypore Sells Industrial Businesses,neutral,0.0025707483291625977
+2015-09-07,"Ms. Little, who consulted for three decades for companies like 3M, General Mills and Coca-Cola, took inspiration from sources as varied as geishas, burglars and cheetahs.",neutral,-0.005390888080000877
+2015-09-07,"Sara Little, Peripatetic Product Designer, Dies at 97",neutral,-0.25363889336586
+2016-03-25,"A company’s overall profit growth is unaffected by share buybacks, $6.6 billion since 2008 in Yahoo’s case.",positive,0.45622164011001587
+2016-03-25,"In Yahoo, Another Example of the Buyback Mirage",neutral,0.06940264999866486

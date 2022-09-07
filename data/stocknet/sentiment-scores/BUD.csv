@@ -1,0 +1,289 @@
+Date,Sentence,Prediction,sentimentScore
+2014-01-07,"The deal allows Sandvik, a Swedish company that provides specialized equipment for the mining and construction industries, to enter a new product area.",positive,0.7695380449295044
+2014-01-07,Sandvik to Buy Texas Oil Drilling Equipment Company for $740 Million,neutral,0.03284546732902527
+2014-01-08,JPMorgan’s legal penalties now total $20 billion.,negative,-0.747640073299408
+2014-01-08,| A former SAC employee is expected to be the first witness called in insider trading trial.,neutral,-0.17845797538757324
+2014-01-08,"| Goldman Sachs is reshuffling its technology, media and telecommunications group.",neutral,0.314360648393631
+2014-01-08,JPMorgan Settles Madoff Charges,neutral,0.001391872763633728
+2014-01-15,The Anheuser-Busch division of Anheuser-Busch InBev has a game plan for Super Bowl XLVIII that focuses on Bud Light and Budweiser.,neutral,0.031019635498523712
+2014-01-15,"For Super Bowl, It’s Back to Basics for Anheuser-Busch",neutral,0.041394151747226715
+2014-01-17,"To regain the asset it had sold off, Anheuser-Busch InBev appears poised to pay a price that will allow Oriental Brewery’s current owners, Kohlberg Kravis Roberts and Affinity Equity Partners, to more than double their money.",positive,0.8702282905578613
+2014-01-17,Anheuser-Busch InBev Said to Be Near $4.5 Billion Deal for Korean Brewer,neutral,0.21220719814300537
+2014-01-20,Anheuser-Busch InBev had sold Oriental Brewery to the private equity firm Kohlberg Kravis Roberts for $1.8 billion nearly five years ago.,neutral,0.019296854734420776
+2014-01-20,Anheuser-Busch InBev Buying Back Oriental Brewery for $5.8 Billion,neutral,0.02036541886627674
+2014-01-21,"The World Economic Forum in Davos, Switzerland, is as notable for its absentees as for its attendees.",neutral,-0.25998422503471375
+2014-01-21,| Deutsche Bank’s $1 billion fourth-quarter loss has European markets on edge.,negative,-0.6129904985427856
+2014-01-21,| IBM is renewing efforts to sell its server business.,positive,0.7419530153274536
+2014-01-21,| Anheuser-Busch buys back s South Korean brewer.,positive,0.53626549243927
+2014-01-21,Who’s In and Who’s Out at Davos,neutral,-0.04200872778892517
+2014-01-23,H&M will poll the public about how its commercial should end in an effort to make the spot more effective and engaging.,neutral,0.36523714661598206
+2014-01-23,"Lessons Learned, H&M Returns to Super Bowl With New Beckham Spot",positive,0.8227051496505737
+2014-01-28,The 2014 Detroit auto show attracted its highest attendance since 2003; Ford says the new aluminum-body F-150s will be cheaper and easier to repair.,positive,0.7036245465278625
+2014-01-28,Wheelies: The Detroit Rising Edition,neutral,0.08548155426979065
+2014-02-04,"A golden lab puppy who refuses to leave his Clydesdale “bud” won plaudits; a Coca-Cola spot evoking the nation’s multicultural populace drew mostly positive reactions, but some raw comments as well.",positive,0.5024975538253784
+2014-02-04,‘Puppy Love’ Warms Hearts; Diversity Draws Mixed Response,neutral,0.11177299171686172
+2014-02-05,"The move could help Anheuser-Busch InBev capitalize on the popularity of craft beer, bringing a Long Island beer company with a devoted following into a family of brands that includes Budweiser, Stella Artois and Beck’s.",positive,0.8667713403701782
+2014-02-05,Anheuser-Busch InBev Buys Blue Point Brewing Company,neutral,0.01632235199213028
+2014-02-07,"Subaru, Kia, BMW and Nissan were among the automakers to unveil production vehicles and concepts at this year’s show.",neutral,0.11400488018989563
+2014-02-07,Highlights From the Chicago Auto Show,neutral,0.03828537464141846
+2014-02-21,The German automaker is seeking to acquire the outstanding shares it doesn’t already own in Scania.,neutral,0.08264907449483871
+2014-02-21,It hopes to combine the company with its other commercial vehicle operations.,neutral,0.18671010434627533
+2014-02-21,Volkswagen Offers to Buy Rest of Swedish Truck Maker for $9.2 Billion,neutral,0.3055759370326996
+2014-03-04,The activist investment firm Cevian Capital has been gradually increasing its position in the troubled German conglomerate ThyssenKrupp.,positive,0.9308708906173706
+2014-03-04,Cevian Capital Increases Its Stake in ThyssenKrupp,positive,0.8628028631210327
+2014-03-18,"Volkswagen’s offer to acquire the outstanding shares of the Swedish truck maker it doesn’t already own for about $9.3 billion undervalues the company, a committee of Scania’s independent directors found.",negative,-0.09387975931167603
+2014-03-18,Scania Panel Recommends Rejecting Volkswagen Offer,negative,-0.565030038356781
+2014-04-01,Fiat Chrysler Automobiles looks at a sales goal of 6 million vehicles as companies merge; Daimler considers a production line in Russia.,neutral,0.042392950505018234
+2014-04-01,"Wheelies: The ‘Today Detroit, Tomorrow the World’ Edition",neutral,0.040157500654459
+2014-04-04,The Swedish drug maker Meda said Friday that it rejected a takeover offer from the generic pharmaceutical company Mylan.,negative,-0.6639162302017212
+2014-04-04,A merger would have allowed Mylan to get tax benefits from being reincorporated abroad.,positive,0.514277458190918
+2014-04-04,"Meda, a Swedish Drug Maker, Rejects Takeover Offer",neutral,-0.2894480526447296
+2014-04-23,"The Swedish pension fund Alecta, which holds about 2 percent of Scania’s capital, is the latest shareholder to reject Volkswagen’s $9.3 billion cash offer to take full control of Scania.",negative,-0.7559043169021606
+2014-04-23,A Fresh Setback for VW in Its Bid for Full Control of the Truck Maker Scania,negative,-0.9472304582595825
+2014-04-28,"The Swedish drug maker rejected an increased takeover offer from the generic pharmaceutical company based in Canonsburg, Pa.",positive,0.2764732241630554
+2014-04-28,Meda Again Rejects Takeover Bid by Mylan,negative,-0.5194637775421143
+2014-04-30,"Volkswagen, which already controls 62.6 percent of Scania’s capital, is hoping to coax more of the Swedish truck maker’s shareholders to sell.",neutral,0.07748261094093323
+2014-04-30,Volkswagen Extends Offer to Acquire Full Control of Scania,neutral,0.36213669180870056
+2014-05-05,"Cristiane Correa, the author of a book on the Brazilian investment firm 3G Capital, spoke with DealBook about why Warren E. Buffett likes 3G so much.",neutral,0.03280098736286163
+2014-05-05,A Q.&A.,neutral,0.0404859334230423
+2014-05-05,With the Author of a Buffett-Praised Book on 3G Capital,neutral,0.0505322590470314
+2014-05-09,"The Swedish technology firm iZettle, a European competitor to Square, announced a new fund-raising round worth 40 million euros, from backers like Intel Capital and Zouk Capital, a London-based private equity firm.",positive,0.6507482528686523
+2014-05-09,Swedish Payments Processor Raises $55 Million,positive,0.769668698310852
+2014-05-13,Volkswagen said Scania shareholders had agreed to sell enough stock to give VW 90.47 percent of Scania’s capital and enact so-called squeeze-out provisions to buy the remaining shares.,positive,0.7425822019577026
+2014-05-13,VW Wins Enough Shares to Take Full Control of Scania,positive,0.7922197580337524
+2014-05-20,GMC emerges as G.M.’s strongest post-bankruptcy marque; the company that bought Fisker promises to build E.V.s in the United States.,positive,0.8856852054595947
+2014-05-20,Wheelies: The Luxury G.M.,neutral,0.07947348803281784
+2014-05-20,Trucks Edition,neutral,0.015228807926177979
+2014-07-07,Tele2’s sale of its Norwegian business could be a test for European regulators because the deal would leave Norway with only two primary mobile providers.,neutral,-0.12535926699638367
+2014-07-07,Tele2 of Sweden to Sell TeliaSonera Its Norwegian Business,neutral,-0.030215449631214142
+2014-07-14,"Mylan would combine Abbott’s generic drug operations in Europe, Japan, Canada, Australia and New Zealand with its existing operations and reincorporate in the Netherlands in an inversion.",neutral,0.3939097225666046
+2014-07-14,Mylan to Buy Abbott’s Generic Drug Business Outside U.S. for $5.3 Billion,neutral,0.14501060545444489
+2014-07-23,"“It’s a production model, not a business model,” says one executive.",neutral,-0.058288514614105225
+2014-07-23,And a tough one too.,negative,-0.5794557332992554
+2014-07-23,The latest case in point is a move by Big Switch Networks to change the way it hopes to demolish Cisco.,neutral,0.048120539635419846
+2014-07-23,Open Source and the Challenge of Making Money,neutral,0.04775470122694969
+2014-07-31,The deal to acquire the specialty drug maker Rottapharm is expected to bolster Meda’s consumer health care business.,positive,0.9172825217247009
+2014-07-31,Meda to Buy Italian Drug Maker Rottapharm for About $3 Billion,neutral,0.026746300980448723
+2014-08-14,The talks are at least the second time that G.E.,neutral,0.046602874994277954
+2014-08-14,"has held discussions to divest itself of the unit, after first trying six years ago.",neutral,0.02244553342461586
+2014-08-14,G.E.,neutral,0.0415060818195343
+2014-08-14,in Talks Over Selling Its Business in Appliances,neutral,-0.17477500438690186
+2014-08-19,Auction sales at the Pebble Beach Concours d’Élégance hit a record $399 million; a 1974 Lamborghini Countach LP400 Periscopica sets a public auction record.,positive,0.5235240459442139
+2014-08-19,Wheelies: The Booming Classics Edition,neutral,0.04731288552284241
+2014-08-24,"The company, which extends credit to buyers, believes its simple purchasing process is highly appealing to shoppers using mobile phones.",positive,0.5320027470588684
+2014-08-24,"Klarna, an Online Payment System Popular in Europe, Eyes Global Expansion",neutral,0.06292863935232162
+2014-08-26,"At an event in Stockholm, Volvo managers portrayed the new XC90 sport utility vehicle as Scandinavian to the marrow.",neutral,0.22164741158485413
+2014-08-26,Volvo Introduces Its First S.U.V.,positive,0.5511795282363892
+2014-08-26,Made Under Chinese Ownership,neutral,0.031957339495420456
+2014-09-08,"The acquisition is the latest move by Jeffrey R. Immelt, the chief of G.E., to refocus the conglomerate on its core industrial businesses.",positive,0.692501425743103
+2014-09-08,"In 2nd Try, Electrolux Reaches Deal to Buy G.E.",positive,0.5710814595222473
+2014-09-08,"Appliances Unit, for $3.3 Billion",neutral,0.014056632295250893
+2014-09-10,Acquiring the game would give Microsoft control of an online world that has defied many modern conventions to become a blockbuster success.,positive,0.6792367696762085
+2014-09-10,Minecraft Is Expected to Be Acquired by Microsoft,neutral,0.014994509518146515
+2014-09-11,"Microsoft’s acquisition of Minecraft would be an acknowledgment that gaming is central to many people’s lives, serving as an engaging mode of entertainment or merely a time killer.",neutral,0.08847033232450485
+2014-09-11,Microsoft Sees More Than Fun in a Game Like Minecraft,neutral,0.06261801719665527
+2014-09-15,"The deal would bolster Orange’s business in Spain, where it is the third-largest wireless provider behind Telefónica and Vodafone Group of Britain.",positive,0.9288579821586609
+2014-09-15,Orange Offers to Acquire Spanish Rival for $4.4 Billion,neutral,0.1520180106163025
+2014-09-16,"The bid by the second-largest beer company in the world fueled speculation of deals on the horizon, but closing them may not be so easy.",neutral,0.28350830078125
+2014-09-16,SABMiller’s Bid for Heineken Opens the Door to Possible Beer Industry Mergers,positive,0.7662809491157532
+2014-09-26,"Mary Barra, G.M.’s chief executive, lands a Time magazine cover; G.M.",neutral,-0.04602798819541931
+2014-09-26,and Isuzu to collaborate on global midsize pickup.,positive,0.8364599943161011
+2014-09-26,Wheelies: The Barra&apos;s Spotlight Edition,neutral,0.04622993618249893
+2014-10-03,G.M.,neutral,0.048085395246744156
+2014-10-03,"is recalling about 290,000 Cadillac SRX and Saab 9-4X crossovers in the United States for a suspension problem that had also prompted a recall in Canada.",negative,-0.9230776429176331
+2014-10-03,G.M.,neutral,0.048085395246744156
+2014-10-03,Expands Crossover Recall in Canada to the U.S.,positive,0.705421507358551
+2014-10-08,"Sergio Marchionne, chief of Fiat Chrysler, says the company may drastically change the Jeep Wrangler; Opel’s chief says the new European-built Buick Regal will resemble the Opel Monza concept.",neutral,0.08896331489086151
+2014-10-08,Wheelies: The (Possibly) Reconfigured Wrangler Edition,neutral,0.1322019398212433
+2014-10-17,"Despite shaky outlooks for the global economy, G.E.",negative,-0.22295218706130981
+2014-10-17,is showing progress in bolstering its industrial core.,positive,0.9162493348121643
+2014-10-17,Robust Demand for Industrial Equipment Lifts General Electric’s Profit 11%,positive,0.30457648634910583
+2014-10-27,"George Washington University hired Tribal Worldwide as its first digital media agency of record, and Anheuser-Busch chose LatinWorks for a Mexican beer campaign.",neutral,0.45321187376976013
+2014-10-27,Accounts and People of Note in the Advertising Industry,neutral,0.009030111134052277
+2014-11-29,"Much research has been conducted on the health effects of Swedish snus, a smokeless tobacco product.",neutral,-0.022056447342038155
+2014-11-29,A look at the state of the science.,neutral,0.03556754067540169
+2014-11-29,"Studying Snus, a Smokeless Tobacco From Sweden",neutral,-0.0001428946852684021
+2014-12-18,"The provision suggested that a price-fixing investigation by the European Commission was gathering pace, years after the first raids were carried out.",neutral,-0.28078675270080566
+2014-12-18,Daimler Sets Aside $748 Million Over E.U.,neutral,0.03054470755159855
+2014-12-18,Inquiry Into Truck Makers,neutral,0.0009899064898490906
+2015-01-07,"Anheuser-Busch is preparing three 60-second commercials, with corresponding digital campaigns, to promote its Budweiser and Bud Light brands during this year’s game.",neutral,0.050545185804367065
+2015-01-07,"For Super Bowl, Anheuser-Busch Aims at Younger Crowd",neutral,0.14879892766475677
+2015-01-20,"Mr. Wallenberg was the unlikely successor to lead his family’s business, expanding it far beyond Sweden’s big companies to become an international force.",positive,0.6461501121520996
+2015-01-20,"Peter Wallenberg, Patriarch of a Swedish Dynasty, Dies at 88",neutral,-0.14029133319854736
+2015-01-30,"The rapper and entrepreneur made a $56 million offer for Aspiro, which offers high-fidelity audio streaming through WiMP in Europe and Tidal in the United States",positive,0.6938857436180115
+2015-01-30,Jay Z Bids for a Swedish Streaming Company to Expand His Empire,positive,0.6627252101898193
+2015-02-02,"The Budweiser ad, which also featured the brand’s Clydesdale horses, scored big on social media, while a Nationwide spot angered viewers.",positive,0.3245641589164734
+2015-02-02,"In Super Bowl Commercials, Puppy Is a Winner",neutral,-0.03570345789194107
+2015-02-05,A new credit union wants to serve the banking needs of Colorado’s legal marijuana businesses.,neutral,0.22189664840698242
+2015-02-05,The only problem?,neutral,-0.3500596880912781
+2015-02-05,The federal government needs to sign off.,neutral,0.08969289064407349
+2015-02-05,The First Bank of Bud,neutral,0.04371725395321846
+2015-03-13,The rap star made a $56 million bid for the Swedish technology company and announced that it had acquired enough shares to take over.,positive,0.6739824414253235
+2015-03-13,"Jay Z Buys the Music Streaming Firm, Aspiro",neutral,0.091349296271801
+2015-03-26,Merging Kraft and Heinz will take up 3G’s attention for some time.,neutral,0.07122217118740082
+2015-03-26,"But when 3G is again ready to make a deal, Warren Buffett will be, too.",neutral,0.32394009828567505
+2015-03-26,Warren Buffett and 3G May Have One Barrier to Even Bigger Deals,neutral,0.05646196007728577
+2015-03-30,"In a business where artists seldom have direct control over how their work is consumed, musicians will be the majority owners of the company.",neutral,0.009723207913339138
+2015-03-30,"Jay Z Reveals Plans for Tidal, a Streaming Music Service",neutral,0.22067587077617645
+2015-04-06,"To help their cash flows, food and packaged goods companies are delaying payments to suppliers, a practice that at one time signaled trouble.",negative,-0.951280951499939
+2015-04-06,"Big Companies Pay Later, Squeezing Their Suppliers",negative,-0.8570448756217957
+2015-04-17,"Andy Chen, chief executive of Aspiro, the parent company of the Swedish streaming music service Tidal, has stepped down, and about a dozen employees were laid off.",negative,-0.9432549476623535
+2015-04-17,Chief Leaves Music Service Taken Over by Jay Z,neutral,-0.06737722456455231
+2015-04-26,"The rap star took to Twitter to defend the performance of Tidal, saying that the service has “over 770,000” subscribers.",negative,-0.7589111924171448
+2015-04-26,Jay Z Counters Reports of Struggles at Tidal Music Streaming Service,negative,-0.8335406184196472
+2015-04-27,"Swedish Orphan Biovitrum, which makes the ReFacto AF treatment for hemophilia for Pfizer, received a preliminary offer from an undisclosed suitor.",neutral,0.36816003918647766
+2015-04-27,"Sobi, Swedish Maker of Drugs for Rare Diseases, Receives Takeover Bid",neutral,0.1180916354060173
+2015-04-28,A phrase appearing on some labels was seen as tone-deaf to the dangers of excessive alcohol use and particularly to alcohol’s role in some cases of date rape.,negative,-0.6391729116439819
+2015-04-28,Bud Light Withdraws Slogan After It Draws Ire Online,negative,-0.9275397062301636
+2015-05-01,"Music and technology executives say that it is far too early to judge Tidal, particularly given the expected arrival of Apple’s new streaming service.",negative,-0.4861977696418762
+2015-05-01,"Tidal, Music Streaming Service, Seeks Footing After a Stumble",positive,0.6587626934051514
+2015-06-03,"As Apple prepares to enter the fray, it’s a good time to assess the free and paid services that Spotify, Rdio and others have to offer.",neutral,0.30981355905532837
+2015-06-03,Video Feature: Streaming Music Apps for a Variety of Tastes,neutral,0.004571136087179184
+2015-06-10,"TellaSonera, a Swedish telecom company, announced that it had acquired the stake in the streaming music service.",neutral,0.12014461308717728
+2015-06-10,Spotify Sells 1.4% Stake for $115 Million,neutral,0.03911062330007553
+2015-06-20,"Sales are slumping at American clothing brands like Gap as foreign fast-fashion upstarts like H&M, Uniqlo and Zara lure away customers.",negative,-0.9676278233528137
+2015-06-20,Gap’s Fashion-Backward Moment,neutral,-0.3248758614063263
+2015-06-23,"Peter Tonstad, who was installed as interim chief executive in April after the departure of Tidal’s last chief, has left after two months on the job.",negative,-0.7902014255523682
+2015-06-23,"Tidal, Jay Z’s New Music Streaming Service, Loses Another Chief",negative,-0.9329732656478882
+2015-07-01,The move against a sale to Electrolux is the latest sign of tougher antitrust scrutiny in Washington.,negative,-0.3913625180721283
+2015-07-01,Justice Department Sues to Block G.E.,negative,-0.7390522360801697
+2015-07-01,Appliance Deal,neutral,0.04136257991194725
+2015-07-02,"The recording artist left his music on Tidal, the service that Jay Z bought this year and has styled as a musician-friendly outlet.",neutral,-0.08460883796215057
+2015-07-02,Prince Removes Music From Most Subscription Streaming Services,negative,-0.5658502578735352
+2015-07-30,"The performance of most asset managers is evaluated on a pretax basis, making them less responsive to tax incentives than policy makers expect.",negative,-0.4374392330646515
+2015-07-30,How to Tax Gordon Gekko,neutral,0.042132895439863205
+2015-08-07,"Prince announced on Friday that he had signed an exclusive deal with the music-streaming service Tidal to release his new album, HITNRUN.",positive,0.8864234089851379
+2015-08-07,Prince Plans to Make New Album a Tidal Exclusive,neutral,0.05598675087094307
+2015-08-28,The company also announced that it had raised an additional $67 million from its backers.,positive,0.6861594319343567
+2015-08-28,"IZettle, a Swedish Payments Start-Up, Begins a Lending Program",neutral,0.07993217557668686
+2015-09-11,The companies were unable to win approval from European antitrust authorities to combine their mobile telephone businesses.,negative,-0.888145923614502
+2015-09-11,Telenor and TeliaSonera Call Off Merger of Danish Operations,negative,-0.8114572167396545
+2015-09-16,"A deal to join the two largest brewers would most likely prompt investigations by regulators, who have already shown skepticism about big mergers.",neutral,0.09354234486818314
+2015-09-16,Merger of Beer Giants Anheuser-Busch InBev and SABMiller Faces Obstacles,neutral,-0.20048075914382935
+2015-09-18,The market values of Anheuser-Busch InBev and SABMiller have increased by $30 billion in the wake of a takeover approach.,positive,0.9091981649398804
+2015-09-18,Investors See Potential in Beer Merger,neutral,0.18323907256126404
+2015-09-25,"While Anheuser-Busch InBev is basically absent, Africa generated 28 percent of SABMiller’s revenue last year.",neutral,0.05396335944533348
+2015-09-25,Africa Is Crucial to Anheuser-Busch InBev Deal with SABMiller,neutral,0.10409985482692719
+2015-09-30,Stefan Larsson is credited with vastly expanding H&M’s cheap chic fashion business and transforming Old Navy into a symbol of affordable fast fashion.,positive,0.9001895189285278
+2015-09-30,New Ralph Lauren Chief Revived Old Navy After Successes at H&M,positive,0.7846252918243408
+2015-10-06,"In a surprise move, SAB issues its second-quarter trading update a week ahead of schedule.",neutral,0.08414784073829651
+2015-10-06,SABMiller’s Trading Statement May Alter Potential Budweiser Bid,negative,-0.6439164280891418
+2015-10-07,"Anheuser-Busch InBev can pressure SABMiller, but it desperately wants to avoid making a hostile takeover given the antitrust issues.",negative,-0.8207778334617615
+2015-10-07,Nudging a Huge Beer Deal Down a Long Road,neutral,-0.22143027186393738
+2015-10-08,The brewing giant is trying to keep the pressure up on its longtime rival in hopes of securing the largest beer merger in history before a looming deadline.,neutral,0.250899076461792
+2015-10-08,Anheuser-Busch InBev Says It’s ‘Surprised’ by SABMiller Rejection,positive,0.48257485032081604
+2015-10-09,The brewer’s promise to find $550 million of new cost savings by 2020 looks paltry in the context of a huge takeover offer from Anheuser-Busch InBev.,negative,-0.7328709363937378
+2015-10-09,SABMiller’s Defense Lacks Punch,neutral,-0.04083965718746185
+2015-10-10,"In its pursuit of SABMiller, Anheuser-Busch InBev seems to be following a familiar strategy of countering falling market share with big acquisitions.",positive,0.48675575852394104
+2015-10-10,Anheuser-Busch InBev’s Growth Playbook Starts With Its Checkbook,neutral,0.11819874495267868
+2015-10-12,The latest approach came as Anheuser-Busch InBev is facing a Wednesday deadline to make a formal offer for SABMiller.,neutral,0.09986058622598648
+2015-10-12,Anheuser-Busch InBev Increases Offer for Rival SABMiller,positive,0.7131026387214661
+2015-10-13,"The premium being offered by Anheuser-Busch InBev is roughly double the average premium this year, according to Dealogic.",positive,0.6444883346557617
+2015-10-13,Anheuser-Busch Deal for SABMiller Comes at Rich Price,positive,0.4878695011138916
+2015-10-20,"Anheuser-Busch InBev receives friendly treatment from Belgian tax officials, and its global power as a tax negotiator might grow if it merges with SABMiller.",positive,0.8795269131660461
+2015-10-20,Anheuser-Busch InBev Aims Its Tax-Trimming Skills at SABMiller,neutral,0.08007422089576721
+2015-10-26,"This week, data on durable goods orders, consumer confidence and economic growth will be released.",neutral,0.0619041882455349
+2015-10-26,"In addition, several companies including Apple and Exxon Mobil will report earnings.",positive,0.5851646661758423
+2015-10-26,"Apple Earnings, United States Economic Data and Oil Results",neutral,-0.023495424538850784
+2015-10-27,The two beer giants are facing a Wednesday deadline that would require Anheuser-Busch InBev to make what is considered a formal offer under British takeover rules.,negative,-0.5244936347007751
+2015-10-27,SABMiller Expected to Seek More Time for Takeover Talks,neutral,0.05014283210039139
+2015-10-28,The two giant brewers can continue discussions until next week before a formal offer must be made under British takeover rules.,neutral,0.017251715064048767
+2015-10-28,Deadline Extended on Anheuser-Busch InBev Offer for SABMiller,neutral,-0.12150199711322784
+2015-11-02,"This week, a pack of media companies will report earnings, the Federal Reserve chairwoman will testify about regulatory issues and the Labor Department will release the latest figures on hiring and unemployment.",neutral,0.03680841997265816
+2015-11-02,"Media Earnings, Yellen’s Testimony and the Jobs Report",neutral,0.020862910896539688
+2015-11-04,Anheuser-Busch InBev now has until Nov. 11 to make a formal offer for its smaller brewing rival under British takeover rules.,neutral,0.062359295785427094
+2015-11-04,SABMiller and Anheuser-Busch InBev Deadline for Talks Is Extended,neutral,-0.028156841173768044
+2015-11-09,"This week, Volkswagen is expected to announce that it is offering cash to owners of diesel cars in the U.S., thousands of Greek workers may walk off the job and consumer data will be released.",negative,-0.9378644227981567
+2015-11-09,"VW Announcement, a Strike Planned in Greece and Retail Data",negative,-0.9358131289482117
+2015-11-10,"As big investment banks pull back, some lenders are bulking up in repo, a form of short-term collateralized lending that may carry hidden risks.",negative,-0.4738081991672516
+2015-11-10,Caution Needed on Push Into Repo Lending,neutral,0.062204308807849884
+2015-11-11,"By helping ease antitrust pressure on SABMiller’s $106 billion sale to Anheuser-Busch InBev, Molson Coors avoids paying a premium.",positive,0.8396124243736267
+2015-11-11,Anheuser-Busch InBev Deal for SABMiller Pays Off for Molson,positive,0.35316288471221924
+2015-11-12,Data suggests that the brewer is avoiding about $300 million of outlays to lenders by self-arranging $75 billion of debt to buy SABMiller.,negative,-0.8196360468864441
+2015-11-12,Anheuser-Busch InBev’s Plan to Finance Beer Deal,neutral,0.03828427940607071
+2015-11-13,"The resignation of the chief investment officer, Vania Schlogel, is at least the third high-level departure at the music streaming service since Jay Z bought it early this year.",negative,-0.9270020127296448
+2015-11-13,Jay Z’s Tidal Loses Another Executive,negative,-0.8218692541122437
+2015-12-02,"Jeff Toig, formerly of SoundCloud, will be the third C.E.O.",neutral,0.03270253539085388
+2015-12-02,for Tidal since Jay Z took over the streaming service in March.,neutral,0.06040368229150772
+2015-12-02,Jay Z’s Tidal Service Gets a New Chief,neutral,0.3100186288356781
+2015-12-03,"Unloading the brands, including Peroni and Grolsch, would be the second major asset sale since Anheuser-Busch InBev and SABMiller agreed to combine.",neutral,0.3329496383666992
+2015-12-03,Anheuser-Busch InBev to Sell Brands in Europe to Ease Beer Merger,neutral,0.3893495202064514
+2015-12-07,"The Justice Department had sued in July to stop the deal, saying the transaction would reduce competition and increase prices.",negative,-0.8437564373016357
+2015-12-07,General Electric Calls Off Sale of Appliance Unit to Electrolux,negative,-0.5579479932785034
+2015-12-16,Selling off Peroni and Grolsch could bring $1.2 billion for the combined Anheuser-Busch InBev and SABMiller and ease antitrust approval.,positive,0.8387163877487183
+2015-12-16,Huge Beer Merger’s Cast-Offs Could Attract a Private Buyer,neutral,0.034066759049892426
+2016-01-11,"Keith McLoughlin will be replaced by Jonas Samuelson, who leads Electrolux’s major appliances business for Europe, the Middle East and Africa.",neutral,0.006513215601444244
+2016-01-11,Month After G.E.,neutral,-0.011177048087120056
+2016-01-11,"Deal Falters, Electrolux Chief Says He’ll Retire",negative,-0.8593140244483948
+2016-01-12,"Even the smallest auto companies are flourishing in the booming American market, none more so than this tiny Chinese-owned, Swedish-run luxury brand.",neutral,0.030985824763774872
+2016-01-12,"Volvo Makes a Comeback, With a Detour Through China",positive,0.6569364666938782
+2016-01-14,A merger boom last year has set the stage for a string of big bond transactions in 2016 as companies finance those purchases.,neutral,0.31989550590515137
+2016-01-14,Anheuser-Busch InBev Sets $46 Billion Bond Sale,neutral,0.05105769634246826
+2016-01-16,"Chinese consumers are swapping mass-produced local beers for a bevy of imports and locally brewed brands, and a merged Anheuser-Busch InBev-SABMiller aims to capitalize.",positive,0.5624471306800842
+2016-01-16,"China Embraces Craft Beers, and Brewing Giants Take Notice",neutral,0.280683696269989
+2016-02-01,Beer companies are rethinking the fraternity house imagery and sophomoric humor that long defined their advertising campaigns.,neutral,0.047159742563962936
+2016-02-01,"Beer Ads That Portray Women as Empowered Consumers, Not Eye Candy",neutral,-0.038034502416849136
+2016-02-10,Asahi of Japan may be paying high for three so-so beer brands with the aim of increasing sales outside its aging and stagnant home market.,positive,0.9102447628974915
+2016-02-10,Asahi’s Beer Buy: Trying to Escape Demographic Destiny,neutral,0.01676623523235321
+2016-02-11,"The drug maker Mylan, which rejected one offer and was itself rebuffed on another, may be overpaying for the Swedish company Meda.",negative,-0.8585999011993408
+2016-02-11,Mylan’s New Deal May Not Be the One Shareholders Wanted,neutral,-0.005120392888784409
+2016-02-12,The Swedish bank said that it had identified transactions by Mr. Wolf that could constitute a “criminal offense.”,negative,-0.6240614056587219
+2016-02-12,Ex-Swedbank C.E.O.,neutral,0.03569583594799042
+2016-02-12,Referred to Prosecutors for Potential Market Abuses,neutral,-0.3230612277984619
+2016-02-20,"Besides meditations on Apple, Tidal and Zenefits, Farhad renders his considered opinion of Kanye’s Twitter feed, as Mike dines on cannoli.",neutral,0.039810292422771454
+2016-02-20,"Farhad and Mike Have a Big Story (Apple), and Some Scraps",neutral,-0.013311844319105148
+2016-03-01,"Anheuser-Busch InBev hopes the sale will ease regulators’ concerns about its nearly $104 billion merger with SABMiller, which owns part of CR Snow.",positive,0.8901208639144897
+2016-03-01,Chinese Brewer to Buy SABMiller’s Stake in Snow Beer Maker,neutral,0.11358078569173813
+2016-03-18,"The Gant brothers transformed the button-down into a fashion must, as noted by the comedian Bob Newhart and his “button-down mind.”",neutral,0.44900748133659363
+2016-03-18,"Elliot Gant, Marketer of the Button-Down Shirt, Dies at 89",neutral,-0.22863903641700745
+2016-03-30,"The departure of Anders Sundstrom as chairman of the Swedish lender followed the ouster of Michael Wolf, its chief executive, in February.",negative,-0.8405748605728149
+2016-03-30,Swedbank to Replace Chairman After He Lost Investor Support,negative,-0.7581769227981567
+2016-04-19,Anheuser-Busch has moved to sell some assets as it seeks to ease regulatory concerns about its merger with SABMiller.,neutral,0.01716465875506401
+2016-04-19,Anheuser-Busch InBev Accepts Asahi’s Offer for Peroni and Grolsch,positive,0.6955832839012146
+2016-04-29,"On the block would be SABMiller’s assets in the Czech Republic, Hungary, Poland, Romania and Slovakia as it seeks approval for their merger.",neutral,0.0009885039180517197
+2016-04-29,Anheuser-Busch InBev Offers to Sell More SABMiller Assets in Europe,positive,0.5410860180854797
+2016-05-10,"“King of Beers” will be replaced on cans with “E Pluribus Unum” (“Out of many, one”), the words on American currency, among other changes.",neutral,0.0399802103638649
+2016-05-10,Budweiser Rebrands Itself ‘America’ (Just Temporarily),neutral,0.04906217381358147
+2016-05-15,"The brand said that its temporary name, America, was simply patriotic, but some considered it pandering in the midst of a polarizing election cycle.",negative,-0.7563256025314331
+2016-05-15,Budweiser’s New Campaign Taps Into Political Climate,neutral,0.00412982702255249
+2016-05-24,The European Commission approved the merger after the companies agreed to sell several SABMiller assets in Europe to ease antitrust concerns.,positive,0.7847589254379272
+2016-05-24,European Regulators Approve Anheuser-Busch InBev-SABMiller Merger,positive,0.5860555768013
+2016-05-31,"Three years after a factory collapse prompted top brands to commit to bettering worker conditions in Bangladesh, rights groups say problems persist.",negative,-0.9388062357902527
+2016-05-31,Retailers Like H&M and Walmart Fall Short of Pledges to Overseas Workers,negative,-0.9363892674446106
+2016-06-06,"Mr. Carter, the former manager of Lady Gaga, is expected to oversee relationships with musicians as competition mounts in the streaming business.",neutral,0.04962940141558647
+2016-06-06,Spotify Hires Troy Carter as a Liaison With Artists,neutral,-0.007500547915697098
+2016-07-01,"The presumed logic is that buying Tidal will help Apple strengthen its own service, but Tidal is struggling, too.",positive,0.8724073171615601
+2016-07-01,"Apple Flounders, but Tidal Will Not Steady the Boat",negative,-0.8235757946968079
+2016-07-07,The difficulty of getting drivers to take control of automated cars when necessary has prompted many automakers to take people out of the equation.,negative,-0.7720966935157776
+2016-07-07,Makers of Self-Driving Cars Ask What to Do With Human Nature,neutral,-0.05107288435101509
+2016-07-12,The decline in competition in many American industries costs more than just rising prices.,neutral,-0.11296342313289642
+2016-07-12,"It stunts entrepreneurship, hinders workers’ mobility and wages, and slows productivity.",negative,-0.9225647449493408
+2016-07-12,"With Competition in Tatters, the Rip of Inequality Widens",negative,-0.2654036283493042
+2016-07-20,"The Justice Department set few conditions for Anheuser-Busch InBev’s $106 billion proposed takeover of SABMiller, a merger of the world’s largest brewers.",neutral,-0.017126629129052162
+2016-07-20,Anheuser-Busch InBev Merger With SABMiller Wins U.S.,positive,0.5860380530357361
+2016-07-20,Antitrust Approval,neutral,-0.06180911138653755
+2016-07-26,The sweetened bid for the rival brewer came in response to the sharp drop in the pound in the weeks since Britain voted to leave the European Union.,positive,0.8268352150917053
+2016-07-26,"Post-‘Brexit’ Vote, Anheuser-Busch InBev Raises Offer for SABMiller",positive,0.5388346314430237
+2016-07-29,"Chinese approval lifted the last major regulatory hurdle, and SABMiller’s board backed a sweetened offer valuing the brewer at about $104 billion.",positive,0.879065752029419
+2016-07-29,Anheuser-Busch InBev Merger With SABMiller Advances,neutral,-0.0243252981454134
+2016-08-19,"An acquisition, a self-driving partnership with Volvo and lawsuit news kept Uber at the forefront of tech for most of the day.",positive,0.5078575611114502
+2016-08-19,Daily Report: Uber Dominates Thursday,neutral,0.2234288603067398
+2016-08-26,Anheuser-Busch InBev has a target of $1.4 billion in annual cost savings by the end of the fourth year following completion of the deal.,positive,0.8920331001281738
+2016-08-26,Anheuser-Busch InBev to Cut Jobs After SABMiller Merger,negative,-0.9553154110908508
+2016-09-07,"More than $750 billion worth of acquisitions proposed last year have been abandoned, and more hang in the balance, but $4.4 trillion in deals were made.",negative,-0.8348956108093262
+2016-09-07,Shakiness of Giant Deals Poses No Threat to 2015 Record,neutral,0.1203756183385849
+2016-09-14,Uber is starting its driverless car pilot program in Pittsburgh on Wednesday with a small fleet of modified Ford Fusions.,neutral,0.2015427201986313
+2016-09-14,What It Feels Like to Ride in a Self-Driving Uber,neutral,0.008276693522930145
+2016-09-25,"The civil fraud trial of Maurice R. Greenberg, who once led A.I.G., continues; and John Stumpf, head of Wells Fargo, has been invited to testify before a House committee.",neutral,0.03451021388173103
+2016-09-25,Ex-A.I.G.,neutral,0.02767249196767807
+2016-09-25,"Chief Expected to Testify, and House Hearing on Wells Fargo",neutral,0.010252198204398155
+2016-09-27,Shareholders of SABMiller and Anheuser-Busch InBev are expected to decide on Wednesday whether to approve a merger between the brewing giants.,neutral,0.2060091644525528
+2016-09-27,Merger of Anheuser-Busch InBev and SABMiller Faces Final Hurdle,neutral,0.009261270985007286
+2016-09-28,"The $100 billion deal would create a brewing giant accounting for 27 percent of beer sales worldwide, with annual revenue of about $55 billion.",positive,0.733458399772644
+2016-09-28,Shareholders Approve SABMiller Takeover by Anheuser-Busch InBev,neutral,0.42906004190444946
+2016-10-25,"Otto, the Uber-owned self-driving vehicle operation, delivered 2,000 cases of Budweiser 120 miles to Colorado Springs from Fort Collins, Colo.",neutral,0.2668130397796631
+2016-10-25,Self-Driving Truck’s First Mission: A 120-Mile Beer Run,neutral,0.07708720862865448
+2016-12-13,The purchase of Pilsner Urquell and other Central and East European brands would give the Japanese beverage company a greater global presence.,positive,0.8409678339958191
+2016-12-13,Asahi to Buy Beer Brands From Anheuser-Busch InBev for $7.8 Billion,neutral,0.1223914846777916
+2016-12-15,"The investors behind the Kraft-Heinz merger may be looking for more deals, with Mondelez International and other companies potentially up for grabs.",neutral,0.0940132737159729
+2016-12-15,3G Capital Is Expected to Be in a Buying Mood in 2017,neutral,0.17586112022399902

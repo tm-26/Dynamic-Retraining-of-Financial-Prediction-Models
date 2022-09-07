@@ -1,0 +1,7 @@
+Date,Sentence,Prediction,sentimentScore
+2014-11-14,A new ad from Pfister parodies a classic Calvin Klein Obsession commercial to poke fun at campaigns that portray household faucets as luxury goods.,neutral,-0.09535837173461914
+2014-11-14,"With a Whisper, Pfister Takes a Comedic Jab at Highbrow Faucet Commercials",negative,-0.5383630394935608
+2014-11-22,Prices are likely to rise further because the auction has no definite end and could continue for days or weeks.,neutral,0.29784709215164185
+2014-11-22,Bidding in Government Auction of Airwaves Reaches $34 Billion,neutral,0.1811799257993698
+2016-04-29,The agency reached its maximum target for a giant airwave auction that will support the next generation of wireless Internet services.,positive,0.7484962344169617
+2016-04-29,TV Stations Agree to Sell Enough Spectrum to Meet F.C.C.’s Goal,positive,0.7558906078338623

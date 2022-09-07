@@ -1,0 +1,76 @@
+Date,Sentence,Prediction,sentimentScore
+2007-11-15,"3M said Thursday that it will acquire Aearo Technologies, a maker of personal protection like hearing and eye protectors, from British buyout firm Permira for $1.2 billion in cash.",neutral,0.24924588203430176
+2007-11-15,The deal will be financed by a combination of cash on hand and debt.,neutral,0.07237859815359116
+2007-11-15,3M Buys Aearo Technologies for $1.2 Billion,neutral,0.042500585317611694
+2008-01-30,"MINNEAPOLIS (AP) — The 3M Company, which makes Scotch tape, Post-it notes and industrial adhesives, posted lower fourth-quarter earnings on Tuesday, compared with the quarter a year ago, which included a one-time gain.",negative,-0.9685181379318237
+2008-01-30,3M’s Profit Falls After a 2006 Gain,negative,-0.9624585509300232
+2008-12-11,"David Pogue reviews two new small video projectors, the 3M and Aiptek.",neutral,0.03928959742188454
+2008-12-11,The New World of Pocket Projectors,neutral,0.09296707808971405
+2009-01-22,"Sharp, 3M, Corning, E-Ink and Mitsubishi talked with David Pogue about the future of display technologies earlier this month at the Consumer Electronics Show.",neutral,0.07096565514802933
+2009-01-22,The Future of Display Technologies,neutral,0.038050659000873566
+2009-01-26,Webdenda.,neutral,0.004875680431723595
+2009-01-26,People and Accounts of Note,neutral,0.0014222487807273865
+2010-07-28,"Originally intended for office use, Post-it Notes have found their way into the home and into popular culture.",neutral,0.05679299682378769
+2010-07-28,"Turning 30, an Office Product Works at Home",neutral,-0.15521728992462158
+2010-08-30,"3M said Monday that it had agreed to buy Cogent, a maker of biometric recognition systems, for $10.50 per share in a deal worth $943 million.",positive,0.6916965246200562
+2010-08-30,3M to Buy Cogent Systems for $943 Million,neutral,0.036036908626556396
+2010-08-30,"In purchasing Cogent, 3M hoped to tap into a $4 billion global biometric market that it said was projected to grow more than 20 percent annually.",positive,0.8417999148368835
+2010-08-30,"3M Will Buy Cogent, Maker of Fingerprint ID Systems",neutral,0.048813290894031525
+2010-08-31,"3M, the manufacturing conglomerate, says it has agreed to pay $230 million in cash for an Israeli company that makes technology used to keep track of people.",positive,0.8450782895088196
+2010-08-31,3M to Acquire People-Tracker,neutral,0.022549742832779884
+2010-09-02,"Cogent shareholders may be unhappy about the price of 3M’s deal to buy the company, but the Deal Professor says that there are other interesting quirks that may be of concern as well.",negative,-0.8696987628936768
+2010-09-02,The Strangeness of 3M’s Cogent Deal,neutral,-0.3562612235546112
+2010-09-09,"3M said Thursday that it had agreed to buy Arizant, which provides ways to warm patients to prevent hypothermia, for $810 million in cash.",positive,0.7288141846656799
+2010-09-09,"3M Continues Deal Spree, Buying Arizant",neutral,0.20803384482860565
+2010-10-01,"Cogent, the maker of fingerprint-identification systems that is being acquired by 3M, received a buyout bid of more than $1 billion from NEC, according to court papers.",positive,0.5552279353141785
+2010-10-01,NEC Made Higher Bid for Cogent Before 3M Deal,positive,0.6678270697593689
+2010-10-07,The Deal Professor examines a court ruling that failed to block 3M’s tender offer for Cogent and whether 3M will succeed in getting a majority of the company’s shares when the offer expires at midnight.,neutral,-0.0074067264795303345
+2010-10-07,Time Dwindles for 3M’s Offer for Cogent,negative,-0.6843763589859009
+2010-10-08,"3M received 52 percent of Cogent’s shares in its tender offer for the fingerprint identification company, despite opposition from some shareholders who thought 3M should make a higher bid than $10.50 a share.",positive,0.429654598236084
+2010-10-08,3M Gains 52% of Cogent’s Stock,neutral,0.05432955548167229
+2011-07-22,"A suit over a test to be marketed by 3M has escalated into a legal morass ensnaring 3M’s chief executive, Britain’s secretary of defense and a Washington lawyer.",negative,-0.9365909695625305
+2011-07-22,Lawsuits and Intrigue Over 3M Diagnostic Test,negative,-0.8532841801643372
+2011-07-26,Industrial stocks lost more than most after uneven reports from 3M and U.S. Steel.,negative,-0.93093341588974
+2011-07-26,Shares Decline as Wall Street Waits for Washington,negative,-0.8506787419319153
+2011-11-07,"The ruling, in Britain was a legal victory for investors who said 3M had failed to make good on a promise to market a test for dangerous bacteria.",negative,-0.6966542601585388
+2011-11-07,Judge Orders 3M to Pay $1.3 Million,negative,-0.5035796761512756
+2012-01-03,"3M, the maker of Post-it notes and Scotch Tape, has agreed to buy the office and consumer products business of the Avery Dennison Corporation for $550 million in cash.",neutral,0.19743391871452332
+2012-01-03,3M to Acquire a Unit of Avery Dennison,neutral,0.02041948214173317
+2012-01-26,"The maker of Post-it Notes, helped by an increase in auto and aerospace orders, had a net income gain of 2.8 percent in the fourth quarter.",positive,0.9235341548919678
+2012-01-26,3M’s Profit Beats Analysts’ Estimates,positive,0.6828475594520569
+2012-04-24,"Earnings per share were $1.59, above analysts’ prediction of $1.49, as industrial demand in the United States helped offset slowing foreign markets.",positive,0.771857500076294
+2012-04-24,Rising Demand in U.S.,positive,0.6176360249519348
+2012-04-24,Helps 3M Beat Earnings Estimates,positive,0.537842869758606
+2012-05-23,A free app for iPhones and iPads linked to Muppets Band-Aids makes a Muppet character appear to emerge from the bandage to console the injured child.,neutral,0.02158389240503311
+2012-05-23,Band-Aids and Muppets Aim to Soothe Child’s Scrapes,neutral,0.02001660317182541
+2012-06-21,"The publisher, in conjunction with city libraries and 3M, will make its books available in e-format, though they will not be available immediately after release.",neutral,0.05563761293888092
+2012-06-21,"From Penguin, a Plan to Make Its E-Books Available in New York City Libraries",neutral,0.19407948851585388
+2012-06-26,Neighborhood preservationists and the St. Paul Port Authority are at odds over the longtime site of 3M.,negative,-0.8438481688499451
+2012-06-26,Reconciling History and Hope at 3M’s Old Home,positive,0.5179749131202698
+2012-09-05,"After the Justice Department balked at 3M’s $550 million acquisition of a unit of Avery Dennison, the companies said they would seek to appease antitrust concerns.",negative,-0.8535341024398804
+2012-09-05,3M and Avery Dennison ‘Committed’ to Deal Despite Antitrust Issue,neutral,0.28163641691207886
+2012-10-01,"Ceradyne shareholders will receive $35 a share in cash through a tender offer that is expected to begin within the next two weeks, a 43 percent premium to the ceramics maker’s closing price on Friday.",positive,0.6989434957504272
+2012-10-01,3M to Buy Ceradyne for $860 Million,neutral,0.035958949476480484
+2012-10-03,"A month after the Justice Department had threatened to sue block the deal, 3M announced on Wednesday that it was terminating its agreement with Avery Dennison to buy its office and consumer products business for $550 million in cash.",negative,-0.9132903218269348
+2012-10-03,3M Abandons Deal to Buy Avery Dennison Unit,neutral,-0.10951915383338928
+2012-10-21,"Governments reports will include third-quarter gross domestic product and new home sales for September, and companies reporting earnings will include Caterpillar, Facebook, 3M, AT&T and Apple.",neutral,0.014838140457868576
+2012-10-21,Economic Reports for the Week Ahead,neutral,0.0058092400431632996
+2012-10-22,"The stagnation of wages in recent years has many causes, but reflects a failure to invest enough in the skills and productivity of the American work force, two economists write.",negative,-0.9224653840065002
+2012-10-22,The Uncomfortable Truth About American Wages,negative,-0.35484859347343445
+2013-01-28,Spots for Post-it notes present them as a vehicle for self-expression by depicting the unusual and unexpected ways that consumers use the notes.,neutral,0.014498797245323658
+2013-01-28,"3M Says, ‘Go Ahead, Make Something of It’",neutral,0.036928579211235046
+2013-09-17,"The 3M Tekk Protection WorkTunes headphones keep excessive noise out, and won’t damage your ears with loud music levels, either.",neutral,0.04734743386507034
+2013-09-17,"Headphones for Protection, Not Cranking It Up",neutral,-0.03558063134551048
+2013-12-03,"The search giant, which for years has been evasive about its plans for the cloud, is announcing rates and features for a wide-ranging computing service.",neutral,0.09692114591598511
+2013-12-03,Google Joins a Heavyweight Competition in Cloud Computing,positive,0.479839563369751
+2014-07-11,"Zack “Danger” Brown can raise more than $43,000 on Kickstarter to pay for his potato salad.",neutral,0.33687540888786316
+2014-07-11,Surely there is someone at the Sun Valley conference who can make use of his talents.,neutral,0.13056503236293793
+2014-07-11,Weekend Reading: Have You Even Tried the Potato Salad in Sun Valley?,neutral,-0.1620848923921585
+2014-10-22,"Conceived at the World Wildlife Fund, the initiative uses bulk purchasing power to allow for discounts on home systems.",neutral,0.06911709904670715
+2014-10-22,Home Solar Power Discounts Are Worker Perk in New Program,positive,0.6288578510284424
+2015-02-23,Asahi Kasei will buy the battery business and 3M will purchase the filtration operation in a deal with a $3.2 billion enterprise value.,neutral,0.06364087760448456
+2015-02-23,Polypore Sells Industrial Businesses,neutral,0.0025707483291625977
+2015-09-07,"Ms. Little, who consulted for three decades for companies like 3M, General Mills and Coca-Cola, took inspiration from sources as varied as geishas, burglars and cheetahs.",neutral,-0.005390888080000877
+2015-09-07,"Sara Little, Peripatetic Product Designer, Dies at 97",neutral,-0.25363889336586
+2016-03-25,"A company’s overall profit growth is unaffected by share buybacks, $6.6 billion since 2008 in Yahoo’s case.",positive,0.45622164011001587
+2016-03-25,"In Yahoo, Another Example of the Buyback Mirage",neutral,0.06940264999866486

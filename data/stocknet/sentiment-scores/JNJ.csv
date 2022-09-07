@@ -1,0 +1,464 @@
+Date,Sentence,Prediction,sentimentScore
+2014-01-08,"As competition grows among major wireless carriers, T-Mobile said it would pay the termination fees of new customers, and give them trade-in credit of up to $300 for their old cellphones.",positive,0.7000916600227356
+2014-01-08,Carriers Step Up Battle for Wireless Customers,positive,0.5884913802146912
+2014-01-15,"The Carlyle Group is near a deal to buy Johnson & Johnson’s clinical testing arm for about $4.1 billion, a person briefed on the matter said on Wednesday.",neutral,0.27546820044517517
+2014-01-15,Carlyle Said to Strike Deal for Johnson & Johnson Testing Division,positive,0.4937174618244171
+2014-01-16,"The deal for the unit, Ortho-Clinical Diagnostics, is the Carlyle Group’s first big buyout of the year.",positive,0.5080078840255737
+2014-01-16,Carlyle Buys Johnson & Johnson Testing Division for $4.15 Billion,neutral,0.04493043199181557
+2014-01-17,"Johnson & Johnson’s Baby Shampoo no longer contains two potentially harmful chemicals, formaldehyde and 1,4-dioxane, that have come under increasing scrutiny by consumers.",negative,-0.6395936012268066
+2014-01-17,"The ‘No More Tears’ Shampoo, Now With No Formaldehyde",neutral,-0.04567903280258179
+2014-01-29,"The drug Xtandi, already on the market for post-chemotherapy use, could open a new front in its competition with Johnson & Johnson’s Zytiga.",positive,0.560211718082428
+2014-01-29,Drug Shows Promise in Advanced Prostate Cancer When Used Before Chemotherapy,positive,0.697046160697937
+2014-01-31,"In the world of Wall Street executive compensation, the pay raise recommended for Jamie Dimon, chief of JPMorgan Chase, is not only defensible, but laudable.",positive,0.7909280061721802
+2014-01-31,Accounting for Dimon’s Big Jump in Pay,neutral,0.07724102586507797
+2014-02-02,"Rather than blame his dismissal on El Mundo’s financial losses, Pedro J. Ramírez accused Spain’s government of engineering retribution for reports on a series of corruption cases.",negative,-0.8920949101448059
+2014-02-02,Founding Editor Is Dismissed as Head of El Mundo,negative,-0.6536235213279724
+2014-02-19,"At one point, $50 billion in federal loan guarantees were meant to cover nuclear projects, but a plant in Georgia may receive the only guarantees made.",neutral,0.2856476306915283
+2014-02-19,Loan Program for Reactors Is Fizzling,negative,-0.674358069896698
+2014-03-10,"The British consumer goods company Reckitt Benckiser, which owns the Durex brand of condoms, said no fixed assets or employees were included in the deal, which is expected to close in mid-2014.",neutral,0.011834999546408653
+2014-03-10,Reckitt Benckiser Buys K-Y Lubricants Brand From Johnson & Johnson,neutral,0.3773413896560669
+2014-03-12,"Ms. Cerami is the chief executive of Cerami & Associates, a company that provides acoustical, audiovisual and technology design work for commercial and residential properties.",neutral,0.028692197054624557
+2014-03-12,Victoria J. Cerami,neutral,-0.012535080313682556
+2014-03-13,Johnson & Johnson’s new campaign for the skin-care product Clean & Clear uses nonactors and focuses on girls who pursue expectation-defying passions.,neutral,0.01593218930065632
+2014-03-13,Clean & Clear Videos Dare Not Speak Blemish’s Name,neutral,-0.15172109007835388
+2014-03-20,"In a fraud case involving Risperdal, the court said the state’s attorney general erred by suing under a law that applied to health care facilities, not drug companies.",negative,-0.8021095395088196
+2014-03-20,Arkansas Court Reverses $1.2 Billion Judgment Against Johnson & Johnson,negative,-0.6032043099403381
+2014-03-27,"In the wake of Baxter’s split, Merck, Bayer and Johnson & Johnson may find it hard not to jump on the bandwagon, says Robert Cyran of Reuters Breakingviews.",neutral,-0.4005727469921112
+2014-03-27,Conscious Uncoupling for Drug Makers,neutral,-0.04914037883281708
+2014-03-29,A lawyer’s string of cases highlights a corporate responsibility to monitor the costs and fees in employees’ retirement plans.,neutral,-0.12326079607009888
+2014-03-29,A Lone Ranger of the 401(k)’s,neutral,0.07125380635261536
+2014-04-05,The National Highway Traffic Safety Administration is facing questions over its handling of the General Motors scandal involving defective ignition switches.,negative,-0.9034512042999268
+2014-04-05,Minding the Minders of G.M.,neutral,0.020966269075870514
+2014-04-06,The Drexel University professor Frank Lee and his team hacked into the lighting system of a 29-story skyscraper in Philadelphia to play Tetris on the building’s facade.,neutral,-0.36257705092430115
+2014-04-06,The World’s Biggest Tetris Game,neutral,0.08843326568603516
+2014-04-23,A single complaint prompted the agency to investigate the 2014 model over a problem with the forward-collision warning system.,negative,-0.9396644830703735
+2014-04-23,N.H.T.S.A.,neutral,0.03245195001363754
+2014-04-23,"Investigates 60,000 Chevrolet Impalas for Braking Problem",negative,-0.8118914365768433
+2014-04-24,An appellate court seems inclined to change the rules on insider trading in a way that will make it easier for professional traders to escape liability.,neutral,0.37998947501182556
+2014-04-24,Loosening the Rules on Insider Trading,neutral,0.014678508043289185
+2014-05-06,"Relative to corporate earnings, stock prices are high.",neutral,0.17645898461341858
+2014-05-06,The most likely case is that future returns will be modest.,neutral,0.06517665833234787
+2014-05-06,Time to Worry About Stock Market Bubbles,neutral,-0.17839689552783966
+2014-05-21,"Though sales were up 2.1 percent and store traffic increased, profit at the struggling retailer fell 16 percent.",negative,-0.9673107266426086
+2014-05-21,"Still Hurt by Data Breach and Losses in Canada, Target Lowers Forecast",negative,-0.9607475996017456
+2014-05-24,The Securities and Exchange Commission is taking a closer look at what private equity firms charge their investors.,neutral,-0.0014488063752651215
+2014-05-24,The Deal’s Done.,positive,0.6032830476760864
+2014-05-24,But Not the Fees.,neutral,-0.11519508808851242
+2014-06-04,A number of companies are offering plans that effectively allow companies to reimburse employees for the individual insurance they buy.,neutral,0.05208558216691017
+2014-06-04,The problem is that the Internal Revenue Service may not approve — and the penalties could be big.,negative,-0.847061812877655
+2014-06-04,Would You Try This Health Insurance Strategy With Your Company?,neutral,0.04690568149089813
+2014-06-07,Executive compensation boards are now more independent and rewards are increasingly tied to results.,neutral,0.13332116603851318
+2014-06-07,But C.E.O.,neutral,-0.15265308320522308
+2014-06-07,pay remains enormous.,neutral,0.05813515931367874
+2014-06-07,"More Scrutiny, Still Spectacular",neutral,-0.2905155420303345
+2014-06-09,A lighthearted glimpse at industry leaders in jobs they might be in if they hadn’t read Advertising Age.,neutral,0.17467215657234192
+2014-06-09,Ad Age Campaign Offers a Look at Roads Not Taken,neutral,0.037230633199214935
+2014-06-11,Jacob Lew cited statistics bolstering so-called secular stagnation and said changing immigration policies and the tax code could help.,positive,0.8586215376853943
+2014-06-11,Treasury Secretary Points to Lackluster Economy and a Need for Action,negative,-0.6056461930274963
+2014-06-12,"The Treasury Department’s top official for domestic finance, Mary J. Miller, plans to step down this fall after having helped to oversee the rollout of the Dodd-Frank overhaul of financial regulations.",neutral,-0.26225796341896057
+2014-06-12,Treasury’s Domestic Finance Chief to Leave,negative,-0.5379244089126587
+2014-06-19,The wireless carrier’s chief executive says a potential merger with Sprint would intensify the kind of innovation T-Mobile announced on Wednesday.,positive,0.7011754512786865
+2014-06-19,T-Mobile Offers iPhone Tests and Unlimited Music Streaming,neutral,0.03888414055109024
+2014-07-02,"A unit of the Swiss drug maker Roche is acquiring the biotechnology firm based in San Diego, Calif., that was spun off from Aragon Pharmaceuticals last year.",neutral,0.04741930216550827
+2014-07-02,Roche to Pay Up to $1.7 Billion for Seragon Pharmaceuticals,neutral,0.04227287322282791
+2014-07-07,"Facing about 1,000 complaints and a yearslong government investigation, G.M.",negative,-0.5581298470497131
+2014-07-07,has not recalled 1.8 million trucks with a brake line corrosion problem.,negative,-0.940489649772644
+2014-07-07,G.M.,neutral,0.048085395246744156
+2014-07-07,Resists Recalling Trucks Over Brake Lines,negative,-0.5028268694877625
+2014-07-17,"After federal regulators complained that repairs of 1.6 million recalled Jeeps were taking too long, Chrysler said it would speed up the process.",positive,0.40693241357803345
+2014-07-17,Chrysler Accelerates Its Repairs of Jeeps,neutral,0.1850455105304718
+2014-07-19,"Tasmania, with its huge poppy crop, is the top producer of a crucial raw material in prescription drugs.",positive,0.5039933919906616
+2014-07-19,But companies fear that they depend too much on that harvest.,negative,-0.8765282034873962
+2014-07-19,Shake-Up on Opium Island,neutral,-0.35185709595680237
+2014-07-23,"Sales of Sovaldi reached $3.5 billion in the second quarter, testifying to the effectiveness of the drug, which can essentially cure over 80 percent of patients with few side effects.",positive,0.8746715784072876
+2014-07-23,"Gilead’s Hepatitis C Drug, Sovaldi, Is on Pace to Become a Blockbuster",positive,0.7376080751419067
+2014-07-28,"The dispute dates back to a 2004 bidding war, ultimately won by Boston Scientific.",neutral,0.03493846580386162
+2014-07-28,Johnson & Johnson is seeking $5.5 billion in damages.,negative,-0.6288979649543762
+2014-07-28,Dispute Between Johnson & Johnson and Boston Scientific Moving to Trial,negative,-0.685419499874115
+2014-07-31,"The company’s Ethicon unit, responding to safety concerns, asked that hospitals return three models of power morcellators, which are used to remove fibroids.",neutral,0.43034881353378296
+2014-07-31,Johnson & Johnson Praised for Taking Uterine Surgery Tools Off Market,negative,-0.5290934443473816
+2014-08-03,"Glenn Greenwald, who broke the Edward Snowden story, is one of the world’s most wired reporters, but he operates from a redoubt in Rio with shaky web access.",neutral,-0.41919103264808655
+2014-08-03,A Web Guerrilla Breaking News From the Jungle,negative,-0.3530474603176117
+2014-08-08,"In the cases of Sprint’s abandoned bid for T-Mobile and 21st Century Fox’s scuttled merger with Time Warner, more recent aggressive enforcement efforts seem to be having an effect.",neutral,-0.12337404489517212
+2014-08-08,"For Mergers, a Shadow of Antitrust Challenges",neutral,-0.15510863065719604
+2014-08-19,"Mr. Schiro was also a veteran financial insider who led PricewaterhouseCoopers and, more recently, Zurich Financial Services.",neutral,0.035888671875
+2014-08-19,"James Schiro, Goldman’s Lead Director, Dies at 68",negative,-0.5230476260185242
+2014-08-20,The National Highway Traffic Safety Administration now offers a free online service that lets consumers find recall information by vehicle identification number.,neutral,0.07784878462553024
+2014-08-20,Was a Recalled Car Fixed?,negative,-0.6155200600624084
+2014-08-20,Answer Is Now a Click Away,neutral,-0.11094339936971664
+2014-09-04,"BP said it was not chiefly responsible for the blowout on the Deepwater Horizon oil rig, but on Thursday, a federal judge for the first time found that BP was indeed the primary culprit.",negative,-0.7656470537185669
+2014-09-04,BP May Be Fined Up to $18 Billion for Spill in Gulf,negative,-0.8848283290863037
+2014-09-12,"With products like Listerine Zero, popular where alcohol is forbidden, and Green Tea Listerine, big in Asia, Johnson & Johnson is trying to appeal to foreign tastes.",neutral,0.2945965826511383
+2014-09-12,Adapting Listerine to a Global Market,positive,0.5721880793571472
+2014-09-15,"An investigation by The New York Times has found that the National Highway Traffic Safety Administration frequently has been slow to identify problems, tentative to act and reluctant to employ its full legal powers against companies.",negative,-0.8989624381065369
+2014-09-15,Regulator Slow to Respond to Deadly Vehicle Defects,negative,-0.6804930567741394
+2014-09-30,"The $1.75 billion deal for Alios BioPharma, which is working on treatments for viral diseases, is the first acquisition in some time for Johnson & Johnson.",positive,0.530168354511261
+2014-09-30,Johnson & Johnson to Buy Biotech Company Alios BioPharma,neutral,0.049166239798069
+2014-10-30,"Two new books look at the phenomenon of MOOCs, online courses from prestigious universities, most of them free and enrolling throngs of students.",neutral,0.03316833823919296
+2014-10-30,An essay in Education Life excerpts one of them.,neutral,0.0031701214611530304
+2014-10-30,"A History of MOOCs, Open Online Courses",neutral,-0.0006210114806890488
+2014-11-04,The Stryker deal resolves claims by patients who said they were injured by metal debris from a hip replacement.,positive,0.5784797072410583
+2014-11-04,Stryker Settles Suits by Hip Implant Patients for $1 Billion,neutral,0.02694808691740036
+2014-11-06,"Scott Stringer, the New York City comptroller who oversees five pension funds, is leading a drive to let shareholders nominate board directors.",neutral,0.06802807003259659
+2014-11-06,Effort Begins for More Say on Directors,neutral,0.0932513177394867
+2014-11-07,"Despite federal requirements on disclosure, few workers and retirees realize how fees could be eating into their savings.",negative,-0.6858446598052979
+2014-11-07,"Finding, and Battling, Hidden Costs of 401(k) Plans",neutral,0.4197506308555603
+2014-11-22,"The law, passed in 2013, was found to violate a clause of the state’s Constitution declaring pensions to be contracts that the state cannot impair.",negative,-0.883484423160553
+2014-11-22,Judge Rejects Overhaul of Illinois’s Beleaguered State Pension System,negative,-0.6382827758789062
+2014-12-05,"States have begun competing with one another for the business of perpetual trusts, and people have been putting their millions and billions into them.",neutral,0.1152140349149704
+2014-12-05,The Ins and Outs of Trusts That Last Forever,neutral,-0.04150116443634033
+2014-12-11,"The hospital said it would halt injections of a vaccine licensed to Merck until next month, after some test subjects reported mild joint pain.",negative,-0.8921889662742615
+2014-12-11,Hospital Pauses Test of an Ebola Vaccine Licensed to Merck,neutral,0.02660733088850975
+2014-12-16,A Times examination of actions by major United States automakers found different standards for recalls of substantially similar vehicles.,neutral,-0.20061372220516205
+2014-12-16,Recalls of Cars Abroad Prompt No Urgency in U.S.,negative,-0.5465691089630127
+2014-12-26,"Unlike many families that lose touch, families like the Roosevelts and Haneses have used their histories to stay together or, at the very least, guide them.",neutral,0.10212583839893341
+2014-12-26,What the Most Fortunate Learn During the Holiday Season,neutral,0.08068376779556274
+2015-01-10,"Wealthy art collectors are benefiting from tax breaks when they build museums with limited public access, often near their homes.",neutral,0.23841722309589386
+2015-01-10,Writing Off the Warhol Next Door,neutral,-0.12382346391677856
+2015-01-14,"The health care giant, collaborating with Yale, made the announcement on the same day that the Institute of Medicine urged sponsors of clinical trials to share data.",neutral,0.42053672671318054
+2015-01-14,Johnson & Johnson Will Make Clinical Data Available to Outside Researchers,neutral,0.07472170144319534
+2015-01-22,"Mr. Gordon expanded the product line, buying brands like Charleston Chew and Junior Mints, and running the company with an iron grip.",positive,0.6404596567153931
+2015-01-22,"Melvin J. Gordon, Who Ran Tootsie Roll Industries, Dies at 95",neutral,-0.13194164633750916
+2015-01-23,"While some consumer products companies are removing the chemical, methylisothiazolinone, others are adding it to offerings including mouthwash.",neutral,-0.045000940561294556
+2015-01-23,Growing Scrutiny for an Allergy Trigger Used in Personal Care Products,negative,-0.46678322553634644
+2015-02-05,"Proposals are being discussed that might jolt the Motion Picture Association of America, the 93-year-old policy front for Hollywood’s major studios, into line with the realities of a changing entertainment business.",positive,0.495214581489563
+2015-02-05,"After Sony Hacking, the M.P.A.A.",neutral,-0.09857279807329178
+2015-02-05,Considers Major Changes,neutral,0.032887980341911316
+2015-02-10,"Mr. Minskoff is the founder and president of Edward J. Minskoff Equities, a real estate acquisition and development company.",neutral,0.03430751711130142
+2015-02-10,A Conversation With Edward J. Minskoff,neutral,0.026706518605351448
+2015-02-13,"Mr. Goldschmid, a commissioner at the Securities and Exchange Commission from 2002 to 2005, was a strong advocate of corporate responsibility to shareholders.",neutral,0.44002434611320496
+2015-02-13,"Harvey Goldschmid, Ally of Ordinary Shareholders, Is Dead at 74",neutral,-0.40010887384414673
+2015-02-14,One problem Congress faces as it prepares to overhaul the tax code is that each complexity has a constituency that will fight for it.,negative,-0.7180136442184448
+2015-02-14,Reformers Try to Tackle the Tax Machine,neutral,0.060820356011390686
+2015-02-17,"Boston Scientific agreed to pay Johnson & Johnson $600 million in connection with Johnson & Johnson’s botched acquisition of Guidant, a medical device company, in 2004.",positive,0.5569767951965332
+2015-02-17,Boston Scientific and J.&J.,neutral,0.011755654588341713
+2015-02-17,Settle Suit Over Guidant Deal,neutral,-0.024281583726406097
+2015-03-02,"The sale to Cardinal Health is the latest divestiture for Johnson & Johnson, which is gradually pruning its portfolio of health care products.",neutral,0.08985348790884018
+2015-03-02,Johnson & Johnson to Sell Cordis Unit for Nearly $2 Billion,neutral,0.012683717533946037
+2015-03-04,"AbbVie announced that it has agreed to buy Pharmacyclics, a maker of a cancer drug that some analysts predict will eventually become one of the best-selling treatments.",positive,0.8219292163848877
+2015-03-04,"AbbVie to Pay $21 Billion for Pharmacyclics, Maker of a Promising Cancer Drug",neutral,0.2712721824645996
+2015-03-05,"With a $21 billion deal, the pharmaceutical giant gets a blockbuster drug, but at a high cost: It must share profits with rival Johnson & Johnson.",neutral,0.4046466648578644
+2015-03-05,Why AbbVie May Have Overpaid for Cancer Drug Maker,neutral,0.03248147666454315
+2015-03-20,"The drug, developed by Biogen Idec, could achieve sales of billions of dollars a year if the results from the small trial are replicated in larger trials.",positive,0.7160926461219788
+2015-03-20,Biogen Reports Its Alzheimer’s Drug Sharply Slowed Cognitive Decline,negative,-0.8472428917884827
+2015-03-26,"Still, the central bank said that credit growth in Britain remained moderate and that its banks were increasingly resilient.",positive,0.8395287394523621
+2015-03-26,Bank of England Warns of Risks From Greece and Market Liquidity,negative,-0.9077130556106567
+2015-03-27,Google and Johnson & Johnson announced a partnership to develop new robot-assisted surgery technologies but offered few details.,positive,0.755528450012207
+2015-03-27,Google and Johnson & Johnson Team for Robotic Surgery Projects,neutral,0.015034843236207962
+2015-03-30,"The test is intended to measure the soundness of banks against severe economic and financial market upheavals, as occurred in 2008.",positive,0.6570739150047302
+2015-03-30,Bank of England Outlines Parameters of 2015 Stress Test,neutral,0.022856034338474274
+2015-04-09,"He is leaving the company after less than two years and will be replaced on an interim basis by Stephen Adler, president and editor in chief of Reuters.",neutral,-0.16706442832946777
+2015-04-09,"Andrew Rashbass, Reuters Chief, Is Moving to Euromoney",neutral,0.032669976353645325
+2015-04-10,"An analysis of recent company reports, however, finds that the widest gap exists between the chief executives and workers of Disney, Oracle, Qualcomm and Starbucks.",negative,-0.7619733810424805
+2015-04-10,"Despite Federal Regulation, C.E.O.-Worker Pay Gap Data Remains Hidden",negative,-0.9366810917854309
+2015-04-13,"The business unit will partner with companies including Apple, Medtronic and Johnson & Johnson, offering IBM’s Watson technology as a cloud-based tool at many levels of the health care industry.",positive,0.7200644612312317
+2015-04-13,IBM Creates Watson Health to Analyze Medical Data,neutral,0.00599542073905468
+2015-04-14,"Dan Price, C.E.O.",neutral,0.001868532970547676
+2015-04-14,"of Gravity Payments, surprised his 120-person staff by announcing that he planned over the next three years to raise the salary of every employee to $70,000 a year.",positive,0.7944293022155762
+2015-04-14,"New Minimum Wage: $70,000 a Year",negative,-0.4044237434864044
+2015-04-15,"A judge approved an unusual resolution to the federal case against the mortgage giant, with the S.E.C.",neutral,0.3024355471134186
+2015-04-15,and Freddie Mac agreeing “no party is the prevailing party.”,neutral,-0.02486705407500267
+2015-04-15,Ex-Freddie Mac Leaders Reach Deal With S.E.C.,positive,0.6410843133926392
+2015-04-20,"The company says Timothy Leiweke, chief of Maple Leaf Sports, will join immediately and Roger Faxon, former head of EMI, has been nominated and will stand for election.",neutral,0.0714210644364357
+2015-04-20,Pandora to Replace 2 Board Members With Music-Industry Figures,neutral,-0.3733919858932495
+2015-04-24,The drug maker increased its bid to $33 billion as it sought to fend off an unsolicited takeover offer from the Israeli pharmaceutical company Teva.,positive,0.8752356767654419
+2015-04-24,"Mylan Raises Its Offer for Perrigo, Which Rejects It",positive,0.06897744536399841
+2015-05-07,"Arthur Caplan, who has built a career advising doctors on difficult moral issues, will help Johnson & Johnson decide which patients receive experimental drugs.",neutral,0.05407033860683441
+2015-05-07,Eager to Opine on the Toughest Calls in Medical Ethics,neutral,0.19432663917541504
+2015-05-13,"The Bank of England expects consumer prices, which have been stuck at a zero-percent inflation rate for two months, to pick up by the end of the year.",positive,0.8080917596817017
+2015-05-13,"Britain Trims Growth Forecast, but Signals Hope on Consumer Prices",negative,-0.8096064925193787
+2015-05-22,"On Friday, the California State Assembly passed a bill that could become the strictest ban in the United States on the particles, which can carry pollutants into the food chain.",neutral,0.23685914278030396
+2015-05-22,Fighting Pollution From Microbeads Used in Soaps and Creams,neutral,0.04607204347848892
+2015-06-04,Charles Ergen would be making a bold bet by merging his satellite operator with T-Mobile US.,neutral,0.4031831622123718
+2015-06-04,Yet he is also known for playing his cards very carefully.,neutral,0.05688467621803284
+2015-06-04,Beware a Bluff From Dish’s Poker-Playing Boss,negative,-0.39815014600753784
+2015-06-26,The agency’s use of internal trials has raised questions about fairness because defendants may not have all the same rights they have in federal court.,negative,-0.7417038679122925
+2015-06-26,Crying Foul on Plans to Expand the S.E.C.’s In-House Court System,negative,-0.30461373925209045
+2015-07-02,"NBC and Univision dropped the beauty pageant, citing Mr. Trump’s comments about immigrants.",negative,-0.9221537113189697
+2015-07-02,Reelz to Show Donald Trump’s Miss USA Pageant,neutral,0.0003727152943611145
+2015-07-17,"Tony Hsieh, C.E.O.",neutral,0.03901996463537216
+2015-07-17,"of Zappos, is on an uphill mission to remake the company’s culture by banning the boss.",neutral,-0.37051519751548767
+2015-07-17,"At Zappos, Pushing Shoes and a Vision",neutral,0.032947711646556854
+2015-07-22,"The transaction would bolster St. Jude Medical’s business in treating treat heart failures by adding products and technologies, the company said.",positive,0.8857953548431396
+2015-07-22,St. Jude Medical to Buy Thoratec for $3.4 Billion,neutral,0.025248641148209572
+2015-07-30,Republicans who would cheer the end of the bank see the failure to reauthorize it before the August recess as a near guarantee of success.,negative,-0.43391144275665283
+2015-07-30,Outlook for the Ex-Im Bank Dims as Congress Departs,negative,-0.5761414766311646
+2015-08-07,"The debate broke previous records for primary debates, and is the ninth-most viewed cable program ever, according to Nielsen.",positive,0.7507907152175903
+2015-08-07,The top eight were college football games broadcast on ESPN.,neutral,0.0271413903683424
+2015-08-07,Republican Debate Draws 24 Million Viewers,neutral,0.008099928498268127
+2015-08-12,"Reckitt Benckiser, the owner of the Durex brand of condoms and lubricants, will be required to license the brand to a competitor in Britain for eight years.",neutral,-0.06274648010730743
+2015-08-12,British Regulator Approves Sale of K-Y to Reckitt Benckiser,positive,0.6090816259384155
+2015-08-18,The Securities and Exchange Commission accused the bank of doling out three internships to appease officials at a Middle Eastern sovereign wealth fund.,negative,-0.9156326055526733
+2015-08-18,Bank of New York Mellon Settles Bribery Case Over Interns,negative,-0.831155002117157
+2015-08-24,"Can you unravel this three-dimensional puzzle by the artist and computer scientist, Ellie Baker?",neutral,0.029493950307369232
+2015-08-24,Ellie Baker and the Seamstress’s Conundrum,neutral,-0.010104827582836151
+2015-09-18,A decision on separating top roles at the bank is less about who is chairman and more about how shareholders’ decisions are valued.,neutral,0.007367657497525215
+2015-09-18,"At Bank of America, a Vote to Give Shareholders Due Respect",neutral,0.07346457988023758
+2015-09-20,The fast-food giant asked companies such as Facebook and MasterCard to provide media access to help the World Food Program respond to a growing crisis.,positive,0.5631940960884094
+2015-09-20,McDonald’s Leads Effort to Promote Migrant Aid,positive,0.603875458240509
+2015-09-23,"Major companies including Johnson & Johnson, Starbucks and Walmart are setting long-term targets for powering operations entirely with renewable energy.",neutral,0.08193618059158325
+2015-09-23,Global Companies Joining Climate Change Efforts,neutral,0.048419445753097534
+2015-10-01,The boutique investment bank found a muted reception from investors on Thursday; shares in the firm were down about 13 percent in the early afternoon.,negative,-0.9609158635139465
+2015-10-01,Shares of PJT Partners Decline on Debut,negative,-0.945119321346283
+2015-10-07,The S.E.C.,neutral,0.014058640226721764
+2015-10-07,said the firm did not inform clients in three funds of the financial benefits Blackstone received in monitoring companies in these portfolios.,neutral,-0.07523156702518463
+2015-10-07,Blackstone to Pay $39 Million Over Fee Disclosures,neutral,-0.09187127649784088
+2015-10-08,"The tiny abrasives, used in exfoliators and other care products, have the same effect as grinding up plastic water bottles and dumping them into the ocean, environmentalists say.",neutral,-0.2568802535533905
+2015-10-08,California Becomes Latest State to Ban Plastic Microbeads,neutral,-0.09905385971069336
+2015-10-09,"Since taking over the United States Chamber of Commerce in 1997, Thomas Donohue has transformed the organization into a powerful ally of tobacco.",positive,0.7680925130844116
+2015-10-09,Big Tobacco’s Staunch Friend in Washington: U.S. Chamber of Commerce,neutral,0.10071676969528198
+2015-10-15,The largest initial public offering of stock of the year ends below its offering price amid concerns about the health of the market.,negative,-0.949134349822998
+2015-10-15,Lackluster Trading Debut for First Data Shares,negative,-0.7981908917427063
+2015-10-20,The business community’s interest in a presidential run by the media and data magnate and former mayor of New York has been getting stronger.,positive,0.8702163100242615
+2015-10-20,Michael Bloomberg for President?,neutral,-0.04419396072626114
+2015-10-20,Wall Street’s Drums Are Beating,neutral,-0.10039231926202774
+2015-10-21,"Mark Carney, the head of Britain’s central bank, said European Union membership had opened the country’s economy but had also posed stability challenges.",positive,0.7962806224822998
+2015-10-21,Bank of England Chief Takes Cautious Tone on E.U.,neutral,-0.18052780628204346
+2015-10-21,Membership,neutral,0.03640979528427124
+2015-10-26,"An area of the law thought long settled has been attacked by defense lawyers, and now on Capitol Hill, as fundamentally unfair.",negative,-0.8493291139602661
+2015-10-26,Reforming the S.E.C.’s Administrative Process,neutral,0.03887491673231125
+2015-10-28,The cable financial news network is expecting to beat its own viewership records and is commanding top dollar for advertising as it airs Wednesday’s Republican debate.,positive,0.7866219878196716
+2015-10-28,CNBC May Be the Big Winner of the Next Republican Debate,neutral,0.11168454587459564
+2015-11-04,MyRA is aimed at people who have no retirement plan at work and lets them have money deducted from their paychecks or make electronic transfers.,neutral,0.0254835095256567
+2015-11-04,U.S. Offers Account to Encourage Retirement Saving,neutral,0.06551016122102737
+2015-11-05,Boeing was accused of charging excessive fees and choosing higher-cost investment offerings in its 401(k) plan.,negative,-0.899876058101654
+2015-11-05,Boeing to Pay $57 Million to Settle Suit Over Retirement Plan,negative,-0.6537227630615234
+2015-11-10,The Department of Financial Services in New York calls for financial companies to name chief information security officers.,neutral,-0.013301469385623932
+2015-11-10,New York Regulator Seeks Proposals to Improve Cybersecurity,neutral,0.26663830876350403
+2015-11-13,The pharmaceutical company said it had collected some 40 percent of the shares of its rival in a tender offer.,neutral,0.15745078027248383
+2015-11-13,Mylan Falls Short in Hostile Bid for Perrigo,negative,-0.9081942439079285
+2015-11-19,The proposals seek to limit the ability of American companies to move their headquarters to take advantage of other nations’ lower tax rates.,neutral,-0.1303614228963852
+2015-11-19,Treasury and I.R.S.,neutral,0.04056471213698387
+2015-11-19,Propose Rules to Curb Corporate Relocations for Tax Reasons,neutral,0.03017669916152954
+2015-11-25,"If big banks do not take steps to prevent the behavior that led to $230 billion in fines against them, regulators appear determined to do it for them.",neutral,0.062295831739902496
+2015-11-25,Wall St. Faces Mounting Criticism From Regulators,negative,-0.9494436979293823
+2015-12-01,"Pfizer, which plans to enjoy a lower tax rate in Ireland after a merger with Allergan, has long employed various tax avoidance strategies.",neutral,0.024438844993710518
+2015-12-01,Pfizer’s Long War on Taxation,neutral,-0.11434414237737656
+2015-12-04,"The book, “I’ll Take You There,” will be published by Metabook, with multimedia components such as a full cast audio drama.",neutral,0.05410332605242729
+2015-12-04,Wally Lamb’s Latest Novel to Be Released Exclusively as Book App,neutral,0.0387156680226326
+2015-12-07,"The activist investor offers to buy the car parts retailer for $15.50 a share in cash, topping the $15 a share that Bridgestone had bid.",positive,0.8609651327133179
+2015-12-07,Carl Icahn Makes Counterbid for Pep Boys,neutral,0.02733447402715683
+2015-12-10,"The Internet is full of terrorist recruiters, trolls, hackers and other ne’er-do-wells.",negative,-0.5026813745498657
+2015-12-10,But don’t forget the good stuff.,neutral,0.038530223071575165
+2015-12-10,Daily Report: The Internet Is Full of Mean People,neutral,-0.2681213319301605
+2015-12-15,"For Disney, the Los Angeles premiere, which overflowed from the Dolby to two adjacent theaters, was an overt celebration of its 2012 decision to get into the “Star Wars” business.",positive,0.5378591418266296
+2015-12-15,"‘Star Wars: The Force Awakens’ Has World Premiere, No Expense Spared",neutral,0.0844137892127037
+2016-01-02,"A generation of Indian energy entrepreneurs is out to prove that a fast, clean and economical route to universal electrification is through solar home systems, financed with small bank loans.",positive,0.8258343935012817
+2016-01-02,"Electrifying India, With the Sun and Small Loans",neutral,0.18083450198173523
+2016-01-07,"Gregory Fleming could find his skills in demand at BlackRock, American Express or a large United States regional bank.",neutral,0.04015380144119263
+2016-01-07,Morgan Stanley Management Shuffle Puts a C.E.O.,negative,-0.46408069133758545
+2016-01-07,on the Market,neutral,-0.06731826066970825
+2016-01-08,"Lawmakers passed a bill, which was sent to Gov.",positive,0.6368511915206909
+2016-01-08,"Chris Christie, that would create a low-cost savings program for employees of small businesses.",positive,0.4995059669017792
+2016-01-08,New Jersey’s Private-Sector Retirement Plan Moves Forward,positive,0.6484043002128601
+2016-01-12,"It has been a searing few months for Third Avenue Management, which shut down its junk bond fund when investors demanded payouts that far exceeded available funds.",negative,-0.9422313570976257
+2016-01-12,A New Focus on Liquidity After a Fund’s Collapse,neutral,0.17391781508922577
+2016-01-15,"After long holding off on a big overhaul, Morgan Stanley is cutting hundreds of jobs on its troubled bond and commodity trading desks.",negative,-0.9649799466133118
+2016-01-15,Morgan Stanley Heeds Its Investors,neutral,-0.015202529728412628
+2016-01-19,The island’s top economic officials said they had to alter their economic strategy when they saw that tax revenues were running about $500 million lower than forecast.,negative,-0.9476975202560425
+2016-01-19,Puerto Rico Revises Plan to Reduce Debt as Optimism Dwindles,negative,-0.04407796263694763
+2016-01-20,"Stock, bond and especially commodity markets have swung in ways that suggest this is a perilous time, but the cause is puzzling.",negative,-0.7579470872879028
+2016-01-20,How to Make Sense of Plummeting Global Markets,neutral,0.05951250344514847
+2016-02-10,"The agreement, which still needs approval in the United States and European Union, sets common requirements for regulating derivatives clearinghouses.",neutral,0.11773300170898438
+2016-02-10,U.S. and Europe Reach Agreement on Derivatives Regulation,positive,0.7709746360778809
+2016-02-16,"Mr. Riccardo, who took over at a time of turmoil in 1975, recruited Lee Iacocca to succeed him, a bet that paid off when it helped win government aid.",positive,0.6150172352790833
+2016-02-16,"John J. Riccardo, Former Chairman of Chrysler, Dies at 91",neutral,-0.26322391629219055
+2016-02-22,A legal brief says Johnson & Johnson has been asked whether Alere’s recalled INRatio blood-testing monitor compromised the anticlotting drug’s trial.,neutral,-0.1757887899875641
+2016-02-22,F.D.A.,neutral,0.04497655853629112
+2016-02-22,Asks If Faulty Blood Monitor Tainted Xarelto Approval,negative,-0.8344454765319824
+2016-03-01,Honeywell said it was withdrawing its $90 billion takeover offer after its rival steadfastly argued that a union would be blocked by regulators.,negative,-0.9118661880493164
+2016-03-01,"Honeywell, Facing Resistance, Drops Bid for United Technologies",negative,-0.7552494406700134
+2016-03-02,Filings in a case against Bayer and Johnson & Johnson over the blood-thinning drug Xarelto said the companies helped mislead editors at The New England Journal of Medicine.,negative,-0.8636628985404968
+2016-03-02,Document Claims Drug Makers Deceived a Top Medical Journal,negative,-0.8321136832237244
+2016-03-04,"The viewership was significantly higher than for the Republican debate in January, which Donald Trump refused to join.",positive,0.8112820386886597
+2016-03-04,Republican Debate Draws 16.9 Million Viewers to Fox News,neutral,0.012538257986307144
+2016-03-09,"Among this year’s crop of presidential aspirants who have written books, Ben Carson dominates in terms of sales since 2001, according to Nielsen data.",neutral,0.06151001155376434
+2016-03-09,Where Donald Trump Is Losing to Clinton and Carson: The Best-Seller List,neutral,-0.029853403568267822
+2016-03-12,"Mr. Larsen rose through the ranks to serve as chairman and chief executive of Johnson & Johnson from 1989 to 2002, expanding the company into a multinational giant.",positive,0.7175273299217224
+2016-03-12,"Ralph S. Larsen, Builder of Giant Johnson & Johnson, Dies at 77",neutral,-0.3380395770072937
+2016-03-16,"The Gawker Media chief said that by posting the video, his editor “made a contrast between an American icon and the man behind that American icon.”",neutral,0.011701919138431549
+2016-03-16,"Nick Denton, on Stand, Justifies Posting of Hulk Hogan Sex Video",neutral,-0.3476558029651642
+2016-04-03,"With the onslaught of smartphones and tablets, even people who depend on PCs now lack passion for these onetime miracle products.",negative,-0.46653082966804504
+2016-04-03,"Outshone by Smaller Screens, PCs Aim to Be Seen as Cool Again",neutral,0.11519628018140793
+2016-04-06,Ted Cruz’s gains among moderate voters in Wisconsin could signal a turning point in the race.,positive,0.588824450969696
+2016-04-06,"If Cruz Keeps This Pace, Trump Won’t Get a Majority of Delegates",neutral,0.001075252890586853
+2016-04-15,Her program will be a lead-in to a dating show called “Coupled.”,neutral,-0.013249799609184265
+2016-04-15,Fox Announces Date for Megyn Kelly’s Broadcast Special,neutral,0.05103757232427597
+2016-04-19,The company said it planned to withdraw from most states and offer policies on the public exchanges in only some states for 2017.,neutral,0.0021476466208696365
+2016-04-19,"UnitedHealth to Pull Back From Insurance Exchanges, Citing Losses",negative,-0.8351237773895264
+2016-04-26,"The oil producer lost its AAA rating, leaving only two American companies with the highest rating: Microsoft and Johnson & Johnson.",negative,-0.9066210985183716
+2016-04-26,Exxon Mobil’s Sterling Credit Is Downgraded by Standard & Poor’s,negative,-0.8711552619934082
+2016-04-28,"Mr. Cooper’s 2007 concoction, St-Germain, was so embraced by the cocktail crowd that it became known as “bartender’s ketchup.”",positive,0.6365955471992493
+2016-04-28,"Robert J. Cooper, 39, Creator of Popular Elderflower Liqueur, Dies",neutral,-0.08118634670972824
+2016-04-29,"Two district court judges have tried to supervise deferred prosecution agreements, only to be blocked by appellate courts.",negative,-0.8139015436172485
+2016-04-29,Judges Left Out of Deferred Prosecution Agreements,negative,-0.6005174517631531
+2016-05-02,Halliburton’s chief executive faces a reckoning as his company prepares to pay a $3.5 billion breakup fee to Baker Hughes.,negative,-0.6636078953742981
+2016-05-02,Halliburton-Baker Hughes Breakup Is a Lesson in Hubris,neutral,0.06439143419265747
+2016-05-08,Sometimes a shifting set of coalitions can make a collective body appear that it has no idea what it wants.,negative,-0.6673683524131775
+2016-05-08,Unusual Flavor of G.O.P.,neutral,0.07677866518497467
+2016-05-08,Primary Illustrates a Famous Paradox,neutral,0.01766391098499298
+2016-05-18,"The part of “Megyn Kelly Presents” that featured Donald Trump drew 5.2 million viewers, while the show as a whole attracted 4.8 million.",neutral,0.14810654520988464
+2016-05-18,More Watch ‘NCIS’ and ‘Voice’ Than Kelly’s Trump Interview,neutral,-0.04788747429847717
+2016-05-24,"Nick Denton, Gawker’s founder, is questioning whether lawsuits brought by Hulk Hogan and others against the site might have been bankrolled by the same source.",negative,-0.8068286180496216
+2016-05-24,Gawker Founder Suspects a Common Financer Behind Lawsuits,negative,-0.5848620533943176
+2016-06-02,The health care giant is criticized by many investors for its mediocre shareholder returns and its lack of merger-and-acquisition activity.,negative,-0.9473534226417542
+2016-06-02,Johnson & Johnson Is Urged to Slim Down,neutral,-0.08392810076475143
+2016-06-03,"For some entrepreneurs, growing their businesses has a lot to do with their risk tolerance and how they think about cash flow and partnerships.",neutral,0.09251124411821365
+2016-06-03,"Needing Cash, Some Small Business Owners Bypass the Bank",negative,-0.8176947236061096
+2016-06-12,"Area 1 Security heads off cyberattacks by tapping into servers known to be compromised by hackers, and monitoring the attackers’ activities.",neutral,-0.1433326005935669
+2016-06-12,A Computer Security Start-Up Turns the Tables on Hackers,negative,-0.6062600016593933
+2016-06-13,Three logical challenges to bring on your next vacation.,neutral,0.0018518362194299698
+2016-06-13,Travel Problems,neutral,0.04422438144683838
+2016-06-23,The regulator accused the bank’s Merrill Lynch business of misusing billions of dollars of client money to finance its own trades.,negative,-0.9070884585380554
+2016-06-23,Bank of America to Pay $415 Million to Settle S.E.C.,neutral,0.036204904317855835
+2016-06-23,Inquiry,neutral,0.030990511178970337
+2016-06-27,An electorate split between the people who have benefited from globalization and those who haven’t.,neutral,-0.16446056962013245
+2016-06-27,Right-Wing Populism Is Prevailing in Left-Wing Strongholds Around the World,neutral,-0.2002294510602951
+2016-06-30,"Mark Carney, the governor of the central bank, also shrugged off a suggestion he might be forced to resign after a new prime minister was chosen.",negative,-0.8414470553398132
+2016-06-30,"Britain May Need to Cut Rates, Bank of England Chief Says",negative,-0.7731515765190125
+2016-07-09,Readers respond to “A More Efficient World That People May Not Want” (July 1).,positive,0.5674752593040466
+2016-07-09,Protectionism: A Fleeting Promise,neutral,0.020069144666194916
+2016-07-21,The venture capitalist is the rare tech figure who openly supports Donald Trump’s candidacy.,neutral,-0.11006644368171692
+2016-07-21,He is set to address conventiongoers on Thursday.,neutral,0.06416010111570358
+2016-07-21,Peter Thiel and the G.O.P.,neutral,0.005416780710220337
+2016-07-21,Convention,neutral,0.021859146654605865
+2016-07-28,"The deal, among the largest in Oracle’s history, is at the heart of the company’s fight to remake itself for the modern world of cloud computing.",positive,0.7161904573440552
+2016-07-28,Oracle’s $9.3 Billion Deal for NetSuite Will Bolster Its Cloud Offerings,positive,0.9324818253517151
+2016-08-01,"Both candidates have some expensive proposals, and economists are coming around to the view that an increase in borrowing might be a good thing.",positive,0.5002745389938354
+2016-08-01,Clinton?,neutral,-0.21594953536987305
+2016-08-01,Trump?,neutral,-0.15472014248371124
+2016-08-01,"Either Way, Count on Deficit Spending to Rise",positive,0.7756491303443909
+2016-08-15,After the social network streams its first N.F.L.,neutral,0.11465850472450256
+2016-08-15,"game on Sept. 15, it will assess whether live streaming can be a linchpin of its future.",neutral,0.15088334679603577
+2016-08-15,With N.F.L.,neutral,0.03299504145979881
+2016-08-15,"Deal, Twitter Live-Streams Its Ambitions",neutral,0.03142033517360687
+2016-08-31,Four Republicans and three Democrats — including four Puerto Ricans — will serve on the board to help the island restructure its $72 billion debt.,neutral,0.160106360912323
+2016-08-31,Puerto Rico’s Fiscal Affairs Will Be Overseen by 7 Experts in Finance and Law,neutral,0.017622102051973343
+2016-09-18,"Hillary Clinton, Donald J. Trump and many economists support investing billions in the nation’s crumbling infrastructure, but paying for it won’t be simple.",neutral,-0.15723438560962677
+2016-09-18,"Coming Soon, Economists Hope: Big Spending on Roads, Bridges and Ports",neutral,0.3104628920555115
+2016-09-19,Wrapping up deals with Alere and St. Jude has troubled Abbott Laboratories; a cash infusion will come at a welcome time.,negative,-0.929663896560669
+2016-09-19,Abbott’s Sale of Eye Surgery Unit Should Ease Its Merger Woes,positive,0.8971907496452332
+2016-09-20,Donald Trump’s plan for a Mexican border wall could decrease the United States population — and its economic potential.,negative,-0.941360592842102
+2016-09-20,"Immigration Reform: Disparate Ideas, Disparate Futures",neutral,-0.050564270466566086
+2016-09-21,"Support for trade agreements in general, and the pending Pacific pact in particular, stands in notable contrast to the toxicity of trade this election season.",negative,-0.8610227108001709
+2016-09-21,Who Hates Free Trade Treaties?,negative,-0.4439297020435333
+2016-09-21,"Surprisingly, Not Voters",neutral,-0.3208986818790436
+2016-09-27,"Nielsen says Monday’s debate between Donald Trump and Hillary Clinton drew 84 million TV viewers, the largest audience since televised debates began in 1960.",neutral,0.4392254948616028
+2016-09-27,"At 84 Million Viewers, Debate Was the Most-Watched Ever",neutral,0.10475444793701172
+2016-09-28,The Arizona Republic on Tuesday joined several other publications that had broken long traditions of backing Republicans for president.,negative,-0.7333109378814697
+2016-09-28,"For Some Newspapers, Endorsing Clinton Means Losing Subscribers",negative,-0.9194063544273376
+2016-10-04,"Donald J. Trump may call himself a genius for his tax avoidance strategies, but in comparison, corporate America is run by absolute virtuosos, Andrew Ross Sorkin writes.",neutral,0.05126257985830307
+2016-10-04,"Morning Agenda: Small-Fry Tax Avoidance, an Outdoor Merger, a Chill on Small Lenders",neutral,-0.25199252367019653
+2016-10-07,"The numbers are such that Hillary Clinton can argue that the economy continues to improve, and Donald Trump can argue that things haven’t improved enough.",positive,0.7842113375663757
+2016-10-07,"How This Jobs Report Can Help Clinton, and Trump",neutral,0.18701717257499695
+2016-10-08,Readers react to “Who’s Afraid of Trump?,neutral,-0.2376331239938736
+2016-10-08,The Markets” (Oct. 2).,neutral,0.036720216274261475
+2016-10-08,Political Futures,neutral,0.01225416362285614
+2016-10-09,"Donald J. Trump deftly used the blending of news and entertainment to build a brand, and then a campaign.",neutral,0.062984898686409
+2016-10-09,"But all that drama has turned into a big, messy show.",negative,-0.5799204111099243
+2016-10-09,"Donald Trump the Showman, Now Caught in the Klieg Lights",neutral,-0.30746519565582275
+2016-10-11,"Salesforce is still in talks to buy Twitter, according to two people involved in the discussions, despite some of Salesforce’s largest shareholders indicating that they are against the deal.",negative,-0.7048791646957397
+2016-10-11,"Morning Agenda: Twitter-Salesforce Talks, Buffett’s Taxes, H.R.",neutral,-0.06570905447006226
+2016-10-11,Red Flags,negative,-0.40927860140800476
+2016-10-12,"Many residents of Hazleton, Pa., who are losing ground, including Democrats, back Mr. Trump.",negative,-0.8787679076194763
+2016-10-12,"Many who are prospering, including Republicans, support Clinton.",neutral,0.03499045968055725
+2016-10-12,"In City Built by Immigrants, Immigration Is the Defining Political Issue",neutral,-0.015493413433432579
+2016-10-13,"The fake accounts scandal that has plagued Wells Fargo has now taken down its chief executive, who will be replaced by the company’s president and chief operating officer.",negative,-0.8382560014724731
+2016-10-13,Morning Agenda: Wells Fargo C.E.O.,neutral,0.042627811431884766
+2016-10-13,"Resigns, Snap Said to Hire Bankers",negative,-0.6425945162773132
+2016-10-14,"The bank has avoided large penalties for creating unauthorized products, but its competitors are leaping ahead in investment banking and trading.",negative,-0.4596657156944275
+2016-10-14,Wells Fargo’s Problems Go Beyond Sham Accounts Scandal,neutral,-0.3515806794166565
+2016-10-16,"The billionaire investor, the only prominent supporter of the Republican candidate in the tech community, joins a very short list of large Trump contributors.",neutral,-0.048401422798633575
+2016-10-16,Peter Thiel to Donate $1.25 Million in Support of Donald Trump,neutral,0.14686979353427887
+2016-10-19,"Recovering from accusations of sexual harassment, Fox News looks forward to the spotlight at the final 2016 debate.",positive,0.7176266312599182
+2016-10-19,Chris Wallace’s Debate Role Is a Bright Spot in a Dark Year for Fox,neutral,-0.08372469246387482
+2016-10-21,Emerging evidence that victim of the fake accounts scandal at Wells Fargo were often the bank’s most vulnerable customers has added to the lender’s troubles.,negative,-0.931969404220581
+2016-10-21,"Morning Agenda: The Lion’s Den, Trump Used to Attract Chinese, Online Lenders Regroup",neutral,-0.013103703036904335
+2016-10-29,Readers respond to “He Believes in Climate Change.,neutral,0.1721232384443283
+2016-10-29,And in Trump.” (Oct. 16).,neutral,0.01997309923171997
+2016-10-29,Trump and the Conservationist,neutral,0.0757402777671814
+2016-11-01,"The bank will reimburse more than 250,000 customers after claims they were overcharged for home appraisals ordered after they defaulted on their mortgage loans.",neutral,0.03706136345863342
+2016-11-01,Wells Fargo to Pay $50 Million to Settle Home Appraisal Overcharges,neutral,0.013038858771324158
+2016-11-02,"CNN has tried to distance itself from the actions of Donna Brazile, its paid political operative, but the moment will be wasted if boundaries are not reset.",negative,-0.8845704197883606
+2016-11-02,A Union of Politics and News Ends With Both Contaminated,neutral,0.049646951258182526
+2016-11-07,"In the short term, markets seem to expect less volatility from a Clinton presidency.",neutral,0.2046864777803421
+2016-11-07,But things get more complicated in the long term.,neutral,-0.18105736374855042
+2016-11-07,What the Election Means for the Markets,neutral,0.07073427736759186
+2016-11-08,"Regardless of the outcome, the intense illiberal passion that emerged in the liberal Obama era paints a troubling portrait of American society.",negative,-0.6494373679161072
+2016-11-08,"After the Election, a Nation Tinged With Racial Hostility",negative,-0.4784083366394043
+2016-11-09,Newspapers across the globe scrambled to create front pages befitting the day’s place in history.,neutral,0.17125314474105835
+2016-11-09,"Trump’s Victory, on Front Pages Worldwide",neutral,0.08843602240085602
+2016-11-10,"After shaking off the shock of the election results, markets have been recovering.",positive,0.772235631942749
+2016-11-10,What happens next across the economy?,neutral,-0.13017767667770386
+2016-11-10,"Morning Agenda: After Trump’s Election, What Next?",neutral,0.011816881597042084
+2016-11-11,Partisan news sites that were clever with social media had a strong effect on the presidential campaign.,negative,-0.6102102994918823
+2016-11-11,What does that mean for the news business?,neutral,0.012750845402479172
+2016-11-11,Daily Report: Online Media That Helped Make Trump,neutral,-0.01195799745619297
+2016-11-12,President-elect Donald J. Trump could try to overhaul the Federal Reserve.,neutral,-0.2006521224975586
+2016-11-12,Or he could emulate Ronald Reagan and leave the central bank alone.,neutral,-0.04934190213680267
+2016-11-12,"With Trump in Power, the Fed Gets Ready for a Reckoning",neutral,0.10596828162670135
+2016-11-14,President-elect Trump has indicated he will look for a quick exit from America’s commitment to reduce greenhouse gas emissions.,neutral,0.39683371782302856
+2016-11-14,Climate Protection Advocates Fear a Rollback of Emissions Standards,negative,-0.8699312210083008
+2016-11-15,"Sovereign wealth funds and hedge funds, as well as retirees’ accounts, restructure portfolios to profit from what they expect will be a free-spending administration.",neutral,0.10643895715475082
+2016-11-15,"Ahead of Trump Presidency, Global Investors Sell Bonds and Grab Stocks",neutral,-0.22616374492645264
+2016-11-16,A little-used law may be used by the Trump administration to strike down regulations passed since this spring under President Obama.,negative,-0.5612380504608154
+2016-11-16,"With Trump’s Signature, Dozens of Obama’s Rules Could Fall",neutral,-0.2768785357475281
+2016-11-17,"On the surface, Mr. Kashkari’s plan would seem to be a tough sell in the new Trump administration, requiring banks to boost their capital by carrying steep costs.",negative,-0.3464909791946411
+2016-11-17,Minneapolis Fed Chief Proposes Eliminating ‘Too Big to Fail’ Banks,neutral,-0.30125725269317627
+2016-11-18,Many brokers with troubled pasts are still running amok without their customers’ knowing their histories or their employers’ seeming to care much.,negative,-0.7665727138519287
+2016-11-18,Should Trump Undo Investor Protections?,neutral,0.016245141625404358
+2016-11-18,Meet the Brokers of Madison County,neutral,0.057837702333927155
+2016-11-19,Readers comment on “Can Trump Save Their Jobs?” (Nov. 13).,neutral,0.025530487298965454
+2016-11-19,Carrier Workers for Trump,neutral,-0.256952166557312
+2016-11-20,How a misinformed Twitter post the night after the presidential election fueled a nationwide conspiracy theory and became a talking point — even as it was being proved false.,negative,-0.6452221274375916
+2016-11-20,How Fake News Goes Viral: A Case Study,neutral,0.01603291556239128
+2016-11-21,"Mr. Sherwood, who had been with the Wall Street Firm since 1986, had been seen as a potential successor to Lloyd Blankfein, the bank’s chief executive.",neutral,-0.0031080972403287888
+2016-11-21,"Michael Sherwood, Goldman Sachs’s Co-Head of Europe, to Step Down",neutral,-0.3072383403778076
+2016-11-22,"Allowing the two mortgage agencies to keep their earnings would still leave their government bailout unpaid, but it would be a smart first step.",positive,0.5053378939628601
+2016-11-22,Freeing Fannie Mae and Freddie Mac,neutral,0.0040122270584106445
+2016-11-23,"Turnout, the popular vote, poll misses and third-party candidates: what you need to know to argue with relatives.",neutral,-0.29678875207901
+2016-11-23,Election Facts to Keep Handy for Holiday Discussions,neutral,-0.007987536489963531
+2016-11-24,"We can get an idea of what to us feels like enough money by getting a baseline on spending and quantity, then homing in on quality.",neutral,0.04163149744272232
+2016-11-24,One Money Question to Rule Them All: How Much Is Enough?,neutral,-0.03969898074865341
+2016-11-25,"But the market capitalization of Actelion, a Swiss drug maker, is high, so Johnson & Johnson would have to cut costs to make a deal work.",positive,0.5547279119491577
+2016-11-25,Johnson & Johnson Has Its Eye on Actelion,neutral,-0.012260403484106064
+2016-11-29,"Beyond the urban working poor, the effort is aiming at those frustrated by an economy no longer producing middle-class jobs they or their parents once held.",neutral,-0.27018553018569946
+2016-11-29,"Eyeing the Trump Voter, ‘Fight for $15’ Widens Its Focus",neutral,0.11887866258621216
+2016-11-30,You can’t think about the 2016 presidential election without thinking about the social media service.,neutral,-0.09852269291877747
+2016-11-30,But attention hasn’t translated into big profits.,neutral,0.18647600710391998
+2016-11-30,Daily Report: Twitter Struggles to Turn Prominence Into Profit,negative,-0.810337483882904
+2016-12-01,"Sidney Weinberg, “Mr.",neutral,0.06547750532627106
+2016-12-01,"Wall Street,” began a tradition of Goldman executives taking on public service that is continuing under President-elect Trump.",neutral,0.07972080260515213
+2016-12-01,The Guys From ‘Government Sachs’,neutral,-0.0922880694270134
+2016-12-02,"The President’s Strategic and Policy Forum is a bipartisan mix of business executives drawn from the worlds of finance, media and manufacturing.",neutral,0.008441652171313763
+2016-12-02,Silicon Valley Chiefs Notably Absent From Trump’s Cabinet of Business Advisers,negative,-0.6052728891372681
+2016-12-03,"Readers respond to “Choke Point of a Nation,” “A Trump-Led Trip Back to the Gold-Plated ’80s” (Nov. 27).",neutral,0.16133210062980652
+2016-12-03,The Courage to Invest,positive,0.4313717484474182
+2016-12-06,"Twitter announced the year’s biggest topics and tweets in news and politics, but matters of identity and safety were also prominent.",neutral,0.06086094677448273
+2016-12-06,The Top Political Tweets and Hashtags of 2016,neutral,-0.1078045517206192
+2016-12-07,The magazine called Mr. Trump the “president of the divided states of America” and named Hillary Clinton its runner-up.,neutral,0.19778335094451904
+2016-12-07,"Donald Trump Is Time’s Person of the Year, to No One’s Surprise",neutral,0.1079275831580162
+2016-12-08,Andrew Ceresney announced plans to leave agency after three years as Wall Street’s regulators continue to wind down their tenures.,neutral,-0.2801748514175415
+2016-12-08,S.E.C.’s Top Enforcer to Depart at Year-End,negative,-0.5315027236938477
+2016-12-10,Facebook has had to issue several corrections about traffic numbers it gives to advertisers.,neutral,-0.3955618739128113
+2016-12-10,Will marketers rebel?,negative,-0.4206567406654358
+2016-12-10,Farhad’s and Mike’s Week in Tech: Why Facebook Can’t Count,negative,-0.43745920062065125
+2016-12-12,"Donald J. Trump officially asked Gary D. Cohn to serve as director of his National Economic Council, removing a crucial impediment for Goldman’s next generation of leaders.",neutral,0.13420428335666656
+2016-12-12,"Goldman President Named Trump Adviser, Opening Door for Younger Executives",positive,0.757465124130249
+2016-12-13,"The more President-elect Donald J. Trump stimulates growth, the faster the Federal Reserve is likely to increase rates to avoid overheating the economy.",positive,0.7131812572479248
+2016-12-13,A Trump Economic Boom?,neutral,0.004587829113006592
+2016-12-13,The Fed May Stand in the Way,neutral,-0.10339400172233582
+2016-12-14,The Wall Street firm named two executives to share president and chief operating officer roles and promoted others as a new group of potential C.E.O.s emerges.,neutral,0.24187158048152924
+2016-12-14,"At Goldman, Top Departure Opens a Door for the Next Generation",neutral,0.3464440703392029
+2016-12-15,Mr. Trump called the group “truly amazing” and said the attendees were doing a good job.,positive,0.8322417736053467
+2016-12-15,Many of the executives brought up topics like immigration and education.,neutral,0.033950090408325195
+2016-12-15,Trump’s Meeting With Tech Leaders Turns Into a Charmfest,positive,0.4521186351776123
+2016-12-21,They both cautioned that there was no assurance that an actual transaction would be signed as a result of these talks.,neutral,0.21209849417209625
+2016-12-21,Johnson & Johnson and Actelion Confirm Merger Talks Are Back On,neutral,0.4004380404949188
+2016-12-23,"In Washington’s rush to make deals before a new, possibly more sympathetic administration, banks may be paying billions less than once proposed.",negative,-0.8959342241287231
+2016-12-23,Flurry of Settlements Over Toxic Mortgages May Save Banks Billions,negative,-0.5903231501579285
+2016-12-25,A presidential race that made fools of pundits and prognosticators suggests reporters should hew closely to hard facts and leave received wisdom on ice.,neutral,-0.38155627250671387
+2016-12-25,"Lessons From 2016 for the News Media, as the Ground Shifts",neutral,0.07864943891763687
+2016-12-30,"After much deliberation, President Obama is punishing Russia for its cyberattacks against the United States.",negative,-0.8319195508956909
+2016-12-30,But his successor may seek to mend fences.,neutral,0.31607523560523987
+2016-12-30,"Daily Report: Russia Is Punished for Hacking, but for How Long?",negative,-0.9125018119812012

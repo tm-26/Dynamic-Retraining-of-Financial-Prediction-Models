@@ -1,0 +1,148 @@
+Date,Sentence,Prediction,sentimentScore
+2014-01-10,"Fosun International is plain about its ambition to emulate Warren Buffett’s investment firm, buying companies at home and abroad.",neutral,0.1800335794687271
+2014-01-10,Its latest deal is for Portugal’s largest insurance company.,neutral,0.08042392134666443
+2014-01-10,Striving to Be the Berkshire Hathaway of China,neutral,0.08688348531723022
+2014-01-21,"Don’t bet on anyone winning the $1 billion being offered by Quicken Loans, the Detroit-based mortgage lender, with the backing of Warren Buffett’s Berkshire Hathaway, to anyone who fills out a perfect 2014 tournament bracket.",neutral,0.1270296573638916
+2014-01-21,$1 Billion for a Perfect N.C.A.A.,neutral,0.14557570219039917
+2014-01-21,"Bracket, Courtesy of Warren Buffett",neutral,0.041049450635910034
+2014-01-29,"Dow Chemical may have expanded its stock buyback program and dividend, but it showed little inclination to make further concessions to activist investors like Daniel S. Loeb.",positive,0.8530571460723877
+2014-01-29,And that suits one major shareholder — Warren E. Buffett — just fine.,neutral,0.08853086084127426
+2014-01-29,Dow Chief Says Buffett Supports Him in Loeb Fight,neutral,0.22446468472480774
+2014-02-24,"In an excerpt from his annual letter to shareholders, Warren Buffett describes how investments he made in a farm and real estate illustrate the importance of a long-term view.",neutral,0.04957890883088112
+2014-02-24,"From Buffett, Lessons From His Farm",neutral,0.05168278515338898
+2014-02-25,Bank of America said that it was facing new investigations related to its activities in foreign currency exchange markets as well as its handling of government-backed mortgages in the United States.,negative,-0.5718308091163635
+2014-02-25,Bank of America Discloses 2 New Investigations,neutral,-0.012124240398406982
+2014-03-01,The challenge for Warren E. Buffett is whether Berkshire Hathaway can continue to make large acquisitions that will help the company grow at a pace that will sustain his reputation as the nation’s shrewdest investor.,positive,0.6946480870246887
+2014-03-01,Buffett Hints at More Heinz-Like Deals in Annual Letter,neutral,0.3355712890625
+2014-03-03,The styles of the two investors could not be more different.,neutral,-0.02361505851149559
+2014-03-03,"But Jeffrey Goldfarb of Reuters Breakingviews notes that both men beat the market by betting on America, playing hardball and trading on personal brands.",positive,0.4862060248851776
+2014-03-03,Buffett and Icahn: Birds of a Feather?,neutral,-0.03485129773616791
+2014-03-12,"Berkshire Hathaway disclosed that it planned to exchange the bulk of its holdings in Graham Holdings — about 1.6 million shares — for a Miami television station, cash and some shares that Graham holds in Berkshire.",neutral,0.03645512834191322
+2014-03-12,Buffett Shrinks Ties to the Graham Family,negative,-0.8169699311256409
+2014-03-14,"Warren E. Buffett prefers to use Berkshire Hathaway’s huge cash pile to buy up companies, rather than return it to shareholders.",neutral,0.011230740696191788
+2014-03-14,Berkshire Hathaway Board Recommends Shareholders Vote Against Dividend,neutral,-0.13786648213863373
+2014-03-25,A money manager claims Coca-Cola allocated as much as $24 billion toward stock-based rewards for its senior people.,neutral,0.057395800948143005
+2014-03-25,A Question of What’s a Reasonable Reward,neutral,-0.10811193287372589
+2014-04-05,"Yes, Warren Buffett’s 49-year market record is stellar.",positive,0.4841282367706299
+2014-04-05,Just don’t count the last five.,neutral,-0.08617503196001053
+2014-04-05,"The Oracle of Omaha, Lately Looking a Bit Ordinary",neutral,-0.17170581221580505
+2014-05-02,"The deal — struck on the eve of Berkshire’s annual investor meeting in Omaha, Neb.",neutral,0.2374921292066574
+2014-05-02,— is the latest takeover struck by the conglomerate’s energy arm.,neutral,0.044452518224716187
+2014-05-02,"Berkshire’s Energy Arm to Buy AltaLink, a Power Transmission Company",neutral,0.05232676491141319
+2014-05-03,Thousands of shareholders flocked to listen to Warren E. Buffett at Berkshire Hathaway’s annual meeting and DealBook had live reports throughout the day.,neutral,0.1597907841205597
+2014-05-03,Berkshire Hathaway’s 2014 Shareholder Meeting,neutral,0.04164464771747589
+2014-05-04,Warren E. Buffett answered roughly six hours’ worth of questions – including pointed queries about his opposition to a controversial executive pay plan at the Coca-Cola Company.,neutral,-0.2154514342546463
+2014-05-04,"At Berkshire Annual Meeting, Questions for Buffett About Coca-Cola and Deals",neutral,-0.0830540657043457
+2014-05-05,"Cristiane Correa, the author of a book on the Brazilian investment firm 3G Capital, spoke with DealBook about why Warren E. Buffett likes 3G so much.",neutral,0.03280098736286163
+2014-05-05,A Q.&A.,neutral,0.0404859334230423
+2014-05-05,With the Author of a Buffett-Praised Book on 3G Capital,neutral,0.0505322590470314
+2014-05-06,Hedge fund managers are getting richer.,neutral,0.45278075337409973
+2014-05-06,| Bayer is buying Merck’s consumer care business.,neutral,0.2213822305202484
+2014-05-06,"| At Berkshire Hathaway, a culture of trust.",neutral,0.12952478229999542
+2014-05-06,| Barclays’ first-quarter earnings declined.,negative,-0.9727230072021484
+2014-05-06,A Big Haul for Hedge Fund Moguls,neutral,0.23136496543884277
+2014-06-02,"Sunday evening was the kickoff of the annual charity auction to have a power lunch with Warren Buffett, the Berkshire Hathaway chief.",neutral,0.05857011303305626
+2014-06-02,Time to Bid for Lunch With Buffett,neutral,0.004500404000282288
+2014-07-29,The shoe and apparel company is relocating into an energy-efficient building on Lake Union in Seattle.,neutral,0.07776030898094177
+2014-07-29,Brooks Sports Moves New Home Closer to Trails,neutral,0.07261964678764343
+2014-08-04,"Fosun International’s bid, which seeks to defeat a rival offer from an Australian energy company, already has the support of the Roc board.",positive,0.7412915825843811
+2014-08-04,Chinese Group Fosun International Bids $441 Million for Roc Oil of Australia,neutral,0.13241621851921082
+2014-08-20,"Berkshire Hathaway agreed to pay $896,000 to settle accusations that it did not follow antitrust guidelines.",positive,0.0129469633102417
+2014-08-20,Warren Buffett’s Company Fined by Justice Dept.,negative,-0.8965755701065063
+2014-08-20,Over Stock Purchase,neutral,-0.011626943945884705
+2014-08-26,"Warren Buffett is a big admirer of 3G Capital, and his conglomerate, Berkshire Hathaway, is helping finance Burger King’s $11.4 billion takeover of Tim Hortons.",neutral,0.08924461156129837
+2014-08-26,"In Burger King Deal, Buffett Teams Up Again With 3G Capital",positive,0.7072234153747559
+2014-08-27,"Warren Buffett’s involvement in the Burger King-Tim Hortons merger tells regular investors nothing, and doesn’t really work against the president’s call for “economic patriotism,” writes Robert Cyran of Reuters Breakingviews.",negative,-0.6854134202003479
+2014-08-27,Buffett’s Involvement in Burger King-Tim Hortons Deal Is a Diversion,neutral,0.02649063989520073
+2014-10-02,"Opel’s chief says G.M.’s European unit can return to profitability, helped by new models; Andy Palmer takes over at Aston Martin.",positive,0.9187979698181152
+2014-10-02,Wheelies: The Hopeful Opel Edition,neutral,0.0797841027379036
+2014-10-07,"An expanded market for geothermal, solar and wind electricity in the West has attracted the attention of the likes of Warren E. Buffett.",positive,0.6385796666145325
+2014-10-07,Warren Buffett’s Big Bet on Renewables in Nevada,neutral,0.16589096188545227
+2014-10-14,JPMorgan Chase posts a third-quarter profit.,positive,0.4606698751449585
+2014-10-14,| Warren E. Buffett promotes the Berkshire Hathaway brand.,neutral,0.0421651229262352
+2014-10-14,| Calculating the cost of Ebola | Derivatives change only goes so far.,neutral,0.014731071889400482
+2014-10-14,Morning Agenda: JPMorgan Swings to a Profit,neutral,-0.07205802202224731
+2014-10-17,Pope Francis allows the Porsche Travel Club to host a private event in the Sistine Chapel; LeBron James becomes a spokesman for the Kia K900 flagship sedan.,neutral,0.1439330130815506
+2014-10-17,Wheelies: The Holy Porsche Party Edition,neutral,0.06017249450087547
+2014-10-20,"Identifying an actress in a United Airlines commercial, and Geico’s ties to Berkshire Hathaway.",neutral,-0.18846909701824188
+2014-10-20,Q. and A.,neutral,0.0380171574652195
+2014-10-20,With Stuart Elliott,neutral,0.02111242711544037
+2014-10-24,"The gift — the largest in the school’s history — will go toward building a 61-bed residence for visitors to the Kavli Institute for Theoretical Physics, which brings together physicists for weeks at a time to exchange ideas.",neutral,0.35793718695640564
+2014-10-24,"Charles Munger, Warren Buffett’s Longtime Business Partner, Makes $65 Million Gift",neutral,0.02332250587642193
+2014-10-27,"A reader is underwhelmed by a Whole Foods campaign, and more on “twin ads.”",negative,-0.9319846034049988
+2014-10-27,Q. and A.,neutral,0.0380171574652195
+2014-10-27,With Stuart Elliott,neutral,0.02111242711544037
+2014-11-13,"The one drawback for Procter & Gamble is that it is losing a longtime shareholder, Robert Cyran and Kevin Allison of Reuters Breakingviews write.",negative,-0.953948974609375
+2014-11-13,Both Sides Gain in Buffett-Duracell Deal,negative,-0.1394413709640503
+2014-11-18,"Much like their leader, Warren Buffett, the chief executives of Berkshire Hathaway’s subsidiaries are a savvy group of acquirers.",neutral,0.08050452917814255
+2014-11-18,"Lawrence A. Cunningham, in the Another View column, explains why.",neutral,-0.0514528863132
+2014-11-18,Deal Tips From Buffett and Berkshire’s Other Managers,neutral,0.13098466396331787
+2014-12-18,"Shares in BYD, a Chinese electric car company backed by Berkshire Hathaway, plunged without explanation by as much as 47 percent on Thursday.",negative,-0.960861086845398
+2014-12-18,Shares in Chinese Carmaker BYD Lose $1 Billion in Market Value,negative,-0.936289370059967
+2015-01-08,Yahoo isn’t a stranger to the complex deal structure known as a “cash-rich split-off” that could be used to sell off its stakes in its Japanese affiliate and Alibaba Group.,neutral,0.06122473254799843
+2015-01-08,More on the Complex Tax-Minded Deal That Starboard Doesn’t Want Yahoo to Do,neutral,-0.08182024955749512
+2015-02-25,"Joseph Baratta, the head of private equity at the Blackstone Group, said a new investment style would be similar to that of Berkshire Hathaway.",positive,0.5186837315559387
+2015-02-25,"Blackstone Considers a Lower-Return, Longer-Term Approach to Private Equity",neutral,0.034295570105314255
+2015-02-28,"Warren Buffett recalls missteps during his five decades with Berkshire Hathaway, a period that saw the company’s stock rise nearly 2 million percent.",negative,-0.5676928758621216
+2015-02-28,"After 50 Years, Oracle of Omaha Looks Back on Less Prescient Moves",neutral,0.13166479766368866
+2015-03-02,"There are two chief theories for why the company has been so successful, with important implications for imagining a future without Mr. Buffett.",neutral,0.2563285529613495
+2015-03-02,Why Warren Buffett Is Worth $72 Billion and You’re Not,neutral,-0.030629262328147888
+2015-03-03,"Warren E. Buffett, the billionaire chairman of Berkshire Hathaway, has released his annual shareholder letter, and it is unusually critical of the financial industry.",negative,-0.6314449310302734
+2015-03-03,A Warning From Buffett About Banks,negative,-0.3293118476867676
+2015-03-25,"The Brazilian investment firm 3G has succeeded so far in rationalizing operations at Heinz, Burger King and other companies.",positive,0.8623570203781128
+2015-03-25,Kraft is next.,neutral,0.024323992431163788
+2015-03-25,Kraft’s Investors Bet on Same Formula That Helped Heinz,neutral,0.17055557668209076
+2015-03-26,"A look under the hood at everything from the makeup of the board of directors to the payment of a dividend, and not cash, to Kraft shareholders.",neutral,0.020736292004585266
+2015-03-26,Reading the Fine Print in the Heinz-Kraft Deal,neutral,0.05704152584075928
+2015-04-01,Kraft had a chance to buy Heinz two years ago.,neutral,0.22209346294403076
+2015-04-01,"Instead, it has ceded control.",neutral,-0.01262320950627327
+2015-04-01,The quandary is one that shareholders elsewhere have to consider.,neutral,-0.029568595811724663
+2015-04-01,Kraft’s Real Calculus in the Deal With Heinz,neutral,0.041490208357572556
+2015-04-15,"Exor, the holding company of the Agnelli family, is looking to do a deal that could provide it with Berkshire Hathaway-like stable cash flows.",positive,0.8511695265769958
+2015-04-15,"Warren Buffett, Italian-Style",neutral,0.026719335466623306
+2015-04-27,"Apple, increasingly reliant on China for growth, reports on Monday; Ford will post earnings on Tuesday and Fiat Chrysler on Wednesday; on Thursday, Tesla is expected to announce two new battery products.",neutral,0.14754487574100494
+2015-04-27,"Apple Earnings, Automaker Results and New Products From Tesla",neutral,0.021886451169848442
+2015-05-01,The investor’s Berkshire Hathaway shows how intangible values like thrift and autonomy can translate into economic gain.,neutral,0.3114068806171417
+2015-05-01,The Philosophy of Warren E. Buffett,neutral,0.04070354253053665
+2015-05-05,"Mr. Buffett, chief of Berkshire Hathaway, responded to concern that he had abandoned his company’s moral compass by teaming with 3G, an investment firm known for ruthlessly cutting jobs.",negative,-0.911788284778595
+2015-05-05,Berkshire’s Warren Buffett Shows His Teddy Bear Image Has Tough Side,neutral,0.00817108154296875
+2015-05-06,"“I love reading Warren Buffett’s letters and I love contrasting his words with his actions,” the hedge fund manager told the SALT Conference.",neutral,0.4189048707485199
+2015-05-06,Daniel Loeb Strikes Back Against Buffett’s Criticism of Hedge Funds,negative,-0.8129087090492249
+2015-07-29,"The private equity firm was active in selling assets from its portfolio, but continues to be hurt by its global market strategies business.",negative,-0.9496591687202454
+2015-07-29,"Carlyle Profit Slips, but Tops Forecasts",negative,-0.9384506940841675
+2015-08-09,"The deal, which could be worth more than $30 billion, would be the largest takeover in Mr. Buffett’s five-decade investing career at Berkshire.",neutral,0.32479503750801086
+2015-08-09,Warren Buffett’s Berkshire Hathaway Said to Be Near Deal to Buy Precision Castparts,neutral,0.09893973171710968
+2015-08-10,"Berkshire Hathaway is paying $37.2 billion for the aircraft components maker, even though shares of Precision Castparts have tumbled 40 percent since last summer.",negative,-0.8902714848518372
+2015-08-10,Warren Buffett Bucks Trends With Precision Castparts Acquisition,neutral,0.2719302773475647
+2015-08-11,"The restructuring could fund world-changing research, but only so long as the underlying business remains a cash cow.",neutral,0.1946958601474762
+2015-08-11,"Is the New Google More Like Berkshire Hathaway, General Electric or AT&T?",neutral,0.022721290588378906
+2015-10-30,"William A. Ackman, the billionaire hedge fund investor, attempted to downplay the magnitude of Valeant’s problems in a recent conference call.",negative,-0.6068889498710632
+2015-10-30,Trying in Vain to Put a Positive Spin on Valeant’s Troubles,neutral,-0.03702983260154724
+2015-11-02,"This week, a pack of media companies will report earnings, the Federal Reserve chairwoman will testify about regulatory issues and the Labor Department will release the latest figures on hiring and unemployment.",neutral,0.03680841997265816
+2015-11-02,"Media Earnings, Yellen’s Testimony and the Jobs Report",neutral,0.020862910896539688
+2015-11-04,It can be dangerous to compare current investment opportunities to home runs from the annals of business history.,negative,-0.4936539828777313
+2015-11-04,Why Buffett’s Salad Oil Magic May Not Repeat for Ackman,neutral,-0.01654018461704254
+2015-11-19,"Hoping to build on his family’s legacy, Howard Warren Buffett has co-founded i(x) Investments to put capital to work in ways he hopes will improve the world.",positive,0.7364909648895264
+2015-11-19,Buffett’s Grandson Seeks Own Investment Route: Social Change,neutral,0.0454699769616127
+2015-12-29,"After the investors, including Warren Buffett, who bought Heinz said they would close the tomato plant in Leamington, Ontario, new owners kept it running.",neutral,-0.17458099126815796
+2015-12-29,Town Where the Tomato Is King Rallies to Save Its Heinz Plant,neutral,-0.10229070484638214
+2016-02-27,"Berkshire Hathaway will not engage in hostile takeovers, despite the rise of activist investors, its chief wrote in his annual letter to shareholders.",neutral,0.11687050759792328
+2016-02-27,"Warren Buffett Vows to Stick to Friendly Strategy, Rebuffing Activism",positive,0.4978457987308502
+2016-04-30,Warren E. Buffett oversees an empire at Berkshire Hathaway that touches everything from railroads to beer companies.,neutral,0.01581583544611931
+2016-04-30,"His company held its annual shareholder meeting on Saturday, which has been dubbed “Woodstock for Capitalists,” in Omaha.",neutral,0.07676342129707336
+2016-04-30,This is what our reporter observed.,neutral,0.028180986642837524
+2016-04-30,Dispatches From ‘Woodstock for Capitalists’,neutral,0.029110029339790344
+2016-05-03,"At “Woodstock for Capitalists,” Mr. Buffett cautioned against killing “the golden goose,” saying instead that we “need to make more eggs.”",neutral,0.03461902588605881
+2016-05-03,Warren Buffett Holds Forth on Sharing the Wealth,neutral,0.09379322081804276
+2016-05-15,The unusual presence of Mr. Gilbert and Mr. Buffett in the bidding suggest just how far Yahoo and its advisers have cast their net to find potential buyers.,neutral,0.20270968973636627
+2016-05-15,Warren Buffett and Dan Gilbert Unite in Bid to Acquire Yahoo,neutral,0.3619507849216461
+2016-05-19,"When a value investor buys in, it’s a sign that a high-flying growth company has joined the ranks of venerable tech companies like IBM and Intel.",positive,0.5875074863433838
+2016-05-19,Warren Buffett Stake Suggests Apple Is All Grown Up,neutral,0.15829890966415405
+2016-09-20,"Mr. Combs, who becomes the 12th director on the board, has been an investment officer at Berkshire Hathaway since 2010.",neutral,0.021785810589790344
+2016-09-20,"JPMorgan Picks Todd Combs, a Warren Buffett Protégé, to Join Board",neutral,0.040786050260066986
+2016-10-06,The candy company will buy out the minority stake held by Warren Buffett for an undisclosed sum and combine Wrigley with its chocolate business.,neutral,0.0899708941578865
+2016-10-06,Mars Cashes Out Warren Buffett to Take Control of Wrigley,neutral,-0.04824225604534149
+2016-11-03,"Mr. Lipsey’s Omaha chain, the Sun Newspapers, won in 1973 for exposing fund-raising excesses by Boys Town, the charity for orphaned children.",positive,0.37864309549331665
+2016-11-03,"Stanford Lipsey, 89, Publisher Whose Nebraska Weeklies Won Pulitzer, Dies",neutral,-0.013046201318502426
+2016-11-15,"Mr. Buffett’s holding company, Berkshire Hathaway, is sinking more than $1.3 billion into the four largest American carriers.",negative,-0.7675938606262207
+2016-11-15,"Warren Buffett, in a Switch, Warms to Airline Industry",neutral,0.05856175720691681

@@ -1,0 +1,24 @@
+Date,Sentence,Prediction,sentimentScore
+2014-01-30,"The oil giants’ reactions differed sharply: Shell plans to step up asset sales and cut investment, while Exxon Mobil pointed to its numerous projects.",negative,-0.677932620048523
+2014-01-30,Quarterly Earnings Fall at Exxon Mobil and Shell,negative,-0.963222861289978
+2014-04-29,Imagine sitting on the sideline of a football game or hanging out next to a drummer of your favorite concert.,neutral,-0.057442083954811096
+2014-04-29,"Next3D, a movie company in Los Angeles, hopes to make this a reality by merging 3-D film technologies and virtual reality headsets.",neutral,0.25118717551231384
+2014-04-29,Standing on the Sidelines With Virtual Reality,neutral,0.057269610464572906
+2014-06-10,"BP, Exxon Mobil, Shell, Total and other big Western oil companies are striking deals and plowing money into Russia even as more sanctions loom.",negative,-0.3920286297798157
+2014-06-10,"For Western Oil Companies, Expanding in Russia Is a Dance Around Sanctions",neutral,0.07059904932975769
+2015-10-16,Ten of the world’s big oil companies made a public declaration to try to convince an increasingly skeptical world that they are serious about cleaner energy and fighting global warming.,positive,0.5853995680809021
+2015-10-16,Oil and Gas Companies Make Statement in Support of U.N.,positive,0.5667482018470764
+2015-10-16,Climate Goals,neutral,0.06568253040313721
+2015-11-03,The former vice president said he has been focused on helping his firm invest only in sustainable companies.,neutral,0.21613773703575134
+2015-11-03,Gore Calls for Exxon Mobil Inquiry on Climate Change,neutral,-0.37004804611206055
+2016-12-11,"Mr. Tillerson, Exxon Mobil’s chief executive and a secretary of state candidate, has a relationship with Russia that could be both a strength and his Achilles’ heel.",neutral,0.23143376410007477
+2016-12-11,"Rex Tillerson, an Aggressive Dealmaker Whose Ties With Russia May Prompt Scrutiny",neutral,0.13706038892269135
+2016-12-13,"The energy giant’s days as Big Oil’s unparalleled heavyweight are numbered, as rivals are coming up fast.",neutral,0.3958536982536316
+2016-12-13,Exxon’s Next Chief Will Lead a Weakened Empire,neutral,-0.11584431678056717
+2016-12-14,A tax provision allows incoming executive branch members to defer capital gains taxes on any divestments required under ethics rules.,neutral,0.03249583765864372
+2016-12-14,"For Trump’s Wealthy Cabinet, Prospect of a Sweet Tax Break",negative,-0.31266361474990845
+2016-12-15,"The oil giant said it would promote the heir apparent to chief, as Mr. Tillerson prepares to become secretary of state under Donald J. Trump.",neutral,0.3553885817527771
+2016-12-15,Exxon Mobil Taps Darren Woods to Replace Rex Tillerson,neutral,-0.060250960290431976
+2016-12-29,"Rex W. Tillerson, in line to be secretary of state, publicly backed a carbon tax in 2009.",neutral,0.298380047082901
+2016-12-29,Yet Exxon Mobil has done little or nothing to help put such taxes into effect.,neutral,0.00954284518957138
+2016-12-29,Tillerson Led Exxon’s Shift on Climate Change; Some Say ‘It Was All P.R.’,neutral,-0.01673230528831482

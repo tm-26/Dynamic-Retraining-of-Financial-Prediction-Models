@@ -1,0 +1,370 @@
+Date,Sentence,Prediction,sentimentScore
+2014-01-02,"To reach its goal, Fiat must enter a partnership with an Asian automaker that would give it access to the Chinese car market, the analyst Massimo Vecchio said.",positive,0.8296511769294739
+2014-01-02,Fiat’s Challenge Is to Improve Performance in Italy and Asia,positive,0.9279507994651794
+2014-01-21,"Toyota’s president calls for an emotional Camry design; ADAC, the German car club, is embroiled in scandal over falsified contest results.",negative,-0.9201509356498718
+2014-01-21,Wheelies: The More Emotional Camry Edition,neutral,0.10294828563928604
+2014-01-24,A Super Bowl car ad stars include the Muppets for Toyota and James Franco for Ford; Justin Bieber gets a D.U.I.,neutral,-0.017590206116437912
+2014-01-24,after racing in a Lamborghini in Miami.,neutral,0.031850337982177734
+2014-01-24,Wheelies: The Muppet Toyota Edition,neutral,0.038848426192998886
+2014-01-27,"Manufacturers have produced vehicles more loaded with technology to draw in younger drivers, but those drivers say price and fuel economy remain their prime motivators.",neutral,0.31330010294914246
+2014-01-27,"Makers Pack New Cars With Technology, but Younger Buyers Shrug",neutral,-0.002294793725013733
+2014-01-30,"Chevrolet, Audi, Kia and Toyota are among repeat Super Bowl advertisers, but Jaguar will be a first timer.",neutral,0.0382903516292572
+2014-01-30,Super Bowl Will Again Be a Showcase for Automakers,positive,0.505940854549408
+2014-01-31,"Toyota has told its dealers to stop selling about 36,000 vehicles because a component on the heated seats does not comply with a federal safety standard for flame retardants.",negative,-0.9399786591529846
+2014-01-31,Some Toyota Model Sales Halted Over Seat Problem,negative,-0.9299271106719971
+2014-02-01,"Crash testing performed on small cars popular in India revealed sub-standard safety, and Volkswagen took second in global light vehicle sales in 2013.",positive,0.5622153878211975
+2014-02-01,Wheelies: The Small Car Smashup Edition,neutral,-0.12149396538734436
+2014-02-03,Toyota issued the most recalls of any carmaker in 2013; Chrysler ranked second.,neutral,0.00951288640499115
+2014-02-03,Safety Agency Says 22 Million Vehicles Recalled in 2013,negative,-0.9138367772102356
+2014-02-04,The automaker found that a Chinese parts supplier used counterfeit material in an accelerator pedal assembly that had already prompted a recall.,negative,-0.9378780722618103
+2014-02-04,Aston Martin Starts Recall Anew After Finding Counterfeit Material in Repair Pedal Assembly,negative,-0.8582497835159302
+2014-02-07,"With demand overtaking supply, Mercedes-Benz is rescinding incentives and raising prices; Renault introduces a tiny, drone-equipped off-road car.",positive,0.5858138203620911
+2014-02-07,Wheelies: The Carrot and Stick Edition,neutral,0.04158545285463333
+2014-02-10,"In one case, Toyota is nearing a deal with the Justice Department to settle a criminal investigation over the way the automaker disclosed complaints stemming from the sudden acceleration of its vehicles, according to two people with knowledge of the talks.",negative,-0.6380351185798645
+2014-02-10,Toyota in Talks on Final Settlements Over Car Recalls,neutral,-0.061195701360702515
+2014-02-12,"In its annual study, J.D.",neutral,0.041134364902973175
+2014-02-12,Power found that engine and transmission problems topped the list of reliability concerns.,negative,-0.7802150845527649
+2014-02-12,Vehicle Dependability Declines Significantly in J.D.,negative,-0.9598929286003113
+2014-02-12,Power Study,neutral,0.05664291977882385
+2014-02-14,"A part from a supplier in Ohio failed, according to complaints, leading the automaker to switch to a Japanese part and issue a recall.",negative,-0.9507072567939758
+2014-02-14,"Toyota Recalls 261,000 Trucks and S.U.V.’s for Traction Control Malfunction",negative,-0.9588537216186523
+2014-02-20,General Motors makes moves to produce an aluminum-body pickup truck by 2018; Toyota tests a wireless E.V.,neutral,0.2760397791862488
+2014-02-20,charging system.,neutral,0.024825898930430412
+2014-02-20,Wheelies: The Aluminum Bandwagon Edition,neutral,0.013680141419172287
+2014-02-21,The Homeland Security Department killed a plan to access commercial databases to help federal law enforcement officials track license plates.,neutral,0.10994280129671097
+2014-02-21,Wheelies: The Big Brother Is Not Watching Edition,neutral,-0.20236065983772278
+2014-02-27,Ford celebrates the 80th anniversary of the Australian Ute; Toyota names design chief to run the Lexus division.,neutral,0.29751747846603394
+2014-02-27,Wheelies: The Happy Birthday to Ute Edition,neutral,0.08404271304607391
+2014-03-03,"Sales figures for some trucks remained strong, but G.M., Ford, Toyota and Volkswagen all said severe winter weather had taken a toll on American sales of new cars.",negative,-0.9023784399032593
+2014-03-03,Carmakers Say Sales Were Sluggish in Chilly February,negative,-0.9386210441589355
+2014-03-07,Ford rewards its chief executive’s 2013 performance with $13.8 million in stock; Miami investors buy the Nürburgring for $90 million.,positive,0.7943642735481262
+2014-03-07,Wheelies: The Mulally’s Millions Edition,neutral,0.05187246948480606
+2014-03-11,Toyota says hybrids may soon account for 20 percent of its global sales; Honda announces the Acura brand’s realignment into a separate division.,neutral,0.19037845730781555
+2014-03-11,Wheelies: The More Hybrids Edition,neutral,0.08673737943172455
+2014-03-12,"Toyota and other major exporters increased base monthly pay, after pressure from unions, but also in line with the government’s economic growth plan.",positive,0.8704210519790649
+2014-03-12,"For First Time in Years, a Raise for Many Japanese Workers",positive,0.8717855215072632
+2014-03-17,"The company, in a wage dispute with workers, said employees had deliberately stopped the production line and threatened supervisors, affecting output for 25 days.",negative,-0.9278512001037598
+2014-03-17,Toyota Unit Shuts 2 Factories in India,negative,-0.9504510164260864
+2014-03-19,"The parallels between the handling of vehicle defects by Toyota and General Motors are striking, Peter J. Henning writes in the White Collar Watch column.",neutral,0.0532107949256897
+2014-03-19,Toyota Settlement Blazes Path for G.M.,positive,0.545434832572937
+2014-03-22,Notable quotes from business articles that appeared in The New York Times last week.,neutral,0.01611744984984398
+2014-03-22,"The Chatter for Sunday, March 23",neutral,0.02877073734998703
+2014-03-24,"A recent court ruling in a case involving Joseph P. Nacchio, the former chief executive of Qwest Communications, raises the question of how the tax code may be seen as indirectly subsidizing wrongdoing, Peter J. Henning writes in White Collar Watch.",neutral,-0.37290969491004944
+2014-03-24,Deducting the Costs of a Government Settlement,neutral,-0.015637509524822235
+2014-03-25,"Legislation to require more information from automakers that could help recognize safety defects was introduced on Tuesday, after the widespread recalls of General Motors and Toyota vehicles.",positive,0.5033106803894043
+2014-03-25,Spurred by G.M.,positive,0.6281253099441528
+2014-03-25,"Recall, Senators Push for Better Auto Safety Reporting",neutral,0.18172210454940796
+2014-03-26,A police investigation finds that speed caused the deaths of Paul Walker and Roger Rodas; Toyota and Honda to introduce fuel-cell vehicles in 2015.,negative,-0.739934504032135
+2014-03-26,Wheelies: The Fast and Unfortunate Edition,neutral,-0.007129378616809845
+2014-03-27,Ford will chop up a Mustang convertible and put it on top of the Empire State Building; Toyota to begin stock buyback.,neutral,0.026994019746780396
+2014-03-27,Wheelies: The Empire State Mustang Edition,neutral,0.06550602614879608
+2014-03-28,"Electrical interference could damage the air bag control module, causing air bags and seatbelt tensioners to deploy inadvertently.",negative,-0.9426397085189819
+2014-03-28,Toyota Recalls Avalon Sedans for Air Bag Problem,negative,-0.9231346249580383
+2014-03-31,Questions are once again being raised about “an all-too-cozy relationship” between former National Highway Traffic Safety Administration officials and the automobile industry.,neutral,-0.3235008716583252
+2014-03-31,Carmakers’ Close Ties to Regulator Scrutinized,neutral,-0.15727771818637848
+2014-04-01,Most of the market had significant growth after a harsh winter that kept consumers away from dealerships.,positive,0.8654135465621948
+2014-04-01,"After Rough Winter, Auto Sales Jumped in March",positive,0.8703740835189819
+2014-04-02,"Every April 1, automakers and automotive publications crank out a few silly jokes and pranks in celebration of the world’s strangest celebration.",neutral,-0.21236424148082733
+2014-04-02,A Few Auto Industry April Fools’ Day Pranks,negative,-0.5577442049980164
+2014-04-08,Hooligans tip Smart cars around San Francisco; some Toyota factories replace robots with people.,negative,-0.6723438501358032
+2014-04-08,Wheelies: The Car Tipping Edition,neutral,0.05794084817171097
+2014-04-09,The automaker said on Wednesday that the recall was for problems with air bags that may not deploy or seats that could move in a crash.,negative,-0.9239224195480347
+2014-04-09,Toyota to Recall 6.4 Million Vehicles,negative,-0.9410043954849243
+2014-04-10,Automakers have a long history of trying to maintain their reputations in the face of major recalls.,neutral,0.34586215019226074
+2014-04-10,Where Does the G.M.,neutral,-0.03866766020655632
+2014-04-10,Recall Rank?,neutral,-0.11655829101800919
+2014-04-11,"Jeep introduces six concepts for the Easter Jeep Safari in Moab, Utah; Toyota unveils more efficient gasoline engines.",positive,0.689297616481781
+2014-04-11,Wheelies: The Moab Jeeps Edition,neutral,0.05978148430585861
+2014-04-15,"On April 15, as individual taxpayers file, taking a look at a few opportunities for corporations that they may find slightly irksome.",neutral,-0.007719110697507858
+2014-04-15,Looking at Some Corporate Tax Loopholes Ordinary Citizens May Envy,neutral,-0.06654506921768188
+2014-04-21,Lewis Hamilton took his third Formula One victory this season in a race with an unusual ending; Toyota took the top two slots in the Silverstone endurance race.,neutral,0.2488032579421997
+2014-04-21,"Monday Motorsports: Hamilton Picks Up a Prize, Prematurely",neutral,0.12337306141853333
+2014-04-22,"Volkswagen showed off its redesigned Touareg S.U.V., and Japanese automakers made a push into the Chinese market.",positive,0.6698014140129089
+2014-04-22,Auto China Opens to the Public in Beijing,neutral,0.05852583795785904
+2014-04-29,"The Japanese automaker said the move to a new North American headquarters near Dallas in about three years would affect employees in California, Kentucky and New York.",negative,-0.9434468746185303
+2014-04-29,"Toyota Will Shift 4,000 to New Offices in Texas",negative,-0.6340904831886292
+2014-05-09,"Ford will raffle a one-of-a-kind Mustang GT convertible, to benefit multiple sclerosis research; Subaru anticipates 20 percent sales growth by 2020.",positive,0.7742281556129456
+2014-05-09,Wheelies: The Philanthropic Pony Car Edition,neutral,0.05460190773010254
+2014-05-13,"The electric RAV4 has sold poorly, despite low-cost lease and loan offers Toyota introduced last year to promote sales.",negative,-0.9572393298149109
+2014-05-13,"Seeing Future in Fuel Cells, Toyota Ends Tesla Deal",neutral,-0.15034444630146027
+2014-05-21,Ford announces pricing for the 2015 Mustang; Dodge introduces a 600-plus-horsepower Challenger SRT variant.,neutral,0.2330055832862854
+2014-05-21,Wheelies: The Pony Pricing Edition,neutral,0.05802231281995773
+2014-05-22,"Toyota recalls 466,000 vehicles worldwide for problems with brakes and spare tires; G.M.",negative,-0.9607818722724915
+2014-05-22,starts a pilot program to promote seatbelt use.,positive,0.5711561441421509
+2014-05-22,Wheelies: The Toyota Trouble Edition,neutral,0.04429805278778076
+2014-05-23,General Motors to offer stop-start technology in 2015 Chevrolet Impala; Congress pushes to streamline federal paperwork for dealerships.,positive,0.6360317468643188
+2014-05-23,Wheelies: The G.M.,neutral,0.03810720145702362
+2014-05-23,Trucks Hiccup Edition,negative,-0.4455161690711975
+2014-06-03,"Analysts said pent-up demand, good weather and low interest rates spurred sales.",positive,0.8426923155784607
+2014-06-03,"General Motors, Chrysler, Nissan and Toyota all reported double-digit increases.",positive,0.8407080173492432
+2014-06-03,"Car Buyers Crowded Showrooms in May, Unfazed by Surge in Recalls",negative,-0.102995365858078
+2014-06-11,Porsche celebrates its return to Le Mans with a Martini-liveried special edition 911; Fiat announces 86 Alfa Romeo dealerships for North America.,positive,0.48029452562332153
+2014-06-11,Wheelies: The Porsche Martini Edition,neutral,0.052907004952430725
+2014-06-13,"Attendance is expected to hit 300,000 for the 82nd running of the race on Saturday in France.",neutral,0.14137229323387146
+2014-06-13,24-Hour Race Could Lure Huge Crowd at Le Mans,neutral,0.33787649869918823
+2014-06-16,Audi survived mechanical problems and a strong performance from Toyota for the victory; Marc Marquez won his seventh consecutive MotoGP race.,positive,0.7913469076156616
+2014-06-16,Monday Motorsports: Audi Works Hard for 13th Le Mans Win,neutral,-0.009013399481773376
+2014-06-18,"In a survey of more than 86,000 new vehicle owners, J.D.",neutral,0.17690682411193848
+2014-06-18,Power found the number of problems this year to be higher.,positive,0.7093944549560547
+2014-06-18,Porsche Tops J.D.,negative,-0.5645913481712341
+2014-06-18,Power Initial Quality Study for Second Consecutive Year,neutral,0.25892603397369385
+2014-06-19,"Despite being under fire over its failure to recall defective cars, General Motors had a strong showing in J.D.",positive,0.8224419355392456
+2014-06-19,Power’s annual quality survey of new vehicles.,neutral,0.05813339352607727
+2014-06-19,General Motors Receives Welcome News in Automotive Survey,positive,0.5847434997558594
+2014-06-23,The expanded recall covers a total of almost three million cars worldwide whose air bags could rupture and injure passengers.,negative,-0.8911235928535461
+2014-06-23,"Now the Air Bags Are Faulty, Too",negative,-0.8226029872894287
+2014-06-25,Toyota unveils the body styling and pricing in Japan for its hydrogen fuel-cell car; G.M.,neutral,0.082191601395607
+2014-06-25,to install solar energy arrays at Michigan plants.,neutral,0.04224761575460434
+2014-06-25,Wheelies: The Hydrogen Toyota Edition,neutral,0.061451055109500885
+2014-07-01,Honda puts its first commercial jet into flight; N.H.T.S.A.,neutral,0.3349524736404419
+2014-07-01,opens an investigation of 2012-14 Nissan Versas for a problem with a trim panel that hinders pedal operation.,negative,-0.9203675985336304
+2014-07-01,Wheelies: The Flying Honda Edition,neutral,0.06877118349075317
+2014-07-08,"Subaru says it will build a next-generation BRZ sports coupe; Manchester United, a British soccer team, will wear Chevrolet bow ties on its jerseys.",neutral,0.2003849893808365
+2014-07-08,Wheelies: The Next-Generation Toyobaru Edition,neutral,0.05816904455423355
+2014-07-11,Hagerty’s offers year-of-manufacture gas prices to classic-car owners Friday morning; top Toyota designer moves to Yamaha.,neutral,0.0985359251499176
+2014-07-11,Wheelies: The Classic Gas Prices Edition,neutral,0.0448053777217865
+2014-07-16,BMW says it may share its plug-in hybrid battery technology with other automakers; Nissan to drop Cube and Murano convertible for 2015.,neutral,0.17381516098976135
+2014-07-16,Wheelies: The Green Growth Edition,neutral,0.10717754065990448
+2014-07-17,Ford announces specifications for the 2015 Mustang; Tesla announces the 2017 Model III.,neutral,0.048188865184783936
+2014-07-17,Wheelies: The Mustang Numbers Edition,neutral,0.04060879349708557
+2014-07-22,"Nick Scheele, a former Ford president, dies at 70; Cadillac may offer a high-performance Vsport version of its Escalade S.U.V.",neutral,-0.00640532374382019
+2014-07-22,"Wheelies: The Farewell, Mr. Scheele Edition",neutral,0.04824204742908478
+2014-07-24,Toyota announces details and pricing for its all-new 2015 Yaris; G.M.,neutral,0.16860103607177734
+2014-07-24,may invest $800 million into facilities in Michigan.,neutral,0.0648311972618103
+2014-07-24,Wheelies: The New-Look Yaris Edition,neutral,0.07671437412500381
+2014-07-30,"The Mini Cooper Countryman pulled in top ratings; the Fiat 500L, Mazda 5, Nissan Juke and Nissan Leaf received low scores.",negative,-0.49584054946899414
+2014-07-30,Insurance Institute for Highway Safety Crash Tests More Small Cars,neutral,-0.2450556755065918
+2014-07-31,G.M.,neutral,0.048085395246744156
+2014-07-31,"says that it removes parts when calculating pickup truck payload capacity; Chrysler recalls 30,000 Fiat 500Ls.",negative,-0.8435808420181274
+2014-07-31,Wheelies: The Payload Policy Edition,neutral,0.040864430367946625
+2014-08-01,"Nissan releases video ads starring Bret Michaels, the frontman from Poison; Fiat-Chrysler merger is approved by shareholders.",neutral,0.3879539966583252
+2014-08-01,Wheelies: The Pick Your Poison Edition,neutral,0.04831207916140556
+2014-08-05,"Subaru recalls 5,000 more vehicles with Takata-built air bags; Toyota retires its historic “andon cord” quality control device.",negative,-0.898440420627594
+2014-08-05,"Wheelies: The Takata, Continued Edition",neutral,0.07217148691415787
+2014-08-13,Bentley to introduce the Continental GT3-R in the United States at Pebble Beach; Truecar stock price soars.,positive,0.5686379671096802
+2014-08-13,Wheelies: The 99 Continental GT3-Rs Edition,neutral,0.0012295488268136978
+2014-08-14,Pope Francis greets people in South Korea from the back seat of a Kia Soul; Ford announces a seamless sliding rear window for the new F-150.,neutral,0.4361385107040405
+2014-08-14,Wheelies: The Papal Soul Edition,neutral,0.06044882908463478
+2014-08-16,"Automakers introduced a variety of interesting high-end cars: some old and some new, but all exquisite.",neutral,0.08726638555526733
+2014-08-16,"At Pebble Beach, Judged Show Cars Aren’t the Only Stars",neutral,-0.03603130578994751
+2014-08-27,"Dollie Cole, outspoken widow of a former G.M.",neutral,-0.3866797983646393
+2014-08-27,"chief, dies; former Porsche executives are ordered to stand trial for market manipulation.",negative,-0.7685350775718689
+2014-08-27,"Wheelies: The Goodbye, Dollie!",neutral,0.012709252536296844
+2014-08-27,Edition,neutral,0.020666293799877167
+2014-09-03,"General Motors’ sales streak came to an end with a 1 percent decline in August, but Chrysler sales jumped 20 percent; Ford sales were flat.",negative,-0.9248350858688354
+2014-09-03,August Sales Fall for G.M.,negative,-0.9636402130126953
+2014-09-03,as Trucks Lift Chrysler,neutral,-0.08296853303909302
+2014-09-04,G.M.,neutral,0.048085395246744156
+2014-09-04,says its Chevrolet Colorado and GMC Canyon midsize pickups will get 26 m.p.g.,neutral,0.1767253577709198
+2014-09-04,"on the highway; the price of the 2015 Toyota Sienna is $1,680 more than the 2014 model.",neutral,0.13716517388820648
+2014-09-04,Wheelies: The Thrifty G.M.,neutral,0.03899594396352768
+2014-09-04,Pickups Edition,neutral,0.05001124367117882
+2014-09-10,Volkswagen closes its plant in Russia for 10 days as sales there flag; BMW announces pricing for its 2 Series convertible.,negative,-0.8603264689445496
+2014-09-10,Wheelies: The Russian Shutdown Edition,neutral,-0.21627971529960632
+2014-09-11,Chrysler says it will introduce the Jeep Renegade this month; Sergio Marchionne announces plans to expand Ferrari production.,positive,0.8381931781768799
+2014-09-11,Wheelies: The Renegade Ready Edition,neutral,0.07903832197189331
+2014-09-15,"An investigation by The New York Times has found that the National Highway Traffic Safety Administration frequently has been slow to identify problems, tentative to act and reluctant to employ its full legal powers against companies.",negative,-0.8989624381065369
+2014-09-15,Regulator Slow to Respond to Deadly Vehicle Defects,negative,-0.6804930567741394
+2014-09-18,A new Porsche Museum exhibit displays concept cars and prototypes over the decades; the Toyota Tundra will go all-V8 for 2015.,neutral,0.10346043854951859
+2014-09-18,Wheelies: The Top Secret Edition,neutral,0.039809223264455795
+2014-09-23,General Motors and American Honda said they were cracking down on vendors that failed to meet company standards; Toyota announces plans to build aluminum hoods for the Camry.,negative,-0.6910185217857361
+2014-09-23,Wheelies: The Quality Control Edition,neutral,0.03872785344719887
+2014-09-25,Ford unveils a police concept version of its Transit van; North American Car and Truck of the Year semifinalists are announced.,positive,0.5714400410652161
+2014-09-25,Wheelies: The Police Wagon Edition,neutral,0.02219586819410324
+2014-09-29,The 2005-11 model years may have a corrosion problem that could lead to fuel leaks.,negative,-0.922069787979126
+2014-09-29,"Harley-Davidson, Yamaha and Volkswagen also issued recalls.",negative,-0.8091062903404236
+2014-09-29,"Toyota Recalls 790,000 Tacoma Pickups",negative,-0.930466890335083
+2014-09-30,Chrysler says it will double production of the Ram 1500 EcoDiesel pickup; Cadillac’s chief says production may decline to combat swollen inventory.,negative,-0.6658562421798706
+2014-09-30,Wheelies: The Diesel Ram Edition,neutral,0.03360205143690109
+2014-10-11,A Toyota affiliate lauds two of the three Japanese scientists who won the Nobel Prize for Physics; Cadillac’s chief talks about the brand’s product blitz.,neutral,-0.1431656777858734
+2014-10-11,Wheelies: The Blue Light Special Edition,neutral,0.06750234216451645
+2014-10-16,"The automaker says an improperly prepared gasket surface could cause fuel leaks and, potentially, fires.",negative,-0.9362792372703552
+2014-10-16,"Lexus Recalls 423,000 Cars in the U.S.",negative,-0.9527803063392639
+2014-10-17,Pope Francis allows the Porsche Travel Club to host a private event in the Sistine Chapel; LeBron James becomes a spokesman for the Kia K900 flagship sedan.,neutral,0.1439330130815506
+2014-10-17,Wheelies: The Holy Porsche Party Edition,neutral,0.06017249450087547
+2014-10-20,Brad Keselowski was among the eight who will compete in the next round of Nascar’s season-ending playoff; Valentino Rossi won the MotoGP race in Australia.,neutral,0.05774340033531189
+2014-10-20,Monday Motorsports: Keselowski Wins at Talladega,neutral,-0.20318524539470673
+2014-10-21,"A National Highway Traffic Safety Administration site that allows drivers to look up a car by vehicle identification number was not responding, and calls were put on hold.",negative,-0.8390174508094788
+2014-10-21,Few Answers After an Alert on Takata Airbags,negative,-0.3919389843940735
+2014-10-23,The E.P.A.,neutral,0.016611119732260704
+2014-10-23,orders BMW to reduce fuel economy ratings on four Mini models; Scion announces a new concept car for the Los Angeles auto show.,negative,-0.8891721367835999
+2014-10-23,Wheelies: The Mini Adjustment Edition,neutral,0.04693678021430969
+2014-10-25,"Rubicon Global, a waste consultant, finds a lucrative niche in helping its business clients cut their hauling costs, and to recycle whatever they can.",neutral,0.2194666564464569
+2014-10-25,Dividing and Conquering the Trash,neutral,0.053187333047389984
+2014-10-29,Ford announces technology that allows police departments to monitor the driving behavior of their officers; Twitter ads account for $716 million in auto sales.,positive,0.7125268578529358
+2014-10-29,Wheelies: The Watching the Watchers Edition,neutral,0.03628716990351677
+2014-11-04,"Event organizers expect 2,500 automotive aftermarket equipment manufacturers to present products to 60,000 wholesale buyers.",neutral,0.04782445356249809
+2014-11-04,2014 SEMA Show Opens in Las Vegas,neutral,0.11055462062358856
+2014-11-05,"The Japanese automaker, helped by rising sales and a weak yen, is forecasting a record profit for the year.",positive,0.6549082398414612
+2014-11-05,Toyota’s Quarterly Profit Jumps,neutral,-0.1527264267206192
+2014-11-06,"With displays from most major automakers and thousands of aftermarket suppliers, SEMA serves as a bellwether of customization trends.",neutral,0.18088552355766296
+2014-11-06,2014 SEMA Show Tracks Industry Trends,neutral,-0.0012451447546482086
+2014-11-11,Honda releases an interactive ad for the sporty Civic R; Ford begins production of the new F-150 pickup truck.,neutral,0.1262291818857193
+2014-11-11,Wheelies: The Duality of Honda Edition,neutral,0.04211689531803131
+2014-11-17,VW is recalling some 2015 Jettas and Passats for a seat defect; N.H.T.S.A.,neutral,0.013626618310809135
+2014-11-17,is investigating Honda and Infiniti for steering problems.,negative,-0.9203583598136902
+2014-11-17,"Volkswagen Recalls 400 Cars, and N.H.T.S.A.",negative,-0.9126147627830505
+2014-11-17,Investigates Honda and Infiniti,neutral,-0.012400966137647629
+2014-11-18,"Ford recalls 65,000 Fusion sedans for a software problem that can cause roll-aways; Consumer Reports issues a warning about counterfeit Chinese tires.",negative,-0.9531635046005249
+2014-11-18,Wheelies: The Runaway Fusion Edition,neutral,0.022136058658361435
+2014-11-20,The company has had a less than fruitful relationship with convertibles in the past.,neutral,0.05499175190925598
+2014-11-20,"The Lexus LF-C2 Concept: Topless, Not Convertible",neutral,-0.0003883354365825653
+2014-11-27,"The Japanese automaker and its minicar subsidiary, Daihatsu, said they were recalling a total of about 85,000 vehicles, all outside the United States.",neutral,-0.030061356723308563
+2014-11-27,Toyota Widens Recall of Cars With Takata Airbags,positive,0.3778543472290039
+2014-11-28,"An order from the Transportation Ministry on driver’s-side airbags would lead to the recall of an additional 200,000 vehicles in Japan, the transportation minister said.",positive,0.0322130024433136
+2014-11-28,Japan to Ask Automakers to Recall Vehicles With Faulty Takata Airbags,negative,-0.8156238198280334
+2014-12-16,A Times examination of actions by major United States automakers found different standards for recalls of substantially similar vehicles.,neutral,-0.20061372220516205
+2014-12-16,Recalls of Cars Abroad Prompt No Urgency in U.S.,negative,-0.5465691089630127
+2014-12-17,"Burt Reynolds’s 1977 Pontiac Trans Am sells for $450,000; a report says Toyota officials called for a last-minute redesign of the new Prius.",neutral,-0.20761287212371826
+2014-12-17,Wheelies: The Bandit Gone Edition,neutral,-0.0048696547746658325
+2015-01-05,"Fiat Chrysler and General Motors reported strong gains for December and for 2014, but Ford’s sales were weak.",negative,-0.9621909856796265
+2015-01-05,"2014 Auto Sales Jump in U.S., Even With Recalls",positive,0.7185485363006592
+2015-01-13,"Japanese pickup makers are seeking a larger market share in the growing American truck market, with redesigned models and more powerful engines.",positive,0.8292083144187927
+2015-01-13,"As Truck Sales Surge in U.S., Toyota and Nissan Unveil Upgrades",positive,0.5813497304916382
+2015-01-19,"Many cars in this segment now offer luxuries like keyless ignition, rear-view cameras and heated leather seats.",neutral,0.09042824804782867
+2015-01-19,Don’t look for them in the Yaris.,neutral,-0.15715079009532928
+2015-01-19,Video Review: The 2015 Yaris Is Toyota’s Bare-Bones Budget Car,neutral,0.04395173490047455
+2015-01-28,"The carmaker’s actions, which cover 640,000 vehicles, came on the same day as smaller recalls by Toyota and Ford.",negative,-0.6415898203849792
+2015-01-28,Faulty Hood and Fire Hazard Lead to Twin Recalls for Nissan,negative,-0.9507119059562683
+2015-01-31,"Toyota, Chrysler and Honda previously recalled the 2.1 million cars, but the fix administered was not effective, United States officials said.",negative,-0.8841214179992676
+2015-01-31,"Cars With Faulty Airbags Are Recalled Second Time, but Fix May Take a Year",negative,-0.867597758769989
+2015-02-02,"Chrysler will recall more than 228,000 vehicles because their airbags could unexpectedly inflate without a crash.",negative,-0.9413012862205505
+2015-02-02,Jeep Cherokees to Be Recalled to Upgrade Airbag Software,negative,-0.7330614328384399
+2015-02-03,The broad gains — which included double-digit increases by several automakers — came in a month that is traditionally slow for American dealerships.,positive,0.8922621011734009
+2015-02-03,"Auto Sales Stayed Strong in January, Bucking Trend for Month",positive,0.8958953619003296
+2015-02-04,"The carmaker is closing in on its most profitable year ever, with earnings in the first nine months up 13 percent from the same period last year.",positive,0.9301776885986328
+2015-02-04,Toyota Profit Gets Lift From U.S. Market and Favorable Exchange Rates,positive,0.8494817614555359
+2015-03-03,"Ford fared poorest among the major automakers, with most of the company’s lineup taking a hit.",negative,-0.9557023644447327
+2015-03-03,"The Fiesta, Focus and Taurus all fell by double digits.",negative,-0.9558826088905334
+2015-03-03,Harsh Winter Weather Bit Into U.S. Auto Sales in February,negative,-0.9572279453277588
+2015-03-04,"A Frenchman is named to the highest rank for a non-Japanese in the automaker’s history, and the company appointed its first woman and first African-American as senior executives.",positive,0.4994388222694397
+2015-03-04,More Foreigners Move to Top Ranks at Toyota,neutral,0.3685539662837982
+2015-03-18,Pay increases at companies like Toyota and Panasonic are modest but represent a step forward for the prime minister’s economic revival program.,positive,0.8207592368125916
+2015-03-18,Japan’s Businesses Respond to Abe’s Push for Higher Wages,positive,0.7504364848136902
+2015-04-01,"Ford, General Motors and Honda, among others, ended March in losing territory.",negative,-0.9447179436683655
+2015-04-01,Fiat Chrysler and Toyota posted modest gains.,positive,0.5011078119277954
+2015-04-01,Auto Sales Slow After Months of Healthy Growth,negative,-0.9573712944984436
+2015-04-16,"While hydrogen-powered cars failed to gain traction in the past, they now are supported by increasingly strict California mandates.",neutral,0.3900086581707001
+2015-04-16,Hydrogen Fuel Cell Cars Return for Another Run,neutral,0.22962552309036255
+2015-04-22,"When it comes to hybrids, Toyota owns the market with the Prius, but the Volkswagen is an alternative for those looking for more performance.",neutral,0.050664812326431274
+2015-04-22,Video Review: The VW Jetta Hybrid Offers Fuel-Efficient Fun,positive,0.6418671011924744
+2015-04-29,Earnings at the second-largest automaker in the world after Toyota remained dependent on the high-end Audi and Porsche brands.,negative,-0.9452608823776245
+2015-04-29,Volkswagen’s Net Profit Rises 19% Amid Recovery in Western Europe’s Car Market,positive,0.8893262147903442
+2015-05-13,The recalls included more recent models than the companies had previously said needed fixing.,neutral,-0.2728330194950104
+2015-05-13,Toyota and Nissan Recall 6.5 Million More Vehicles Over Takata Airbags,negative,-0.9398993849754333
+2015-05-14,"The Japanese carmaker’s move, which it said was “precautionary,” comes a day after Toyota and Nissan recalled millions of cars over inflater issues.",negative,-0.8772799968719482
+2015-05-14,Honda Recalls Nearly 5 Million Vehicles With Takata Airbags,negative,-0.45662572979927063
+2015-05-22,"As the investigation draws to a close, prosecutors are said to be negotiating a penalty that is likely to eclipse the $1.2 billion paid last year by Toyota.",negative,-0.8763707280158997
+2015-05-22,G.M.,neutral,0.048085395246744156
+2015-05-22,Inquiry Said to Find Criminal Wrongdoing,negative,-0.6424773335456848
+2015-05-25,"American airport officials know the ride-hailing phenomenon will not recede, and they are rewriting regulations to welcome all manner of cars.",neutral,0.13474231958389282
+2015-05-25,Uber Closes In on Its Last Frontier: Airports,neutral,-0.010963410139083862
+2015-06-18,"While the auto industry over all improved by 3 percent in initial quality, South Korean automakers improved by 11 percent, the J.D.",positive,0.9291181564331055
+2015-06-18,Power study showed.,neutral,0.0765773206949234
+2015-06-18,Kia and Hyundai Show Improvement in J.D.,positive,0.9136152267456055
+2015-06-18,Power Quality Study,neutral,0.07254645228385925
+2015-06-19,"After Julie Hamp was arrested on charges of illegally bringing a restricted painkiller into Japan, the company is defending its hiring initiative.",negative,-0.7557812333106995
+2015-06-19,Toyota Defends Diversity Hiring After American Is Arrested,negative,-0.7121546268463135
+2015-07-01,Julie Hamp had been only recently promoted as part of an effort to introduce more diversity into the Japanese automaker’s executive suite.,neutral,0.3186061680316925
+2015-07-01,Jailed American Executive Resigns From Toyota,negative,-0.7973772883415222
+2015-07-02,"Mercedes-Benz, BMW and Audi are winning with critically acclaimed models, technical innovation and sales — and their ambitions are only growing.",positive,0.8047036528587341
+2015-07-02,German Luxury Car Brands Dominate and Look to Extend Their Lead,positive,0.8003093004226685
+2015-08-26,"With an upgraded structure, a reduction in noise and more, the 2016 model is a far better truck than the one it replaces.",positive,0.9131632447242737
+2015-08-26,"Video Review: Toyota Tacoma Adds Machismo, but Retains Its Reliability",positive,0.27568167448043823
+2015-09-04,The carmaker will collaborate with Stanford and M.I.T.,neutral,0.4111815094947815
+2015-09-04,to focus on using advances in artificial intelligence technologies to make humans better drivers as opposed to developing self-driving vehicles.,neutral,0.10928617417812347
+2015-09-04,Toyota to Finance $50 Million ‘Intelligent’ Car Project,neutral,0.12108591198921204
+2015-09-06,"This week, China will report on its economy, Puerto Rico may strike a deal to restructure its debt, and Stephen Colbert will start on CBS’s “The Late Show.”",neutral,0.0746040791273117
+2015-09-06,"Apple Unveils New Products, and Stephen Colbert Returns to Late Night",neutral,0.12642347812652588
+2015-09-10,"The new Toyota Prius is longer and sleeker than the current egg-shaped model, and it comes with striking new headlamps and a prominent rear spoiler.",positive,0.6057957410812378
+2015-09-10,Toyota Fashions a Bolder Image for the Practical Prius,positive,0.5188729763031006
+2015-09-22,"The midsize crossover category has gotten smaller with the discontinuation of the Honda Crosstour and Toyota Venza, but the new Edge remains a strong entry.",positive,0.8137402534484863
+2015-09-22,Video Review: The Ford Edge Adds a Touch of Luxury,positive,0.6741798520088196
+2015-09-26,Volkswagen’s unbridled ambition — aiming to triple sales in a decade and overtake top carmaker Toyota — is central to what is shaping up to be one of the great corporate scandals of the age.,neutral,-0.29747825860977173
+2015-09-26,As Volkswagen Pushed to Be No.,positive,0.5869773626327515
+2015-09-26,"1, Ambitions Fueled a Scandal",neutral,-0.12195155769586563
+2015-10-07,"This sport utility vehicle has many advantages, including a third row, but at almost $50,000, it’s an expensive way to save gas.",neutral,0.10443122684955597
+2015-10-07,Video Review: Toyota Highlander Hybrid Offers Room and Fuel Economy,positive,0.7364097833633423
+2015-10-21,The recall is one of the largest single recalls initiated by the company and brings the number of vehicles affected by the problem to 14 million.,negative,-0.5903065800666809
+2015-10-21,Toyota to Recall 6.5 Million Vehicles to Fix Window Switches,negative,-0.9236769676208496
+2015-10-22,"This slow-motion footage, courtesy of the National Highway Traffic Safety Administration, shows a test of a Takata airbag.",neutral,0.029732614755630493
+2015-10-22,"During the test, the airbag inflater ruptures, sending metal fragments flying.",negative,-0.9066538214683533
+2015-10-22,Takata Airbag Malfunction,negative,-0.8315699100494385
+2015-10-26,"Toyota published figures on Monday that showed it selling more vehicles than Volkswagen in the first nine months of 2015, retaking its position as the world’s biggest automaker.",positive,0.8546662926673889
+2015-10-26,"Even Before Diesel Scandal Bites, VW Loses Its Sales Crown",negative,-0.9560204744338989
+2015-10-29,"Technology is helping service departments move into the connected age, employing tools that increase efficiencies and help the consumer feel better about the process.",positive,0.7673453688621521
+2015-10-29,"Car Repairs a Click Away, Without the Fuss and Bother",neutral,-0.17671391367912292
+2015-11-06,"Interest and investment in artificial intelligence is back with a vengeance in Silicon Valley, attracting companies such as Toyota to make big bets in the space.",positive,0.8116311430931091
+2015-11-06,Daily Report: A $1 Billion Bet on Artificial Intelligence in Silicon Valley,neutral,0.040270932018756866
+2015-11-11,"The images of wealth and luxury seen in TV commercials are aimed mostly at those who aspire to wealthy lifestyles, not those who actually enjoy them.",neutral,-0.006200671195983887
+2015-11-11,"To Reach the Truly Rich, Television Ads Won’t Do",neutral,-0.21186508238315582
+2015-11-12,"Starting the new Lexus plant in Georgetown, Ky., meant introducing autoworkers to the brand’s methods, some of which call for a quiet assembly line.",neutral,0.35401272773742676
+2015-11-12,"With a Hush, an American Lexus Plant Goes to Work",neutral,0.022231891751289368
+2015-11-25,The decision to replace inflaters in Takata airbags previously judged to be safe adds 1.6 million vehicles to the world’s biggest auto safety recall.,negative,-0.8045440316200256
+2015-11-25,Toyota Expands Airbag Recall in Japan,negative,-0.46551793813705444
+2015-11-27,"More than 19 million vehicles have already been recalled, and millions more could be affected in the next few years.",negative,-0.9337856769561768
+2015-11-27,Navigating the Takata Airbag Recall,neutral,0.07321740686893463
+2015-12-01,Volkswagen said the impact of a widening emissions scandal caused its sales to fall nearly 25 percent during November.,negative,-0.9673030376434326
+2015-12-01,While U.S.,negative,-0.7936334609985352
+2015-12-01,"Car Sales Jump, VW’s Plunge",negative,-0.6220688223838806
+2015-12-03,"At an event in San Francisco, entrepreneurs pitched their ideas for Toyota’s three-wheeled i-Road.",neutral,0.2563154995441437
+2015-12-03,Toyota Asks for Ideas About How to Use an Ultrasmall Vehicle,neutral,0.06321544200181961
+2015-12-31,The dominance of the three Detroit giants has slipped and foreign brands like Toyota and Kia have filled the gap.,negative,-0.9538622498512268
+2015-12-31,Auto Industry Sales Explode in an Ever-Changing Market,negative,-0.45913368463516235
+2016-01-06,"The auto industry reported that 17.5 million vehicles were sold in the United States last year, surpassing the previous high of 17.4 million in 2000.",positive,0.8812285661697388
+2016-01-06,Pickups and S.U.V.s Lead Way to a Record Year for Automakers,positive,0.8208684325218201
+2016-02-01,"Volkswagen Financial Services, the company’s in-house bank, has been an important element in VW’s rise to become the No.",positive,0.5200821757316589
+2016-02-01,2 carmaker in the world after Toyota.,positive,0.47840431332588196
+2016-02-01,Volkswagen Bank Profits May Be Endangered by Diesel Scandal,negative,-0.9069840908050537
+2016-02-11,Its 5-liter V8 provides plenty of oomph and growl.,neutral,0.09560760855674744
+2016-02-11,To find 467 horsepower and 389 pound-feet of torque under the hood of a Lexus is heartening.,positive,0.582326352596283
+2016-02-11,"Video Review: With the RC F, Lexus Abandons Its Beige Image",neutral,-0.13188232481479645
+2016-02-18,"In a severe frontal crash, Toyota said, metal seat-cushion frames could slice through the belts, leaving passengers unrestrained.",negative,-0.900514543056488
+2016-02-18,Toyota Recalls Nearly 3 Million RAV4s Over Seatbelt Separation,negative,-0.928896427154541
+2016-03-03,"Toyota is recalling 198,000 more vehicles because the airbag inflater produced by Takata could rupture.",negative,-0.9494035840034485
+2016-03-03,"Toyota Adds 331,000 Vehicles to Takata Airbag Recall",positive,0.5719549655914307
+2016-03-17,The RX created the luxury crossover market and has become the brand’s best seller.,positive,0.789470911026001
+2016-03-17,"While previous models were genteel, the new design is bold and angular.",positive,0.5220854878425598
+2016-03-17,Video Review: Lexus Adds a Few Twists to the New RX350,neutral,0.2933204770088196
+2016-04-01,"Kia, BMW and Nissan have encouraged dealers to buy cars, raising sales, then offer the virtually new vehicles as used models, company memos show.",neutral,0.44572147727012634
+2016-04-01,A Dance Between Dealer and Carmaker on Lifting Sales,neutral,-0.0017898008227348328
+2016-05-24,Companies like Toyota and Volkswagen are supporting the tech companies working to change the way people travel by car.,neutral,0.30351582169532776
+2016-05-24,"Automakers Befriend Start-Ups Like Uber, Girding Against a Changing Car Culture",neutral,0.2752310037612915
+2016-06-01,"New models from Toyota, Volkswagen, Fiat Chrysler and Mitsubishi are still being fitted with defective airbags and will need to be eventually recalled.",negative,-0.9387110471725464
+2016-06-01,Automakers Still Selling Cars With Defective Takata Airbags,neutral,-0.03299715369939804
+2016-06-10,The automaker also told dealers to tell potential buyers about defective airbags.,negative,-0.5766366124153137
+2016-06-10,Toyota Names Vehicles That Still Have Faulty Airbags,negative,-0.554370641708374
+2016-06-23,"The Toyota RAV4 got a “poor” passenger-side rating, and the Subaru Forester and Nissan Rogue only “marginal,” in crash tests conducted by a safety group.",negative,-0.8162975907325745
+2016-06-23,Risks Higher for Front-Seat Passengers in Some S.U.V.,negative,-0.9259953498840332
+2016-06-23,"Crashes, Tests Show",neutral,-0.14046336710453033
+2016-06-29,"The airbags, supplied by Autoliv, have not caused any known injuries.",negative,-0.7771769165992737
+2016-06-29,But the defect sounded similar to one that led to the recall of millions of cars worldwide with Takata airbags.,negative,-0.70694500207901
+2016-06-29,Toyota Recalls 1.4 Million Vehicles as 2nd Major Airbag Maker Is Under Scrutiny,negative,-0.9552006721496582
+2016-07-14,"Citing limits to an aging American standard for automobile headlamps, insurers are pushing carmakers to do more to help drivers see in the dark.",neutral,0.24557125568389893
+2016-07-14,Road Seems Dark to You?,neutral,-0.36347007751464844
+2016-07-14,New Tests Blame Your Headlights,negative,-0.4230771064758301
+2016-07-21,"In California, state subsidies for hydrogen filling stations are encouraging clean-energy advocates to try fuel-cell vehicles.",positive,0.8218308687210083
+2016-07-21,Water Out of the Tailpipe: A New Class of Electric Car Gains Traction,neutral,0.2646017074584961
+2016-08-04,"The fuel economy of the new fourth-generation Prius is better than the departing model, and a new multilink rear suspension upgrades the ride quality.",positive,0.9276512861251831
+2016-08-04,Video Review: Decent Handling in a Toyota Prius?,positive,0.44444310665130615
+2016-08-04,"Yes, the New One",neutral,0.11839128285646439
+2016-09-01,"Pent-up demand from the recession may have finally run its course, as August sales fell by 4 percent from a year earlier.",negative,-0.9698195457458496
+2016-09-01,Big Decline in U.S. Auto Sales May Signal End of Six-Year Boom,negative,-0.9190413951873779
+2016-09-22,"After the Volkswagen cheating scandal, automakers place an emphasis on gas, electric and hybrid cars.",neutral,0.07282748818397522
+2016-09-22,"In a Switch for Paris Show, Automakers Turn From Diesel",negative,-0.5200618505477905
+2016-10-12,The Japanese car manufacturers were vague about what might happen but said that they were discussing a wide-ranging business partnership.,neutral,0.06653989851474762
+2016-10-12,Toyota and Suzuki Say They Are Considering an Alliance,neutral,0.06908473372459412
+2016-10-27,"The Fusion may not be as miserly on gasoline as the Toyota Prius, but the Ford has the handsome chiseled lines that many hybrids lack.",neutral,0.14530275762081146
+2016-10-27,Video Review: Ford Fusion Hybrid Combines Savings and Style,positive,0.730066180229187
+2016-11-10,Automakers are using sensors and audio systems to diminish engine noise — or enhance it — for the driver and passengers.,neutral,0.08755160123109818
+2016-11-10,Giving Today’s Car a Well-Tuned Interior,positive,0.5706497430801392
+2016-11-18,"The move is rare for an automaker so heavily controlled by unionized workers, but it is unlikely to close the company’s productivity gap with Toyota.",negative,-0.18800795078277588
+2016-11-18,"Volkswagen to Cut 23,000 German Jobs in Bid to Lift Profit",negative,-0.9396942853927612
+2016-12-08,"After becoming an efficient industry with deep links to the Continent, it must grapple with the impact of the country’s vote to leave the European Union.",neutral,0.3652353286743164
+2016-12-08,"Tied to Europe, Britain’s Car Industry Is Vulnerable After ‘Brexit’",negative,-0.9156245589256287
+2016-12-15,The Rogue Hybrid offers an even more fuel-efficient version of a compact sport utility vehicle that was already stingy with a gallon of gas.,positive,0.7633842825889587
+2016-12-15,Video Review: Nissan’s Rogue Joins the Toyota RAV4’s Hybrid S.U.V.,neutral,0.33172351121902466
+2016-12-15,Club,neutral,0.042884886264801025
+2016-12-21,"In the early 1980s, Toyota transformed one of the world’s worst auto plants into one of the best, using the exact same workers.",positive,0.6245576739311218
+2016-12-21,"In the second installment of The Art of Better series, Charles Duhigg sheds light on the importance of entrusting workers with responsibility and authority.",neutral,0.0612390860915184
+2016-12-21,We Trust You,neutral,0.4188980460166931

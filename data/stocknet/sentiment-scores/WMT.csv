@@ -1,0 +1,307 @@
+Date,Sentence,Prediction,sentimentScore
+2014-01-13,"As loyalty programs become more important for retailers, GE Capital Retail Bank will offer a product to help them track customers across online platforms and payment methods.",neutral,0.306931734085083
+2014-01-13,GE Capital to Help Set Up Loyalty Programs for Retailers,neutral,0.21215492486953735
+2014-01-16,A complaint filed by the National Labor Relations Board says employees in several states were disciplined or fired after striking for better pay.,negative,-0.9522877931594849
+2014-01-16,Walmart Is Facing Claims That It Fired Protesters,negative,-0.8974857926368713
+2014-01-23,The retailer will award grants for new production processes as it pushes for more American-made products.,positive,0.8485091328620911
+2014-01-23,Walmart Fund to Support U.S. Manufacturing,neutral,0.19509387016296387
+2014-01-24,Walmart wants to encourage U.S. manufacturing.,positive,0.6017583608627319
+2014-01-24,Legal marijuana businesses may be able to use banks.,neutral,0.038245297968387604
+2014-01-24,And how to save money on car rentals.,neutral,0.05118577182292938
+2014-01-24,Today in Small Business: Clam Diggers and Worm Harvesters,neutral,0.010237257927656174
+2014-01-25,The layoffs will affect a combination of salaried assistant managers and hourly employees.,negative,-0.8954264521598816
+2014-01-25,"Walmart Will Lay Off 2,300 Sam’s Club Workers",negative,-0.9455998539924622
+2014-01-29,"Barclays is preparing to eliminate up to 400 jobs in its investment bank as part of its restructuring effort, according to a person familiar with the matter.",negative,-0.9493065476417542
+2014-01-29,The bank is trying to reduce its annual costs by 1.7 billion pounds by 2015.,positive,0.6451791524887085
+2014-01-29,Barclays to Cut Up to 400 Jobs in Its Investment Bank to Trim Costs,negative,-0.9455775022506714
+2014-01-31,The giant retailer said winter storms and cuts in food stamps would affect its bottom line when it reports earnings in February.,negative,-0.9408915042877197
+2014-01-31,Walmart Trims Its Profit Forecast for the 4th Quarter,negative,-0.9546799063682556
+2014-02-20,The company reported a 21 percent drop in fourth-quarter earnings.,negative,-0.9651501178741455
+2014-02-20,"Profits Fall for Walmart and Nordstrom, and They Forecast Weakness Ahead",negative,-0.968813955783844
+2014-02-24,"Unnervingly blue eyes in an ad, and Walmart’s choice of a song is questioned.",negative,-0.7176316976547241
+2014-02-24,Q. and A.,neutral,0.0380171574652195
+2014-02-24,With Stuart Elliott,neutral,0.02111242711544037
+2014-03-07,Cerberus will realize a lot of cost savings by combining Safeway with its Albertsons chain.,positive,0.8521756529808044
+2014-03-07,"But competition from the likes of Walmart means cost savings may need to go to shoppers, not investors, writes Robert Cyran in Reuters Breakingviews.",positive,0.8167247176170349
+2014-03-07,Safeway Customers May Be Big Winners With Cerberus,neutral,0.3254651129245758
+2014-03-17,More than two dozen attorneys general encouraged five of the country’s largest retailers to follow the example of CVS and stop selling tobacco products in stores that also have pharmacies.,neutral,0.10161279141902924
+2014-03-17,States Urge Retail Giants With Pharmacies to Stop Selling Tobacco Products,negative,-0.5698288679122925
+2014-03-18,"The retailing giant is expected to announce that on March 26 it will begin allowing customers to convert their old games into credits in over 3,100 Walmart stores nationwide.",positive,0.5128555297851562
+2014-03-18,Walmart to Offer Customers Credit for Used Video Games,neutral,0.12690643966197968
+2014-03-20,"Walmart is waging an aggressive campaign for outdoor and garden business this spring for the first time, offering “Black Friday-like prices” on more than 60 items.",positive,0.5913246870040894
+2014-03-20,Walmart’s New Push for Outdoor Sales,neutral,0.35712528228759766
+2014-03-21,"On Friday, Walmart and Best Buy began offering a bundle of Microsoft’s Xbox One and Titanfall, a high-profile science fiction shooter game, for $450, a $50 price cut on the bundle.",positive,0.3546324670314789
+2014-03-21,Another Price Cut for the Xbox One,negative,-0.3068786859512329
+2014-03-28,"Sixteen companies have contributed to the Rana Plaza Donors Trust Fund, which aims to pay lost wages and medical bills for the victims of a garment factory collapse last year.",neutral,0.2939128875732422
+2014-03-28,3 Retailers Give Aid to Bangladesh Workers,neutral,0.3858785629272461
+2014-04-03,"The Walmart division says the survey, done with Gallup, will be the first of a quarterly series on the nation’s smallest businesses.",neutral,-0.12011554092168808
+2014-04-03,Sam’s Club Releases Survey on ‘Microbusinesses’,neutral,0.05379399284720421
+2014-04-10,The retail giant will carry Wild Oats products that will undercut brand-name organic competitors by at least 25 percent.,positive,0.8136528134346008
+2014-04-10,"Walmart to Sell Organic Food, Undercutting Big Brands",positive,0.112643301486969
+2014-04-15,"Not all criminal investigations of a company are alike, and there are telltale signs about how serious a threat one may present, writes Peter J. Henning in the White Collar Watch column.",neutral,-0.20615890622138977
+2014-04-15,Not All Investigations Are Alike,neutral,-0.027776148170232773
+2014-04-17,"Fees for the service will be $4.50 for up to $50 transferred and $9.50 for amounts above that, up to $900.",neutral,0.01616711914539337
+2014-04-17,Walmart Will Enter Cash Wiring Business,neutral,0.019022516906261444
+2014-04-25,"A group of dedicated farmworkers enlisted companies like McDonald’s, Walmart and Yum Brands to press tomato growers for better conditions.",positive,0.5772454738616943
+2014-04-25,"In Florida Tomato Fields, a Penny Buys Progress",neutral,0.03789263963699341
+2014-04-30,Walmart is teaming with AutoInsurance.com to allow consumers in eight states to review prices at several insurance companies.,positive,0.8032743334770203
+2014-04-30,Insurance Site and Walmart in Deal to Sell Auto Policies,neutral,0.025913819670677185
+2014-05-10,"In a rough year for many of its shoppers, adjusted financial results meant higher incentive pay for some of its executives.",positive,0.19901132583618164
+2014-05-10,Making Ends Meet at Walmart,neutral,-0.03922674059867859
+2014-05-15,"The bad weather was blamed for a difficult first quarter, but retailers’ earnings also reflected their own shopping constituencies, with higher-end chains doing better than those serving middle- and lower-income shoppers.",positive,0.6772198677062988
+2014-05-15,Retailers Feel Economy’s Effects on Their Shoppers,negative,-0.6735042333602905
+2014-05-16,"The city of Portland, Ore., said it had started divesting itself of holdings in the retail store because of its labor practices.",negative,-0.8712096810340881
+2014-05-16,"Portland, Ore., Sheds Its Walmart Bonds",negative,-0.9544399380683899
+2014-06-04,At least eight senior executives have left the giant retailer since reports of bribery in its international division surfaced two years ago.,negative,-0.8927071690559387
+2014-06-04,"After Bribery Scandal, High-Level Departures at Walmart",negative,-0.7326986193656921
+2014-06-06,"Mr. McMillon, 47, who started at the company at age 17, made an appearance at Walmart’s shareholders’ meeting on Friday.",neutral,0.028256453573703766
+2014-06-06, Walmart’s New C.E.O.,neutral,0.0663657933473587
+2014-06-06,Stresses Technology to Improve Customer Service,neutral,0.4822496473789215
+2014-06-09,"On the Arkansas side of Texarkana, the poor gained access to Medicaid because of the Affordable Care Act.",positive,0.7351027131080627
+2014-06-09,Those across the border in Texas did not.,neutral,-0.3452650010585785
+2014-06-09,"In Texarkana, Uninsured and on the Wrong Side of a State Line",negative,-0.7463854551315308
+2014-06-10,"The staff changes, including the departure of the president of Walmart.com, come as the company shifts toward a stronger online presence.",neutral,0.071635901927948
+2014-06-10,Walmart Reorganizes E-commerce Personnel,neutral,0.1017112135887146
+2014-06-17,"Six major stores, including Walmart and Costco, joined in the deal with New York’s attorney general.",neutral,0.31462499499320984
+2014-06-17,"But there was one holdout, Amazon.",neutral,-0.07773060351610184
+2014-06-17,Big Retailers Agree to List Unit Prices on Websites,neutral,0.03807339072227478
+2014-07-18,G.E.,neutral,0.0415060818195343
+2014-07-18,"plans to sell 125 million of stock in its North American retail finance unit, which handles credit cards for major retailers like Walmart, through an I.P.O.",neutral,0.07319042831659317
+2014-07-18,this month.,neutral,0.06977398693561554
+2014-07-18,G.E.,neutral,0.0415060818195343
+2014-07-18,Aims to Raise $3 Billion in Synchrony Financial I.P.O.,neutral,0.3498326539993286
+2014-07-21,"The toy company, along with other brands and big retailers, is starting to use the technology to lure shoppers, while manufacturers see opportunity in mass customization.",neutral,0.4225601255893707
+2014-07-21,Hasbro to Collaborate With 3-D Printing Company to Sell Artwork,neutral,0.45509982109069824
+2014-07-24,"The executive will be replaced as of Aug. 9 by Greg Foran, who is head of the company’s Asian unit.",neutral,-0.2835153341293335
+2014-07-24,Walmart U.S. Chief Leaving; Successor Headed Asian Unit,neutral,-0.24744974076747894
+2014-07-28,"Traders’ enthusiasm for Family Dollar’s stock on Monday reflected, in part, the notion that other bidders might emerge.",positive,0.7771936655044556
+2014-07-28,But Dollar Tree’s offer may be the best deal Family Dollar investors are going to get.,positive,0.5865506529808044
+2014-07-28,The Prospect of Other Bidders for Family Dollar,neutral,0.0016019195318222046
+2014-08-08,Walmart is looking to grab a bigger share of the billions of health care dollars being spent in the United States and to benefit from the shifting delivery system that has resulted from the Affordable Care Act.,positive,0.8493166565895081
+2014-08-08,"In Ambitious Bid, Walmart Seeks Foothold in Primary Care Services",positive,0.7865356206893921
+2014-08-14,"Walmart’s domestic sales were flat instead of falling, Penney’s sharply cut its losses, and Kohl’s sales and profit fell.",negative,-0.9609221816062927
+2014-08-14,Macy’s gave a forecast that will hinge on customer sentiment.,neutral,0.13647425174713135
+2014-08-14,"Walmart, J.C. Penney and Other Retailers See a Tentative Shopper",neutral,0.09127761423587799
+2014-08-17,"Quarterly earnings numbers from Home Depot, Target and others; a vote on oil-industry taxes in Alaska; possible Fed insights in a speech by its chairwoman; and data on housing starts, consumer prices and global economic recovery.",neutral,-0.05318686366081238
+2014-08-17,Retailers Report Earnings in a Subdued Season,negative,-0.8326672911643982
+2014-08-20,A look at what has happened in Massachusetts and more recently at Walmart is instructive.,neutral,0.021572746336460114
+2014-08-20,"Why More, Not Fewer, People Might Start Getting Health Insurance Through Work",neutral,0.24515528976917267
+2014-08-26,"Companies are invoking their attorney-client privilege to keep their in-house lawyers from speaking about possible crimes, Steven Davidoff Solomon writes in the Deal Professor.",neutral,-0.2916305959224701
+2014-08-26,Keeping Corporate Lawyers Silent Can Shelter Wrongdoing,negative,-0.5649935007095337
+2014-09-01,A flood of recent lawsuits and government enforcement actions accuse employers across the country of violating laws regulating employee pay.,negative,-0.9309216737747192
+2014-09-01,More Workers Are Claiming ‘Wage Theft’,negative,-0.81386399269104
+2014-09-05,Family Dollar is setting up an argument that Dollar General can never satisfy the Family Dollar board.,neutral,-0.293222039937973
+2014-09-05,"That may not be the case, Steven Davidoff Solomon writes in the Deal Professor column.",neutral,-0.02422482520341873
+2014-09-05,Dollar General’s Next Move After Family Dollar’s Rejection,neutral,-0.190803661942482
+2014-09-10,"The company will take back 20,000 Sevylor River Racer tubes, which people use to float in the water, after consumers reported skin irritation, the Consumer Product Safety Commission said.",negative,-0.43879786133766174
+2014-09-10,Coleman Recalls Inflatable Swimming Tubes From Walmart,neutral,-0.2176310420036316
+2014-09-15,"Google, Walmart and Facebook are among companies in a new organization dedicated to creating standards and practices for the creation of big free software.",neutral,0.0803312212228775
+2014-09-15,An Alliance of Major Players to Guide Open-Source Software,neutral,0.06912888586521149
+2014-09-16,"David Tovar, vice president of corporate communications, said Walmart discovered he hadn’t graduated from college during a background check in preparation for promoting him.",negative,-0.8634004592895508
+2014-09-16,Walmart Vice President Forced Out for Lying About Degree,negative,-0.7218582630157471
+2014-09-23,"The retailer will partner with Green Dot, known for its prepaid payment cards.",positive,0.695797860622406
+2014-09-23,Walmart Prepares to Offer Low-Cost Checking Accounts,neutral,0.11654943227767944
+2014-10-06,"The retailer, which is the United States’ largest grocer, will try to reduce adverse environmental impacts of the food it sells.",positive,0.7529454231262207
+2014-10-06,Walmart Aims to Go Greener on Food,neutral,0.4705648422241211
+2014-10-08,The retailer said it would terminate coverage for about 5 percent of its part-time force because of cost increases under the Affordable Care Act.,negative,-0.949258029460907
+2014-10-08,"Walmart to End Health Coverage for 30,000 Part-Time Workers",negative,-0.7137880921363831
+2014-10-14,"The footwear maker is filing trademark infringement lawsuits against 31 retailers, including Walmart, Kmart and Skechers, to protect core design elements.",negative,-0.9193740487098694
+2014-10-14,Converse Sues to Protect Its Chuck Taylor All Stars,negative,-0.8510990142822266
+2014-10-15,The weak numbers from Walmart add to worries over consumer spending and the overall strength of the American economy.,negative,-0.9276377558708191
+2014-10-15,Walmart Cuts Its Sales Forecast as Holiday Hopes Darken,negative,-0.9351198077201843
+2014-10-17,"Organizers of a group called Our Walmart marched Thursday in New York, Washington and Phoenix to change labor practices in retailing and other low-wage industries.",neutral,0.009682327508926392
+2014-10-17,Walmart Workers Demand $15 Wage in Several Protests,negative,-0.8611404299736023
+2014-10-29,Rite Aid and CVS are not accepting Apple’s mobile payment system because they are part of a group of retailers that plans its own system next year.,negative,-0.8668697476387024
+2014-10-29,Daily Report: Rival Payments Coalition MCX Moves to Curb Apple Pay,negative,-0.9323511123657227
+2014-11-12,"These pages from a Walmart memo urge managers to improve performance on “Chilled and Fresh” items in their dairy, meat and produce departments as part of an effort to stem long-sluggish sales.",positive,0.8609825968742371
+2014-11-12,Excerpts From Walmart Memo,neutral,0.015449300408363342
+2014-11-13,"The giant retailer’s profits also rose, but it warned of “headwinds” that could affect its revenue through the end of the year as it worked to combat online rivals.",positive,0.6333047747612
+2014-11-13,"After a Bump in Sales, Walmart Braces for a Competitive Holiday Season",positive,0.5803796648979187
+2014-11-14,• Retail sales rebounded in October.,positive,0.9286187887191772
+2014-11-14,Sliding oil and gas prices are giving Americans more money to spend.,positive,0.48820024728775024
+2014-11-14,And Walmart tries a new kind of Black Friday.,neutral,0.042087964713573456
+2014-11-14,Today in Small Business: ‘Next Generation of Lender or Boiler Room?’,neutral,0.06290633231401443
+2014-11-17,Elvis Presley’s music backs a Heineken ad.,neutral,-0.05719097703695297
+2014-11-17,Who knew?,neutral,-0.34282317757606506
+2014-11-17,Q. and A.,neutral,0.0380171574652195
+2014-11-17,With Stuart Elliott,neutral,0.02111242711544037
+2014-11-19,"After problems with its Canadian expansion and a breach of customer data, Target exceeded analysts’ predictions to report that earnings rose 3.1 percent to $352 million in the third quarter.",positive,0.7002023458480835
+2014-11-19,"Target’s Profit Rises 3.1 Percent, Beating Expectations",positive,0.8107134103775024
+2014-11-21,"Even in an era of one-click web shopping, people like Derek De Armond are still willing to camp out for weeks to land the best in-store deals.",neutral,0.06542414426803589
+2014-11-21,A Black Friday Campout,neutral,-0.09889374673366547
+2014-11-28,Thousands descended on Walmarts across the country on one of the busiest shopping days of the year to protest what they said were the company’s low wages.,negative,-0.9257873892784119
+2014-11-28,"On Black Friday, Walmart Is Pressed for Wage Increases",negative,-0.4168350100517273
+2014-12-11,A judge said that Walmart managers in California unlawfully threatened to close a store if many of its employees joined a group demanding higher wages.,negative,-0.9292032122612
+2014-12-11,"Walmart Illegally Punished Workers, Judge Rules",negative,-0.8831679821014404
+2014-12-19,"Enrique Ostalé will succeed Scot Rank, who is stepping down after five years as chief executive.",neutral,0.02653777413070202
+2014-12-19,"Walmart de México’s Chairman, Enrique Ostalé, to Double as Chief Executive",neutral,0.049959760159254074
+2014-12-22,"An overseas bribery inquiry involving Avon shows how long winding such cases can be, and how the costs of dealing with potential corrupt payments can exceed the punishment, Peter J. Henning writes in White Collar Watch.",neutral,-0.22097232937812805
+2014-12-22,Foreign Bribery Cases That Can Drag On and On,negative,-0.6863753199577332
+2014-12-31,"Sony’s new partners will expand digital availability of the film, which will also have a wider theatrical release starting Friday.",positive,0.909452497959137
+2014-12-31,Sony’s ‘The Interview’ Is Set for On-Demand and Wider Online Viewing,neutral,0.04092256352305412
+2015-02-03,The activist hedge fund Starboard Value has called on both companies to merge to better compete against the likes of Walmart and Amazon.,positive,0.5428506135940552
+2015-02-03,Staples Said to Be in Talks to Buy Office Depot,neutral,0.04079224169254303
+2015-02-04,"Regulators shot down a combination of Staples and Office Depot about 18 years ago, but since then, the competitive landscape has changed, with both companies now facing rivals in Walmart, Target, Amazon and others.",neutral,-0.16107819974422455
+2015-02-04,Staples and Office Depot Say a Merger Will Keep Them Competitive,neutral,0.29479771852493286
+2015-02-16,"Eurozone finance ministers will meet Monday on Greece’s bailout; the Federal Reserve will release minutes from its last meeting, on Wednesday; and Walmart will report earnings on Thursday.",neutral,0.00388355553150177
+2015-02-16,"Eurozone Meeting on Greece, and Walmart Earnings",neutral,-0.04698356240987778
+2015-02-19,"Facing a tighter job market, employee turnover and scrutiny of its labor practices, the retailer plans to increase pay for a half-million workers.",positive,0.8099926710128784
+2015-02-19,Walmart Raising Wage to at Least $9,positive,0.2416287362575531
+2015-02-25,"The upbeat news came as another discount retailer, TJX, announced it was increasing minimum hourly wages to $9, following a move by Walmart.",positive,0.6014736294746399
+2015-02-25,Target Gets a Lift in Earnings Despite Canadian Failure,positive,0.444662481546402
+2015-02-26,"Even with the wage increases the chain recently announced, workers often do not get enough hours to make ends meet, leaving them in a precarious financial state.",negative,-0.9531740546226501
+2015-02-26,Next Goal for Walmart Workers: More Hours,neutral,0.3384365737438202
+2015-03-19,"Target, a retailer with about 347,000 workers in the United States, reportedly has told employees they will start to get higher wages this spring.",negative,-0.4632176160812378
+2015-03-19,Target Plans to Raise Pay to at Least $9 an Hour,positive,0.6404780149459839
+2015-03-24,There is growing demand for new warehouse and distribution space near the nation’s fourth-largest container port.,positive,0.7809869647026062
+2015-03-24,Flurry of Freight Spurs New Commercial Building Construction in Georgia,positive,0.5415217876434326
+2015-04-02,"The company posted a statement in its Twitter feed that asked the governor of Arkansas, its home state, to reject legislation that critics say could allow discrimination against lesbians and gay men.",negative,-0.8033215403556824
+2015-04-02,Walmart Emerges as Unlikely Social Force,neutral,0.0023559629917144775
+2015-04-20,A claim set to be filed Monday says that the Walmart store closings were in retaliation for a history of labor activism at one of the shuttered stores.,negative,-0.9406514167785645
+2015-04-20,Laid-Off Walmart Workers Head to Labor Board,negative,-0.9182111024856567
+2015-05-05,"Bentonville, Ark., a onetime backwater that is home to Walmart, is now crammed with new storefronts and tourist attractions, among them the Bentonville Film Festival.",neutral,0.06801450252532959
+2015-05-05,"Bentonville, Ark., Hosts a Film Festival Without a Movie Theater",neutral,-0.32708364725112915
+2015-05-12,Now you can buy a Yankees coffin within the comfort of your texting line.,neutral,0.04332239553332329
+2015-05-12,"Tango, a popular messaging service, has a two-million-item catalog of goods from Walmart and Alibaba.",neutral,0.004038849845528603
+2015-05-12,"If it works, will brands keep their own apps?",neutral,0.044440217316150665
+2015-05-12,Tango Offers Shopping on Its Messaging Service,neutral,0.003754589706659317
+2015-05-17,"Walmart, Home Depot and Target are among the retailers posting results this week; Japan will report its G.D.P.",positive,0.4044686555862427
+2015-05-17,on Wednesday; and the big Wall Street banks will hold their annual meetings with shareholders.,neutral,0.019083892926573753
+2015-05-17,Earnings From Walmart and More Big Retailers; Wall Street’s Annual Meetings,neutral,0.12732230126857758
+2015-05-19,"The company, the nation’s largest retailer, said an increase in its employees’ minimum wage had an effect on operating income.",positive,0.47079288959503174
+2015-05-19,Profit Slips at Walmart as Revenue Falls Flat,negative,-0.9543190598487854
+2015-05-23,"The retailing behemoth said it will ask its meat, seafood, poultry, deli and egg suppliers to voluntarily adopt standards to improve the health and comfort of livestock.",positive,0.7006030678749084
+2015-05-23,Walmart Pushes for Improved Animal Welfare,neutral,0.36252057552337646
+2015-06-02,"Managers of departments more complicated to run, like electronics, will receive at least $13 an hour and as much as $24.70 an hour.",neutral,-0.12034043669700623
+2015-06-02,The previous range was $10.30 to $20.09 an hour.,neutral,-0.10136309266090393
+2015-06-02,Walmart to Raise Starting Pay for Some Managers in U.S.,positive,0.8451451063156128
+2015-06-04,"The effort to project an image of a more caring employer includes adjusting the air-conditioning, relaxing the dress code and jazzing up store music.",positive,0.5493370294570923
+2015-06-04,Walmart Adjusts the Thermostat to Warm Worker Relations,neutral,0.05682319030165672
+2015-06-05,"Trailing Amazon in e-commerce sales, Walmart is starting a new online shipping program, hiring tech employees and pledging to invest $1 billion in online operations.",positive,0.7791792154312134
+2015-06-05,"Walmart, Lagging in Online Sales, Is Strengthening E-Commerce",positive,0.8372259736061096
+2015-06-15,"The Walmart Foundation’s charitable contributions rose steadily in some cities as Walmart tried to curry support and win access to those markets, the complaint said.",positive,0.8072524070739746
+2015-06-15,Walmart Accused of Using Charity to Sway Cities Where It Wants to Expand,negative,-0.5792938470840454
+2015-06-23,"As companies like Walmart, Amazon and Sears were moving to discontinue sales of products tied to the Confederate battle flag, sales of them were soaring.",positive,0.4850611090660095
+2015-06-23,Confederate Flag Sales Soar as Retailers Pull Stock,negative,-0.7384851574897766
+2015-06-24,"A new report from McKinsey says the Internet of things could be worth $11 trillion in 2025 — or a lot less, if companies don’t figure out what to do with all the data they collect.",neutral,-0.24917036294937134
+2015-06-24,"The Internet of Things Has Vast Economic Potential, McKinsey Report Says",positive,0.6375291347503662
+2015-07-09,The ride-hailing service asserts that the handful of drivers who filed the lawsuit on work status shouldn’t represent all the drivers.,negative,-0.6556892395019531
+2015-07-09,Uber Files Motion Opposing Driver Class-Action Suit,neutral,-0.3401155471801758
+2015-07-15,The much-ballyhooed 20th anniversary discount event is awash in complaints of lackluster products and interminable waiting.,negative,-0.9374231696128845
+2015-07-15,More Fizzle Than Sizzle on Amazon’s Prime Day,neutral,0.03915819525718689
+2015-07-17,The retailers temporarily shut down their online photo processing services to determine the extent of a possible credit card data breach.,negative,-0.9506047368049622
+2015-07-17,CVS and Walmart Canada Are Investigating a Data Breach,neutral,-0.3958424925804138
+2015-08-03,"The agreement includes civil penalties and stricter state standards on how toy guns look, which are intended to make them distinguishable from real guns.",neutral,0.2624947428703308
+2015-08-03,New York Reaches Accords With Sellers of Toy Guns,positive,0.5366857647895813
+2015-08-05,"The marketing push with Halo 5 is a reminder that we’ve entered a brave new world, one in which, when the first Halo arrived 14 years ago, was barely a figment of our imagination.",positive,0.5263643264770508
+2015-08-05,Daily Report: E-Sports Continues to Reshape Gaming Landscape,positive,0.8526480793952942
+2015-08-17,"The perception of Amazon as a difficult place to work could force the online retailer to initiate reforms, as Walmart has done with its own billion-dollar program.",negative,-0.6784985065460205
+2015-08-17,Why Amazon May Take a Page From Walmart’s Labor Playbook,neutral,-0.23215976357460022
+2015-08-18,The retail giant’s lackluster results and outlook were in spite of quarterly revenue that was $500 million higher than forecast.,negative,-0.9579395055770874
+2015-08-18,"Walmart Cuts Outlook, Citing Rising Wages and Online Investment",negative,-0.923889696598053
+2015-08-26,"The retailer will stop selling modern sporting rifles, which are similar to the AR-15 assault rifle, which has been used in prominent mass shootings.",negative,-0.4854729473590851
+2015-08-26,Walmart to End Sales of Assault-Style Rifles in U.S. Stores,negative,-0.8875454068183899
+2015-09-03,"Shadow workers, people who are sort of but not really in the labor force, may be holding wage growth back.",negative,-0.9152897596359253
+2015-09-03,This Was to Be the Year of Bigger Wage Gains.,positive,0.763714611530304
+2015-09-03,It’s Not.,neutral,-0.1281394064426422
+2015-09-15,"Ms. Davis is a former executive at Walmart, and Mr. Frelinghuysen was an executive at AOL.",neutral,-0.005288226529955864
+2015-09-15,Disney-ABC Names Cindy Davis and John Frelinghuysen to Senior Posts,neutral,0.004116374999284744
+2015-09-23,"Major companies including Johnson & Johnson, Starbucks and Walmart are setting long-term targets for powering operations entirely with renewable energy.",neutral,0.08193618059158325
+2015-09-23,Global Companies Joining Climate Change Efforts,neutral,0.048419445753097534
+2015-10-14,The retailer also said its heavy investment in wages and e-commerce would weigh on future earnings.,neutral,0.35289621353149414
+2015-10-14,Walmart Stock Sinks After a Warning on Sales,negative,-0.9114747047424316
+2015-10-19,"The retail giant forecast lackluster sales growth for this year and a steep profit dip for next, in part because costs are climbing sharply as sales are flat.",negative,-0.9306912422180176
+2015-10-19,"Walmart Chief Defends Investments in Labor, Stores and the Web",neutral,-0.1418025642633438
+2015-10-22,"Walmart’s announcement of increased investment in e-commerce was a tacit acknowledgment that it had fallen far behind Amazon, a leader in the field.",positive,0.8583983182907104
+2015-10-22,Walmart Plays Catch-Up With Amazon,neutral,0.057367414236068726
+2015-10-26,"Like its rival Amazon, the retailer sees a variety of potential uses for unpiloted flying machines.",neutral,0.0325256772339344
+2015-10-26,Walmart Seeks Permit to Do Tests With Drones,neutral,0.08809514343738556
+2015-10-27,"Retailers and manufacturers are heeding concerns about stereotyping that some parents say still pervades children’s toys, clothes, costumes and other items.",negative,-0.8384815454483032
+2015-10-27,Sweeping Away Gender-Specific Toys and Labels,neutral,-0.01539050042629242
+2015-11-12,"Aggressive discounting from Macy’s, one of the country’s biggest merchants, is bad news for retailers this holiday season, which is shaping up to be highly discount-driven.",negative,-0.9458823800086975
+2015-11-12,"Macy’s Sounds a Holiday Alarm, and Retailers Brace for Heavy Discounting",neutral,-0.1738964021205902
+2015-11-17,"Sales and traffic improved at Walmart stores in the United States, but operating income fell more than 8 percent as the retailer invested in online operations and its work force.",negative,-0.9609537124633789
+2015-11-17,"Strong Sales at Walmart, Home Depot and TJX",positive,0.9174379706382751
+2015-11-27,Employees of companies like American Apparel will be putting in extra effort to turn around what is shaping up to be a dismal shopping season.,negative,-0.8432161211967468
+2015-11-27,Black Friday Retail Workers Try to Make the Most of a Shopping Slump,negative,-0.822251558303833
+2015-12-09,"Walmart’s Chinese imports amounted to at least $49 billion in 2013, according to the study, which was based on trade and labor data.",neutral,0.0419570617377758
+2015-12-09,"Walmart’s Imports From China Displaced 400,000 Jobs, a Study Says",negative,-0.9475055932998657
+2015-12-10,"The company said it would start accepting Walmart Pay, which will be integrated into its existing smartphone app, this month at stores in its home market around Bentonville, Ark.",positive,0.48670974373817444
+2015-12-10,Walmart Prepares to Enter Mobile Payments Business,neutral,0.0588260218501091
+2015-12-12,"A look at Walmart’s foray into digital wallets, Airbnb’s transparency claims and Yahoo’s big week.",neutral,0.029799066483974457
+2015-12-12,Farhad and Mike’s Week in Tech: Tempering Walmart’s Digital Ambitions,neutral,0.12004687637090683
+2015-12-22,The Manhattan church is making a shareholder proposal that the retailer stop selling guns that can fire more than eight rounds without reloading.,neutral,-0.010507628321647644
+2015-12-22,Trinity Church Campaigns Against Some Gun Sales at Cabela’s,negative,-0.7561154961585999
+2015-12-31,"Amazon capped its blockbuster year by reporting what it said was a record-breaking holiday season, shipping 200 million items through its Prime subscription service.",positive,0.6111907958984375
+2015-12-31,It’s Amazon and Also-Rans in Retailers’ Race for Online Sales,neutral,-0.2663425803184509
+2016-01-15,"The giant retailer said about 16,000 employees would be affected by the move.",negative,-0.9368182420730591
+2016-01-15,Walmart to Close 269 Stores as Retailers Struggle,negative,-0.8878065943717957
+2016-02-04,"Walmart, which sued the island in December, said a change to the island’s tax law last year was discriminatory and had resulted in an effective income tax of 91.5 percent for the chain.",negative,-0.8950587511062622
+2016-02-04,"Walmart Sues Puerto Rico, Claiming an Unfair and Onerous Tax Burden",negative,-0.9447887539863586
+2016-02-15,"This week, Mario Draghi will appear at a hearing in Brussels, the Federal Reserve will release an account of its most recent policy-making meeting and both Walmart and Nordstrom will report fourth quarter earnings.",neutral,0.026423713192343712
+2016-02-15,Questions for the E.C.B.,neutral,-0.06334231793880463
+2016-02-15,"Leader, Fed Minutes and Walmart Earnings",neutral,0.030055038630962372
+2016-02-18,"The retailer said sales slowed at the end of the year, and predicted that a strong dollar and a plan to close stores would dampen its sales this year.",negative,-0.953072190284729
+2016-02-18,Walmart Profit Fell 8% in 4th Quarter,negative,-0.9716768860816956
+2016-03-22,The ruling allows plaintiffs to rely on statistics to prove their case and limits the sweep of the court’s 2011 decision in a case against Walmart.,neutral,-0.028505921363830566
+2016-03-22,Supreme Court Upholds Worker Class-Action Suit Against Tyson,neutral,0.014146015048027039
+2016-03-29,"A federal court throws out the island’s new tax, saying a financial crisis is no reason to demand revenue it isn’t entitled to.",negative,-0.884519636631012
+2016-03-29,Federal Judge in Puerto Rico Calls Walmart Tax Unlawful,negative,-0.5340381860733032
+2016-04-18,"This month, the company, which has focused on earth-friendly products for decades, began a $15 million campaign to attract new customers and reclaim those who may have strayed.",positive,0.6025546789169312
+2016-04-18,Seventh Generation Taps Maya Rudolph for Its Biggest Campaign Yet,neutral,0.20825372636318207
+2016-04-22,"New York State’s attorney general is urging a nationwide recall, and the federal Consumer Product Safety Commission has begun an inquiry.",negative,-0.6220649480819702
+2016-04-22,Cra-Z-Art Toy Jewelry Kits Are Found to Have High Lead Levels,negative,-0.693127453327179
+2016-05-20,"Walmart reported Thursday that quarterly revenue rose 0.9 percent, signaling that its strategies to combat a dismal retail environment were working.",positive,0.9265918135643005
+2016-05-20,"Walmart Outperforms Estimates, but Online Retail Lags",negative,-0.8793323040008545
+2016-05-31,"Three years after a factory collapse prompted top brands to commit to bettering worker conditions in Bangladesh, rights groups say problems persist.",negative,-0.9388062357902527
+2016-05-31,Retailers Like H&M and Walmart Fall Short of Pledges to Overseas Workers,negative,-0.9363892674446106
+2016-06-02,The retailer is testing flying drones to handle inventory at its warehouses.,neutral,0.042696043848991394
+2016-06-02,The machines could help catalog in a day what now takes employees about a month.,neutral,0.04307974874973297
+2016-06-02,Walmart Looks to Drones to Speed Distribution,neutral,0.3695823848247528
+2016-06-04,"Employees more critical of the company say it has found subtle ways to hinder workers’ compensation, such as a training program that can keep pay at $9 an hour.",negative,-0.908521294593811
+2016-06-04,Walmart Worker Advocates Express Skepticism Over Raises,negative,-0.6604878306388855
+2016-06-28,The inquiry by Senators Sherrod Brown and Robert Menendez follows reports that holders of Walmart MoneyCards were denied access to their accounts.,negative,-0.9106077551841736
+2016-06-28,Senators Press for Answers After Prepaid Debit Cards Fail,neutral,-0.1847836673259735
+2016-07-14,"The fund is selling shares in Dick’s Sporting Goods, Cabela’s, and Big 5 Sporting Goods, worth $10.5 million as of mid-June.",neutral,0.03550926595926285
+2016-07-14,New York City Pension Fund to Divest Itself of Gun Retailer Stock,neutral,-0.3517855107784271
+2016-08-03,"Jet.com was born out of a dream of taking on Amazon, but it has struggled, rapidly burning through much of the cash it raised from investors.",negative,-0.9568688869476318
+2016-08-03,Walmart Is Said to Be in Talks to Acquire Jet.com,neutral,0.04739341884851456
+2016-08-04,Even a galloping “unicorn” will struggle to tow the lumbering retailer into a competitive position online.,positive,0.41681307554244995
+2016-08-04,Walmart’s Bid for Jet.com Could Help It Compete Against Amazon,positive,0.9001024961471558
+2016-08-08,"The acquisition of Jet, the largest deal ever for an e-commerce company, is intended to help both companies compete with Amazon.",positive,0.8778479695320129
+2016-08-08,Walmart Rewrites Its E-Commerce Strategy With $3.3 Billion Deal for Jet.com,neutral,0.3153379559516907
+2016-08-09,It’s tough to be seen as a successful billionaire businessman who is also an outsider trying to work for the little guy.,neutral,-0.3914428651332855
+2016-08-09,Trump’s Economic Agenda and the Team Behind It,neutral,0.014971770346164703
+2016-08-10,Novelty and technology alone won’t necessarily get you very far.,neutral,0.003061767667531967
+2016-08-10,Leading companies turn their tactical edge into durable advantage.,positive,0.6138402819633484
+2016-08-10,Why It’s Not Enough Just to Be Disruptive,neutral,-0.31658539175987244
+2016-08-11,"Macy’s announcement closely follows that of Walmart, which said it would buy Jet.com in what is widely viewed as a way to invigorate its online sales.",positive,0.6297069787979126
+2016-08-11,Macy’s to Close 100 Stores as E-Rivals and Discounting Hit Legacy Retailers,negative,-0.9531294107437134
+2016-08-13,The Walmart-Jet deal poses the question of whether Amazon is stoppable.,neutral,-0.2755042612552643
+2016-08-13,"Also, why hiring people who aren’t 20-something Stanford bros can be helpful.",positive,0.6265409588813782
+2016-08-13,Farhad’s and Mike’s Week in Tech: Betting on Jet and Diverse Work Forces,neutral,0.14498265087604523
+2016-08-15,Johnson Controls seeks to acquire Tyco in a $16 billion deal.,neutral,0.04843372479081154
+2016-08-15,Reports are also expected this week on consumer prices and housing starts.,neutral,-0.04012835770845413
+2016-08-15,A Vote on the Tyco Merger and Earnings Reports From Target and Walmart,neutral,0.06781505048274994
+2016-08-16,"Regulators are stuck in an outdated view of the world, while the internet giants are more attuned to the threat of nascent competitors.",negative,-0.7034647464752197
+2016-08-16,Tech Giants Gobble Start-Ups in an Antitrust Blind Spot,negative,-0.7207387685775757
+2016-08-23,"As a wholesaler, the company can cut power costs and carbon dioxide emissions.",positive,0.5381917357444763
+2016-08-23,It will get much of its supply from a solar energy farm now being built.,neutral,0.059793610125780106
+2016-08-23,"Apple Becomes a Green Energy Supplier, With Itself as Customer",positive,0.6547027230262756
+2016-10-10,Recent efforts by corporations to settle criminal cases have all the hallmarks of the kind of posturing seen at a poker table.,neutral,0.0261479914188385
+2016-10-10,Deutsche Bank and Walmart Face Same Gambit With Justice Dept.,negative,-0.6955181956291199
+2016-10-17,"The prospect of a Trump presidency has pushed the tech community to participate in politics, even as traditional fund-raising is lagging.",positive,0.7791380882263184
+2016-10-17,"Morning Agenda: Looser Tongues in Silicon Valley, Law Firms Lagging on Diversity",negative,-0.8920006155967712
+2016-11-17,The retailer needs more customers wandering its aisles over the holiday season and a sustainable plan to compete with Amazon.,positive,0.8684167265892029
+2016-11-17,Target’s Turnaround Still Faces Challenges,positive,0.18672750890254974
+2016-12-02,"The $7.5 million agreement signals a shift in legal doctrine on discrimination against gays and lesbians, making it more likely to be considered sex discrimination.",positive,0.7279564142227173
+2016-12-02,Walmart Settles Discrimination Suit Over Benefits for Same-Sex Spouses,negative,-0.8598966002464294
+2016-12-23,Forget something?,neutral,-0.29221653938293457
+2016-12-23,Run out of wrapping paper?,negative,-0.7354304790496826
+2016-12-23,Coffee?,neutral,-0.09356101602315903
+2016-12-23,Beer?,neutral,-0.0014583393931388855
+2016-12-23,Just need a break from the house?,negative,-0.37270185351371765
+2016-12-23,"Walgreen’s, Starbucks and many other retailers will be open.",neutral,0.039476096630096436
+2016-12-23,Christmas Holiday Hours for Some Major Stores,neutral,-0.23255223035812378
+2016-12-27,This year’s $3.3 billion acquisition of Jet.com will accelerate the push to compete with Amazon in 2017.,positive,0.8549549579620361
+2016-12-27,Walmart Slowly Makes Strides in E-Commerce,positive,0.7424384951591492

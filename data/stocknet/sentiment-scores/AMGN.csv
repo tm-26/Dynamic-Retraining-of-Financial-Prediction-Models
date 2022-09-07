@@ -1,0 +1,29 @@
+Date,Sentence,Prediction,sentimentScore
+2014-10-21,The hedge fund suggested that the drug maker should consider splitting itself up into a faster-growing entity whose products require research spending and a slower-growing company with more mature products.,neutral,0.07794655114412308
+2014-10-21,"Third Point, Loeb’s Hedge Fund, Urges Amgen to Consider a Breakup",neutral,0.15834574401378632
+2014-10-22,The idea of a corporate split comes up often in the drug industry but rarely happens.,neutral,-0.03500782698392868
+2014-10-22,But Amgen’s drug focus and the banker background of its C.E.O.,neutral,0.018377872183918953
+2014-10-22,"give the notion a chance, Robert Cyran of Reuters Breakingviews writes.",neutral,0.10026045143604279
+2014-10-22,Amgen’s Boss Makes a Prime Breakup Target for Loeb,neutral,0.029352236539125443
+2014-11-20,"In the Another View column, Bill George examines four situations — Amgen, PepsiCo, DuPont, and Allergan — to see where activist investors have it wrong.",neutral,-0.07656862586736679
+2014-11-20,When Activist Investors Aim at Strong Companies,neutral,0.12191398441791534
+2015-03-15,"Researchers cautioned, however, that the studies were small and meant to assess whether the drugs safely lowered cholesterol, not whether they staved off heart attacks.",neutral,0.07225322723388672
+2015-03-15,Tests of Cholesterol Drugs Offer Hope of Reducing Heart Attacks and Strokes,neutral,0.2597423195838928
+2015-04-15,"Many Wall Street analysts and heart specialists are lukewarm about the drug, which has shown mixed results in clinical trials.",negative,-0.9471979737281799
+2015-04-15,F.D.A.,neutral,0.04497655853629112
+2015-04-15,Approves Amgen Drug to Treat Heart Failure,neutral,0.4206486940383911
+2015-08-27,The new drug is made by Amgen for people with extremely high cholesterol levels and heart patients who do not get adequate results from statins and other therapies.,neutral,0.03085937723517418
+2015-08-27,F.D.A.,neutral,0.04497655853629112
+2015-08-27,"Approves Repatha, a Second Drug for Cholesterol in a Potent New Class",positive,0.8322212100028992
+2015-09-08,"A report from the Institute for Clinical and Economic Review says the prices on two drugs to fight cholesterol that cost more than $14,000 a year should be slashed.",negative,-0.40345096588134766
+2015-09-08,"New Cholesterol Drugs Are Vastly Overpriced, Analysis Says",neutral,-0.0655074268579483
+2015-10-06,"Rather than bargain with a single maker, the pharmacy benefits manager says it will offer both Repatha and Praluent, promising but expensive products.",neutral,0.1743994802236557
+2015-10-06,Express Scripts Says It Will Cover 2 New Cholesterol Drugs,neutral,0.0902407094836235
+2016-01-11,Some pharmaceutical companies will form the National Immunotherapy Coalition to rapidly test various combinations of promising new types of cancer drugs.,neutral,0.1960538923740387
+2016-01-11,Drug Companies to Try a Unified Front Against Cancer,neutral,-0.19005906581878662
+2016-05-12,"The blood-testing company, which is under criminal investigation, is replacing its chief operating officer and expanding its board.",neutral,-0.3326510190963745
+2016-05-12,Embattled Blood Lab Theranos Makes a Bid to Regain Confidence,neutral,0.10815520584583282
+2016-07-15,"Six years after the Affordable Care Act cleared the way for biosimilars, as the generic versions of biotechnology drugs are called, progress has been slow.",negative,-0.9299867153167725
+2016-07-15,Makers of Humira and Enbrel Using New Drug Patents to Delay Generic Versions,negative,-0.7021155953407288
+2016-11-08,Intensifying pressure stands to upend business models heavily dependent on raising prices.,neutral,0.046325456351041794
+2016-11-08,Valeant’s Struggles Are a Bad Omen for the Entire Industry,negative,-0.7672790288925171

@@ -1,0 +1,7 @@
+Date,Sentence,Prediction,sentimentScore
+2015-08-24,"The deal between the two crosstown Atlanta rivals will make Southern the second-largest United States utility, with about nine million customers.",positive,0.7875425815582275
+2015-08-24,Southern Company to Pay $12 Billion for AGL Resources,neutral,0.04845504090189934
+2015-08-25,Prolonged turmoil may end the continued deal-making that has brought about one of the biggest waves of mergers and initial public offerings in recent memory.,neutral,-0.36773058772087097
+2015-08-25,Uncertainty in the Market May Imperil Deal-Making,negative,-0.8693691492080688
+2016-01-20,The Energy Department will provide X-energy and Southern Company up to $40 million each for development of new nuclear power technologies to be used in coming decades.,neutral,0.3256620466709137
+2016-01-20,U.S. Acts to Spur Development of High-Tech Reactors,neutral,0.12275075912475586

@@ -1,0 +1,620 @@
+Date,Sentence,Prediction,sentimentScore
+2007-01-19,"Mary E. Minnick, will leave the company, a month after the company promoted its international chief, Muhtar Kent, to chief operating officer.",neutral,-0.38265353441238403
+2007-01-19,Coke Executive to Resign Post,negative,-0.5674505829811096
+2007-01-30,"A former Coca-Cola aide said at her federal trial on Monday that, although she routinely took copies of company documents and e-mails home, she did not conspire to steal and sell trade secrets about the beverage company to its chief rival.",negative,-0.7083088159561157
+2007-01-30,“No.,neutral,-0.19261255860328674
+2007-01-30,"We never talked about anything like that whatsoever,” Joya Williams said when asked if she planned with two other defendants to steal and sell Coca-Cola documents to PepsiCo.",negative,-0.566367506980896
+2007-01-30,Former Coca-Cola Employee Denies Trade Theft,negative,-0.5347216129302979
+2007-02-02,"Coca-Cola said it agreed to buy Fuze Beverage to add more juice, tea and energy drinks in an effort to catch up with PepsiCo.",positive,0.8723248839378357
+2007-02-02,Coca-Cola to Buy Fuze Beverage,neutral,-0.010471897199749947
+2007-02-02,"Coca-Cola said Thursday that it had agreed to buy Fuze Beverage to add more juice, tea and energy drinks in an effort to catch up with PepsiCo.",positive,0.8827409148216248
+2007-02-02,"Coca-Cola gains a half-dozen new products, including Fuze Tea, NOS energy drinks and Fuze Slenderize, which has chromium and amino acids that Fuze says help promote weight loss.",positive,0.8644423484802246
+2007-02-02,Coca-Cola Swallows Fuze Beverage,neutral,-0.3348254859447479
+2007-02-03,A television ad for Coca-Cola.,neutral,0.03703875467181206
+2007-02-03,Coca Cola,neutral,0.04498783126473427
+2007-02-05,Some first impressions of the 30 commercials that composed the first half of Ad Bowl inside Super Bowl LXI:.,neutral,-0.009172515943646431
+2007-02-05,Amateurs’ Efforts Highlight Ad Bowl,neutral,0.017088375985622406
+2007-02-05,"A federal jury rejected a former Coca-Cola secretary’s claim that she was duped by two accomplices and convicted her on Friday of conspiring to steal trade secrets from the world’s largest beverage maker in an effort to sell them to its rival, Pepsi.",negative,-0.8617428541183472
+2007-02-05,"The former secretary, Joya Williams, showed no visible reaction when the verdict was announced.",neutral,-0.28195619583129883
+2007-02-05,"She remains free on bond, pending sentencing.",neutral,-0.10005149245262146
+2007-02-05,Ex-Secretary at Coke Guilty of Trade-Secrets Theft,negative,-0.42554038763046265
+2007-02-15,The Coca-Cola Company said yesterday that profit fell 22 percent after its largest bottler wrote down the value of its North American unit on reduced soda sales and higher raw material costs.,negative,-0.9721232652664185
+2007-02-15,Profit Falls at Coca-Cola as Sales Slow but Costs Rise,negative,-0.9622673392295837
+2007-02-20,"With the success of their short film “experiments,” Fritz Grobe and Stephen Voltz have become important players in shaping the young business of selling entertainment on the Web.",neutral,0.4195902645587921
+2007-02-20,"Recipe for Success: Take Mentos, Diet Coke.",neutral,0.0412028543651104
+2007-02-20,Mix.,neutral,0.04712258279323578
+2007-02-25,Times are tough in the soft-drink bottling business.,negative,-0.8071005344390869
+2007-02-25,Sharing the Pain in Different Ways,neutral,0.0507141649723053
+2007-03-05,Coke Zero is being promoted with an unusual campaign about company executives suing each other.,negative,-0.44088438153266907
+2007-03-05,Can’t Tell Your Cokes Apart?,neutral,-0.3047521710395813
+2007-03-05,Sue Someone,neutral,-0.2545047700405121
+2007-03-07,"In coming months, Coca-Cola and PepsiCo will introduce carbonated drinks fortified with vitamins and minerals.",neutral,0.32937318086624146
+2007-03-07,Makers of Sodas Try a New Pitch: They’re Healthy,neutral,0.05042716860771179
+2007-05-24,"A former secretary at Coca-Cola was sentenced Wednesday to eight years in prison for conspiring to steal trade secrets from the company, as her tearful plea for mercy failed to sway a federal judge.",negative,-0.8183659315109253
+2007-05-24,"Judge J. Owen Forrester of Federal District Court told the former secretary, Joya Williams, 42, that he was giving her a longer sentence than recommended by federal prosecutors and sentencing guidelines because “this is the kind of offense that cannot be tolerated in our society.”",negative,-0.7465772032737732
+2007-05-24,8-Year Sentence in Coca-Cola Secrets Case,negative,-0.7153142690658569
+2007-05-24,"Coca-Cola‘s president, Muhtar Kent, declined to comment Wednesday on speculation that the beverage giant might buy Glaceau, a maker of “enhanced water” drinks, but said his company was open to making acquisitions.",neutral,0.06521489471197128
+2007-05-24,"“There are some rumors in the marketplace always about us acquiring certain companies,” Mr. Kent told reporters attending grand opening events in Atlanta for the new World of Coca-Cola attraction.",neutral,0.07259204238653183
+2007-05-24,“We do not comment on rumor and that’s all I can say.”,neutral,-0.16948360204696655
+2007-05-24,Coca-Cola Keeps Quiet on Rumors of Water Deal,negative,-0.7551878094673157
+2007-05-25,"Coca-Cola’s directors approved the purchase of Glaceau, the maker of Vitaminwater, for $4.2 billion.",positive,0.747596025466919
+2007-05-25,Coca-Cola Is Said to Buy Vitaminwater,neutral,0.0407162606716156
+2007-05-25," The Coca-Cola Company said Friday it would buy Glaceau, the maker of Vitaminwater, for $4.1 billion.",neutral,0.17095376551151276
+2007-05-25,"It would be Coke’s largest acquisition ever, and the price tag is more than the amount of cash Coke had on hand at the end of last quarter, meaning it will need to use debt to finance the all-cash deal.",neutral,0.04912802577018738
+2007-05-25,Shareholders seemed to find the deal refreshing: They bid up Coke shares by 1.4 percent in late-morning trading.,positive,0.8218781352043152
+2007-05-25,Coca-Cola Pulls Out the Stops for Glaceau Deal,neutral,-0.012376368045806885
+2007-05-26,"The Glacéau deal offered evidence that coming up with a new beverage, or putting a new twist on an old one, can be lucrative.",positive,0.6782740354537964
+2007-05-26,Coke Takes $4 Billion Step Away From Carbonation,neutral,0.10675913840532303
+2007-05-26,"The United States and China ended talks with unfinished business, as China took a $3 billion stake in the Blackstone Group.",negative,-0.4821399450302124
+2007-05-26,"China Makes a U.S. Deal, but It’s Not With Washington",neutral,-0.008473049849271774
+2007-05-26,"The Coca-Cola Company announced today that it will buy Glaceau, the maker of Vitaminwater, for $4.2 billion in cash.",neutral,0.14161069691181183
+2007-05-26,Coca-Cola Agrees to Buy Vitaminwater,neutral,0.439556747674942
+2007-05-27,"As its rivals have diversified and taken risks, the Coca-Cola Company has struggled to reinvent itself.",negative,-0.9226318597793579
+2007-05-27,Coke Struggles to Keep Up With Nimble Rivals,negative,-0.7983777523040771
+2007-05-31,The two soft drink giants have agreed to stop directly financing research that uses animals to test or develop their products.,neutral,-0.03798618167638779
+2007-05-31,Coca-Cola and PepsiCo Agree to Curb Animal Tests,neutral,0.14125007390975952
+2007-05-31,"The two soft drink giants agreed to stop financing animal experiments, except where such testing is required by law.",neutral,0.21105526387691498
+2007-05-31,Pepsi and Coke Agree to Stop Financing Research That Uses Animals,neutral,-0.09714007377624512
+2007-06-07,"Coca-Cola is hoping its new mobile site for social networking, Sprite Yard, will become the MySpace of the cellphone world.",positive,0.7124854326248169
+2007-06-07,Promoting a Thirst for Sprite in Teenage Cellphone Users,neutral,0.09807666391134262
+2007-06-27,The Coca-Cola Company will buy a 34 percent stake in the Tokyo Coca-Cola Bottling Company to increase sales in Japan after volume declined last year.,positive,0.9229964017868042
+2007-06-27,"The Japanese subsidiary of Coca-Cola will buy new shares of the closely held Tokyo-based bottler, the companies said in a statement.",neutral,0.11187507957220078
+2007-06-27,The financial terms were not disclosed.,neutral,0.007379675284028053
+2007-06-27,"The Takanashi family, which founded the bottler 50 years ago, will retain control of about 65 percent of the company, Charlie Sutlive, a Coca-Cola spokesman, said.",neutral,0.03091374598443508
+2007-06-27,Japan: Coca-Cola Buys Stake in a Bottler in Tokyo,neutral,0.14959153532981873
+2007-06-27,Coca-Cola will buy a 34 percent stake in the Tokyo Coca-Cola Bottling Company to increase sales in Japan after volume declined last year.,positive,0.9211142063140869
+2007-06-27,"The Japanese subsidiary of Coca-Cola will buy new shares of the closely held Tokyo-based bottler, the companies said in a statement.",neutral,0.11187493801116943
+2007-06-27,The financial terms were not disclosed.,neutral,0.007379654794931412
+2007-06-27,Coca-Cola Buys Stake in a Bottler in Tokyo,neutral,0.11707695573568344
+2007-07-05,"Coca-Cola is mulling a potential bid for Snapple, the iced tea division owned by Cadbury Schweppes which recently said it would seek a sale of the unit rather than a spinoff as part of an efficiency drive.",neutral,0.24558283388614655
+2007-07-05,Coke Considers Bidding for Snapple,neutral,0.03798729181289673
+2007-07-16,"COMPANY REPORTS Earnings season gets into full swing, particularly for technology, financial and drug companies.",positive,0.8325868844985962
+2007-07-16,"Reports will come from Charles Schwab and Mattel (Monday); Coca-Cola, I.B.M., Intel, Johnson & Johnson, Merrill Lynch, Novartis, Wells Fargo and Yahoo (Tuesday); Abbott Laboratories, Altria, AMR, Delta Air Lines, eBay, JPMorgan Chase, Pfizer, Southwest Airlines and United Technologies (Wednesday); Advanced Micro Devices, Bank of America, Bank of New York Mellon, Continental Airlines, Dow Jones, First Data, Google, Honeywell, Microsoft, Motorola and Wyeth (Thursday); and Boston Scientific, Caterpillar and Citigroup (Friday).",neutral,0.003950260579586029
+2007-07-16,Looking Ahead,neutral,0.013165891170501709
+2007-07-16,"When it comes to advertising on the mobile Web, online retailers are treading carefully.",neutral,0.010275855660438538
+2007-07-16,But some say they have found enticing success from early marketing efforts.,positive,0.8258110284805298
+2007-07-16,Reaching More Customers With a Simple Text Message,neutral,0.05903472751379013
+2007-07-18,The company said that Coca-Cola Zero soda and Dasani bottled water spurred the biggest sales increase in almost 13 years.,positive,0.9122207164764404
+2007-07-18,Coke Exceeds Expectations for Quarter,neutral,0.18913555145263672
+2007-07-25,"PepsiCo, the maker of Gatorade, said it would introduce a lower-calorie version later in the year for athletes when they are not breaking a sweat.",neutral,0.1337313950061798
+2007-07-25,"For Less-Active Athletes, a Low-Calorie Gatorade",neutral,0.025890573859214783
+2007-08-23,Olympic sponsors celebrated the start of the one-year countdown to the opening ceremonies with marketing initiatives intended to break through the hype.,positive,0.6557550430297852
+2007-08-23,"For 2008 Olympics Campaigns, the Starter’s Gun Went Off This Month",negative,-0.4762718379497528
+2007-09-24,Webdenda.,neutral,0.004875680431723595
+2007-09-24,People and Accounts of Note,neutral,0.0014222487807273865
+2007-10-19,Attorneys for Coca-Cola are trying to use the guilty plea of class action king William Lerach to derail a seven-year-old securities fraud case against the soft drink giant.,negative,-0.8584728240966797
+2007-10-19,Coke Hopes Milberg Weiss Case Will End Its Own Suit,negative,-0.4666156768798828
+2007-10-29,Webdenda.,neutral,0.004875680431723595
+2007-10-29,People and Accounts of Note,neutral,0.0014222487807273865
+2007-11-07,What’s greener than HFCs for refrigeration?,neutral,0.0726979449391365
+2007-11-07,Carbon dioxide.,neutral,-0.02457921952009201
+2007-11-07,Thus the public relations problem.,neutral,-0.3485786020755768
+2007-11-07,Mum’s the Word: We Found a Greener Gas,positive,0.5020721554756165
+2007-11-30,"After the uproar over Facebook’s system to spread information about its users’ online purchases to their friends, Coca-Cola, a major advertiser, is shelving plans to use the system for now.",negative,-0.7409991025924683
+2007-11-30,Coke Is Holding Off on Sipping Facebook’s Beacon,negative,-0.46993306279182434
+2007-12-06,"Muhtar Kent, Coke’s president and chief operating officer, will take over as chief executive on July 1, the company said today.",neutral,0.03199078142642975
+2007-12-06,"He will succeed E. Neville Isdell, who will remain chairman.",neutral,0.026409894227981567
+2007-12-06,Coke Names an Insider as Its New Chief,neutral,0.008087866008281708
+2007-12-07,"E. Neville Isdell, who will be remembered as the man who stopped Coca-Cola’s bleeding and sutured the wounds, announced Thursday that he would resign as chief executive next July.",neutral,-0.40619251132011414
+2007-12-07,Chief of Coke to Step Down After Steering Its Recovery,neutral,-0.23437416553497314
+2007-12-07,"Coca-Cola has set up shop in a virtual world called there.com, creating an island shaped like a Coke bottle where fans can hang out and soar around.",neutral,0.11082806438207626
+2007-12-07,Coke Promotes Itself in a New Virtual World,neutral,0.044302716851234436
+2008-01-16,An environmental group says a Coca-Cola bottling plant in the drought-stricken state of Rajasthan is depleting scarce water supplies.,negative,-0.9326714873313904
+2008-01-16,Coca-Cola Urged to Close an Indian Plant to Save Water,negative,-0.900849461555481
+2008-02-06,"Coca-Cola spent millions to showcase its flagship Coke Classic brand in Super Bowl ads on Sunday, but the $40 million it invested Tuesday in a trendy tea company might be a better indicator of its sales growth plans.",positive,0.8128323554992676
+2008-02-06,Coca-Cola Brews $40 Million Deal for Stake in Honest Tea,neutral,0.2527194321155548
+2008-02-11,A look at some of this week’s major business events coming this week.,neutral,0.020072977989912033
+2008-02-11,This Week’s Major Business Events,neutral,-0.014667071402072906
+2008-02-16,New York City’s new rules for menu labels at chain restaurants have set off a food fight among the nation’s obesity experts.,negative,-0.8586152791976929
+2008-02-16,Conflict on the Menu,negative,-0.47918760776519775
+2008-02-20,The makers of Guru energy drinks are trying to crack New York City’s crowded beverage market.,negative,-0.7794020175933838
+2008-02-20,Stumping for Shelf Space,neutral,-0.2523002624511719
+2008-02-22,"Coca-Cola said on Friday it would continue to make acquisitions, but they were not necessary for the company to meet its long-term growth objectives, Reuters reported.",positive,0.5094514489173889
+2008-02-22,Coca-Cola Says It Won’t Rely on Deals for Growth,neutral,0.04464496672153473
+2008-03-28,"A string of planned protests centered around the Olympic torch relay is troubling news for sponsors of the event, including Coca-Cola, Lenovo and Samsung Electronics.",negative,-0.9376704692840576
+2008-03-28,Sponsors of Olympic Torch Caught in Tibet Protests,neutral,0.009997516870498657
+2008-03-29,The disruption of a Chinese official’s address in Greece was just the beginning of a string of protests planned to coincide with the torch’s trip around the globe.,negative,-0.9069903492927551
+2008-03-29,Corporate Sponsors Nervous as Tibet Protest Groups Shadow Olympic Torch’s Run,negative,-0.7887871861457825
+2008-04-17,"As one of the most prominent sponsors of the Olympics, Coca-Cola found itself on the hot seat on Wednesday at its annual shareholder meeting.",positive,0.5142882466316223
+2008-04-17,Coca-Cola Faces Critics of Its Olympics Support,negative,-0.8939328789710999
+2008-05-13,"Coca-Cola, the world’s biggest drinks maker, is seeking more acquisition opportunities in the fast-growing soft drinks market to expand its revenue sources, the company’s presumptive next chief executive said on Tuesday.",positive,0.8889500498771667
+2008-05-13,Coca-Cola Seeks Small Deals to Augment Growth,neutral,0.06938052922487259
+2008-06-17,"A commercial for Coca-Cola features Stewie, the infant character from Fox's animated sitcom, ""Family Guy.""",neutral,-0.035085078328847885
+2008-06-17,Family Guy's Stewie Dashes for Coke,neutral,-0.043831825256347656
+2008-06-18,"Big brands have been borrowing for their marketing efforts characters from “Family Guy,” which has been criticized for everything from anti-Semitism and sexism to homophobia.",neutral,0.12228015810251236
+2008-06-18,Crude?,neutral,-0.31471115350723267
+2008-06-18,So What?,neutral,-0.08815959095954895
+2008-06-18,These Characters Still Find Work in Ads,neutral,0.04805062711238861
+2008-06-30,Webdenda.,neutral,0.004875680431723595
+2008-06-30,People and Accounts of Note,neutral,0.0014222487807273865
+2008-07-01,"Even among TiVo users who can fast-forward through the advertisements, the Coca-Cola commercial just before the announcement of the “American Idol” winner was the most-watched ad in the month of May, according to a report by the digital video recorder manufacturer.",neutral,0.08037353307008743
+2008-07-01,Ads We Love,neutral,0.08803753554821014
+2008-07-26,"Donald R. Keough, a former top executive at the Coca-Cola Company, has turned his speech about how to fail in business — using the example of his own failure with New Coke — into a book.",neutral,-0.05347362160682678
+2008-07-26,"How to Fail in Business, a Guide to Success",neutral,0.03557644039392471
+2008-08-06,"For more than a century, Coke has fiercely guarded its recipe.",negative,-0.4965462386608124
+2008-08-06,"But in an advertising campaign introduced last month in Britain, the company divulged a few facts.",neutral,-0.08635017275810242
+2008-08-06,Campaign Reveals Just a Little Bit of Coke’s Secret Formula,neutral,0.028523096814751625
+2008-08-11,"Even for alumni, the ability to cash in on one’s former fame comes only once every four years, because corporate sponsors prefer to work with athletes when their signature sports are in the news.",neutral,0.01914329081773758
+2008-08-11,"For Retired Olympians, Marketing Is the Game",neutral,0.005839113146066666
+2008-08-23,Coca-Cola looks back at the glory of winning Olympic gold.,positive,0.4368375241756439
+2008-08-23,Coke and Winning Olympic Gold,neutral,0.17308583855628967
+2008-08-31,Changes in a loyalty program for Coke drinkers has upset some collectors of bottle-cap codes.,negative,-0.9362249970436096
+2008-08-31,Is a Coke Promotion Betraying Its Loyalists?,negative,-0.7070606350898743
+2008-09-03,The Coca-Cola Company said it had made a bid to acquire one of China’s largest juice makers for about $2.5 billion.,positive,0.5971341729164124
+2008-09-03,Coke Bids for Chinese Juice Giant,neutral,0.08263737708330154
+2008-09-03,The Coca-Cola Company said Wednesday that it had made a bid to acquire one of China’s largest juice makers for about $2.5 billion.,positive,0.6819342374801636
+2008-09-03,Coke Bids for Chinese Juice Giant,neutral,0.08263737708330154
+2008-09-10,"The Coca-Cola Company plans to seek approval under China’s antitrust law for its $2.5 billion bid for top domestic juice-maker China Huiyuan Juice Group, the final obstacle to what would be the largest foreign takeover of a local firm, Huiyuan said on Wednesday.",positive,0.7785810828208923
+2008-09-10,Coca-Cola to Seek Approval from China on Juice Deal,neutral,0.3167850971221924
+2008-09-13,"The recent agreement to pay $2.5 billion for China Huiyuan Juice chisels away at Coke’s dependence on carbonated drinks and expands the company’s presence in a huge, fast-growing economy.",positive,0.9279028177261353
+2008-09-13,China Deal Draws Praise for Coke,positive,0.6129661202430725
+2008-09-23,"TerraCycle makes tote bags, pencil cases and other products from juice boxes and candy wrappers, then sells them at some of the country’s biggest retailers.",neutral,0.034791141748428345
+2008-09-23,Kept Out of Landfills and Reborn as a Bag,neutral,0.022215306758880615
+2008-11-17,"Beverage group Lion Nathan has made a $7.7 billion Australian dollar ($5 billion) bid to acquire Coca-Cola Amatil, The Financial Times reported.",positive,0.5186353921890259
+2008-11-17,Lion Nathan Thirsty for Coca-Cola Amatil,neutral,0.03238288313150406
+2008-11-18,"The Australian brewer Lion Nathan made a hostile bid of 7.6 billion Australian dollars ($4.91 billion), for the soft drinks distributor Coca-Cola Amatil.",neutral,0.05461251363158226
+2008-11-18,Australia: Hostile Bid Made for Coca-Cola Unit,negative,-0.7726820111274719
+2008-11-19,Port Morris in the South Bronx is one of the few industrial areas of New York City that are flourishing.,neutral,0.07284154742956161
+2008-11-19,An Island of Industry,neutral,0.04645835608243942
+2008-11-20,"Kohlberg Kravis Roberts said Thursday that it has hired Ludo Bammens, a former Coca-Cola executive in Europe, as its European communications director.",neutral,0.22132541239261627
+2008-11-20,K.K.R.,neutral,0.06834582984447479
+2008-11-20,Hires European Communications Officer,neutral,0.02835880219936371
+2009-01-09,A project announced by the N.A.A.C.P.,neutral,0.058332543820142746
+2009-01-09,and lawyer Cyrus Mehri aims to increase the number of black workers on Madison Avenue.,positive,0.838513970375061
+2009-01-09,A Lawyer’s Call for a Greater Black Presence in Agencies,neutral,0.06401057541370392
+2009-01-12,Q & A with Stuart Elliott.,neutral,-0.0018088538199663162
+2009-01-12,Q & A with Stuart Elliott,neutral,0.022084038704633713
+2009-01-14,"Denny’s, the restaurant chain, is becoming a Super Bowl advertiser for the first time.",positive,0.7057450413703918
+2009-01-14,Denny’s Becomes a Super Bowl Advertiser,neutral,0.0426020547747612
+2009-01-31,"After 24 years, one of the most famous blunders in marketing history is quietly coming to end.",negative,-0.5318568348884583
+2009-01-31,Coca-Cola Deleting ‘Classic’ From Coke Label,neutral,-0.2184203863143921
+2009-02-02,Few of the commercials during Super Bowl XLIII offered anything special.,neutral,0.012319235131144524
+2009-02-02,Ads That Pushed Our Usual (Well-Worn) Buttons,neutral,0.002623382955789566
+2009-02-04,"Harley-Davidson has joined Warren Buffett’s collection of iconic American corporate brands, in a deal that is straight from the Berkshire Hathaway boss’s downturn playbook.",positive,0.5438960790634155
+2009-02-04,Buffett Pays Low for Another Icon,neutral,-0.20641830563545227
+2009-02-04,"Forget Sturgis, the annual South Dakota bikers’ rally.",neutral,-0.35124674439430237
+2009-02-04,"Harley-Davidson riders may want to shift gears and head toward Omaha, Breakingviews says.",neutral,0.06683836877346039
+2009-02-04,"That’s because the motorcycle maker just joined General Electric, Coca-Cola, Goldman Sachs and Budweiser in Warren Buffett’s collection of iconic American corporate brands.",neutral,0.24844986200332642
+2009-02-04,Buffett Pays Low for Another Icon,neutral,-0.20641830563545227
+2009-02-10,"The Australasian brewer Lion Nathan said Monday it had abandoned its 7.3 billion Australian dollar ($4.9 billion) bid for Coca-Cola Amatil, after talks between major shareholders of the two companies broke down.",negative,-0.9443766474723816
+2009-02-10,Lion Nathan Cans $4.9 Billion Bid for Coca-Cola Amatil,neutral,0.27636295557022095
+2009-02-17,Q & A with Stuart Elliott.,neutral,-0.0018088538199663162
+2009-02-17,Q & A with Stuart Elliott,neutral,0.022084038704633713
+2009-02-19,"The Coca-Cola Company will be one advertiser running commercials on ABC on Sunday, during the 80th annual Academy Awards.",neutral,0.012890029698610306
+2009-02-19,Diet Coke Commercial,neutral,0.02666465938091278
+2009-03-18,"At $2.4 billion, Coca-Cola’s bid for the China Huiyuan Juice Company would been the largest takeover by a foreign company of a mainland Chinese firm.",neutral,0.16981472074985504
+2009-03-18,China Blocks Coke Bid for Juice Maker,negative,-0.8235273361206055
+2009-03-19,"Coca-Cola‘s board was a thirsty bunch last year: The company’s latest proxy shows it provided $12,500 in free products to directors, up nearly 80 percent from 2007.",positive,0.8924643397331238
+2009-03-19,A Drinking Binge on Coke’s Board,negative,-0.4368077516555786
+2009-03-25,"China rejected Coca-Cola‘s bid to buy top local juice maker Huiyuan because it feared the U.S. multinational could abuse its position across the whole soft drinks market, an official said in remarks published on Wednesday, according to Reuters.",negative,-0.9285606741905212
+2009-03-25,China Says Coca-Cola Could Have Abused Juice Deal,negative,-0.8762698173522949
+2009-04-21,PepsiCo’s offer of $6 billion to buy back the bottling companies it sold in the late 1990s is a smart move in light of changes in its business.,positive,0.7590336203575134
+2009-04-21,A PepsiCo Deal Comes Full Circle,positive,0.5729833245277405
+2009-04-22,The failure of a $2.3 billion deal for a Chinese juice company made has cash available to the company.,negative,-0.9070170521736145
+2009-04-22,Coca-Cola May Consider Buybacks,neutral,0.05090426653623581
+2009-04-22,"After its bid for a Chinese juice company failed, Coca-Cola said on Tuesday that it would consider buying back shares.",neutral,-0.02536895126104355
+2009-04-22,Coca-Cola May Consider Buybacks,neutral,0.05090426653623581
+2009-04-23,"After failing to acquire all of Huiyuan Juice Company, Coca-Cola may be discussing an alternate plan with the Chinese beverage company.",neutral,0.010607454925775528
+2009-04-23,"Coca-Cola Reopens Talks With Huiyuan, Reports Say",positive,0.8002899885177612
+2009-06-09,"Warburg Pincus reportedly exited its stake in the Chinese juice company Huiyuan, making it the first major shareholder to withdraw since China blocked Huiyuan’s sale to Coca-Cola.",negative,-0.9320698380470276
+2009-06-09,Warburg Pincus Said to Quit Huiyuan Investment,negative,-0.4464557468891144
+2009-06-18,"Nascar has made a point of strengthening its business-to-business relationships, on the track and off.",positive,0.9184384942054749
+2009-06-18,Nascar Sponsors Find Customers in Other Sponsors,neutral,0.04892991483211517
+2009-07-06,A United States trade official said Monday that China’s government had not unfairly used a new anti-monopoly law to block a proposed deal by Coca-Cola.,negative,-0.9243587851524353
+2009-07-06,"China’s Coke Ruling Not Abusive, F.T.C.",negative,-0.5202140212059021
+2009-07-06,Official Says,neutral,0.007483102381229401
+2009-07-10,Sales of two-ounce “energy shots” with a concentrated dose of caffeine are soaring in the middle of a recession.,positive,0.6660656332969666
+2009-07-10,‘Energy Shots’ Stimulate Power Drink Sales,neutral,0.30305710434913635
+2009-07-16,Commercials for Coca-Cola are sometimes so completely shrouded by storytelling that viewers can make a game of brand-spotting.,neutral,-0.4258694648742676
+2009-07-16,"Marketing a Drink, but Never by Name",neutral,-0.013635456562042236
+2009-07-30,Quebec is one of the few places in the world where Pepsi holds a larger market share than Coca-Cola.,neutral,0.24602657556533813
+2009-07-30,"In a Quebecer’s Heart, Pepsi Occupies a Special Place",neutral,0.08330772817134857
+2009-09-04,"The European Union threatened to impose tariffs on a material used in plastic bottles, saying European producers may be victims of subsidies and price undercutting.",negative,-0.8713235259056091
+2009-09-04,Sanctions Threatened Against Plastics Producers,negative,-0.6815462708473206
+2009-09-14,"Though corruption is pervasive in China, very few executives at foreign multinationals have been detained or arrested.",negative,-0.8102046251296997
+2009-09-14,That may be changing.,neutral,-0.16068078577518463
+2009-09-14,"In Shanghai, Police Detain Former Worker at Coca-Cola",negative,-0.9022446274757385
+2009-09-22,"The sale of advertising keywords does not amount to trademark infringement, the adviser to the European Union’s top court said.",neutral,-0.033625781536102295
+2009-09-22,European Adviser Backs Google on Trademarks,negative,-0.7575779557228088
+2009-09-23,"A legal adviser to the European Union’s top court backed Google in a trademark case on Tuesday, saying the company should be allowed to sell brand names like Louis Vuitton or Coca-Cola as advertising keywords.",negative,-0.3343288004398346
+2009-09-23,European Adviser Backs Google in Trademark Case,negative,-0.7900394797325134
+2009-10-07,The fast-food chain is expected to promote the realness of its food as part of a comprehensive brand makeover.,positive,0.8402737379074097
+2009-10-07,Wendy’s to Start Keeping It ‘Real’,neutral,0.05234654247760773
+2009-10-20,Growth of its soft drinks was strong in emerging markets and sales rose slightly.,positive,0.9366498589515686
+2009-10-20,"Profit Edges Up at Coke, but Sales Stall in North America",negative,-0.9412508010864258
+2009-12-28,"In part one of his 2009 year in review, the Deal Professor examines the general trends of what he predicts will be a flatter deal-making landscape for some time to come.",neutral,0.052501779049634933
+2009-12-28,"The Deal Professor’s 2009 in Review, Part I: No Exit",neutral,0.011261619627475739
+2009-12-31,Coke made a Facebook application that scans facial photographs and tries to find matching images while promoting Coke Zero.,neutral,-0.010082758963108063
+2009-12-31,Seeking a Familiar Face and Finding a Coke,neutral,-0.16785767674446106
+2010-01-11,Q: (Reader).,neutral,-0.002631932497024536
+2010-01-11,Q & A with Stuart Elliott,neutral,0.022084038704633713
+2010-01-19,"A proposed sale of Metro-Goldwyn-Mayer, the most powerful and lucrative studio during the golden age of film, drew only meager offers last week.",neutral,-0.09976641833782196
+2010-01-19,"In Hollywood, Grappling With Studios’ Lost Clout",negative,-0.8465003371238708
+2010-01-22,"Coca-Cola is considering buying a controlling stake in Russian juice maker Nidan Soki from London-based private equity group Lion Capital, sources familiar with the deal participants told Reuters on Thursday.",neutral,0.12881670892238617
+2010-01-22,Coke Said to Mull Buying Russian Juice Maker,neutral,-0.18736034631729126
+2010-01-27,Coca-Cola executives will incorporate philanthropy and the social media into their Super Bowl ad plans.,neutral,0.08416227251291275
+2010-01-27,Coca-Cola’s Super Bowl Ad Plans Include Social Media,neutral,-0.002914782613515854
+2010-01-30,"Three male chief executives and three professional women argued at the World Economic Forum that gender parity was not just a worthy goal, but also an excellent business proposition.",positive,0.7230753898620605
+2010-01-30,"Of Women, Sleep Deprivation and Financial Meltdown",negative,-0.8908891677856445
+2010-02-02,"The evangelical group, Focus on the Family, has purchased an ad for the Super Bowl that is expected to contain an anti-abortion message.",neutral,0.08694543689489365
+2010-02-02,An Advocacy Ad Stirs a National Debate,negative,-0.49181240797042847
+2010-02-05,"The spot, featuring the college football star Tim Tebow and his mother, Pam, has been the subject of one of the most intense tugs of war over an ad in many years.",negative,-0.6279997825622559
+2010-02-05,An Advocacy Ad Elevates Interest in All the Ads,neutral,0.09056644886732101
+2010-02-07,Super Bowl Ad Watch: A running look at the other side of the big game.,neutral,-0.009450690820813179
+2010-02-07,Super Bowl Ad Watch: Blogging the Commercials,neutral,-0.0936630591750145
+2010-02-08,A potential mega-merger in the food and beverage sector fell apart Monday after Kirin Holdings of Japan said it had ended talks with its smaller rival Suntory Holdings about a deal to create company on a par with Kraft Foods.,negative,-0.9002719521522522
+2010-02-08,Kirin Ends Merger Talks With Suntory,neutral,-0.06585745513439178
+2010-02-11,"Sprite, sold by the Coca-Cola Company, will be called “The Spark” in ads inspired by the brand’s logo.",neutral,0.057735227048397064
+2010-02-11,Sprite Recast as Spark in a Bottle,neutral,0.02477603405714035
+2010-02-25,"The Coca-Cola Company is in talks to buy the North American operations of its largest bottler, according to a person briefed on the matter, reversing a 14-year-old strategy of separating its bottling operations from its main soft drink business.",neutral,0.2550201714038849
+2010-02-25,Coke in Talks to Buy U.S. Unit of Its Biggest Bottler,neutral,0.16467158496379852
+2010-02-25,The move by Coca-Cola Company reverses a 24-year-old strategy of keeping its bottling operations separate from its main soft-drink business.,positive,0.7046125531196594
+2010-02-25,Coke Acquires North American Unit of Bottler,neutral,0.1185941994190216
+2010-02-25,"The Coca-Cola Company announced Thursday morning that it had agreed to acquire the North American operations of its largest bottler, reversing a 24-year-old strategy of keeping its bottling operations separate from its main soft-drink business.",positive,0.7601096034049988
+2010-02-25,Coke to Take Over North American Bottling Unit,neutral,0.016095228493213654
+2010-02-26,Th evolution of consumer behavior affected the decision for a takeover bid by Coca-Cola last week.,neutral,-0.3604462444782257
+2010-02-26,Coke Adopts a Move It Scorned,negative,-0.7269378304481506
+2010-02-26,The $13 billion transaction strengthens the link between the soft-drink maker and its bottling operations.,positive,0.9213644862174988
+2010-02-26,Coke Confirms Purchase of a Bottling Unit,neutral,0.15057118237018585
+2010-02-26,"Coca-Cola’s decision to acquire its bottling subsidiary is an about-face the for the company, but it doesn’t mean the decision is not financially and strategically sound, Breakingviews says.",positive,0.4577561616897583
+2010-02-26,Coke Adopts a Move It Scorned,negative,-0.7269378304481506
+2010-03-05,"The Deal Professor takes stock of some of the week’s most interesting deal developments, including the latest in Astellas Pharma’s hostile bid for OSI Pharmaceuticals and the latest in the Airgas-Air Products battle.",neutral,0.08941571414470673
+2010-03-05,"Another Deal Grab Bag: Astellas, CF, Airgas and More",neutral,0.05565112829208374
+2010-04-03,"While Japan is well known for its products in the auto and technology sectors, the same is not so true for the grocery business.",neutral,0.06173361465334892
+2010-04-03,Some companies are trying to change that.,neutral,0.04864327982068062
+2010-04-03,Japanese Food Companies Seek Growth Abroad,positive,0.7173020839691162
+2010-04-09,"A leader in communications, banking and bottling, Mr. Llewellyn was among the nation’s most prominent and wealthiest black executives.",neutral,0.10871624201536179
+2010-04-09,"J. Bruce Llewellyn, Who Forged a Path for Blacks in Business, Is Dead at 82",neutral,-0.31961196660995483
+2010-04-12,"Outside developers of applications for Twitter are beginning to fear that the micro-blogger could transform overnight from generous benefactor to arch competitor to their start-ups, The New York Times writes.",negative,-0.6985179781913757
+2010-04-12,Tensions Rise for Twitter and App Developers,negative,-0.9328949451446533
+2010-04-16,"An advertising agency in the Kurdish region of Iraq joins Icom, a worldwide network of independent advertising agencies.",neutral,0.28104662895202637
+2010-04-16,The Man in the Grey Flannel Dishdasha?,neutral,-0.2007429599761963
+2010-04-16,Belvedere vodka tries to push a new nickname for itself.,neutral,0.05240277945995331
+2010-04-16,"Next Up, Abso and Smirnie?",neutral,-0.008922653272747993
+2010-04-21,"Renewed confidence about an economic recovery helped a rally on Wall Street on Tuesday, with energy and banking stocks leading the way, The New York Times reported.",positive,0.7861615419387817
+2010-04-21,Energy and Banking Shares Lift Wall Street,positive,0.7650848031044006
+2010-04-21,"Disney names a new marketing chief, and goes outside the movie business to do so.",neutral,0.05073023587465286
+2010-04-21,Disney Names a New Marketing Chief,neutral,-0.0007216334342956543
+2010-05-18,"During a busy presentation on Tuesday morning at the Nokia Theater in Times Square, ESPN made enough newsy announcements to pass for a network whose programs turn up on the cover of TV Guide.",neutral,0.25252437591552734
+2010-05-18,Upfronts: ESPN Gets Into the Game,neutral,0.0028529614210128784
+2010-05-19,"Mr. Lupton transformed his family bottling business into a piece of the Coca-Cola empire and helped revitalize Chattanooga, Tenn.",positive,0.7042820453643799
+2010-05-19,"John T. Lupton, Creator of a Coke-Bottling Empire, Dies at 83",neutral,-0.24973171949386597
+2010-05-20,"The soda industry offers to make a donation to the Pew Charitable Trusts if the city of Philadelphia skips a soda tax, according to reports.",neutral,0.25403186678886414
+2010-05-20,A $10 Million Offer From the Soda People,neutral,0.19146539270877838
+2010-06-08,"Coca-Cola will pay Dr Pepper Snapple Group $715 million for the right to continue selling Dr Pepper drinks once it acquires its North American bottler, Coca-Cola Enterprises.",neutral,0.36415645480155945
+2010-06-08,Coke Pours $715 Million Into Dr Pepper Deal,neutral,0.05066967383027077
+2010-07-07,How one company is adjusting to a new relationship with a financial backer that has a different way of doing business.,neutral,0.07541996240615845
+2010-07-07,"Can Honest Tea Say No to Coke, Its Biggest Investor?",neutral,0.06500822305679321
+2010-07-07,"Not long after Coke invested in Honest Tea, executives with the multinational noticed that the smaller company’s packaging featured the phrase “no high fructose corn syrup.” The executives construed the phrase as an implicit rebuke of Coke products.",negative,-0.7336011528968811
+2010-07-07,Can Honest Tea Take Coke’s Money and Keep Its Own Culture?,neutral,0.03059627115726471
+2010-07-08,"In the latest Case Study column, The New York Times’s Elizabeth Olson takes a look at Honest Tea, which is searching for ways to maintain its integrity while adjusting to its new relationship with Coca-Cola, a financial backer that has a different way of doing business.",neutral,0.12756842374801636
+2010-07-08,Case Study: Can Honest Tea Say No to Coke?,neutral,-0.03126249462366104
+2010-07-14,"Seth Goldman answers reader questions, like whether he’s sorry he partnered with Coke.",neutral,-0.22774730622768402
+2010-07-14,How Honest Tea Stood Up to Coke,neutral,0.11806825548410416
+2010-09-27,"Between Facebook, the world’s biggest social networking Web site, and Google, the world’s biggest search engine, peaceful co-existence might never have been a problem.",neutral,-0.10311765223741531
+2010-09-27,But the rivalry that has emerged is as much about philosophies as it is about products.,neutral,0.03879771754145622
+2010-09-27,Facebook vs. Google: A Showdown of Paradigms,neutral,0.12965920567512512
+2010-09-28,"Coca-Cola won approval from the United States and Canada to buy the North American operations of its largest bottler on the condition that it safeguards rival Dr Pepper Snapple Group’s confidential business information, Reuters said.",positive,0.9027274250984192
+2010-09-28,U.S. Approves Coca-Cola’s Buy of Big Bottler,positive,0.7883793711662292
+2010-11-03,"For Barry Diller, there’s nothing like the real thing: The chief executive of IAC/InterActiveCorp shelled out $7.4 million on 120,000 more shares of Coca-Cola, according to a securities filing made public on Tuesday.",negative,-0.63042151927948
+2010-11-03,Barry Diller Raises Coca-Cola Stake,neutral,0.01793530210852623
+2010-11-05,"TBS is charging $30,000 to $40,000 for each 30-second commercial during “Conan, ” about par for ad time on late-night broadcast TV.",neutral,0.01608572155237198
+2010-11-05,"With Debut of ‘Conan,’ Marketers Join Team Coco",neutral,0.2142874002456665
+2010-11-05,"Coca-Cola announced a $4 billion debt offering on Thursday, as the world’s top soft drink maker aims to take advantage of low borrowing rates.",positive,0.7841892242431641
+2010-11-05,"Coke Plans $4 Billion Debt Sale, Its Biggest Ever",neutral,0.3087552785873413
+2010-11-26,Strong cash flow and established brands may make food companies enticing targets.,positive,0.7562580704689026
+2010-11-26,"After Del Monte, Who’s Next on the Shopping List?",neutral,0.0024650171399116516
+2010-12-15,Save the Children said a halt in support of efforts to tax soda was unrelated to a grant it wants from Coca-Cola.,negative,-0.9048418402671814
+2010-12-15,Save the Children Breaks With Soda Tax Effort,neutral,-0.03999978303909302
+2011-01-04,"Fox will announce that Pepsi is the sole season-long sponsor for “The X Factor,” a competition Simon Cowell is bringing to the United States.",neutral,0.16475766897201538
+2011-01-04,Pepsi to Sponsor ‘American Idol’ Rival,neutral,0.0400361530482769
+2011-01-08,"In an interview with DealBook, Curtis Jackson, also known as 50 Cent, is bullish on social media and believes Facebook is worth $50 billion, maybe more.",neutral,0.062270261347293854
+2011-01-08,"50 Cent: Facebook Is Worth $50 Billion, Maybe More",neutral,0.07841022312641144
+2011-01-18,A reader has concerns about a Snickers commercial featuring Aretha Franklin.,negative,-0.858319103717804
+2011-01-18,Q. and A.,neutral,0.0380171574652195
+2011-01-18,With Stuart Elliott,neutral,0.02111242711544037
+2011-02-01,"Most companies that advertise during the big game are well-known, but at least one notable exception, Groupon, is trying to achieve greater brand recognition.",neutral,0.24311161041259766
+2011-02-01,"Super Bowl Marketers Try to Score Points, Too",neutral,0.048612531274557114
+2011-02-07,Highlights for the week include a new report on consumer sentiment and earnings reports from Disney and Coca-Cola.,neutral,0.13245061039924622
+2011-02-07,Economic Reports for the Week,neutral,-0.2655212879180908
+2011-02-22,What’s behind the use of a Simon and Garfunkel recording in a Honda Accord commercial?,neutral,-0.025217238813638687
+2011-02-22,Q. and A.,neutral,0.0380171574652195
+2011-02-22,With Stuart Elliott,neutral,0.02111242711544037
+2011-03-14,"Ames Scullin O’Haire, Atlanta, was named by the Coca-Cola Company, Atlanta, to create a campaign for Seagram’s ginger ale as Coca-Cola significantly expands distribution for Seagram’s beverages.",neutral,0.4138653874397278
+2011-03-14,Accounts and People of Note in the Ad Industry,neutral,-0.018521495163440704
+2011-03-22,"The deal is a classic duopoly case study: if AT&T and T-Mobile combine, it will set up a match like Coca-Cola vs. Pepsi, with AT&T pitted against Verizon.",neutral,0.17053580284118652
+2011-03-22,But getting antitrust approval may be difficult.,negative,-0.5996462106704712
+2011-03-22,AT&T’s Full Cost for Getting T-Mobile,neutral,0.06020042672753334
+2011-04-04,"Coca-Cola, with Ogilvy and Psyop, begins a global campaign aimed at teenagers, for Fanta, one of its biggest brands.",positive,0.5133413076400757
+2011-04-04,"Now, Hit ‘Play’ if You Want a Fanta",neutral,0.028429508209228516
+2011-05-05,"The Coca-Cola Company will mark its quasquicentennial next week, reflecting that the first Coca-Cola was served on May 8, 1886 at a pharmacy in Atlanta.",neutral,0.21852782368659973
+2011-05-05,Coca-Cola Gets Ready to Celebrate Its 125th,positive,0.45766833424568176
+2011-06-16,"A chart shows how many calories a dollar will buy, through different foods and beverages.",neutral,-0.006204377859830856
+2011-06-16,A Look at How Many Calories $1 Will Buy,neutral,-0.05755612999200821
+2011-06-24,"Shares in the Italian luxury fashion house edged up slightly amid a blizzard of camera flashes and jostling journalists, bankers and company executives.",positive,0.8105456829071045
+2011-06-24,Prada’s I.P.O.,neutral,0.03620745986700058
+2011-06-24,Debuts in Hong Kong Amid Investor Jitters,negative,-0.4308827519416809
+2011-08-19,"Amalgamated, which works for marketers like Ben & Jerry’s, CarMax, Coca-Cola, MSG Networks and Qdoba Mexican Grill, is hiring Brian Martin as chief executive, succeeding Charles Rosen.",neutral,0.06875155866146088
+2011-08-19,Amalgamated Hires a New Chief Executive,neutral,-0.14141088724136353
+2011-08-31,Honest Tea wants the new labels to stand out on the shelf but not alienate consumers as Tropicana did in 2009.,positive,0.49272897839546204
+2011-08-31,A Redesigned Brand Hopes to Avoid Tropicana Storm,neutral,-0.12760785222053528
+2011-09-16,The Coca-Cola Company is bringing out another commercial in its popular series of “Happiness Factory” spots for its flagship brand.,neutral,0.1210944876074791
+2011-09-16,Coke Asks Consumers to Revisit the ‘Factory’,neutral,0.027376215904951096
+2011-09-28,SABMiller’s bid for Foster’s moved a step forward on Wednesday as an Australian regulator said the acquisition was not likely to lessen competition in the beer industry.,positive,0.7558680176734924
+2011-09-28,SABMiller Deal for Foster’s Clears Hurdle,neutral,0.04869847372174263
+2011-10-27,"The vodka’s new campaign commemorates its efforts to reach American consumers who are gay, efforts which began in 1981 with magazine ads.",neutral,0.25314992666244507
+2011-10-27,Absolut Celebrates Its 30 Years of Marketing to Gay Consumers,positive,0.6759065389633179
+2011-12-07,"Chinese regulators have approved Nestlé’s $1.7 billion acquisition of a 60 percent stake in the confectioner Hsu Fu Chi International, in a sign that Beijing may be warming to large cross-border transactions.",positive,0.8235740065574646
+2011-12-07,China Clears Nestle’s Deal for Candy Maker,neutral,-0.03094598650932312
+2011-12-16,"Despite dueling announcements claiming technological breakthroughs in all-plant bottles, neither Coke nor Pepsi is confident enough in the technology to offer a firm timetable.",negative,-0.14585965871810913
+2011-12-16,The Race to Greener Bottles Could Be Long,neutral,0.11737465858459473
+2012-01-12,"The imports have been stopped after a banned fungicide was used on trees by growers for the Coca-Cola Company, which owns the Minute Maid brand.",negative,-0.9177860021591187
+2012-01-12,U.S.,neutral,-0.05536564439535141
+2012-01-12,Halts Import of Orange Juice,neutral,-0.22246204316616058
+2012-02-06,"Governments reports will include wholesale trade inventories and the trade deficit for December; companies reporting earnings will include Coca-Cola, Toyota Motor, Disney and Groupon.",neutral,-0.009782908484339714
+2012-02-06,Economic Reports for the Week Ahead,neutral,0.0058092400431632996
+2012-02-07,"The world’s largest soft-drink maker reported a net income of $1.65 billion in the latest quarter, beating analysts’ estimates.",positive,0.826521635055542
+2012-02-07,Strong Asian Sales Bolster Coca-Cola in 4th Quarter,positive,0.9121192097663879
+2012-02-15,"The brand’s campaign has as its centerpiece the song “Anywhere in the World,” written by Mark Ronson and Katy B.",neutral,0.07615076750516891
+2012-02-15,The song incorporates the sounds of athletes who hope to compete in the Games.,neutral,0.13222549855709076
+2012-02-15,Coca-Cola’s Olympics Advertising Puts Athletics to Music,neutral,0.04374556243419647
+2012-02-22,"Team Enterprises, which is based in Fort Lauderdale, Fla., is starting Team TransActive with a pair of executives, Tom Dowdy and Ira Rosenkrantz, who are well known in shopper marketing, a field that focuses on consumers at the point of sale.",neutral,0.06394613534212112
+2012-02-22,Another Agency Joins the Hot Field of Shopper Marketing,neutral,0.03718296065926552
+2012-03-08,The Securities and Exchange Commission said a former executive at Coca-Cola Enterprises acted on nonpublic information about a pending deal with the Coca-Cola Company.,negative,-0.568181037902832
+2012-03-08,Former Coca-Cola Bottling Executive Charged With Insider Trading,negative,-0.7832030057907104
+2012-03-09,A team at Google is reimagining four classic advertising campaigns with the goal of demonstrating that new-media ads can create an emotional appeal.,neutral,0.1757659763097763
+2012-03-09,"Google Remixes Old Campaigns, Adding a Dash of Digital Tools",neutral,0.09373731911182404
+2012-03-12,"A new agency, Sparks and Honey, seeks to identify trends in pop culture and create content for brands that take advantage of those trends.",neutral,0.08205270767211914
+2012-03-12,"Spotting the Trends, Before They Break Out",neutral,0.03771284967660904
+2012-03-15,"At a global marketing conference, Coca-Cola said it hoped to reach revenues of $200 billion by 2020.",positive,0.8083319067955017
+2012-03-15,"And L’Oréal said that by 2020 it wanted sell products to 2.5 billion customers around the world, compared with 1.2 billion in 2010.",positive,0.7469180226325989
+2012-03-15,Coca-Cola and L’Oréal Offer Ambitious Goals for 2020,neutral,0.06442723423242569
+2012-03-23,"While government requirements for recycling remain limited, pressure from environmentally minded consumers and the cost advantages of reusing materials are bringing change.",positive,0.5626243352890015
+2012-03-23,"Companies Pick Up Used Packaging, and Recycling’s Cost",neutral,-0.028268083930015564
+2012-04-17,"The beverage company’s sales volume grew by a combined 33 percent in India, China and Brazil, pushing earnings to $2.05 billion in the first quarter.",positive,0.9348431825637817
+2012-04-17,Strong Sales Lift Earnings at Coca-Cola,positive,0.8701426982879639
+2012-04-18,"The streaming music service will be adding apps from brands like McDonald’s, and is said to have reached agreement on a major deal with Coca-Cola.",positive,0.8667823672294617
+2012-04-18,Spotify Is Said to Make a Deal With Coke,neutral,0.16748495399951935
+2012-04-18,The companies have struck a global partnership.,positive,0.8759811520576477
+2012-04-18,The hope is that the marketing muscle of Coke can help Spotify reach new markets around the world.,positive,0.8976374864578247
+2012-04-18,Digital Notes: Coke and Spotify Team Up to Go Everywhere,positive,0.8382757306098938
+2012-04-30,"PepsiCo plans to announce an exclusive deal to supply all nonalcoholic beverages in IHOP and Applebee’s restaurants, according to a note distributed Sunday to subscribers of a trade publication.",positive,0.6016424298286438
+2012-04-30,Report Says Pepsi in Deals With IHOP and Applebee’s,neutral,0.09740771353244781
+2012-04-30,"The Coca-Cola Company said it was not in talks to buy the Monster Beverage Corporation, after rumors of negotiations between the two had circulated.",neutral,-0.10432671010494232
+2012-04-30,Coke Denies It Is in Talks to Buy Monster Beverage,neutral,-0.05206877738237381
+2012-05-15,The company’s new sodas are meant to compete with drinks like PepsiCo’s 60-calorie Pepsi Next.,positive,0.7656286954879761
+2012-05-15,Coca-Cola Tests Sweeteners in Battle of Lower Calories,neutral,0.18817339837551117
+2012-05-15,"Americans are abandoning carbonated drinks, and Coke and Pepsi are relying more than ever on the “flat” drinks and bottled waters.",negative,-0.5194354057312012
+2012-05-15,Soda Makers Scramble to Fill Void as Sales Drop,negative,-0.8520853519439697
+2012-05-16,Why states use cash meant for homeowners to plug budget gaps.,neutral,0.08667031675577164
+2012-05-16,"| A look at Eduardo Saverin, Facebook's co-founder.",neutral,0.016944823786616325
+2012-05-16,| How soft-drink makers cope with a decline in sales.,negative,-0.7849634885787964
+2012-05-16,"Business Day Live | May 16, 2012",neutral,0.01905304193496704
+2012-06-13,"The sports drink’s theme, “power through,” has the benefit of reinforcing the name of the product — a strategy known as “nameonics.”",neutral,0.21131139993667603
+2012-06-13,Powerade’s Olympics Campaign Puts Its Trust in ‘Nameonics’,neutral,0.11161468923091888
+2012-07-05,"In a joint statement, the two companies said that they had “decided to part ways” after working together since 2005 on Coke Zero ads in North America.",neutral,0.27991437911987305
+2012-07-05,Coca-Cola Is Replacing Crispin Porter on Coke Zero Account,neutral,0.027445022016763687
+2012-07-09,Urging workers to rise up ... and go to lunch.,neutral,0.1025545597076416
+2012-07-09,| Campbell Soup Company expands its portfolio.,positive,0.8817816376686096
+2012-07-09,"Business Day Live | July 9, 2012",neutral,0.01171700656414032
+2012-07-17,Coke’s second-quarter profit dropped to $2.79 billion from $2.8 billion a year ago as ingredient prices rose and sales declined 4 percent in Europe.,negative,-0.968001663684845
+2012-07-17,Coca-Cola Sales Rise 3%; Profit Falls Slightly,negative,-0.9529441595077515
+2012-07-27,Advertisers are wooing consumers with promises to provide solutions that are meant to be simple but not simplistic.,neutral,0.237484872341156
+2012-07-27,Paring Down Marketing Messages to a Few Simple Basics,neutral,-0.015643350780010223
+2012-08-17,"To commemorate World Humanitarian Day, the United Nations is encouraging people to declare via social media that they will do something to help another person.",neutral,0.4379916787147522
+2012-08-17,United Nations Is Looking to Spur a Billion People to Act,neutral,0.114779993891716
+2012-09-13,"A ballot measure to require labeling of foods that contain genetically modified ingredients is putting organic brands like Kashi, owned by Kellogg, at odds with their owners.",negative,-0.8799031972885132
+2012-09-13,Uneasy Allies in the Grocery Aisle,negative,-0.4437817335128784
+2012-10-01,A winner of an online contest was disqualified for using a Web site where people who enter digital sweepstakes ask members to vote for them.,negative,-0.7886922955513
+2012-10-01,Winner Uses Contest Site and Loses Grand Prize,negative,-0.6579496264457703
+2012-10-02,"The 13th annual report from Interbrand ranks what it deems the 100 most valuable brands worldwide, and Coca-Cola, Apple, I.B.M.",neutral,0.23838812112808228
+2012-10-02,and Google lead the list.,neutral,0.02709350734949112
+2012-10-02,"List of Global Brands Keeps Coke on Top, and Apple Jumps Up",neutral,0.09056247770786285
+2012-10-08,"The two big soda companies, often criticized for producing drinks that are too sugary, will post the figures first in San Antonio and Chicago and later nationwide.",neutral,-0.17348402738571167
+2012-10-08,Pepsi and Coke to Post Calories of Drinks Sold in Vending Machines,neutral,-0.018011219799518585
+2012-10-19,Business Day Live: An Honest Tea co-founder assesses bans on sugary drinks.,neutral,0.09655033051967621
+2012-10-19,| James B. Stewart examines Greg Smith’s claims against Goldman Sachs.,neutral,-0.01042897067964077
+2012-10-19,| A look back at Black Monday.,neutral,-0.0866815447807312
+2012-10-19,Regulating Against Obesity,neutral,0.027840130031108856
+2012-10-25,"Four additional brands are joining the Coca-Cola Company and the musician Will.i.am in an environmental initiative called Ekocycle, which seeks to develop creative ways of recycling plastic beverage bottles.",neutral,0.37978997826576233
+2012-10-25,Four More Climb Aboard the Coca-Cola-Will.i.am Ekocycle,neutral,0.05438947305083275
+2012-11-12,The venerable beverage company is repositioning its Web site as a consumer magazine called Coca-Cola Journey.,neutral,0.03161551058292389
+2012-11-12,Coke Revamps Web Site to Tell Its Story,neutral,-0.06643198430538177
+2012-11-14,The new investors joined Goldman Sachs in a new round of financing that values the streaming music service at $3 billion.,positive,0.6659449338912964
+2012-11-14,Spotify Attracts Investments From Coca-Cola and Fidelity,neutral,0.4077819883823395
+2012-11-15,"Also, News Corporation edges closer to investing in the Yankees’ cable network, and a book investigating Scientology will be published in January.",positive,0.8619107604026794
+2012-11-15,"The Breakfast Meeting: Coke Buys Into Spotify, and the BBC Abuse Probe Widens",neutral,0.10942119359970093
+2012-11-17,"The release of the filings, after similar releases for three other highly caffeinated energy drinks, appears to underscore the crazy-quilt regulatory pattern governing such products.",neutral,0.40495598316192627
+2012-11-17,F.D.A.,neutral,0.04497655853629112
+2012-11-17,Posts Injury Data Citing Red Bull,neutral,-0.10690204799175262
+2012-11-29,More brands that aren’t traditionally linked with the winter holidays are offering campaigns with holiday themes.,neutral,0.05825624614953995
+2012-11-29,Marketers Find Ways to Link Their Brands to the Season,neutral,0.07851192355155945
+2012-12-04,"The SodaStream home soda maker system, which bills itself as an alternative to bottled soft drinks, is joining the expensive ranks of advertisers during Super Bowl XLVII.",neutral,0.45115187764167786
+2012-12-04,Home Soda Maker to Join Coca-Cola and Pepsi as Super Bowl Advertiser,neutral,0.3195933401584625
+2012-12-07,"Home Shopping Network is selling more than 275 Coca-Cola items on its cable channel, online, on mobile devices and through social media.",neutral,0.03495287522673607
+2012-12-07,"More Than a Soft Drink, Coke Is an Array of Goods",neutral,0.002646060660481453
+2013-01-15,"One ad promotes steps Coke has taken, like prominently showing calorie counts and increasing the number of its brands sold in smaller cans, to help consumers make healthier choices.",positive,0.7539394497871399
+2013-01-15,"In Ads, Coke Confronts Soda’s Link to Obesity",neutral,-0.4044882655143738
+2013-02-03,"On Sunday, about nine and a half hours before kickoff, PepsiCo Beverages plans to unleash a comical video clip for Pepsi Next that tweaks the commercial planned during the game for Coca-Cola.",neutral,-0.12918923795223236
+2013-02-03,Pepsi’s Next Coke Parody Involves Pepsi Next,neutral,-0.22290658950805664
+2013-02-06,"The Church of Scientology’s commercial, alongside pitches for Budweiser, Coca-Cola and Mercedes-Benz, came in the wake of criticism of treatment of church members.",negative,-0.8359235525131226
+2013-02-06,"With a Super Bowl Ad, Scientology Gets a Crowd",neutral,0.07085106521844864
+2013-02-12,"The company earned $1.87 billion for the fourth quarter of 2012, but its shares closed down 2.7 percent, to $37.56.",negative,-0.9578364491462708
+2013-02-12,"Coca-Cola Lifts Profit, but Shares Close Down",negative,-0.8406798839569092
+2013-02-19,A new report on Chinese hackers depicts a wide-ranging cyberwar campaign against many American targets.,negative,-0.4796311855316162
+2013-02-19,"One of them apparently was the Coca-Cola Company, which failed in a bid to buy a Chinese beverage maker.",negative,-0.9099417328834534
+2013-02-19,Accusations of Chinese Hacking in Coke’s Failed Big Deal,negative,-0.9205062985420227
+2013-04-24,"Coca-Cola India is working with Dhingana, a music streaming service, to promote songs from its “Crazy for Happiness” advertising campaign.",positive,0.8795744776725769
+2013-04-24,Coke Looks Beyond Spotify for Music Promotion in India,positive,0.6374647617340088
+2013-05-06,"Coca-Cola is introducing a digital campaign for the Coca-Cola brand, aimed at teenagers, that is planned to use 61 Web sites.",neutral,0.06832900643348694
+2013-05-06,Accounts and People of Note in the Advertising Industry,neutral,0.009030111134052277
+2013-05-20,"The Association of Music Producers, New York, presented its first awards for music and sound.",positive,0.4690702557563782
+2013-05-20,"The Best of Show award was won by “Metamorphosis,” an animated short for Good Books, with music by Antfood, New York.",positive,0.52226322889328
+2013-05-20,Accounts and People of Note in the Advertising Industry,neutral,0.009030111134052277
+2013-05-25,"Though companies often make their tax situation as opaque as possible, citing complex calculations, much can be gleaned by looking at a standard measure in public reports over several years.",neutral,-0.014388432726264
+2013-05-25,Untangling What Companies Pay in Taxes,neutral,0.046273596584796906
+2013-05-28,"Advertising Hall of Achievement, Washington, which honors industry professionals ages 40 and younger, selected its inductees for 2013.",neutral,0.12631557881832123
+2013-05-28,Accounts and People of Note in the Advertising Industry,neutral,0.009030111134052277
+2013-06-07,"Some of the world’s most prominent multinational companies — Coca-Cola, Unilever, General Electric, Philips, Visa — have started doing business in the country.",neutral,0.26246148347854614
+2013-06-07,"In Myanmar, Flirtations by Investors Turn Into Commitments",neutral,-0.27680909633636475
+2013-06-28,"BET Networks, the television network owned by Viacom, is the latest media company to create a festival — pairing an array of marquee events with big sponsors.",neutral,0.18242159485816956
+2013-06-28,"On the Concert Stage, BET Festival Offers a Broad Brand Experience",neutral,0.09202016144990921
+2013-07-07,"American Advertising Federation, Washington, elected its board for 2013-14.",neutral,0.03837914764881134
+2013-07-07,Accounts and People of Note in the Advertising Industry,neutral,0.009030111134052277
+2013-07-11,"The giant talent agency is close to acquiring a 49 percent stake in Droga5, an independent advertising agency whose clients include Coca-Cola and Motorola.",neutral,0.294619619846344
+2013-07-11,"William Morris to Invest in Droga5, an Ad Agency",neutral,0.05276540666818619
+2013-07-14,"Data includes retail sales and leading economic indicators for June, and company reports will include Goldman Sachs, Coca-Cola, Bank of America, Google, Microsoft and General Electric.",neutral,0.03633611649274826
+2013-07-14,Economic Reports for the Week of July 15,neutral,-0.1041732057929039
+2013-07-25,Advertisers took to social media to send congratulatory messages to the royal family — examples of how brands are increasingly trying to become part of news-driven cultural moments.,neutral,0.10153111070394516
+2013-07-25,Welcoming a Royal Baby While Trying Not to Steal the Spotlight,neutral,0.009701251983642578
+2013-09-29,"Apple, named most valuable brand by Interbrand, a corporate identity and brand consulting company, is one of five technology companies among the top 10.",positive,0.7789778113365173
+2013-09-29,Apple Passes Coca-Cola as Most Valuable Brand,positive,0.4557028114795685
+2013-09-30,"Sponsorship spending for cause marketing is expected to total $1.78 billion this year, up almost 5 percent over last year.",positive,0.9115468263626099
+2013-09-30,Accounts and People of Note in the Advertising Industry,neutral,0.009030111134052277
+2013-10-02,"Oxfam accused Pepsico, Coca-Cola and Associated British Foods of buying from Brazilian and Cambodian plantations that reportedly took land from farmers without proper compensation.",negative,-0.9011920690536499
+2013-10-02,"Worried About Land Grabs, Group Presses 3 Corporations to Disclose Sugar Purchases",negative,-0.4452527165412903
+2013-10-25,"By the end of the decade, sales of water — whether plain, flavored or carbonated — will surpass those of sodas like Coke and Pepsi.",positive,0.8354706168174744
+2013-10-25,Bottled Water Sales Rising as Soda Ebbs,positive,0.07704156637191772
+2013-12-12,PepsiCo has won the business of Buffalo Wild Wings.,positive,0.8562685251235962
+2013-12-12,The two plan new menu items combining products from both companies.,neutral,0.11166245490312576
+2013-12-12,Pepsi Deal Underscores an Emphasis on Snacks,neutral,0.22408327460289001
+2014-01-08,"The JeffreyGroup, an agency known mainly for public relations, is creating a new agency to provide cross-cultural marketing to Hispanics.",neutral,0.3303629755973816
+2014-01-08,"New Agency, a Spinoff, Will Aim Its Message at a Hispanic Audience",neutral,0.0946810245513916
+2014-01-23,"Leaders of manufacturing companies, facing an aging population of skilled employees, say apprenticeships and internships can help society avoid a “lost generation” of workers.",positive,0.5838901400566101
+2014-01-23,"Apprenticeships Could Help Reduce Youth Unemployment, Business Leaders Say",positive,0.7906551361083984
+2014-02-04,"A golden lab puppy who refuses to leave his Clydesdale “bud” won plaudits; a Coca-Cola spot evoking the nation’s multicultural populace drew mostly positive reactions, but some raw comments as well.",positive,0.5024975538253784
+2014-02-04,‘Puppy Love’ Warms Hearts; Diversity Draws Mixed Response,neutral,0.11177299171686172
+2014-02-05,Coke will buy about 16.7 million shares in Green Mountain for about $1.25 billion.,neutral,0.03244474530220032
+2014-02-05,"In return, Green Mountain will be the official maker of the soda giant’s single-serve cold beverages, built on its popular Keurig pod-based system.",positive,0.625862717628479
+2014-02-05,Coca-Cola to Buy 10% Stake in Green Mountain Coffee,neutral,0.05222640931606293
+2014-02-06,"Analysts and investors think that a deal between Coke and Green Mountain may presage another one: some sort of tie-up between SodaStream and Coke’s archrival, PepsiCo.",positive,0.671755313873291
+2014-02-06,Green Mountain’s Deal With Coke Fails to Dent SodaStream,negative,-0.9048142433166504
+2014-02-07,Coca-Cola presumably gave Green Mountain Coffee a comprehensive review before deciding to buy a stake.,neutral,0.12560343742370605
+2014-02-07,"But the hedge fund manager David Einhorn can’t be easily dismissed either, Kevin Allison writes in Reuters Breakingviews.",negative,-0.6393917202949524
+2014-02-07,Coke and Einhorn Take Opposite Sides of Green Mountain Bet,neutral,0.027635639533400536
+2014-02-10,"Coca-Cola North America brought out a new campaign for Diet Coke over the weekend during the NBC coverage of the Winter Olympics, and more.",neutral,0.32402852177619934
+2014-02-10,News From the Advertising Industry,neutral,0.009864628314971924
+2014-02-19,"The company blamed cooling growth in emerging markets and the negative impact of foreign exchange rates, which it expects to have even greater impact this year.",negative,-0.8439775705337524
+2014-02-19,"Profit Slides 8.5% for Coke, as Weak Sales Abroad Hit Hard",negative,-0.9516157507896423
+2014-02-28,"The very idea that the Coke brand may be in trouble is startling, given that Coca-Cola has thrived for 127 years, surviving countless passing health fads.",negative,-0.010930031538009644
+2014-02-28,"For Coke, Challenge Is Staying Relevant",positive,0.6148693561553955
+2014-03-04,"Ellen DeGeneres used a Samsung phone, an Oscar sponsor, for a star-studded selfie, but an iPhone to post from backstage.",neutral,-0.09666167944669724
+2014-03-04,And that Coca-Cola emblazoned pizza delivery box rankled PepsiCo.,neutral,0.15488412976264954
+2014-03-04,"Selfies, Pizza and Promoting Brands at the Oscars",neutral,-0.018356671556830406
+2014-03-25,A money manager claims Coca-Cola allocated as much as $24 billion toward stock-based rewards for its senior people.,neutral,0.057395800948143005
+2014-03-25,A Question of What’s a Reasonable Reward,neutral,-0.10811193287372589
+2014-04-14,"Kevin Harvick took the lead after a late-race caution; Marc Marquez won the MotoGP event in Austin, Tex.",neutral,0.12218105047941208
+2014-04-14,Monday Motorsports: Harvick Wins Another Nascar Crown Jewel,positive,0.6607140302658081
+2014-04-21,"A lawyer for Coca-Cola remained poised under sometimes harsh questioning on its Pomegranate Blueberry juice blend, which contains only notes of either fruit.",negative,-0.824114203453064
+2014-04-21,Skeptical Justice Scolds Coca-Cola on Juice Label,negative,-0.8562612533569336
+2014-05-04,Warren E. Buffett answered roughly six hours’ worth of questions – including pointed queries about his opposition to a controversial executive pay plan at the Coca-Cola Company.,neutral,-0.2154514342546463
+2014-05-04,"At Berkshire Annual Meeting, Questions for Buffett About Coca-Cola and Deals",neutral,-0.0830540657043457
+2014-05-06,"The company said that would stop using brominated vegetable oil, which contains bromine, an element found in flame retardants, in Fresca and some varieties of Fanta and fountain drinks.",neutral,-0.14514122903347015
+2014-05-06,Coca-Cola to Remove an Ingredient Questioned by Consumers,negative,-0.750092089176178
+2014-05-07,"Mocked in social media, the soft drink’s slogan “You’re on” is being dropped from its ad campaign after only three months.",negative,-0.8982194066047668
+2014-05-07,"Mocked on Internet, Diet Coke Alters Ads",negative,-0.7348400950431824
+2014-05-12,Petco withdraws an ad with reference to Bonnie and Clyde in describing pets and their owners.,negative,-0.9210252165794373
+2014-05-12,Q. and A.,neutral,0.0380171574652195
+2014-05-12,With Stuart Elliott,neutral,0.02111242711544037
+2014-05-15,"The beverage maker and the fast-food chain have had close ties since 1955, to the point where Coca-Cola even has a McDonald’s division.",neutral,0.4146353006362915
+2014-05-15,"Coke and McDonald’s, Growing Together Since 1955",neutral,0.23032470047473907
+2014-05-15,"With soda sales sliding in grocery and convenience stores and other retail outlets, new equipment offers the companies a means of introducing consumers to their products.",positive,0.6752902865409851
+2014-05-15,Pepsi Challenges Coke in the Race to Design a More Tappable Soda Fountain,positive,0.5898899435997009
+2014-06-12,"The juice blend, sold under the Minute Maid brand, is made almost entirely from apple and grape juice but is called Pomegranate Blueberry.",neutral,0.02513248845934868
+2014-06-12,"Coke Can Be Sued by Rival Over Juice Claim, Court Says",negative,-0.7499477863311768
+2014-07-07,"SABMiller, the world’s second-largest brewer after Anheuser-Busch InBev, plans to sell its 39.6 percent stake in Tsogo Sun Holdings for about $1.1 billion.",neutral,0.01763402670621872
+2014-07-07,SABMiller to Sell Stake in South African Hotel and Casino Group,neutral,-0.02688184753060341
+2014-07-09,"An overvalued bolívar meant the country had been a major source of profits for foreign firms, but they evaporated for many with a new exchange rate.",neutral,0.14055676758289337
+2014-07-09,Profits Vanish in Venezuela After Currency Devaluation,negative,-0.8929082751274109
+2014-07-26,Why is coconut water everywhere?,neutral,-0.34855973720550537
+2014-07-26,"Because two companies battled for market share, one yoga studio and corner store at a time.",neutral,0.03226471692323685
+2014-07-26,"For Coconut Waters, a Street Fight for Shelf Space",neutral,-0.11890231817960739
+2014-08-14,A major rationale for the deal was Coca-Cola’s desire to find a replacement for carbonated soft drink sales.,neutral,0.33979400992393494
+2014-08-14,Coke to Buy Stake in Monster Beverage for $2.15 Billion,neutral,0.017741402611136436
+2014-08-15,Regulators are pushing for changes that will affect derivatives.,neutral,0.04793278127908707
+2014-08-15,| G.E.,neutral,0.03006191924214363
+2014-08-15,is in talks to sell its appliances unit.,neutral,0.02038928121328354
+2014-08-15,| Coca-Cola announced that it had acquired a stake in Monster Beverage.,neutral,0.45398393273353577
+2014-08-15,| Bitcoin’s pop may exceed its potential.,negative,-0.8019220232963562
+2014-08-15,Morning Agenda: Tension Mounts Over Derivatives,negative,-0.8467051982879639
+2014-08-15,"Buying a piece of Monster is a capitulation of sorts, though Coca-Cola hasn’t caved in financially, Kevin Allison of Reuters Breakingviews writes.",neutral,0.14680753648281097
+2014-08-15,Coke Finds Right Formula in Monster Deal,neutral,0.3494086265563965
+2014-09-09,Coke’s assurance of support for a new compensation plan failed to account for opposition by three of the company’s six largest shareholders.,negative,-0.9095811247825623
+2014-09-09,Support in Coca-Cola Vote Depends on How the Math Is Done,neutral,0.08882628381252289
+2014-09-09,"The maker of Cheerios is paying a 37 percent premium, for “natural” macaroni and cheese purveyor Annie’s Homegrown.",neutral,0.10481718182563782
+2014-09-09,"But big companies often squash growth when they swallow small targets whole, notes Kevin Allison of Reuters Breakingviews.",negative,-0.7348101735115051
+2014-09-09,The Risk in the General Mills Deal for Annie’s,neutral,0.0030340850353240967
+2014-09-23,The three companies said they would change practices like marketing to encourage less consumption of calorie-heavy drinks.,neutral,0.4558229148387909
+2014-09-23,"Soda Makers Coca-Cola, PepsiCo and Dr Pepper Join in Effort to Cut Americans’ Drink Calories",negative,-0.6639691591262817
+2014-10-01,The big question that now hangs over the company is whether the adjustments will satisfy the shareholders who had voiced their concerns over the plan.,neutral,-0.038980305194854736
+2014-10-01,"Coca-Cola, Yielding to Criticism, Revises Its Proposal for Executive Pay",negative,-0.3729898929595947
+2014-10-09,Four of the top 10 brands on the 2014 Interbrand Best Global Brands list are technology brands.,neutral,0.07642404735088348
+2014-10-09,Technology Titans Lead Ranking of Most Valuable Brands,neutral,0.3141651153564453
+2014-11-07,The company says that its new All-Terrain T/A KO2 will work as well on the highway as on the trail.,positive,0.8417065739631653
+2014-11-07,The Rubber Meets the Mud: Trying Out a New BFGoodrich Off-Road Tire,neutral,0.0929984599351883
+2014-11-18,"With only a few days left in the legislative session, Congress will decide whether to renew 56 tax provisions set to expire.",neutral,0.038637734949588776
+2014-11-18,It’s Crunch Time in Congress for Tax Breaks,neutral,-0.3281097710132599
+2014-12-21,"Next year, companies are expected to spend more money on digital advertising than on TV commercials in China.",neutral,0.3589459955692291
+2014-12-21,"In China, a Rapid Jump to Mobile Advertising",positive,0.7900634407997131
+2015-01-06,The last 12 months saw above-average creativity in saying one thing and meaning another.,neutral,0.19268366694450378
+2015-01-06,John Foley and Rob Cox of Reuters Breakingviews offer 10 euphemisms they would most like to disappear.,neutral,-0.06140083074569702
+2015-01-06,The Year in Market Doublespeak,neutral,-0.05334798991680145
+2015-01-09,The company said in the fall that it would eliminate jobs to reduce costs but did not say how many until Thursday.,negative,-0.9014030694961548
+2015-01-09,"Coca-Cola to Cut Up to 1,800 Jobs",negative,-0.947296142578125
+2015-02-02,"Ads broadcast during the game were not devoid of the usual celebrities and slapstick comedy, but commercials celebrating fatherhood and public proclamations of love dominated.",neutral,-0.06993050873279572
+2015-02-02,"Super Bowl Commercials Go for Heart, Not Just Funny Bone",neutral,0.023911187425255775
+2015-02-05,"The bid by Ball values Rexam at about $6.5 billion and would combine two of the world’s largest makers of beverage cans, whose customers include giants like PepsiCo and Coca-Cola.",positive,0.6124352812767029
+2015-02-05,Ball Corporation in Merger Talks With British Aluminum Can Maker Rexam,neutral,0.021116511896252632
+2015-02-10,"The beverage giant cited currency fluctuations and charges tied to Venezuela, but it is grappling with the larger problem of changing consumer tastes.",negative,-0.500055193901062
+2015-02-10,Coca-Cola Earnings Plunge 55%,negative,-0.9462305903434753
+2015-02-23,"Faced with slumping sales despite a thriving United States market for water products, the home-carbonation company is rethinking its product line.",negative,-0.8171776533126831
+2015-02-23,SodaStream Hits Reset as Its Sales and Profit Fall,negative,-0.860975980758667
+2015-02-25,"When the company introduced the sweeter New Coke, it did not anticipate the “depth of feeling” for the original taste, Mr. Keough said in announcing a return to the regular formula.",neutral,0.1645604372024536
+2015-02-25,"Donald R. Keough, Who Led Coca-Cola Through New Coke Debacle, Dies at 88",neutral,-0.24486535787582397
+2015-03-22,"Drawn by fast-growing private tech companies, big money managers are purchasing their shares, betting that they’ll go public.",neutral,0.43478691577911377
+2015-03-22,But that outcome is hardly guaranteed.,neutral,-0.0036230087280273438
+2015-03-22,Americans’ Retirement Funds Increasingly Contain Tech Start-Up Stocks,neutral,-0.11310665309429169
+2015-03-23,"Fidelity Investments, T. Rowe Price and BlackRock are some of the money managers that have struck deals to acquire shares in Silicon Valley start-ups like Uber, Airbnb and Pinterest.",neutral,0.21479512751102448
+2015-03-23,Daily Report: Private Tech Stocks Attracting Billions From Big Money Managers,positive,0.6587933301925659
+2015-05-01,One study estimated that more than half of what private equity charges pension funds to manage their investments is not being disclosed.,neutral,-0.05807606875896454
+2015-05-01,Pension Funds Can Only Guess at Private Equity’s Cost,neutral,-0.12987056374549866
+2015-05-11,Television networks are offering new data-driven products to help advertisers reach targeted audiences even as they shift to digital and social media.,positive,0.6358727216720581
+2015-05-11,TV Networks Borrow Page From Digital Rivals to Attract Advertisers,neutral,0.08421580493450165
+2015-05-18,"The adman behind the Coke ad used in the series finale of “Mad Men” shares the true inspiration for the lyric, “I’d like to buy the world a Coke.”",neutral,0.05205726623535156
+2015-05-18,‘Mad Men’ Finale Renews Spotlight on Creator of ’71 Coke Jingle,positive,0.7096612453460693
+2015-07-22,The company attributed its higher earnings in part to strong growth in sales of small and “specialty” packages like eight-ounce cans.,positive,0.9237351417541504
+2015-07-22,"Coca-Cola Profit Up 19%, Despite Lower Sales",positive,0.7990028858184814
+2015-08-06,The deal will combine Coca-Cola Enterprises and Coca-Cola Iberian Partners and Coca-Cola Erfrischungsgetränke to form the world’s largest independent bottler of Coca-Cola products.,positive,0.7546684145927429
+2015-08-06,Three Coca-Cola Bottlers in Europe Agree to Merger,positive,0.6365959048271179
+2015-08-20,The company was criticized after disclosure that it had financial ties to a group that argues for less concern about eating habits and more emphasis on exercise.,negative,-0.9259374737739563
+2015-08-20,Coca-Cola to Disclose Its Spending on Research Into Soft Drinks and Health,neutral,-0.06271342933177948
+2015-08-25,The beverage company announced a plan in 2007 to replenish the amount of water equivalent to its sales volume — about 160 billion liters — by 2020.,positive,0.7714549899101257
+2015-08-25,It could get to that point this year.,positive,0.6161881685256958
+2015-08-25,Coca-Cola Says It’s Close to Water Replenishment Goal,neutral,0.2391800731420517
+2015-09-07,"Ms. Little, who consulted for three decades for companies like 3M, General Mills and Coca-Cola, took inspiration from sources as varied as geishas, burglars and cheetahs.",neutral,-0.005390888080000877
+2015-09-07,"Sara Little, Peripatetic Product Designer, Dies at 97",neutral,-0.25363889336586
+2015-09-07,A decision due from a Spanish court could test the government’s effort to give employers flexibility to address the country’s high unemployment rate.,negative,-0.6776920557022095
+2015-09-07,Dispute at Coke Bottling Plant Could Signal Labor Challenges for E.U.,negative,-0.9476075768470764
+2015-10-09,"One of the main European bottlers of the soda can proceed with a plan to downsize, ending a tense legal dispute over a shuttered bottling plant.",positive,0.7626422047615051
+2015-10-09,Coca-Cola Bottler Wins Labor Suit in Spain,negative,-0.8596062660217285
+2015-10-21,"Despite higher volume sales,the company reported that revenue fell to $11.4 billion.",negative,-0.9656379222869873
+2015-10-21,Analysts had expected $11.58 billion.,neutral,0.0229782871901989
+2015-10-21,Coca-Cola Reports 4.6% Drop in Revenue,negative,-0.9672669768333435
+2016-01-26,"Johnson Controls is just the latest corporation to flee America for greener, lower-tax pastures.",neutral,0.007050316780805588
+2016-01-26,"And until lawmakers reform the tax code, the exodus will continue.",neutral,-0.3675215244293213
+2016-01-26,A Tidal Wave of Corporate Migrants Seeking (Tax) Shelter,neutral,-0.24634869396686554
+2016-02-07,"All Chipotle stores will be closed for four hours on Monday, and after a shake-up at Viacom, the media company will report on Tuesday how it’s faring.",negative,-0.8341373205184937
+2016-02-07,"A Short Shutdown for Chipotle, Viacom’s Earnings and Yellen to Testify",negative,-0.8013902306556702
+2016-02-09,"Sales were down 8 percent, but higher prices compensated for the drop, the company said on Tuesday.",negative,-0.9579673409461975
+2016-02-09,"Coca-Cola Reports Solid Profit, Topping Wall St.",positive,0.913557767868042
+2016-02-09,Forecasts,neutral,-0.06866522878408432
+2016-05-16,Mr.,neutral,0.04346195608377457
+2016-05-16,Backer created the classic 1971 commercial for Coca-Cola with singers on an Italian hilltop proclaiming Coke as “the real thing.”,neutral,0.06938605010509491
+2016-05-16,"Bill Backer, Who Taught the World (and Don Draper) to Sing, Dies at 89",neutral,-0.15676221251487732
+2016-06-02,"He made marketing deals with celebrities like Michael Jackson, Madonna, Cindy Crawford and Michael J.",neutral,0.062001146376132965
+2016-06-02,Fox to try to gain market share from Coca-Cola.,positive,0.6736571192741394
+2016-06-02,"Roger Enrico, PepsiCo Chief During 1980s ‘Cola Wars,’ Dies at 71",neutral,-0.27168193459510803
+2016-10-10,A new report documents the beverage industry’s deep financial ties to health groups as part of a strategy to silence critics and gain unlikely allies.,neutral,0.41579484939575195
+2016-10-10,"Coke and Pepsi Give Millions to Public Health, Then Lobby Against It",neutral,-0.030822644010186195
+2016-11-23,"As more cities impose tax on sugary drinks, a vow from some soft drink producers to reduce calories 20 percent in 10 years advances ever so slightly.",negative,-0.8305662274360657
+2016-11-23,Creeping Progress in Pledge to Cut Calories in Sugary Soda,positive,0.418398380279541

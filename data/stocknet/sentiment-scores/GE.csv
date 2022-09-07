@@ -1,0 +1,427 @@
+Date,Sentence,Prediction,sentimentScore
+2014-01-06,"The gene modulation and magnetic beads businesses will become part of GE Healthcare, and help General Electric offer new medicines, vaccines and diagnostics as part of its expanding life sciences business.",positive,0.49345433712005615
+2014-01-06,G.E.,neutral,0.0415060818195343
+2014-01-06,to Buy Health Care Units From Thermo Fisher Scientific,neutral,0.04442550241947174
+2014-01-13,"As loyalty programs become more important for retailers, GE Capital Retail Bank will offer a product to help them track customers across online platforms and payment methods.",neutral,0.306931734085083
+2014-01-13,GE Capital to Help Set Up Loyalty Programs for Retailers,neutral,0.21215492486953735
+2014-01-16,"A group of smaller credit rating agencies outside the United States has formed Arc Ratings, a new company that the group hopes will provide a viable alternative to the so-called Big 3 credit rating agencies when it comes to international debt financing.",positive,0.748795747756958
+2014-01-16,New Ratings Agency Hopes to Compete With Big 3 Outside U.S.,positive,0.9066858291625977
+2014-01-17,"The fourth-quarter earnings of 53 cents a share, bolstered by growth in G.E.’s industrial businesses and an improving United States economy, were in line with expectations.",positive,0.9044729471206665
+2014-01-17,General Electric’s Industrial Segments Lift Earnings,positive,0.20916369557380676
+2014-01-21,"General Electric announced on Tuesday that it had agreed to purchase API Healthcare, a software and analytics firm that helps medical companies manage their work force.",positive,0.6545810699462891
+2014-01-21,G.E.,neutral,0.0415060818195343
+2014-01-21,to Buy Health Care Analytics Firm,neutral,0.064687579870224
+2014-01-30,"President Obama, supported by many Republicans and business groups, has met opposition from labor and many Democrats on his push for fast-track approval of trade deals with Pacific Rim nations and Europe.",negative,-0.8993179798126221
+2014-01-30,Obama and G.O.P.,neutral,0.07511972635984421
+2014-01-30,Facing Opposition to Trade Pacts,negative,-0.5587280988693237
+2014-01-31,"Mary L. Schapiro said her time would be spent on an array of university lectures, speaking engagements and corporate board work.",neutral,-0.0003920048475265503
+2014-01-31,Former Chief of S.E.C.,neutral,-0.014907415956258774
+2014-01-31,to Shift Consulting Job,neutral,-0.19374221563339233
+2014-02-03,The post-recession reality is that the customer base for businesses that appeal to the middle class is shrinking as the top tier pulls even further away.,negative,-0.9658700823783875
+2014-02-03,The Middle Class Is Steadily Eroding.,negative,-0.8834360837936401
+2014-02-03,Just Ask the Business World.,neutral,0.02074478194117546
+2014-03-04,"Jeffrey R. Immelt, the chief executive of General Electric, bought about 105,000 shares on Tuesday for a little more than $2.6 million, according to a company filing.",neutral,0.02467656508088112
+2014-03-04,Immelt Spends His Cash Bonus on G.E.,neutral,0.03348027914762497
+2014-03-04,Stock,neutral,0.04363793879747391
+2014-03-10,"The company, which has sought to streamline itself in the years since the financial crisis, is emphasizing a “culture of simplification,” its chief executive, Jeffrey R. Immelt, wrote in an annual letter to shareholders published on Monday.",neutral,0.3627004027366638
+2014-03-10,"In Annual Letter, G.E.",neutral,0.0591861791908741
+2014-03-10,Chief Extols ‘Simplification’,neutral,0.04645868390798569
+2014-03-13,"General Electric filed on Thursday to spin off its North American retail finance unit in an initial public offering, taking the next step to reduce the size of the GE Capital division.",neutral,0.06908448040485382
+2014-03-13,G.E.,neutral,0.0415060818195343
+2014-03-13,Files to Spin Off Retail Finance Unit,neutral,-0.0383564755320549
+2014-03-14,The S.E.C.,neutral,0.014058621600270271
+2014-03-14,unveiled a civil case against a 10th former SAC Capital employee.,negative,-0.8064173460006714
+2014-03-14,| An internal investigation found that the Justice Department had repeatedly and significantly overstated its efforts to prosecute mortgage fraud.,negative,-0.8261601328849792
+2014-03-14,| G.E.,neutral,0.03006191924214363
+2014-03-14,filed to spin off its North American retail finance unit in an initial public offering.,neutral,-0.0021681543439626694
+2014-03-14,| Lions Gate agreed to admit to wrongdoing and pay a $7.5 million fine for failing to disclose how it stopped a takeover by Carl C. Icahn in 2010.,negative,-0.9105104804039001
+2014-03-14,S.E.C.,neutral,0.030168529599905014
+2014-03-14,Takes Aim at Another Former SAC Employee,negative,-0.49041908979415894
+2014-03-25,"The chief executives of LinkedIn, Ford Motor Company, Northwestern Mutual, Goldman Sachs and Intuit were among the top scorers in Glassdoor’s ranking of the leaders at 51 big companies.",neutral,0.16066916286945343
+2014-03-25,Yahoo and General Electric anchored the bottom.,negative,-0.4586249887943268
+2014-03-25,A Ranking of Top Executives by Their Employees,neutral,0.009577583521604538
+2014-03-27,"Some of the largest multinational corporations have formed a global standards body intended to speed the connection of factories, oil rigs and hospitals to intricate systems of sensors and computers.",neutral,0.10474983602762222
+2014-03-27,Consortium Wants Standards for ‘Internet of Things’,neutral,0.04670646786689758
+2014-04-17,"General Electric posted first-quarter net profit of $3 billion and operating earnings of 33 cents a share, slightly above analysts’ estimate.",positive,0.40393710136413574
+2014-04-17,G.E.,neutral,0.0415060818195343
+2014-04-17,Posts Strong Growth In Its Industrial Businesses,positive,0.7651559114456177
+2014-04-24,Shares of the French industrial conglomerate Alstom soared after a news report said General Electric was seeking to buy the company for about $13 billion.,positive,0.7239521741867065
+2014-04-24,Alstom said it was not aware of any takeover bid.,neutral,-0.023311441764235497
+2014-04-24,Alstom Denies Report of G.E.,negative,-0.7257687449455261
+2014-04-24,"Takeover Bid, but Its Shares Surge",negative,-0.9194046854972839
+2014-04-25,"Selling the power division of Alstom, the French engineering group, to G.E.",neutral,-0.009179521352052689
+2014-04-25,"would help the remaining company financially and strategically, Olaf Storbeck writes in Reuters Breakingviews.",positive,0.779185950756073
+2014-04-25,Alstom Split Would Energize Its Business Units,neutral,0.45817065238952637
+2014-04-27,The French economy minister said economic sovereignty was at stake and that Siemens – Alstom’s German rival – was making an offer of its own.,neutral,0.13224133849143982
+2014-04-27,France Defers G.E.,negative,-0.3389240503311157
+2014-04-27,Plan to Buy Energy Business,neutral,0.04075849428772926
+2014-04-28,The French government’s intimate involvement in a corporate takeover battle spoke volumes about France’s continued efforts to shield its economy.,positive,0.43471813201904297
+2014-04-28,France Plays an Aggressive Hand in Alstom Deal Talks,neutral,0.3406953811645508
+2014-04-29,The decision came as a French government minister continued to advocate for a rival proposal by Siemens.,neutral,0.2880929410457611
+2014-04-29,Alstom’s Board Is Said to Back $13 Billion G.E.,positive,0.5962851047515869
+2014-04-29,Bid for Energy Unit,neutral,0.05050967261195183
+2014-04-30,"The board of Alstom “has unanimously endorsed G.E.’s offer,” but the directors said they would also consider a rival offer from the German industrial conglomerate Siemens.",positive,0.6697914600372314
+2014-04-30,Alstom Backs G.E.’s Offer Despite French Government’s Concerns,positive,0.7412833571434021
+2014-05-05,"The French government said Monday it would oppose General Electric’s friendly $13.5 billion offer, though its legal means for stopping a deal appear to be limited.",negative,-0.8893049359321594
+2014-05-05,France Says It Opposes G.E.’s Bid for Alstom Unit,negative,-0.9135399460792542
+2014-05-06,By trying to counter a G.E.,neutral,0.0022561103105545044
+2014-05-06,"deal with the French industrial group, Siemens has entered a battle in which it has much more to lose than it stands to gain.",negative,-0.8592000007629395
+2014-05-06,G.E.,neutral,0.0415060818195343
+2014-05-06,'s Bid for Alstom Units Puts Siemens in a Bind,neutral,0.006777763366699219
+2014-05-07,"As quarterly profits rise, the German giant said it planned a Japanese joint venture, an acquisition of units of Rolls-Royce, and a shift of its power units to the United States.",positive,0.7018265128135681
+2014-05-07,"Playing Down Any Alstom Move, Siemens Reorganizes and Makes Other Deals",neutral,0.04526733234524727
+2014-05-08,General Electric said it would deploy Box’s cloud-based services companywide.,neutral,0.4625913202762604
+2014-05-08,"Online enterprise software fans say this kind of deal, likely to be long term, justifies the high marketing costs that had Wall Street worried about Box.",positive,0.36438632011413574
+2014-05-08,"After Postponing Its I.P.O., Box Gets a Break",neutral,0.05105971544981003
+2014-05-13,"Investors are egging on companies to take on ever riskier transactions and are bidding up the shares of acquirers well beyond mathematical prudence, Rob Cox of Reuters Breakingviews writes.",neutral,0.24510324001312256
+2014-05-13,The Brewing M.&A.,neutral,0.03526260331273079
+2014-05-13,Bubble,neutral,0.04468230903148651
+2014-05-15,The government has formally given itself the power to block foreign takeovers on strategic grounds as it seeks to sway the outcome of a battle between General Electric and Siemens for Alstom.,neutral,0.25543585419654846
+2014-05-15,France Asserts It Has Authority to Block Mergers,neutral,0.05010334402322769
+2014-05-23,A partnership with a French company to build airliner engines is being cited as evidence that General Electric knows how to work with France.,positive,0.8002429604530334
+2014-05-23,Exhibit A in G.E.’s Case for Alstom Deal,neutral,0.05670353025197983
+2014-05-26,The meeting comes as the American company and Siemens of Germany both try to persuade the French government that it is making the best offer.,positive,0.7078563570976257
+2014-05-26,G.E.,neutral,0.0415060818195343
+2014-05-26,Chief to Meet With Hollande on Alstom Deal,neutral,0.03471732512116432
+2014-05-28,"The French government offered qualified praise for the $13.5 billion bid after President François Hollande held a meeting with Jeffrey R. Immelt, General Electric’s chairman and chief executive.",positive,0.7027548551559448
+2014-05-28,A Thaw in France in G.E.,negative,-0.5894166231155396
+2014-05-28,Bid for Alstom,neutral,0.046002138406038284
+2014-06-02,Some French media outlets have raised a fuss that G.E.’s chief executive shares family ties with the incoming chief executive of a law firm that works for Alstom.,negative,-0.8299788236618042
+2014-06-02,A Question of Family Ties Between G.E.,neutral,-0.0779632031917572
+2014-06-02,and Alstom Law Firm,neutral,0.024188866838812828
+2014-06-11,"The decision by Siemens to team up with Mitsubishi Heavy Industries in a potential bid for Alstom’s power assets probably won’t be enough to overcome rival interest from General Electric, Olaf Storbeck writes in a Reuters Breakingviews column.",positive,0.8352823257446289
+2014-06-11,G.E.,neutral,0.0415060818195343
+2014-06-11,May Still Hold Upper Hand in Alstom Bid,neutral,-0.002812415361404419
+2014-06-15,"The new offer would be complex, but in essence, would leave Siemens of Germany with control of Alstom’s gas turbine business.",neutral,0.16541966795921326
+2014-06-15,Siemens and Mitsubishi Heavy Industries Nearing an Offer for Alstom,neutral,0.4168121814727783
+2014-06-16,"Siemens and Mitsubishi Heavy Industries formally presented a counteroffer for Alstom, but their combined bid was less than what General Electric was offering.",negative,-0.7571111917495728
+2014-06-16,Siemens and Mitsubishi Counteroffer for Alstom Is Less Than G.E.’s Bid,negative,-0.830660879611969
+2014-06-17,"Rival bids for Alstom seem fated to be decided less on business merits and more on attractiveness to President François Hollande’s government, which fears losing one of France’s industrial crown jewels.",neutral,-0.1792617291212082
+2014-06-17,"In Competing Offers for Alstom, France’s Government Holds Sway",neutral,0.06433448940515518
+2014-06-18,"Jeffrey R. Immelt, the G.E.",neutral,0.026778370141983032
+2014-06-18,"chairman and chief executive, will meet with French officials on Thursday and Friday to offer additional measures in hopes of persuading them to back G.E.’s deal for Alstom’s energy assets.",positive,0.7511608600616455
+2014-06-18,G.E.,neutral,0.0415060818195343
+2014-06-18,to Propose Sweeteners to Its Alstom Offer,neutral,0.08224615454673767
+2014-06-19,Out goes a simple cash deal with some job promises.,neutral,0.08444846421480179
+2014-06-19,"In comes a string of joint ventures to satisfy France’s taste for alliances and industrial champions, writes Quentin Webb of Reuters Breakingviews.",positive,0.8696137070655823
+2014-06-19,An Over-Engineered Alstom Bid,neutral,0.07207344472408295
+2014-06-20,"This is is a clearer victory for Paris and Alstom than it is for General Electric itself, writes Quentin Webb of Reuters Breakingviews.",positive,0.8412477970123291
+2014-06-20,G.E.’s Pyrrhic Victory,neutral,-0.05695874243974686
+2014-06-21,"The approval of the $13.5 billion deal essentially brings the long acquisition negotiations to an end, though a final deal hinges on the French state buying Alstom shares.",neutral,0.17339648306369781
+2014-06-21,"Alstom Board Backs Offer From G.E., Ending Battle",negative,-0.31333160400390625
+2014-06-22,Haggling ended over how much the French government would pay the Buoygues family for a stake in Alstom: a 25 percent premium over Friday’s close.,negative,-0.5799094438552856
+2014-06-22,Last Barrier Is Cleared in G.E.s Deal With Alstom,neutral,0.15758420526981354
+2014-06-23,"After much posturing, the French government and G.E.",neutral,0.08572585135698318
+2014-06-23,are both declaring victory.,neutral,0.32475751638412476
+2014-06-23,"In G.E.’s Deal for Alstom, French Interventionism Wins Out",neutral,0.35782185196876526
+2014-06-27,"By adding Alstom’s steam turbine factory in Belfort, France, and a gas turbine plant in Baden, Switzerland, G.E.",neutral,0.15483111143112183
+2014-06-27,will have the skill and scale to expand as electric utilities worldwide embrace gas-fueled power plants.,positive,0.8634570240974426
+2014-06-27,"With Alstom Deal, G.E.",neutral,0.04488890618085861
+2014-06-27,Gains Bigger Foothold as Utility Supplier,positive,0.7010563611984253
+2014-07-18,G.E.,neutral,0.0415060818195343
+2014-07-18,"plans to sell 125 million of stock in its North American retail finance unit, which handles credit cards for major retailers like Walmart, through an I.P.O.",neutral,0.07319042831659317
+2014-07-18,this month.,neutral,0.06977398693561554
+2014-07-18,G.E.,neutral,0.0415060818195343
+2014-07-18,Aims to Raise $3 Billion in Synchrony Financial I.P.O.,neutral,0.3498326539993286
+2014-07-24,"The Serious Fraud Office said it had charged Alstom Network UK with six corruption-related offenses linked to contracts in India, Tunisia and Poland.",negative,-0.9036828279495239
+2014-07-24,Britain Brings Corruption Charges Against Unit of Alstom,negative,-0.8374547958374023
+2014-07-30,"The business, now known as Synchrony Financial, priced its shares at $23 each, at the low end of its expected price range.",neutral,-0.022410385310649872
+2014-07-30,That values the newly independent company at $19.1 billion.,neutral,0.06172213703393936
+2014-07-30,G.E.’s Retail Finance Arm Raises $2.9 Billion in I.P.O.,positive,0.7790677547454834
+2014-07-31,"Shares in Synchrony Financial, the retail finance unit being spun off by G.E., opened largely unchanged on Thursday after the firm raised about $2.9 billion in an initial offering.",negative,-0.8923245668411255
+2014-07-31,Synchrony Shares Open Flat After Largest I.P.O.,negative,-0.9478802680969238
+2014-07-31,for Year,neutral,-0.13634273409843445
+2014-08-10,"No matter how cutting-edge it may seem, almost every new product you see is part of a greater whole.",neutral,0.028842873871326447
+2014-08-10,"At its heart is the cheap collection, shipment and computation of data.",neutral,0.06184123456478119
+2014-08-10,"What Cars Did for Today’s World, Data May Do for Tomorrow’s",neutral,0.0323144756257534
+2014-08-14,The talks are at least the second time that G.E.,neutral,0.046602874994277954
+2014-08-14,"has held discussions to divest itself of the unit, after first trying six years ago.",neutral,0.02244553342461586
+2014-08-14,G.E.,neutral,0.0415060818195343
+2014-08-14,in Talks Over Selling Its Business in Appliances,neutral,-0.17477500438690186
+2014-08-15,Regulators are pushing for changes that will affect derivatives.,neutral,0.04793278127908707
+2014-08-15,| G.E.,neutral,0.03006191924214363
+2014-08-15,is in talks to sell its appliances unit.,neutral,0.02038928121328354
+2014-08-15,| Coca-Cola announced that it had acquired a stake in Monster Beverage.,neutral,0.45398393273353577
+2014-08-15,| Bitcoin’s pop may exceed its potential.,negative,-0.8019220232963562
+2014-08-15,Morning Agenda: Tension Mounts Over Derivatives,negative,-0.8467051982879639
+2014-08-24,"Account assignments, executive appointments and miscellaneous news from advertising agencies.",neutral,0.0035889949649572372
+2014-08-24,News From the Advertising Industry,neutral,0.009864628314971924
+2014-08-26,"An academic paper finds that people’s answers change over the months that the government surveys them, likely understating the official jobless rate.",negative,-0.820414125919342
+2014-08-26,A New Reason to Question the Official Unemployment Rate,negative,-0.34475618600845337
+2014-09-06,"Moves this week by companies like Google and Box illustrate how much the cloud and mobility are reshaping the workplace, as well as the tech companies themselves.",neutral,0.2169598937034607
+2014-09-06,How Big Companies and Their Tech Suppliers Are Changing Together,neutral,-0.019361499696969986
+2014-09-08,"The acquisition is the latest move by Jeffrey R. Immelt, the chief of G.E., to refocus the conglomerate on its core industrial businesses.",positive,0.692501425743103
+2014-09-08,"In 2nd Try, Electrolux Reaches Deal to Buy G.E.",positive,0.5710814595222473
+2014-09-08,"Appliances Unit, for $3.3 Billion",neutral,0.014056632295250893
+2014-09-17,"Companies once had little interest in lower-end consumers, but some now recognize the potential of that vast market.",neutral,0.07321217656135559
+2014-09-17,Multinational Companies Court Lower-Income Consumers,negative,-0.6385212540626526
+2014-09-22,"With its all-cash deal to buy Dresser-Rand Group, the German engineering conglomerate is positioning itself in the American energy sector, which is seeing a boom in shale oil.",positive,0.7475734949111938
+2014-09-22,Siemens Makes $7.6 Billion Bet on Fracking in U.S.,neutral,0.046649374067783356
+2014-10-01,"An executive of Mondelez International, which ran a spot featuring nontraditional families, said, “Being fearless is the only answer right now.”",neutral,-0.052843183279037476
+2014-10-01,Marketers Are Urged to Become Fearless,neutral,0.05180776119232178
+2014-10-03,"RadioShack, the electronics retailer fighting off bankruptcy, said that it had struck a deal arranged by Standard General to give it immediate access to $120 million in additional liquidity.",positive,0.8839514255523682
+2014-10-03,RadioShack Restructures Part of Its Debt to Help With Holiday Season,positive,0.43653202056884766
+2014-10-09,"The technology machinery giant now has sensors on $1 trillion of its equipment, and says that will bring the company $1 billion this year.",positive,0.7574805617332458
+2014-10-09,Act Two: It is opening up the software platform so other companies can do big data analysis on their machines.,positive,0.5522288084030151
+2014-10-09,G.E.,neutral,0.0415060818195343
+2014-10-09,Opens Its Big Data Platform,positive,0.5287580490112305
+2014-10-13,"The acquisition of the Milestone Aviation Group, for $1.78 billion, is in line with GE Capital’s strategy of focusing on industrial businesses while reducing its overall size by shedding other assets.",positive,0.5879342555999756
+2014-10-13,G.E.,neutral,0.0415060818195343
+2014-10-13,Aircraft Unit Buys Helicopter Leasing Business,neutral,0.008903030306100845
+2014-10-17,"Despite shaky outlooks for the global economy, G.E.",negative,-0.22295218706130981
+2014-10-17,is showing progress in bolstering its industrial core.,positive,0.9162493348121643
+2014-10-17,Robust Demand for Industrial Equipment Lifts General Electric’s Profit 11%,positive,0.30457648634910583
+2014-11-05,All that is needed now is the backing of Alstom’s shareholders at a Dec. 19 meeting and the agreement of the antitrust authorities in 20 countries.,positive,0.5187683701515198
+2014-11-05,France Approves G.E.,positive,0.6035020351409912
+2014-11-05,Deal for Alstom’s Energy Business,neutral,0.04384690523147583
+2014-11-13,"The practice, under investigation by the Justice Department, affects tens of thousands of Americans, impairing their ability to secure housing and jobs.",negative,-0.9374697208404541
+2014-11-13,Debts Canceled by Bankruptcy Still Mar Consumer Credit Scores,negative,-0.7984031438827515
+2014-12-11,The networking giant’s analysis is good for looking at people in stores or machines in the field.,neutral,0.01859886944293976
+2014-12-11,It says more data has to be analyzed on the spot if people are going to react quickly.,neutral,0.006645657122135162
+2014-12-11,Cisco’s Networks Will Analyze Us,neutral,-0.0008110422641038895
+2015-01-14,"GoBankingRates says nine of the 10 best savings rates are offered on web accounts, with several hitting 1 percent.",neutral,0.06428060680627823
+2015-01-14,"Savings Rates Are Anemic, but a Survey Shows They Are Less Paltry Online",negative,-0.15228664875030518
+2015-01-19,"China will release its fourth-quarter growth on Monday night, and on Thursday the European Central Bank is expected to start its bond-buying program; IBM and General Electric will report results.",neutral,0.05961833894252777
+2015-01-19,"Economic Data From China, and Stimulus From the E.C.B.",positive,0.669861912727356
+2015-01-21,"Bankers and other attendees at the World Economic Forum offer their thoughts on regulation, oil prices and quantitative easing by the European Central Bank, among other subjects.",neutral,0.04155902564525604
+2015-01-21,"Predictions, Pet Peeves and Random Musings From Davos",neutral,0.007462531328201294
+2015-01-23,"As the company returns to its roots as a maker of industrial products like jet engines and medical equipment, it has pared back its finance arm.",positive,0.7623389959335327
+2015-01-23,G.E.,neutral,0.0415060818195343
+2015-01-23,Profit Rises as It Puts a Stronger Focus on Its Industrial Business,positive,0.8792800307273865
+2015-02-03,"President Obama’s budget calls for a lower overall tax rate, but also for a one-time 14 percent tax on all cash sitting overseas.",neutral,0.04023135453462601
+2015-02-03,"Tax Reform Is the Cry, Until Details Are Offered",neutral,0.015599977225065231
+2015-02-13,Trinity Industries turns to state attorneys general in an attempt to refute claims that its system has a deadly design flaw.,negative,-0.9239686131477356
+2015-02-13,Troubled Guardrail Maker Goes on a Lobbying Blitz,neutral,-0.3574785590171814
+2015-02-14,The I.R.S.,neutral,0.03917276859283447
+2015-02-14,issues a “Dirty Dozen” list of frauds every year.,neutral,-0.034687820822000504
+2015-02-14,"But what idiot doesn’t know that if a tax break sounds too good to be true, it probably is?",neutral,-0.3344317674636841
+2015-02-14,It’s not as if you’re General Electric.,neutral,-0.020030802115797997
+2015-02-14,Another Reason to Detest Tax Season,neutral,-0.3029823303222656
+2015-02-17,A number of big tech companies with an interest in building out the big data market have announced a standard for core elements of a technology framework for data analysis.,neutral,0.18840308487415314
+2015-02-17,"IBM, G.E.",neutral,0.026292048394680023
+2015-02-17,and Others Create Big Data Alliance,neutral,0.03570123761892319
+2015-02-23,"The European Commission said it was worried that G.E., as the world’s top maker of heavy-duty gas turbines, would be eliminating a major competitor.",negative,-0.9112310409545898
+2015-02-23,General Electric Deal for Alstom Raises Concerns Among European Authorities,negative,-0.8778986930847168
+2015-03-16,The business is to be acquired by a consortium including Deutsche Bank and the private equity firms Värde Partners and Kohlberg Kravis Roberts.,neutral,0.04488302394747734
+2015-03-16,GE Capital Agrees to Sell Australia and New Zealand Operations for $6.3 Billion,neutral,0.2816940248012543
+2015-03-17,"General Electric has been a beehive of activity, but the market thinks its shares are dead money, and such a perception may be difficult to shake off.",negative,-0.7125988602638245
+2015-03-17,If Only G.E.,neutral,-0.015569731593132019
+2015-03-17,Had an Activist Investor Who Cared,neutral,0.016030609607696533
+2015-03-22,"Drawn by fast-growing private tech companies, big money managers are purchasing their shares, betting that they’ll go public.",neutral,0.43478691577911377
+2015-03-22,But that outcome is hardly guaranteed.,neutral,-0.0036230087280273438
+2015-03-22,Americans’ Retirement Funds Increasingly Contain Tech Start-Up Stocks,neutral,-0.11310665309429169
+2015-03-23,"Despite the challenges presented in Australia, American private equity giants are pushing ahead with investments there.",positive,0.8713284730911255
+2015-03-23,U.S.,neutral,-0.05536564439535141
+2015-03-23,Private Equity Firms Find a Chilly Reception in Australia,negative,-0.6740322113037109
+2015-04-09,"Blackstone and Wells Fargo are poised to buy most of the portfolio, which includes office and apartment buildings, people with knowledge of the matter said.",neutral,0.04856529459357262
+2015-04-09,G.E.,neutral,0.0415060818195343
+2015-04-09,Seen Close to Selling Its Real Estate Portfolio,neutral,0.038612257689237595
+2015-04-10,JPMorgan Chase and Centerview Partners are in line to claim both large fees and great prestige in helping General Electric navigate its divestiture.,positive,0.7835619449615479
+2015-04-10,Longtime G.E.,neutral,0.07896066457033157
+2015-04-10,Advisers Tapped Again for Plum Assignment,neutral,-0.04105304181575775
+2015-04-11,General Electric’s announcement is a stark recognition that it has become harder for financial services businesses to make big profits in the postfinancial crisis environment.,positive,0.15962764620780945
+2015-04-11,Do-It-All Era Ending as G.E.,neutral,0.016010470688343048
+2015-04-11,Returns to Core,neutral,-0.011666625738143921
+2015-04-12,The transaction shows how the power on Wall Street has shifted since the financial crisis from risk-averse investment banks to asset managers.,neutral,0.09477806091308594
+2015-04-12,Blackstone’s Deal With G.E.,neutral,0.14275944232940674
+2015-04-12,Highlights Its Real Estate Holdings,neutral,0.050014957785606384
+2015-04-13,"Borrowing by GE Capital has been a huge moneymaker for Wall Street, but much of that business could be going away.",negative,-0.5951981544494629
+2015-04-13,General Electric’s Days as Wall Street’s Golden Goose May Be Numbered,neutral,0.02648939937353134
+2015-04-14,"Laurence D. Fink, chief of BlackRock, the world’s largest asset manager, warns of harm in dividends and stock buybacks.",negative,-0.9463347792625427
+2015-04-14,"BlackRock’s Chief, Laurence Fink, Urges Other C.E.O.s to Stop Being So Nice to Investors",negative,-0.782438337802887
+2015-04-15,The G.E.,neutral,0.021669548004865646
+2015-04-15,"deal “was easy for me,” Stephen A. Schwarzman said in an interview, but the welter of details for his Schwarzman Scholars program required creative thinking.",neutral,0.2129201591014862
+2015-04-15,During G.E.,neutral,0.024904053658246994
+2015-04-15,"Deal, Blackstone’s Schwarzman Focused on a Scholarship Fund",neutral,0.050190892070531845
+2015-04-16,"Despite worries to the contrary, too-big-to-fail institutions may not be prisoners of their own or regulators’ devices in perpetuity.",neutral,-0.2796492576599121
+2015-04-16,Dodd-Frank’s Hotel California May Have Exit After All,neutral,-0.07146381586790085
+2015-04-17,"The impact of shedding GE Capital, its finance unit, was reflected in an overall loss of $13.6 billion for the quarter.",negative,-0.9649887681007385
+2015-04-17,General Electric Reports Strong Growth in Industrial Businesses,positive,0.8044840097427368
+2015-04-26,G.E.,neutral,0.0415060818195343
+2015-04-26,"is adding more sensor technology to products like street lights, heralding a sensor explosion that many believe will fuse the physical world with the Internet, anticipating and facilitating human behaviors.",positive,0.5386170744895935
+2015-04-26,"The Sensor-Rich, Data-Scooping Future",neutral,0.10810381919145584
+2015-04-29,"Two new private investment funds, called Rural Business Investment Companies, are part of a Department of Agriculture program to attract private equity investments in agriculture-related businesses.",neutral,0.2871575653553009
+2015-04-29,U.S.,neutral,-0.05536564439535141
+2015-04-29,Backs Private Bid for $125 Million for Rural Investment,neutral,0.08077453076839447
+2015-05-08,The two banks have agreed to update borrowers’ reports within the next three months to reflect that the debts were canceled.,neutral,0.3607502579689026
+2015-05-08,Bank of America and JPMorgan Chase Agree to Erase Debts From Credit Reports After Bankruptcies,neutral,0.29847458004951477
+2015-05-12,Investors are betting that a surge in international students will increase the imbalance in the supply and demand in student housing.,positive,0.880828320980072
+2015-05-12,London Real Estate Sizzles Off Campus,negative,-0.3393325209617615
+2015-05-21,"Powerful Republicans are bent on letting the export credit agency die, imperiling overseas projects and sales by American companies.",negative,-0.6931991577148438
+2015-05-21,Export-Import Bank Near Showdown in Congress,negative,-0.9272128343582153
+2015-05-22,"Efforts to tighten oversight of charities have largely failed because of regulatory indifference, political lobbying or lack of political will.",negative,-0.9204462170600891
+2015-05-22,Patchwork Oversight Allows Dubious Charities to Operate,neutral,0.0041727349162101746
+2015-06-03,Newer LEDs are gaining on compact fluorescent lights as substitutes for inefficient incandescent bulbs in lighting.,positive,0.7122365236282349
+2015-06-03,Lower-Cost LEDs Offer Some Competition to Compact Fluorescent Lights,neutral,0.28541138768196106
+2015-06-07,The sale of a division that finances leveraged buyouts would be part of General Electric’s plan announced in April to refocus on its industrial roots.,neutral,0.11723698675632477
+2015-06-07,G.E.,neutral,0.0415060818195343
+2015-06-07,Nears Deal on Major Step in Retreat From Banking,neutral,-0.13018035888671875
+2015-06-09,"A response to the antitrust probe came from the Universal Music Group, whose lawyers sent a letter to the attorneys general stating, in so many words, nothing to see here.",neutral,0.09376761317253113
+2015-06-09,A Letter From Universal’s Attorneys,neutral,0.0621342733502388
+2015-06-15,Five GE Capital businesses that cater to commercial customers are valued at $2.9 billion in total but are drawing lukewarm interest.,neutral,0.05708679184317589
+2015-06-15,G.E.,neutral,0.0415060818195343
+2015-06-15,Said to Struggle to Find Buyers of Australian Units,negative,-0.5358247756958008
+2015-06-29,"The deal to sell operations in the United States, Mexico, Australia and New Zealand is G.E.’s latest move in its retreat from banking.",neutral,0.40576356649398804
+2015-06-29,G.E.,neutral,0.0415060818195343
+2015-06-29,to Sell Bulk of Fleet-Financing Business for $6.9 Billion,neutral,0.01737484149634838
+2015-06-30,The sale of the private equity lending unit in Europe is the third major transaction the company has announced this month as it retreats from banking.,neutral,-0.29794472455978394
+2015-06-30,G.E.,neutral,0.0415060818195343
+2015-06-30,Agrees to Sell European Buyout Financing Business to Sumitomo,neutral,0.43925541639328003
+2015-07-01,The move against a sale to Electrolux is the latest sign of tougher antitrust scrutiny in Washington.,negative,-0.3913625180721283
+2015-07-01,Justice Department Sues to Block G.E.,negative,-0.7390522360801697
+2015-07-01,Appliance Deal,neutral,0.04136257991194725
+2015-07-17,Although G.E.,neutral,-0.05564427748322487
+2015-07-17,"reported a net loss of $1.36 billion for the quarter, operating profit from its industrial business grew 5 percent.",positive,0.9325063228607178
+2015-07-17,General Electric Reports Rise in Industrial Profit,positive,0.5332204103469849
+2015-07-20,Public lighting that dials into the Internet of Things could use billions of fixtures to collect data about things as diverse as traffic congestion and a shopper in the cereal aisle.,neutral,-0.03105544112622738
+2015-07-20,"A Light Bulb Goes On, Over the Mall",neutral,0.03549087047576904
+2015-08-05,Requiring companies to compare the chief executive’s compensation with that of employees could further stoke a debate over income inequality.,negative,-0.8296600580215454
+2015-08-05,S.E.C.,neutral,0.030168529599905014
+2015-08-05,Approves Rule on C.E.O.,neutral,0.37444913387298584
+2015-08-05,Pay Ratio,neutral,-0.00807110220193863
+2015-08-11,"General Electric announced on Tuesday that it would sell its Healthcare Financial Services business to Capital One for about $9 billion, continuing a campaign to refocus its business.",neutral,0.05398103967308998
+2015-08-11,G.E.,neutral,0.0415060818195343
+2015-08-11,Continues Sell-Off With Health Care Lending Business,negative,-0.8544602990150452
+2015-08-13,"The Wall Street bank is acquiring $16 billion in customer deposits from GE Capital Bank, which General Electric is shedding to focus on its industrial business.",neutral,0.09216493368148804
+2015-08-13,Goldman Expands Retail Banking by Taking On GE Capital’s Deposits,positive,0.6203382015228271
+2015-08-14,The Wall Street firm is buying an online banking platform and $16 billion of deposits from GE Capital with hopes of attracting more customers.,positive,0.7680932283401489
+2015-08-14,But there are two problems.,negative,-0.47395801544189453
+2015-08-14,Goldman Courts Risk With Expansion of Its Deposit Base,positive,0.8847968578338623
+2015-09-01,"The businesses, which are being sold as General Electric moves away from banking, have a book value of about $1.8 billion.",neutral,0.0029725953936576843
+2015-09-01,GE Capital’s Australian Units Said to Be Receiving Final Bids From 3,neutral,0.23639950156211853
+2015-09-08,"After months of negotiations to allay European Union competition concerns, General Electric will now be able to acquire the prized French energy business.",positive,0.8796879649162292
+2015-09-08,G.E.,neutral,0.0415060818195343
+2015-09-08,Gets European Regulators’ Approval to Buy Alstom Power Unit,positive,0.6440961956977844
+2015-09-10,"The industrial conglomerate, already moving to shed its huge lending arm, is trying to become even smaller.",negative,-0.48851099610328674
+2015-09-10,G.E.,neutral,0.0415060818195343
+2015-09-10,to Seek Sale of Its Asset Management Arm,neutral,0.01410822756588459
+2015-09-11,"New types of specialty bulbs are being used or tested in health applications, to enhance learning or alertness, create a mood, or aid in sleep.",neutral,0.14956820011138916
+2015-09-11,"High-Tech Lights to Help Baby Sleep, or Students Stay Alert",neutral,-0.05118528753519058
+2015-09-15,"General Electric and Boeing blamed a halt in export credit for job transfers and a loss of contracts, reigniting Republican infighting over the fate of the Ex-Im Bank.",negative,-0.9553612470626831
+2015-09-15,G.O.P.,neutral,0.031348817050457
+2015-09-15,"Discord Over Ex-Im Bank Intensifies, as G.E.",negative,-0.8999629020690918
+2015-09-15,Shifts Jobs Abroad,negative,-0.6478979587554932
+2015-09-22,"The crowdsourced company, which raised $185 million from investors, said it was arranging a sale of “substantially all its assets.”",neutral,0.042190439999103546
+2015-09-22,"Quirky, an Invention Start-Up, Files for Bankruptcy",negative,-0.5708175897598267
+2015-10-04,"Despite their very different companies, the chief executives of General Electric and Apple have something in common: They believe businesses will increasingly rely upon “personalized” technology to run their operations.",neutral,0.07931432127952576
+2015-10-04,Business Technology Starts to Get Personal,neutral,0.20597024261951447
+2015-10-05,"As hedge funds’ war chests swell, the funds are taking aim at bigger and bigger companies.",neutral,-0.2514740228652954
+2015-10-05,"For Activist Investors, Billion-Dollar Bets Have Become the Norm",neutral,-0.01839490234851837
+2015-10-06,"Eric T. Schneiderman is investigating Lone Star Funds-owned Caliber Home Loans, which has grown explosively in recent years but also drawn criticism.",neutral,-0.4231267273426056
+2015-10-06,New York Attorney General Examining Private Equity Firm’s Mortgage Business,neutral,-0.18416063487529755
+2015-10-07,"The industrial giant said the new company would be more nimble and house developing sectors like renewable generation, energy efficiency and storage.",positive,0.6997470259666443
+2015-10-07,G.E.,neutral,0.0415060818195343
+2015-10-07,to Spin Off New Energy Technologies in One Company,neutral,0.023459594696760178
+2015-10-12,"This week, the new Greek government of Prime Minister Alexis Tsipras will face a major test, the Commerce Department will report data on consumer spending and Netflix will debut its first original feature film.",neutral,0.3242569863796234
+2015-10-12,"A Vote Due in Greece, Consumer Spending Data and Netflix’s New Film",neutral,0.05608711391687393
+2015-10-14,"In pursuing its digital strategy, the company has to contend with the security risks inherent in combining the virtual with the physical.",neutral,0.013450946658849716
+2015-10-14,G.E.,neutral,0.0415060818195343
+2015-10-14,"Navigates, Carefully, the Industrial Internet of Things",neutral,0.047093845903873444
+2015-10-25,G.E.,neutral,0.0415060818195343
+2015-10-25,"plans to close an engine factory in Waukesha, Wis., that President Obama visited in 2014 and move hundreds of jobs to Canada because of the bank’s closure.",negative,-0.9394619464874268
+2015-10-25,Ex-Im Bank Dispute Threatens G.E.,negative,-0.9445529580116272
+2015-10-25,Factory That Obama Praised,neutral,-0.07948718965053558
+2015-11-03,"Deutsche Bank and Sankaty Advisors , a Bain Capital affiliate, were selected as the final bidder for the commercial lending and leasing businesses.",neutral,0.20643986761569977
+2015-11-03,GE Capital Said to Be in Talks to Sell Australian Businesses,neutral,0.026461394503712654
+2015-12-03,The deal represents the latest move in G.E.’s effort to retreat from banking and refocus on its industrial roots.,positive,0.6988399624824524
+2015-12-03,General Electric to Sell Units to Crédit Mutuel of France,neutral,0.020503021776676178
+2015-12-07,"The Justice Department had sued in July to stop the deal, saying the transaction would reduce competition and increase prices.",negative,-0.8437564373016357
+2015-12-07,General Electric Calls Off Sale of Appliance Unit to Electrolux,negative,-0.5579479932785034
+2015-12-14,The drumroll is over.,neutral,0.08964415639638901
+2015-12-14,"This week, the Federal Reserve will most likely announce that it will raise its benchmark interest rate.",neutral,0.38737577199935913
+2015-12-14,And Wall Street thinks “The Force Awakens” will deliver a huge opening.,positive,0.5262778997421265
+2015-12-14,Fed Expected to Raise Rate and High Expectations for New ‘Star Wars’,positive,0.7452746033668518
+2015-12-15,The company continued its retreat from its financial businesses by agreeing to sell the unit to Sumitomo Mitsui Finance and Leasing for about $4.8 billion.,neutral,0.17764520645141602
+2015-12-15,General Electric to Sell Commercial Lending Business in Japan,neutral,0.013457818888127804
+2015-12-17,General Electric expects the next year to be one of economic uncertainty and geopolitical turmoil.,negative,-0.7412770390510559
+2015-12-17,"For itself, however, it expects double-digit growth.",positive,0.925678014755249
+2015-12-17,G.E.,neutral,0.0415060818195343
+2015-12-17,Expects Growth in Its Earnings in an Uncertain 2016,positive,0.9132358431816101
+2016-01-06,"As companies like General Electric and Hasbro experiment with seeking ideas and funding from the masses, Indiegogo has started offering them consulting services.",neutral,0.06455127149820328
+2016-01-06,"Global Brands, Taking Cue From Tinkerers, Explore Crowdfunding",neutral,0.10608501732349396
+2016-01-11,"Keith McLoughlin will be replaced by Jonas Samuelson, who leads Electrolux’s major appliances business for Europe, the Middle East and Africa.",neutral,0.006513215601444244
+2016-01-11,Month After G.E.,neutral,-0.011177048087120056
+2016-01-11,"Deal Falters, Electrolux Chief Says He’ll Retire",negative,-0.8593140244483948
+2016-01-13,"The move from Connecticut is an effort to tap the high-tech environs, with its cluster of research universities, for knowledge and recruiting.",positive,0.5839847326278687
+2016-01-13,G.E.,neutral,0.0415060818195343
+2016-01-13,Is Moving Headquarters to Boston and Itself Into the Digital Era,neutral,0.019136400893330574
+2016-01-15,The Chinese appliances company snapped up G.E.,negative,-0.6669009923934937
+2016-01-15,Appliances after a deal with Electrolux of Sweden fell apart last year.,negative,-0.9417174458503723
+2016-01-15,G.E.,neutral,0.0415060818195343
+2016-01-15,to Sell Appliance Division to Haier for $5.4 Billion,neutral,0.009608919732272625
+2016-01-22,"The industrial conglomerate said lower sales for its oil-field equipment unit hurt revenue, but other units, like jet engines and locomotives, were strong.",negative,-0.9549388289451599
+2016-01-22,G.E.,neutral,0.0415060818195343
+2016-01-22,Reports Strong Quarterly Profit but Sales Are Below Forecasts,negative,-0.9579768180847168
+2016-02-01,"The compact fluorescent light bulb, once the undisputed energy-efficient alternative, is being overtaken by LEDs and will not be made or sold in the United States by G.E.",neutral,-0.001855362206697464
+2016-02-01,by year’s end.,neutral,0.054803334176540375
+2016-02-01,G.E.,neutral,0.0415060818195343
+2016-02-01,to Phase Out CFL Bulbs,neutral,0.022500991821289062
+2016-02-06,"Married to Gary Wendt, chief of GE Capital, she turned down a $10 million settlement, instead wanting half of what she believed to be $100 million in assets.",neutral,-0.07026796042919159
+2016-02-06,"Lorna Jorgenson Wendt, 72, Defender of Rights of Corporate Ex-Wives",neutral,-0.1320585012435913
+2016-03-01,Beth Comstock of General Electric and Tony Fadell of Nest discussed the value of diversity in the workplace at The New York Times’s New Work Summit.,neutral,0.16754493117332458
+2016-03-01,‘It’s About Diversity of Thought’,neutral,-0.03717491030693054
+2016-03-30,The deal is the latest sale as General Electric retreats from finance and refocuses on its industrial roots.,neutral,0.07649685442447662
+2016-03-30,State Street to Buy G.E.’s Asset Management Business,neutral,0.03457259386777878
+2016-03-31,"After MetLife won its case, General Electric told regulators its finance unit no longer met the definition of “systemically important.”",negative,-0.8860449194908142
+2016-03-31,G.E.,neutral,0.0415060818195343
+2016-03-31,Asks for Removal of ‘Too Big to Fail’ Label From GE Capital,negative,-0.44114333391189575
+2016-04-01,"With this week’s headlines, it may seem regulators are losing ground against big banks and financial firms, but the reform law is showing steady results.",negative,-0.8136394023895264
+2016-04-01,"A Dodd-Frank Watchdog Still Growls, on a Slightly Tighter Leash",negative,-0.5096193552017212
+2016-04-11,GE Money Bank will seek to list its shares in an initial public offering to institutional investors on the Prague Stock Exchange.,neutral,0.0299514252692461
+2016-04-11,GE Capital’s Czech Business to Pursue I.P.O.,neutral,0.06214599683880806
+2016-04-25,GE Money Bank’s initial public offering would continue General Electric’s efforts to scale back on finance and focus on its industrial roots.,positive,0.5164304971694946
+2016-04-25,I.P.O.,neutral,0.042054928839206696
+2016-04-25,Could Value GE Capital’s Czech Business at $1.6 Billion,neutral,0.04018602520227432
+2016-04-27,The New York attorney general took aim at brokers who use “bots” and other methods that keep tickets out of the hands of ordinary fans.,negative,-0.7185521125793457
+2016-04-27,Ticket Brokers in Settlement With New York Over Scalping Laws,negative,-0.9079521298408508
+2016-05-06,"The lender sold 51 percent of the Czech business, recently renamed Moneta Money Bank, in an offering on the Prague Stock Exchange.",neutral,0.04190337657928467
+2016-05-06,GE Capital’s Czech Bank Valued at $1.5 Billion in I.P.O.,neutral,0.043444834649562836
+2016-05-27,The commitment is part of a state effort to keep companies from leaving after a tax increase last year.,neutral,0.07504282891750336
+2016-05-27,Biggest Hedge Fund Set to Get $22 Million From Connecticut,neutral,0.17761661112308502
+2016-06-14,"The Boston Seaport, prospective new home of General Electric, is rapidly becoming an “innovation district” for tech companies and biomedical firms.",neutral,0.39888009428977966
+2016-06-14,"For Boston Seaport, G.E.",neutral,0.010941984131932259
+2016-06-14,Was Just a Start,neutral,-0.18030498921871185
+2016-06-17,"To Ms. Comstock, vice chairwoman of G.E., leadership is about understanding that things will never be perfectly balanced, and using that tension to move forward.",neutral,0.2523189187049866
+2016-06-17,Beth Comstock of General Electric: Granting Permission to Innovate,neutral,0.37250667810440063
+2016-06-23,The sale of GE Money Bank in France would be the latest exit in General Electric’s retreat from finance as it focuses on its industrial roots.,neutral,0.07941494137048721
+2016-06-23,Cerberus Offers to Buy G.E.’s French Consumer Finance Business,neutral,0.16688741743564606
+2016-06-27,"Senator Richard Shelby has held up the nomination of a board member of the bank, blocking $20 billion for American exports.",negative,-0.8312224745750427
+2016-06-27,A Single Senator Stymies the Export-Import Bank,negative,-0.8237518668174744
+2016-06-29,The decision is based on renewed assurances by United States officials that Europeans’ data will be sufficiently protected when it is transferred.,positive,0.8304929733276367
+2016-06-29,Europe Is Expected to Approve E.U.-U.S. Data Transfer Pact,positive,0.6599032878875732
+2016-07-07,"After a long career at General Electric, Stanley C. Gault led turnarounds at Rubbermaid and Goodyear.",neutral,0.10528578609228134
+2016-07-07,"Stanley Gault, Who Led Rubbermaid and Goodyear, Dies at 90",neutral,-0.11847463250160217
+2016-07-12,"After years of negotiations, Europe agreed to allow thousands of companies to move digital data to the United States, though challenges still lie ahead.",positive,0.7827074527740479
+2016-07-12,Europe Approves New Trans-Atlantic Data Transfer Deal,positive,0.7706863284111023
+2016-08-02,"Companies including McDonald’s and General Electric are moving headquarters to cities like Boston and Chicago, partly as a lure to younger employees.",neutral,0.08561623096466064
+2016-08-02,Why Corporate America Is Leaving the Suburbs for the City,neutral,-0.2534535229206085
+2016-08-19,Eric T. Schneiderman of New York said the investigation was concentrating on issues like the value the company puts on oil still in the ground.,neutral,-0.11193513870239258
+2016-08-19,Exxon Mobil Fraud Inquiry Said to Focus More on Future Than Past,neutral,-0.1185515895485878
+2016-08-29,"Start-ups survive predictions of doom and gloom, General Electric is taking a run at making software, and an interest rate increase may be on the horizon.",neutral,0.16255119442939758
+2016-08-29,Morning Agenda: Silicon Valley Heeds Warnings of Apocalypse,neutral,-0.053641341626644135
+2016-09-06,The acquisitions of Arcam of Sweden and SLM Solutions Group of Germany would bolster G.E.’s material science and additive manufacturing operations.,positive,0.9033970832824707
+2016-09-06,G.E.,neutral,0.0415060818195343
+2016-09-06,Offers $1.4 Billion for 3-D Printing Technology Companies,positive,0.6705836057662964
+2016-09-16,A bureau agent posed as a journalist in an effort to infiltrate the computer of a suspect in a string of bomb threats.,negative,-0.8155807852745056
+2016-09-16,F.B.I.,neutral,0.035103652626276016
+2016-09-16,"Impersonation of Journalist Did Not Violate Undercover Policies, Federal Watchdog Says",neutral,-0.24575726687908173
+2016-09-18,"As G.E., Oracle, Salesforce.com and others push their A.I.",neutral,0.06950756907463074
+2016-09-18,"products, it remains unclear whether potential customers understand how they will profit.",neutral,0.03152162954211235
+2016-09-18,Artificial Intelligence Software Is Booming.,positive,0.5705811381340027
+2016-09-18,But Why Now?,neutral,-0.239586740732193
+2016-10-28,G.E.,neutral,0.0415060818195343
+2016-10-28,"has sold off $200 billion of financial assets since the financial crisis, but it is now prepared for an offensive.",neutral,-0.19171401858329773
+2016-10-28,Baker Hughes Could Be a Good Fit for General Electric,neutral,0.12083572149276733
+2016-10-31,What could set this transaction apart is G.E.’s implicit recognition that the sum of its many parts may be more valuable than the whole.,neutral,0.1375986784696579
+2016-10-31,General Electric’s Baker Hughes Deal Sets Precedent for Others,neutral,0.1525077372789383
+2016-11-01,It is extremely hard to predict what markets will do in the event of Donald J. Trump winning the presidential election.,neutral,-0.09084770083427429
+2016-11-01,It can even be hard to tell the election’s impact on the economy.,negative,-0.613287627696991
+2016-11-01,"Morning Agenda: Markets and Trump, Time to Team Up, New Currency Frenzy",neutral,0.29001185297966003
+2016-11-20,Companies like G.E.,neutral,0.005297590047121048
+2016-11-20,are working with podcast networks to produce original series — a kind of twist on “native ads” that are crafted to resemble editorial content.,neutral,0.05888165533542633
+2016-11-20,Forget Filling Ad Breaks; Some Marketers Make the Podcasts,neutral,-0.12269183993339539
+2016-12-08,"Officials said he misrepresented the condition of poorly maintained homes sold to Spanish-speaking families, and sometimes sold houses he didn’t own.",negative,-0.8468614220619202
+2016-12-08,New Mexico Businessman Accused of Deceiving Low-Income Home Buyers,negative,-0.7651309370994568
+2016-12-29,Two large acquisitions in the coming year will probably guide the board on who should get the top job.,neutral,0.06318209320306778
+2016-12-29,G.E.’s Next C.E.O.,neutral,0.026173487305641174
+2016-12-29,Could Come From Current Deals,neutral,0.04689493030309677

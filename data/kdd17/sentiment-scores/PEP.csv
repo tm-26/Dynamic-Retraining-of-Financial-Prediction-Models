@@ -1,0 +1,280 @@
+Date,Sentence,Prediction,sentimentScore
+2007-01-09, Investors sent Gap‘s stock surging 7 percent on Monday amid reports that it might be considering a sale.,positive,0.6411382555961609
+2007-01-09,"But Wall Street analysts quickly pointed out some obstacles to an acquisition of the retail chain, whose casual fashions have been languishing on the racks in recent months.",negative,-0.4476700723171234
+2007-01-09,"These include a generally lackluster demand for retail companies (as shown by last year’s failed auctions for Jones Apparel and Pep Boys) and Gap’s relatively small amount of real-estate assets, which could be used to defray the cost of a buyout.",negative,-0.5806139707565308
+2007-01-09,"Gap Deal Would Face Many Hurdles, Analysts Say",neutral,0.12769454717636108
+2007-02-05,"A federal jury rejected a former Coca-Cola secretary’s claim that she was duped by two accomplices and convicted her on Friday of conspiring to steal trade secrets from the world’s largest beverage maker in an effort to sell them to its rival, Pepsi.",negative,-0.8617428541183472
+2007-02-05,"The former secretary, Joya Williams, showed no visible reaction when the verdict was announced.",neutral,-0.28195619583129883
+2007-02-05,"She remains free on bond, pending sentencing.",neutral,-0.10005149245262146
+2007-02-05,Ex-Secretary at Coke Guilty of Trade-Secrets Theft,negative,-0.42554038763046265
+2007-03-27,"Edward E. Whitacre Jr. has overseen a string of multibillion-dollar takeover deals, and now must compete through execution, not acquisition.",neutral,0.07298693060874939
+2007-03-27,AT&T Has Done the Deals.,neutral,0.03880234807729721
+2007-03-27,Now It Needs Results.,neutral,0.05285833030939102
+2007-05-06,"As a young sales executive, Mr. Boyd parlayed his assignment to promote Pepsi-Cola into a war against white racism and black stereotypes.",neutral,0.0974365770816803
+2007-05-06,Edward F. Boyd Dies at 92; Marketed Pepsi to Blacks,neutral,-0.03986232355237007
+2007-05-25,"Though Coca-Cola’s market share has slipped, it is still the world’s leading carbonated cola.",negative,-0.8514001369476318
+2007-05-25,"Coke is far ahead of Pepsi in much of Europe and South America, but Pepsi dominates in some Asian markets.",neutral,0.23661722242832184
+2007-05-25,I’d Like to Sell the World a Coke,neutral,0.09817194193601608
+2007-05-31,"The two soft drink giants agreed to stop financing animal experiments, except where such testing is required by law.",neutral,0.21105526387691498
+2007-05-31,Pepsi and Coke Agree to Stop Financing Research That Uses Animals,neutral,-0.09714007377624512
+2007-06-19,"Climate Counts, a new nonprofit group, will rank 56 consumer companies, grouped by industry, on how they measure greenhouse gas emissions, among other things.",neutral,0.0584012009203434
+2007-06-19,Climate-Change Scorecard Aims to Influence Consumers,neutral,0.05402271822094917
+2007-06-29,"A new sports drink brand, Accelerade, will battle Gatorade and Powerade for the hearts and mouths of thirsty athletes.",neutral,0.14358051121234894
+2007-06-29,Cadbury Bets on Protein to Promote Its New Sports Drink,neutral,0.31336233019828796
+2007-07-09,"This week’s coming quarterly reports, economic data, merger votes and interest rate decisions.",neutral,0.029031991958618164
+2007-07-09,The Week Ahead,neutral,0.016221344470977783
+2007-07-19,"Nestle said that its mergers strategy was focused on the nutrition sector, after an article in the Wall Street Journal said the food giant had held merger talks with snacks and drinks conglomerate PepsiCo.",neutral,0.07626614719629288
+2007-07-19,"A Nestle spokesman declined to comment on the article, which said the talks broke off last year, but told Reuters: “Our policy has been explained in great detail…Nobody who has even the slightest knowledge of Nestle will be taken in.”",neutral,-0.20363745093345642
+2007-07-19,Nestle Said to Have Held Merger Talks With Pepsi,neutral,0.06181158870458603
+2007-08-02,Mr. Pottasch led the team at BBDO that created  iconic Pepsi commercials in the 1960s and ’70s and became known as the “father of the Pepsi Generation.”,neutral,0.1613796353340149
+2007-08-02,"Alan M. Pottasch, 79, Dies; Creator of ‘Pepsi Generation’",neutral,0.02978144958615303
+2007-08-10,Consumer goods companies are using their products’ packages as 3-D ads to grab shoppers’ fickle attention.,negative,-0.4831284284591675
+2007-08-10,Product Packages Now Shout to Get Your Attention,neutral,-0.019572965800762177
+2007-09-10,The international media giant Reed Elsevier hopes to pep up its lackluster medical publishing unit by giving away the latest articles from 100 of its own medical journals on the Internet.,negative,-0.7309557199478149
+2007-09-10,A Medical Publisher’s Unusual Prescription: Online Ads,neutral,-0.031689323484897614
+2007-10-15," — In today’s New York Times, Bill Carter previews the Fox Business Network: “In a pep talk to his troops Friday afternoon, Roger Ailes, the chairman of both networks, said, ‘I’m not interested in anything short of a revolution.",neutral,0.05462967976927757
+2007-10-15,'”,neutral,0.03319842368364334
+2007-10-15,"Clips: Fox Business, ‘Gossip Girl,’ TiVo Trends, Tempo",neutral,-0.05727963522076607
+2007-10-19,"The mini-episodes of discontinued TV programs, to be shown online, are part of a Pepsi campaign designed to celebrate the brand’s old logos, slogans and jingles.",neutral,0.08430685102939606
+2007-10-19,"If You Thought a Half-Hour of TV Was Worth 4 Minutes, Here’s Proof",neutral,-0.035534679889678955
+2007-12-27,"Le Lab, an internal Web site at Altadis, Europe’s tobacco giant, is meant to be part social networking site, part data resource, part virtual pep rally.",neutral,0.0038247089833021164
+2007-12-27,"Private Place for Smokers, on the Web",neutral,0.004686066880822182
+2007-12-31,Mr. Dusenberry oversaw the 1980s Pepsi commercial in which Michael Jackson’s hair was accidentally set on fire.,neutral,-0.022999506443738937
+2007-12-31,"Philip B. Dusenberry, 71, Adman, Dies",neutral,-0.015036940574645996
+2008-01-17,Apple holds its annual Macworld Expo and it’s chock-full of new high-tech goodies to be tried out.,neutral,0.15201841294765472
+2008-01-17,"Gizmos, Gadgets and Steve Jobs, Too",neutral,-0.01620963029563427
+2008-01-29,"As Subway strikes back at mockery in a Quiznos-sponsored video contest, it has sparked a novel legal question: Who’s liable for the videos’ claims?",negative,-0.6947044730186462
+2008-01-29,Can a Sandwich Be Slandered?,negative,-0.46754592657089233
+2008-02-22,"As both Microsoft and Yahoo gird themselves for a potentially drawn-out fight, Microsoft is giving a pep talk to its foot soldiers.",neutral,0.06461931020021439
+2008-02-22,Microsoft’s Internal Yahoo Memo to Its Troops,neutral,-0.1612088978290558
+2008-03-05,"It’s fair to say that Citigroup has had a rough day — and week, and month and year for that matter.",negative,-0.7784647345542908
+2008-03-05,"The financial giant has been battered by a panoply of concerns, from fears that it may need to seek more capital to worries that it will take a hit from credit cards and home equity loans.",negative,-0.9558128118515015
+2008-03-05,"At Citi, Pandit Offers a Pep Talk",neutral,0.0430607795715332
+2008-03-14,"Pepsi-Cola North America is bringing out a line of no-calorie, carbonated beverages with a campaign that is bypassing mainstay media like television and print.",neutral,0.28769299387931824
+2008-03-14,"For a New Brand, Pepsi Starts the Buzz Online",neutral,0.10785048454999924
+2008-03-20,"PepsiCo and the Pepsi Bottling Group said on Thursday they have agreed to buy 75.53 percent of the juice business of Lebedyansky, Russia’s leading juice producer, for $1.4 billion.",positive,0.794309675693512
+2008-03-20,Pepsi to Buy Majority Stake in Russian Juice Maker,neutral,0.1090535968542099
+2008-04-18,"“Chairman Leslie Moonves paid a surprise visit to the CBS newsroom Friday to support embattled anchor Katie Couric,” the Associated Press reports.",neutral,0.0457727387547493
+2008-04-18,Moonves Delivers Pep Talk To Support Couric,neutral,0.23950724303722382
+2008-06-27,"For one afternoon at least, it was like the good old days again at Chrysler as Lee Iacocca, the celebrated former chairman, urged workers not to panic during tough times.",neutral,0.2647436857223511
+2008-06-27,"A Pep Talk at Chrysler, Hailing Its Hero of the ’80s",neutral,0.15793000161647797
+2008-08-22,"Qwest has upgraded its network in Denver for the Democratic Party convention, adding 3,344 miles of single strands of fiber and 140 miles of copper wire and cable.",positive,0.9137300848960876
+2008-08-22,"The aggregate data capacity of Qwest’s network at the convention is about 50 billion bits per second, the company said.",neutral,0.021065715700387955
+2008-08-22,Qwest Cables the Convention,neutral,0.028210483491420746
+2008-10-15,"The company plans to eliminate 3,300 jobs and close as many as six plants in an attempt to cut costs and refocus efforts on stabilizing its domestic beverage business.",negative,-0.8203817009925842
+2008-10-15,Tap Water’s Popularity Forces Pepsi to Cut Jobs,negative,-0.8754222989082336
+2008-11-17,One of the longest relationships in advertising is coming to an end as PepsiCo shifts the creative duties in the United States for Pepsi-Cola from BBDO Worldwide to TBWA/Chiat/Day.,neutral,0.1351441591978073
+2008-11-17,Pepsi Shifts to a New Ad Agency,neutral,-0.04224788397550583
+2009-02-02,A “Saturday Night Live” sketch was repurposed as a 60-second commercial for Pepsi during the Super Bowl.,neutral,-0.08461612462997437
+2009-02-02,"A Skit on Saturday, an Advertisement on Sunday",neutral,-0.06522099673748016
+2009-02-03,The “Saturday Night Live” sketches that endorsed Pepsi using the MacGruber character were the first in a collaboration between PepsiCo and the NBC series.,neutral,0.03214363381266594
+2009-02-03,Pepsi Paid for ‘SNL’ Sketches,neutral,0.09115822613239288
+2009-02-14,"Eric J. Foss, Pepsi Bottling’s chief, says it’s important for a business to look like its customers.",neutral,0.10081536322832108
+2009-02-14,Diversity Is Even More Important in Hard Times,neutral,0.0026438087224960327
+2009-03-02,"GE Capital, the world’s biggest nonbank finance company, has billions in unrealized losses, according to Deutsche Bank.",negative,-0.944263756275177
+2009-03-02,Baked-In Losses Weigh on G.E.,negative,-0.9378983378410339
+2009-03-03,"When Jack Welch kicked off his tenure at the helm of General Electric in 1981, the management guru Peter Drucker gave him a strategic pep talk.",neutral,0.058846183121204376
+2009-03-03,"In what is now business school lore, Mr. Drucker suggested Mr. Welch ask himself a basic question: “If you weren’t already in a business, would you enter it today?”",neutral,0.013492360711097717
+2009-03-03,Baked-In Losses Weigh on G.E.,negative,-0.9378983378410339
+2009-04-20,"As the market shifts away from carbonated beverages, Pepsi’s move unwinds a decade-long strategy of separating bottling from its main soft-drink business.",positive,0.6668100953102112
+2009-04-20,Pepsi Offers to Buy All Shares of 2 Main Bottlers,neutral,0.1993226855993271
+2009-04-24,"PepsiCo announced earlier this week that it offered a combined $6 billion to reacquire its two bottling units, but the hard part of the deals may still lie ahead.",neutral,0.31002077460289
+2009-04-24,"In addition to the question of price — many analysts and investors think Pepsi will need to raise its bids — there is the issue of how Pepsi will structure the transactions, as either traditional “forward” mergers or reverse triangular mergers.",neutral,0.1323547065258026
+2009-04-24,The Pepsi Challenge: How to Structure a Deal,neutral,0.025787353515625
+2009-05-04,"Pepsi Bottling Group said Monday that its board of directors had rejected a bid from PepsiCo for the rest of the bottling company that it doesn’t already own, calling the offer “grossly inadequate.”",negative,-0.9439610242843628
+2009-05-04,Pepsi Bottling Group Rejects PepsiCo Bid,negative,-0.8328033685684204
+2009-05-07,"PepsiAmericas‘ board has followed the Pepsi Bottling Group in rejecting PepsiCo‘s offer to buy the rest of the bottling company that it doesn’t already own, saying the bid was “not in the best interest of the company’s shareholders.”",negative,-0.8848546743392944
+2009-05-07,Another Bottler Rejects PepsiCo’s Bid,negative,-0.7589655518531799
+2009-05-12,"The Deal Professor takes a close look at Pepsi’s hostile bids for its former bottling subsidiaries, as well as those two companies’ efforts to fight back.",neutral,0.07229991257190704
+2009-05-12,A Close Look at Pepsi’s Bottling Shake-Up,neutral,0.050334881991147995
+2009-05-13,"PepsiCo has a “nuclear option” in its takeover battle with Pepsi Bottling, but it’s unlikely to push the button, The Deal Professor says",neutral,0.1946772187948227
+2009-05-13,Pepsi’s Nuclear Option,neutral,-0.007793858647346497
+2009-05-22,"All over the nation, top business schools have lined up commencement speakers who face a delicate task: Giving a pep talk to graduates, many of whom hope to reap riches on Wall Street, during a time when the Street, and its riches, seem to be shrinking.",neutral,-0.18256723880767822
+2009-05-22,Advice to M.B.A.’s: Think Different and Don’t Despair,neutral,-0.09072710573673248
+2009-05-29,The Deal Professor looks at how PepsiCo has an incentive to avoid taking action in its bid for Pepsi Bottling that puts the offer into entire fairness review under Delaware law.,neutral,0.07692569494247437
+2009-05-29,Pepsi Bottling: The Entire Fairness Issue,neutral,0.009255150333046913
+2009-07-01,"The 50th anniversary of a famous confrontation between capitalism and Communism is soon to be commemorated, with a principal from the capitalist side returning to reminisce.",neutral,0.21074728667736053
+2009-07-01,Pepsi: Official Soda of the Cold War,neutral,0.030398625880479813
+2009-07-14,"Icann will let companies buy entire top level domains, like .pepsi or .ibm.",neutral,0.045146774500608444
+2009-07-14,But only companies with $1 million to spend can get these prime addresses.,neutral,0.03425979986786842
+2009-07-14,The Best Internet Addresses Will Cost a Cool .Million,neutral,0.09274935722351074
+2009-07-30,Quebec is one of the few places in the world where Pepsi holds a larger market share than Coca-Cola.,neutral,0.24602657556533813
+2009-07-30,"In a Quebecer’s Heart, Pepsi Occupies a Special Place",neutral,0.08330772817134857
+2009-08-04,"PepsiCo has reached a deal to buy the outstanding shares of its two main bottlers, ending a months-long standoff over price.",positive,0.8922147154808044
+2009-08-04,Pepsi Reaches $7.8 Billion Deal for 2 Bottlers,positive,0.7574445009231567
+2009-09-11,"On the MTV Video Music Awards on Sunday, an award will be devoted to a sponsor for the first time.",neutral,0.16446436941623688
+2009-09-11,"The award will be for Best Performance in a Pepsi Rock Band Video, as in the Pepsi-Cola soft drink sold by PepsiCo and the Rock Band videogame.",positive,0.4763109087944031
+2009-09-11,And the Winner Is  … Madison Avenue,neutral,0.11243921518325806
+2009-09-21,"Michael Kirban, the founder of Vita Coco, the coconut-water beverage start-up whose eponymous drink has been hit among celebrities, has turned down multimillion-dollar investments from beverage giants Coke and Pepsi, The New York Post reported.",negative,-0.8554172515869141
+2009-09-21,Founder of Vita Coco Said to Turn Down Big-Name Investors,neutral,-0.027832787483930588
+2009-10-27,"PepsiCo, the U.S. soft drinks maker, won European Union regulatory approval Tuesday to buy bottlers Pepsi Bottling Group and PepsiAmericas, deals that will help it cut costs and boost profits.",positive,0.9224609732627869
+2009-10-27,PepsiCo Gets E.U.,neutral,0.0042765215039253235
+2009-10-27,Approval to Buy 2 Bottlers,neutral,0.3081609010696411
+2009-11-23,"For now, it’s a battle of discounts, but Wal-Mart and Amazon are also fighting over the future of retailing.",negative,-0.9009113907814026
+2009-11-23,Price War Brews Between Amazon and Wal-Mart,negative,-0.9024964570999146
+2009-11-30,"Some hotel chains, worried that the recession has eroded business travelers’ brand loyalty, are getting creative in trying to win repeat business.",negative,-0.41015833616256714
+2009-11-30,Hotel Chains Try New Ways to Earn Loyalty,neutral,0.2288602739572525
+2010-02-01,"Abstaining from the Super Bowl commercial scrim this year, Pepsi is instead inviting the public to vote on worthy causes to which it will donate money.",neutral,0.06654331833124161
+2010-02-01,Pepsi Invites the Public to Do Good,neutral,0.047580230981111526
+2010-03-12,"Medicis has started a new marketing campaign that pits its wrinkle-smoother, Dysport, directly against Botox.",neutral,0.19592413306236267
+2010-03-12,It makes bioethicists squirm.,neutral,-0.2592361271381378
+2010-03-12,"To Take on Botox, Rival Tries Rebate",neutral,-0.26373258233070374
+2010-06-10,The Bank of England and the European Central Bank stand pat amid concerns about the direction of the economy.,negative,-0.8179162740707397
+2010-06-10,Central Bank Extends Cash Lifeline and Gives Pep Talk,neutral,0.4277901351451874
+2010-06-11,"The European Central Bank extended its cash lifeline for banks on Thursday, while its president, Jean-Claude Trichet, urged national euro zone regulators to take steps to resuscitate confidence in the health of their financial institutions.",positive,0.6950010061264038
+2010-06-11,E.C.B.,neutral,0.02780677191913128
+2010-06-11,Extends Cash Lifeline and Gives Pep Talk,positive,0.5464240312576294
+2010-07-19,"Pepsi is remaking a commercial featuring two delivery truck drivers, but with a twist; it replaces Coke and Pepsi with the sugarless versions Coke Zero and Pepsi Max.",neutral,0.060197219252586365
+2010-07-19,Pepsi Fires a Salvo to Restart the Cola Wars,neutral,0.0735945925116539
+2010-10-01,"Arms Wide Open, a nonprofit competing for Pepsi Refresh funds charged in a complaint that rival, Progressive Slate, is a group of organizations with ties to the Democratic Party.",negative,-0.8636809587478638
+2010-10-01,Pepsi Refresh Contestant Claims Rules Were Broken,neutral,-0.07305034250020981
+2010-10-02,"A nonprofit group that complained that Pepsi had allowed organizations with political agendas to participate in its online giving contest, Pepsi Refresh, won one of the two $250,000 prizes.",negative,-0.5789469480514526
+2010-10-02,Nonprofit Group Wins Pepsi Contest,neutral,0.12873630225658417
+2010-10-06,"Don’t look to Jan Hatzius, the highly respected chief economist at Goldman Sachs, for a pep talk on the economy.",neutral,0.006866455078125
+2010-10-06,‘Fairly Bad’ or ‘Very Bad’ Economic Assumptions,negative,-0.6217318773269653
+2010-10-25,"Aviad Meitar, chairman of Quadrant European Beverages, reminisces about the early days of pitching Pepsi in a joyless corner of the former Soviet bloc.",neutral,0.06287437677383423
+2010-10-25,Taking the Pepsi Franchise to an Ice-Cold Romania,neutral,-0.1767904907464981
+2010-12-02,"Like many large American multinationals, PepsiCo is seeking growth abroad as its domestic sales stagnate.",positive,0.7102674245834351
+2010-12-02,Pepsi to Buy Russian Juice Maker for $3.8 Billion,neutral,0.06225256621837616
+2011-01-04,"Fox will announce that Pepsi is the sole season-long sponsor for “The X Factor,” a competition Simon Cowell is bringing to the United States.",neutral,0.16475766897201538
+2011-01-04,Pepsi to Sponsor ‘American Idol’ Rival,neutral,0.0400361530482769
+2011-01-05,"In a letter to the Ameron International Corporation, the Barington Capital Group calls for the resignation of the chairman and chief executive, James S. Marlen, stating that he “poses a hindrance to the value creation.”",negative,-0.9124814867973328
+2011-01-05,Barington Seeks Ouster of Ameron’s Chief,negative,-0.6134937405586243
+2011-01-06,Contestants in the PepsiFresh fund-raising contest for nonprofits charge that some participants are using third parties to manipulate the results.,negative,-0.771524965763092
+2011-01-06,New Charges of Cheating Tarnish Pepsi Fund-Raising Contest for Nonprofits,negative,-0.7791786789894104
+2011-01-21,A large private equity firm is seen as a likely suitor of the company.,neutral,0.04546453431248665
+2011-01-21,Pep Boys Auto Parts Chain Weighs Sale,negative,-0.3322155475616455
+2011-01-25,"Simmons cried foul upon learning that a new line of Sealy Posturepedics would use fabric-encased coils, a method Simmons has championed since the 1920s.",negative,-0.7381803393363953
+2011-01-25,"Sealy Adopts a Simmons Technology, and a Mattress Battle Erupts",negative,-0.4138927161693573
+2011-01-31,"The soda brand withdrew from the Super Bowl for the first time in 23 years, giving the money away instead as it explored the potential of social media and cause-related marketing.",negative,-0.568179726600647
+2011-01-31,"Pepsi Bets on Local Grants, Not the Super Bowl",neutral,-0.05894589051604271
+2011-02-21,"PepsiCo’s work with corn farmers in Jalisco, Mexico, reflects a new approach by corporations trying to maintain a business edge while helping out small communities.",positive,0.6272600293159485
+2011-02-21,"For Pepsi, a Business Decision With Social Benefit",neutral,0.03192658722400665
+2011-03-22,"The deal is a classic duopoly case study: if AT&T and T-Mobile combine, it will set up a match like Coca-Cola vs. Pepsi, with AT&T pitted against Verizon.",neutral,0.17053580284118652
+2011-03-22,But getting antitrust approval may be difficult.,negative,-0.5996462106704712
+2011-03-22,AT&T’s Full Cost for Getting T-Mobile,neutral,0.06020042672753334
+2011-04-04,"Coca-Cola, with Ogilvy and Psyop, begins a global campaign aimed at teenagers, for Fanta, one of its biggest brands.",positive,0.5133413076400757
+2011-04-04,"Now, Hit ‘Play’ if You Want a Fanta",neutral,0.028429508209228516
+2011-05-13,"The new agency advises companies on philanthropic efforts variously known as cause marketing, social impact marketing and corporate social responsibility.",neutral,0.04047665745019913
+2011-05-13,Good/Corps Aims to Help Business Meet Social Goals,positive,0.6555360555648804
+2011-06-13,Who sings “Lola” in the Diet Pepsi spot?,neutral,-0.16544102132320404
+2011-06-13,Q. and A.,neutral,0.0380171574652195
+2011-06-13,With Stuart Elliott,neutral,0.02111242711544037
+2011-08-05,"Through Pepsi’s ads on “The X Factor” and next year’s Super Bowl commercial, the company will return to its tradition of big, splashy pop music commercials.",positive,0.7320972681045532
+2011-08-05,Pepsi Takes Active Role in ‘X Factor’,neutral,0.05926184356212616
+2011-10-19,Four consumer advocacy and privacy organizations plan to file a complaint with the Federal Trade Commission on Wednesday charging PepsiCo and its Frito-Lay subsidiary of engaging in deceptive digital marketing practices.,negative,-0.8732171058654785
+2011-10-19,Complaint Accuses Pepsi of Deceptive Marketing,negative,-0.8494855165481567
+2011-12-16,"Despite dueling announcements claiming technological breakthroughs in all-plant bottles, neither Coke nor Pepsi is confident enough in the technology to offer a firm timetable.",negative,-0.14585965871810913
+2011-12-16,The Race to Greener Bottles Could Be Long,neutral,0.11737465858459473
+2012-01-02,"PepsiCo is introducing new “Star Wars”-themed product packaging and a mobile game app to promote Brisk tea to its target market, young men under 30.",positive,0.7275723218917847
+2012-01-02,"To Promote Brisk Tea, Pepsi Enlists Yoda",neutral,0.17735964059829712
+2012-01-06,The Dr Pepper ads are reminiscent of the famous “Be a Pepper” commercials but with a postmodern twist.,neutral,0.0005193501710891724
+2012-01-06,Diet Pepsi and Dr Pepper Roll Out Aggressive New Campaigns,neutral,0.38069018721580505
+2012-01-30,"The private equity firm Gores Group will pay $15 a share for Pep Boys, an auto parts and repair chain based in Philadelphia.",neutral,0.06605763733386993
+2012-01-30,Pep Boys to Be Sold in $791 Million Buyout,neutral,0.0368945449590683
+2012-03-12,The changes laid out a potential line of succession to Indra K. Nooyi and were aimed at addressing investor concerns over its stock price.,neutral,0.19394560158252716
+2012-03-12,Pepsi Chief Shuffles Management to Soothe Investors,negative,-0.7270769476890564
+2012-04-28,"After defining 1990s khaki culture, the clothing chain stumbled.",negative,-0.9058106541633606
+2012-04-28,Now it’s trying new ways to build sales — like making stores cheerier and its ad campaign brighter.,positive,0.8189539909362793
+2012-04-28,A Humbled Gap Tries a Fresh Coat of Pep,neutral,0.006436452269554138
+2012-04-30,"PepsiCo plans to announce an exclusive deal to supply all nonalcoholic beverages in IHOP and Applebee’s restaurants, according to a note distributed Sunday to subscribers of a trade publication.",positive,0.6016424298286438
+2012-04-30,Report Says Pepsi in Deals With IHOP and Applebee’s,neutral,0.09740771353244781
+2012-05-01,"Pep Boys disclosed in a regulatory filing that its would-be buyer, the Gores Group, was potentially seeking to walk away from the $1 billion leveraged buyout of the auto parts and repair company.",negative,-0.4401458501815796
+2012-05-01,Fight Brewing at Pep Boys as Gores Calls L.B.O.,neutral,-0.25749295949935913
+2012-05-01,Into Question,neutral,-0.0030145347118377686
+2012-05-02,Pep Boys may have few options after the private equity firm Gores Group suggested it might terminate a merger agreement.,negative,-0.8840952515602112
+2012-05-02,Walking Away From Merger Deals,neutral,-0.15899303555488586
+2012-05-15,The company’s new sodas are meant to compete with drinks like PepsiCo’s 60-calorie Pepsi Next.,positive,0.7656286954879761
+2012-05-15,Coca-Cola Tests Sweeteners in Battle of Lower Calories,neutral,0.18817339837551117
+2012-05-15,"Americans are abandoning carbonated drinks, and Coke and Pepsi are relying more than ever on the “flat” drinks and bottled waters.",negative,-0.5194354057312012
+2012-05-15,Soda Makers Scramble to Fill Void as Sales Drop,negative,-0.8520853519439697
+2012-05-15,"Relational Investors, the activist hedge fund run by Ralph V. Whitworth, disclosed on Tuesday that it had taken a stake in PepsiCo worth about $609 million.",neutral,0.02474062331020832
+2012-05-15,Whitworth’s Relational Takes Stake in Pepsi,neutral,0.03174218162894249
+2012-05-30,"Pep Boys said late on Tuesday that it had agreed to end its proposed $1 billion sale to the Gores Group, after the private equity firm raised concerns about the company’s deteriorating financial health.",negative,-0.8265846967697144
+2012-05-30,Pep Boys Terminates Sale to Private Equity Firm,neutral,0.023911725729703903
+2012-05-30,The initiative is part of Pepsi’s attempt to refresh its brand and take advantage of the involvement of young people on social media platforms.,positive,0.7896657586097717
+2012-05-30,Pepsi and Twitter Announce Partnership on Ad Campaign,positive,0.6351451873779297
+2012-06-07,"“We’re not soliciting,” the chief executive of the auto parts and repair company said.",neutral,-0.12758556008338928
+2012-06-07,Pep Boys Affirms It Is Not on the Block,neutral,-0.00709867849946022
+2012-06-12,"Barbara Lippert, formerly from Adweek, is joining Bob Garfield, formerly of Ad Age; both will be editors at large for MediaPost.",neutral,0.029335657134652138
+2012-06-12,"Their first assignment is to file video reports from the annual advertising awards in Cannes, France.",neutral,-0.0011567790061235428
+2012-06-12,Once-Dueling Ad Critics Are Teaming Up at MediaPost,neutral,0.04444335401058197
+2012-06-22,"The country, which is recovering from a banking crisis and recession, even had words of encouragement for Europeans: Things get better.",positive,0.8556391000747681
+2012-06-22,Iceland Plans to Join European Bloc Despite Economic Turmoil,neutral,0.08470775187015533
+2012-08-05,Shows meant to reach out to Hispanic viewers often rely on boilerplate characters that fall flat.,neutral,-0.27474814653396606
+2012-08-05,Networks Struggle to Appeal to Hispanics,negative,-0.8919742703437805
+2012-10-08,"The two big soda companies, often criticized for producing drinks that are too sugary, will post the figures first in San Antonio and Chicago and later nationwide.",neutral,-0.17348402738571167
+2012-10-08,Pepsi and Coke to Post Calories of Drinks Sold in Vending Machines,neutral,-0.018011219799518585
+2012-12-04,"The SodaStream home soda maker system, which bills itself as an alternative to bottled soft drinks, is joining the expensive ranks of advertisers during Super Bowl XLVII.",neutral,0.45115187764167786
+2012-12-04,Home Soda Maker to Join Coca-Cola and Pepsi as Super Bowl Advertiser,neutral,0.3195933401584625
+2012-12-10,PepsiCo has come to an unconventional arrangement with the pop star that includes traditional marketing but also a fund to support her creative projects.,positive,0.6457242369651794
+2012-12-10,"In Beyoncé Deal, Pepsi Focuses on Collaboration",neutral,0.04468763992190361
+2013-01-31,"Versions of Super Bowl ads are already online, in stark contrast to a decades-old strategy of building anticipation by keeping them under wraps until the game.",negative,-0.40010225772857666
+2013-01-31,"Super Bowl Ad Previews Draw Online Attention, With Criticism",neutral,-0.028397224843502045
+2013-02-03,"On Sunday, about nine and a half hours before kickoff, PepsiCo Beverages plans to unleash a comical video clip for Pepsi Next that tweaks the commercial planned during the game for Coca-Cola.",neutral,-0.12918923795223236
+2013-02-03,Pepsi’s Next Coke Parody Involves Pepsi Next,neutral,-0.22290658950805664
+2013-02-12,"Amazon.com is quietly building a library of exclusive online content to rival Netflix, the champion of streaming media; cat videos are used to sell things rather than simply distract; and a Japanese television show captures the angst of a major lithium-ion battery manufacturer.",neutral,0.052814751863479614
+2013-02-12,"The Breakfast Meeting: Amazon Challenges Netflix, and an Advertiser Turns to Cat Videos",negative,-0.6032968163490295
+2013-02-14,Significant investments in marketing of crucial brands like Pepsi and Lay’s and strong sales in Latin America and other emerging markets also helped the company.,positive,0.9284375905990601
+2013-02-14,Higher Prices Help PepsiCo to a 17% Gain in Profit,positive,0.9268256425857544
+2013-07-17,Nelson Peltz’s Trian Fund Management has quietly amassed a stake of more than $2.7 billion in the two companies.,neutral,0.05448620766401291
+2013-07-17,He wants Pepsi to acquire Mondelez in an all-stock transaction worth $35 to $38 a share and then spin off its beverage business.,neutral,0.02966439351439476
+2013-07-17,Activist Peltz Urges Merger of PepsiCo and Mondelez,neutral,0.05157947912812233
+2013-07-18,"The financial logic of Nelson Peltz’s proposals for Pepsi is compelling, the author writes.",neutral,0.2136431485414505
+2013-07-18,Pressure Is on PepsiCo to Respond to Peltz’s Overtures,positive,0.3242083787918091
+2013-10-21,"A tentative $13 billion settlement between JPMorgan and the Justice Department was a result of extensive personal negotiations involving Jamie Dimon, the bank’s chief executive, and Attorney General Eric Holder.",neutral,0.39469799399375916
+2013-10-21,U.S. Deal With JPMorgan Followed a Crucial Call,neutral,0.34748053550720215
+2013-10-25,"By the end of the decade, sales of water — whether plain, flavored or carbonated — will surpass those of sodas like Coke and Pepsi.",positive,0.8354706168174744
+2013-10-25,Bottled Water Sales Rising as Soda Ebbs,positive,0.07704156637191772
+2013-12-12,PepsiCo has won the business of Buffalo Wild Wings.,positive,0.8562685251235962
+2013-12-12,The two plan new menu items combining products from both companies.,neutral,0.11166245490312576
+2013-12-12,Pepsi Deal Underscores an Emphasis on Snacks,neutral,0.22408327460289001
+2014-03-07,American players including Pepsi and McDonald’s are active in Russia.,neutral,0.051221270114183426
+2014-03-07,"But for many West European businesses, that market is even more crucial.",neutral,0.07747220993041992
+2014-03-07,"Western Businesses in Russia, Watchful and Wary",neutral,-0.08102121949195862
+2014-05-15,"With soda sales sliding in grocery and convenience stores and other retail outlets, new equipment offers the companies a means of introducing consumers to their products.",positive,0.6752902865409851
+2014-05-15,Pepsi Challenges Coke in the Race to Design a More Tappable Soda Fountain,positive,0.5898899435997009
+2014-07-23,"The California State Teachers’ Retirement System, known as Calstrs, has sent a letter to a senior PepsiCo director, urging the food and beverage company to put Nelson Peltz on its board.",neutral,0.0962047129869461
+2014-07-23,Nelson Peltz’s Efforts to Shake Up Pepsi Get Backing of Calstrs,neutral,0.18289154767990112
+2014-08-08,"While farmers in India once left cashew apples to rot, some are now selling them as the source of what Pepsi hopes could be the next coconut water.",neutral,0.04553762823343277
+2014-08-08,"Cashew Juice, the Apple of Pepsi’s Eye",neutral,0.016132287681102753
+2014-09-13,"After a deadly 2006 accident, Reggie Shaw was in denial.",negative,-0.5891367793083191
+2014-09-13,Now he’s on a mission against the use of phones behind the wheel.,neutral,-0.24527736008167267
+2014-09-13,A Texting Driver’s Education,neutral,-0.10205365717411041
+2014-11-25,"The deal to acquire the operator of Pep, the largest retailer in Africa, is expected to expand Steinhoff’s footprint, particularly in the discount retail space.",positive,0.9365649819374084
+2014-11-25,Steinhoff International to Buy Pepkor of South Africa for $5.7 Billion,neutral,0.03208940848708153
+2015-03-11,The original Pepsi Challenge ad campaign pitted Pepsi against Coke.,neutral,0.017653629183769226
+2015-03-11,The new global version blends social responsibility with popular culture.,neutral,0.35071155428886414
+2015-03-11,"The Pepsi Challenge Is Returning, but This Time for the Social Media Generation",neutral,0.09134481102228165
+2015-04-23,Critics of the proposed merger with Time Warner Cable say that Comcast’s attitude toward compliance paints a picture of an already huge company that uses its heft to its advantage.,negative,-0.841152548789978
+2015-04-23,Comcast Critics Cast Doubt on Its Intentions,negative,-0.6836068034172058
+2015-07-14,"After facing a steep falloff during the recession, apprentice programs are making a comeback, and have caught the notice of students, parents and even some presidential candidates.",positive,0.7258729934692383
+2015-07-14,A New Look at Apprenticeships as a Path to the Middle Class,neutral,0.26976701617240906
+2015-08-25,"On some days, market psychology can count for more than long-term fundamentals, pushing panicked investors to sell.",negative,-0.7808780670166016
+2015-08-25,Advisers Work to Calm Fearful Investors,neutral,-0.2956114411354065
+2015-10-26,"The acquisition of the car parts retailer will give Bridgestone about 800 more stores to add to its own network of 2,200 tire and car service centers.",positive,0.7385897040367126
+2015-10-26,Bridgestone to Buy Pep Boys for $835 Million,neutral,0.03919780254364014
+2015-10-30,"William A. Ackman, the billionaire hedge fund investor, attempted to downplay the magnitude of Valeant’s problems in a recent conference call.",negative,-0.6068889498710632
+2015-10-30,Trying in Vain to Put a Positive Spin on Valeant’s Troubles,neutral,-0.03702983260154724
+2015-12-07,"The activist investor offers to buy the car parts retailer for $15.50 a share in cash, topping the $15 a share that Bridgestone had bid.",positive,0.8609651327133179
+2015-12-07,Carl Icahn Makes Counterbid for Pep Boys,neutral,0.02733447402715683
+2015-12-21,"The $919 million cash offer caused the car-parts and servicing chain to terminate its agreement to be acquired by Bridgestone, the tire company.",negative,-0.8404679298400879
+2015-12-21,Carl Icahn Raises Offer for Pep Boys,neutral,0.12315255403518677
+2015-12-23,"Carl C. Icahn said that he would offer 10 cents a share more than any bid by Bridgestone up to about $18.10 per share, or $1 billion.",positive,0.47994017601013184
+2015-12-23,Icahn Vows to Outbid Bridgestone for Pep Boys,neutral,0.15871648490428925
+2015-12-24,"Pep Boys agreed to be bought by Bridgestone for $947 million, with the board of the car-parts chain deeming the latest offer from the tire company better than a competing bid from Carl Icahn.",positive,0.6238093972206116
+2015-12-24,Pep Boys Accepts Higher Takeover Bid From Bridgestone,positive,0.7308032512664795
+2015-12-29,Bridgestone said it would not counter Carl C. Icahn’s sweetened offer of $18.50 a share in cash.,negative,-0.8042877316474915
+2015-12-29,Icahn Has High Bid for Pep Boys as Bridgestone Backs Away,negative,-0.855856716632843
+2015-12-29,"Carl Icahn may have the upper hand today, but shareholders seem to be betting that Bridgestone has the financial wherewithal to offer a higher price.",positive,0.5307220220565796
+2015-12-29,More Rounds to Come in Fight Over Pep Boys,neutral,0.041722849011421204
+2015-12-30,"Outbidding Bridgestone, Icahn Enterprises announced that it would buy Pep Boys in an all-cash deal for $18.50 a share, or roughly $1 billion.",positive,0.6927357316017151
+2015-12-30,Icahn Wins Bidding War for Pep Boys,positive,0.41395631432533264
+2016-01-28,"Kola House, now being built in New York, is meant to be a testing ground for Pepsi products and, in a subtle way, to stir social media conversation.",neutral,0.08197708427906036
+2016-01-28,"Pepsi Turns Restaurateur, to Serve Up Some Buzz",neutral,0.1278836876153946
+2016-02-29,"Federal-Mogul said that it had received a proposal from Mr. Icahn’s firm to acquire the remaining 18 percent of the company that he did not already own,",positive,0.5279568433761597
+2016-02-29,"Icahn Makes Bid for Federal-Mogul, an Auto-Parts Supplier",neutral,0.17287710309028625
+2016-10-10,A new report documents the beverage industry’s deep financial ties to health groups as part of a strategy to silence critics and gain unlikely allies.,neutral,0.41579484939575195
+2016-10-10,"Coke and Pepsi Give Millions to Public Health, Then Lobby Against It",neutral,-0.030822644010186195
+2016-11-10,“Forget the Pepsi brand — how dare you talk about women that way?” Indra Nooyi said at the annual DealBook conference in New York.,negative,-0.6586365699768066
+2016-11-10,Business Leaders Examine a Post-Election World,neutral,-0.12815499305725098

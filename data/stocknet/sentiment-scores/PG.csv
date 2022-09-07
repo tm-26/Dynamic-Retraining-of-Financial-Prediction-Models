@@ -1,0 +1,87 @@
+Date,Sentence,Prediction,sentimentScore
+2014-02-05,"In a cause-marketing coupon campaign, High Ridge Brands, which makes soap and hair care brands like Zest, Coast and Alberto VO5, is donating its products to families in need.",neutral,0.19032178819179535
+2014-02-05,A Crusade for the Financially Devastated,neutral,0.12211903184652328
+2014-02-07,Coca-Cola presumably gave Green Mountain Coffee a comprehensive review before deciding to buy a stake.,neutral,0.12560343742370605
+2014-02-07,"But the hedge fund manager David Einhorn can’t be easily dismissed either, Kevin Allison writes in Reuters Breakingviews.",negative,-0.6393917202949524
+2014-02-07,Coke and Einhorn Take Opposite Sides of Green Mountain Bet,neutral,0.027635639533400536
+2014-02-17,"While unisex personal care products proliferated a generation ago, the shampoo aisle remained a haven for unisex products, but that, too, is shifting.",neutral,0.019518952816724777
+2014-02-17,"In Shampoo Ads for Men, It’s Not Just the Hair, It’s What It Does for You",neutral,0.02184806764125824
+2014-03-11,"Procter & Gamble and ConAgra, two consumer-product giants that once battled each other for market share, are combining their ad dollars to advance a good cause.",positive,0.8267207741737366
+2014-03-11,Former Rivals Come Together in a Campaign to End Childhood Hunger,neutral,0.046070441603660583
+2014-04-02,A ruling by a California state court allows venture capital firms to control the amount of information they disclose.,neutral,-0.02652117982506752
+2014-04-02,But is it the best solution?,neutral,0.04210273176431656
+2014-04-02,"Probably not, says Jonathan Axelrad, a partner at Goodwin Procter.",neutral,-0.19996771216392517
+2014-04-02,Venture Capital’s Need for Secrecy Collides With Public’s Right to Know,neutral,-0.13368742167949677
+2014-04-03,"Mr. Black, a commercial artist, drafted the original rendering of Procter & Gamble’s trademark “genie in a bottle.”",neutral,0.07912648469209671
+2014-04-03,"Richard Black, 92, Artist Who Conjured ‘Mr.",neutral,-0.1346433311700821
+2014-04-03,"Clean,’ Dies",neutral,0.14126336574554443
+2014-04-09,"The $2.9 billion sale of the brands, including Iams and Eukanuba, was championed by the activist investor William A. Ackman.",neutral,0.12945406138896942
+2014-04-09,"To Slim Down, Procter & Gamble Sells Most of Its Pet Food Brands to Mars",neutral,0.0036978088319301605
+2014-04-10,Junior bankers are still working long hours despite new policies.,negative,-0.9065737128257751
+2014-04-10,| Four rival offers for Detroit’s art could be an obstacle for the city as it tries to resolve its bankruptcy.,negative,-0.6738656759262085
+2014-04-10,| Ally prepares for its I.P.O.,neutral,-0.03376336395740509
+2014-04-10,| Procter & Gamble sells most of its pet food brands to Mars.,neutral,0.00845502782613039
+2014-04-10,Morning Agenda: Junior Banker Blues,neutral,0.005780015140771866
+2014-04-30,"The main challenge is mustering enough resources to take on the consumer products behemoth Procter & Gamble, writes Kevin Allison of Reuters Breakingviews.",neutral,0.42548447847366333
+2014-04-30,Energizer Split Leaves Biggest Problem Intact,negative,-0.5864424109458923
+2014-05-19,The socially conservative entertainment company that produced “The Chronicles of Narnia” trilogy is now seeking to collaborate with more risqué partners.,neutral,0.44026580452919006
+2014-05-19,"Walden Media, PG Filmmaker, Seeks Studio Partners Across Cultural Divide",neutral,0.169049933552742
+2014-07-09,"An overvalued bolívar meant the country had been a major source of profits for foreign firms, but they evaporated for many with a new exchange rate.",neutral,0.14055676758289337
+2014-07-09,Profits Vanish in Venezuela After Currency Devaluation,negative,-0.8929082751274109
+2014-07-14,"A New York-only campaign for Procter & Gamble products, and Kenny Rogers is a good sport for Geico.",neutral,0.03038676455616951
+2014-07-14,Q. and A.,neutral,0.0380171574652195
+2014-07-14,With Stuart Elliott,neutral,0.02111242711544037
+2014-08-01,The company is facing investor pressure to pare its product lineup and trim costs.,positive,0.7471834421157837
+2014-08-01,"Procter & Gamble to Streamline Offerings, Dropping Up to 100 Brands",negative,-0.958387017250061
+2014-09-08,"Mathew Martoma’s parents asked why his former boss, Steven A. Cohen, was not also charged with insider trading if their son had done something wrong.",negative,-0.8174245357513428
+2014-09-08,"Martoma, SAC Capital Ex-Trader, Gets 9 Years in Prison",negative,-0.4866056442260742
+2014-09-17,"Companies once had little interest in lower-end consumers, but some now recognize the potential of that vast market.",neutral,0.07321217656135559
+2014-09-17,Multinational Companies Court Lower-Income Consumers,negative,-0.6385212540626526
+2014-10-24,"The Duracell spinoff may be more valuable for the signal it telegraphs, Kevin Allison of Reuters Breakingviews writes.",neutral,0.283272385597229
+2014-10-24,Procter & Gamble’s Step in the Right Direction,positive,0.6563332080841064
+2014-11-10,"Procter & Gamble, the consumer products giant that makes items as varied as razors and household cleaners, led advertising spenders in the third quarter, but consumer products as a whole does not dominate.",neutral,0.21693181991577148
+2014-11-10,Popular Demand,neutral,0.06970230489969254
+2014-11-13,"The one drawback for Procter & Gamble is that it is losing a longtime shareholder, Robert Cyran and Kevin Allison of Reuters Breakingviews write.",negative,-0.953948974609375
+2014-11-13,Both Sides Gain in Buffett-Duracell Deal,negative,-0.1394413709640503
+2014-12-07,The magazine and cosmetics company are paying more than $2 million to sponsor of the New Year’s Eve celebration in Times Square.,neutral,0.11043806374073029
+2014-12-07,Cosmo and CoverGirl Will Unite to Ring in 2015 in Times Square,neutral,0.2024657428264618
+2015-01-21,"David S. Taylor will take over the company’s beauty unit in a move interpreted to put him one step closer to succeeding the chief executive, A.G. Lafley.",neutral,0.3605705797672272
+2015-01-21,Executive Shake-Up at Procter & Gamble,neutral,-0.28009510040283203
+2015-02-02,"The Budweiser ad, which also featured the brand’s Clydesdale horses, scored big on social media, while a Nationwide spot angered viewers.",positive,0.3245641589164734
+2015-02-02,"In Super Bowl Commercials, Puppy Is a Winner",neutral,-0.03570345789194107
+2015-02-06,Baby boomers are turning to the growing number of firms that specialize in placing older workers in part-time or temporary positions in specific industries.,neutral,0.001900017261505127
+2015-02-06,Consulting as a Bridge Between Full-Time Work and Retirement,neutral,0.027598345652222633
+2015-03-08,"Companies like Ford, Procter & Gamble, Under Armour and the Spanish bank BBVA are working to outmaneuver start-ups for dominance on mobile devices.",positive,0.5924381613731384
+2015-03-08,Surge in Smartphones Sets Off New Wave of Corporate Self-Reinvention,positive,0.7869149446487427
+2015-03-18,"The country’s largest marketers are slashing their advertising budgets because digital offers more, for less money.",negative,-0.9464588165283203
+2015-03-18,Biggest Advertisers Are Sending Their Dollars to Digital,neutral,0.027391470968723297
+2015-04-02,"The largest contiguous parcel of undeveloped private land east of the Mississippi River, owned by Foley Lumber and Land, is expected to bring in $1 billion or more.",neutral,0.37369173765182495
+2015-04-02,"560,000-Acre Swath of Florida Land Going on the Market",neutral,-0.003519304096698761
+2015-04-06,"To help their cash flows, food and packaged goods companies are delaying payments to suppliers, a practice that at one time signaled trouble.",negative,-0.951280951499939
+2015-04-06,"Big Companies Pay Later, Squeezing Their Suppliers",negative,-0.8570448756217957
+2015-05-22,"On Friday, the California State Assembly passed a bill that could become the strictest ban in the United States on the particles, which can carry pollutants into the food chain.",neutral,0.23685914278030396
+2015-05-22,Fighting Pollution From Microbeads Used in Soaps and Creams,neutral,0.04607204347848892
+2015-07-09,"The deal includes hair products like Nice & Easy and VS Salonist, as well as cosmetics and fine fragrances from Gucci and Dolce & Gabbana.",neutral,0.05771642178297043
+2015-07-09,P.&G.,neutral,0.03712895140051842
+2015-07-09,Sells 43 Beauty Brands to Coty,neutral,0.03168400377035141
+2015-07-28,"David S. Taylor, a group president who joined P.&G.",neutral,0.008734541945159435
+2015-07-28,"in 1980, takes charge of a company that has spent months vigorously slimming down.",neutral,0.022876903414726257
+2015-07-28,A Smaller P.&G.,neutral,-0.0006630346179008484
+2015-07-28,Sets Its Next Leader,neutral,0.0065879374742507935
+2015-08-28,"It is rare to meet actual orphans with stock portfolios, let alone ones who have hung on to investments for nearly 50 years.",neutral,-0.03328315541148186
+2015-08-28,"Steady Financial Advice, With Friendship as a Bonus",neutral,0.06835183501243591
+2015-09-08,How will you rate Jacob Stulberg’s puzzle?,neutral,0.03722982853651047
+2015-09-08,Somewhat Family-Friendly,neutral,0.07722293585538864
+2015-09-23,"Major companies including Johnson & Johnson, Starbucks and Walmart are setting long-term targets for powering operations entirely with renewable energy.",neutral,0.08193618059158325
+2015-09-23,Global Companies Joining Climate Change Efforts,neutral,0.048419445753097534
+2015-10-08,"The tiny abrasives, used in exfoliators and other care products, have the same effect as grinding up plastic water bottles and dumping them into the ocean, environmentalists say.",neutral,-0.2568802535533905
+2015-10-08,California Becomes Latest State to Ban Plastic Microbeads,neutral,-0.09905385971069336
+2015-10-19,"EDF Renewable Energy will produce 370,000 megawatt-hours of electricity annually for P.&G.",neutral,0.07918442785739899
+2015-10-19,to power all of its North American fabric and home care products plants.,neutral,0.02571481466293335
+2015-10-19,Procter & Gamble to Run Its Factories With Wind Power,neutral,0.004195112735033035
+2015-10-26,"Procter & Gamble, the maker of Tampax, and Kimberly-Clark, the maker of Kotex, yield to public concern about materials in their pads and tampons.",negative,-0.913259744644165
+2015-10-26,"Under Pressure, Feminine Product Makers Disclose Ingredients",neutral,-0.06499660760164261
+2015-12-08,Procter & Gamble announced it was moving the bulk of its North American media buying and planning business to Omnicom from Publicis Groupe.,neutral,0.02389204129576683
+2015-12-08,"Procter & Gamble, the World’s Biggest Advertiser, Switches Agencies",neutral,-0.15185609459877014
+2016-08-02,"Internet-adept rivals like Dollar Shave Club, which Unilever just bought for $1 billion, threaten to steal customers and cut into P.&G.’s margins.",negative,-0.9557027220726013
+2016-08-02,Online Upstarts Pose a Threat to Procter & Gamble,negative,-0.8310533165931702

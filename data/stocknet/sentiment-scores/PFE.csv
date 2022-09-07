@@ -1,0 +1,204 @@
+Date,Sentence,Prediction,sentimentScore
+2014-03-10,"Minerals Technologies agreed to pay about $1.7 billion, beating out Imerys of France, after a spirited back-and-forth for Amcol, a producer of specialty minerals and materials based in Illinois.",positive,0.8172205686569214
+2014-03-10,Minerals Technologies Wins Bidding War for Amcol International,positive,0.6357507705688477
+2014-04-06,"Palbociclib, a drug being developed by Pfizer, sharply cut the risk that advanced cancer would worsen among patients taking part in a Phase 2 study, researchers said.",positive,0.5089088678359985
+2014-04-06,Guarded Optimism After Breast Cancer Drug Shows Promising Results,positive,0.5025991797447205
+2014-04-21,A deal with Pfizer would have been one of the biggest ever in the pharmaceutical industry.,positive,0.4892599582672119
+2014-04-21,But whether such a deal makes sense is another matter.,neutral,0.0011188853532075882
+2014-04-21,"Spurning Merger Approaches, AstraZeneca Pursues Own Path",neutral,0.3114454448223114
+2014-04-22,"William A. Ackman and Valeant are bidding for Allergan, the maker of Botox.",neutral,0.05035122483968735
+2014-04-22,| Novartis announced a major overhaul.,positive,0.5975944995880127
+2014-04-22,| AstraZeneca says no to a deal with Pfizer.,neutral,-0.06167212128639221
+2014-04-22,| Barclays is set to exit its commodities business.,negative,-0.7936596274375916
+2014-04-22,Ackman’s Botox Ambitions,neutral,-0.029871396720409393
+2014-04-28,"If the British drug company AstraZeneca cannot make Pfizer go away, it can certainly make it pay, Neil Unmack of Reuters Breakingviews contends.",negative,-0.8642876148223877
+2014-04-28,Why Pfizer Needs to Do More to Win AstraZeneca,positive,0.575462818145752
+2014-04-29,"We don’t know if Pfizer is targeting a British rival because the combined firm will be more efficient or because of the tax savings, Victor Fleischer writes in his Standard Deduction column.",neutral,0.3434455096721649
+2014-04-29,How Tax Laws Distort the Pfizer Deal,neutral,-0.33285069465637207
+2014-05-01,"Time is working against Pfizer in its pursuit of AstraZeneca and thus it will want a friendly deal completed as quickly as possible, Christopher Hughes and Neil Unmack write for Reuters Breakingviews.",positive,0.4693801999092102
+2014-05-01,Pfizer Looks for a Quick Strike on AstraZeneca,neutral,-0.28641825914382935
+2014-05-02,"Pfizer’s latest offer for its rival seems cheap to shareholders who view AstraZeneca’s turnaround as well advanced, Neil Unmack writes in Reuters Breakingviews.",positive,0.719516932964325
+2014-05-02,Pfizer Has Yet to Make a Compelling Bid to AstraZeneca’s Shareholders,neutral,0.12467092275619507
+2014-05-05,"Pfizer announced a 15 percent drop in earnings, and again pressed its suit for its rival, AstraZeneca.",negative,-0.9605916142463684
+2014-05-05,"Profit Off, Pfizer Again Aims to Lure AstraZeneca",neutral,0.13410478830337524
+2014-05-06,"In presenting long-term financial estimates, AstraZeneca said it expected to achieve annual revenue of $45 billion by 2023, suggesting Pfizer’s bid undervalued the company.",negative,-0.3075809180736542
+2014-05-06,AstraZeneca Makes Its Case Against Pfizer’s Takeover Bid,neutral,-0.0804373174905777
+2014-05-07,"Briggs Morrison, who oversees drug development for AstraZeneca, says the company would be better off without Pfizer.",negative,-0.5251435041427612
+2014-05-07,"He bases that, in part, on having worked at Pfizer.",neutral,0.023597633466124535
+2014-05-07,A Scientist’s Defense of Keeping AstraZeneca Independent,neutral,0.02828032523393631
+2014-05-08,"AstraZeneca’s board would do well to evaluate whether the company’s progress will continue under Pfizer’s management, Bill George, a professor at Harvard Business School, writes in the Another View column.",positive,0.6107978224754333
+2014-05-08,A Case for Rejecting Pfizer’s Bid for AstraZeneca,neutral,-0.3358802795410156
+2014-05-09,Walgreen is already under pressure from hedge fund investors that want it to move across the Atlantic.,negative,-0.91936194896698
+2014-05-09,Pfizer’s Plan to Go to London Spurs Other Companies to Consider Moving Abroad,neutral,0.13255912065505981
+2014-05-10,"In a series of videos posted online, Pfizer’s chief executive tried to quell growing concern about the transaction.",negative,-0.7471858859062195
+2014-05-10,Pfizer Continues to Defend Takeover Bid for AstraZeneca,neutral,0.23134487867355347
+2014-05-12,BNP Paribas and Credit Suisse ask authorities in the United States to go easy.,neutral,-0.20267035067081451
+2014-05-12,| Pfizer goes online to defend its bid for AstraZeneca.,negative,-0.24960413575172424
+2014-05-12,"| Timothy F. Geithner’s book, “Stress Test,” comes out today.",neutral,0.06074816733598709
+2014-05-12,| Morgan Stanley is king in Silicon Valley.,neutral,0.13142675161361694
+2014-05-12,BNP Paribas and Credit Suisse Seek Leniency,neutral,0.011963780969381332
+2014-05-13,"One lesson for companies contemplating a big merger, Steven M. Davidoff writes in the Deal Professor column: Life is not a “Mad Men” episode where ego and hubris triumph.",neutral,-0.12486986070871353
+2014-05-13,"To Guide the Merger Giants, Strong Hands Are Needed",neutral,0.12651678919792175
+2014-05-15,A new Reuters Breakingviews calculator shows why investors seem to believe that a $100 billion-plus acquisition by Pfizer will probably happen.,neutral,0.10752921551465988
+2014-05-15,The Right Price for AstraZeneca’s Stock,neutral,0.13290049135684967
+2014-05-18,The American drug giant Pfizer has made an offer worth $119 billion in what it said was a final effort to bring the British drug maker AstraZeneca to the table for deal talks.,positive,0.5835064053535461
+2014-05-18,"In Last-Ditch Bid, Pfizer Offers $119 Billion for AstraZeneca",neutral,0.3442750573158264
+2014-05-19,"Britain does not have as many takeover defenses as the United States, so it is puzzling why Pfizer did not make a full-fledged hostile bid for AstraZeneca, Steven M. Davidoff writes in the Deal Professor column.",neutral,0.020091921091079712
+2014-05-19,The Curious Incident of Pfizer’s ‘Final’ Offer for AstraZeneca,neutral,0.0738760232925415
+2014-05-20,"An apparent loophole in Britain’s takeover code means Pfizer could offer a higher price for AstraZeneca, even after declaring that its earlier pitch was “final,” says Christopher Hughes of Reuters Breakingviews.",positive,0.600781261920929
+2014-05-20,Loophole Offers Pfizer a Risky Way Back Into a Deal,negative,-0.7590266466140747
+2014-05-21,"The fragmented response offers a glimmer of hope to Pfizer, but AstraZeneca also contends that under British takeover law, its hands are tied unless a third part steps in with a competing bid.",negative,-0.47559115290641785
+2014-05-21,AstraZeneca’s Shareholders Remain Sharply Divided Over Talks With Pfizer,negative,-0.9211636185646057
+2014-05-22,"BlackRock, AstraZeneca’s largest shareholder, is said to prefer that the drug firm engage in talks with Pfizer later on rather than accept Pfizer’s most recent offer.",neutral,-0.19383352994918823
+2014-05-22,BlackRock Encourages AstraZeneca to Renew Pfizer Talks at Later Date,neutral,0.12035870552062988
+2014-05-26,Pfizer said it “does not intend to make an offer for AstraZeneca” in the wake of AstraZeneca’s rejection of a $119 billion bid.,neutral,-0.39822420477867126
+2014-05-26,Pfizer Abandons Bid for AstraZeneca,neutral,-0.2228395938873291
+2014-05-27,"Pfizer looks foolish for the way it handled a $119 billion bid, yet it is AstraZeneca that remains under pressure, Christopher Hughes of Reuters Breakingviews writes.",negative,-0.791589617729187
+2014-05-27,The Lessons of a Drug Maker’s Failed Deal,neutral,-0.17778439819812775
+2014-05-29,The government says the national health service suffered losses from the drug companies’ efforts to restrict competition in ophthalmic drugs.,negative,-0.9346080422401428
+2014-05-29,Italy Seeks $1.6 Billion in Damages From Roche and Novartis,negative,-0.849032461643219
+2014-06-16,"Bill George, a former chief executive of Medtronic, opposed Pfizer’s proposed deal to acquire an overseas competitor and reincorporate abroad, but he is all in favor of his former employer making a similar deal.",negative,-0.5193509459495544
+2014-06-16,Former Medtronic C.E.O.,neutral,0.008525930345058441
+2014-06-16,Defends Inversion Deal,neutral,0.1252649873495102
+2014-06-24,Two BNP Paribas analysts said in a research note that a sweetened offer of about $127.7 billion by Pfizer for its British rival would still make “economic sense.”,positive,0.5576595067977905
+2014-06-24,Bank Analysts Say Pfizer-AstraZeneca Merger Still Makes Sense,positive,0.6102902889251709
+2014-06-25,"Though AbbVie, based in Chicago, stopped short of raising its $46 billion takeover offer, its presentation and investor call on Wednesday made the case for a deal with Shire.",positive,0.6373063325881958
+2014-06-25,AbbVie Signals It Will Continue to Pursue Irish Drug Maker Shire,neutral,0.3052777647972107
+2014-06-26,"Auxilium Pharmaceuticals, based in Pennsylvania, agreed to acquire QLT of Canada in one of the smallest inversions in recent years.",neutral,0.39404433965682983
+2014-06-26,"Auxilium, a Small Player, Buys QLT and Does an Inversion, Too",neutral,0.03753422945737839
+2014-07-02,"As more companies seek to relocate by mergers — so-called inversions — it is more likely the law will change, Robert Cyran of Reuters Breakingviews writes.",neutral,0.07120176404714584
+2014-07-02,The Fleeting Benefits of Overseas Corporate Marriages,neutral,0.09545384347438812
+2014-07-14,"Vince Cable, the British business secretary, wants to eliminate the “wiggle room” in commitments made by foreign suitors for British companies.",negative,-0.42235732078552246
+2014-07-14,A Call for Stricter Takeover Rules in Britain,neutral,-0.0887363851070404
+2014-07-15,"The pharmaceutical company is hoping to bring a new acronym into the vernacular with FOGO, or fear of getting old.",neutral,0.08227165043354034
+2014-07-15,Pfizer to Inject Youth Into the Aging Process,neutral,-0.05649372935295105
+2014-07-24,"Allergan, the target of a $52 billion hostile bid, is linking stock and option grants to lofty profit goals.",positive,0.6578351855278015
+2014-07-24,"It is a bold tactic that should become a norm in M.&A., contends Robert Cyran of Reuters Breakingviews.",positive,0.6356797218322754
+2014-07-24,Botox Maker’s Bosses Put Money Where Their Mouths Are,negative,-0.5603995323181152
+2014-07-25,"How AbbVie came to win Shire demonstrates that even in the middle of a new boom in mergers and acquisitions, a hefty premium is no guarantee of success.",positive,0.6805058717727661
+2014-07-25,"To Woo Drug Maker Shire, AbbVie Trod Cautiously in Tax Inversion Bid",positive,0.4273138642311096
+2014-07-30,"The British drug maker said it would initially pay $875 million for the rights to the drugs, and up to $1.22 billion more if development and sales milestones are met.",positive,0.6743987202644348
+2014-07-30,AstraZeneca to Pay Almirall Up to $2.1 Billion for Respiratory Drugs,neutral,0.18634547293186188
+2014-09-02,Public pension funds have major stakes in American companies moving overseas to cut their tax bills.,neutral,0.042774081230163574
+2014-09-02,"But they are saying little about the strategy, which could hurt the nation’s tax base.",negative,-0.8298264741897583
+2014-09-02,Public Pension Funds Stay Mum on Corporate Expats,neutral,-0.21372202038764954
+2014-09-23,Some American-led transactions may survive on strategic logic.,neutral,0.25052589178085327
+2014-09-23,"But pure tax-avoiding combinations look tricky, Neil Unmack and Robert Cyran of Reuters Breakingviews write.",neutral,-0.0016821026802062988
+2014-09-23,U.S. Curbs on Inversions May Deter Some Pharmaceutical Deals,negative,-0.9492151141166687
+2014-10-04,"Companies like Allergan, Valeant, Salix, Actavis and Medtronic are riding a wave of cheap debt and pent-up demand in a slew of recent acquisitions or attempted acquisitions.",neutral,0.12864084541797638
+2014-10-04,A Scramble to Acquire for Drug Companies,neutral,-0.2916083037853241
+2014-10-14,"Already, 2014 ranks as the busiest year for failed mergers since 2008, data from Thomson Reuters shows.",negative,-0.6878207325935364
+2014-10-14,An Ill-Fated Bid for T-Mobile US is the Latest in a Year of Failed Deals,negative,-0.89980548620224
+2014-10-15,"The American drug company’s retreat, writes Neil Unmack of Reuters Breakingviews, will make it difficult for the board of any European company to approve an inversion bid in the future.",negative,-0.9324026703834534
+2014-10-15,AbbVie’s U-Turn Shows Shire Deal Was Driven by Taxes,neutral,0.10558541119098663
+2014-10-29,"The strain, known as serogroup B meningitis, infected students at Princeton and the University of California, Santa Barbara last year.",negative,-0.835170567035675
+2014-10-29,F.D.A.,neutral,0.04497655853629112
+2014-10-29,"Approves Pfizer’s Trumenba, a Vaccine for a Rare Meningitis",positive,0.7943848371505737
+2014-11-11,The activist investor William A. Ackman has acquired an 8.5 percent economic interest in the former animal health arm of Pfizer.,neutral,0.047841332852840424
+2014-11-11,"Zoetis, an Animal Health Company, Says Ackman Has Taken a Stake",neutral,-0.032929182052612305
+2014-11-13,Groups including the Bill & Melinda Gates Foundation aim to help bring an easier-to-inject form of Depo-Provera to 69 countries.,positive,0.4972996413707733
+2014-11-13,Pfizer and Aid Groups Team Up on Contraceptive for Developing World,positive,0.6838302612304688
+2014-11-17,"The alliance between the American and German companies is expected to strengthen Merck’s oncology business in several important markets, including the United States.",positive,0.9330943822860718
+2014-11-17,Pfizer to Pay up to $2.9 Billion in Cancer Drug Deal With Merck of Germany,positive,0.6592859625816345
+2014-12-08,"The deal will give Merck, the second-largest American drug maker after Pfizer, control of the largest antibiotics company, and deepen its ties with hospitals.",positive,0.8312380909919739
+2014-12-08,"Merck in $8.4 Billion Deal for Cubist, Big Maker of Antibiotics",neutral,0.4630807042121887
+2015-01-09,"In search of an alternative to hearing aids or implants, some report success in early trials for drugs to improve hearing or silence tinnitus.",positive,0.668166995048523
+2015-01-09,"From Vertigo to Tinnitus, Ear Ailments Are New Focus for Drugs",neutral,0.0475340411067009
+2015-02-05,"In what might be called “transaction Thursday,” some $25.7 billion of deals were recorded, according to Thomson Reuters, including Pfizer’s purchase of Hospira and BT’s acquisition of the mobile carrier EE.",neutral,0.06798646599054337
+2015-02-05,"Pfizer Deal and Other Mergers Show a Case of the Mondays, on a Thursday",neutral,0.03392178565263748
+2015-02-06,RadioShack files for bankruptcy.,negative,-0.5100437998771667
+2015-02-06,| Ally Financial is looking to ramp up performance.,positive,0.9192511439323425
+2015-02-06,| Pfizer makes a big bet on a new class of generics.,neutral,0.4630398452281952
+2015-02-06,| Dysfunction continues at GFI.,negative,-0.930751621723175
+2015-02-06,Morning Agenda: RadioShack’s Bankruptcy Filing,neutral,-0.1784852147102356
+2015-03-20,"The drug, developed by Biogen Idec, could achieve sales of billions of dollars a year if the results from the small trial are replicated in larger trials.",positive,0.7160926461219788
+2015-03-20,Biogen Reports Its Alzheimer’s Drug Sharply Slowed Cognitive Decline,negative,-0.8472428917884827
+2015-04-27,"Swedish Orphan Biovitrum, which makes the ReFacto AF treatment for hemophilia for Pfizer, received a preliminary offer from an undisclosed suitor.",neutral,0.36816003918647766
+2015-04-27,"Sobi, Swedish Maker of Drugs for Rare Diseases, Receives Takeover Bid",neutral,0.1180916354060173
+2015-06-02,"If companies are going to fight activist investors who call for breakups or spinoffs, they should also be more honest about downsides of mergers.",neutral,0.3135814070701599
+2015-06-02,"Breaking Up Companies Creates Extensive Costs, Too",neutral,-0.4175165593624115
+2015-07-01,"Four executives of leading health care organizations are members of the board of the U.S. Chamber of Commerce, which is engaged in a worldwide campaign to thwart antismoking laws.",neutral,-0.015548545867204666
+2015-07-01,U.S. Chamber Fights Smoking Laws While Hospitals and Insurers Sit on Its Board,neutral,-0.253103107213974
+2015-10-14,The Pfizer chemist helped create the antidepressant that has been used to treat more than 100 million people and has generated sales of more than $3 billion.,positive,0.5367705225944519
+2015-10-14,"Kenneth Koe, an Inventor Behind Zoloft, Dies at 90",neutral,-0.3264678716659546
+2015-10-29,"Cheap capital, low interest rates and the challenges posed by the Affordable Care Act are driving health companies of all kinds, not just hospitals, to combine.",positive,0.6595954895019531
+2015-10-29,Health Care Companies in Merger Frenzy,neutral,-0.23491427302360535
+2015-11-04,"In response Mylan’s move to the Netherlands, the Securities and Exchange Commission now requires shareholder votes for each governance change from such deals.",neutral,0.05038713291287422
+2015-11-04,Regulators Unbundle Some Attractions of Mergers,neutral,-0.06420101225376129
+2015-11-06,The transaction is expected to improve the British drug maker’s pipeline of treatments for cardiovascular and metabolic diseases.,positive,0.923375129699707
+2015-11-06,AstraZeneca Agrees to Buy ZS Pharma for $2.7 Billion,positive,0.5356419682502747
+2015-11-19,"Buying Allergan would give the drug giant a low-tax domicile in Ireland and one good drug, Botox.",positive,0.5953168272972107
+2015-11-19,But Allergan would accrue nearly all of the upside.,neutral,0.019114108756184578
+2015-11-19,High Risk and Low Benefit in Pfizer’s Pursuit of Allergan,neutral,-0.02202308550477028
+2015-11-22,"The deal, to be announced Monday, would create a huge new pharmaceutical giant and could potentially help Pfizer lower its American tax rate.",positive,0.8160238265991211
+2015-11-22,Pfizer and Allergan Reach $150 Billion Merger Deal,neutral,0.4583331346511841
+2015-11-23,"With an equity value of $152 billion, the merger is the largest since the heady days of 2000.",positive,0.5998141169548035
+2015-11-23,How the Pfizer-Allergan Deal Ranks,neutral,0.03657025471329689
+2015-11-24,The two companies have outlined the various termination fees they will pay each other in the event the $152 billion merger collapses.,neutral,-0.04682007431983948
+2015-11-24,Pfizer and Allergan Deal Comes With an Extensive Prenup,neutral,0.09199173748493195
+2015-11-25,"The Pfizer-Allergan merger has been criticized because of a planned headquarters move to Ireland, but such strategies are not necessary to avoid taxes.",negative,-0.7314837574958801
+2015-11-25,Pfizer Didn’t Need an Inversion to Avoid Paying U.S. Taxes,neutral,-0.0409732386469841
+2015-12-01,That this high-water mark is justified by its tax workaround is a sign that the two-year boom of extraordinary corporate deals is reaching its conclusion.,positive,0.8219683170318604
+2015-12-01,Pfizer’s Deal for Allergan Is a Dubious Milestone,neutral,0.05821296572685242
+2015-12-15,The exchange of business units would make Sanofi one of the world’s largest manufacturers of nonprescription medicines.,positive,0.8033310770988464
+2015-12-15,European Drug Makers Sanofi and Boehringer Ingelheim in Talks,neutral,-0.06459546834230423
+2015-12-17,"The deal would be the latest by a pharmaceutical company in what has been a record year for mergers and acquisitions, driven in part by transactions in the health care sector.",neutral,0.4601094424724579
+2015-12-17,AstraZeneca to Acquire Majority Stake in Acerta Pharma,neutral,0.05377441272139549
+2015-12-18,The British drug maker plans to acquire treatments at various stages of research in a deal with Bristol-Myers Squibb of New York that could be worth $1.46 billion.,neutral,0.20989719033241272
+2015-12-18,GlaxoSmithKline to Buy Raft of H.I.V.,neutral,0.09493069350719452
+2015-12-18,Drugs in Development,neutral,0.05445354804396629
+2015-12-22,"The merger market is on track for a $4 trillion-plus year, and deal makers are no doubt celebrating, but this is also a time for reflection.",neutral,0.2518458664417267
+2015-12-22,"In a Record Year for Deals, Success and a Few Missteps",neutral,-0.02769830822944641
+2016-01-05,"The insulin, called Afrezza, has had poor sales since being approved by the F.D.A.",negative,-0.9572476744651794
+2016-01-05,in 2014.,neutral,0.07005567848682404
+2016-01-05,"Shares in its maker, MannKind, fell 48 percent.",negative,-0.959272027015686
+2016-01-05,Sanofi Ends Marketing Deal With Developer of Inhaled Insulin,neutral,0.010313421487808228
+2016-01-11,Some pharmaceutical companies will form the National Immunotherapy Coalition to rapidly test various combinations of promising new types of cancer drugs.,neutral,0.1960538923740387
+2016-01-11,Drug Companies to Try a Unified Front Against Cancer,neutral,-0.19005906581878662
+2016-01-13,"When hemophiliacs make their living by selling lucrative hemophilia drugs, patient advocates say it creates a dangerous conflict of interest.",negative,-0.8534726500511169
+2016-01-13,Hemophilia Patient or Drug Seller?,neutral,-0.1713441014289856
+2016-01-13,Dual Role Creates Ethical Quandary,neutral,0.04306764155626297
+2016-01-26,"Johnson Controls is just the latest corporation to flee America for greener, lower-tax pastures.",neutral,0.007050316780805588
+2016-01-26,"And until lawmakers reform the tax code, the exodus will continue.",neutral,-0.3675215244293213
+2016-01-26,A Tidal Wave of Corporate Migrants Seeking (Tax) Shelter,neutral,-0.24634869396686554
+2016-02-10,The bigger benefit to corporations fleeing American tax bills — and the bigger loss to American taxpayers — is a maneuver called earnings stripping.,negative,-0.7056983113288879
+2016-02-10,Corporate Inversions Aren’t the Half of It,neutral,-0.12131150811910629
+2016-02-19,"If Burger King and Pfizer can lower their tax rates with inversions, why can’t I?",neutral,0.17103710770606995
+2016-02-19,Just Send the Tax Bill to My Personal Irish Subsidiary,neutral,-0.018879957497119904
+2016-04-05,"The broader reach of regulations, intended to keep companies from cutting deals to move income overseas, appears to have caught many by surprise.",negative,-0.7229183912277222
+2016-04-05,Pfizer and Allergan Are Said to End Merger as Tax Rules Tighten,neutral,-0.19469812512397766
+2016-04-06,"In the abandoned merger with Allergan, lawmakers, the Treasury Department and Pfizer itself bear some responsibility.",neutral,-0.033295631408691406
+2016-04-06,Finger-Pointing Abounds in Failed Pfizer Deal,negative,-0.619217574596405
+2016-04-07,"The government’s crackdown on inversions and two lawsuits it filed this week offer some things for advisers, companies and shareholders to think about.",neutral,-0.0035720281302928925
+2016-04-07,Lessons in a Busy Week of Deal Busting,neutral,0.022462621331214905
+2016-04-14,"Companies are abandoning the biggest mergers, largely out of concern over how the government might react in an election year.",negative,-0.9222552180290222
+2016-04-14,The Winds From Washington Chill Wall Street’s Deal Making,negative,-0.6967763900756836
+2016-05-05,"As the drug-giant weighs its options, setting a strategy would be better than keeping all doors open.",neutral,0.05853452533483505
+2016-05-05,Pfizer Needs Clearer Goals,neutral,0.11824795603752136
+2016-05-10,The recent actions of Zoetis and Allergan suggest a more subdued approach to deals.,neutral,-0.11839526146650314
+2016-05-10,Change Is in the Air for Pharmaceutical Mergers,neutral,0.06604282557964325
+2016-05-12,"Since the beginning of January, $400 billion worth of corporate mergers have fallen apart in the United States, creating anxiety in those who bet on them.",negative,-0.9455683827400208
+2016-05-12,Hedge Funds Look for Hard Hats in a Year of Collapsing Mergers,negative,-0.38639602065086365
+2016-05-16,"The more important question for shareholders, though, is whether Pfizer’s chief executive, Ian C. Read, will break up Pfizer.",neutral,-0.004981314763426781
+2016-05-16,Pfizer Could Get Its Money’s Worth Out of Anacor Deal,neutral,0.06015042960643768
+2016-05-31,"Months ago, Mr. Icahn criticized Pfizer’s proposed takeover of Allergan; now he is buying part of the company.",negative,-0.5252658128738403
+2016-05-31,Carl Icahn Takes Stake in Allergan,neutral,0.026964407414197922
+2016-07-07,"The Treasury Department wants to curb a practice called earnings stripping, but its efforts could hurt normal funding practices.",negative,-0.8948721289634705
+2016-07-07,Plan to Curb Tax-Inversion Deals Could Go Too Far,negative,-0.8298569917678833
+2016-08-04,The Chamber is leading a legal fight in Texas to overturn Treasury rules aimed at curbing mergers done for tax reasons.,negative,-0.6274228692054749
+2016-08-04,Tax-Avoiding Mergers Find Champion in U.S. Chamber of Commerce,neutral,0.295762300491333
+2016-08-22,A heated auction and back-of-the-envelope math hint that the buyer is overpaying.,neutral,0.06212851405143738
+2016-08-22,The Flaws in Pfizer’s Plan to Acquire Medivation,negative,-0.5926258563995361
+2016-08-23,"Collapsing oil prices are one thing, but oil refineries must now contend with the soaring cost of renewable energy credits.",neutral,0.055129870772361755
+2016-08-23,"Morning Agenda: Prices of Ethanol Credits Surge, Hurting Oil Refiners",negative,-0.9611653089523315
+2016-09-26,"Wall Street has given Pfizer the benefit of the doubt, but investors do not universally love the decision not to break up.",negative,-0.47247326374053955
+2016-09-26,"Pfizer Remains Whole, but the Option to Split Could Return",neutral,-0.0003813914954662323
+2016-10-13,Part of the Treasury’s goal was to clamp down on earnings stripping.,neutral,0.05682459473609924
+2016-10-13,But many multinationals with no history of inversions were affected by the rules as well.,negative,-0.8506383299827576
+2016-10-13,Companies Hurt by Treasury Crackdown Win Exemptions,negative,-0.23781204223632812
+2016-11-06,"Proposition 56 would tax e-cigarettes in the state for the first time, despite evidence suggesting e-cigarettes are less harmful and may help people quit smoking.",neutral,0.4419529438018799
+2016-11-06,Who Wins if California Voters Tax E-Cigarettes?,neutral,0.028595559298992157
+2016-12-15,MSCI’s social index business grows as big pensions and other investors pour money into funds that focus on more than just corporate balance sheets.,positive,0.5766652226448059
+2016-12-15,Investors Sharpen Focus on Social and Environmental Risks to Stocks,neutral,0.05588191747665405
+2016-12-26,"Big takeovers by the likes of the pharmaceutical giant Pfizer, the Oreos maker Mondelez and the office supply retailer Staples were all consigned to the scrap heap.",negative,-0.6331667900085449
+2016-12-26,2016 Was a Year for Undoing Major Deals,negative,-0.4712141156196594

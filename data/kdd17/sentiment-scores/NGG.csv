@@ -1,0 +1,23 @@
+Date,Sentence,Prediction,sentimentScore
+2007-04-04,The Macquarie Communications Infrastructure Group agreed to buy the British wireless network division of National Grid for £2.5 billion ($4.93 billion) and combine the unit with its Arqiva broadcast business.,positive,0.5607629418373108
+2007-04-04,"National Grid, owner of the power and gas networks in Britain, said National Grid’s wireless unit had access to more than 14,500 communication sites in England, Scotland, Ireland and Wales.",neutral,0.12528149783611298
+2007-04-04,"The unit, based in Warwick, England, owns more than 2,500 sites and has contracts with its parent for access to electricity transmission towers, National Grid said.",neutral,0.46136826276779175
+2007-04-04,"Arqiva, based in Hampshire, England, offers networking services to broadcasters and mobile phone companies including the Vodafone Group, Telefónica, O2 and Orange of France Télécom.",neutral,0.04051525890827179
+2007-04-04,"Macquarie is based in Sydney, Australia.",neutral,0.018118740990757942
+2007-04-04,Britain: Wireless Unit Is Acquired,neutral,0.018011683598160744
+2007-04-04,The Macquarie Communications Infrastructure Group agreed to buy the British wireless network division of National Grid for 2.5 billion pounds ($4.93 billion) and combine the unit with its Arqiva broadcast business.,positive,0.533725380897522
+2007-04-04,Macquarie Acquires British Wireless Unit,neutral,0.07765064388513565
+2007-07-10,"In a deal that was originally announced in the winter of 2006, National Grid said Monday it had reached an agreement with regulators at the New York State Department of Public Service to close its $7.3 billion takeover of KeySpan.",positive,0.7674700021743774
+2007-07-10,National Grid Clears Hurdle to Keyspan Deal,neutral,-0.018909484148025513
+2007-08-10,"National Grid‘s chief executive, Steve Holliday, said Thursday he is optimistic the utility conglomerate’s $7.3 billion takeover of KeySpan will finally close this month.",positive,0.6967778205871582
+2007-08-10,National Grid Close to Wrapping Up KeySpan Deal,neutral,-0.11554811894893646
+2009-12-02,The long-delayed offshore wind power project in Nantucket Sound will begin negotiations with a major utility to sell the power it plans to generate.,neutral,0.07836510986089706
+2009-12-02,Cape Wind Power Purchase Talks Are Set,neutral,0.035153232514858246
+2010-02-22,Reports that show how homeowners compared with their neighbors in energy use are found to encourage conservation.,neutral,0.3605819642543793
+2010-02-22,Utilities Finding Peer Pressure a Powerful Motivator,neutral,0.0891319215297699
+2012-08-07,"A federal judge on Tuesday approved a $4.8 million settlement between the Justice Department and Morgan Stanley over accusations of price fixing in the electricity market, even as he said that the settlement amount was too low.",negative,-0.21653661131858826
+2012-08-07,Federal Judge Grudgingly Approves Morgan Stanley Price-Fixing Case,positive,0.6487956047058105
+2013-07-17,Large-scale batteries of various types are being tested by some big utilities that want to store power for times when it is needed most.,neutral,0.048283651471138
+2013-07-17,Battery Seen as Way to Cut Heat-Related Power Losses,neutral,0.26087334752082825
+2015-11-08,"TXU Energy promotes a plan with free electricity overnight, in part a result of the ample wind power in Texas.",neutral,0.3190109431743622
+2015-11-08,A Texas Utility Offers a Nighttime Special: Free Electricity,neutral,0.0435715951025486
