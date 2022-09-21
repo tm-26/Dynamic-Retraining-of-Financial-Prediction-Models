@@ -1,0 +1,1273 @@
+Date,Sentence,Prediction,sentimentScore
+2010-04-20,"The decision by EADS to bid for a contract worth at least $35 billion came six weeks after its partner, Northrop Grumman, dropped out of the contest.",neutral,0.10133647173643112
+2010-04-20,Airbus’s Parent Gambles on Tanker Contract,negative,-0.598824143409729
+2010-05-03,Boeing adjusts its responsiveness after a flap over 8-year-old Harry Winsor’s letter to the airplane company.,positive,0.299640953540802
+2010-05-03,Boeing’s Social-Media Lesson,neutral,-0.0043310485780239105
+2010-05-20,Stocks on Wall Street declined on Wednesday as a German measure meant to thwart speculators in the European debt markets revived concerns about the debt crisis in Europe.,negative,-0.9447954893112183
+2010-05-20,Shares Fall as Germany Moves to Restrict Trades,negative,-0.8228927254676819
+2010-05-21,"Fears that the fragile economic recovery in the United States might be threatened by the financial and political crisis in Europe gripped Wall Street on Thursday, sending the stock market into a sharp decline and leaving anxious traders wondering where the pain might stop.",negative,-0.9270933866500854
+2010-05-21,Asian Stocks Drop Sharply After Big Fall in U.S.,negative,-0.9533143043518066
+2010-06-07,"The military contractor says that by building the craft itself, it hopes to avoid some of the problems that hampered the previous contractors.",positive,0.8258150815963745
+2010-06-07,Boeing Plans Bid on Presidential Helicopter Fleet,neutral,0.057410549372434616
+2010-06-08,A Nevada company is preparing the solar system’s first private space station.,neutral,0.057353440672159195
+2010-06-08,"In Space Race, Enter Entrepreneurs",neutral,0.13783979415893555
+2010-04-01,"The Borders Group said late Wednesday that it had repaid a $42.5 million loan from William A. Ackman’s Pershing Square Capital Management, its largest investor.",positive,0.7971077561378479
+2010-04-01,Borders Repays $42.5 Million Loan From Ackman,positive,0.7816538214683533
+2010-04-01,From the DealBook Spring 2010 special section: Business jet use has been falling sharply for the last two years.,negative,-0.9680283069610596
+2010-04-01,But a recovering economy and increased sales overseas may be propelling jet use back up.,positive,0.894528865814209
+2010-04-01,"Business Jets, an Economic Indicator?",neutral,-0.012768857181072235
+2010-04-01,"From the DealBook Spring 2010 Special Section: While the financial crisis may have receded, public anger over the financial sector hasn’t, leaving big banks like Goldman Sachs to grope toward a way to remake their images, Andrew Ross Sorkin writes in his latest column.",negative,-0.5703645944595337
+2010-04-01,"Extreme Makeover, Wall Street Edition",neutral,0.045439787209033966
+2010-04-01,"Meru Networks, the wireless network provider, on Wednesday said it priced shares of its initial public offering at the top of its expected range, raising $65.8 million, The Associated Press reported.",positive,0.6234799027442932
+2010-04-01,Meru Networks Prices at Top of Range,neutral,-0.049020834267139435
+2010-04-01,A federal judge in Manhattan threw out a class-action lawsuit accusing the ratings agencies of defrauding investors about the safety of $63.4 billion of mortgage debt.,negative,-0.8859590291976929
+2010-04-01,Judge Throws Out Suit Against Moody’s and S.&P.,negative,-0.6720557808876038
+2010-04-02,"JPMorgan’s share of the market for underwriting and mergers, which moved up in the financial crisis, is starting to slip.",negative,-0.9617512226104736
+2010-04-02,Lead Vanishes for King of the Downturn,negative,-0.344638466835022
+2010-04-02,But will they lead to less credit?,negative,-0.41422712802886963
+2010-04-02,Bank of America Grants New Credit Card Protections to Small Businesses,positive,0.5332328677177429
+2010-04-03,"The median pay package for C.E.O.’s at big public companies declined last year, to $7.7 million.",negative,-0.9654478430747986
+2010-04-03,Many critics would say that’s still overpaying.,neutral,-0.35463032126426697
+2010-04-03,Bargain Rates for a C.E.O.,neutral,-0.11571723222732544
+2010-04-03,?,negative,-0.251367449760437
+2010-04-05,"The median pay package for C.E.O.’s at big public companies declined last year, to $7.7 million.",negative,-0.9654478430747986
+2010-04-05,"Many critics would say that’s still overpaying, Devin Leonard writes in The New York Times.",neutral,-0.3517918586730957
+2010-04-05,Bargain Rates for a C.E.O.,neutral,-0.11571723222732544
+2010-04-05,?,negative,-0.251367449760437
+2010-04-05,"Citigroup has hired a longtime technology banker, Paul Phillips, from Bank of America-Merrill Lynch, according to an internal memo obtained by DealBook.",neutral,0.09564915299415588
+2010-04-05,Citigroup Hires Technology Banker From Merrill,neutral,0.0021368786692619324
+2010-04-06,"The Securities and Exchange Commission still faces major obstacles in its efforts to reorganize its enforcement division, The Washington Post reports.",negative,-0.28639310598373413
+2010-04-06,Hurdles Remain in S.E.C.’s Enforcement Overhaul,neutral,-0.2914123237133026
+2010-04-06,"While its rivals have spent much of the past year regaining market share lost during the financial crisis, JPMorgan Chase sat atop Dealogic’s investment banking league tables for the first quarter of 2010.",positive,0.5389277338981628
+2010-04-06,"(It slipped in mergers advisory, however.)",negative,-0.847831666469574
+2010-04-06,JPMorgan Keeps Lead in I-Banking League Tables,positive,0.5096437931060791
+2010-04-07,"Given the disclosure and discipline imposed by the Federal Reserve’s stress tests of big banks a year ago, regulators should consider making such stress test an annual event, Breakingviews says.",neutral,0.20546694099903107
+2010-04-07,Making a Case for Annual Stress Tests,neutral,0.05271688848733902
+2010-04-07,A two-minute clip by a Filipino software engineer won a climate change video contest sponsored by the Asian Development Bank.,positive,0.6825875043869019
+2010-04-07,‘How to Save the World’ Wins Web Video Contest,neutral,0.05649194121360779
+2010-04-07,"Wall Street traders were cautious Tuesday amid worries that the European Union’s plan to help Greece might unwind, but signs that the Federal Reserve would keep interest rates low helped give stocks some support.",positive,0.024700522422790527
+2010-04-07,Wall Street Turns Mixed at the End of Day,negative,-0.834036648273468
+2010-04-07,"HCA, the big hospital operator whose $33 billion takeover in 2006 heralded a slew of giant leveraged buyouts, is planning an initial public offering that may raise more than $3 billion, people briefed on the matter told DealBook on Wednesday.",neutral,0.2819715738296509
+2010-04-07,HCA Said to Plan I.P.O.,neutral,0.06992265582084656
+2010-04-07,for This Year,neutral,0.01795504242181778
+2010-04-08,"Lawsuits leveled at banks as a result of the financial crisis are being dismissed in large numbers based on various forms of a “global financial catastrophe defense” that shifts blame to the weakened economy and away from the banks themselves, The Wall Street Journal reported.",negative,-0.893858790397644
+2010-04-08,Banks Said to Sidestep Lawsuits From Crisis,negative,-0.5402714014053345
+2010-04-08,"With the economy recovering the the credit crisis more than two years in the past, financial services firms are still expected to partake in mergers and acquisitions, according to a report released Thursday by PricewaterhouseCoopers.",neutral,0.04905356466770172
+2010-04-08,"Financial Deal-Making May Rise in 2010, PwC Says",positive,0.88001549243927
+2010-04-08,A coalition of labor unions and liberal interest groups are taking to the streets in a number of demonstrations against Wall Street as the fight over financial reform heats up in Washington.,negative,-0.8788954615592957
+2010-04-08,Protests Planned for Banks’ Shareholder Meetings,negative,-0.6511918902397156
+2010-04-09,"Goldman Sachs, Morgan Stanley, JPMorgan Chase, Bank of America and Citigroup are among 18 banks revealed by data from the New York Fed to be hiding their risk levels in the past five quarters by lowering the amount of leverage on the balance sheet before making it available to the public, The Wall Street Journal reported.",neutral,-0.07499655336141586
+2010-04-09,Major Banks Said to Cover Up Debt Levels,negative,-0.3960089385509491
+2010-04-09,"Along with a reported initial public offering planned for HCA, the big hospital operator whose $33 billion takeover in 2006 heralded many leveraged buyouts, Kohlberg Kravis Roberts and Bain Capital are also said to be preparing I.P.O.’s of two of their other large portfolio companies,Toys ‘R’ Us and NXP SemiConductors, The Wall Street Journal reported.",neutral,0.06131288409233093
+2010-04-09,K.K.R.,neutral,0.06834582984447479
+2010-04-09,and Bain Said to Plot I.P.O.’s,neutral,0.04828038811683655
+2010-04-12,"Senator Judd Gregg, the ranking Republican on the Senate Banking Committee, asserted Monday that Senate Democrats were approaching financial regulatory overhaul with a harmful “populist fervor,” but he said he still hoped a compromise could be reached between both parties in the coming weeks.",neutral,0.22796034812927246
+2010-04-12,Senator Warns of ‘Populist Fervor’ Against Wall St.,negative,-0.6168546080589294
+2010-04-13,"The Treasury will probably earn a profit on Citigroup and could break even on A.I.G., putting a sunnier face on a bailout that has cost hundreds of billions, The New York Times’s Andrew Ross Sorkin writes in his latest DealBook column.",negative,-0.5478153824806213
+2010-04-13,Imagine the Bailouts Are Working,neutral,0.02667047455906868
+2010-04-13,"The Dow Jones industrial average inched above 11,000 on Monday — and, for the first time since the dark days of 2008, actually managed to stay there.",positive,0.7136584520339966
+2010-04-13,"Dow Finishes Above 11,000",neutral,-0.021795302629470825
+2010-04-13,"Lowe’s Companies said on Monday that it will sell $1 billion of debt in two parts and will use slightly more than half of the net proceeds to pay off notes coming due in June, Reuters reported.",neutral,0.049978915601968765
+2010-04-13,Lowe’s Prices $1 Billion of Debt,neutral,-0.0039431992918252945
+2010-04-13,"Short interest on the New York Stock Exchange fell at the end of March, while those same positions on the Nasdaq rose in the same period, Reuters reported.",negative,-0.9654541015625
+2010-04-13,"Short Sales Fall at N.Y.S.E., but Rise at Nasdaq",negative,-0.8998180627822876
+2010-04-13,The A.F.L.-C.I.O.,neutral,0.028748564422130585
+2010-04-13,"is taking aim at the big banks in its annual survey of chief executive compensation, highlighting efforts by Wall Street’s leaders to fight against tougher financial regulations.",neutral,0.23533786833286285
+2010-04-13,Union Brandishes Banker Pay in Fight With Wall St.,negative,-0.911175012588501
+2010-04-14,"In a rebuff to the Obama administration, two big banks on Tuesday drew a line in the sand on cutting the mortgage balances of beleaguered homeowners, saying that the tool would be applied sparingly.",negative,-0.31019237637519836
+2010-04-14,Banks Resist Plans to Reduce Mortgage Balances,negative,-0.7848271727561951
+2010-04-14,"Bank of America is planning to announce that it has hired an executive from outside its ranks, Charles Noski, to be its next chief financial officer, The Wall Street Journal reported.",neutral,0.22330063581466675
+2010-04-14,BofA Names Outsider as Chief Financial Officer,neutral,-0.013357847929000854
+2010-04-15,"Strong earnings reports excited Wall Street on Wednesday, pushing the Standard & Poor’s 500-stock index above the 1,200-point threshold for the first time since the beginning of the financial crisis, The New York Times reported.",positive,0.8599326014518738
+2010-04-15,Standard & Poor at Highest Level Since 2008,positive,0.4911702573299408
+2010-04-15,"Theflyonthewall.com, the financial news service, has urged a Manhattan federal judge to lift a ban on its quickly reporting “hot news” about analyst research from three Wall Street banks, saying the ban has cost it subscribers and could threaten its survival, Reuters reported.",negative,-0.8861000537872314
+2010-04-15,Financial News Site Says It Is Imperiled by Judge’s Ban,negative,-0.6662130951881409
+2010-04-16,Banks are making money hand over fist in the era of low interest rates.,neutral,0.04521099105477333
+2010-04-16,"Savers, however, are making next to nothing, Floyd Norris writes in his latest column in The New York Times.",neutral,-0.2031630277633667
+2010-04-16,"Norris: Low Rates Good for Banks, but Pity the Saver",neutral,0.010911136865615845
+2010-04-16,"Bank of America Merrill Lynch and Symphony Asset Management have joined forces on a new $500 million collateralized loan obligation, Bloomberg News and The Wall Street Journal reported.",positive,0.7764896154403687
+2010-04-16,"BofA and Symphony Team Up for C.L.O., Reports Say",neutral,0.10559716820716858
+2010-04-16,"Bank of America on Friday reported a #3.2 bilion profit for the first quarter this year, as the firm rebounded strongly from the depths of the credit crisis and saw improvements in all its businesses.",positive,0.9293678998947144
+2010-04-16,BofA Earns $3.2 Billion in 1st-Quarter Profit,neutral,0.051986053586006165
+2010-04-16,"The bank, which is often considered an economic bellwether, said its net credit losses dropped 5 percent in the first quarter.",negative,-0.8281577229499817
+2010-04-16,"Bank of America, With Merrill’s Help, Returns to Profit",positive,0.6126914620399475
+2010-04-19,"Stocks on Friday fell by the largest amount in two months after the Securities and Exchange Commission accused Goldman Sachs of fraud in mortgage investments, The New York Times reported.",negative,-0.9586531519889832
+2010-04-19,Wall Street’s Winning Streak Ends at 6,negative,-0.3745695948600769
+2010-04-19,"As the parade of bankers called to account for the financial crisis continues, The New York Times provides a round-up of some those mea culpa moments.",neutral,0.04575885832309723
+2010-04-19,Measuring Wall Street Apologetics,neutral,0.029088813811540604
+2010-04-19,"After dripping red ink for almost two years, Citigroup posted a $4.4 billion quarterly profit.",positive,0.12897023558616638
+2010-04-19,Turning a Corner at Citigroup,neutral,0.011897027492523193
+2010-04-20,How did Citigroup trounce JPMorgan Chase and Bank of America?,negative,-0.7126724720001221
+2010-04-20,Breakingviews takes a look at the megabank’s best showing in almost three years.,positive,0.4979487657546997
+2010-04-20,Turning a Corner at Citigroup?,neutral,-0.18506360054016113
+2010-04-20,"Christian Meissner, a high-ranking investment banker at Nomura, has left the Japanese firm to join Bank of America Merrill Lynch as its head of investment banking for Europe, the Middle East and Africa.",neutral,-0.16081702709197998
+2010-04-20,Nomura’s Meissner to Join BofA Merrill,neutral,0.0153292715549469
+2010-04-21,"As the debate over the regulatory overhaul heated up this week, a vocal minority in both Congress and the Fed requested a revisit to the size issue.",neutral,0.13313962519168854
+2010-04-21,They want to break the big banks up.,neutral,-0.0399593710899353
+2010-04-21,Financial Debate Renews Scrutiny on Banks’ Size,negative,-0.45765525102615356
+2010-04-21,"Renewed confidence about an economic recovery helped a rally on Wall Street on Tuesday, with energy and banking stocks leading the way, The New York Times reported.",positive,0.7861615419387817
+2010-04-21,Energy and Banking Shares Lift Wall Street,positive,0.7650848031044006
+2010-04-21,"Three Wall Street banks urged a Manhattan federal judge not to lift an injunction on the site’s quick publication of analyst rating changes, saying the service failed to show the ban threatens its ability to stay in business, Reuters reported.",negative,-0.878703236579895
+2010-04-21,Banks Counter TheFlyOnTheWall in Court,negative,-0.35134100914001465
+2010-04-21,"A group of Senate Democrats introduced a bill on Wednesday that would require three of the nation’s largest banks to shrink, in an effort to eliminate the problem of financial institutions being seen as “too big to fail.” Go to Article from The New York Times>>",neutral,0.17695608735084534
+2010-04-21,Financial Debate Renews Scrutiny on Banks’ Size,negative,-0.45765525102615356
+2010-04-22,The French firm reached another deal to acquire a set of private equity investments from an investor looking to cash out.,positive,0.8395194411277771
+2010-04-22,AXA Private Equity to Buy Set of BofA Buyout Fund Stakes,neutral,0.07708566635847092
+2010-04-22,"James Gorman, the Morgan Stanley chief executive, seems to be sticking to the tortoise strategy — and making steady progress, Breakingviews says.",positive,0.8474239706993103
+2010-04-22,Morgan Stanley Plays the Tortoise,neutral,-0.003925681114196777
+2010-04-22,Bank of America has sold a $1.9 billion portfolio of private equity investments to Axa Private Equity.,neutral,0.04362821206450462
+2010-04-22,BofA Sells $1.9 Billion in Assets to Axa P.E.,neutral,0.03320910409092903
+2010-04-22,"TPG Capital is shelling out $1.43 billion to drive off with American Tire Distributors, Reuters reported.",negative,-0.8761729001998901
+2010-04-22,TPG Pays $1.3 Billion for American Tire,neutral,0.027424406260252
+2010-04-22,DealBook and The New York Times have compiled a list of Wall Street figures scheduled to attend President Obama’s speech on overhauling financial regulation.,neutral,-0.01225496269762516
+2010-04-22,Who’s Who of Wall St. at Obama’s Speech,neutral,-0.01835229992866516
+2010-04-22,"Fundamental changes to financial regulation are needed to stave off a second Great Depression, the president says.",positive,0.6647182106971741
+2010-04-22,"Obama to Wall St.: ‘Join Us, Instead of Fighting Us’",neutral,0.09762591123580933
+2010-04-22,"Sallie Krawcheck, the president of Bank of America’s global wealth and investment management division, said Thursday that the bank would expand its Merrill Lynch operations outside the United States, as many more of the world’s newly super-rich come from emerging markets.",positive,0.8963627219200134
+2010-04-22,Krawcheck’s Global Ambitions for Merrill Lynch,neutral,0.033307164907455444
+2010-04-24,Financial executives attending a derivatives conference in San Francisco tried to put out of their minds the specter of the sweeping federal legislative proposals to regulate derivatives.,negative,-0.6078698635101318
+2010-04-24,C.D.O.,neutral,0.0353250615298748
+2010-04-24,"Days, S&M Nights at Derivatives Conference",neutral,-0.03256046026945114
+2010-04-26,"Bank of America has narrowed the contenders for chairman to directors Frank Bramble and Charles Holliday, according to The Wall Street Journal.",neutral,0.021151326596736908
+2010-04-26,BofA Said to Near Decision on Chairman,neutral,0.01685764640569687
+2010-04-26,"Senator Bernard Sanders, the Vermont independent and a self-described socialist, discusses with DealBook why the financial regulatory bill in the Senate should be much tougher on Wall Street.",neutral,-0.1288185715675354
+2010-04-26,Q.&A.,neutral,0.03456166759133339
+2010-04-26,: Sanders Looks at Financial Bill From the Left,neutral,-0.07379373908042908
+2010-04-27,The legal storm buffeting Goldman Sachs intensified on Monday as Senate investigators claimed the Wall Street giant had devised not one but a series of complex deals to profit from the collapse of the home mortgage market.,negative,-0.8936314582824707
+2010-04-27,Goldman Faces New Mortgage Allegations,negative,-0.6490229368209839
+2010-04-28,"Bank of America named DuPont’s longtime chief executive, Charles O. Holliday Jr., as its chairman, succeeding Walter E. Massey.",neutral,0.12199773639440536
+2010-04-28,Bank of America Names a New Chairman,neutral,0.015860438346862793
+2010-04-29,The big American power company agreed to acquire Kentucky’s two largest utility companies from E.ON of Germany for $6.7 billion in cash.,positive,0.671896755695343
+2010-04-29,PPL to Buy 2 Kentucky Utilities for $6.7 Billion,neutral,0.052811093628406525
+2010-04-30,"Appaloosa Investment will not be allowed to join in a lawsuit intended to foreclose on Manhattan’s Stuyvesant Town and Peter Cooper Village apartments, Bloomberg News reported.",negative,-0.7511519193649292
+2010-04-30,Appaloosa Barred From Foreclosure Suit,negative,-0.7300108671188354
+2010-04-30,Goldman Sachs and other big banks could see their earning reduced by billions of dollar if Congress approves tighter regulation of the derivatives market.,negative,-0.9590452909469604
+2010-04-30,Study: Derivatives Rules Would Cost Banks Billions,negative,-0.6334742307662964
+2010-04-30,"Already facing investigations on two fronts into its practices in the mortgage market, Goldman Sachs came under pressure from investors as well after Standard & Poor’s changed its rating to sell.",negative,-0.8890883326530457
+2010-04-30,Goldman Shares Dive on Inquiries and Downgrades,negative,-0.9444386959075928
+2010-04-30,"Bank of America’s chief executive said Friday that he supported a $50 billion “orderly liquidation” fund for large financial firms, but that he thought it should be built up over time",neutral,0.36623385548591614
+2010-04-30,"BofA’s Chief Favors Bank Rescue Fund, but…",neutral,0.06658106297254562
+2010-05-04,"Lehman Brothers bankruptcy administrators are preparing for a series of legal fights against other banks which have filed more than $50 billion in claims for losses related to derivatives contracts, The Wall Street Journal reported.",negative,-0.8481705188751221
+2010-05-04,Lehman Set to Fight Bank Derivatives Claims,neutral,-0.051042474806308746
+2010-05-05,"As a founder of the Chemical Bank’s mergers-and-acquisitions unit, Mr. Tarbell played a crucial role in several notable deals.",neutral,0.07753264158964157
+2010-05-05,"John Tarbell Jr., Bank Executive, Dies at 67",neutral,-0.35844776034355164
+2010-05-06,"The History Channel produced 12 spots for Bank of America, the sponsor of its series “America: The Story of Us.”",neutral,0.06045308709144592
+2010-05-06,"A Bank’s Ads, Dressed Up in Historical Garb",neutral,0.013606823980808258
+2010-05-06,"The History Channel produced 12 spots for Bank of America, the sponsor of its series “America: The Story of Us.” The company spent roughly $4 million to $5 million on the campaign.",neutral,0.06289245933294296
+2010-05-06,"A Bank’s Ads, Dressed Up in Historical Garb",neutral,0.013606823980808258
+2010-05-07,The market’s wild ride Thursday suggests that investors are again growing more hesitant to own assets like stocks and bonds.,negative,-0.8719378709793091
+2010-05-07,"Market Drop Fueled by a Crisis, Anxiety and an Error",negative,-0.9369258284568787
+2010-05-07,The American International Group is turning to Citigroup and Bank of America to replace Goldman Sachs as the main corporate adviser as the insurer reorganizes.,neutral,0.01784389838576317
+2010-05-07,A.I.G.,neutral,0.045108746737241745
+2010-05-07,Said to Dismiss Goldman,neutral,-0.2034127563238144
+2010-05-07,The American International Group is turning to Citigroup and Bank of America to replace Goldman Sachs as the main corporate adviser as the insurer reorganizes.,neutral,0.01784389838576317
+2010-05-07,A.I.G.,neutral,0.045108746737241745
+2010-05-07,Said to Dismiss Goldman,neutral,-0.2034127563238144
+2010-05-07,"A group of Bank of America executives are splitting off to start their own private equity firm, but will continue to manage a portfolio for the bank, The Charlotte Observer reported.",neutral,-0.047789424657821655
+2010-05-07,BofA Team Splits Off to Start Private Equity Firm,neutral,0.003327980637550354
+2010-05-07,"HCA plans to raise $4.6 billion in its third initial public offering of common stock, more than three years after the hospital chain was taken private in a leveraged buyout by a group of private equity investors.",neutral,0.4091202914714813
+2010-05-07,"HCA Files for I.P.O., Seeking $4.6 Billion",neutral,0.018352050334215164
+2010-05-10,Central banks began buying euro-zone bonds — an unprecedented move to inject cash into the system.,positive,0.6582327485084534
+2010-05-10,Europe Officials Move to Carry Out Aid Package,neutral,0.1679488718509674
+2010-05-10,"The five largest U.S. banks, which dominate the derivatives business, have dispatched trade groups, paid lobbyists and their own executives to convince senators that excluding banks from the business would make markets less safe.",neutral,-0.014922112226486206
+2010-05-10,Banks Lobby Against Ban on Derivatives Trading,negative,-0.7180628180503845
+2010-05-10,Bank of America Merrill Lynch said that it had hired two executives from Deutsche Bank for its clean technology investment banking team.,positive,0.4781261682510376
+2010-05-10,BofA Merrill Hires 2 Clean Tech Bankers,neutral,-0.10691224038600922
+2010-05-11,"Some analysts challenged the wisdom of the rescue package’s main component, a promise of new loans to bail out European economies.",negative,-0.8574649691581726
+2010-05-11,"A Trillion for Europe, With Doubts Attached",neutral,-0.24504216015338898
+2010-05-11,"Golden Gate Capital has ridden to Zale’s rescue, following reports that the struggling U.S. jeweler was in talks with several private equity firms about an investment to help reverse the company’s fortunes.",positive,0.41021785140037537
+2010-05-11,Zale Gets $150 Million Loan from Golden Gate,positive,0.6434453129768372
+2010-05-11,Four giants of American finance each managed what is normally a rare feat: a perfect trading quarter.,positive,0.7317458987236023
+2010-05-11,4 Big Banks Score Perfect 61-Day Run,positive,0.5293919444084167
+2010-05-12,Bank of America and Citigroup joined Goldman Sachs and JPMorgan Chase in finishing the first quarter without losing money from trading for even one day.,positive,0.4451327323913574
+2010-05-12,The Latest Score: Four Banks Played a Perfect Game,neutral,0.08316357433795929
+2010-05-13,"The New York attorney general has started an investigation of eight banks to determine whether they provided misleading information to rating agencies in order to inflate the grades of certain mortgage securities, according to two people with knowledge of the investigation.",negative,-0.7653260231018066
+2010-05-13,Cuomo Asks if 8 Banks Duped Rating Firms,negative,-0.48711198568344116
+2010-05-13,"In a defeat for major Wall Street banks, the Senate on Wednesday rejected a Republican effort to ease some of the tight new rules included in the bill for trading derivatives, the complex financial instruments that were at the center of the 2008 financial collapse.",negative,-0.6940996646881104
+2010-05-13,Senate Beats Back Efforts to Ease Regulation Bill,negative,-0.5908719897270203
+2010-05-13,"Attorney General Andrew M. Cuomo of New York is likely to invoke the state’s Martin Act in his investigation of eight banks, in a move that would make it easier to prosecute any case.",neutral,0.2103559374809265
+2010-05-13,Cuomo and the Broad Power of the Martin Act,neutral,-0.00033326447010040283
+2010-05-14,"Stock prices tumbled on Thursday, with most of the declines coming late in the day, led by a drop in banking and technology shares.",negative,-0.9661797881126404
+2010-05-14,Euro Sags and Markets Turn Lower,negative,-0.8623237013816833
+2010-05-14,"A distress sale that took place at Phillips de Pury, the third-place auction house, on Thursday night was a reminder that, despite some recent strong showings, in the art world the ghosts of the recession have not yet been fully exorcised.",positive,0.346245139837265
+2010-05-14,Art Auction Highlights a Financial Downfall,neutral,-0.08458903431892395
+2010-05-14,"Goldman Sachs has agreed to invest $20 million in ShoreBank, a Chicago bank which aims to expand lending in poor communities, in an effort to help keep the bank from falling into the hands of the Federal Deposit Insurance Corp., The Wall Street Journal reported.",positive,0.7871317267417908
+2010-05-14,Changing the Narrative: Goldman Helps Illinois Bank,neutral,0.12815310060977936
+2010-05-17,"Investors continued to abandon the currency on Monday, as concerns rose that banks would cut back on loans, crimping growth.",negative,-0.9188315272331238
+2010-05-17,Fears Intensify That Euro Crisis Could Snowball,negative,-0.8708003163337708
+2010-05-17,The purchases were the first in the central bank’s attempt to prevent a sell-off in European bonds.,neutral,0.4160504937171936
+2010-05-17,Central Bank Buys Billions in European Debt,neutral,0.10470564663410187
+2010-05-18,Midsize and smaller companies in Greece but also in Portugal and Spain are particularly suffering.,negative,-0.9593859910964966
+2010-05-18,European Businesses Hit in Credit Squeeze From Greek Crisis,negative,-0.8725893497467041
+2010-05-18,More than a dozen banks have been accused of taking part in a nationwide conspiracy to rig bids in the $2.8 billion municipal bond market.,negative,-0.8237147927284241
+2010-05-18,Conspiracy Seen to Rig Bids in Muni Market,negative,-0.6899411678314209
+2010-05-19,"Stocks on Wall Street fell on Tuesday and the euro retreated to a new low, in part after Germany moved to impose tighter regulation of financial markets.",negative,-0.9362133741378784
+2010-05-19,U.S. Stocks Fall Amid New Concern About Europe,negative,-0.8573166728019714
+2010-05-19,"Shorebank, a troubled Chicago community bank with a philanthropic reputation, has won uncommon Wall Street backing to save it from a government takeover, while similarly sized rivals fail.",positive,0.6568087339401245
+2010-05-19,Donations Save Philanthropic Chicago Bank,neutral,0.08260025829076767
+2010-05-19,"Bank of America agreed to sell preferred and common shares of Brazil’s Itau Unibanco in a deal valued at $4.5 billion, ending a partnership started in 2006, Reuters reported.",positive,0.8047292828559875
+2010-05-19,BofA Said to Sell $4.5 Billion Stake in Brazil’s Itau,neutral,0.04800545051693916
+2010-05-19,"The Senate shouldn’t neglect strengthening derivatives rules, especially as efforts to overhaul financial regulation enter the final stretch, The New York Times editorial board argues.",neutral,0.4242088794708252
+2010-05-19,The Senate at the Finish Line,neutral,-0.11844452470541
+2010-05-20,"Given the Obama administration’s harsher tone toward Wall Street, it’s no surprise to find that only a few financial executives are on the guest list for Wednesday night’s White House state dinner.",negative,-0.5881434679031372
+2010-05-20,Wall St.’s Chosen Few in Obama’s Good Graces,neutral,0.05781014263629913
+2010-05-20,Stocks on Wall Street declined on Wednesday as a German measure meant to thwart speculators in the European debt markets revived concerns about the debt crisis in Europe.,negative,-0.9447954893112183
+2010-05-20,Shares Fall as Germany Moves to Restrict Trades,negative,-0.8228927254676819
+2010-05-20,"Bank of America wants Merrill Lynch brokers to move away from Merrill’s “Principles,” and instead adopt to Bank of America’s “Core Values,” CNBC reports.",neutral,0.10105378180742264
+2010-05-20,But it appears not everyone at Merrill has gotten the memo.,neutral,-0.15958434343338013
+2010-05-20,Merrill Brokers Wonder: Who Moved Our Principles?,neutral,0.04750318080186844
+2010-05-21,Shares in the nation’s big banks rose on Friday after the Senate passed its version of a sweeping overhaul of bank regulations.,positive,0.8159012198448181
+2010-05-21,"With Senate Finance Bill Passed, Bank Stocks Rise",negative,-0.7415866851806641
+2010-05-21,"THL Partners agreed on Friday to sell Michael Foods, a producer and distributor of egg and dairy products, to Goldman Sachs’s private equity arm in a deal valuing the company at $1.7 billion.",neutral,0.11105597019195557
+2010-05-21,THL to Sell Michael Foods to GS Capital Partners,neutral,-0.004351535812020302
+2010-05-25,"Stocks declined on Monday, dragged down by late-day losses in the financial sector, which has been mired in uncertainty over financial reforms and European debt troubles.",negative,-0.9528595209121704
+2010-05-25,Wall Street Slips at the Close,negative,-0.845461368560791
+2010-05-25,"For consumers trying to figure out what the financial overhaul bill means for them, the legislation the Senate passed Thursday offers some tantalizing possibilities, Ron Lieber writes in The New York Times.",neutral,0.16333650052547455
+2010-05-25,How the Finance Bill Affects Consumers,neutral,-0.07979226112365723
+2010-05-25,Which companies do hedge funds love most?,neutral,0.0391358882188797
+2010-05-25,"According to Goldman Sachs’s most recent quarterly Hedge Fund Monitor report, the answer is Apple, followed by Bank of America and Google.",neutral,0.027152027934789658
+2010-05-25,Hedge Funds Heart Apple,neutral,-0.010570719838142395
+2010-05-25,"Less than a year after reporting giant losses and cutting thousands of jobs, many banks in London’s financial center are hiring again.",negative,-0.8478256464004517
+2010-05-25,"In London, Banks Begin to Hire Again",neutral,0.10583915561437607
+2010-05-25,Representative Barney Frank said he would support strong derivatives regulation as head of the conference committee melding the House and Senate versions of the financial regulatory bill.,positive,0.7006040811538696
+2010-05-25,Frank Affirms He Wants Strong Derivatives Rules,neutral,0.24425198137760162
+2010-05-26,Analysts said the central bank’s reluctance to take action that might compromise its independence has been seen as indecision.,negative,-0.9084168672561646
+2010-05-26,Doubts on European Central Bank Amid Crisis,negative,-0.7209978103637695
+2010-05-26,"Bank of America, Deutsche Bank and Citigroup are three big name banks active in the field of end-of-quarter “window dressing,” that is masking risk by temporarily ridding debt before they make their finances public, a recent analysis for The Wall Street Journal shows.",neutral,-0.015217967331409454
+2010-05-26,"Report Says BofA, Deutsche and Citi Blur Risks",neutral,-0.2883400321006775
+2010-05-27,"In the first major film financing deal to hit Hollywood since the economic downturn, Village Roadshow Pictures Group on Thursday closed on a $1 billion credit facility to fund its current and future slate of movies.",positive,0.6578946709632874
+2010-05-27,"In Major Deal, Village Roadshow Gets $1 Billion in Credit to Make Movies",positive,0.6251200437545776
+2010-05-27,From Media Decoder: The Village Roadshow Pictures Group closed on a $1 billion credit facility to finance its current and future slate of movies.,positive,0.7024216651916504
+2010-05-27,Village Roadshow Gets $1 Billion in Credit to Make Movies,neutral,0.17003785073757172
+2010-05-28,"Updated: The retailer filed for an $800 million initial public offering, helping its private equity owners cash in their investment.",positive,0.7002800107002258
+2010-05-28,Toys ‘R’ Us Files for an I.P.O.,negative,-0.589485228061676
+2010-05-31,Economists are beginning to worry that deflation is a bigger threat than inflation in Europe.,negative,-0.9222971200942993
+2010-05-31,Fears Rise in Europe Over Potential for Deflation,negative,-0.7812708616256714
+2010-05-31,Rating agencies should put greater emphasis on financial firms’ stand-alone ratings.,neutral,0.1818595975637436
+2010-05-31,Removing Federal Aid From Bank Ratings,neutral,-0.20960041880607605
+2010-06-01,"Many bank stocks are earning money, and the sell-off of the last six weeks has lopped up to a fifth off the value of large and regional players.",negative,-0.894311785697937
+2010-06-01,Banking Shares Are Looking Up,neutral,0.09430784732103348
+2010-06-01,"At least for a while, bank credit ratings in the United States will continue to factor in government backing, Reuters Breakingviews argues.",positive,0.8235324621200562
+2010-06-01,Removing Federal Aid From Bank Ratings,neutral,-0.20960041880607605
+2010-06-01,"The Fitch ratings firm announced Friday that it had downgraded Spain’s credit rating by one notch, sending indexes on a swift decline of more than 1 percent.",negative,-0.9251711368560791
+2010-06-01,Fitch Downgrades Spain’s Credit Rating,negative,-0.6290812492370605
+2010-06-01,Is now the time to buy bank stocks?,neutral,-0.08039512485265732
+2010-06-01,"Some sharp hedge fund managers think so, Breakingviews writes.",neutral,0.032816845923662186
+2010-06-01,Do Hedge Funds Have It Right on Bank Shares?,neutral,-0.07541447877883911
+2010-06-01,A federal judge in Manhattan ruled Tuesday that it was unfair to hold Moody’s Investors Service and Standard & Poor’s liable as “underwriters” on securities offerings needing their ratings.,negative,-0.8337711095809937
+2010-06-01,Judge Rules Moody’s and S.&P.,neutral,-0.0026010535657405853
+2010-06-01,Aren’t Underwriters,neutral,-0.09306946396827698
+2010-06-03,"Valeo, one of the largest auto parts makers in France, has hired Bank of America Merrill Lynch to advise it on strategic alternatives that may include a sale.",neutral,0.35758110880851746
+2010-06-03,Valeo Hires Merrill to Explore Potential Sale,neutral,0.03325052559375763
+2010-06-07,"Stocks tumbled Friday in one of their sharpest declines this year, leaving the Dow Jones industrial average firmly below 10,000, as a disappointing jobs report cast a pall over the nation’s economic recovery, The New York Times reported.",negative,-0.9531925916671753
+2010-06-07,U.S. Indexes Fall Sharply on Jobs Data,negative,-0.9558271169662476
+2010-06-07,The Financial Crisis Inquiry Commission issued a subpoena to Goldman Sachs on Monday for “failing to comply with a request for documents and interviews in a timely manner.”,negative,-0.9377029538154602
+2010-06-07,Goldman Gets Subpoena From Financial Crisis Panel,negative,-0.3465678095817566
+2010-06-07,"The Federal Trade Commission accused the mortgage lender of collecting outsize fees from about 200,000 borrowers facing foreclosure.",negative,-0.8869426846504211
+2010-06-07,Countrywide Settles Fee Complaint,neutral,0.03146793320775032
+2010-06-07,The Federal Trade Commission said two Countrywide Financial mortgage-servicing companies had agreed to pay $108 million to settle charges that they collected excessive mortgage-servicing fees.,negative,-0.4680362343788147
+2010-06-07,Countrywide to Pay $108 Million to Settle F.T.C.,neutral,0.008946754038333893
+2010-06-07,Case,neutral,0.007313266396522522
+2010-06-07,"Richard X. Bove, the banking analyst at Rochdale Securities, cut his price target for Bank of America’s stock, saying the bank faced “serious challenges” from multiple sources.",negative,-0.8949713706970215
+2010-06-07,But he kept his “buy” rating for the stock.,neutral,0.17715856432914734
+2010-06-07,Bove Cuts His Price Target for Bank of America Stock,neutral,-0.31561464071273804
+2010-06-09,"Stocks were mostly higher on Tuesday, partly in response to encouraging comments late Monday by Federal Reserve chairman Ben S. Bernanke, as increases in energy and material shares helped to offset a down day for technology.",positive,0.8537098169326782
+2010-06-09,Energy and Chemical Companies Help Lift Market,neutral,0.12094306945800781
+2010-06-09,"Banco Santander, the largest Spanish lender, said Wednesday that it would buy Bank of America’s 24.9 percent stake in Santander’s Mexican arm for $2.5 billion, giving it almost total ownership of the unit.",positive,0.6202775239944458
+2010-06-09,Santander Buys $2.5 Billion BofA Stake in Mexico,neutral,0.24168403446674347
+2010-06-09,"Joseph E. Stiglitz, the Nobel Prize-winning economist, wants the financial regulatory bill to bar financial firms that give up their bank charters from ever being able to seek government assistance again.",neutral,-0.12971875071525574
+2010-06-09,Stiglitz Calls for ‘Goldman Sachs Amendment’,neutral,0.04528449848294258
+2010-06-10,"Banco Santander is to buy Bank of America’s stake for $2.5 billion, giving it almost total control of the subsidiary.",neutral,0.12309388071298599
+2010-06-10,Spanish Bank to Buy Larger Stake in Mexican Unit,neutral,0.24836374819278717
+2010-04-08,"Wall Street investors were rattled on Wednesday by the prospect of higher interest rates and new signs that consumers were reluctant to spend again, The New York Times writes.",negative,-0.8972502946853638
+2010-04-08,A Call for Fed to Raise Rates Unsettles Investors,negative,-0.39895695447921753
+2010-04-14,"Wall Street traders took in the first batch of quarterly earnings reports on Tuesday, but nobody seemed quite sure what to make of the numbers, The New York Times reports.",neutral,0.041632577776908875
+2010-04-14,A Modest Gain as Investors Digest Earnings Reports,positive,0.4570596516132355
+2010-04-21,"Renewed confidence about an economic recovery helped a rally on Wall Street on Tuesday, with energy and banking stocks leading the way, The New York Times reported.",positive,0.7861615419387817
+2010-04-21,Energy and Banking Shares Lift Wall Street,positive,0.7650848031044006
+2010-04-26,"Stocks pushed higher on Friday as the Dow Jones industrial average rose for a fifth consecutive day, and analysts saw little economic news on the horizon that would upset market sentiment next week.",positive,0.36494091153144836
+2010-04-26,"Dow Ends Week Up, Extending Streak to 5 Days",positive,0.2901080846786499
+2010-04-01,"Hulu, the popular and free online video hub, has some things to celebrate as it heads into its third year, The New York Times writes.",neutral,0.33878928422927856
+2010-04-01,Successes (and Some Growing Pains) at Hulu,positive,0.7658233642578125
+2010-04-02,Television networks are taking sharply different approaches to the iPad.,neutral,-0.3456566631793976
+2010-04-02,"Apps for iPad From Some TV Networks, Not All",neutral,-0.0437246635556221
+2010-04-03,"The median pay package for C.E.O.’s at big public companies declined last year, to $7.7 million.",negative,-0.9654478430747986
+2010-04-03,Many critics would say that’s still overpaying.,neutral,-0.35463032126426697
+2010-04-03,Bargain Rates for a C.E.O.,neutral,-0.11571723222732544
+2010-04-03,?,negative,-0.251367449760437
+2010-04-05,"The median pay package for C.E.O.’s at big public companies declined last year, to $7.7 million.",negative,-0.9654478430747986
+2010-04-05,"Many critics would say that’s still overpaying, Devin Leonard writes in The New York Times.",neutral,-0.3517918586730957
+2010-04-05,Bargain Rates for a C.E.O.,neutral,-0.11571723222732544
+2010-04-05,?,negative,-0.251367449760437
+2010-04-07,The major Hollywood studios as well as some sympathetic lawmakers and several of the movie industry’s biggest labor unions and professional associations are uniting to try to block a plan to allow trading of contracts in movie box-office sales.,negative,-0.872754693031311
+2010-04-07,Hollywood Unites to Block Trading on Movie Box-Office Performance,negative,-0.8734095096588135
+2010-04-08,"In a show of solidarity, many of the film industry’s major players, and some sympathetic lawmakers, have aligned in an 11th-hour push to block new financial instruments that would allow traders to swap contracts tied to box-office results.",negative,-0.7742509245872498
+2010-04-08,Hollywood Tries to Block Market for Movie Bets,negative,-0.8243116140365601
+2010-04-09,"Disney is considering three bids for the ministudio Miramax, including one from its co-founders and former owners, Bob and Harvey Weinstein.",neutral,0.16316954791545868
+2010-04-09,"Three Bidders, and Three Visions, Are Said to Be Competing for Miramax",neutral,0.0487285777926445
+2010-04-09,"As the Walt Disney Company began weighing three potentially viable bids for its inactive Miramax Films unit, a central question became not so much who will own the ministudio, but what exactly will it be, The New York Times reported.",neutral,0.0757029578089714
+2010-04-09,Three Bidders Said to Be Competing for Miramax,neutral,0.03950675576925278
+2010-04-10,Robert Iger has not turned out to be the stuffed suit that some feared at Disney.,neutral,-0.39233464002609253
+2010-04-10,"Instead, he is dragging his media conglomerate into a new era.",neutral,0.06619001924991608
+2010-04-10,Is Disney’s Chief Having a Cinderella Moment?,neutral,-0.06430785357952118
+2010-04-16,The Walt Disney Company has given Harvey and Bob Weinstein an exclusive negotiating window to close a deal to reclaim Miramax Films.,positive,0.5659939646720886
+2010-04-16,Weinsteins Get Exclusive Window to Close a Deal to Reclaim Miramax,positive,0.4718075096607208
+2010-04-16,The Walt Disney Company has given Harvey and Bob Weinstein an exclusive negotiating window to close a deal to reclaim Miramax Films.,positive,0.5659939646720886
+2010-04-16,Weinsteins Get Window for Miramax Deal,neutral,0.0748373493552208
+2010-04-16,"The Walt Disney Company, which bought Miramax in 1993 and has operated it without the Weinsteins since 2005, has granted them exclusive negotiating rights.",neutral,0.38847729563713074
+2010-04-16,Weinstein Brothers Said to Be Near Deal to Buy Miramax From Disney,neutral,0.1429850161075592
+2010-04-20,Major League Baseball signs up three partners to sponsor the balloting for this summer’s All-Star Game.,neutral,0.3050463795661926
+2010-04-20,Take Me – and My Tires and Lawn and Cellphone – Out to the Ball Game,neutral,0.025195658206939697
+2010-04-21,"Disney names a new marketing chief, and goes outside the movie business to do so.",neutral,0.05073023587465286
+2010-04-21,Disney Names a New Marketing Chief,neutral,-0.0007216334342956543
+2010-04-21,"Mark Cuban, the billionaire owner of the Dallas Mavericks basketball team, said he might try to stop Harvey Weinstein and Bob Weinstein from joining a buyout of Miramax films because of a dispute over the performance of a Weinstein movie.",negative,-0.906033992767334
+2010-04-21,Cuban May Try to Block Weinsteins on Miramax,negative,-0.6882039308547974
+2010-04-27,Jeffrey Katzenberg dumps cold water on the notion that his DreamWorks Animation will abandon Paramount as its distributor.,negative,-0.7606509923934937
+2010-04-27,Will DreamWorks Animation Abandon Paramount?,neutral,-0.1346626579761505
+2010-04-30,Embattled film executive David Bergstein has countersued hedge fund D.B.,negative,-0.8759500980377197
+2010-04-30,"Zwirn, blaming the bankrupt firm for the lion’s share of his and business partner Ronald Tutor’s woes, The Hollywood Reporter said.",negative,-0.8361126780509949
+2010-04-30,Embattled Movie Executive Sues Zwirn and Fortress,negative,-0.7012993097305298
+2010-05-03,"Top executives at media companies continued to reel in multimillion-dollar pay packages in 2009, a year of widespread cost-cutting for the industry.",positive,0.4081890881061554
+2010-05-03,Big Paydays for the Chiefs in the Media,neutral,-0.010580599308013916
+2010-05-05,"Uber-producer Jerry Bruckheimer has raised $300 million to $350 million in production co-financing, which would be used to make films from Walt Disney’s Touchstone label, local media reported.",positive,0.8561592698097229
+2010-05-05,Is Jerry Bruckheimer Sitting on a Treasure Chest?,neutral,-0.18903546035289764
+2010-05-10,A racy music video distances the singer from her character Hannah Montana.,negative,-0.7317450642585754
+2010-05-10,Sharp Turn for Miley Cyrus,neutral,-0.24515953660011292
+2010-05-11,Profits soared at Disney’s movie studio in the most recent quarter.,positive,0.9317359924316406
+2010-05-11,Disney’s Movie Studio: the Mouse That Roared,neutral,-0.06398552656173706
+2010-05-12,"The company beat analysts’ forecast, in part because of the global success of the film “Alice in Wonderland.”",positive,0.7821858525276184
+2010-05-12,Disney Movie Unit Drives Strong Results in Quarter,positive,0.8655065298080444
+2010-05-12,"Peter Chernin’s mogul bid, Disney results and the Vanity Fair iPad app in today’s media coverage.",neutral,0.03577030822634697
+2010-05-12,"Speed Read for Wednesday, May 12",neutral,0.013542922213673592
+2010-05-12,A Nickelodeon Web site wins a Boston organization’s award for being the worst toy of the year.,negative,-0.14590081572532654
+2010-05-12,‘Worst Toy of the Year’ Goes to a Nickelodeon Web Site,negative,-0.46522414684295654
+2010-05-12,"The media investor Haim Saban said that he had bought back the rights to his biggest franchise, “Power Rangers,” from The Walt Disney Company, and had licensed the show to Nickelodeon, the children’s cable channel owned by Viacom.",positive,0.5977317690849304
+2010-05-12,"Saban Reacquires ‘Power Rangers,’ Moves Show to Nickelodeon",neutral,0.03796464204788208
+2010-05-12,The game Web site failed to meet profit targets that were tied to half of the acquisition’s $700 million purchase price.,negative,-0.9487988948822021
+2010-05-12,"Club Penguin Misses Goals, Giving Disney a Half-Price Deal",negative,-0.7859448790550232
+2010-05-13,The media investor Haim Saban has purchased the cartoon’s rights and announced plans to refurbish the show and broadcast it on Nickelodeon.,neutral,0.2735002040863037
+2010-05-13,Disney Sells a Franchise That Mothers Didn’t Like,neutral,-0.31025683879852295
+2010-05-13,"The media investor Haim Saban said Wednesday that he had bought back the rights to his biggest franchise, “Power Rangers,” from the Walt Disney Company and had licensed the show to Nickelodeon, the children’s cable channel owned by Viacom.",positive,0.6280282139778137
+2010-05-13,Disney Sells Franchise Mothers Didn’t Like,negative,-0.564704179763794
+2010-05-14,"Boulder, Colo., in the foothills of the Rocky Mountains, has become a magnet for entrepreneurs seeking to start technology companies.",neutral,0.3769994080066681
+2010-05-14,Rocky Mountain High — Tech,neutral,0.010085150599479675
+2010-05-18,"ESPN forms a unit, named CreativeWorks, that will produce advertising campaigns with sports themes for marketers.",neutral,0.06316889077425003
+2010-05-18,Upfronts: ESPN Adds Ad Creation Arm,neutral,0.024080712348222733
+2010-05-21,It’s not a Hollywood ending after all for the Weinstein brothers and their beloved Miramax Films.,neutral,0.01919572427868843
+2010-05-21,Bid by Weinstein Brothers to Reacquire Miramax Films Falls Short,negative,-0.9003940224647522
+2010-05-21,"From Media Decoder: The Weinstein brothers have failed to complete a deal in excess of $600 million to reacquire Miramax Films from the Walt Disney Company in 2005, according to sources.",negative,-0.9570133090019226
+2010-05-21,Weinsteins’ Bid for Miramax Falls Short,negative,-0.8301517963409424
+2010-05-22,Hollywood insiders say talks are falling apart between Bob and Harvey Weinstein regarding the brothers’ attempt to buy back Miramax Films.,negative,-0.8907325863838196
+2010-05-22,Deal to Buy Miramax Said to Be in Jeopardy,neutral,0.10541167855262756
+2010-05-24,Providing the entertainment equivalent of comfort food may be the right business move as consumers experience economic uncertainty.,neutral,0.1118229404091835
+2010-05-24,Networks Aim for the Familiar in New Batch of Shows,neutral,0.07746060192584991
+2010-05-24,"After General Electric’s deal to sell NBC Universal to Comcast, will rival networks ABC and CBS be next to go on the block?",neutral,-0.02731463313102722
+2010-05-24,"After NBC, Will ABC and CBS Be Next on the Block?",neutral,0.02846205234527588
+2010-05-25,"Following the collapse on Friday of Bob and Harvey Weinstein’s bid to win back Miramax Films, the Walt Disney Company, which owns the boutique label, has resumed casual talks with a competing bidder.",neutral,0.036738380789756775
+2010-05-25,Disney Reopens Miramax Talks With Rival Bidder to the Weinsteins,positive,0.482371985912323
+2010-05-25,"After the collapse of Bob and Harvey Weinstein’s bid to win back Miramax Films, the Walt Disney Company has resumed casual talks with a competing bidder.",neutral,0.1739630401134491
+2010-05-25,Disney Reopens Miramax Talks With Rival of Weinsteins,neutral,0.25726407766342163
+2010-05-26,"Two people, including an employee of the Walt Disney Company, were arrested in Los Angeles on Wednesday on charges of insider trading tied to the entertainment giant.",negative,-0.8698278069496155
+2010-05-26,2 Arrested in Insider-Trading Case at Disney,negative,-0.7959170937538147
+2010-05-26,A decision to unplug SOAPnet came as the shifting of soap operas from day to night has grown obsolete.,neutral,-0.10798300802707672
+2010-05-26,Preschool Programs Replace SOAPnet,neutral,-0.36962997913360596
+2010-05-27,Two are accused of offering to sell confidential earnings information to more than 30 hedge funds in the United States and Europe.,negative,-0.7254467010498047
+2010-05-27,2 Charged With Selling Insider Data From Disney,negative,-0.74220871925354
+2010-05-27,"British blog Here Is the City is disgusted with the amateur performance of the two accused of trying to sell confidential information about Walt Disney to several investment firms, including hedge funds.",negative,-0.9256536960601807
+2010-05-27,Amateur Hour for 2 Accused of Selling Disney Data?,negative,-0.6712936758995056
+2010-05-27,"In light of the Walt Disney Company insider trading case, White Collar Watch wonders whether the government may turn to reverse sting operations to try to ensnare more offenders.",negative,-0.8733726143836975
+2010-05-27,The Next Step in Catching Insider Trading?,neutral,0.02730943262577057
+2010-05-28,"Wall Street has long seen sense in Walt Disney selling or spinning off ABC, the low-rated TV network and the one piece that does not seem to fit well with the entire entertainment empire, the problem is finding a buyer, Reuters reported.",negative,-0.5438008904457092
+2010-05-28,Wall Street Debates Fate of ABC,neutral,-0.0466284453868866
+2010-05-28,"Heading into the Memorial Day weekend, the prospects in North America for the Walt Disney Company’s “Prince of Persia: The Sands of Time” appear grim.",negative,-0.9183288216590881
+2010-05-28,Bad Box Office Omens for ‘Prince of Persia’,negative,-0.7552298903465271
+2010-06-01,"With an application for “Toy Story 3”, the company puts moviegoers in touch with tickets and friends at the same time.",neutral,0.13498635590076447
+2010-06-01,Disney Puts Tickets on a Facebook Site,neutral,-0.03138526529073715
+2010-06-01,"In what may be the first such initiative, Walt Disney Pictures has entered into an agreement with Facebook in which users of the social-networking site will be able to purchase tickets to Disney’s upcoming “Toy Story 3″ as well as alert their friends to join them.",positive,0.8225235939025879
+2010-06-01,Disney and Facebook Join Hands to Move Some Tickets,neutral,0.10814668238162994
+2010-06-07,"Unilever, the giant consumer products marketer, told reporters on Monday afternoon that it would be the “consumer goods presenting advertiser” on the iAd platform.",positive,0.4867610037326813
+2010-06-07,"Among other marketers to clamber aboard the iAd band wagon, according to announcements at the Apple Worldwide Developers Conference on Monday, are AT&T, Best Buy, Walt Disney and Target.",neutral,0.05809462442994118
+2010-06-07,"iAd, Therefore iAm",neutral,-0.04593859612941742
+2010-06-10,The World of Color is part of a $1 billion overhaul of Disney’s California Adventure theme park.,neutral,0.4421066343784332
+2010-06-10,Disney Hopes Wall of Water Will Revive Theme Park,positive,0.7329815030097961
+2010-06-10,"The Walt Disney Company is shutting down five ESPN Zone restaurants, leaving only the Los Angeles and Anaheim, Calif., outlets open.",negative,-0.9261053800582886
+2010-06-10,Disney Says It Will Close 5 ESPN Zone Restaurants,neutral,-0.05530455708503723
+2010-06-10,Representatives of Hollywood’s principal guilds have told the Walt Disney Company that they have serious concerns about the possible sale of its Miramax Films unit to an investor group organized by David Bergstein.,negative,-0.7285382747650146
+2010-06-10,Guilds Express Concern About Possible Miramax Sale,negative,-0.8626217246055603
+2010-04-07,China is poised to play a role in supplying the technology  to build high-speed rail lines in California.,positive,0.6612778306007385
+2010-04-07,China Is Eager to Bring High-Speed Rail Expertise to the U.S.,positive,0.8390397429466248
+2010-04-08,"Clayton, Dubilier & Rice, the New York-based private firm, has added another high-profile former chief executive to its roster: A. G. Lafley, the former chief of Procter & Gamble.",neutral,0.08067303150892258
+2010-04-08,"Former P&G Chief Joins Clayton, Dubilier & Rice",neutral,0.003272516652941704
+2010-04-13,"The Dow Jones industrial average inched above 11,000 on Monday — and, for the first time since the dark days of 2008, actually managed to stay there.",positive,0.7136584520339966
+2010-04-13,"Dow Finishes Above 11,000",neutral,-0.021795302629470825
+2010-04-14,"Wall Street traders took in the first batch of quarterly earnings reports on Tuesday, but nobody seemed quite sure what to make of the numbers, The New York Times reports.",neutral,0.041632577776908875
+2010-04-14,A Modest Gain as Investors Digest Earnings Reports,positive,0.4570596516132355
+2010-04-16,"The chief executive noted “encouraging economic signs,” and some analysts said the company may reach a turning this year.",positive,0.8339788317680359
+2010-04-16,"Income Falls, but G.E.",negative,-0.8603067994117737
+2010-04-16,Tops Forecasts,neutral,0.08660735189914703
+2010-04-19,"Stocks on Friday fell by the largest amount in two months after the Securities and Exchange Commission accused Goldman Sachs of fraud in mortgage investments, The New York Times reported.",negative,-0.9586531519889832
+2010-04-19,Wall Street’s Winning Streak Ends at 6,negative,-0.3745695948600769
+2010-04-21,"A group of Senate Democrats introduced a bill on Wednesday that would require three of the nation’s largest banks to shrink, in an effort to eliminate the problem of financial institutions being seen as “too big to fail.” Go to Article from The New York Times>>",neutral,0.17695608735084534
+2010-04-21,Financial Debate Renews Scrutiny on Banks’ Size,negative,-0.45765525102615356
+2010-04-27,The two manufacturers said they could save the Pentagon $1 billion on 150 alternate engines for the Joint Strike Fighter jet.,positive,0.7106615304946899
+2010-04-27,Rolls-Royce and G.E.,neutral,0.043178774416446686
+2010-04-27,Cut Price to Build F-35 Engines,negative,-0.17679989337921143
+2010-04-30,"Goldman Sachs and other high-profile banks must defend against allegations by 15 California cities and counties that they conspired to rig bids for municipal investment contracts and derivatives, a U.S. judge ruled, according to Reuters.",negative,-0.8315876126289368
+2010-04-30,Goldman and Other Banks to Face Munis Case,neutral,-0.20054318010807037
+2010-05-10,"Virgin Green Fund, an investment firm backed by Richard Branson, is not going after the hottest new clean energy start-ups.",neutral,-0.24437977373600006
+2010-05-10,"Instead, it wants the ones facing a midlife crisis.",neutral,0.001404203474521637
+2010-05-10,Virgin Green Fund Looks to Midlife Start-ups,neutral,0.07053686678409576
+2010-05-12,"Peter A. Chernin, who last year left the News Corporation as Rupert Murdoch’s second in command, is in the early stages of assembling his own enterprise, a company of considerable ambition.",neutral,0.042963892221450806
+2010-05-12,"For Chernin, an Empire of His Own",neutral,0.06895940005779266
+2010-05-16,"Osram Sylvania and Philips plan to sell energy-efficient LED bulbs this year that can replace a 60-watt bulb, the most commonly used incandescent lamp.",positive,0.6075102090835571
+2010-05-16,LED Bulbs for the Home Near the Marketplace,neutral,0.004876866936683655
+2010-05-17,"GE Capital, a unit of General Electric, plans to issue its second Islamic bond in late 2010 or in 2011, Reuters reported.",neutral,0.0633506029844284
+2010-05-17,GE Capital Plans Another Islamic Bond,neutral,0.039102714508771896
+2010-05-19,"Shorebank, a troubled Chicago community bank with a philanthropic reputation, has won uncommon Wall Street backing to save it from a government takeover, while similarly sized rivals fail.",positive,0.6568087339401245
+2010-05-19,Donations Save Philanthropic Chicago Bank,neutral,0.08260025829076767
+2010-05-21,"Fears that the fragile economic recovery in the United States might be threatened by the financial and political crisis in Europe gripped Wall Street on Thursday, sending the stock market into a sharp decline and leaving anxious traders wondering where the pain might stop.",negative,-0.9270933866500854
+2010-05-21,Asian Stocks Drop Sharply After Big Fall in U.S.,negative,-0.9533143043518066
+2010-05-21,The Deal Professor argues that the financial regulatory bill passed by the Senate is just the first step toward reforming how Wall Street operates.,neutral,0.2822842001914978
+2010-05-21,The End of the Beginning for Financial Reform,neutral,0.038066260516643524
+2010-05-24,Providing the entertainment equivalent of comfort food may be the right business move as consumers experience economic uncertainty.,neutral,0.1118229404091835
+2010-05-24,Networks Aim for the Familiar in New Batch of Shows,neutral,0.07746060192584991
+2010-05-24,"After General Electric’s deal to sell NBC Universal to Comcast, will rival networks ABC and CBS be next to go on the block?",neutral,-0.02731463313102722
+2010-05-24,"After NBC, Will ABC and CBS Be Next on the Block?",neutral,0.02846205234527588
+2010-05-24,"Gentiva Health Services said Monday that it would acquire Odyssey Healthcare for about $1 billion in cash, creating the largest U.S. provider of healthcare services at home.",positive,0.8004565834999084
+2010-05-24,Gentiva to Buy Hospice Care Firm for $1 Billion,neutral,0.04112270474433899
+2010-05-24,Accounts and people of note in the ad industry.,neutral,-0.001839563250541687
+2010-05-24,People and Accounts of Note in Advertising,neutral,-0.00038534775376319885
+2010-05-27,"Pabst Brewing, the maker of Pabst Blue Ribbon and Schlitz, is in the final stages of a deal to sell itself to food investor C. Dean Metropoulos for about $250 million, The Wall Street Journal reported.",neutral,0.052383989095687866
+2010-05-27,"Deal Brewing for Pabst, Report Says",neutral,0.380418062210083
+2010-06-02,"The collapse of the sale of American International Group’s big Asia life insurance unit poses several lessons about the state of deal-making today, The Deal Professor says.",neutral,-0.4027520418167114
+2010-06-02,The Takeaway From the Failed A.I.A.,negative,-0.5352591872215271
+2010-06-02,Deal,neutral,0.03764642775058746
+2010-06-03,"Comcast spent $3.1 million in the first quarter lobbying on its acquisition of a controlling stake in NBC Universal, among other issues, The Associated Press reported.",neutral,0.045087460428476334
+2010-06-03,Comcast Spent $3.1 Million on Lobbying in 1st Quarter,neutral,0.05106962472200394
+2010-06-07,"Stocks tumbled Friday in one of their sharpest declines this year, leaving the Dow Jones industrial average firmly below 10,000, as a disappointing jobs report cast a pall over the nation’s economic recovery, The New York Times reported.",negative,-0.9531925916671753
+2010-06-07,U.S. Indexes Fall Sharply on Jobs Data,negative,-0.9558271169662476
+2010-06-07,"Nielsen’s planned $1.75 billion initial public offering will be closely watched by buyout barons, but the question is whether the new Nielsen can attract similar audience awareness from stock market investors, Breakingviews says.",positive,0.6129805445671082
+2010-06-07,An Initial Offering Will Test Nielsen,neutral,0.0911279171705246
+2010-06-08,"OpenPeak, a potential iPad rival, has just raised $52 million from Intel Capital and General Electric’s venture arm, according to VentureBeat.",positive,0.6391990184783936
+2010-06-08,"A Potential iPad Rival, OpenPeak, Raises $52 Million",neutral,0.07983078807592392
+2010-06-10,"Bill Gates and other business executives said the United States was far behind in research on new forms of energy, and warned the lag would hurt America’s competitive standing.",negative,-0.935746431350708
+2010-06-10,A Call to Triple U.S.,positive,0.18244361877441406
+2010-06-10,Spending on Energy Research,neutral,0.014097075909376144
+2010-04-07,"A federal appeals court said Sears Holdings is not liable to former Kmart Holding shareholders, who had accused the retailer of trying to drive down Kmart’s stock price to let executives buy shares cheaply.",negative,-0.8150156140327454
+2010-04-07,Sears and Lampert Win Dismissal of Kmart Fraud Suit,negative,-0.13178417086601257
+2010-04-14,"Wall Street traders took in the first batch of quarterly earnings reports on Tuesday, but nobody seemed quite sure what to make of the numbers, The New York Times reports.",neutral,0.041632577776908875
+2010-04-14,A Modest Gain as Investors Digest Earnings Reports,positive,0.4570596516132355
+2010-05-18,"Sales of luxury goods and home improvement items rose in the quarter, but Wal-Mart shoppers remained cautious.",positive,0.6614029407501221
+2010-05-18,Wal-Mart Posts Slower Growth as Luxury and Home Goods Rebound,negative,-0.9275223016738892
+2010-05-19,"Stocks on Wall Street fell on Tuesday and the euro retreated to a new low, in part after Germany moved to impose tighter regulation of financial markets.",negative,-0.9362133741378784
+2010-05-19,U.S. Stocks Fall Amid New Concern About Europe,negative,-0.8573166728019714
+2010-06-08,"Provincetown, Mass., is the latest Cape Cod community to use zoning laws to protect local businesses.",neutral,0.04549968242645264
+2010-06-08,Cape Cod Residents Keep the Chain Stores Out,neutral,-0.11923821270465851
+2008-04-02,Intel plans to proclaim that the next big thing in consumer gadgets will be the “Internet in your pocket.”,neutral,0.12686371803283691
+2008-04-02,Intel Makes a Push Into Pocket-Size Internet Devices,positive,0.5730152130126953
+2008-04-04,"SpikeSource, which on Friday is introducing a version of its automated support and testing service tuned for the needs of IT industry platform providers, announced that Intel has invested $10 million in the start-up.",positive,0.5298259854316711
+2008-04-04,SpikeSource Gets $10 Million Patch from Intel,positive,0.5200238227844238
+2008-04-08,The layoffs may be one of the first signs in Silicon Valley of an economic slowdown that has already affected other industries in the United States.,negative,-0.9465604424476624
+2008-04-08,"A.M.D., Citing a Slowdown, to Cut 1,650 Jobs",negative,-0.9537009596824646
+2008-04-09,"Having fully invested its first China fund, Intel Capital announced Tuesday that it has set aside another $500 million to invest in Chinese technology start-ups.",positive,0.49554288387298584
+2008-04-09,Intel Launches New $500 Million China Fund,neutral,0.3532855808734894
+2008-04-15,"The semiconductor maker reported solid global demand for its chips, soothing investor concerns that economic softness would rattle the technology industry.",positive,0.878792405128479
+2008-04-15,Intel’s Income Meets Expectations,positive,0.8334183096885681
+2008-04-16,"The computer chip maker reported that global demand for chips was “solid” during the first quarter, soothing fears that a soft economy was hitting the tech sector.",positive,0.851816713809967
+2008-04-16,Intel Reports Strong Demand for Chips in Quarter,positive,0.9220664501190186
+2008-04-18,The chip maker Advanced Micro Devices posted its sixth consecutive quarterly loss on Thursday.,negative,-0.9603526592254639
+2008-04-18,Chip Maker Reports Sixth Loss in a Row,negative,-0.9263451099395752
+2008-04-30,Three rival teams of computer researchers are working on new types of software needed to better use computer chips that can process many tasks at the same time.,neutral,0.06369063258171082
+2008-04-30,Race Is On to Advance Software for Chips,neutral,0.309333860874176
+2008-05-07,"The group, which includes Sprint Nextel and Google, will announce a $12 billion venture to build a new generation of nationwide wireless data networks.",positive,0.6201893091201782
+2008-05-07,A Technology Consortium Plans a Wireless Network,neutral,0.0377824530005455
+2008-05-07,A consortium plans to build the first of a new generation of nationwide wireless data networks in a $14.5 billion deal.,positive,0.6111509203910828
+2008-05-07,Technology Group Plans Wireless Network,neutral,0.023909498006105423
+2008-06-02,"In a wide-ranging interview, Intel Chief Executive Paul Otellini talks about Intel’s move into processors for smaller machines, the company’s new chip plant in China, the challenges of programming many-core processors and the economic impact of the rising price of oil.",neutral,0.08424863964319229
+2008-06-02,"Intel’s Chief on Strategy, Globalization and the Price of Oil",neutral,0.027008239179849625
+2008-06-04,A.M.D.,neutral,0.04129112511873245
+2008-06-04,plans to announce that it will start selling new power-conserving notebook chips with strong graphics and video abilities.,positive,0.6816274523735046
+2008-06-04,A.M.D.,neutral,0.04129112511873245
+2008-06-04,Set to Introduce a New Chip for Laptops,neutral,0.28846415877342224
+2008-06-04,Online video site Veoh has received a further $30 million in financing from such new backers as Intel and Adobe Systems.,positive,0.8874567151069641
+2008-06-04,Veoh Raises An Extra $30 Million,positive,0.5555571913719177
+2008-06-05,Intel on Tuesday announced that it has invested in eight new start-ups from around the world for a total of $60 million.,positive,0.5957747101783752
+2008-06-05,Intel Funds Eight Start-Ups,neutral,0.011037133634090424
+2008-06-07,The Federal Trade Commission’s decision to look into accusations about Intel’s pricing reversed a previous stance that had blocked the inquiry for many months.,positive,0.28108134865760803
+2008-06-07,"In Turnabout, Antitrust Unit Looks at Intel",neutral,-0.0032300278544425964
+2008-06-10,"Cisco Systems, Intel and four other backers of the wireless Internet standard WiMax said they want to help spread use of the technology by limiting possible patent royalties.",positive,0.5075699687004089
+2008-06-10,WiMax Backers Seek to Encourage Use by Pooling Patents,neutral,0.10855290293693542
+2008-05-16,Johnson & Johnson lost the second round in its trademark dispute against the disaster relief agency when a federal judge in Manhattan threw out most of the case.,negative,-0.8872897624969482
+2008-05-16,Judge Sides With Red Cross Over Trademark,negative,-0.5321656465530396
+2008-06-05,Lenders have questioned an official’s investment in what turned out to be a fraudulent venture that took more than $54 million from shareholders.,negative,-0.8870519399642944
+2008-06-05,Investment Places F.C.C.,neutral,0.05228935182094574
+2008-06-05,Aide Amid Fraud Inquiry,negative,-0.360896497964859
+2008-04-01,The Delaware Chancery Court made no immediate ruling Monday on a shareholder lawsuit seeking to delay the sale of Bear Stearns to JPMorgan Chase.,negative,-0.7844024896621704
+2008-04-01,The judge said he plans to issue a written ruling on the matter in the next several days.,neutral,-0.00837957113981247
+2008-04-01,Delaware Court Considers Suit Over Bear Sale,neutral,-0.31049907207489014
+2008-04-01,"JPMorgan Chase & Company, the banking giant, said on Monday it had awarded its chief executive Jamie Dimon, who struck a deal last month to buy troubled Bear Stearns, $28.86 million in compensation in 2007, a 5 percent increase over the previous year.",positive,0.9143030643463135
+2008-04-01,Dimon’s Compensation Rose 5% at JPMorgan,positive,0.9281067252159119
+2008-04-02,"The markets are global, but the decision-making isn’t.",neutral,-0.00609501451253891
+2008-04-02,Therein lies the danger that transcends borders.,neutral,-0.13043323159217834
+2008-04-02,Leveraged Planet,neutral,0.023671945556998253
+2008-04-02,The Federal Reserve Board on Tuesday formally gave its approval to JPMorgan Chase to purchase a banking unit of Bear Stearns.,positive,0.5328899621963501
+2008-04-02,Fed Approves JPMorgan’s Bear Deal,neutral,0.3077107071876526
+2008-04-02,The Federal Reserve has drawn lots of questions about its role in arranging last month’s fire sale of Bear Stearns to JPMorgan Chase.,neutral,-0.08569499850273132
+2008-04-02,"On Wednesday, lawmakers got their first chance to ask the Fed’s chairman, Ben S. Bernanke, about the Fed’s decision to invoke a rule not used since the 1930s to act as financial midwife to the hastily brokered deal.",neutral,0.25195610523223877
+2008-04-02,"Bernanke, Bear and the $30 Billion Question",neutral,0.030088849365711212
+2008-04-03,"Bear Stearns chief executive Alan Schwartz and JPMorgan Chase chief executive James Dimon are among the witnesses expected to appear on Capitol Hill on Thursday for what Chris Dodd, chairman of the Senate Banking Committee, said he hopes will be a “full, thorough airing of the relevant facts and information” about the Fed-backed fire sale of Bear to JPMorgan.",neutral,0.06903612613677979
+2008-04-03,Senators to Question Chiefs of Bear and JPMorgan,negative,-0.45611464977264404
+2008-04-03,CNBC coverage of Senate testimony by Ben S. Bernanke on the role of the Fed in helping guide the merger between Bear Stearns and JPMorgan.,neutral,0.13057804107666016
+2008-04-03,Bernanke on Fed Role in Bear Deal,neutral,-0.06674981117248535
+2008-04-03,James Dimon wants Washington to know that his firm did not use the Federal Reserve as a dumping ground for Bear Stearns‘ shakiest pieces.,neutral,-0.2925477623939514
+2008-04-03,Dimon Says JPMorgan Didn’t ‘Cherry Pick’ Bear Assets,neutral,-0.35569435358047485
+2008-04-03,"CNBC coverage of testimony by New York Fed Chief Tim Geithner, on the Fed's role in the sale of Bear Stearns to JPMorgan",neutral,0.1044936403632164
+2008-04-03,Geithner Calls for Stricter Rules,neutral,0.015507817268371582
+2008-04-03,"CNBC coverage of testimony by Alan D. Schwartz, chief executive of Bear Stearns, on JPMorgan's deal to buy Bear Stearns.",neutral,0.13425691425800323
+2008-04-03,Bear Chief Discusses JPMorgan Deal,neutral,-0.04549890011548996
+2008-04-03,"CNBC coverage of Senate testimony by James Dimon, chief executive of JPMorgan, on the Fed's role in his company's purchase of Bear Stearns.",neutral,0.10603848099708557
+2008-04-03,JPMorgan Chief on Bear Deal,neutral,-0.015334825962781906
+2008-04-04,Federal officials and senior Wall Street executives offered their first public account on Thursday of the harrowing four days of negotiations.,neutral,0.045301660895347595
+2008-04-04,Testimony Offers Details of Bear Stearns Deal,neutral,0.03691006824374199
+2008-04-04,"John Coyle, the global head of JPMorgan Chase‘s financial sponsor group, is leaving the company to join private equity firm Permira, according to The Wall Street Journal.",negative,-0.529183566570282
+2008-04-04,JPMorgan’s Coyle Said to Take Post at Permira,neutral,-0.015579789876937866
+2008-04-04,"JPMorgan Chase said it bought 11.5 million shares of Bear Stearns on the open market, in an effort to gain enough voting power to essentially guarantee its acquisition of the investment bank.",positive,0.6376644968986511
+2008-04-04,JPMorgan Hunts Bear on the Open Market,neutral,0.03222118318080902
+2008-04-04,"Even weeks after a revised deal to sell Bear Stearns was reached, the topic remains the subject of furious speculation.",negative,-0.5338699221611023
+2008-04-04,"In one of the highest profile inquiries into the JPMorgan Chase/federal government deal, the chief executives of both firms, as well as Federal Reserve Chairman Ben Bernanke and New York Federal Reserve Chairman Timothy Geitner appeared before the Senate Banking Committee to face questions.",neutral,-0.07423307746648788
+2008-04-04,CNBC Video: The Insiders’ Story of the Bear Stearns Deal,neutral,0.03005507029592991
+2008-04-04,"From Eric Dash, a DealBook colleague:",neutral,0.07341843843460083
+2008-04-04,JPMorgan Adds Bear Executives to Investment Bank,neutral,0.003017619252204895
+2008-04-07,"James Dimon, JPMorgan Chase‘s chief executive, must have been really angry about the problems in the terms of the first version of his deal to buy Bear Stearns — because he isn’t taking any chances this time around.",negative,-0.8500398397445679
+2008-04-07,Tightening the Locks on Bear,neutral,0.0569913387298584
+2008-04-08,With the recent financial crisis some wonder whether the Securities and Exchange Commission has given in to the push to lighten up on regulation.,neutral,0.023157507181167603
+2008-04-08,Fears That the Market Watchdog Is Losing Its Bite,negative,-0.8115800619125366
+2008-04-08,Not long ago the market police at the Securities and Exchange Commission gave JPMorgan Chase the Wall Street equivalent of a traffic ticket.,neutral,0.061507873237133026
+2008-04-08,The penalty: $25 million.,negative,-0.6548561453819275
+2008-04-08,A Fear That the Market’s Watchdog Is Losing Its Bite,negative,-0.7635313272476196
+2008-04-08,"The job market looks bleak for Bear Stearns employees swamping Wall Street with their résumés as the larger rival JPMorgan Chase acquires the firm, investment bankers and recruiters said.",negative,-0.9545822739601135
+2008-04-08,Bleak Times for Job-Hunting Bear Bankers,negative,-0.596732497215271
+2008-04-08,Yet another big name has emerged as a skeptic of the deal to sell Bear Stearns to JPMorgan Chase — and it’s a former predecessor to Ben Bernanke.,neutral,-0.3647698163986206
+2008-04-08,Volcker Questions Fed’s Role in Bear Deal,neutral,-0.021962158381938934
+2008-04-10,"After getting what it considered a low-ball bid from JPMorgan Chase, Washington Mutual decided to go somewhere else to get the capital it needed and ended up in the embrace of private equity firm TPG.",neutral,0.4371100068092346
+2008-04-10,"In TPG’s WaMu Deal, a New Playbook for Regulators?",neutral,0.10768257826566696
+2008-04-11,A Democratic senator said on Thursday that he was asking the Justice Department and the Securities and Exchange Commission to investigate stock trading prior to JPMorgan Chase‘s agreement to buy Bear Stearns in a deal engineered by the Federal Reserve.,neutral,-0.1492609828710556
+2008-04-11,Senator Calls for Probe into Short Selling Ahead of Bear Deal,neutral,-0.015335679054260254
+2008-04-11,"Bear Stearns, the troubled investment bank being acquired by JPMorgan Chase, on Thursday said it expects first-quarter results to be “significantly lower” than a year earlier.",negative,-0.9631103873252869
+2008-04-11,Bear Has No Good Estimate for 1st Quarter Results,negative,-0.5037984848022461
+2008-04-14,"On Friday, JPMorgan Chase filed its registration statement on Form S-4 with the Securities and Exchange Commission related to its acquisition of Bear Stearns.",neutral,0.04687890410423279
+2008-04-14,This is the document JPMorgan is using to register the securities it is issuing to the Bear Stearns shareholders and will also function as the proxy statement for the Bear Stearns shareholder vote.,neutral,0.020818620920181274
+2008-04-14,Anatomy of a Merger,neutral,-0.11893753707408905
+2008-04-15,"The Bear Stearns Companies said Monday that its profit dropped 79 percent in the first quarter, which ended just two weeks before speculation about a liquidity crisis forced its sale to JPMorgan Chase.",negative,-0.9710028767585754
+2008-04-15,First-Quarter Earnings Dropped 79% at Bear Stearns,negative,-0.9725147485733032
+2008-04-15,"Bear Stearns Chief Executive Alan D. Schwartz, who found himself selling the hobbled investment bank to JPMorgan Chase in his eleventh week on the job, has been invited to stay on as a senior dealmaker, Reuters reported.",neutral,0.07066391408443451
+2008-04-15,"Bear’s Chief in Line for Rainmaker Role, Report Says",neutral,0.15730135142803192
+2008-04-16,"JPMorgan reported a drop in earnings of 50 percent in the first quarter, but beat Wall Street’s expectations.",negative,-0.9526980519294739
+2008-04-16,Reassuring Results From JPMorgan Help Drive Market,positive,0.7085360884666443
+2008-04-16,"Citadel Investment Group has hired away JPMorgan Chase‘s fixed-income chief, Patrik Edsparr, to lead Citadel’s European division, The New York Post reported.",neutral,-0.16211360692977905
+2008-04-16,"The newspaper described the move as the latest sign that Citadel’s founder, Kenneth Griffin, is hoping to compete with big Wall Street firms for business.",positive,0.7443138957023621
+2008-04-16,Citadel Said to Hire JPMorgan’s Fixed-Income Chief,neutral,0.037116266787052155
+2008-04-16,"JPMorgan Chase reported first-quarter earnings of $2.4 billion on Wednesday, a nearly 50 percent slump from the same time last year, but still a show of some strength at a time when its rivals have suffered worse.",positive,0.6074742674827576
+2008-04-16,JPMorgan’s 1st-Quarter Earnings Fall 50%,negative,-0.970046877861023
+2008-04-16,"For all its 85-year history, Bear Stearns is fetching about $1.2 billion in its sale to JPMorgan Chase.",neutral,0.044655147939920425
+2008-04-16,"Last year alone, at least five hedge-fund managers made more than that.",neutral,0.02939298003911972
+2008-04-16,Hedge Fund Heavyweights of 2007,neutral,0.2083594799041748
+2008-04-17,"JPMorgan reported a drop in earnings of 50 percent in the first quarter, but beat Wall Street’s expectations.",negative,-0.9526980519294739
+2008-04-17,"Bank Earnings Fall, but Investors Seem Relieved",negative,-0.7638113498687744
+2008-04-17,"JPMorgan Chase plans to sell $6 billion in noncumulative perpetual preferred shares, according to a report in International Financing Review, a Thomson publication.",neutral,0.034356944262981415
+2008-04-17,"JPMorgan to Sell $6 Billion of Preferred Shares, Report Says",neutral,0.0449441522359848
+2008-04-18,"Hours after reporting its worst results in years on Wednesday, JPMorgan Chase quietly disclosed plans to raise $6 billion in expensive debt.",negative,-0.7554684281349182
+2008-04-18,JPMorgan Joins Rivals in Raising Extra Cash,neutral,0.28167593479156494
+2008-04-23,An article on Tuesday about the financial struggles of large banks erroneously included one bank among several seeking to raise additional capital to shore up their balance sheets.,neutral,0.24450168013572693
+2008-04-23,"While Merrill Lynch, JPMorgan Chase and Wachovia have indeed announced such plans, Wells Fargo has not.",neutral,0.004352124407887459
+2008-04-23,Corrections,neutral,0.025139711797237396
+2008-04-27,"Alan C. Greenberg, board member of Bear Stearns, is planning to give $360,000 to some of the bank’s lowest-paid workers.",negative,-0.6059920191764832
+2008-04-27,"Gift to the Mailroom, From the Boardroom",neutral,0.036745455116033554
+2008-04-28,"Bear Stearns‘s former chairman and chief executive, Alan C. Greenberg, is planning to give $360,000 to some of the firm’s lowest-paid workers, who may lose their jobs when Bear merges with JPMorgan Chase, The New York Times reported.",negative,-0.7810865044593811
+2008-04-28,"A Gift to Bear’s Mailroom, From the Boardroom",neutral,0.10924595594406128
+2008-04-28,Mars‘s $23 billion deal to buy candy maker Wm.,neutral,0.14756540954113007
+2008-04-28,"Wrigley Jr. Company is the second-largest merger announced so far this year, and that means some tasty fees for JPMorgan Chase and Goldman Sachs if the deal goes through.",negative,-0.5366412401199341
+2008-04-28,Sweet Day for Candy Deal Advisers,neutral,0.12455777078866959
+2008-04-30,"Panorama Capital took the final step in its spin-off from former parent JPMorgan Chase, announcing Tuesday that it has closed a $240 million first independent fund to invest in life sciences and technology companies.",neutral,0.2380942702293396
+2008-04-30,Panorama Closes First Fund Since JPMorgan Spin-Off,neutral,0.21956925094127655
+2008-04-30,Boston officials on Tuesday unveiled a $4 million tax-incentive package to convince JPMorgan Chase to remain in Boston.,positive,0.7122645974159241
+2008-04-30,Officials Seek to Keep JPMorgan in Boston,neutral,-0.055630188435316086
+2008-04-30,"Though it has been widely reported that Bear Stearns will lay off about half of its 14,000 workers when it completes its acquisition by JPMorgan Chase, neither investment bank has offered specifics about who will stay and who will go.",negative,-0.9448387622833252
+2008-04-30,"At Bear, Letters Bring Good News and Bad",neutral,0.03128927946090698
+2008-05-05,"JPMorgan Chase  does not expect the U.S. financial crisis to end soon and will remain very cautious, its chief executive told German weekly Welt am Sonntag.",neutral,-0.09289862215518951
+2008-05-05,JPMorgan’s Dimon Remains Cautious on Outlook,negative,-0.4944379925727844
+2008-05-06,"In a win for activist investor William Ackman, Target announced Monday that it had struck a deal to sell a 47 percent interest in credit card receivables to JPMorgan Chase for an initial investment of $3.6 billion.",positive,0.7435957789421082
+2008-05-06,Target Bends to Ackman In Credit-Card Deal With JPMorgan,neutral,0.20093697309494019
+2008-05-07,JPMorgan Chase said on Wednesday it had hired former Goldman Sachs  banker Oral Dawe as managing director and chief executive of its Asia Pacific Commodities group.,neutral,0.12030310183763504
+2008-05-07,JPMorgan Hires Former Goldman Banker for Asia Post,neutral,-0.03865702450275421
+2008-05-08,"Bear Stearns shareholders suing over the planned JPMorgan Chase takeover are dropping efforts to block the deal but will seek damages of at least $2.8 billion, an attorney for the plaintiffs said on Wednesday.",negative,-0.916864275932312
+2008-05-08,Bear Investors Drop Suit to Block JPMorgan Deal,negative,-0.8685522675514221
+2008-05-08,"JPMorgan Chase, which is buying Bear Stearns, expects to regain business from Bear clients who stopped doing business with the troubled investment bank, JPMorgan’s co-chief executive of investment banking said on Wednesday.",positive,0.7688953876495361
+2008-05-08,JPMorgan Sees Bear Clients Returning,neutral,-0.0036671683192253113
+2008-05-08,"JPMorgan Chase just moved closer to swallowing Bear Stearns, but a few holdouts still hope to spoil Jamie Dimon’s meal.",negative,-0.8694298267364502
+2008-05-08,Holdouts Still Seek to Block Bear Deal,negative,-0.7823067307472229
+2008-05-09,"On Wednesday, they finally took Bear Stearns out behind the woodshed and ended its lingering misery.",neutral,0.2135055661201477
+2008-05-09,"On that day, the plaintiffs’ attorneys in the last remaining viable lawsuit in New York against JPMorgan Chase and Bear withdrew their motion for a preliminary injunction to halt the JPMorgan acquisition.",negative,-0.7223258018493652
+2008-05-09,"Instead, the lawyers stated that they will pursue monetary damages.",neutral,0.03540065512061119
+2008-05-09,There is one more suit pending in federal court but it does not look significant.,neutral,-0.05791325122117996
+2008-05-09,Euthanizing Bear,neutral,-0.0640556812286377
+2008-05-13,JPMorgan Chase said on Monday that it received a notice from federal regulators indicating that one of its units may face an enforcement action related to “the bidding of various financial instruments associated with municipal securities.”,negative,-0.5906029343605042
+2008-05-13,JPMorgan May Face S.E.C.,neutral,-0.03969065099954605
+2008-05-13,Civil Charges,neutral,-0.08660164475440979
+2008-05-14,"JPMorgan Chase could cut as many as 4,000 of its own employees worldwide as the bank prepares to take on staff from Bear Stearns at the same time it deals with turmoil in financial markets, Reuters reported.",negative,-0.9643387794494629
+2008-05-14,"JPMorgan May Cut 4,000 of Its Own",negative,-0.9411540627479553
+2008-05-14,"Jamie Dimon, the chief executive of JPMorgan Chase, has something to smile about this morning.",neutral,0.09933871775865555
+2008-05-14,His firm’s role in advising Hewlett-Packard in its $13.3 billion takeover of Electronic Data Systems comes not just with millions of dollars in advisory fees — but also with bragging rights.,neutral,0.11152933537960052
+2008-05-14,JPMorgan Rides H.P.,neutral,0.015017932280898094
+2008-05-14,to Top of the Leagues,neutral,0.07713745534420013
+2008-05-19,"JPMorgan Chase has launched a campaign to find jobs for more than 5,000 people who are being let go after its takeover of Bear Stearns, The Financial Times reported.",negative,-0.7120913863182068
+2008-05-19,JPMorgan Campaigns for Former Bear Staff,neutral,-0.19798462092876434
+2008-05-19,"JPMorgan Chase has hired Jane Garvey, a former head of the Federal Aviation Administration, as its new head of transportation infrastructure investment practice, the bank said Monday in an internal memorandum obtained by DealBook.",neutral,0.3252137303352356
+2008-05-19,JPMorgan Hires Ex-F.A.A.,neutral,-0.3857935070991516
+2008-05-19,Head for Infrastructure Team,neutral,0.052168283611536026
+2008-05-20,"James Dimon, the head of the banking giant JPMorgan Chase, recently estimated that the credit crunch was about 75 percent over.",negative,-0.45519718527793884
+2008-05-20,"But Meredith Whitney, the head of equity research at Oppenheimer, believes that it will extend well into 2009 and perhaps beyond that.",neutral,0.327463299036026
+2008-05-20,Analyst Sees More Pain Ahead for Banks,negative,-0.8390414118766785
+2008-05-21,"JPMorgan Chase‘s chief executive confirmed Tuesday that the bank will be keeping nearly half of the employees at Bear Stearns, the struggling investment bank that JPMorgan agreed to buy in March.",negative,-0.7790287137031555
+2008-05-21,Dimon Confirms More Than Half of Bear Staff to Be Cut,negative,-0.6067265868186951
+2008-05-22,"Jeffrey Mayer, co-head of fixed income at Bear Stearns, has reportedly turned down an offer of $27 million from JPMorgan Chase to join the bank on completion of their merger, Financial News reported.",negative,-0.8928459882736206
+2008-05-22,Bear’s Mayer Turns Down JPMorgan Offer,negative,-0.46376413106918335
+2008-05-28,JPMorgan Asset Management has raised $600 million for its Greater China Property Fund.,positive,0.502226710319519
+2008-05-28,"The closed-end JPMorgan Greater China Property Fund received capital commitments from institutional and high-net-worth investors from the U.S., Asia, Europe and the Middle East.",positive,0.5743722319602966
+2008-05-28,JPMorgan Raises $600 Million for China Property Fund,neutral,0.43714630603790283
+2008-05-29,"Citadel Investment Group has made another key hire from JPMorgan Chase, taking global co-head of securitized products Bill King to lead its own securitized product business.",positive,0.715732753276825
+2008-05-29,Citadel Nabs Another Wall Street Banker,neutral,-0.17670723795890808
+2008-05-29,This is Bear Stearns‘s last day on Earth.,neutral,-0.10129153728485107
+2008-05-29,The shareholder meeting to approve the acquisition by JPMorgan Chase is at 10 a.m.,neutral,0.042660582810640335
+2008-05-29,"I assume that immediately after the acquisition is approved, Bear will be merged out of existence as a public company.",neutral,0.008191213011741638
+2008-05-29,Burying Bear Stearns,neutral,0.02132382243871689
+2008-05-29,It’s official: A majority of Bear Stearns shareholders on Thursday voted in favor of the securities firm’s sale to JPMorgan Chase.,positive,0.7621878385543823
+2008-05-29,"The approval — which was essentially a forgone conclusion, if only because JPMorgan already owned nearly half of Bear’s stock — clears the way for Bear to be subsumed into JPMorgan, ending its 85-year history as an independent entity.",neutral,0.2305842787027359
+2008-05-29,"More than half of Bear’s employees are expected to lose their jobs in the sale, which was hastily arranged in March to avoid a complete collapse of the firm.",negative,-0.9552130103111267
+2008-05-29,Bear Stearns: 1923 – 2008,neutral,0.015530526638031006
+2008-05-30,"James E. Cayne, Bear Stearns’s chairman, presided over a meeting that marked the end of the firm’s independence.",neutral,-0.02316134050488472
+2008-05-30,His words were met with silence by more than 400 employees.,neutral,-0.16295890510082245
+2008-05-30,"At Bear, an Apology Is Met With Silence",negative,-0.21562229096889496
+2008-06-05,"Having avoided subprime securities and other major problems that have ravaged its peers, JPMorgan, with a solid balance sheet and an ample pile of capital, is poised to dominate.",positive,0.728994607925415
+2008-06-05,Will JPMorgan Go Shopping Again?,neutral,0.05104184150695801
+2008-06-05,"Bear Stearns‘ private-equity arm Bear Stearns Merchant Banking is expected to announce today that it will spin off into an independent company with JPMorgan Chase as its largest investor, The Wall Street Journal said.",neutral,0.02265314757823944
+2008-06-05,Bear Stearns Merchant Banking to Be Spun Off,neutral,-0.0031494759023189545
+2008-06-05,"Bear Stearns sought rescue financing from Singapore’s Temasek in the days before its sale to JPMorgan Chase but was rebuffed, underscoring the growing reluctance of sovereign wealth funds to make high-profile investments, The Financial Times reported.",negative,-0.877888560295105
+2008-06-05,Temasek Said to Have Declined Bear Stearns Rescue,neutral,-0.026286859065294266
+2008-06-06,"General Electric has hired Citigroup and JPMorgan Chase to advise on the sale of its Wizard mortgage unit in Australia, Bloomberg News reported citing people with knowledge of the decision.",neutral,0.28307899832725525
+2008-06-06,G.E.,neutral,0.0415060818195343
+2008-06-06,Hires Advisers for Sale of Wizard Unit,neutral,0.025944745168089867
+2008-06-09,"David H. Glaser is the latest Bear Stearns banker to find a place at Bank of America, which, like other firms, has been trying to pick off talent from Bear amid the transition.",neutral,0.06438960134983063
+2008-06-09,More Executives Leave Bear Stearns,negative,-0.8503645062446594
+2008-06-09,The defections following JPMorgan Chase‘s acquisition of Bear Stearns continue.,negative,-0.9300614595413208
+2008-06-09,Another Top Banker Leaves Bear Stearns,negative,-0.6939980983734131
+2008-06-10,"Two top Bear Stearns investment bankers are opening an advisory boutique and plan to split with JPMorgan Chase the fee they expect to earn on a $5.2 billion buyout deal, according to TheStreet.com.",neutral,0.05169747397303581
+2008-06-10,2 Bear Bankers to Hang Their Own Shingle,negative,-0.45066240429878235
+2008-04-17,"As one of the most prominent sponsors of the Olympics, Coca-Cola found itself on the hot seat on Wednesday at its annual shareholder meeting.",positive,0.5142882466316223
+2008-04-17,Coca-Cola Faces Critics of Its Olympics Support,negative,-0.8939328789710999
+2008-05-13,"Coca-Cola, the world’s biggest drinks maker, is seeking more acquisition opportunities in the fast-growing soft drinks market to expand its revenue sources, the company’s presumptive next chief executive said on Tuesday.",positive,0.8889500498771667
+2008-05-13,Coca-Cola Seeks Small Deals to Augment Growth,neutral,0.06938052922487259
+2008-04-01,"A doctor who led a key trial of two heart drugs accused their makers, Merck and Schering-Plough, last July of hiding the negative results.",negative,-0.8831620216369629
+2008-04-01,Accusations of Delays in Releasing Drug Results,negative,-0.8809986114501953
+2008-04-15,"Merck drafted dozens of studies for a best-selling drug, then lined up prestigious doctors to put their names on the reports before publication, according to an article in a leading medical journal.",neutral,0.14042678475379944
+2008-04-15,"Ghostwriters Used in Vioxx Studies, Article Says",neutral,-0.019589928910136223
+2008-04-16,"Documents unearthed in lawsuits over the pain drug Vioxx provide a rare, detailed look at the industry practice of ghostwriting medical research studies.",neutral,0.011611906811594963
+2008-04-16,Merck Wrote Drug Studies for Doctors,neutral,-0.0025507844984531403
+2008-04-19,A report indicating that Merck used ghostwriters to produce articles in support of its drug Vioxx has galvanized opponents to a proposal that would relax some restrictions on drug promotion.,negative,-0.7154707312583923
+2008-04-19,F.D.A.,neutral,0.04497655853629112
+2008-04-19,Plan on Medical Articles Takes More Heat,neutral,0.03230724483728409
+2008-04-21,"CNBC interviews Richard T. Clark, chief executive of Merck, on his company's earnings.",neutral,0.06941632926464081
+2008-04-21,Merck's Chief Discusses Earnings,neutral,0.0012102797627449036
+2008-05-30,The major victories for Merck pushed the litigation over Vioxx closer to conclusion and highlighted the difficulty that plaintiffs’ lawyers are having in winning lawsuits against big drug companies.,positive,0.7929844260215759
+2008-05-30,Courts Reject Two Major Vioxx Verdicts,negative,-0.8619024157524109
+2008-04-01,"Microsoft won an international standards designation for its open document format, apparently ending a year-long battle with some of its software rivals before a global standards-setting organization.",positive,0.902969479560852
+2008-04-01,Microsoft Open Format Standard Said to Get Global Approval,neutral,0.19486823678016663
+2008-04-01,"Microsoft has no plans to raise its bid for Yahoo, according to reports Tuesday that cited anonymous sources.",neutral,-0.03637561574578285
+2008-04-01,"Some analysts have speculated that Microsoft might increase its offer, which Yahoo has said “substantially undervalues” the company.",positive,0.8588394522666931
+2008-04-01,Microsoft Said to Stand Firm on Yahoo Bid,neutral,0.1140267550945282
+2008-04-02,"Microsoft has won an international standards designation for its open-document format, ending a yearlong battle with software rivals.",positive,0.9047170877456665
+2008-04-02,"Reversing Loss, Microsoft Wins Open-Format Designation",positive,0.563683271408081
+2008-04-03,You can quickly save an error message — and save yourself the trouble of trying to remember what it said when talking to a technical support person.,neutral,-0.251788854598999
+2008-04-03,Tip of the Week: Saving Error Messages,neutral,-0.22395290434360504
+2008-04-03,"I’m still using Outlook 2003, which only allows me to add holidays to my calendar through 2007.",neutral,0.009611600078642368
+2008-04-03,Is there a way to get updated holiday information for the program?,neutral,0.02373829111456871
+2008-04-03,Adding Holidays to the Calendar,neutral,-0.02996087074279785
+2008-04-03,"Internet search giant Yahoo, the subject of a hostile takeover bid from Microsoft, led a $20 million investment in Vlingo, a speech recognition start-up.",neutral,0.09719479084014893
+2008-04-03,Yahoo Leads $20 Million Round for Vlingo,neutral,0.10300608724355698
+2008-04-03,"Google announced Wednesday that it plans to sell a unit of DoubleClick, the advertising technology company that it acquired recently.",neutral,0.02409573644399643
+2008-04-03,"The unit, Performics Search Marketing, helps marketers place ads on search engines, including those owned by Google and its main rivals, Yahoo and Microsoft.",neutral,0.02296408638358116
+2008-04-03,"After DoubleClick Deal, Google to Cut Jobs and Sell Unit",negative,-0.9511137008666992
+2008-04-03,A system that can make it easier to put two-dimensional photos into the three-dimensional space of Google Earth is an intriguing alternative to an automated service developed in part by Microsoft.,positive,0.5314298868179321
+2008-04-03,A 3-D Viewfinder for a Shoebox of Digital Photos,neutral,0.00017023272812366486
+2008-04-04,Hmmm.,neutral,0.059823259711265564
+2008-04-04,Why Microsoft Leaked Its Big Yahoo Plan,neutral,-0.37401893734931946
+2008-04-05,"Microsoft, which remains steadfast in its refusal to raise its bid for Yahoo, is growing increasingly frustrated with the company’s refusal to enter into negotiations.",negative,-0.954189658164978
+2008-04-05,"Lines Drawn for Microsoft and Yahoo, and Neither Is Ceding Ground",neutral,0.043599940836429596
+2008-04-05,"Microsoft, which remains steadfast in its refusal to raise its bid for Yahoo, is growing increasingly frustrated with the company’s refusal to enter into negotiations.",negative,-0.954189658164978
+2008-04-05,Microsoft Said to Be Standing Pat on Yahoo,neutral,-0.13542461395263672
+2008-04-07,"Responding to a letter from Microsoft that threatened to lower the price of its buyout offer, Yahoo called Microsoft’s bid too low.",negative,-0.9201076030731201
+2008-04-07,Yahoo Rejects Microsoft Bid Again,negative,-0.6052029728889465
+2008-04-07,Yahoo’s is expected to reject merger negotiations with Microsoft and explain why its board believes the current offer price is too low.,negative,-0.8475669026374817
+2008-04-07,Yahoo Is Said to Rebuff Microsoft Threat Over Bid,negative,-0.6869531869888306
+2008-04-07,"A startup called MokaFive, founded by four Stanford University computer scientists, is unveiling software that is designed to bring the advantages of so-called virtual machine software from server computers to the desktop.",neutral,0.20159685611724854
+2008-04-07,Aiming for a Virtual End to PC Headaches,neutral,0.11918556690216064
+2008-04-07,"Responding to Microsoft‘s threat to lower the price of its buyout offer over the weekend, Yahoo said Monday that it continues to believe that Microsoft’s takeover bid is too low, as do many of its shareholders.",negative,-0.9216646552085876
+2008-04-07,Yahoo also countered Microsoft’s assertions that its business has deteriorated since Microsoft made its unsolicited bid on January 31.,negative,-0.9337489008903503
+2008-04-07,Yahoo Rebuffs Microsoft Threat Over Bid,negative,-0.7690377831459045
+2008-04-07,"Facebook is close to resolving a legal dispute about who really came up with the idea for the popular social-networking site, which sold a minority stake to Microsoft last October in a deal that valued the entire company at about $15 billion.",neutral,-0.1535857915878296
+2008-04-07,Facebook to Settle Lawsuit About Its Origins,negative,-0.7315061688423157
+2008-04-07,"In its latest letter to Microsoft, Yahoo doesn’t even try to argue it will be better off as an independent company.",neutral,-0.05602474510669708
+2008-04-07,It simply demands more money.,neutral,0.03135894238948822
+2008-04-07,Is Yahoo’s Letter the First Concession?,neutral,0.0756719633936882
+2008-04-07,Microsoft is talking tough these days.,negative,-0.7254091501235962
+2008-04-07,"Far from signaling it might raise its bid for Yahoo, it dangled the threat over the weekend that it could lower its offer and formally go hostile — and possibly both at the same time.",neutral,-0.1626591682434082
+2008-04-07,"For good measure, Steven Ballmer, Microsoft’s chief executive, also set the clock ticking on a three-week deadline for Yahoo to agree to a deal.",neutral,0.18431365489959717
+2008-04-07,Yahoo’s Big Question: Is Steve Ballmer Bluffing?,negative,-0.5510991215705872
+2008-04-08,"Yet Yahoo made it clear that the company remained open to a deal, as long as Microsoft sweetened its bid.",positive,0.6696876287460327
+2008-04-08,Yahoo Answers Microsoft With Yet Another No,neutral,0.06261219084262848
+2008-04-08,"Microsoft delivered a threat to Yahoo over the weekend, indicating that if the search giant doesn’t start playing ball it may lower its offer and formally go hostile, there is plenty of speculation about whether or not Microsoft’s chief Steven Ballmer may be playing a game of chicken.",negative,-0.900638222694397
+2008-04-08,Is Time on Yahoo’s Side?,neutral,-0.041094377636909485
+2008-04-08,"As Microsoft continues to press its takeover bid for Yahoo, Microsoft’s shareholders might be interested to know more about the deal-making history of Microsoft’s chief executive, Steven Ballmer.",neutral,0.022241633385419846
+2008-04-08,Will Deal-Making Chiefs Ever Learn?,neutral,0.011198922991752625
+2008-04-08,Maybe.,neutral,-0.004926115274429321
+2008-04-09,The gloom pervading the financial markets and the business climate has reached the land of innovation.,neutral,-0.06679786741733551
+2008-04-09,Economy Has Become a Drag on Silicon Valley,negative,-0.702192485332489
+2008-04-09,"A major Yahoo shareholder, Legg Mason, is ready to back Yahoo’s effort to stay independent if Microsoft lowers its buyout offer, according to portfolio manager Bill Miller.",neutral,-0.09392541646957397
+2008-04-09,"Without a Sweetened Offer, Legg Mason Ready to Back Yahoo",neutral,-0.05564272403717041
+2008-04-09,Another shot has been fired in the increasingly bitter battle between Microsoft and Yahoo.,negative,-0.9258000254631042
+2008-04-09,Yahoo to Announce Test Partnership With Google,positive,0.5802434682846069
+2008-04-10,"The new service’s software technology, called Clearflow, is an ambitious attempt to apply machine-learning techniques to the problem of traffic congestion.",neutral,0.08772660791873932
+2008-04-10,Microsoft Introduces Tool for Avoiding Traffic Jams,neutral,0.36581140756607056
+2008-04-10,"Rupert Murdoch’s News Corporation is in talks with Microsoft about joining in its contested bid for Yahoo, according to people involved in the discussions.",neutral,0.0011277012526988983
+2008-04-10,News Corp. May Join Yahoo Bid With Microsoft,neutral,0.05872068181633949
+2008-04-10,Outlook Express is set to save my e-mail password and now I do not remember it.,negative,-0.55621737241745
+2008-04-10,Is there an easy way I can find out what it is?,neutral,0.03408525884151459
+2008-04-10,Recovering a Lost Password,neutral,-0.35475409030914307
+2008-04-10,"Rupert Murdoch’s News Corporation is in talks with Microsoft about joining in its contested bid for Yahoo, according to The New York Times.",neutral,-0.0014736279845237732
+2008-04-10,"The combination, which would join Yahoo, Microsoft’s MSN and News Corporation’s MySpace, would create a behemoth that would upend the Internet landscape, The Times said.",neutral,0.41362079977989197
+2008-04-10,News Corp. May Join Yahoo Bid With Microsoft,neutral,0.05872068181633949
+2008-04-10,CNBC interviews Andrew Ross Sorkin of the Times about discussions that News Corp is having with Microsoft about a joint bid to acquire Yahoo.,neutral,0.043617069721221924
+2008-04-10,Murdoch May Join Bid for Yahoo,neutral,0.04295889288187027
+2008-04-10,What if Microsoft dropped its bid for Yahoo and bought AOL and MySpace instead?,negative,-0.7314968705177307
+2008-04-10,One analyst says that may be a better deal than a target that doesn’t want to merge.,positive,0.7221122980117798
+2008-04-10,Is Yahoo the Odd Man Out?,negative,-0.44119173288345337
+2008-04-11,"A graph of the share of Internet advertising revenue sold by the four big players is a stark map to the current merger mating game: Google is heading higher while AOL, Yahoo and Microsoft sink.",neutral,0.09257371723651886
+2008-04-11,The Online Ad Story in a Picture,neutral,-0.017702415585517883
+2008-04-12,"The company’s board met Friday to evaluate Microsoft’s takeover bid and other alternatives, and authorized the continuation of meetings with Microsoft and with Time Warner.",neutral,0.18165288865566254
+2008-04-12,"Yahoo, Weighing Options, Keeps Them Open",neutral,0.009130626916885376
+2008-04-14,The two companies are expanding a 10-month-old collaboration in an effort to accelerate their sales of customer management and office software to businesses.,positive,0.881464421749115
+2008-04-14,Google and Salesforce Join to Fight Microsoft,neutral,-0.21887657046318054
+2008-04-16,A look at that deal suggests that the hidden cost of “flight insurance” against employee defections may also be a reason Microsoft has resisted raising its bid.,negative,-0.15353825688362122
+2008-04-16,"For Microsoft, Holding Yahoo Talent May Be Costly",neutral,-0.06333977729082108
+2008-04-16,"Microsoft‘s pursuit of Yahoo, if successful, will come with more than one bill due.",neutral,0.11868811398744583
+2008-04-16,"For Microsoft, Holding Yahoo Talent May Be Costly",neutral,-0.06333977729082108
+2008-04-17,Two researchers warn that the entry of big companies like Microsoft and Google into the field of electronic health records could alter the practice of clinical research and raise new challenges to privacy.,negative,-0.8354508876800537
+2008-04-17,Warning on Storage of Health Records,negative,-0.4720417261123657
+2008-04-17,How do I see embedded comments in Microsoft Word?,neutral,-0.0162030216306448
+2008-04-17,Seeing Comments in Word,neutral,0.05288546532392502
+2008-04-17,"Shareholders, to be sure, will collect their payment, but Microsoft will likely need to offer financial incentives to prevent engineers and managers from hopping to other jobs.",neutral,-0.21011024713516235
+2008-04-17,Extra Cost to Buy Yahoo: Retention Pay,neutral,-0.23020552098751068
+2008-04-18,"Microsoft confirmed Thursday that it has acquired Seattle-based Farecast, a travel site that offers an engine predicting whether airfares for a given route are headed up or down.",positive,0.513271152973175
+2008-04-18,Microsoft Flies Off With Farecast,neutral,-0.09516577422618866
+2008-04-18,"Microsoft could increase its bid for Yahoo by 10 percent without spooking its investors, according to one Wall Street analyst cited by CNet’s News.com.",positive,0.8777459859848022
+2008-04-18,"Microsoft Could Withstand 10% Increase in Yahoo Bid, Analyst Says",positive,0.8830406069755554
+2008-04-18,Microsoft is starting to test a package that includes the home version of Office and its OneCare anti-virus service that it will sell as a subscription.,neutral,0.3426171541213989
+2008-04-18,"The company won’t say how much it wants to charge, so we look at its options including giving the software away free with ads.",neutral,0.03467874974012375
+2008-04-18,How Much Should Microsoft Charge for Its Home Software Subscription?,neutral,-0.013214165344834328
+2008-04-21,"Microsoft has yet to persuade Yahoo to agree to a friendly takeover, but the software company is already hiring lobbyists to help it persuade regulators to let the deal go through, The Associated Press reported.",neutral,0.3443339467048645
+2008-04-21,Microsoft Hires Firm to Lobby for Yahoo Deal,neutral,0.049684301018714905
+2008-04-22,Managing expectations isn’t just for presidential candidates.,neutral,0.005352502688765526
+2008-04-22,"Consider Tuesday’s comments from Steven Ballmer, the chief executive of Microsoft, who was playing it extremely cool ahead of Yahoo‘s much-anticipated earnings report Tuesday afternoon.",neutral,0.014663372188806534
+2008-04-22,Yahoo and the Expectations Game,neutral,0.005306750535964966
+2008-04-23,Yahoo reported a 9 percent first-quarter revenue increase.,positive,0.914642333984375
+2008-04-23,"The news, while positive for the firm, was unlikely to boost its argument that Microsoft’s takeover bid is too low.",positive,0.15149077773094177
+2008-04-23,Yahoo Holds Steady in Economic Slowdown,positive,0.2422066032886505
+2008-04-23,"The new system, called Live Mesh, is Microsoft’s most ambitious step yet in tying its personal computer business more closely to software running in remote data centers.",positive,0.65805584192276
+2008-04-23,Microsoft Reveals a Web-Based Software System,neutral,-0.022994711995124817
+2008-04-23,"Yahoo‘s first-quarter financial results issued Tuesday slightly exceeded Wall Street’s expectations, but analysts said the numbers were not likely to aid Yahoo’s efforts to fend off Microsoft‘s hostile bid or to extract a higher price.",negative,-0.1199890673160553
+2008-04-23,Yahoo’s Results Hold Steady as Microsoft Looms,positive,0.21728387475013733
+2008-04-24,"Microsoft may be struggling to buy Yahoo, but the giant software maker’s current business is humming along smoothly.",positive,0.7124670743942261
+2008-04-24,"Profit Declines, but Microsoft Tops Forecast",negative,-0.953585684299469
+2008-04-24,C’mon Steve.,neutral,0.00546804815530777
+2008-04-24,Now you’re going to have to pay up for Yahoo.,neutral,-0.18021456897258759
+2008-04-24,Commentary: What Microsoft Must Do Next,neutral,0.009718179702758789
+2008-04-24,"Microsoft said that if Yahoo doesn’t submit to its merger proposal by Saturday, it will do something really bad next week.",negative,-0.9458269476890564
+2008-04-24,"That might be going to Yahoo shareholders, abandoning the offer, or even buying AOL or some other Yahoo rival.",neutral,-0.1249035894870758
+2008-04-24,Microsoft’s New Threat to Yahoo: We’ll Buy Someone Else,negative,-0.500576376914978
+2008-04-25,"Microsoft’s pursuit of Yahoo may have run into some bumps, but its big software business is humming along smoothly.",positive,0.7981380820274353
+2008-04-25,"Microsoft Shows Gains, but Also Weaknesses",positive,0.753091037273407
+2008-04-25,"Microsoft continued to talk tough about its takeover feud with Yahoo, even as it reported fourth-quarter results that showed its online business, which trails far behind Google‘s, remains a problem area.",negative,-0.9260957837104797
+2008-04-25,"Although the software giant’s overall results slightly surpassed Wall Street’s expectations, Microsoft’s shares fell 5 percent in after-hours trading.",negative,-0.9656540155410767
+2008-04-25,"Microsoft Talks Tough, But Earnings Show Weakness",negative,-0.004448562860488892
+2008-04-25,"Microsoft keeps insisting that Windows Vista is a winner, but the questions keep mounting — and Thursday’s quarterly report only added to the doubts.",negative,-0.772127628326416
+2008-04-25,Microsoft’s Vista Problem,neutral,0.007738217711448669
+2008-04-29,"The deadline that Microsoft imposed on Yahoo to reach a negotiated merger agreement passed April 26, and the two companies are still not talking.",negative,-0.7205685377120972
+2008-04-29,No Break in the Standoff of Microsoft and Yahoo,negative,-0.7268834114074707
+2008-04-29,"Microsoft is leading the tech industry’s charge up Capitol Hill, according to statistics released Monday.",neutral,0.0745122954249382
+2008-04-29,Microsoft Tops Tech’s Lobby Spenders,positive,0.3920275568962097
+2008-04-29,"The deadline that Microsoft imposed on Yahoo to reach a negotiated merger agreement passed three days ago, and the two companies are still not talking.",negative,-0.7356275916099548
+2008-04-29,No Break in the Standoff of Microsoft and Yahoo,negative,-0.7268834114074707
+2008-04-29,"If Microsoft dropped its bid for Yahoo, it would be admitting it couldn’t really catch up to Google for consumer Web services.",negative,-0.913749635219574
+2008-04-29,"And with $29 billion in the company bank account, Steve Ballmer simply isn’t ready to accept that.",negative,-0.7725979089736938
+2008-04-29,"As a result, it is likely to proceed with its bid for Yahoo despite the many risks.",positive,0.8560639023780823
+2008-04-29,Why Steve Ballmer Will Keep Chasing Yahoo,neutral,0.001848369836807251
+2008-04-30,Three rival teams of computer researchers are working on new types of software needed to better use computer chips that can process many tasks at the same time.,neutral,0.06369063258171082
+2008-04-30,Race Is On to Advance Software for Chips,neutral,0.309333860874176
+2008-04-30,The price of ads plummeted for AOL in the first quarter.,negative,-0.959467887878418
+2008-04-30,Time Warner blames the head of its advertising unit who it fired in March.,negative,-0.8645263910293579
+2008-04-30,"The good news is only 647,000 people canceled their AOL accounts in the quarter, a lower defection rate than it has had in a long time.",negative,-0.9351681470870972
+2008-04-30,AOL’s Blame Game: The Guy We Fired Did It,neutral,-0.17494791746139526
+2008-05-01,Steven A. Ballmer told employees that the company would announce “in very short order” which of three paths it would choose in its three-month-old pursuit of Yahoo.,neutral,0.05311517044901848
+2008-05-01,Microsoft Chief Set to Narrow Pursuit of Yahoo,neutral,-0.08989864587783813
+2008-05-01,"Microsoft’s chief executive, Steven A. Ballmer, is said to be considering boosting his company’s bid to $32 a share, but some at Yahoo want more.",positive,0.8411621451377869
+2008-05-01,Microsoft’s Board Meets on Yahoo Bid,neutral,-0.013717073947191238
+2008-05-02,"After a months-long standoff, Microsoft has increased its offer, people involved in the talks said.",positive,0.9184713363647461
+2008-05-02,Microsoft and Yahoo Are Said to Step Up Talks,neutral,0.03449320048093796
+2008-05-02,Microsoft’s chief executive told employees that the company would announce in “short order” which of three paths it would choose in its pursuit of Yahoo.,neutral,0.021918252110481262
+2008-05-02,Microsoft Outlines Its Yahoo Strategies,neutral,0.011482786387205124
+2008-05-02,"Steven A. Ballmer, Microsoft‘s chief executive, told employees on Thursday that the company would announce in “short order” which of three paths it would choose in its pursuit of Yahoo.",neutral,0.024304749444127083
+2008-05-02,Microsoft Outlines Its Yahoo Strategies,neutral,0.011482786387205124
+2008-05-02,Steve Ballmer told employees he knows exactly what Yahoo is worth and won’t spend a dime more.,neutral,0.04281600937247276
+2008-05-02,"In fact, Microsoft’s bet is so big, and uncertain, that Yahoo will likely be worth far more or far less than the $45 billion Microsoft is offering.",neutral,-0.0011219382286071777
+2008-05-02,Steve Ballmer Wants to Hold On to His Dimes,neutral,0.040227945894002914
+2008-05-02,"After a months-long standoff, Microsoft and Yahoo are in active merger talks, a person involved in the discussions said.",neutral,0.44252586364746094
+2008-05-02,"Finally, Microsoft and Yahoo in Merger Talks",neutral,0.004511591047048569
+2008-05-03,"The companies are in active merger talks, people involved said, and Microsoft is said to have increased its offer.",positive,0.8405991792678833
+2008-05-03,Higher Offer by Microsoft Brings Yahoo to Table,positive,0.7686139345169067
+2008-05-04,Microsoft said Saturday that it was abandoning its blockbuster bid to acquire Yahoo after the two companies could not agree on a price.,negative,-0.8972774744033813
+2008-05-04,(Read Microsoft’s letter here.),neutral,0.03206200525164604
+2008-05-04,Microsoft Withdraws Bid for Yahoo,negative,-0.8393754363059998
+2008-05-04,Talk about a Saturday night special.,neutral,0.07562841475009918
+2008-05-04,"Microsoft said tonight that it is withdrawing its offer to buy Yahoo, one it had only recently raised.",negative,-0.804906964302063
+2008-05-04,Microsoft’s Letter to Yahoo,neutral,0.041859496384859085
+2008-05-04,Microsoft insisted that it would acquire Yahoo only on its own terms.,neutral,0.021841228008270264
+2008-05-04,"Now it said that it will withdraw its offer, after the Internet giant rebuffed a sweetened $33-a-share bid.",negative,-0.9238846302032471
+2008-05-04,Will Microsoft Really Walk?,neutral,0.06182132288813591
+2008-05-04,It has always been a bit of a mystery why Microsoft didn’t immediately go fully hostile on Yahoo after the first round of letters and Yahoo’s initial rejection.,neutral,-0.4358976483345032
+2008-05-04,This would have involved a proxy contest and an exchange offer.,neutral,0.002034854143857956
+2008-05-04,MicroHoo: The End of the Beginning,neutral,-0.13219121098518372
+2008-05-05,"Yahoo‘s second-largest shareholder said in an interview Sunday that he would have considered selling to Microsoft for slightly more than the $33 a share the company offered, yet for less than the $37 a share that Yahoo’s board insisted on.",neutral,-0.08782999217510223
+2008-05-05,A Yahoo Shareholder on What Might Have Been,negative,-0.44260072708129883
+2008-05-05,"“Press reports that major shareholders would have been wiling to take $35 are probably not far off the mark,” said Bill Miller, Yahoo’s second-largest shareholder.",negative,-0.6470442414283752
+2008-05-05,A Yahoo Shareholder on What Might Have Been,negative,-0.44260072708129883
+2008-05-05,"As Yahoo investors wait to see how far their shares will fall after Microsoft withdrew its offer, a Google partnership is being considered as a lifeline.",negative,-0.7597579956054688
+2008-05-05,"After Deal Dies, Yahoo Weighs Its Next Move",neutral,-0.0861244946718216
+2008-05-05,"Without a Yahoo deal, Microsoft faces a problem: its time-tested recipe for success isn’t working against Google.",negative,-0.9372838735580444
+2008-05-05,Microsoft’s Failed Yahoo Bid Risks Online Growth,negative,-0.8933724164962769
+2008-05-05,Yahoo’s shares closed down 15 percent on the first day of trading after Microsoft’s takeover bid fell through.,negative,-0.9602890014648438
+2008-05-05,Yahoo Stock Plunges After Microsoft Backs Off,negative,-0.938802182674408
+2008-05-05,The free downloadable software can index all of your Outlook e-mail and make messages quickly and easily searchable.,neutral,0.017466804012656212
+2008-05-05,"If You Use Outlook E-Mail, Meet Xobni",neutral,-0.010649466887116432
+2008-05-05,"Shortly after Microsoft announced its hostile bid for Yahoo, Google objected and raised the prospect that it would lobby government regulators to block any merger.",negative,-0.9070329666137695
+2008-05-05,How Google’s Checkbook Stymied Microsoft,negative,-0.4686861038208008
+2008-05-05,"While it’s still unclear how Yahoo shareholders will react to management’s decision to spurn Microsoft‘s sweetened $33 per-share bid, Alibaba.com shareholders have already made their feelings clear.",neutral,-0.07831163704395294
+2008-05-05,Alibaba Takes A Dive After Microsoft Pulls Yahoo Bid,negative,-0.8737558126449585
+2008-05-05,"Steven A. Ballmer, Microsoft‘s chief executive, walked away from a Yahoo deal on Saturday still looking for an answer to his company’s fundamental problem: its time-tested recipe for success isn’t working against Google, the leader in the current wave of Internet computing.",negative,-0.9283158183097839
+2008-05-05,A Step Back for Microsoft,neutral,-0.03846588730812073
+2008-05-05,Yahoo’s shares fell by 20 percent when they opened for trading Monday morning.,negative,-0.9627721309661865
+2008-05-05,"The merger speculators bailed out, but the question remains who would want to buy the company shares after what they saw of its management over the last three months?",neutral,-0.28944146633148193
+2008-05-05,Who Is Buying Yahoo Shares Today?,neutral,0.029496394097805023
+2008-05-05,Some of Jerry Yang’s top lieutenants at Yahoo reportedly cheered on Saturday when Microsoft pulled its unsolicited bid for the company.,negative,-0.7578455209732056
+2008-05-05,"But Mr. Yang’s net worth is taking a hit as a result: The market value of his 3.9 percent Yahoo stake plunged by more than $300 million Monday morning, as much of the premium in Yahoo’s stock evaporated.",negative,-0.9622543454170227
+2008-05-05,Yahoo Stock Falls 20% in Early Trading,negative,-0.9633329510688782
+2008-05-05,"Now that Microsoft has abandoned its pursuit of Yahoo, both of those companies are now considering other acquisitions.",neutral,-0.02955351583659649
+2008-05-05,"Likely targets include AOL, which has a big position in online display advertising, and Facebook, which has a huge and growing audience.",neutral,0.27561527490615845
+2008-05-05,"Now in Play: AOL, Facebook and Many Others",neutral,-0.00039318203926086426
+2008-05-06,Yahoo may look like the big loser.,negative,-0.6747714281082153
+2008-05-06,"But here’s a lesson for Microsoft: When you make an unsolicited offer, be prepared to win.",neutral,0.10147685557603836
+2008-05-06,How Not to Make a Deal,neutral,-0.2487604320049286
+2008-05-06,"With both Ford and Hyundai as customers, Microsoft’s software could potentially be put into more than eight million vehicles worldwide each year.",neutral,0.1621806025505066
+2008-05-06,Microsoft to Put Voice-Activation Software in Hyundais,neutral,0.06731066852807999
+2008-05-06,Google played the odd dual role of unwitting matchmaker and self-interested spoiler in the failed marriage.,neutral,-0.24282467365264893
+2008-05-06,Google Ends Microsoft’s Yahoo Search,negative,-0.6839470267295837
+2008-05-06,Jerry Yang said Yahoo was open to Microsoft all along but said he felt that the company he co-founded was simply worth more than what Microsoft put on the table.,neutral,0.06523852050304413
+2008-05-06,Yahoo Chief Says Microsoft Was the Stubborn One,negative,-0.7418600916862488
+2008-05-06,The denouement of the Microsoft–Yahoo saga is something many didn’t necessarily expect: The software giant walked away.,negative,-0.5701413154602051
+2008-05-06,"It prompted many questions, including why Microsoft walked, whether Yahoo should be applauded and who ultimately won.",neutral,-0.3065440058708191
+2008-05-06,DealBook on the End of Microsoft-Yahoo,neutral,0.056650273501873016
+2008-05-06,People involved in relationships that end abruptly often have grossly conflicting accounts of what went wrong.,negative,-0.8854270577430725
+2008-05-06,"On Monday, Jerry Yang gave his version.",neutral,0.028353769332170486
+2008-05-06,Yahoo Chief Says Microsoft Was the Stubborn One,negative,-0.7418600916862488
+2008-05-06,"When Microsoft was threatening to go hostile in its Yahoo bid, Google appeared close to a deal.",neutral,0.238761767745018
+2008-05-06,"Now that Microsoft has pulled its offer, things appear to have cooled considerably.",negative,-0.9347183704376221
+2008-05-06,Yahoo-Google Deal Said to Move to Back Burner,neutral,-0.06893013417720795
+2008-05-06,Microsoft and Yahoo were pushed to the brink of a multibillion-dollar marriage and then to a sudden breakup this weekend by the same player.,negative,-0.7676600217819214
+2008-05-06,And the Winner Is…Google,neutral,0.1876000463962555
+2008-05-06,"After Microsoft pulled its offer, Yahoo may look like the big loser, but for Microsoft, this has been a remarkable lesson in how not to do a deal, Andrew Ross Sorkin writes in his latest DealBook column in The New York Times.",neutral,0.391559898853302
+2008-05-06,Microsoft’s Lesson in How Not to Make a Deal,neutral,0.15394911170005798
+2008-05-06,Microsoft is the latest company to get into the business of television downloads.,neutral,0.05042342469096184
+2008-05-06,Zune’s Advantage over iPod: Content from NBC,neutral,0.0959775373339653
+2008-05-07,"NBC Universal will sell its TV shows through Microsoft’s new Zune video store, but won’t sell them through Apple’s iTunes.",neutral,-0.0026815831661224365
+2008-05-07,"One reason, NBC says, is that Microsoft is developing a system to block pirated videos from playing on the Zune.",neutral,-0.021307609975337982
+2008-05-07,Microsoft May Build a Copyright Cop Into Every Zune,neutral,0.007445488125085831
+2008-05-07,"Since Microsoft formally pulled its bid for Yahoo over the weekend, Wall Street and Silicon Valley have been parsing every comment and reading every tea leaf in hopes of figuring out whether a deal is still possible.",neutral,-0.38200727105140686
+2008-05-07,Analysts Return to Yahoo: Bad Omen for a Deal?,negative,-0.5603296160697937
+2008-05-07,"The big software maker is asking computer users to add  parts to a short film, called ""The Cube.""",neutral,0.0500670000910759
+2008-05-07,Microsoft Seeks Filmmakers,neutral,0.07209888845682144
+2008-05-08,You can save electricity by setting your computer’s monitor to turn off automatically after a few minutes of inactivity.,neutral,-0.03092855028808117
+2008-05-08,Tip of the Week: Saving a Little Bit of the Earth,neutral,0.1498018056154251
+2008-05-08,Microsoft Corporation is underwriting an online movie-making contest to stimulate sales and burnish the reputation of its Windows Vista operating system.,positive,0.700427770614624
+2008-05-08,Your Chance to Finish a Movie Microsoft Started,neutral,0.0454593151807785
+2008-05-08,I’d like to convert text in an e-mail message from capital letters to standard uppercase and lowercase letters.,neutral,0.24596558511257172
+2008-05-08,"Is there a way to do this, or am I stuck retyping?",neutral,-0.010609179735183716
+2008-05-08,How to Convert Uppercase Text,neutral,0.03018036298453808
+2008-05-08,"In the wake of its failed $47.5 billion takeover bid for Yahoo, Microsoft apparently sent a calling card to Facebook, the social networking site, to see if it might be up for a deal.",neutral,-0.14364570379257202
+2008-05-08,"Looking for a Deal, Microsoft Said to Feel Out Facebook",neutral,0.0998460128903389
+2008-05-08,How to get Microsoft Office Ultimate costing $680 for $60.,neutral,0.03258242458105087
+2008-05-08,And you don’t really have to be a student.,neutral,0.018671642988920212
+2008-05-08,How to Get Microsoft Office at 91 Percent Off,neutral,0.027062661945819855
+2008-05-08,Google executives answer (some) questions about the Yahoo-Microsoft meltdown at a meeting with reporters.,neutral,-0.017963353544473648
+2008-05-08,"Google: We Like Yahoo, and We Like It Independent",neutral,0.24518300592899323
+2008-05-09,"Microsoft continued to distance itself from Yahoo on Thursday, telling the people it had lined up to nominate to the board as part of a prospective hostile takeover battle that their services were no longer needed, according to The Los Angeles Times.",negative,-0.9364776015281677
+2008-05-09,"Microsoft Disbands Yahoo Board Nominees, Report Says",negative,-0.6969591379165649
+2008-05-09,This week’s chatter that Microsoft may have approached Facebook to discuss a possible takeover has created quite a buzz.,positive,0.6178886294364929
+2008-05-09,But maybe Microsoft should be inquiring about getting a partial rebate on its $240 million investment instead.,positive,0.4116175174713135
+2008-05-09,Did Microsoft Overpay for Its Facebook Stake?,neutral,-0.10846240818500519
+2008-05-09,Facebook is matching new features from MySpace that will let users bring information from their profiles onto other sites.,positive,0.603046178817749
+2008-05-09,"It is also reviving another idea: the possibility of a universal logon, an idea tried unsuccessfully years ago by Microsoft.",neutral,0.4190162122249603
+2008-05-09,Can Facebook Build a Better Passport?,positive,0.7107780575752258
+2008-05-10,Microsoft asked Europe’s second-highest court to overturn or reduce a record fine of 899 million euros ($1.4 billion) from the European Union.,negative,-0.8866109848022461
+2008-05-10,Microsoft Appeals $1.4 Billion Fine by Europe,negative,-0.8753546476364136
+2008-05-12,Webdenda.,neutral,0.004875680431723595
+2008-05-12,People and Accounts of Note,neutral,0.0014222487807273865
+2008-05-12,Microsoft asked Europe’s second-highest court to overturn or reduce a record fine of 899 million euros ($1.4 billion) from the European Union.,negative,-0.8866109848022461
+2008-05-12,Microsoft Appeals $1.4 Billion Fine by Europe,negative,-0.8753546476364136
+2008-05-12,Yahoo‘s Jerry Yang may be happy that Microsoft has walked away.,negative,-0.6413904428482056
+2008-05-12,But plenty of investors in the Internet company he co-founded and runs aren’t.,neutral,-0.06823840737342834
+2008-05-12,Yahoo’s Unhappy Shareholders,negative,-0.7137085199356079
+2008-05-14,Carl C. Icahn is considering a proxy fight for seats on Yahoo’s board in hopes of pushing the company to restart talks to sell itself to Microsoft.,neutral,-0.32165902853012085
+2008-05-14,Icahn Is Said to Weigh a Proxy Fight at Yahoo,negative,-0.4588261842727661
+2008-05-14,"As news surfaced that Carl C. Icahn may go on the warpath at Yahoo, questions turned to what kind of support the billionaire investor and activist shareholder could expect — both from Microsoft and Yahoo shareholders alike.",neutral,0.07295012474060059
+2008-05-14,Will Yahoo Shareholders Get Behind Icahn?,neutral,-0.1563451588153839
+2008-05-15,"Carl Icahn rarely minces words, and his blunt talk was on full display Thursday in a letter to the chairman of Yahoo‘s board, Roy Bostock.",neutral,-0.11590733379125595
+2008-05-15,"In the letter, Mr. Icahn formally announced his intention to seek the ouster of the Web giant’s board unless it moved quickly to restart talks to be acquired by Microsoft.",neutral,-0.21272775530815125
+2008-05-15,Icahn Says Yahoo ‘Completely Botched’ Microsoft Talks,negative,-0.8221251368522644
+2008-05-16,"After years of conflict, Microsoft and the computing and education project One Laptop Per Child have reached an agreement that will put Windows on the organization’s computers.",positive,0.8419824838638306
+2008-05-16,Microsoft Joins Effort for Laptops for Children,positive,0.5587987303733826
+2008-05-16,Yahoo’s chairman rejected accusations from the billionaire investor Carl C. Icahn that the company’s board had acted irrationally in rejecting a $47.5 billion takeover offer from Microsoft.,negative,-0.816496729850769
+2008-05-16,Yahoo’s Chairman Disputes Icahn’s Accusations,negative,-0.646553635597229
+2008-05-16,"Following is the text of a letter sent by the billionaire investor, Carl Icahn, to the chairman of Yahoo, Roy Bostock, on Thursday in which Mr. Icahn announced plans to start a proxy fight for Yahoo.",neutral,0.02746744640171528
+2008-05-16,Text of Icahn’s Letter to Yahoo Board,neutral,0.03216017410159111
+2008-05-16,"Yahoo‘s chairman, Roy Bostock, rejected late Thursday accusations from the billionaire investor Carl C. Icahn that the company’s board had acted irrationally in turning down a $47.5 billion takeover offer from Microsoft and repeated that Yahoo remained open to a deal at the right price.",negative,-0.7516903877258301
+2008-05-16,Yahoo Chairman Fires Back at Icahn,negative,-0.8596475124359131
+2008-05-18,"Microsoft has proposed a complex new deal with Yahoo that would involve collaboration between their online advertising businesses but would not involve a full takeover, Microsoft said on Sunday.",positive,0.5008003115653992
+2008-05-18,Surprise!,neutral,0.10942143201828003
+2008-05-18,Microsoft Proposes New Deal to Yahoo,neutral,0.0976293757557869
+2008-05-19,"Microsoft has made a complex proposal that would involve collaboration in the online advertising business but would not involve a full takeover, the company said on Sunday.",neutral,0.3983808159828186
+2008-05-19,"In Reversal, Microsoft Proposes New Deal to Yahoo",neutral,0.1912444680929184
+2008-05-19,"Fighting Google, Microsoft has approached Yahoo with a narrower aim: a collaboration on Internet advertising.",neutral,0.04328826442360878
+2008-05-19,Pursuit of Yahoo Shows Microsoft Needs a Franchise,neutral,0.0903359204530716
+2008-05-19,"Facebook founder and chief executive Mark Zuckerberg stressed the company’s independence on Monday, after a report the Website might be sold to Microsoft.",neutral,0.03433404862880707
+2008-05-19,Zuckerberg Says Facebook Wants to Stay Independent,neutral,0.03202831745147705
+2008-05-19,"Two weeks after walking away from takeover talks with Yahoo, Microsoft made clear on Sunday that it still needed to create an Internet powerhouse that could rival Google – and that its interest in Yahoo had not waned.",positive,0.5051150918006897
+2008-05-19,Microsoft Renews Pursuit of Yahoo,neutral,0.10403388738632202
+2008-05-19,Now that Microsoft has resumed its amorous pursuit of Yahoo — ostensibly seeking less than a full takeover deal this time — it could be a good time to review some of the steps taken in the contest and our thinking throughout:,neutral,0.08237410336732864
+2008-05-19,MicroHoo: A Half-Time Report,neutral,-0.004948850721120834
+2008-05-19,Yahoo wants Google’s cash now and Microsoft’s share of the search business for the long run.,neutral,0.05667278915643692
+2008-05-19,It might be well served to do deals with both of them.,neutral,0.05638354271650314
+2008-05-19,Google or Microsoft: Yahoo Should Pick Both,neutral,0.056732237339019775
+2008-05-19,Microsoft‘s latest overture to Yahoo has raised a lot of questions about what exactly it wants from the new round of negotiations.,neutral,-0.10104964673519135
+2008-05-19,What we do know for sure from the statement it issued Sunday is that Microsoft isn’t currently pursuing an acquisition of all of Yahoo.,neutral,-0.005740189924836159
+2008-05-19,"That leaves all kinds of other possibilities, including joint ventures, partnerships or a deal to acquire just a piece of Yahoo.",neutral,0.03593539074063301
+2008-05-19,What Does Microsoft Want?,neutral,0.020679723471403122
+2008-05-19,"While there’s no denying that Xbox 360 is the first to sell the 10 million consoles, it isn’t going to hold the bragging rights for much longer.",neutral,0.06145547330379486
+2008-05-19,And the Winner of the Game Console Wars Is….,neutral,0.10354378819465637
+2008-05-20,"Under its latest proposal to Yahoo, Microsoft would buy its search business and take a stake in the company, people briefed on the negotiations said Monday.",neutral,0.1046106144785881
+2008-05-20,Details of Microsoft Offer to Yahoo,neutral,0.059646330773830414
+2008-05-20,"Fighting Google, Microsoft has approached Yahoo with a narrower aim: a collaboration on Internet advertising.",neutral,0.04328826442360878
+2008-05-20,"Pursuing Yahoo, Microsoft Shows Need for Web Franchise",neutral,0.1824529618024826
+2008-05-20,"Carl Icahn, the corporate raider turned activist investor, is gambling to bring Microsoft back to the bargaining table and buy Yahoo.",neutral,0.04197491705417633
+2008-05-20,"A Gamble, but What if He Wins?",neutral,-0.06316812336444855
+2008-05-20,"Under its latest proposal to Yahoo, Microsoft would buy its search business and take a stake in the company, The New York Times reported Tuesday, citing people briefed on the negotiations.",neutral,0.09629497677087784
+2008-05-20,Details of Microsoft’s Yahoo Search Offer Emerge,neutral,0.0395096056163311
+2008-05-20,"At Microsoft’s advertising conference in Redmond, the elephant in the room is Yahoo — for the second year in a row.",neutral,-0.20489248633384705
+2008-05-20,Microsoft’s Yahoo-less Advertising Conference,neutral,-0.0657794177532196
+2008-05-21,"In an attempt to attract more users, Microsoft is introducing a new rebate service for shoppers who find products through its search engine.",positive,0.6520177125930786
+2008-05-21,Microsoft Searching for Users With Rebates,neutral,-0.04576711729168892
+2008-05-22,"Under pressure from European regulators and others, Microsoft was expected to say it will give customers the ability to use documents in Open Document Format — the main rival to the Microsoft Word format.",positive,0.7872567176818848
+2008-05-22,Open-Source File Format Is to Be a Part of Microsoft Office,neutral,0.02112613618373871
+2008-05-22,Microsoft is taking a new approach to jump-starting its search engine: offering rebates to people who use it to find and buy some products.,positive,0.49858689308166504
+2008-05-22,Microsoft Offers Rebates to Shoppers Using Its Search,neutral,0.0969911739230156
+2008-05-22,Sun Microsystems‘ acquisition of MySQL gave it a chunk of the huge enterprise database market.,positive,0.5070810317993164
+2008-05-22,"The 451 Group takes a look at how Oracle, IBM and Microsoft might respond with more deal activity of their own.",neutral,0.08417494595050812
+2008-05-22,More Deals for Enterprise Database Companies?,neutral,0.0864124447107315
+2008-05-22,"Microsoft has too much money and not enough customers, so why not pay people to use its services?",neutral,-0.2638317048549652
+2008-05-22,"Sometimes this works, but it may not help Microsoft much in its battle with Google.",negative,-0.3058229088783264
+2008-05-22,Microsoft Should Know Money Can’t Buy Love,neutral,0.03282429277896881
+2008-05-24,"The decision appears to be a sign that Microsoft is retrenching in some areas of Internet search in the face of competition from Google, the industry leader.",positive,0.8183562159538269
+2008-05-24,Microsoft Will Shut Down Book Search Program,negative,-0.7311867475509644
+2008-05-27,"Google refuses to put a link to its privacy policy on its home page, challenging the standards of an advertising industry self-regulatory group it wants to join.",negative,-0.8654402494430542
+2008-05-27,Google Fights for the Right to Hide Its Privacy Policy,negative,-0.5336050987243652
+2008-05-27,Walter Bender left One Laptop Per Child in April and speaks out on Microsoft joining the effort.,neutral,-0.21379417181015015
+2008-05-27,"“Microsoft stepping in is the symptom, not the disease,” he said in the interview.",neutral,-0.1972370743751526
+2008-05-27,"The issue, in his view, is whether the tools that bring computing to children are “agnostic on learning” or “take a position on learning.” Mr. Bender said.",neutral,0.018333636224269867
+2008-05-27,Why Walter Bender Left One Laptop Per Child,neutral,-0.29788872599601746
+2008-05-28,"Yahoo finally looks ready to do a deal, according to BusinessWeek, which cited people familiar with the situation.",positive,0.46007078886032104
+2008-05-28,"Pressure from large shareholders, including Carl C. Icahn and hedge fund Paulson & Company, has persuaded Yahoo to work out a transaction with Microsoft, or alternatively, with Google, according to the magazine.",positive,0.7013735771179199
+2008-05-28,"A Deal For Yahoo May Be Nigh, Report Says",neutral,-0.0145392045378685
+2008-05-28,"Microsoft‘s attempts to strike a deal with Yahoo is an “accelerator” of its online strategy, but not the sole answer to advancing its Internet vision, the company’s top software executive said on Wednesday.",positive,0.5671553015708923
+2008-05-28,Microsoft Executive Says Yahoo Would ‘Accelerate’ Online Plans,positive,0.6128759980201721
+2008-05-29,Which Harvard dropout was more creative during his time at the university: Bill Gates or Mark Zuckerberg?,neutral,-0.11149094998836517
+2008-05-29,Who’s Smarter: Bill Gates or Mark Zuckerberg?,neutral,-0.08947495371103287
+2008-05-29,The autofill feature of your spreadsheet program is a great way to save your hands from having to type common sets of data.,neutral,0.048199232667684555
+2008-05-29,Tip of the Week: Using Autofill for Your Spreadsheet,neutral,-0.05777547508478165
+2008-05-29,"I want to reformat and wipe out the hard drive in my old PC before I give it to a friend, but I can’t find the original Windows discs that came with it.",negative,-0.7247868776321411
+2008-05-29,What can I do?,neutral,-0.09588344395160675
+2008-05-29,New Life for an Old PC,neutral,0.05161765217781067
+2008-05-29,My Web browser is not showing the images on certain Web sites.,neutral,-0.07038509100675583
+2008-05-29,How can I fix this?,neutral,0.04611549526453018
+2008-05-29,Coaxing Images From a Browser,neutral,0.02062954753637314
+2008-05-29,"Yahoo‘s chief executive, Jerry Yang, said on Wednesday a potential deal with Microsoft has “tremendous power,” but the software giant appears no longer interested in a full merger.",neutral,0.047399282455444336
+2008-05-29,Yahoo’s Yang: Full Microsoft Bid Now Seems Unlikely,neutral,0.08513081073760986
+2008-05-30,Microsoft and Yahoo seem to hang out in all the same places but somehow keep missing each other.,neutral,-0.06839269399642944
+2008-05-30,That’s turned speculation over what it will take to get the two of them together into something of a C.E.O.,neutral,-0.3844796419143677
+2008-05-30,parlor game.,neutral,0.020638853311538696
+2008-05-30,Yahoo-Microsoft: The Parlor Game,neutral,-0.052074532955884933
+2008-06-01,"Jim Gray, a legendary computer scientist at Microsoft and I.B.M.",neutral,0.033913858234882355
+2008-06-01,"who disappeared at sea in January 2007, was remembered by hundreds of friends and colleagues Saturday at a day-long tribute at UC Berkeley.",neutral,-0.16605427861213684
+2008-06-01,An endowed professorship in computer science is being established in his honor.,neutral,0.09894059598445892
+2008-06-01,A Tribute to Jim Gray: Sometimes Nice Guys Do Finish First,neutral,-0.012878745794296265
+2008-06-03,The lawsuit against Yahoo’s board over its rebuff of Microsoft’s $47.5 billion buyout bid was made public by a judge who said that Yahoo had not shown good reason to keep it confidential.,negative,-0.8795822262763977
+2008-06-03,Lawsuit Criticizes Yahoo Retention Plan,negative,-0.7679113745689392
+2008-06-04,"MSN said that it had signed an agreement with BermanBraun, a Los Angeles production company, to develop and maintain an entertainment-focused Web site.",positive,0.8992226719856262
+2008-06-04,MSN Looks to Hollywood for New Site,neutral,0.034829434007406235
+2008-06-04,"The billionaire investor Carl C. Icahn vowed to remove Jerry Yang, Yahoo’s chief executive, if he succeeds in replacing the company’s board with his own slate of directors.",negative,-0.7744759321212769
+2008-06-04,Icahn Wants New Chief for Yahoo,neutral,0.009641466662287712
+2008-06-04,Who knows whether or not Microsoft and Yahoo will ever merge.,neutral,-0.027414919808506966
+2008-06-04,"In the meantime, investment bankers might consider cruising eBay for their next assignment.",neutral,0.04829111695289612
+2008-06-04,"The online auction site has money in the bank, a unit it may want to sell and a track record of growing through acquisitions.",neutral,0.14941547811031342
+2008-06-04,Will eBay Go Shopping?,neutral,0.050659000873565674
+2008-06-04,Carl Icahn ratchets up his campaign against Yahoo’s directors with withering criticism of their failure to sell the company to Microsoft.,negative,-0.8740255236625671
+2008-06-04,Icahn Rattles Yahoo’s Cage (Again),neutral,-0.22951346635818481
+2008-06-05,"In the shadow of talks with Microsoft, Yahoo attempts to shape its own image by announcing new advertising deals with Wal-Mart Stores, CBS, and Havas Digital.",neutral,0.11340489238500595
+2008-06-05,Yahoo Tries to Move Past Takeover Status,neutral,0.05447051674127579
+2008-06-06,"Carl Icahn said that Yahoo should offer to sell itself to Microsoft for nearly $49.5 billion and laid out his plan for the company, where he to succeed in taking control of it.",neutral,0.18948246538639069
+2008-06-06,"Interestingly, Yahoo didn’t say the price was too low.",neutral,0.04144543409347534
+2008-06-06,Icahn vs. Yahoo: The Latest Exchange,neutral,-0.05343545973300934
+2008-06-07,"Microsoft is closing Windows Live Expo, the classified advertising Web site that was initially seen as a potential competitor to Craigslist.",negative,-0.8631563782691956
+2008-06-07,Microsoft Is Closing a Classified Ad Site,negative,-0.6768483519554138
+2008-06-10,"An employee severance plan put in place by Yahoo to protect workers after a merger with Microsoft could skew the outcome of a proxy battle, a lawsuit says.",negative,-0.9514939785003662
+2008-06-10,Yahoo Shareholders Seek Repeal of Severance Plan,neutral,-0.30581653118133545
+2008-06-10,Kaiser Permanente is endorsing the drive toward consumer-controlled personal health records in a partnership with Microsoft.,positive,0.7091500163078308
+2008-06-10,Kaiser Backs Microsoft Patient-Data Plan,negative,-0.3853190541267395
+2008-06-10,"An employee severance plan put in place by Yahoo to protect workers after a merger with Microsoft should be rescinded immediately, according to a brief filed by plaintiffs in a shareholder lawsuit against Yahoo and its directors.",negative,-0.9222110509872437
+2008-06-10,Yahoo Shareholders Seek Repeal of Severance Plan,neutral,-0.30581653118133545
+2008-05-02,"Four years after purchasing Esperion Therapeutics, a company focused on the discovery and development of compounds for cardiovascular and metabolic disease, Pfizer is selling the Ann Arbor, Mich.-based firm to an entity funded by a group of investors.",neutral,0.021661406382918358
+2008-05-02,Esperion Raises $22.8 Million After Pfizer Spin-Out,positive,0.536094605922699
+2008-05-03,"Pfizer has begun negotiating settlements with individual plaintiff’s firms over its Celebrex and Bextra painkillers, a New York lawyer said.",positive,0.7459267973899841
+2008-05-03,Pfizer Begins Settling Painkiller Cases,neutral,0.08485069125890732
+2008-04-07,The campaign is indicative of efforts by mainstream marketers to alter their media mixes as consumers change their media habits.,neutral,0.14401419460773468
+2008-04-07,BMW Turns to the Web for Its 1-Series,neutral,0.004338942468166351
+2008-05-10,"The importance of brand in sales raises the question of the market’s future stability as sales of perfume, a product that has few cultural roots in China, have recently risen exponentially.",positive,0.8035639524459839
+2008-05-10,Fragrance Market Is Establishing a Foothold in China,positive,0.6689748764038086
+2008-05-24,"In a recent conversation, A.G. Lafley, the chief executive of Procter & Gamble, elaborated on his views about innovation — and on why a chief executive would become an author.",neutral,0.043239742517471313
+2008-05-24,Changing the Game With Innovations,neutral,0.038714244961738586
+2008-06-04,J.M.,neutral,0.05378586798906326
+2008-06-04,"Smucker Company said Wednesday it would buy the Folgers coffee business from Procter & Gamble in a stock deal it valued at about $3.3 billion, including the assumption of about $350 million of Folgers debt.",neutral,0.09828254580497742
+2008-06-04,Smucker Shines to Folgers’ Crystals,neutral,0.22288474440574646
+2008-06-05,The maker of jams and jellies announced agreed to buy the Folgers unit from Procter & Gamble for $2.95 billion in stock.,neutral,0.1280006468296051
+2008-06-05,Smucker to Pay $3 Billion for Folgers Coffee,neutral,0.021557971835136414
+2008-04-02,Apple stores are sold out of iPhones.,negative,-0.6246659755706787
+2008-04-02,Some analysts see signs of a new model coming.,neutral,0.3909864127635956
+2008-04-02,But one says Apple is simply favoring AT&T stores in order to lift its reported first-quarter sales.,positive,0.07959356904029846
+2008-04-02,The iPhone Shortage,neutral,0.024504423141479492
+2008-04-03,LG cellphone engineers spend hours weekly driving around the country to test what kind of reception LG phones have on various networks.,neutral,0.04514152556657791
+2008-04-03,LG Tests Togetherness — and Cellphones,neutral,0.04194427281618118
+2008-04-06,"Experts predict that “target-date funds,” all-in-one portfolios that invest in a mix of stocks, bonds and cash, will be popping up in more 401(k) plans this year.",neutral,0.1005721315741539
+2008-04-06,New Rules May Help Target-Date Funds,neutral,0.48244336247444153
+2008-04-06,"While recent economic turmoil may suggest dim prospects for bonds and bond funds, analysts say municipal bonds and low-quality corporate bonds hold good value now.",neutral,0.1136046051979065
+2008-04-06,"Amid the Upheaval, Opportunity in Bonds",neutral,0.3662570118904114
+2008-04-10,"David W. Dorman, former chief executive of AT&T, will become chairman of Motorola next month as the struggling company tries to fix its slumping fortunes by splitting in two.",neutral,-0.41660064458847046
+2008-04-10,Ex-Chief Executive at AT&T to Be Motorola’s Chairman,neutral,0.004608720541000366
+2008-04-19,"Most of the reductions apply to the local phone business, which lost 1.6 million residential lines last year as customers switched to cable and wireless phone service.",negative,-0.9498283267021179
+2008-04-19,"Managers Among 4,650 Losing AT&T Jobs",negative,-0.8996086120605469
+2008-04-21,"CNBC interviews Richard T. Clark, chief executive of Merck, on his company's earnings.",neutral,0.06941632926464081
+2008-04-21,Merck's Chief Discusses Earnings,neutral,0.0012102797627449036
+2008-04-22,"Earnings met expectations, as AT&T’s wireless business continued to grow fast enough to make up for its shrinking traditional service.",positive,0.924272358417511
+2008-04-22,Wireless Unit Lifts AT&T Profit 22%,negative,-0.425588995218277
+2008-04-23,"Earnings met expectations, as AT&T’s wireless business continued to grow fast enough to make up for its shrinking traditional service.",positive,0.924272358417511
+2008-04-23,Wireless Business Helps AT&T’s Profit Climb 22%,positive,0.7537224292755127
+2008-04-23,"For telephone users, AT&Ts latest talk with investors had mixed news: it is building a new high speed wireless network.",negative,-0.754124641418457
+2008-04-23,"But its profit margins are growing, as lower competition reduces pressure to keep prices low.",positive,0.8869469165802002
+2008-04-23,The Network That AT&T’s Growing Profits Will Buy,positive,0.7024442553520203
+2008-04-28,"Verizon says that until its recent $99 unlimited voice wireless plan, only 4 percent of customers chose to pay $99 or more.",neutral,0.03230298310518265
+2008-04-28,Now it’s getting 13 percent of its customers at that level.,neutral,0.22219014167785645
+2008-04-28,AT&T last week reported a similar shift.,neutral,0.008514970541000366
+2008-04-28,Verizon Shows How to Make Money by Cutting Prices,neutral,0.02097620815038681
+2008-04-29,A report says AT&T will subsidize the new iPhone model to sell it for $199.,neutral,0.09039980173110962
+2008-04-29,What it doesn’t say is whether monthly data fees will rise at the same time.,neutral,0.2656153738498688
+2008-04-29,The $199 iPhone?,neutral,-0.07178378105163574
+2008-04-29,Something’s Missing From the Picture,negative,-0.5739079117774963
+2008-05-01,"Associated Press: “AT&T Inc. is launching its new video service for cell phones Sunday on two phones, and will charge $15 per month for 10 channels.",neutral,0.13959109783172607
+2008-05-01,"AT&T Mobile TV is almost identical to Verizon Wireless’ V Cast Mobile TV, and is operated by the same company, Qualcomm Inc.”",neutral,0.04222257062792778
+2008-05-01,"AT&T Launches TV Service on Cell Phones, Rivaling Verizon",positive,0.8157317638397217
+2008-05-05,"Tiny TV, the kind that is watched on a cellphone, is spreading beyond Japan and South Korea, where it has been available for three years.",neutral,0.1248536929488182
+2008-05-05,But will it be profitable?,neutral,0.08748971670866013
+2008-05-05,Mobile TV Spreading in Europe and to the U.S.,neutral,0.11202540993690491
+2008-05-07,"Cisco, a bellwether stock for the technology industry, reported that net income in its third quarter declined 5.4 percent, to $1.8 billion, but that revenue rose 10 percent.",negative,-0.9645971655845642
+2008-05-07,"Cisco Sales Top Lowered Forecast, and Profit Declines",negative,-0.959354043006897
+2008-05-07,"In its effort to crack down on people who are very heavy users of file sharing systems, Comcast is considering limiting the bandwidth use of its Internet customers.",neutral,-0.1118050366640091
+2008-05-07,But the limit it is proposing — 250 gigabytes — is so large it would allow users to watch 11 hours of Internet video each day.,neutral,0.05743255838751793
+2008-05-07,Comcast’s Near-Unlimited Bandwidth Limits,neutral,0.0007544383406639099
+2008-05-09,"The Advertising column on Wednesday, about the effect of a racehorse’s death at this year’s Kentucky Derby on Yum Brands, one of the race’s sponsors, misidentified the location of the corporate headquarters of United Parcel Service, a sponsor of the winning horse, Big Brown.",negative,-0.8185973763465881
+2008-05-09,"It is Atlanta — not Louisville, Ky., site of U.P.S.’s air hub.",neutral,-0.058938853442668915
+2008-05-09,CORRECTIONS: FOR THE RECORD,neutral,-0.10978783667087555
+2008-05-09,IPhone customers found free Wi-Fi access at Starbucks and other AT&T hotspots.,positive,0.5002614855766296
+2008-05-09,Then they didn’t.,neutral,-0.3097766935825348
+2008-05-09,AT&T’s Web site promised free Wi-Fi.,neutral,0.19073127210140228
+2008-05-09,Then it didn’t.,negative,-0.41731512546539307
+2008-05-09,"AT&T is likely going to offer free Wi-Fi, but it is mum about when the teasing will stop.",neutral,-0.02607506327331066
+2008-05-09,AT&T’s Wi-Fi Tease for iPhone Users,neutral,0.0362357497215271
+2008-05-12,Webdenda.,neutral,0.004875680431723595
+2008-05-12,People and Accounts of Note,neutral,0.0014222487807273865
+2008-05-16,Digital sub-channels have not exactly been raving successes.,neutral,0.02037094533443451
+2008-05-16,So the broadcasters would love to find something else to do with their additional spectrum.,neutral,0.06393130123615265
+2008-05-16,"One solution may soon appear next year in the form of mobile television technology, a system that will allow you to watch digital TV while you’re on the move, using a PDA, cell phone, or your laptop.",neutral,0.32232505083084106
+2008-05-16,TV at 140 Miles an Hour,neutral,-0.06147105246782303
+2008-05-19,"Nearly half of iPhone users changed carriers in order to use the device, according to a survey.",neutral,-0.04072915017604828
+2008-05-19,IPhone’s Hold on Users Not Exclusive,neutral,-0.37529170513153076
+2008-05-20,"AT&T and Vodafone may be circling China’s Huawei, according to media reports cited by CNet’s News.com.",negative,-0.6979888081550598
+2008-05-20,Bidders Said to Circle Huawei’s Handset Unit,neutral,0.03465822711586952
+2008-05-27,Walter Bender left One Laptop Per Child in April and speaks out on Microsoft joining the effort.,neutral,-0.21379417181015015
+2008-05-27,"“Microsoft stepping in is the symptom, not the disease,” he said in the interview.",neutral,-0.1972370743751526
+2008-05-27,"The issue, in his view, is whether the tools that bring computing to children are “agnostic on learning” or “take a position on learning.” Mr. Bender said.",neutral,0.018333636224269867
+2008-05-27,Why Walter Bender Left One Laptop Per Child,neutral,-0.29788872599601746
+2008-05-30,Agriculture Secretary Edward T. Schafer is preparing for criticism over American biofuels policy when he meets with world leaders to discuss the global food crisis next week.,negative,-0.8789774179458618
+2008-05-30,Food Report Criticizes Biofuel Policies,negative,-0.7635745406150818
+2008-06-06,"Henry T. Nicholas III faces fraud, conspiracy and drug charges.",negative,-0.6191929578781128
+2008-06-06,He is also accused of running a stock options backdating scheme.,negative,-0.7430979013442993
+2008-06-06,Former Chief of Broadcom Is Indicted,neutral,-0.10351467877626419
+2008-06-06,"The deal catapults Verizon’s wireless business ahead of AT&T Wireless, which falls to No.",positive,0.8849047422409058
+2008-06-06,"2, followed by Sprint Nextel and Deutsche Telecom’s T-Mobile.",neutral,0.08602066338062286
+2008-06-06,Verizon Agrees to Buy Alltel for $28.1 Billion,neutral,0.4757695198059082
+2008-06-06,"Henry T. Nicholas III, the flamboyant co-founder and former chief executive of the chip maker Broadcom, was indicted Thursday in California on fraud, conspiracy and drug charges, including allegations that he spiked the drinks of other executives with ecstasy.",negative,-0.7999815940856934
+2008-06-06,"Drug, Backdating Charges for Ex-Broadcom Chief",negative,-0.4912026524543762
+2008-06-06,"Monday was the last day, so far, for users to listen to Red Hot Chili Peppers, Led Zeppelin and Diddy on CBS’s Last.FM.",negative,-0.5320420861244202
+2008-06-06,"Warner Music, which publishes those acts and many more, cut off Last.FM because the companies couldn’t reach agreement on the terms for the on-demand listening service.",negative,-0.9425318241119385
+2008-06-06,The Warner Music Ends at Last.FM,neutral,0.031130287796258926
+2008-06-07,T-Mobile said Starbucks breached a contract by allowing AT&T to supply in-store customers with free wireless Internet access using T-Mobile’s lines and equipment.,negative,-0.9043604135513306
+2008-06-07,T-Mobile Sues Starbucks Over Hot Spots,negative,-0.9374344348907471
+2008-06-09,"Apple cut the price of its iPhone by $200 to $199, but AT&T is raising price of the data service you need to use the phone to $30 a month — a $10 increase.",positive,0.20776718854904175
+2008-06-09,"In other words, consumers will wind up paying $40 more over the course of two years than they would have under the previous iPhone deal.",neutral,0.21961089968681335
+2008-06-09,The Cost of the $199 iPhone: $10 More a Month for Data,negative,-0.530062735080719
+2008-06-09,Sprint is aggressively positioning its upcoming Samsung Instinct smart phone as an alternative to Apple’s upgraded iPhone.,positive,0.7803805470466614
+2008-06-09,Basic Instinct: Sprint Battles AT&T and iPhone With New Samsung Device,neutral,0.09836623072624207
+2008-06-09,"In Sunday’s New York Times, Bill Carter interviews Thom Beers, a television producer called “the P. T. Barnum of nonfiction television” by John Ford, the president of the Discovery Channel.",neutral,-0.14593425393104553
+2008-06-09,‘The P.T.,neutral,0.013457909226417542
+2008-06-09,Barnum of Nonfiction Television’,neutral,0.061888791620731354
+2008-06-09,"AT&T is trying to wean corporate customers from their BlackBerries with the new iPhone model, but even if the phone giant fails, it wins — it sells both.",neutral,0.08753995597362518
+2008-06-09,AT&T Targets Business Customers With iPhone,neutral,0.03525879234075546
+2008-06-09,"Ralph de la Vega, chief executive of AT&T, said that the carrier’s deal with Apple was changed because a $199 upfront price will attract a lot more customers.",positive,0.6468630433082581
+2008-06-09,"Existing iPhone users are welcome to upgrade, but if they do, they won’t be able to get a subsidized price again for two years.",neutral,0.18136639893054962
+2008-06-09,AT&T: New Low Price Will Move iPhones to Mass Market,positive,0.8366881608963013
+2008-04-02,"Verizon Communications on Tuesday sold $4 billion of debt in three parts, according to Reuters.",neutral,0.04614303261041641
+2008-04-02,Verizon Sells $4 Billion in Debt,neutral,0.02531694434583187
+2008-04-03,LG cellphone engineers spend hours weekly driving around the country to test what kind of reception LG phones have on various networks.,neutral,0.04514152556657791
+2008-04-03,LG Tests Togetherness — and Cellphones,neutral,0.04194427281618118
+2008-04-22,"With so much of the publishing industry shifting to the Web, magazine executives are trying to use their print products as a tactical advantage with advertisers.",neutral,0.08637629449367523
+2008-04-22,"More Bells, Whistles and Packets of All Sorts",neutral,0.01921999268233776
+2008-04-28,"Verizon says that until its recent $99 unlimited voice wireless plan, only 4 percent of customers chose to pay $99 or more.",neutral,0.03230298310518265
+2008-04-28,Now it’s getting 13 percent of its customers at that level.,neutral,0.22219014167785645
+2008-04-28,AT&T last week reported a similar shift.,neutral,0.008514970541000366
+2008-04-28,Verizon Shows How to Make Money by Cutting Prices,neutral,0.02097620815038681
+2008-04-29,"More expensive wireless contracts helped drive earnings up nearly 10 percent during the carrier’s first quarter, offsetting declines in its traditional phone service.",positive,0.9234210252761841
+2008-04-29,Earnings Up Almost 10% at Verizon in Quarter,positive,0.9198576807975769
+2008-05-01,"Carriers and electronics manufacturers are now offering ways to make clear calls anywhere in your house, using devices that route calls through your home Internet connection or pump up the weak signals.",neutral,0.10661297291517258
+2008-05-01,How to Amplify Those Fading Bars,neutral,0.07316779345273972
+2008-05-01,"Associated Press: “AT&T Inc. is launching its new video service for cell phones Sunday on two phones, and will charge $15 per month for 10 channels.",neutral,0.13959109783172607
+2008-05-01,"AT&T Mobile TV is almost identical to Verizon Wireless’ V Cast Mobile TV, and is operated by the same company, Qualcomm Inc.”",neutral,0.04222257062792778
+2008-05-01,"AT&T Launches TV Service on Cell Phones, Rivaling Verizon",positive,0.8157317638397217
+2008-05-05,"Qwest Communications, the Denver-based telecommunications provider, announced Monday it has decided to start reselling mobile phone service provided by Verizon Wireless.",neutral,0.3538241684436798
+2008-05-05,That means it will stop selling the mobile phone service that it currently provides over the Sprint/Nextel network.,neutral,-0.2386501133441925
+2008-05-05,"The development is more bad news for Sprint/Nextel, which has been fighting uphill since its $35 billion merger in 2005.",negative,-0.9461020231246948
+2008-05-05,Qwest Hangs Up on Sprint Nextel,neutral,0.026286263018846512
+2008-05-15,The Samsung Glyde cellphone features a slide-out keyboard for people who like the feel of physical buttons when pecking out e-mail and text messages.,neutral,0.001954188570380211
+2008-05-15,"It’s a Touch-Screen Phone, but You Can Still Hunt and Peck",neutral,0.009573495015501976
+2008-05-27,Liberty Media’s Starz unit is no longer going to promote its Vongo Internet movie service.,negative,-0.5279112458229065
+2008-05-27,"It found the offering was too hard to promote, especially because of the limited selection of films.",negative,-0.9307388067245483
+2008-05-27,Instead it will offer a version of the service with Verizon and other pay-TV operators.,neutral,0.06066605821251869
+2008-05-27,Liberty Pulls Back from Vongo Internet Movie Service,negative,-0.8481459617614746
+2008-06-04,"Updated: Verizon Communications is in talks to buy Alltel for about $27 billion including the assumption of debt, creating the nation’s largest cellphone service company, people briefed on the matter said Wednesday.",positive,0.6865026354789734
+2008-06-04,Verizon in Talks to Buy Alltel,neutral,0.035619575530290604
+2008-06-05,"Several super-simple cellular services are so sweet and satisfying, you can’t believe they’re free.",neutral,0.10631100833415985
+2008-06-05,"Cell Services Keep It Easy, and Free",neutral,0.057395387440919876
+2008-06-05,The potential $27 billion deal would create the nation’s largest cellular telephone provider.,positive,0.7988413572311401
+2008-06-05,Verizon in Talks to Buy Alltel,neutral,0.035619575530290604
+2008-06-05,"Verizon Communications is near a deal to buy Alltel for about $27 billion, including the assumption of debt.",neutral,0.11398876458406448
+2008-06-05,"Vodafone, Verizon’s partner in its wireless business, confirmed the talks in a short statement Thursday, which said Verizon Wireless was in “advanced discussions regarding the potential acquisition of Alltel.”",neutral,0.23410600423812866
+2008-06-05,Vodafone Confirms Verizon Talks to Buy Alltel,neutral,0.1529923379421234
+2008-06-05,"An analyst notes that were Verizon to buy Alltell, it would keep wireless prices high because there is even less competition among cellphone carriers.",positive,0.5847325325012207
+2008-06-05,Verizon-Alltel and the March of Oligopoly,neutral,0.006572075188159943
+2008-06-05,"Seven months after buying it, the private-equity owners of Alltel have agreed to sell the company to Verizon Wireless for $28.1 billion, including assumed debt.",neutral,0.14247503876686096
+2008-06-05,"Verizon announced the deal in a press release Thursday morning, following reports that the two wireless providers were in advanced talks about a potential transaction.",neutral,0.3775252401828766
+2008-06-05,Verizon Reaches $28 Billion Deal for Alltel,positive,0.5540032386779785
+2008-06-06,"Verizon Wireless announced it would buy Alltell to create the largest cellphone operator in the United States, while in Europe, a bid was made to create the world’s fourth-largest mobile operator.",positive,0.6988101005554199
+2008-06-06,Mergers Accelerate as Telecoms Seek Growth,neutral,0.1314820945262909
+2008-06-06,"The deal catapults Verizon’s wireless business ahead of AT&T Wireless, which falls to No.",positive,0.8849047422409058
+2008-06-06,"2, followed by Sprint Nextel and Deutsche Telecom’s T-Mobile.",neutral,0.08602066338062286
+2008-06-06,Verizon Agrees to Buy Alltel for $28.1 Billion,neutral,0.4757695198059082
+2008-06-10,"JetBlue Airways, the U.S. discount carrier, agreed to buy Verizon Communications‘s Airfone business to offer e-mail and messaging services aboard planes.",positive,0.8180330991744995
+2008-06-10,JetBlue Flies Off With Verizon Unit,neutral,0.06258200854063034
+2008-04-08,"For two generations, Americans have imported goods produced ever more cheaply from low-wage countries.",positive,0.7433791756629944
+2008-04-08,But that free ride may be coming to an end.,negative,-0.5621442794799805
+2008-04-08,Asian Inflation Begins to Sting U.S.,negative,-0.8805923461914062
+2008-04-08,Shoppers,neutral,0.05085739493370056
+2008-04-12,"Barbara Smith, better known as B. Smith, has her smile imprinted on all sorts of things, from biscuits to shower curtains, and is always on the lookout for the next trend.",neutral,-0.012080095708370209
+2008-04-12,Restaurants Lead to Kitchens and to Other Rooms,neutral,0.024664966389536858
+2008-04-20,Chapter one of Steven Greenhouse’s “The Big Squeeze: Tough Times for the American Worker.”,neutral,-0.2365492284297943
+2008-04-20,Worked Over and Overworked,negative,-0.5980638861656189
+2008-04-22,"A former executive with Wal-Mart, Allan Leighton, became president of Canada’s largest grocery retailer, the Loblaw Companies, on Monday.",neutral,0.046973153948783875
+2008-04-22,"Once known for its innovation, Loblaw has stumbled recently as the company deals with Wal-Mart Canada’s gradual move into the grocery business.",negative,-0.9615973234176636
+2008-04-22,"Mr. Leighton, left, was the chief executive of Asda Stores, a British supermarket chain, when it was acquired by Wal-Mart in 1996.",neutral,0.010482264682650566
+2008-04-22,He was subsequently made president and chief executive of Wal-Mart Europe and later became nonexecutive chairman of the Royal Mail of Britain.,neutral,0.0405547060072422
+2008-04-22,"The Weston family of Toronto, who control Loblaw as well as several businesses in Britain, brought Mr. Leighton to the Canadian chain as deputy chairman in 2006, a position he will retain.",neutral,0.05188540741801262
+2008-04-22,"Mark Foote, the company’s president and chief merchandising officer, has left Loblaw, the company said, as has Pietro Satriano, its executive vice president for food.",negative,-0.6652849316596985
+2008-04-22,Canada: Grocery Chain Selects a President,neutral,-0.02925567887723446
+2008-05-01,The Loblaw Companies reported an increase in first-quarter profit and said it planned to accelerate price and cost cuts to compete with Wal-Mart Stores.,positive,0.9079867601394653
+2008-05-01,Canada: Grocer’s Profit Climbs 15%,positive,0.8656537532806396
+2008-05-09,Wal-Mart and Costco reported April sales that rose more than analysts estimated as American consumers sought discounts on clothing and food.,positive,0.8557626008987427
+2008-05-09,"Retailers’ April Is Mixed, With Discounters Strong",negative,-0.9273918867111206
+2008-05-14,"The nation’s largest retailer and a bellwether for the economy said sales and profit surged in the first quarter, but it warned it might miss earnings expectations for the current quarter.",negative,-0.7275471687316895
+2008-05-14,"Profit Rises, but Wal-Mart Cautions",positive,0.10237160325050354
+2008-05-14,Wal-Mart Stores and the TJX Companies said that sales and profit surged during the first three months of the year as consumers flocked to their discounted merchandise.,positive,0.908583402633667
+2008-05-14,Discounters Fared Well in Quarter,positive,0.7296968698501587
+2008-05-21,"Small businesses are trying to provide information to consumers about why their products are considered “green.” Nonetheless, there are few definite rules or standards.",neutral,-0.011079598218202591
+2008-05-21,The Goal Is to Do the Right Thing,neutral,0.10083335638046265
+2008-05-26,"Eighty-six percent of adults said they had shopped at a supermarket in the last month down from 93 percent in 2005, and stores like Wal-Mart have benefited.",negative,-0.9292921423912048
+2008-05-26,Some Shoppers Head to Supercenters,neutral,-0.14325523376464844
+2008-06-05,"After waging an aggressive public relations campaign against Wal-Mart for three years, the company’s union-backed critics are lowering their pitchforks.",negative,-0.8314177989959717
+2008-06-05,Wal-Mart’s Detractors Come In From the Cold,neutral,-0.08700525760650635
+2008-06-05,"In the shadow of talks with Microsoft, Yahoo attempts to shape its own image by announcing new advertising deals with Wal-Mart Stores, CBS, and Havas Digital.",neutral,0.11340489238500595
+2008-06-05,Yahoo Tries to Move Past Takeover Status,neutral,0.05447051674127579
+2008-06-06,CNBC reports on developments from Wal-Mart's annual shareholder meeting.,neutral,0.08734650909900665
+2008-06-06,Wal-Mart Shareholder Meeting,neutral,0.02839060127735138
+2008-06-07,"After three tumultuous years, filled with public relations dustups and sluggish business performance, the nation’s largest retailer publicly relished a turnaround on both fronts.",positive,0.8877664804458618
+2008-06-07,Smiles All Around at Wal-Mart’s Annual Meeting,positive,0.5813918709754944
+2008-06-09,"Highlighting the diminishing power of recording labels, Wal-Mart is stepping into the breach and making deals directly with artists.",neutral,0.16683535277843475
+2008-06-09,"For Some Music, It Has to Be Wal-Mart and Nowhere Else",neutral,-0.040389955043792725
+2008-04-16,"Private equity bidders were reportedly lining up this week to submit 1.5 billion pound ($2.96 billion) bids for Infineum, an oil additives venture between Exxon Mobil and Royal Dutch Shell, in what would be one of the biggest buyouts in Britain this year.",positive,0.7062519192695618
+2008-04-16,Buyout Shops Said to Table $2.9 Billion Bids for Infineum,neutral,0.055733490735292435
+2008-05-01,"Exxon’s shares fell after the company reported that first-quarter net income rose 17 percent, slightly below expectations.",negative,-0.9593533277511597
+2008-05-01,"For Exxon Mobil, $10.9 Billion Profit Disappoints",negative,-0.9259418845176697
+2008-05-02,"Exxon Mobil, the world’s largest publicly traded oil company, said its net income rose 17 percent in the first quarter, buoyed by high oil prices.",positive,0.9376922845840454
+2008-05-02,"Exxon Posts Its 2nd-Best Quarter, but It’s Not Enough for Wall St.",negative,-0.9329633712768555
+2008-05-04,"Descendants of John D. Rockefeller, who formed the company that was to become Exxon Mobil, would like to see the company invest more in alternative energy.",neutral,0.37405088543891907
+2008-05-04,Can Rockefeller Heirs Turn Exxon Greener?,positive,0.6080322861671448
+2008-05-15,Work on a large oil sands project was delayed after the Federal Court of Canada rejected an appeal by Imperial Oil to reinstate a permit that was voided in March.,negative,-0.9408078193664551
+2008-05-15,Canadian Oil Sands Project Is Delayed,neutral,-0.04810488224029541
+2008-05-27,A shareholder move supported by the Rockefeller family is prodding Exxon Mobil to shift its priorities and take the threat of global warming more seriously.,positive,0.7179691195487976
+2008-05-27,Rockefellers Seek Change at Exxon,neutral,-0.2280864715576172
+2008-05-28,The oil industry is known to be very conservative.,neutral,0.02237914875149727
+2008-05-28,"And Exxon Mobil, the world’s largest publicly traded oil company, may be the most conservative of the bunch.",neutral,-0.33305585384368896
+2008-05-28,"It refuses to invest in projects that would lower its industry-leading return on capital employed, which is now around 35 percent.",negative,-0.9182493686676025
+2008-05-28,"Rather than use its phenomenal cash flow for huge, dilutive acquisitions, it prefers to spend billions of dollars to buy back its own stock.",neutral,0.028825948014855385
+2008-05-28,Exxon’s Texas-Size War Chest,neutral,-0.10597698390483856
+2008-05-29,"Rex W. Tillerson, Exxon Mobil’s chairman and chief executive, beat back a shareholder effort to take away one of his jobs, avoiding a serious rebuke to his authority.",negative,-0.9052799940109253
+2008-05-29,Exxon Rejects Proposals Backed by Rockefellers,negative,-0.7954751253128052
+2008-05-29,"Exxon Mobil‘s chairman and chief executive, Rex W. Tillerson, defeated a shareholder effort on Wednesday to take away one of his jobs at an annual meeting punctuated by a debate of the company’s policy toward renewable energy and global warming.",negative,-0.8951646089553833
+2008-05-29,Exxon Rejects Proposals Backed by Rockefellers,negative,-0.7954751253128052
+2008-05-31,Arguments about global warming have become so bitter and passionate that they can divide families.,negative,-0.8318696022033691
+2008-05-31,Even the Rockefellers.,neutral,0.018595736473798752
+2008-05-31,At Exxon’s Can’t-Miss Meeting,neutral,-0.1467651128768921
+2008-06-07,Several factors could explain the disconnect between skyrocketing oil prices and the mediocrity of the stock performance of the three biggest American oil companies.,negative,-0.5563202500343323
+2008-06-07,Big Oil Is Owed Some Love,neutral,0.0704420879483223

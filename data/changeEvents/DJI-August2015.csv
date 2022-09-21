@@ -1,0 +1,485 @@
+Date,Sentence,Prediction,sentimentScore
+2015-07-01,"If the new service is successful, it could deliver billions of dollars in revenue to the music industry and establish streaming music as a stable business.",positive,0.8656066656112671
+2015-07-01,Daily Report: Apple Music Goes Boldly Where Others Have Gone Before,neutral,0.09811782091856003
+2015-07-01,"Different music streaming services have varying costs, platforms and catalog sizes.",neutral,-0.0066375937312841415
+2015-07-01,See how some of the most popular companies stack up against one another.,neutral,0.027049316093325615
+2015-07-01,"Apple Music, Spotify and a Guide to Music Streaming Services",neutral,0.021585866808891296
+2015-07-01,"The service brags that its playlists are curated by people not algorithms; on the other hand, its social network app needs retooling.",neutral,-0.0677882730960846
+2015-07-01,"Apple Music Is Strong on Design, Weak on Social Networking",negative,-0.9291943907737732
+2015-07-07,"Sesac, a boutique music rights group, is purchasing the Harry Fox Agency, a move that will allow it to collect fees both when songs are played and when they are sold.",positive,0.5285558700561523
+2015-07-07,Music Publishing Deal Driven by Shift From Sales to Streaming,neutral,0.16306307911872864
+2015-07-09,Apple’s proposal that automakers write apps for technology company software raises concerns about security and safety.,negative,-0.9051032066345215
+2015-07-09,"With CarPlay, Apple Looks to Upend Tradition",positive,0.6016713380813599
+2015-07-10,"If the company, which has been expanding its video offerings, can strike a deal with music labels, it could rival Google’s YouTube.",positive,0.8719651103019714
+2015-07-10,Daily Report: Facebook Said to Seek Licensing Deals for Music Videos,neutral,0.27718865871429443
+2015-07-11,Stephen Joseph first sued in San Francisco over graffiti.,negative,-0.8510326147079468
+2015-07-11,"He lost, but the city cleaned up the graffiti.",neutral,0.030045360326766968
+2015-07-11,His latest victory is trans fats.,neutral,0.140760600566864
+2015-07-11,"He has learned that you can lose in court, but carry the day.",neutral,0.08975917845964432
+2015-07-11,"When This Man Is Irked, He Might Just File a Suit",neutral,-0.37963584065437317
+2015-07-15,How to rid the bookmarks menu of a utility you don’t use.,neutral,-0.07868088036775589
+2015-07-15,"Plus, browsing with Chrome on Windows 10 and learning MacBook trackpad gestures.",neutral,0.05193042755126953
+2015-07-15,Picking Pockets Off the Firefox Bookmarks List,neutral,-0.01939210295677185
+2015-07-15,"They have bigger screens and offer uninterrupted navigation, and some have forward-facing and backup cameras and other safety features.",neutral,0.040522556751966476
+2015-07-15,What Stand-Alone GPS Devices Do That Smartphones Can’t,neutral,0.011992577463388443
+2015-07-19,Facebook and other companies have struggled with how wearers of the device could have a good experience with their apps tailored to a small screen.,negative,-0.9149856567382812
+2015-07-19,Apple Waits as App Developers Study Who’s Buying Its Watch,neutral,-0.05514617636799812
+2015-07-20,"Greece is expected to pay 4.25 billion euros due on bonds; later this week, earnings reports will be announced by Apple, Morgan Stanley, Credit Suisse and General Motors.",neutral,0.14798185229301453
+2015-07-20,"Greece’s Debt Payments, Apple Earnings and Credit Suisse Results",neutral,0.01498236134648323
+2015-07-21,"While the quarter’s phone sales were one-third higher than a year ago, at 47.5 million, they fell short of analysts’ estimates, and the stock fell.",negative,-0.9572847485542297
+2015-07-21,"Apple Profit Up 38%, but iPhone Sales Disappoint Wall Street",negative,-0.37285491824150085
+2015-07-22,"While Apple’s phone sales were one-third higher in the quarter than a year ago, at 47.5 million, they fell short of analysts’ estimates, and the stock fell.",negative,-0.9528633952140808
+2015-07-22,Daily Report: Apple’s ‘Amazing Quarter’ Isn’t Good Enough for Wall Street,negative,-0.9335005879402161
+2015-07-22,"Also, how to move documents and photos to a new computer after switching to Windows 10.",neutral,0.025679610669612885
+2015-07-22,Keeping Dictation on a Mac Private,neutral,-0.02172313630580902
+2015-07-22,"Some technology pundits have declared the device a flop, but Apple has a history of using incremental improvements to make its products indispensable.",neutral,-0.23885028064250946
+2015-07-22,"In Apple Watch Debut, Signs of a Familiar Path to Success",positive,0.6687453389167786
+2015-07-22,"Spotify’s deal with Beatport will also bring programming from the dozens of music festivals around the world operated by Beatport’s parent company, SFX Entertainment.",positive,0.753093421459198
+2015-07-22,Spotify Gains Access to Beatport Music and Videos,positive,0.8862283229827881
+2015-07-23,"Some technology pundits have declared the device a flop, but Apple has a history of using incremental improvements to make its products indispensable.",neutral,-0.23885028064250946
+2015-07-23,Daily Report: Sales of Apple Watch Suggest a Familiar Path to Success,positive,0.5982193946838379
+2015-07-24,And how to get iTunes on a PC play over Bluetooth speakers.,neutral,0.016895562410354614
+2015-07-24,Taking Stock of a Hard Drive’s Files,neutral,-0.025951482355594635
+2015-07-30,The streaming service tweeted Thursday that a Prince track called “Stare” was available “just for Spotify fans.” The performer began pulling most of his music from streaming services this month.,neutral,-0.21484358608722687
+2015-07-30,New Prince Single Released on Spotify,neutral,0.04903746023774147
+2015-07-30,"Brian X. Chen, The Times’s consumer technology expert, explains why smartphone companies are so interested in what their products are doing to us.",neutral,0.006751192733645439
+2015-07-30,Addicted to Your Smartphone?,neutral,-0.29308271408081055
+2015-07-30,The Company That Made It Would Like You to Think So.,neutral,0.027163539081811905
+2015-07-30,"Zhou Qunfei, founder of Lens Technology, has come to define a new class of female entrepreneurs in China who have built their wealth from scratch.",neutral,0.1368829309940338
+2015-07-30,How a Chinese Billionaire Built Her Fortune,neutral,0.08270495384931564
+2015-08-06,"The executive, Eddy Cue, said he was “thrilled” with the early results for the streaming service, which was introduced on June 30.",positive,0.8186104893684387
+2015-08-06,"Apple Music Attracts 11 Million Users in Trial Period, Executive Says",neutral,0.3562676012516022
+2015-08-07,"Recovering discarded photos before they are gone for good, and shutting down misbehaving applications.",neutral,-0.283468097448349
+2015-08-07,Digging for Trashed Pictures in Mac’s Photos App,negative,-0.4776770770549774
+2015-08-08,"Two technology journalists from The New York Times discuss the week’s developments, including parental-leave policies in Silicon Valley.",neutral,-0.07374324649572372
+2015-08-08,Farhad and Mike’s Week in Review: Netflix’s Not So ‘Unlimited’ Benefits,neutral,0.04299608990550041
+2015-08-11,"Nebia, a start-up that has developed a water-conserving shower head, already has funding from Silicon Valley’s top brass, including Apple chief executive Timothy D. Cook.",neutral,0.4668150544166565
+2015-08-11,"Nebia, a Shower Head Start-Up, Receives Funding From Timothy Cook of Apple",neutral,0.14268022775650024
+2015-08-11,"The pharmacy chain is the latest retailer to accept the mobile payments, which involve little more than waving a phone to conduct a transaction.",neutral,0.340932697057724
+2015-08-11,"In a Shift, Rite Aid to Accept Apple and Google Mobile Payments",positive,0.6179134845733643
+2015-08-12,"Turning off the default motion tracking function, defending against PC scams and requesting order history reports from Amazon.",neutral,0.011112157255411148
+2015-08-12,Stopping the iPhone Step Counter,neutral,-0.2933792471885681
+2015-08-13,"Samsung, trying to stay ahead of the competition, announced two big-screen Galaxy phones and a mobile-payments system.",neutral,0.2721329629421234
+2015-08-13,Samsung Introduces New Phones and Mobile Payments System,neutral,0.3235950171947479
+2015-08-14,"In this aging bull market, investors are showing signs of a sea change in their attitudes.",neutral,0.2098277360200882
+2015-08-14,Doubt Starts Chipping Away at the Market’s Mind-Set,negative,-0.5541213750839233
+2015-08-16,"“Compton: A Soundtrack” had 25 million streams worldwide in its first week on Apple’s new service, but is expected to open in second place in the United States.",negative,-0.2645159661769867
+2015-08-16,New Dr. Dre Album Serves as a Test for Apple Music,neutral,0.27333250641822815
+2015-08-19,How to protect from a vulnerability by which Android devices could be compromised by malicious code.,neutral,0.003114575520157814
+2015-08-19,"Also, figuring out the iOS step counter.",neutral,0.039645493030548096
+2015-08-19,Conquering Android’s Stagefright Bug,neutral,0.07036226242780685
+2015-08-24,"The chief executive of Apple said business was booming in China, where the company has long laid the groundwork to reap big sales.",positive,0.8812358975410461
+2015-08-24,Apple Stock Reacts After Tim Cook Email Praises China Sales,negative,-0.6536815166473389
+2015-08-25,"On some days, market psychology can count for more than long-term fundamentals, pushing panicked investors to sell.",negative,-0.7808780670166016
+2015-08-25,Advisers Work to Calm Fearful Investors,neutral,-0.2956114411354065
+2015-08-25,The sudden and rapid sell-off across global markets has caught many on Wall Street off guard.,negative,-0.9253491759300232
+2015-08-25,A Stock Market Rout in a Month That Hedge Funds Would Sooner Forget,negative,-0.6175670623779297
+2015-08-25,"If the market doesn’t start to turn around soon, all the giant fund-raising rounds may be in limbo — as well as the life of some of today’s start-ups.",negative,-0.597824215888977
+2015-08-25,Daily Report: What a Hiccup in Start-Up Land Might Look Like,neutral,-0.12912140786647797
+2015-08-26,"The early audience-building of both users and developers is crucial for Microsoft, and the early results look encouraging.",positive,0.8803775310516357
+2015-08-26,The Appeal of Free: 75 Million Users Download Windows 10 in First Month,neutral,0.06746107339859009
+2015-08-26,"Microsoft collects personal data on users of Windows 10, but privacy controls can be adjusted.",neutral,-0.08724959194660187
+2015-08-26,Staying Private in Windows 10,neutral,-0.001633375883102417
+2015-08-26,Facebook is wading into the increasingly crowded field of digital personal assistants with a new offering called M.,neutral,0.04966527968645096
+2015-08-26,Facebook Tests a Digital Assistant for Its Messaging App,neutral,0.03718215599656105
+2015-08-27,The investment bank joins a long list of counterfeits that includes Apple stores and British villages.,neutral,0.018179846927523613
+2015-08-27,"They’re easy to mock, but they show an ingenuity and pluck that could be powerful.",neutral,0.12284814566373825
+2015-08-27,A Fake Goldman Sachs Underlines a Real Chinese Strength,negative,-0.4100198447704315
+2015-08-28,Mr. Rogers’s departure comes as a surprise; the music streaming service he led began only two months ago.,neutral,-0.07525181025266647
+2015-08-28,"Ian Rogers, Apple Music Executive, Is Leaving Company",neutral,-0.21365807950496674
+2015-08-28,"How to see if a Mac has been infected and what to do about it; plus, changing uppercase to lowercase, and vice versa, in Microsoft Word.",neutral,0.01899578981101513
+2015-08-28,Protecting Your Mac From Malware and Viruses,neutral,-0.03940553218126297
+2015-08-29,"Reports of Amazon layoffs, a new digital assistant service and artificial intelligence in general.",neutral,-0.34293505549430847
+2015-08-29,Farhad and Mike’s Week in Tech: Facebook Assistant,neutral,-0.06885610520839691
+2015-09-01,"Mr. Rogers, whose departure last week was a surprise to many, will be chief digital officer at the luxury brands company.",neutral,0.010339360684156418
+2015-09-01,Former Apple Music Executive Ian Rogers Moves to LVMH,neutral,-0.02363133430480957
+2015-09-03,"Also look for a review of apps for Windows 10, ahead of the presentation of the newest iPhone next week.",neutral,0.029087375849485397
+2015-09-03,"This Week, Sizing Up Smartphone Plans",neutral,0.41424113512039185
+2015-09-04,"At Apple’s product event on Wednesday, it is expected to introduce a TV device with more capabilities as the company seeks a bigger presence in homes.",positive,0.6326076984405518
+2015-09-04,"With a Revamped Apple TV, Company Hopes to Camp in Your Home",neutral,0.3675295114517212
+2015-09-04,"How to get your Windows 10 operating system to recognize a printer; plus, the Internet speed necessary for smooth high-definition streaming on Apple TV.",neutral,0.027992386370897293
+2015-09-04,Coaxing a Printer to Work With Windows 10,neutral,0.05193452537059784
+2015-09-05,The online marketplace will now allow its Prime members to download some movies and TV shows to iOS and Android devices to watch programming offline.,neutral,0.15247035026550293
+2015-09-05,Mike and Quentin’s Week in Tech: Amazon’s Offline Game Changer,neutral,0.05654296278953552
+2015-09-06,"This week, China will report on its economy, Puerto Rico may strike a deal to restructure its debt, and Stephen Colbert will start on CBS’s “The Late Show.”",neutral,0.0746040791273117
+2015-09-06,"Apple Unveils New Products, and Stephen Colbert Returns to Late Night",neutral,0.12642347812652588
+2015-09-06,"Vying for a spot in living rooms, Apple — which is expected to announce its new system on Wednesday — may have a tough time luring gamers who use an Xbox One or PlayStation.",negative,-0.911359429359436
+2015-09-06,"New Apple TV Is Said to Focus on Games, Challenging Traditional Consoles",neutral,0.3138824701309204
+2015-09-07,"Young sports fans are increasingly drawn to a digital parallel world where videos of skateboarding, snowboarding, surfing and other “action sports” dominate.",neutral,0.09382369369268417
+2015-09-07,"For Online Sports Videos, the Action Is No Longer on the Field",neutral,-0.06308682262897491
+2015-09-08,The efforts to paint Steve Jobs as either hero or villain miss a larger truth: He can be both and still be worthy of acclaim.,neutral,-0.00900568813085556
+2015-09-08,"Decoding Steve Jobs, in Life and on Film",neutral,0.025026530027389526
+2015-09-08,"Apple is holding a product event this Wednesday that is set to be the talk of the tech world, as the company once again mixes new products with theater.",neutral,0.2280285358428955
+2015-09-08,"Daily Report: It’s All Apple, All Week",neutral,0.01379278115928173
+2015-09-08,"These organizations thrived in the 1980s and ’90s and were the backbone of Apple’s faithful, but for some members, the tech giant’s success has been hard to reconcile.",neutral,0.07010573893785477
+2015-09-08,"Mac User Groups Fade in Number and Influence, but Devotees Press On",negative,-0.5476700067520142
+2015-09-09,"The tech world has focused mostly on news related to China so far this week, with the main tech news event — Apple’s unveiling of new products — set to take place on Wednesday.",neutral,-0.008596867322921753
+2015-09-09,Daily Report: China Asserts Tech Presence; Apple Shows Off New Products,positive,0.7952574491500854
+2015-09-09,Apple used haptic technology in its watch to deliver notifications by tapping on a user’s wrist.,neutral,-0.07171793282032013
+2015-09-09,"Now tech firms are finding more ways to, as one researcher said, let “people feel things that aren’t actually there.”",neutral,0.2586902379989624
+2015-09-09,The Future of Touch Beyond Apple Watch,neutral,0.05699790269136429
+2015-09-09,Apple has made some small but marked improvements to its mobile operating system.,positive,0.8102478384971619
+2015-09-09,What You Need to Know About iOS 9,neutral,0.03473566472530365
+2015-09-09,"The company is about to release its next mobile operating system, offering better battery life and a smarter Siri.",positive,0.8485590815544128
+2015-09-09,Test Driving Apple’s iOS 9,neutral,0.05586685985326767
+2015-09-09,"The smartphone, and the larger 6S Plus variant, took center stage at Apple’s product announcement event, but a bigger iPad and a beefed-up Apple TV had turns in the spotlight.",positive,0.41229695081710815
+2015-09-09,"Apple Unveils iPhone 6S, and Breaks Own Taboos With Other Offerings",neutral,-0.2496732622385025
+2015-09-09,"In San Francisco, Apple’s chief executive, Timothy D. Cook, called the new iPhone 6s and 6s Plus “the most advanced smartphones in the world.”",positive,0.6672782897949219
+2015-09-09,Apple Executives Demonstrate New iPhones,neutral,0.1557231992483139
+2015-09-09,"Unlike other tech devices that have become commodities, Apple’s iPhone remains in demand as both a highly useful item and a status symbol.",positive,0.6771038770675659
+2015-09-09,Apple’s iPhone Keeps Going Its Own Way,neutral,0.07865546643733978
+2015-09-09,"A reporter offers first impressions of the coming iPhone, iPad and Apple TV.",neutral,0.045968107879161835
+2015-09-09,Hands-On Experience With Apple’s New Devices,neutral,0.2275104969739914
+2015-09-10,"Here’s what stood out from Apple’s product event on Wednesday, and a flavor of what happens when you get up close to some of the upgraded gadgets.",neutral,0.03125222399830818
+2015-09-10,Daily Report: What Stood Out From Apple’s Product Event,neutral,0.05915264040231705
+2015-09-10,"The world’s richest tech company introduced new iPhones, an overhauled Apple TV and a jumbo-size iPad on Wednesday.",positive,0.7183226943016052
+2015-09-10,An Apple Kind of Week,neutral,0.016801320016384125
+2015-09-10,Here are our responses to reader queries about the new Apple devices introduced at a company event on Wednesday.,neutral,0.041002217680215836
+2015-09-10,Answers to Questions About Apple’s New Products,neutral,0.046477869153022766
+2015-07-22,"The aircraft maker still beat analysts’ expectations by posting an 11 percent rise in revenue, to $24.5 billion.",positive,0.903748631477356
+2015-07-22,Boeing Lowers Profit Outlook on Tanker Charge in 2nd Quarter,negative,-0.9524760842323303
+2015-07-11,A pet project from Joe DiPietro.,neutral,0.03590378910303116
+2015-07-11,A Game for Cats,neutral,0.05569618195295334
+2015-07-26,A new generation of companies is applying mathematical models to determine if you will pay back a loan or stay in a job.,neutral,-0.004243617877364159
+2015-07-26,Do they judge you more fairly than people do?,neutral,-0.19796952605247498
+2015-07-26,Using Algorithms to Determine Character,neutral,0.0005113519728183746
+2015-07-20,Public lighting that dials into the Internet of Things could use billions of fixtures to collect data about things as diverse as traffic congestion and a shopper in the cereal aisle.,neutral,-0.03105544112622738
+2015-07-20,"A Light Bulb Goes On, Over the Mall",neutral,0.03549087047576904
+2015-09-05,The online marketplace will now allow its Prime members to download some movies and TV shows to iOS and Android devices to watch programming offline.,neutral,0.15247035026550293
+2015-09-05,Mike and Quentin’s Week in Tech: Amazon’s Offline Game Changer,neutral,0.05654296278953552
+2015-07-03,"Remoteness and environmental concerns piled costs on the Gorgon liquefied natural gas project, just as energy prices slumped.",negative,-0.9456048011779785
+2015-07-03,Logistics and Lizards Disrupt Chevron’s Project Off Australia,negative,-0.9144415855407715
+2015-07-16,"The major oil companies did not bid, and only two blocks were successfully auctioned.",neutral,0.01655389741063118
+2015-07-16,Mexico Auctions Oil Blocks in Attempt to Increase Production,neutral,0.2700434625148773
+2015-07-31,Declining oil and natural gas prices contributed to the companies’ disappointing second-quarter results.,negative,-0.9513537883758545
+2015-07-31,Exxon and Chevron Report Worst Quarterly Results of Current Decade,negative,-0.9420583248138428
+2015-08-14,"The technology that unlocked the oil in shale fields produced a boom to Karnes County, Tex., but the economy there is cooling fast.",neutral,0.15070569515228271
+2015-08-14,Low Oil Prices Pose Threat to Texas Fracking Bonanza,negative,-0.7612379193305969
+2015-09-04,The ruling is the latest step in a 13-year legal battle over the contamination of a rain forest in Ecuador.,negative,-0.5538572072982788
+2015-09-04,Court Says Chevron Can Be Pursued in Canada Over Ecuadorean Damage,neutral,0.08082904666662216
+2015-07-02,Disney movies have proved surprisingly successful at influencing what people name their babies.,positive,0.7200435400009155
+2015-07-02,"After ‘Frozen,’ a Baby Boomlet of Elsas",neutral,-0.2432672679424286
+2015-07-11,"Interest in “The Force Awakens,” due in theaters in December, is already so extreme that Disney knows its safest option is to hold back.",negative,-0.7195302248001099
+2015-07-11,Promoters of Coming ‘Star Wars’ Film Have a Delicate Dance at Comic-Con,neutral,0.01109083741903305
+2015-07-15,"The company’s resort, its first in mainland China, represents a major bet on westernized leisure travel and an effort to stoke sales of Disney products.",positive,0.8370711803436279
+2015-07-15,"Shanghai Disney Plans Unveiled: Big on ‘Pirates,’ but No Space Mountain",neutral,0.05169729143381119
+2015-07-23,"The bloc, which opened the investigation in January 2014, said the companies prevented consumers from gaining access to content outside Sky UK’s licensed territory of Britain and Ireland.",negative,-0.8824980854988098
+2015-07-23,E.U.,neutral,0.04360159859061241
+2015-07-23,Opens Antitrust Case Against Major U.S. Studios and Sky UK,neutral,-0.09228479862213135
+2015-08-02,"After Comcast bought NBCUniversal four years ago, it surprised some by not only hanging onto the company’s theme parks, but investing heavily in their expansion.",positive,0.731134831905365
+2015-08-02,"Comcast Invests by the Billion in Theme Parks, Hogwarts and All",neutral,0.03980805352330208
+2015-08-04,"Disney’s quarterly results reflected the shifting fortunes of its TV and movie businesses, as cable properties like ESPN took more of a back seat to consumer products.",neutral,0.2712365388870239
+2015-08-04,"Despite 5% Increase, Disney Revenue Disappoints Analysts",negative,-0.9486318826675415
+2015-08-05,"Shares in Comcast, Time Warner, 21st Century Fox, CBS, Viacom, Discovery and AMC Networks all were down, with some plunging by as much as 12 percent in midday trading.",negative,-0.9605372548103333
+2015-08-05,"Disney, Time Warner and Other Media Shares Fall as Investors Worry About TV’s Future",negative,-0.9311639070510864
+2015-08-15,"John Lasseter, Disney’s top animation executive, told fans about a coming musical version of “Jack and the Beanstalk”; “Moana,” about the adventures of a Pacific Island princess; and “Toy Story 4.”",neutral,0.1041552722454071
+2015-08-15,Disney Announces Its Coming Slate of Animated Films at D23 Expo,neutral,0.07807770371437073
+2015-08-15,After Disney’s aggressive overseas investment — which gave Universal an opening in the United States — Disney announced expensive plans for “Star Wars”-themed expansions at its California and Florida resorts.,positive,0.7133861780166626
+2015-08-15,"Disney Bulks Up Theme Parks, as Universal Gains Ground",positive,0.5654997825622559
+2015-08-26,The company will use its Maker Studios unit and ABC News in an ambitious international promotion of characters and toys from the coming film.,neutral,0.24062220752239227
+2015-08-26,Big Push by Disney on ‘Star Wars’ Merchandise,positive,0.5052397847175598
+2015-08-31,"This week automakers are expected to report healthy sales of new vehicles, Samsung plans to introduce another smartwatch and the Labor Department will report the latest data on hiring and unemployment.",positive,0.7690662145614624
+2015-08-31,"Car Sales, Samsung’s New Smartwatch, and the Jobs Report",neutral,-0.02350122667849064
+2015-09-02,"The amicable departure will probably occur next summer, after the July release of “The BFG,” according to people briefed on the matter.",neutral,-0.07796473801136017
+2015-09-02,Spielberg’s DreamWorks Studio Expected to End Distribution Pact With Disney,negative,-0.4677111804485321
+2015-09-03,"The BB-8, a small, round robot that rolls along at the touch of a smartphone, is one of hundreds of toys related to the next “Star Wars” film.",neutral,0.03482929244637489
+2015-09-03,BB-8 Droid Offers Hint of Coming Crush of ‘Star Wars’ Toys,neutral,0.20664089918136597
+2015-09-04,"Streams of tired but excited devotees lined up for “Force Friday,” as the store openings were called, to buy products tied to an upcoming film.",neutral,0.12297054380178452
+2015-09-04,‘Star Wars’ Fans Flock to Midnight Store Openings for New Toys,neutral,-0.013027563691139221
+2015-09-04,Hundreds of toys are hitting the market in a huge marketing push for the coming “Star Wars” movie.,neutral,0.4140595495700836
+2015-09-04,This interactive Yoda doll from Spin Master ($180) says it will teach children to be a Jedi.,neutral,0.11046011000871658
+2015-09-04,"Yoda, as a Toy",neutral,0.00044038891792297363
+2015-09-07,"Ticket sales at North American cinemas rose 10 percent, to $4.48 billion, this summer.",positive,0.9243965148925781
+2015-09-07,But it was a lopsided victory for the studios.,positive,0.8010310530662537
+2015-09-07,The Crowding-Out Effect of Gargantuan Movies,neutral,-0.32864755392074585
+2015-07-01,The move against a sale to Electrolux is the latest sign of tougher antitrust scrutiny in Washington.,negative,-0.3913625180721283
+2015-07-01,Justice Department Sues to Block G.E.,negative,-0.7390522360801697
+2015-07-01,Appliance Deal,neutral,0.04136257991194725
+2015-07-17,Although G.E.,neutral,-0.05564427748322487
+2015-07-17,"reported a net loss of $1.36 billion for the quarter, operating profit from its industrial business grew 5 percent.",positive,0.9325063228607178
+2015-07-17,General Electric Reports Rise in Industrial Profit,positive,0.5332204103469849
+2015-07-20,Public lighting that dials into the Internet of Things could use billions of fixtures to collect data about things as diverse as traffic congestion and a shopper in the cereal aisle.,neutral,-0.03105544112622738
+2015-07-20,"A Light Bulb Goes On, Over the Mall",neutral,0.03549087047576904
+2015-08-05,The investment of $500 million annually signals the importance of the so-called Internet of Things to the future of manufacturing.,positive,0.5217721462249756
+2015-08-05,G.E.,neutral,0.0415060818195343
+2015-08-05,Plans App Store for Gears of Industry,neutral,0.028747623786330223
+2015-08-05,Requiring companies to compare the chief executive’s compensation with that of employees could further stoke a debate over income inequality.,negative,-0.8296600580215454
+2015-08-05,S.E.C.,neutral,0.030168529599905014
+2015-08-05,Approves Rule on C.E.O.,neutral,0.37444913387298584
+2015-08-05,Pay Ratio,neutral,-0.00807110220193863
+2015-08-11,"The restructuring could fund world-changing research, but only so long as the underlying business remains a cash cow.",neutral,0.1946958601474762
+2015-08-11,"Is the New Google More Like Berkshire Hathaway, General Electric or AT&T?",neutral,0.022721290588378906
+2015-08-11,"General Electric announced on Tuesday that it would sell its Healthcare Financial Services business to Capital One for about $9 billion, continuing a campaign to refocus its business.",neutral,0.05398103967308998
+2015-08-11,G.E.,neutral,0.0415060818195343
+2015-08-11,Continues Sell-Off With Health Care Lending Business,negative,-0.8544602990150452
+2015-08-13,"The Wall Street bank is acquiring $16 billion in customer deposits from GE Capital Bank, which General Electric is shedding to focus on its industrial business.",neutral,0.09216493368148804
+2015-08-13,Goldman Expands Retail Banking by Taking On GE Capital’s Deposits,positive,0.6203382015228271
+2015-08-14,The Wall Street firm is buying an online banking platform and $16 billion of deposits from GE Capital with hopes of attracting more customers.,positive,0.7680932283401489
+2015-08-14,But there are two problems.,negative,-0.47395801544189453
+2015-08-14,Goldman Courts Risk With Expansion of Its Deposit Base,positive,0.8847968578338623
+2015-09-01,"The businesses, which are being sold as General Electric moves away from banking, have a book value of about $1.8 billion.",neutral,0.0029725953936576843
+2015-09-01,GE Capital’s Australian Units Said to Be Receiving Final Bids From 3,neutral,0.23639950156211853
+2015-09-08,"After months of negotiations to allay European Union competition concerns, General Electric will now be able to acquire the prized French energy business.",positive,0.8796879649162292
+2015-09-08,G.E.,neutral,0.0415060818195343
+2015-09-08,Gets European Regulators’ Approval to Buy Alstom Power Unit,positive,0.6440961956977844
+2015-09-10,"The industrial conglomerate, already moving to shed its huge lending arm, is trying to become even smaller.",negative,-0.48851099610328674
+2015-09-10,G.E.,neutral,0.0415060818195343
+2015-09-10,to Seek Sale of Its Asset Management Arm,neutral,0.01410822756588459
+2015-07-22,"The deal for Interline Brands, a supplier of maintenance and repair products, is expected to bolster Home Depot’s sales to the professional market.",positive,0.9348418712615967
+2015-07-22,Home Depot to Buy Interline Brands for $1.6 Billion in Cash,neutral,0.060126613825559616
+2015-08-07,"If we don’t deal with income inequality, we’ll face intolerable taxes or social unrest.",negative,-0.8178088068962097
+2015-08-07,"Capitalists, Arise: We Need to Deal With Income Inequality",neutral,0.030898652970790863
+2015-08-17,"This week, some of the nation's biggest retailers report earnings, the Federal Reserve will publish an account of its July meeting, and Greece must make a critical repayment.",neutral,-0.2036462128162384
+2015-08-17,"Retailer Earnings, Fed Minutes and Greek Debt",neutral,-0.08790633082389832
+2015-07-02,The chief executive is using Ms. James’s departure as an opportunity to make sweeping organizational changes.,neutral,0.4238658547401428
+2015-07-02,"Renée James, President of Intel, Is Leaving the Company",negative,-0.44875195622444153
+2015-07-15,"The chip maker’s quarterly net income was even with a year ago, even though revenue fell.",negative,-0.5196089148521423
+2015-07-15,"Intel Earnings Surpass Forecasts, Driven by Data Centers",negative,-0.5918288230895996
+2015-08-24,An expected $100 million in funding to be directed to cloud-computing software and a related start-up reflects the company’s view of its own future.,neutral,0.1366419643163681
+2015-08-24,Intel to Invest Heavily in Software That Enhances Cloud-Computing Capabilities,positive,0.7273743152618408
+2015-09-09,"The high school competition counts among its past competitors eight Nobel Prize winners, along with chief executives, university professors and award-winning scientists.",neutral,0.0415448322892189
+2015-09-09,Intel to End Sponsorship of Science Talent Search,negative,-0.7572421431541443
+2015-09-09,"The tech world has focused mostly on news related to China so far this week, with the main tech news event — Apple’s unveiling of new products — set to take place on Wednesday.",neutral,-0.008596867322921753
+2015-09-09,Daily Report: China Asserts Tech Presence; Apple Shows Off New Products,positive,0.7952574491500854
+2015-07-02,"The tentative settlement covers suits filed by Alabama, Florida, Louisiana, Mississippi and Texas, as well as the federal government.",neutral,0.04431440308690071
+2015-07-02,BP to Pay $18.7 Billion for Deepwater Horizon Oil Spill,neutral,0.0366850420832634
+2015-07-02,"NBC and Univision dropped the beauty pageant, citing Mr. Trump’s comments about immigrants.",negative,-0.9221537113189697
+2015-07-02,Reelz to Show Donald Trump’s Miss USA Pageant,neutral,0.0003727152943611145
+2015-07-17,"Tony Hsieh, C.E.O.",neutral,0.03901996463537216
+2015-07-17,"of Zappos, is on an uphill mission to remake the company’s culture by banning the boss.",neutral,-0.37051519751548767
+2015-07-17,"At Zappos, Pushing Shoes and a Vision",neutral,0.032947711646556854
+2015-07-22,The proposed approval order outlines conditions that would benefit consumers by increasing competition in the broadband market.,positive,0.7750347852706909
+2015-07-22,AT&T’s Bid for DirecTV Advances With Conditional Approval Order by F.C.C.,positive,0.6989232897758484
+2015-07-22,Chief,neutral,0.031997859477996826
+2015-07-22,"The transaction would bolster St. Jude Medical’s business in treating treat heart failures by adding products and technologies, the company said.",positive,0.8857953548431396
+2015-07-22,St. Jude Medical to Buy Thoratec for $3.4 Billion,neutral,0.025248641148209572
+2015-07-30,Republicans who would cheer the end of the bank see the failure to reauthorize it before the August recess as a near guarantee of success.,negative,-0.43391144275665283
+2015-07-30,Outlook for the Ex-Im Bank Dims as Congress Departs,negative,-0.5761414766311646
+2015-08-07,"The debate broke previous records for primary debates, and is the ninth-most viewed cable program ever, according to Nielsen.",positive,0.7507907152175903
+2015-08-07,The top eight were college football games broadcast on ESPN.,neutral,0.0271413903683424
+2015-08-07,Republican Debate Draws 24 Million Viewers,neutral,0.008099928498268127
+2015-08-12,"Reckitt Benckiser, the owner of the Durex brand of condoms and lubricants, will be required to license the brand to a competitor in Britain for eight years.",neutral,-0.06274648010730743
+2015-08-12,British Regulator Approves Sale of K-Y to Reckitt Benckiser,positive,0.6090816259384155
+2015-08-18,The Securities and Exchange Commission accused the bank of doling out three internships to appease officials at a Middle Eastern sovereign wealth fund.,negative,-0.9156326055526733
+2015-08-18,Bank of New York Mellon Settles Bribery Case Over Interns,negative,-0.831155002117157
+2015-08-24,"Can you unravel this three-dimensional puzzle by the artist and computer scientist, Ellie Baker?",neutral,0.029493950307369232
+2015-08-24,Ellie Baker and the Seamstress’s Conundrum,neutral,-0.010104827582836151
+2015-07-01,"The volume of deals announced in the first half of the year is approaching that of 2007, but some bankers fear an unforeseen crisis could upend the boom.",negative,-0.9114896655082703
+2015-07-01,"On Wall Street, Cautious Optimism as Merger Deals Near Peak Level",positive,0.421852171421051
+2015-07-06,Mr. Cutler will be succeeded as general counsel by Stacey Friedman next year.,neutral,0.01564611867070198
+2015-07-06,"Stephen Cutler, JPMorgan’s General Counsel, to Become Vice Chairman",neutral,0.024548355489969254
+2015-07-10,"JPMorgan Chase became the latest bank to publicize its use of the Uber ride-hailing service, as Wall Street jockeys for favor ahead of an initial public offering.",neutral,0.1599428653717041
+2015-07-10,An Uber I.P.O.,neutral,0.02721179835498333
+2015-07-10,"Looms, and Suddenly Bankers Are Using Uber.",neutral,0.002149738371372223
+2015-07-10,Coincidence?,neutral,-0.05495068430900574
+2015-07-10,The resolution plans are intended to give the general public some idea of the progress that has been made toward preventing banks from being “too big to fail.”,neutral,0.3835219144821167
+2015-07-10,Banks’ ‘Living Wills’ Are Murky Guides,negative,-0.40421062707901
+2015-07-14,"The banking giant bolstered profits despite revenue declines in several divisions, including mortgage banking and fixed-income trading.",positive,0.7504259943962097
+2015-07-14,JPMorgan’s Profit Rises 5% as Its Expenses Fall,positive,0.6807985901832581
+2015-07-15,"The subprime auto lender, facing pressure from regulators, has selected a longtime JPMorgan executive who faced her own regulatory scrutiny.",neutral,-0.015164997428655624
+2015-07-15,Santander Consumer USA Names Blythe Masters Chairwoman,neutral,-0.015681622549891472
+2015-07-16,"Comparisons with mega-banks like Citigroup, Bank of America and JPMorgan Chase suggest Goldman’s focus isn’t always an advantage.",neutral,-0.06769154220819473
+2015-07-16,Bigger Might Have Been Better for Goldman,neutral,-0.2647416591644287
+2015-07-16,"An investigation into a trader whose risky bets cost JPMorgan Chase $6.2 billion has ended, but who, if anyone, will be held accountable remains an open question.",negative,-0.7986494898796082
+2015-07-16,Convictions Prove Elusive in ‘London Whale’ Trading Case,negative,-0.7332881093025208
+2015-07-20,"Under the regulations, the banks with the biggest Wall Street operations have to meet higher capital requirements or reduce their size.",neutral,0.038555826991796494
+2015-07-20,Federal Reserve Approves Capital Restraints for Big Banks,neutral,0.05567087233066559
+2015-07-21,Four men in Florida and Israel were arrested in connection with investment schemes that were said to be related to a cyberattack at JPMorgan Chase.,negative,-0.8853048086166382
+2015-07-21,4 Arrested in Schemes Said to Be Tied to JPMorgan Chase Breach,negative,-0.7401725649833679
+2015-07-24,Two men in Florida accused in an illegal Bitcoin operation and three in Israel charged in a stock scheme are being investigated in the breach at JPMorgan Chase last summer.,negative,-0.7893400192260742
+2015-07-24,"5 Men, 2 Fraud Schemes and a Possible Link to JPMorgan Chase Hacking",negative,-0.5083853006362915
+2015-07-24,The Justice Department asked Israel to arrest three men charged with running a stock manipulation scheme.,negative,-0.8293393850326538
+2015-07-24,U.S. Letter to Israel on Fraud Schemes,negative,-0.6800947189331055
+2015-07-27,"Online crime poses tough challenges for prosecutors, in which identifying defendants, let alone linking them to criminal activity, is proving hard.",neutral,-0.0991063117980957
+2015-07-27,"The World Wide Web, the New Frontier in Fraud",neutral,0.09917529672384262
+2015-07-29,Federal authorities say they believe that some of the people suspected in last summer’s big online attack against JPMorgan Chase also turned to friends and acquaintances to further their ends.,negative,-0.6574793457984924
+2015-07-29,U.S. Extends Investigation of JPMorgan Chase Hacking,neutral,0.14328983426094055
+2015-08-05,"The lower numbers came after William T. Winters, the former head of JPMorgan Chase’s investment bank, was brought in as chief executive.",negative,-0.9312015175819397
+2015-08-05,Standard Chartered Profit Fell 37% in First Half,negative,-0.9683836102485657
+2015-08-10,"Anthony Murgio, who is thought to have information about a cyberattack on JPMorgan Chase, appeared in court on Monday.",negative,-0.7005607485771179
+2015-08-10,Man Charged in Bitcoin Scheme Appears in New York Court,neutral,-0.3432074189186096
+2015-08-25,"Notably absent on the list of underwriters for what would be one of the biggest market debuts of the year is JPMorgan Chase, which recently settled a hiring dispute with First Data.",negative,-0.8023208975791931
+2015-08-25,First Data Names 15 Banks Chosen to Lead Public Offering,neutral,0.0022521428763866425
+2015-09-08,"At JPMorgan, Greg Mendelson will focus on advising both tech services companies and private equity firms.",neutral,0.014684529975056648
+2015-09-08,JPMorgan Hires Tech Banker Greg Mendelson From Bank of America Merrill Lynch,neutral,-0.08005353063344955
+2015-09-09,The firm’s quarterly results could offer some insight into just how much the Volcker Rule helps or hinders investment banks in volatile markets.,neutral,0.17929913103580475
+2015-09-09,Jefferies May Be Canary in Wall Street’s Shuttered Mine,negative,-0.398692786693573
+2015-07-22,The company attributed its higher earnings in part to strong growth in sales of small and “specialty” packages like eight-ounce cans.,positive,0.9237351417541504
+2015-07-22,"Coca-Cola Profit Up 19%, Despite Lower Sales",positive,0.7990028858184814
+2015-08-06,The deal will combine Coca-Cola Enterprises and Coca-Cola Iberian Partners and Coca-Cola Erfrischungsgetränke to form the world’s largest independent bottler of Coca-Cola products.,positive,0.7546684145927429
+2015-08-06,Three Coca-Cola Bottlers in Europe Agree to Merger,positive,0.6365959048271179
+2015-08-20,The company was criticized after disclosure that it had financial ties to a group that argues for less concern about eating habits and more emphasis on exercise.,negative,-0.9259374737739563
+2015-08-20,Coca-Cola to Disclose Its Spending on Research Into Soft Drinks and Health,neutral,-0.06271342933177948
+2015-08-25,The beverage company announced a plan in 2007 to replenish the amount of water equivalent to its sales volume — about 160 billion liters — by 2020.,positive,0.7714549899101257
+2015-08-25,It could get to that point this year.,positive,0.6161881685256958
+2015-08-25,Coca-Cola Says It’s Close to Water Replenishment Goal,neutral,0.2391800731420517
+2015-09-07,"Ms. Little, who consulted for three decades for companies like 3M, General Mills and Coca-Cola, took inspiration from sources as varied as geishas, burglars and cheetahs.",neutral,-0.005390888080000877
+2015-09-07,"Sara Little, Peripatetic Product Designer, Dies at 97",neutral,-0.25363889336586
+2015-09-07,A decision due from a Spanish court could test the government’s effort to give employers flexibility to address the country’s high unemployment rate.,negative,-0.6776920557022095
+2015-09-07,Dispute at Coke Bottling Plant Could Signal Labor Challenges for E.U.,negative,-0.9476075768470764
+2015-09-07,"Ms. Little, who consulted for three decades for companies like 3M, General Mills and Coca-Cola, took inspiration from sources as varied as geishas, burglars and cheetahs.",neutral,-0.005390888080000877
+2015-09-07,"Sara Little, Peripatetic Product Designer, Dies at 97",neutral,-0.25363889336586
+2015-07-01,"How to set up hardware so that Macs and iOS devices share some tasks like phone calls and text messages from applications like Mail, Safari and Maps.",neutral,0.022720271721482277
+2015-07-01,A Mac-to-iPhone Handoff,neutral,0.09603625535964966
+2015-07-01,"The service brags that its playlists are curated by people not algorithms; on the other hand, its social network app needs retooling.",neutral,-0.0677882730960846
+2015-07-01,"Apple Music Is Strong on Design, Weak on Social Networking",negative,-0.9291943907737732
+2015-07-02,Yahoo is turning to the world’s dominant provider of web searches to power some of its own search results.,positive,0.5753457546234131
+2015-07-02,"The tests could lead to a deeper relationship between the two companies, whose previous efforts to cooperate on search were blocked by antitrust regulators.",neutral,0.3196105360984802
+2015-07-02,"In Tests, Yahoo Uses Google to Power Search Results and Ads",neutral,-0.03086841106414795
+2015-07-07,"William Veghte, a tech veteran who has worked for Hewlett-Packard and Microsoft, will fill the void left by the death of David Goldberg in May.",neutral,-0.09023244678974152
+2015-07-07,"After Death of Its Chief, SurveyMonkey Names a New Leader",neutral,-0.16247045993804932
+2015-07-08,The company will shed more than 6 percent of its workers and take a charge against earnings related to its acquisition of Nokia’s smartphone business.,negative,-0.9535902738571167
+2015-07-08,"Cutting Jobs, Microsoft Turns Page on Nokia Deal",negative,-0.9226465225219727
+2015-07-08,"Adobe Revel is one alternative to Adobe Photoshop Starter Album for Windows, which was discontinued in 2009.",neutral,0.03765957057476044
+2015-07-08,Free and Cheap Photoshop Alternatives for Windows,neutral,0.05274262651801109
+2015-07-08,"A company that offered a kind of Microsoft Office for the mobile age rediscovers the desktop, but with a difference: What’s in your computer is what’s in the cloud.",neutral,0.03899400681257248
+2015-07-08,"If it takes, it could change how many things are built.",neutral,-0.024503685534000397
+2015-07-08,Quip Builds for Computing Everywhere,neutral,0.11218220740556717
+2015-07-08,The company will shed more than 6 percent of its workers and take a charge against earnings related to its acquisition of Nokia’s smartphone business.,negative,-0.9535902738571167
+2015-07-08,"Daily Report: Microsoft to Cut Up to 7,800 Jobs, Mostly in Phones Unit",negative,-0.9674494862556458
+2015-07-08,Microsoft’s attempts to move beyond its core strength in business software through acquisitions has cost it about $14 billion in write-downs over the last three years.,negative,-0.9244980812072754
+2015-07-08,Microsoft’s Write-Down on Nokia Adds to String of Merger Missteps,negative,-0.9446091651916504
+2015-07-11,Stephen Joseph first sued in San Francisco over graffiti.,negative,-0.8510326147079468
+2015-07-11,"He lost, but the city cleaned up the graffiti.",neutral,0.030045360326766968
+2015-07-11,His latest victory is trans fats.,neutral,0.140760600566864
+2015-07-11,"He has learned that you can lose in court, but carry the day.",neutral,0.08975917845964432
+2015-07-11,"When This Man Is Irked, He Might Just File a Suit",neutral,-0.37963584065437317
+2015-07-13,It’s clear the introduction of Windows 10 is going to be more low key than it was for Windows 95.,neutral,0.045983169227838516
+2015-07-13,Microsoft Strikes New Tone for Windows 10 Release,positive,0.4115644693374634
+2015-07-15,How to rid the bookmarks menu of a utility you don’t use.,neutral,-0.07868088036775589
+2015-07-15,"Plus, browsing with Chrome on Windows 10 and learning MacBook trackpad gestures.",neutral,0.05193042755126953
+2015-07-15,Picking Pockets Off the Firefox Bookmarks List,neutral,-0.01939210295677185
+2015-07-20,Pressure from competitors has compelled the company to make the upgrade free and to find new ways to profit from some of its big moneymakers.,negative,-0.6100872159004211
+2015-07-20,Windows 10 Signifies Microsoft’s Shift in Strategy,neutral,0.35716164112091064
+2015-07-20,Pressure from competitors has compelled the company to make the upgrade free and to find new ways to profit from some of its big moneymakers.,negative,-0.6100872159004211
+2015-07-20,Daily Report: Windows 10 Signifies Microsoft’s Shift in Strategy,positive,0.5776678919792175
+2015-07-21,A $7.5 billion accounting charge for the company’s acquisition of Nokia was a drag on the software maker’s fourth-quarter.,negative,-0.9420199990272522
+2015-07-21,A $7 Billion Charge at Microsoft Leads to Its Largest Loss Ever,negative,-0.9225131273269653
+2015-07-22,"Also, how to move documents and photos to a new computer after switching to Windows 10.",neutral,0.025679610669612885
+2015-07-22,Keeping Dictation on a Mac Private,neutral,-0.02172313630580902
+2015-07-24,And how to get iTunes on a PC play over Bluetooth speakers.,neutral,0.016895562410354614
+2015-07-24,Taking Stock of a Hard Drive’s Files,neutral,-0.025951482355594635
+2015-07-26,Facebook and other leading American technology companies see Africa as a place to experiment with new ways of expanding Internet access.,positive,0.6134110689163208
+2015-07-26,Facebook and Other Tech Giants Expand Internet Access in Africa,positive,0.8415035009384155
+2015-07-28,"The Start button is back, in a more modern fashion, and the tablet mode, while perhaps intimidating for longtime Windows users, has familiar touches.",positive,0.5016531348228455
+2015-07-28,Windows 10 Review: A Throwback With Upgrades in Software and Security,neutral,0.11124442517757416
+2015-07-29,"Even with a new interim chief, Twitter is dealing with the same old problem of anemic user growth.",negative,-0.816920280456543
+2015-07-29,"The focus shifts on Wednesday to Twitter’s more successful rival, Facebook, and its quarterly results.",neutral,-0.2707102298736572
+2015-07-29,Daily Report: The Tough Realities of a Twitter Turnaround,neutral,0.10300777852535248
+2015-07-30,"Brian X. Chen, The Times’s consumer technology expert, explains why smartphone companies are so interested in what their products are doing to us.",neutral,0.006751192733645439
+2015-07-30,Addicted to Your Smartphone?,neutral,-0.29308271408081055
+2015-07-30,The Company That Made It Would Like You to Think So.,neutral,0.027163539081811905
+2015-07-30,"The technology business is especially vulnerable to rapid, unforeseen transformation, sometimes leading to the mass extinction of giant companies.",negative,-0.783210813999176
+2015-07-30,"In Microsoft’s Nokia Debacle, a View of an Industry’s Feet of Clay",negative,-0.4671352505683899
+2015-07-31,"Microsoft has agreed to contribute a substantial amount of the financing in a recent round, which totals about $1 billion, people with knowledge of the matter said.",positive,0.5167506337165833
+2015-07-31,Microsoft Said to Invest Big Sum in Uber,neutral,0.1724756956100464
+2015-08-01,"Two technology journalists from The New York Times assess the week’s major news stories from Silicon Valley, including earnings announcements from Facebook and Twitter.",neutral,-0.02072104811668396
+2015-08-01,Farhad and Mike’s Week in Review: Twitter Problems,neutral,-0.029993604868650436
+2015-08-04,"Microsoft is offering $1 million in prize money to competitive gamers, a crucial leg in the multimillion-dollar marketing push for the video game.",positive,0.7156896591186523
+2015-08-04,"With Halo 5: Guardians, Microsoft Seeks to Lure E-Sports Players Back",neutral,0.23506580293178558
+2015-08-05,"The marketing push with Halo 5 is a reminder that we’ve entered a brave new world, one in which, when the first Halo arrived 14 years ago, was barely a figment of our imagination.",positive,0.5263643264770508
+2015-08-05,Daily Report: E-Sports Continues to Reshape Gaming Landscape,positive,0.8526480793952942
+2015-08-05,"Microsoft’s changes to its policy came a day after Netflix, the online video service, said it would allow new mothers and fathers who are employees to take as much paid time off as they need during the first year after the birth or adoption of a child.",neutral,0.09925539046525955
+2015-08-05,"Following Netflix, Microsoft Sweetens Parental Leave Benefits",neutral,0.2130129486322403
+2015-08-05,A guide to some of the most popular ride-sharing apps available to world travelers.,neutral,0.060490984469652176
+2015-08-05,The International Answers to Uber and Lyft,neutral,0.05008064582943916
+2015-08-06,"The two companies, partners of the enterprise software maker, will take ownership stakes in the biggest leveraged buyout of the year.",neutral,0.22249048948287964
+2015-08-06,Salesforce Ventures and Microsoft Join Informatica Buyout,neutral,0.046639736741781235
+2015-08-07,"Paid paternity leave offers broad benefits, but it won’t become common until prominent men use it and don’t pay a penalty for doing so.",neutral,0.06533877551555634
+2015-08-07,Bringing Paternity Leave Into the Mainstream,neutral,0.15133386850357056
+2015-08-09,Thousands of laid-off workers have started their own businesses or have been recruited by other tech companies lured to Finland by its surplus of talent.,negative,-0.9480318427085876
+2015-08-09,"After Nokia Layoffs, Tech Workers in Finland Regroup and Refocus",negative,-0.8312979340553284
+2015-08-11,"The trouble is that with fresh cash in hand or the slate wiped clean from an old deal, there is almost always a wide-eyed desire for a new one.",neutral,-0.2167222499847412
+2015-08-11,Tech Breakups Show Bigger Is Not Necessarily Better,negative,-0.4703585207462311
+2015-08-12,"Turning off the default motion tracking function, defending against PC scams and requesting order history reports from Amazon.",neutral,0.011112157255411148
+2015-08-12,Stopping the iPhone Step Counter,neutral,-0.2933792471885681
+2015-08-26,"The early audience-building of both users and developers is crucial for Microsoft, and the early results look encouraging.",positive,0.8803775310516357
+2015-08-26,The Appeal of Free: 75 Million Users Download Windows 10 in First Month,neutral,0.06746107339859009
+2015-08-26,"Microsoft collects personal data on users of Windows 10, but privacy controls can be adjusted.",neutral,-0.08724959194660187
+2015-08-26,Staying Private in Windows 10,neutral,-0.001633375883102417
+2015-08-26,Facebook is wading into the increasingly crowded field of digital personal assistants with a new offering called M.,neutral,0.04966527968645096
+2015-08-26,Facebook Tests a Digital Assistant for Its Messaging App,neutral,0.03718215599656105
+2015-08-28,"How to see if a Mac has been infected and what to do about it; plus, changing uppercase to lowercase, and vice versa, in Microsoft Word.",neutral,0.01899578981101513
+2015-08-28,Protecting Your Mac From Malware and Viruses,neutral,-0.03940553218126297
+2015-09-02,"With time and use, actions like installing or uninstalling programs may inadvertently alter these permissions from their initial state, but there’s a fix to restore them.",neutral,0.03731156885623932
+2015-09-02,"Understanding Mac OS X Disk Permissions, and How to Repair Them",neutral,0.031121939420700073
+2015-09-02,"One of the big ideas for Windows 10 is that the same “universal” apps can run on a PC, tablet or even smartphone instead of separate versions for each.",neutral,0.061960093677043915
+2015-09-02,Here are some of the best ones.,neutral,0.004212105646729469
+2015-09-02,App Smart | The Best of Windows 10 Apps,neutral,0.06205221265554428
+2015-09-03,"Also look for a review of apps for Windows 10, ahead of the presentation of the newest iPhone next week.",neutral,0.029087375849485397
+2015-09-03,"This Week, Sizing Up Smartphone Plans",neutral,0.41424113512039185
+2015-09-04,The activist investor ValueAct Capital’s best bet for shaking up the card and payments giant might also be going after the chief executive.,negative,-0.6125699877738953
+2015-09-04,American Express May Get Same Treatment as Microsoft From ValueAct Capital,neutral,0.12948168814182281
+2015-09-08,The usual deal is a bit like Niketown agreeing to sell Adidas sneakers.,neutral,0.03464122861623764
+2015-09-08,"“This is unique,” Kirk Schell, vice president of Dell Commercial Client Solutions, said in an interview.",positive,0.7212004661560059
+2015-09-08,“We don’t do this with anybody.”,neutral,-0.2584516704082489
+2015-09-08,Dell Agrees to Sell Microsoft’s Surface Tablet,neutral,0.419303297996521
+2015-09-09,"The tech world has focused mostly on news related to China so far this week, with the main tech news event — Apple’s unveiling of new products — set to take place on Wednesday.",neutral,-0.008596867322921753
+2015-09-09,Daily Report: China Asserts Tech Presence; Apple Shows Off New Products,positive,0.7952574491500854
+2015-07-09,"The deal includes hair products like Nice & Easy and VS Salonist, as well as cosmetics and fine fragrances from Gucci and Dolce & Gabbana.",neutral,0.05771642178297043
+2015-07-09,P.&G.,neutral,0.03712895140051842
+2015-07-09,Sells 43 Beauty Brands to Coty,neutral,0.03168400377035141
+2015-07-28,"David S. Taylor, a group president who joined P.&G.",neutral,0.008734541945159435
+2015-07-28,"in 1980, takes charge of a company that has spent months vigorously slimming down.",neutral,0.022876903414726257
+2015-07-28,A Smaller P.&G.,neutral,-0.0006630346179008484
+2015-07-28,Sets Its Next Leader,neutral,0.0065879374742507935
+2015-08-28,"It is rare to meet actual orphans with stock portfolios, let alone ones who have hung on to investments for nearly 50 years.",neutral,-0.03328315541148186
+2015-08-28,"Steady Financial Advice, With Friendship as a Bonus",neutral,0.06835183501243591
+2015-09-08,How will you rate Jacob Stulberg’s puzzle?,neutral,0.03722982853651047
+2015-09-08,Somewhat Family-Friendly,neutral,0.07722293585538864
+2015-07-01,"Four executives of leading health care organizations are members of the board of the U.S. Chamber of Commerce, which is engaged in a worldwide campaign to thwart antismoking laws.",neutral,-0.015548545867204666
+2015-07-01,U.S. Chamber Fights Smoking Laws While Hospitals and Insurers Sit on Its Board,neutral,-0.253103107213974
+2015-07-06,"As insurers grow larger, the effect on consumers depends largely on how successfully other companies, particularly those created or attracted by the Affordable Care Act, can compete.",neutral,0.12200060486793518
+2015-07-06,"With Merging of Insurers, Questions for Patients About Costs and Innovation",neutral,-0.02468465268611908
+2015-08-03,"Consumer advocates, policy experts and former regulators say that while Anthem, Cigna, Aetna and Humana may reap monetary benefits by combining, gains might not trickle down to individuals and employers.",positive,0.8235316872596741
+2015-08-03,"Bigger May Be Better for Health Insurers, but Doubts Remain for Consumers",neutral,0.15391415357589722
+2015-07-14,The communications giant has teamed up with the youth-oriented media company in a multiyear deal as both companies hope to expand their reach.,positive,0.9148028492927551
+2015-07-14,Verizon to Add Vice Content to Its Coming Mobile Video Service,neutral,0.3723120093345642
+2015-07-03,"Auto policies and some credit cards will often cover rentals, but such coverage can come with restrictions.",neutral,-0.020421180874109268
+2015-07-03,Check Insurance Coverage When Renting a Car,neutral,0.02571018598973751
+2015-07-08,The news comes on top of Visa Inc. announcing in September that it was “considering its options” regarding the stake.,neutral,0.10378190875053406
+2015-07-08,Visa Europe to Reduce Its Stake in Mobile Payment Company Monitise,negative,-0.9359833002090454
+2015-07-28,The San Francisco-based digital payments start-up now has a $5 billion valuation and a partnership with Visa to help it compete.,positive,0.7983031868934631
+2015-07-28,"Stripe, Digital Payments Start-Up, Raises New Funding and Partners With Visa",positive,0.532397449016571
+2015-07-31,The European Commission said it had concerns that the $4.8 billion merger could decrease competition and lead to higher prices for consumers.,negative,-0.9040325284004211
+2015-07-31,FedEx-TNT Express Deal to Be Investigated in Europe,neutral,-0.4484317898750305
+2015-08-05,"Citing “egregious conduct” in text messages and emails between two lawyers, a federal judge scrapped a proposed $75 million settlement between American Express and a group of retailers.",negative,-0.9226850867271423
+2015-08-05,Judge Rejects Settlement in American Express Case,negative,-0.7996914982795715
+2015-08-07,A still-going suit brought by Eliot Spitzer against Maurice Greenberg and another executive in 2005 shows the effectiveness of certain tactics in prolonging proceedings.,negative,-0.46088045835494995
+2015-08-07,The Never-Ending Lawsuit Against 2 Former A.I.G.,negative,-0.8147823214530945
+2015-08-07,Executives,neutral,0.029414333403110504
+2015-07-09,The ride-hailing service asserts that the handful of drivers who filed the lawsuit on work status shouldn’t represent all the drivers.,negative,-0.6556892395019531
+2015-07-09,Uber Files Motion Opposing Driver Class-Action Suit,neutral,-0.3401155471801758
+2015-07-15,Even Black Friday is getting lost in the blur of perpetual discounts as some of the biggest retailers go head-to-head Wednesday in a new midsummer event.,neutral,-0.242808997631073
+2015-07-15,Amazon Dreams Up a Sale in a Calendar Bursting With Them,neutral,0.04493962228298187
+2015-07-15,The much-ballyhooed 20th anniversary discount event is awash in complaints of lackluster products and interminable waiting.,negative,-0.9374231696128845
+2015-07-15,More Fizzle Than Sizzle on Amazon’s Prime Day,neutral,0.03915819525718689
+2015-07-17,"Erasing student loans requires proof that paying the debt would cause “undue hardship,” and some judges think the rigid standard should be reconsidered.",neutral,-0.11986898630857468
+2015-07-17,Judges Rebuke Limits on Wiping Out Student Loan Debt,negative,-0.6455138325691223
+2015-07-17,The retailers temporarily shut down their online photo processing services to determine the extent of a possible credit card data breach.,negative,-0.9506047368049622
+2015-07-17,CVS and Walmart Canada Are Investigating a Data Breach,neutral,-0.3958424925804138
+2015-08-03,"The agreement includes civil penalties and stricter state standards on how toy guns look, which are intended to make them distinguishable from real guns.",neutral,0.2624947428703308
+2015-08-03,New York Reaches Accords With Sellers of Toy Guns,positive,0.5366857647895813
+2015-08-05,"The marketing push with Halo 5 is a reminder that we’ve entered a brave new world, one in which, when the first Halo arrived 14 years ago, was barely a figment of our imagination.",positive,0.5263643264770508
+2015-08-05,Daily Report: E-Sports Continues to Reshape Gaming Landscape,positive,0.8526480793952942
+2015-08-17,"This week, some of the nation's biggest retailers report earnings, the Federal Reserve will publish an account of its July meeting, and Greece must make a critical repayment.",neutral,-0.2036462128162384
+2015-08-17,"Retailer Earnings, Fed Minutes and Greek Debt",neutral,-0.08790633082389832
+2015-08-17,"The perception of Amazon as a difficult place to work could force the online retailer to initiate reforms, as Walmart has done with its own billion-dollar program.",negative,-0.6784985065460205
+2015-08-17,Why Amazon May Take a Page From Walmart’s Labor Playbook,neutral,-0.23215976357460022
+2015-08-18,"Details of working conditions at Amazon led to a response from employees, relatives and friends.",neutral,0.18352404236793518
+2015-08-18,Depiction of Amazon Stirs a Debate About Work Culture,negative,-0.5942631363868713
+2015-08-18,The retail giant’s lackluster results and outlook were in spite of quarterly revenue that was $500 million higher than forecast.,negative,-0.9579395055770874
+2015-08-18,"Walmart Cuts Outlook, Citing Rising Wages and Online Investment",negative,-0.923889696598053
+2015-08-26,"The retailer will stop selling modern sporting rifles, which are similar to the AR-15 assault rifle, which has been used in prominent mass shootings.",negative,-0.4854729473590851
+2015-08-26,Walmart to End Sales of Assault-Style Rifles in U.S. Stores,negative,-0.8875454068183899
+2015-09-03,"Shadow workers, people who are sort of but not really in the labor force, may be holding wage growth back.",negative,-0.9152897596359253
+2015-09-03,This Was to Be the Year of Bigger Wage Gains.,positive,0.763714611530304
+2015-09-03,It’s Not.,neutral,-0.1281394064426422
+2015-07-01,"After decades of resistance, the oil behemoth is taking carefully considered steps to support gay, lesbian, bisexual and transgender employees.",positive,0.6823053956031799
+2015-07-01,Exxon Lumbers Along to Catch Up With Gay Rights,positive,0.44155552983283997
+2015-07-16,"The major oil companies did not bid, and only two blocks were successfully auctioned.",neutral,0.01655389741063118
+2015-07-16,Mexico Auctions Oil Blocks in Attempt to Increase Production,neutral,0.2700434625148773
+2015-07-31,Declining oil and natural gas prices contributed to the companies’ disappointing second-quarter results.,negative,-0.9513537883758545
+2015-07-31,Exxon and Chevron Report Worst Quarterly Results of Current Decade,negative,-0.9420583248138428
+2015-07-20,"The deal would further bolster Lockheed’s status as the world’s biggest military contractor, giving it another major business line.",positive,0.9256479144096375
+2015-07-20,Lockheed Martin to Buy Sikorsky Aircraft for $9 Billion,neutral,0.03502434864640236

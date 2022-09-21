@@ -1,0 +1,879 @@
+Date,Sentence,Prediction,sentimentScore
+2011-07-01,"The defunct Canadian telecommunications equipment maker sold more than 6,000 patent assets to a consortium of technology and telecom giants for $4.5 billion in cash.",neutral,0.012454494833946228
+2011-07-01,Apple and Microsoft Beat Google for Nortel Patents,negative,-0.10241618752479553
+2011-07-05,"Walter Shimoon, a former employee at Flextronics, is the 12th person to plead guilty in the government’s investigation of expert network firms.",negative,-0.5791522264480591
+2011-07-05,Executive Pleads Guilty to Leaking Apple Secrets,negative,-0.5644232630729675
+2011-07-13,"With many wireless carriers feeling threatened by the growing prominence of Apple and Google, those companies’ success could provide the foundation of Research in Motion’s recovery.",positive,0.6739165782928467
+2011-07-13,"To Rebound, RIM Courts the Carriers",neutral,0.1480647176504135
+2011-07-19,Strong sales in emerging markets and to business customers helped Apple extend its streak of stellar performance in the last quarter without introducing any major new products.,positive,0.933165967464447
+2011-07-19,Strong Sales Help Extend Apple Streak,positive,0.8869225978851318
+2011-07-20,"Apple applies its “shake things up” policy in its new version of Mac OS X 10.7, known as Lion.",neutral,0.08491522073745728
+2011-07-20,It shares two important factors with the iPad.,neutral,0.035750120878219604
+2011-07-20,Upgrading to Lion Means Embracing the iPad,neutral,0.4313306212425232
+2011-07-20,"Windows phones don’t have nearly as many apps as Apple and Android devices, but there are still some winners.",neutral,0.2997218668460846
+2011-07-20,"The Best Apps, Although a Thinner Selection, for Windows 7",neutral,0.17586299777030945
+2011-07-22,"The billionaire investor Carl C. Icahn had some advice for the cellphone unit, which was spun off earlier this year as an independent company: sell your patents.",neutral,0.025091908872127533
+2011-07-22,"The Icahn Effect, Motorola Edition",neutral,-0.0073252394795417786
+2011-07-22,Hulu has had little trouble filling its dance card with potential suitors.,neutral,0.12252005189657211
+2011-07-22,Now Apple is said to be in the mix.,neutral,-0.0007322672754526138
+2011-07-22,But is Apple willing to pay more than $2 billion for reruns of “Glee”?,neutral,0.12453541904687881
+2011-07-22,Will Apple Pay Up for Hulu?,neutral,0.08718325197696686
+2011-07-23,Can Apple retain its dominance after ending the iPhone’s exclusivity to AT&T?,neutral,0.4530739188194275
+2011-07-23,A Verizon subscriber compares the packaging and content of rival devices.,neutral,0.0030117612332105637
+2011-07-23,Worthy Rivals for the Crown in Smartphones,positive,0.5187622904777527
+2011-07-24,"Must-have gadgets are causing a stir, with stores packed and inventory sparse.",negative,-0.8514339923858643
+2011-07-24,"In China, Apple Finds a Sweet Spot",neutral,0.13582730293273926
+2011-07-25,"There is little evidence that Bing has done much for Microsoft, and it might prove more valuable to the company’s shareholders if it were sold.",neutral,0.05428500846028328
+2011-07-25,Bing Becomes a Distraction for Microsoft,negative,-0.5212202668190002
+2011-08-10,A close look at earnings ratios and growth suggests the company may actually be worth $1 trillion.,neutral,0.15471409261226654
+2011-08-10,Apple May Be Underpriced,negative,-0.7992417216300964
+2011-08-10,"Apple surpassed Exxon Mobil as the stock markets’ most valuable company, although Exxon finished the day in the lead.",positive,0.7140769958496094
+2011-08-10,"Briefly, Apple Reigns as the Most Valuable Company",neutral,0.16999319195747375
+2011-08-10,"Phones can cause their own kind of stress, but there are several apps to help you calm down and even get to sleep.",neutral,-0.031822219491004944
+2011-08-10,Curl Up With a Soothing Smartphone and Relax,neutral,0.044820234179496765
+2011-08-15,"The acquisition, Google’s largest ever, would turn the maker of the Android mobile operating system into a full-fledged cellphone manufacturer, in direct competition with Apple.",positive,0.7656258344650269
+2011-08-15,Google to Buy Motorola Mobility for $12.5 Billion,neutral,0.06527406722307205
+2011-08-16,JPMorgan Chase estimated that 519 American multinational corporations had $1.37 trillion outside the United States.,neutral,-0.0008188076317310333
+2011-08-16,The Deal Professor offers a way to repatriate some of that money.,positive,0.4864789545536041
+2011-08-16,Tax Policy Change Would Bring Cash Piles Abroad Back Home,positive,0.636969804763794
+2011-08-19,"Wall Street’s bulls got mauled again, but there were other stories that may have brightened up the week for some.",positive,0.3252289295196533
+2011-08-19,We recount a few in poetic form.,neutral,-0.0026174671947956085
+2011-08-19,"The Week That Was, in Verse",neutral,-0.043425559997558594
+2011-08-20,"Computer makers are expected to ship only about 4 percent more PCs this year than last year, while tablets are flying off store shelves.",negative,-0.9274781346321106
+2011-08-20,"As PCs Wane, Companies Look to Tablets",neutral,0.04909782484173775
+2011-08-24,"These days, large technology companies — particularly those in the hypercompetitive smartphone and tablet industries — are cutting their losses with increasing speed.",neutral,0.12205418944358826
+2011-08-24,Sell Big or Die Fast,neutral,-0.06375979632139206
+2011-08-24,"Steven P. Jobs, the leader who propelled Apple to its current heights, is known for many things, but he was not really a deal maker.",neutral,0.04332022741436958
+2011-08-24,"With Departure of Jobs, Will Apple Warm to Deal-Making?",neutral,0.27822020649909973
+2011-08-24,"Apple said that Steven P. Jobs, its co-founder and chief executive, would step down, but wants to remain chairman.",neutral,-0.021821998059749603
+2011-08-24,"Tim Cook, the chief operating officer, will take over the position.",neutral,0.01688237302005291
+2011-08-24,Steven P. Jobs Leaves Chief Executive Role at Apple,neutral,-0.1258562058210373
+2011-08-24,"Gather a throng of iPhone enthusiasts, add a sampling of photo-editing apps and a cocktail bar, and the result is an “Instawalk” followed by art.",neutral,0.07689456641674042
+2011-08-24,"Strolling Artists, Bearing iPhones",neutral,0.05352326110005379
+2011-08-25,"Steven P. Jobs, who has cancer, made Apple one of the world’s most valuable companies.",neutral,0.4384653568267822
+2011-08-25,Timothy D. Cook will take over as chief executive.,neutral,0.02342688851058483
+2011-08-25,"Jobs Steps Down at Apple, Saying He Can’t Meet Duties",negative,-0.8215546607971191
+2011-08-25,"No immediate changes to Apple products will be discernible with Mr. Jobs’s departure, but questions may arise in the future.",neutral,-0.04889340326189995
+2011-08-25,"Without Its Master of Design, Apple Will Face Many Challenges",negative,-0.5460640788078308
+2011-08-25,Steven P. Jobs co-founded Apple Computer 35 years ago.,neutral,0.027623627334833145
+2011-08-25,"Steven P. Jobs, Apple's Innovator",neutral,0.07268786430358887
+2011-08-25,Warren Buffett’s investment in Bank of America was unable to turn the market around in the face of rising jobless claims.,negative,-0.9499475359916687
+2011-08-25,Shares Fall as Hopes Fade for New Action by Fed and Jobless Claims Rise,negative,-0.8715434670448303
+2011-08-25,"Apple said that Steven P. Jobs, its co-founder and chief executive, would step down, but wants to remain chairman.",neutral,-0.021821998059749603
+2011-08-25,"Tim Cook, the chief operating officer, will take over the position.",neutral,0.01688237302005291
+2011-08-25,Steven P. Jobs Leaves Chief Executive Role at Apple,neutral,-0.1258562058210373
+2011-08-25,The patents that carry Steven Jobs’s name help reveal a chief executive whose design choices reached into every corner of the company.,neutral,0.04754188284277916
+2011-08-25,"A Chief Executive’s Attention to Detail, Noted in 313 Patents",neutral,0.06421905755996704
+2011-08-25,Many hedge fund managers count the technology giant among their top stock holdings — and it has paid off.,positive,0.6828925609588623
+2011-08-25,Will Apple Remain a Hedge Fund Favorite?,neutral,0.09018415957689285
+2011-08-25,The news that Steven Jobs would would step down as chief executive of Apple is being noted by senior agency managers as they assess the effect that his departure will have on the company’s brand.,neutral,-0.36616259813308716
+2011-08-25,"On Madison Avenue, Talk of Jobs’s Legacy",neutral,-0.2466736137866974
+2011-08-26,Steve Jobs’s decision to step down as chief executive of Apple brought some people to tears and inspired loving tributes to him on the Web.,neutral,-0.0814698338508606
+2011-08-26,"Where Some Earn Enmity, Jobs Won Affection",negative,-0.38872241973876953
+2011-08-26,"As Timothy D. Cook takes over as Apple’s chief executive, followers of the company wonder how he will react to the spotlight and the scrutiny.",neutral,-0.35353660583496094
+2011-08-26,"Big Shoes at Apple, but Maybe Not Unfillable",neutral,-0.0030632615089416504
+2011-08-27,"Apple announced the rental plan last fall as an experiment to encourage sales of shows through iTunes, but rentals did not take off as hoped.",positive,0.500420868396759
+2011-08-27,Apple Ends Its TV Episode Rental Service,neutral,-0.29867708683013916
+2011-08-27,"A look at the latest Weekend Business podcast, and a listen.",neutral,0.031578242778778076
+2011-08-27,"Podcast: Bernanke, the Budget and Steve Jobs",neutral,-0.04701043665409088
+2011-08-27,"Again and again, Steve Jobs would step up to entrenched players in media and explain their business to them in ways they didn’t recognize from the inside.",neutral,0.15970918536186218
+2011-08-27,Steve Jobs Reigned in a Kingdom of Altered Landscapes,neutral,-0.08466103672981262
+2011-08-30,"The co-founder of Apple, who stepped down as chief executive last week, has focused on his work and family, not philanthropy.",neutral,-0.01631627231836319
+2011-08-30,The Mystery of Steve Jobs’s Public Giving,neutral,-0.23531635105609894
+2011-09-01,Environmentalists released a report documenting what they said was pollution from “suspected” Apple suppliers throughout China.,negative,-0.8332747220993042
+2011-09-01,Apple Cited as Adding to Pollution in China,negative,-0.7043538689613342
+2011-09-01,"Eddy Cue will now also be in charge of iCloud and iAd, the Apple mobile ad system.",neutral,0.034638192504644394
+2011-09-01,Long-Time iTunes Chief Moves Up at Apple,neutral,0.26396307349205017
+2011-09-05,"Samsung said it acted after a court in Düsseldorf, Germany, granted Apple’s request to prohibit sales and marketing of the product, Galaxy Tab 7.7.",negative,-0.7926344871520996
+2011-09-05,Samsung Removes Tablet From Trade Show After Injunction,negative,-0.8638967275619507
+2011-09-06,"Jaguar Financial, a small Canadian merchant bank, is pushing for the board of Research in Motion to explore options to increase the company’s share price, including a potential sale or spinoff of its patent portfolio.",positive,0.7834867835044861
+2011-09-06,Activist Fund Calls for Breakup of BlackBerry Maker,neutral,-0.14181384444236755
+2011-07-08,"Cases in the United States and Brazil are pursuing connections between an Atlanta-area businessman and trafficking in underage girls along the Amazon, according to court papers.",negative,-0.8693066239356995
+2011-07-08,Allegations Link U.S. Companies to Brazilian Sex Tourism,negative,-0.852603554725647
+2011-07-12,"The state passed a law that says online companies must collect sales tax on purchases by Californians, which an antitax group is trying to roll back.",neutral,0.18110361695289612
+2011-07-12,Amazon Backs End to Online Sales Tax in California,neutral,-0.07851339876651764
+2011-07-14,Amazon has an ambitious and far-reaching new agenda: it wants to rewrite tax policy for the Internet era.,neutral,0.13164295256137848
+2011-07-14,Amazon Takes On California,neutral,0.07188289612531662
+2011-07-29,"Amazon announced a deal for access to part of Universal’s film library, its second such pact in streaming video in as many weeks.",positive,0.8852202892303467
+2011-07-29,"In Deal With NBC, Amazon Seeks to Widen Its Video Streaming Service",positive,0.7905832529067993
+2011-08-17,"Amazon moved aggressively to fulfill its new ambition to publish books as well as sell them, announcing that it had signed Timothy Ferriss, the popular self-help guru.",positive,0.8535693883895874
+2011-08-17,Amazon Set to Publish Pop Author,neutral,0.03990268334746361
+2011-08-26,"After months of talks, Amazon is said to have signed a licensing deal with Sony for its “cloud” streaming service.",positive,0.9139280319213867
+2011-08-26,Amazon Said to Strike Licensing Deal With Sony,neutral,0.44989582896232605
+2011-09-04,"To avoid paying tens of millions of dollars, Amazon.com is seeking a voter referendum on whether online retailers should pay sales taxes.",neutral,-0.1372818797826767
+2011-09-04,"In California, Amazon Pushes Hard to Kill a Tax",neutral,-0.1976059377193451
+2011-09-08,"In a provisional agreement, Amazon agreed to start collecting sales tax a year from now.",positive,0.5871945023536682
+2011-09-08,Amazon and California in Deal on Tax,neutral,-0.18099693953990936
+2011-09-10,California lawmakers overwhelmingly approved a compromise bill giving Amazon.com a one-year reprieve from having to collect a sales tax from its customers in the state.,positive,0.7548940777778625
+2011-09-10,California Lawmakers Give Amazon Tax Reprieve,neutral,-0.0033476650714874268
+2011-07-01,The challenge to a new Boeing plant in South Carolina by a union in Seattle has turned into a political firefight between the foes and partisans of organized labor.,negative,-0.9303321242332458
+2011-07-01,Boeing Labor Dispute Is Making New Factory a Political Football,negative,-0.7915513515472412
+2011-07-20,"The order from Boeing and Airbus, which hasn’t sold new planes to American for years, is worth over $38 billion.",neutral,0.18805046379566193
+2011-07-20,Jet Order by American Is a Coup for Boeing’s Rival,neutral,-0.20956598222255707
+2011-07-27,The company said it remained on track to deliver its first 787 Dreamliner passenger jet and 747-8 air freighter in the third quarter.,positive,0.7355386018753052
+2011-07-27,Improved Sales Help Boeing Beat Forecasts,positive,0.8068989515304565
+2011-08-01,"The president of American Airlines is hoping for an eventual merger with British Airways, and expects to see a relaxing of United States foreign ownership rules that will let such a deal happen.",neutral,0.39847004413604736
+2011-08-01,American Airlines Hopes for a B.A.,neutral,0.413995623588562
+2011-08-01,Merger,neutral,0.04256719350814819
+2011-08-10,"Singapore Airlines and Cathay Pacific, which is based in Hong Kong, announced purchases from Boeing totaling 20 aircraft at list prices of about $5.6 billion.",positive,0.5861423015594482
+2011-08-10,2 Asian Carriers Disclose Big Orders,neutral,-0.1820957362651825
+2011-07-01,"Thomas J. Curry will be nominated to lead the Office of the Comptroller of the Currency, a banking regulator whose acting chief has been criticized by Democrats as obstructing reforms.",neutral,-0.36719146370887756
+2011-07-01,Official From F.D.I.C.,neutral,-0.18477122485637665
+2011-07-01,Picked To Lead Banking Regulator,neutral,0.0719500482082367
+2011-07-02,"After a theft involving home loans, should lenders bear any blame?",negative,-0.7703694701194763
+2011-07-02,That’s at issue in a case now in a New York State court.,neutral,-0.09245040267705917
+2011-07-02,The Swindler and the Home Loans,neutral,-0.26750102639198303
+2011-07-03,Two of the nation’s biggest lenders are quietly modifying loans for tens of thousands of borrowers who have not asked for help but whom the banks deem to be at special risk.,negative,-0.36979085206985474
+2011-07-03,Big Banks Easing Terms on Loans Deemed as Risks,negative,-0.21760927140712738
+2011-07-08,LivingSocial gave the much-coveted lead underwriter positions for its forthcoming I.P.O.,neutral,0.4647594690322876
+2011-07-08,"to Deutsche Bank, JPMorgan Chase and Bank of America Merrill Lynch.",neutral,-0.0021431539207696915
+2011-07-08,LivingSocial Taps 3 Banks to Lead Its I.P.O.,neutral,0.41262567043304443
+2011-07-12,"As part of its $8.5 billion settlement with investors, Bank of America will turn over the work on tens of thousands of troubled mortgages to smaller servicers.",neutral,0.0598733052611351
+2011-07-12,Bank’s Deal Means More Will Lose Their Homes,negative,-0.7928218841552734
+2011-07-13,The New York attorney general asked for information about the $8.5 billion settlement agreed to by Bank of America and investment firms holding soured mortgage securities.,neutral,0.22269737720489502
+2011-07-13,Bank of America’s Mortgage Deal Questioned,neutral,0.022103287279605865
+2011-07-14,Robust gains in almost all of JPMorgan Chase’s main businesses offered hope that the banking industry’s prospects were not as bad as feared.,positive,0.8814787268638611
+2011-07-14,"JPMorgan Posts $5.4 Billion Profit, Beating Estimates",positive,0.426668643951416
+2011-07-14,"Gary Lynch, who started this week as global head of legal, compliance and regulatory relations, received just over 415,000 restricted stock units of Bank of America.",neutral,-0.0644943118095398
+2011-07-14,$4 Million Welcome for Lynch at Bank of America,neutral,0.07988674193620682
+2011-07-16,Banks have so far written down only a small portion of their second-lien mortgage loans.,negative,-0.8067730665206909
+2011-07-16,"As home values in some areas continue to sink, more losses may be in store.",negative,-0.944284200668335
+2011-07-16,"2nd Loans, 2nd Wave of Losses",negative,-0.4489644467830658
+2011-07-18,Officials on Monday were discussing a proposal for a special levy to ensure that banks shared part of the cost of helping Greece a second time.,neutral,0.2779167592525482
+2011-07-18,European Governments Consider a Bank Tax to Finance Greek Bailout,neutral,0.03777291998267174
+2011-07-19,The bank doled out huge payments to settle legal claims related to its troubled mortgage division.,positive,0.3019552528858185
+2011-07-19,"The loss was steep, but it was fully baked into expectations.",negative,-0.12393432855606079
+2011-07-19,"At Bank of America, an $8.8 Billion Loss",neutral,-0.18212777376174927
+2011-07-20,"The sluggish economy is causing consumers to cut back on mortgages, credit card and other types of consumer loans.",negative,-0.9394283890724182
+2011-07-20,Weak Recovery Weighs on Bank of America and Wells Fargo,negative,-0.9386409521102905
+2011-07-20,"After 18 months as Bank of America’s chief, Brian Moynihan hasn’t convinced investors that he is turning the bank around.",negative,-0.5149142742156982
+2011-07-20,Time Running Out for a Bank Chief,negative,-0.3524285554885864
+2011-07-22,European leaders now accept that the Continent has a responsibility not just to prevent collapse but to get the Greek economy moving again.,positive,0.5575123429298401
+2011-07-22,"To Preserve Its Currency Union, Europe Needs a Financial Union",neutral,0.17130914330482483
+2011-07-24,"Italy and Spain are major guarantors, but they may be next in line for aid if Europe’s debt crisis deepens.",neutral,-0.030395299196243286
+2011-07-24,Europe’s Troubled Economies Join the Rescue Team,neutral,0.10344399511814117
+2011-07-25,"Now that the quiet period for banks involved in the public offering has lifted, the company’s top underwriters, Morgan Stanley, JPMorgan Chase and Citigroup, all initiated coverage on Pandora.",neutral,0.1929786503314972
+2011-07-25,A Mixed Reception for Pandora,negative,-0.6205926537513733
+2011-07-26,"California lined up the loan as an emergency cushion in case it could not sell bonds because of turmoil from Washington’s failure to raise the debt ceiling, the state’s treasurer said.",neutral,0.35621434450149536
+2011-07-26,California Secures $5.4 Billion Loan From 8 Banks,positive,0.6690459847450256
+2011-07-27,"Bank stocks have been persistently weak, and the logical solution is that they shed business lines in a bid to improve their prospects in the eyes of Wall Street.",positive,0.5009074211120605
+2011-07-27,"Once Unthinkable, Breakup of Big Banks Now Seems Feasible",negative,-0.5013266801834106
+2011-07-28,"In the wake of the stellar debut of Dunkin’ Brands, a specialty tea retailer soars on its first day of trading, highlighting the robust investor demand for popular consumer brands.",positive,0.9057501554489136
+2011-07-28,Teavana Soars on Debut,neutral,0.27242937684059143
+2011-07-29,Mike Stewart will be co-heard of global securities and head of securities in the Americas for UBS.,neutral,0.01634928025305271
+2011-07-29,UBS Hires Bank of America Executive,neutral,-0.0247989222407341
+2011-07-29,"Dunkin’s underwriters, led by JPMorgan Chase, made $27,478,753 million in fees in its offering — or enough to buy 137.4 million Munchkins.",neutral,0.08126432448625565
+2011-07-29,How Sweet It Is: $27 Million in Fees for Dunkin’s Underwriters,neutral,0.09524911642074585
+2011-08-01,The Windstream Corporation has agreed to buy the broadband services provider Paetec Holding in a bid to build out its fiber network and cloud computing services.,positive,0.6976789236068726
+2011-08-01,Windstream to Buy Paetec for $891 Million,neutral,0.031129788607358932
+2011-08-04,American indexes fell around 5 percent as new data heightened fears that the United States may be headed toward a double-dip recession and that Europe’s debt crisis could widen.,negative,-0.9270451664924622
+2011-08-04,Stocks Plunge on Fears of Global Turmoil,negative,-0.8394986391067505
+2011-08-04,Bank of New York Mellon is accused of fraud in its role overseeing loan pools at the heart of an accord with Bank of America.,negative,-0.8605147004127502
+2011-08-04,Mortgage Settlement Challenged,neutral,0.03375023975968361
+2011-08-05,Industrial and Commercial Bank of China agreed to pay the South African lender Standard Bank $600 million for control of three financial units in Argentina.,positive,0.6477405428886414
+2011-08-05,I.C.B.C.,neutral,0.03218197077512741
+2011-08-05,to Buy Controlling Stake in Argentine Bank,neutral,0.056610144674777985
+2011-08-05,"Many banks lack the trading systems needed for the new Dodd-Frank restrictions, including a ban on proprietary trading, the consulting firm Deloitte says.",neutral,-0.11460818350315094
+2011-08-05,"Banks Face Obstacles With Volcker Rule, Report Finds",neutral,-0.022434115409851074
+2011-08-08,"Stocks fell sharply Monday as investors, already worried about the economy, worked out the downgrade’s implications.",negative,-0.8734562397003174
+2011-08-08,"Bank stocks, in particular, were hammered.",negative,-0.926344096660614
+2011-08-08,Stocks Suffer Sharpest Drop Since 2008,negative,-0.949635922908783
+2011-08-08,"The suit seeks to recover more than $10 billion in losses on mortgage-backed securities, claiming Bank of America and its affiliates misrepresented the quality of the underlying mortgages.",negative,-0.8992788791656494
+2011-08-08,A.I.G.,neutral,0.045108746737241745
+2011-08-08,Sues Bank of America Over Mortgage Bonds,negative,-0.8432718515396118
+2011-08-08,How can you know if the E.C.B.,neutral,-0.06993071734905243
+2011-08-08,is going to buy bonds?,neutral,0.014768853783607483
+2011-08-08,Just look for a denial.,neutral,-0.06105082482099533
+2011-08-08,Forecasting the E.C.B.,neutral,0.04413015395402908
+2011-08-08,Bank of America shares slide 15 percent; the bank has now lost nearly nearly half its stock market value this year.,negative,-0.9642865657806396
+2011-08-08,Financial Stocks Tumble,negative,-0.32176798582077026
+2011-08-08,"Shares in the banking giant tumbled by 20.3 percent to $6.51 a share on Monday, renewing fears over its financial health.",negative,-0.9641062021255493
+2011-08-08,Bank of America Shares Fall to Lowest Point in 2 Years,negative,-0.9450592994689941
+2011-08-08,"JPMorgan Chase has hired Paul Brown, a senior insurance deal-maker, from Bank of America Merrill Lynch, the firm announced in an internal memo.",neutral,0.1503073126077652
+2011-08-08,JPMorgan Hires Senior Insurance Banker From Bank of America,neutral,-0.017936214804649353
+2011-08-09,"In an interview, Henry M. Paulson Jr., the former Treasury secretary, said the crisis this time stemmed from Europe’s fiscal problems.",negative,-0.7583045959472656
+2011-08-09,"Disaster Movie Gets a Sequel, With Subtitles",neutral,0.023511653766036034
+2011-08-09,The bank shed over $16 billion of market value on Monday as its shares fell 20 percent after the downgrade of the United States credit rating.,negative,-0.9668897986412048
+2011-08-09,Bank of America Is Back in an Abyss,neutral,-0.0568062961101532
+2011-08-09,"Bank of America, Citigroup and JPMorgan Chase are among the leading gainers a day after a market bloodbath.",positive,0.1273914873600006
+2011-08-09,Financial Stocks Hold On,negative,-0.6083757877349854
+2011-08-09,"With a stock slide still fresh, there are many things to ask the Bank of America chief in a conference call on Wednesday, including: Why are you doing this?",neutral,-0.1339915543794632
+2011-08-09,Six Questions for Brian Moynihan,neutral,-0.002878628671169281
+2011-08-10,"Citigroup, Bank of America and other financial stocks, rattled by euro debt fears, lead the United States market lower.",negative,-0.9401528835296631
+2011-08-10,Here We Go Again,neutral,0.10983244329690933
+2011-08-10,"Bank of America’s chief executive, Brian T. Moynihan, is fielding questions from investors today.",neutral,-0.02918083965778351
+2011-08-10,Live Blog: Q.&A.,neutral,0.018121590837836266
+2011-08-10,With Bank of America’s Chief,neutral,0.008802488446235657
+2011-08-11,"Fears about the soundness of European banks are feeding new concerns about the stability of American financial institutions, whose shares have dived.",negative,-0.941612184047699
+2011-08-11,Banking Sector Punished Over European Debt,negative,-0.6540029048919678
+2011-08-11,Wall Street executives and some market insiders feel the sell-off in bank stocks has been overdone.,negative,-0.9346761703491211
+2011-08-11,But some big institutions have been selling for months.,neutral,-0.24625013768672943
+2011-08-11,The Trouble With Financial Stocks,neutral,-0.33076855540275574
+2011-08-11,Mounting losses at Countrywide might overwhelm Bank of America.,negative,-0.9413710236549377
+2011-08-11,"The best strategy, the Deal Professor says, would appear to be to throw Countrywide into bankruptcy.",neutral,0.014734314754605293
+2011-08-11,"For Bank of America, Countrywide Bankruptcy Is Still  an Option",neutral,-0.18447323143482208
+2011-08-15,The bank is shifting its focus to credit cards in the United States while still struggling with the hefty losses in its troubled mortgage division.,positive,0.20666076242923737
+2011-08-15,Bank of America Sells Canadian Credit Card Business,neutral,0.0005834028124809265
+2011-08-16,"A spate of multibillion-dollar mergers and acquisitions surprised investors, who had expected deal activity to slow in a grim economic environment.",positive,0.67519211769104
+2011-08-16,"Casting Off Gloom, Deal Makers Are in a Frenzy of Activity",neutral,0.04688413441181183
+2011-08-16,Europe’s sovereign debt crisis threatened to spill over into the broader economy as figures showed that growth in the euro zone fell to its lowest rate in two years.,negative,-0.9422503113746643
+2011-08-16,Europe’s Debt Crisis Weakens Quarterly Growth,negative,-0.9496356248855591
+2011-08-16,A sale of the Merrill Lynch real estate holdings would be the latest move by Bank of America to shed noncore assets and raise additional capital.,neutral,0.24094714224338531
+2011-08-16,Bank of America in Talks With Blackstone Over Merrill Real Estate,neutral,0.037366341799497604
+2011-08-18,"Ron Sturzenegger was tapped to run Bank of America Merrill Lynch’s Legacy Asset Servicing division, which includes tens of billions of dollars of mortgage assets and home loans that are delinquent or in default.",neutral,0.040379706770181656
+2011-08-18,Bank of America Names Executive to Oversee Bad Loan Portfolio,neutral,-0.028759479522705078
+2011-08-19,"With its stock down more than 50 percent since January, Bank of America is set to eliminate at least 3,500 jobs in the coming months to cut quarterly costs by $1.5 billion.",negative,-0.9565778970718384
+2011-08-19,Bank of America Plans Big Layoffs to Cut Costs,negative,-0.8690198659896851
+2011-08-19,"In an internal memo obtained by DealBook, the financial firm’s chief executive, Brian T. Moynihan, noted that it would be difficult to “manage through reductions,” but emphasized that the bank “will get through these challenges.”",positive,0.434030145406723
+2011-08-19,Bank of America Layoffs Continue,negative,-0.8614950180053711
+2011-08-19,"Caller ID spoofing, the way hackers gain access to phone voice mail accounts, can also be used to get someone else’s credit card information.",neutral,-0.3924667537212372
+2011-08-19,Your Voice Mail May Be Even Less Secure Than You Thought,negative,-0.8313924670219421
+2011-08-23,"The chief executive, Brian T. Moynihan, is insisting the bank does not need to raise capital but the market clearly disagrees.",negative,-0.8463134169578552
+2011-08-23,Bank of America’s Capital Quandary,neutral,-0.13323378562927246
+2011-08-23,"Jeff Horowitz has been named global head of real estate, gaming and lodging for the investment bank.",neutral,0.053480878472328186
+2011-08-23,Bank of America Names Top Real Estate Banker,neutral,0.035718560218811035
+2011-08-23,America’s biggest banks are recovering at the expense of smaller institutions; Bank of America’s shareholders are accepting postponed benefits.,positive,0.6708932518959045
+2011-08-23,The Hazards of Success in American Banking,neutral,-0.05834146589040756
+2011-08-24,"In a provocative appearance at the Temple Mount, the conservative pundit proclaimed the beginning of a global movement to support Israel.",neutral,0.18309782445430756
+2011-08-24,"At Temple Mount, Glenn Beck Draws Crowd of Hundreds",neutral,0.067783422768116
+2011-08-24,"Some prominent Wall Street analysts came out in support of the bank giant, and its battered shares bounced back.",positive,0.8190933465957642
+2011-08-24,"Who Loves You, Bank of America?",neutral,0.05511465296149254
+2011-08-25,Warren Buffett’s investment in Bank of America was unable to turn the market around in the face of rising jobless claims.,negative,-0.9499475359916687
+2011-08-25,Shares Fall as Hopes Fade for New Action by Fed and Jobless Claims Rise,negative,-0.8715434670448303
+2011-08-25,"Tests to date have gone too easy on banks and leave major risks in the financial system, an economist writes.",negative,-0.8953357338905334
+2011-08-25,More Transparent Bank Stress Tests Are Needed,neutral,0.03334367275238037
+2011-08-25,"On Thursday, Berkshire Hathaway, run by Warren E. Buffett, announced plans to invest $5 billion in Bank of America, a vote of confidence for the beleaguered financial firm.",neutral,0.35135766863822937
+2011-08-25,Buffett Invests $5 Billion in Bank of America,neutral,0.04467787221074104
+2011-08-25,Warren E. Buffett told CNBC that he came up with the idea to invest in Bank of America while taking a bath.,neutral,0.14488928020000458
+2011-08-25,"Bloggers blanched, but Mr. Buffett has a long history with bathtubs.",negative,-0.7450751066207886
+2011-08-25,Buffett’s Bathtub Fixation,neutral,-0.036113351583480835
+2011-08-25,"While he is investing $5 billion into Bank of America, Warren E. Buffett is no stranger to taking up positions in the nation’s biggest lenders.",neutral,0.05510406941175461
+2011-08-25,Buffett Adds Another Bank to His Portfolio,neutral,0.04964904114603996
+2011-08-25,Bank of America got a better deal than Goldman did when Warren Buffett rescued it in 2008.,positive,0.9025934338569641
+2011-08-25,"But no rescue would have been necessary if B of A had not decided to make its own rescue, of Countrywide Financial.",neutral,-0.10115040093660355
+2011-08-25,"Risks, Rescues and Remorse",neutral,0.018988793715834618
+2011-08-25,Bank of America’s price for getting Warren E. Buffett’s seal of approval may not be as steep as what Goldman Sachs and General Electric have paid.,neutral,0.0917862057685852
+2011-08-25,But it will cost the firm $9.51 a second.,negative,-0.6885998249053955
+2011-08-25,What Buffett Is Getting From His Bank of America Deal,neutral,0.037286218255758286
+2011-08-25,"On Thursday, Berkshire Hathaway, run by Mr. Buffett, announced plans to invest $5 billion in Bank of America, a vote of confidence for the beleaguered financial firm.",neutral,0.32700368762016296
+2011-08-25,Buffett's $5 Billion BofA Bet,neutral,0.054122865200042725
+2011-08-25,"Susanne Craig looks at Warren E. Buffett’s decision to invest $5 billion in Bank of America, a vote of confidence for the beleaguered financial firm.",neutral,0.04874097555875778
+2011-08-25,Buffett’s $5 Billion Bet,neutral,0.0462329126894474
+2011-08-26,An investor seen as having the golden touch rejuvenates Bank of America’s stock with his $5 billion vote of confidence.,positive,0.5562185645103455
+2011-08-26,Buffett’s Bank of America Stake Is Viewed as a Seal of Approval,neutral,0.0709027498960495
+2011-08-26,"Even as Warren E. Buffett’s $5 billion investment lifted Bank of America’s shares more than 9 percent, analysts cautioned that it did not address problems that will take years to correct.",positive,0.05933380126953125
+2011-08-26,Buffett to Invest $5 Billion in Shaky Bank of America,neutral,0.06433229148387909
+2011-08-26,Highlights from the DealBook newsletter.,neutral,0.030878622084856033
+2011-08-26,Morning Take-Out,neutral,0.07331109046936035
+2011-08-26,"A consortium of sovereign wealth funds and private equity firms is in negotiations with bankers, an official briefed on the talks said.",neutral,0.09210480749607086
+2011-08-26,Big Asset Sale Near at Bank of America,neutral,0.05309262126684189
+2011-08-29,"The bank said it would sell about half of its China Construction Bank holdings to a group of investors for $8.3 billion, the latest asset sale for the beleaguered financial firm.",neutral,0.0423930287361145
+2011-08-29,Bank of America Sells Stake in China Construction Bank,neutral,0.07501164823770523
+2011-08-29,JPMorgan Chase says it will waive A.T.M.,neutral,-0.09202160686254501
+2011-08-29,"fees for those in hurricane-affected areas through Sept. 4, while Bank of America deploys mobile A.T.M.’s.",neutral,0.025195516645908356
+2011-08-29,"In Irene’s Wake, Banks Make Adjustments",neutral,-0.06473483890295029
+2011-08-29,"A forecast by Jean-Claude Trichet, the head of Europe’s central bank, indicated that it might not be as willing to raise interest rates.",negative,-0.780730128288269
+2011-08-29,New Worries in Europe Over Pace of Growth,negative,-0.8219174742698669
+2011-08-30,"Warren E. Buffett, who has called for higher taxes on the rich, took aim at a Wall Street Journal editorial that called his Bank of America investment a “tax-avoidance triumph.”",negative,-0.7294764518737793
+2011-08-30,Buffett Defends Tax Bill on Bank of America Deal,neutral,-0.08169619739055634
+2011-08-30,"Several homeowners filed suit in a federal court, seeking to block a proposed $8.5 billion settlement between Bank of America and major mortgage investors.",negative,-0.8739555478096008
+2011-08-30,Bank of America Settlement Faces Growing Challenges,neutral,-0.30761420726776123
+2011-08-30,Nevada’s attorney general wants to end a broad mortgage agreement it struck with Bank of America in 2008.,negative,-0.7899410128593445
+2011-08-30,Nevada Says Bank Broke Mortgage Settlement,negative,-0.8478600978851318
+2011-08-31,Warren E. Buffett’s investment in Bank of America reveals something both infuriating and scary: the bank has not been talking straight about its need for capital.,negative,-0.8963824510574341
+2011-08-31,Buffett Investment Could Erode Confidence in Big Banks,negative,-0.9149132966995239
+2011-09-01,"The council set up under the Dodd-Frank Act to guard against systemic risk should look at two impending mergers, risks posed by Bank of America, and bank capitalization generally, an economist writes.",neutral,0.044653359800577164
+2011-09-01,3 Questions on Financial Stability,neutral,0.0133249182254076
+2011-09-02,"The federal agency that oversees Fannie Mae and Freddie Mac is expected to sue Bank of America, Goldman Sachs and others, accusing them of failures in vetting mortgages during the housing bubble.",negative,-0.9063224196434021
+2011-09-02,U.S. Is Set to Sue a Dozen Big Banks Over Mortgages,negative,-0.854518711566925
+2011-09-02,"Bank of America shares have shed the Warren E. Buffett bounce, opening sharply lower on Friday morning after a flutter of bad news for the financial firm.",negative,-0.970305860042572
+2011-09-02,Bank of America Loses Its Bounce,negative,-0.8295279741287231
+2011-09-02,"September 2, 2011 - Lawsuits by a federal agency are expected to accuse the banks of misrepresenting the quality of mortgage securities they assembled and sold at the housing bubble's peak.",negative,-0.9149801135063171
+2011-09-02,TimesCast | Banks Face Mortgage Lawsuits,negative,-0.7879142165184021
+2011-09-02,The action is part of a growing attempt to force banks to pay billions of dollars for helping stoke the housing bubble.,negative,-0.5686880350112915
+2011-09-02,Federal Regulators Sue Big Banks Over Mortgages,negative,-0.8541246652603149
+2011-09-02,"Federal regulators filed suits on Friday against several of the nation’s leading banks, seeking billions in compensation for huge losses by Fannie Mae and Freddie Mac on mortgage-backed securities the banks assembled during the housing boom.",negative,-0.8430586457252502
+2011-09-02,Bank Suits Over Mortgages Are Filed,negative,-0.6077651977539062
+2011-09-03,Negotiators for the European Central Bank and the International Monetary Fund unexpectedly left talks in Greece after a disagreement that fueled worry over response to the crisis.,negative,-0.9222109913825989
+2011-09-03,"After a Tiff Over Greek Aid, Questions Arise Over Europe’s Response to Debt Crisis",negative,-0.8981679081916809
+2011-09-06,"Shares of the Dunkin’ Brands Group slid 5 percent Tuesday morning, as equity analysts issued a mixed bag of reports, including a sell rating from Goldman Sachs, one of its top underwriters.",negative,-0.9638140797615051
+2011-09-06,Dunkin’ Donuts Parent Gets Mixed Reviews,negative,-0.48955994844436646
+2011-09-06,Federal regulators are relying on lesser-known provisions of the securities laws that give them a stronger basis for going after 17 banks for damages.,neutral,-0.06966455280780792
+2011-09-06,U.S. Takes Hard Line in Suits Over Bad Mortgages,negative,-0.6873115301132202
+2011-09-07,"The bank announced the departure of two finance veterans, Sallie Krawcheck and Joseph Price, and named David Darnell and Tom Montag as co-chief operating officers.",neutral,-0.1395479440689087
+2011-09-07,Struggling Bank of America Shakes Up Its Top Management,negative,-0.8854320645332336
+2011-09-07,Women — always a rare breed in the upper echelons of Wall Street — are looking like an endangered species in the executive suites of big banks.,negative,-0.5036247372627258
+2011-09-07,Bank of America’s Sallie Krawcheck is the latest to go.,neutral,-0.0895283967256546
+2011-09-07,The Last Women Standing on Wall Street,neutral,-0.3512527346611023
+2011-09-07,Highlights from the DealBook newsletter.,neutral,0.030878622084856033
+2011-09-07,Morning Take-Out,neutral,0.07331109046936035
+2011-09-07,Sallie Krawcheck won a spot on the board of the Financial Industry Regulatory Authority in August.,neutral,0.22194933891296387
+2011-09-07,"Now that she has become a free agent, that seat may be up for grabs.",neutral,-0.019140563905239105
+2011-09-07,Krawcheck’s Exit Leaves Regulator in the Lurch,negative,-0.7802061438560486
+2011-09-08,Top executives of the country’s largest bank will gather to review recommendations of a 44-member internal team that has been preparing restructuring plans since March.,neutral,0.05668826401233673
+2011-09-08,Waiting for a New Blueprint From Bank of America,neutral,0.13787841796875
+2011-09-08,Bank of America Merrill Lynch has been hurt by the slowdown recently in deal-making amid the stock market’s wild swings over the summer.,negative,-0.9652471542358398
+2011-09-08,Merrill Lynch Cuts Several Hundred Jobs,negative,-0.8973671197891235
+2011-09-09,"Wall Street on 9/11: Needing to focus on something other than devastation and heartbreak, a Merrill Lynch trader says, “We weren’t going to let anyone bring us down.”",negative,-0.4867248833179474
+2011-09-09,Replacing Panic With a Sense of Pride,neutral,0.23579072952270508
+2011-07-14,"A group led by Joshua Harris, a co-founder of the private equity firm Apollo Global Management, is buying the Philadelphia 76ers basketball team from Comcast-Spectacor.",neutral,0.0751245841383934
+2011-07-14,Private Equity Princes Reach Deal for 76ers,neutral,0.28654778003692627
+2011-07-28,The Rev.,neutral,0.04882621765136719
+2011-07-28,"Al Sharpton, who might become the host of a TV show on MSNBC, lobbied in favor of Comcast’s purchase of NBCUniversal.",neutral,0.36902278661727905
+2011-07-28,Sharpton’s Push for Comcast Raises Issues About Possible MSNBC Job,negative,-0.8196521401405334
+2011-08-04,Comcast said its 51 percent rise in profit helps to justify the purchase of NBCUniversal from General Electric.,positive,0.8405236601829529
+2011-08-04,NBCUniversal Helps Lift Comcast’s Quarterly Results,negative,-0.2689703702926636
+2011-08-15,"In Time Warner Cable’s biggest acquisition since 2006, it has reached a deal for Insight Communications, a person with knowledge of the deal said.",positive,0.7661215662956238
+2011-08-15,Time Warner Cable Is Said to Acquire Midwest Cable Operator,neutral,0.023953426629304886
+2011-08-28,"General Electric will team up with Cinelan to make 30 three-minute films by well-known directors, including Morgan Spurlock.",positive,0.642562210559845
+2011-08-28,G.E.,neutral,0.0415060818195343
+2011-08-28,to Produce Short Films About Innovation,neutral,0.02472684159874916
+2011-08-30,"Dick Ebersol, who left NBC in May after a conflict with the network’s new management from the Comcast Corporation, will be rejoining the network as a special adviser to NBC’s sports.",neutral,-0.008829960599541664
+2011-08-30,Ebersol to Rejoin NBC Sports as a Senior Adviser,neutral,0.03962012007832527
+2011-09-07,"NBC Universal, majority-owned by Comcast, is hiring one of its longtime advisers, Stuart J. Epstein.",neutral,0.06989037990570068
+2011-09-07,NBC Universal Hires Top Morgan Stanley Media Banker,neutral,0.016423843801021576
+2011-07-02,"Despite the clamor for spending cuts alone, tax increases need to be part of any comprehensive budget plan, says Christina D. Romer.",positive,0.7341660857200623
+2011-07-02,The Rock and the Hard Place on the Deficit,neutral,-0.023260772228240967
+2011-07-08,"Investment advisers agree that political and financial upheavals will continue for a time, and a long view may be the best way to navigate.",neutral,0.11530967801809311
+2011-07-08,Advisers Keep Eyes on the Horizon in a Choppy Economy,negative,-0.45563071966171265
+2011-07-13,Frank Lautenberg and John D. Rockefeller have been critical of News Corporation and Rupert Murdoch in the past.,negative,-0.7472968101501465
+2011-07-13,Congressmen Call for U.S. Investigation of News Corporation,neutral,-0.1403988003730774
+2011-07-13,"Peter King is the first Republican to call for an inquiry into the company’s practices, including anonymous allegations that journalists tried to get phone information on 9/11 victims.",neutral,-0.3380456566810608
+2011-07-13,Calls for Congress to Investigate the Conduct of the News Corporation,neutral,-0.13465723395347595
+2011-07-18,"Why hasn’t more attention been paid to progressive proposals to balance the federal budget, an economist asks.",neutral,0.05839639902114868
+2011-07-18,How the Budget War Was Framed,neutral,0.003854803740978241
+2011-07-19,"While the hedge fund industry has largely been flat this year, a few closely watched managers like D.E.",neutral,-0.19428667426109314
+2011-07-19,"Shaw, Citadel, SAC Capital and Millennium are standing out.",neutral,0.06909622251987457
+2011-07-19,The Bright Spots in Hedge Funds,neutral,0.10088285803794861
+2011-07-19,"Energy Transfer raised its offer for Southern Union to $44.25 a share, slightly edging past the Williams Companies’ most recent $44 a share bid.",positive,0.8961411714553833
+2011-07-19,Energy Transfer Bumps Its Southern Union Bid,neutral,-0.15075995028018951
+2011-07-20,"While other financial firms got weighed down by mortgage liabilities, trading misses and other problems, BlackRock produced double-digit gains in both revenue and profit.",positive,0.9236733913421631
+2011-07-20,"BlackRock Profit Rises 25%, to $578 Million",positive,0.8415765166282654
+2011-07-21,"Gary Gensler, the Commodity Futures Trading Commission’s chairman, reminded Congressional Republicans that derivatives were at the center of the financial crisis.",negative,-0.5437591075897217
+2011-07-21,"Under Attack, Gensler Defends Derivatives Rules",neutral,-0.1319708526134491
+2011-07-25,Two new profiles of the Goldman Sachs executives Lloyd C. Blankfein and Gary D. Cohn shed light on the men atop the secretive investment bank.,neutral,0.022938307374715805
+2011-07-25,The Goldman View: Blankfein and Cohn,neutral,0.03824593126773834
+2011-08-02,"Russell D. Glass of RDG Capital practices his own brand of activist investment, one of quiet insistence that companies should consider selling themselves or breaking apart.",neutral,-0.009833380579948425
+2011-08-02,"An Activist Investor With a Quiet Voice, but a Firm Hand",neutral,0.214946448802948
+2011-08-05,DST board also spurns Russell Glass’s offer to buy the company’s stake in State Street.,positive,0.6717981100082397
+2011-08-05,DST Denies Activist Investor’s Board Bid,neutral,-0.24653831124305725
+2011-08-12,"Scheduling a constant round of activities for children can deplete family finances, and does not necessarily mean the children will be successful, or happy, later in life.",negative,-0.9256691932678223
+2011-08-12,Family Happiness and the Overbooked Child,neutral,0.11607770621776581
+2011-08-12,"A look at the latest Weekend Business podcast, and a listen.",neutral,0.031578242778778076
+2011-08-12,"Podcast: Bonds, Markets, the Economy and History",neutral,0.00467170774936676
+2011-08-13,More companies are pursuing the idea that profit-making should be a priority of their social responsibility programs.,neutral,0.12669816613197327
+2011-08-13,"First, Make Money.",neutral,0.12076571583747864
+2011-08-13,"Also, Do Good.",neutral,0.2976342737674713
+2011-08-19,"Leon D. Black’s 60th birthday party in the Hamptons was lavish, and in a way showed that little has changed in the private equity world.",neutral,0.37297946214675903
+2011-08-19,Birthdays Are Still Big in Buyout Land,neutral,0.12018927931785583
+2011-08-19,"Wall Street’s bulls got mauled again, but there were other stories that may have brightened up the week for some.",positive,0.3252289295196533
+2011-08-19,We recount a few in poetic form.,neutral,-0.0026174671947956085
+2011-08-19,"The Week That Was, in Verse",neutral,-0.043425559997558594
+2011-08-23,"Since the passing of the financial crisis, boutique investment banks have claimed that their time has come.",neutral,-0.07242536544799805
+2011-08-23,Their pitch is relatively simple: we sell advice and advice alone.,neutral,0.014796009287238121
+2011-08-23,"In Latest Deals, Big Roles for Boutique Investment Banks",neutral,0.06295701116323471
+2011-08-24,"Steven P. Jobs, the leader who propelled Apple to its current heights, is known for many things, but he was not really a deal maker.",neutral,0.04332022741436958
+2011-08-24,"With Departure of Jobs, Will Apple Warm to Deal-Making?",neutral,0.27822020649909973
+2011-08-25,"Steven P. Jobs, who has cancer, made Apple one of the world’s most valuable companies.",neutral,0.4384653568267822
+2011-08-25,Timothy D. Cook will take over as chief executive.,neutral,0.02342688851058483
+2011-08-25,"Jobs Steps Down at Apple, Saying He Can’t Meet Duties",negative,-0.8215546607971191
+2011-08-26,"As Timothy D. Cook takes over as Apple’s chief executive, followers of the company wonder how he will react to the spotlight and the scrutiny.",neutral,-0.35353660583496094
+2011-08-26,"Big Shoes at Apple, but Maybe Not Unfillable",neutral,-0.0030632615089416504
+2011-08-30,"James D. Risher and Daniel Sebastian fraudulently promised annual returns of as much as 124 percent, the S.E.C.",negative,-0.5065864324569702
+2011-08-30,said in a lawsuit.,neutral,-0.3855974078178406
+2011-08-30,2 in Florida Are Charged In $22 Million Ponzi Scheme,negative,-0.6468003988265991
+2011-09-01,"As part of an ambitious effort to overhaul its image, Goldman Sachs has a new Web site filled with sparkling testimonials from employees and videos featuring the firm’s executives.",neutral,0.13099491596221924
+2011-09-01,The Friendly New Face of Goldman,neutral,0.3244621753692627
+2011-09-01,"Eddy Cue will now also be in charge of iCloud and iAd, the Apple mobile ad system.",neutral,0.034638192504644394
+2011-09-01,Long-Time iTunes Chief Moves Up at Apple,neutral,0.26396307349205017
+2011-09-09,"The suit accuses 11 firms, including Blackstone Group and Kohlberg Kravis Roberts, of a conspiracy to rig the market for multibillion-dollar takeovers.",negative,-0.8380652666091919
+2011-09-09,Judge Widens Antitrust Suit Against Private Equity Firms,negative,-0.8362172842025757
+2011-07-01,"While Disney focuses on lucrative franchises, Pixar maintains it is devoted to the story.",neutral,0.04347441717982292
+2011-07-01,"In “Cars 2,” Disney won.",positive,0.43978679180145264
+2011-07-01,A Collision of Creativity and Cash,neutral,0.016090691089630127
+2011-07-13,"The Dodd-Frank Act and Securities and Exchange Commission regulation were supposed to end unjustified, egregious compensation packages, but evidence does not bear this out.",negative,-0.6328046321868896
+2011-07-13,Efforts to Rein In Executive Pay Meet With Little Success,negative,-0.6136239767074585
+2011-07-15,"After a decline in merchandise sales, Disney is returning to Winnie the Pooh’s hand-drawn look that was abandoned in 2007 for slick Pixar-style animation.",neutral,0.2855624556541443
+2011-07-15,The Real Winnie the Pooh Returns to the Hundred Acre Wood,neutral,0.09249228984117508
+2011-07-26,Disney is offering $454 million to acquire the 49.6 percent stake that it does not already own in UTV Software.,neutral,0.2066698521375656
+2011-07-26,Disney Offers to Buy Out Partners in Indian Media Company,neutral,0.21632134914398193
+2011-07-26,A watchdog group has asked the Motion Picture Association of America to investigate whether Walt Disney Studios and 20th Century Fox violated industry guidelines governing advertising aimed at young children.,negative,-0.8553792238235474
+2011-07-26,Group Says Studios May Have Violated Ad Rules,negative,-0.8904109001159668
+2011-07-28,"The Walt Disney Company won a case over copyright ownership brought by the heirs of Jack Kirby, a co-creator of Fantastic Four and the X-Men.",negative,-0.19715461134910583
+2011-07-28,"Court Ruling Says Marvel Holds Rights, Not an Artist",neutral,-0.006558611989021301
+2011-08-09,The Walt Disney Company reported profits slightly above Wall Street’s predictions on Tuesday.,positive,0.26584556698799133
+2011-08-09,Disney Profits Beat Wall Street Predictions,positive,0.5641477108001709
+2011-08-10,Disney reported a profit of $1.48 billion and told analysts that economic fears were not hurting theme park bookings so far.,negative,-0.5277508497238159
+2011-08-10,"Disney Beats Expectations, Posting 11% Rise in Profit",positive,0.8692755699157715
+2011-08-11,The S.E.C.,neutral,0.014058640226721764
+2011-08-11,"accused a California man of trading on inside information about Disney’s acquisition of Marvel Entertainment, using tidbits he gleaned from his girlfriend who was a Disney employee.",negative,-0.881287157535553
+2011-08-11,Latest Insider Trading Case Tied to Disney Deal,negative,-0.5155256986618042
+2011-08-17,Memberships in Disney’s Aulani resort were sold for over a year with mistakenly low annual dues.,neutral,-0.06722050160169601
+2011-08-17,Disney Fires Three Over Resort Fees Fiasco,negative,-0.818147599697113
+2011-08-17,"The accused, Toby Scammell, calls the S.E.C.",negative,-0.7014073729515076
+2011-08-17,the “financial regulatory equivalent” of the Department of Motor Vehicles.,neutral,0.015437200665473938
+2011-08-17,Insider Trading Defendant in Disney Case Fights Back,negative,-0.7717863917350769
+2011-08-19,"The accused trader, Toby G. Scammell, explains why he is fighting back against the Securities and Exchange Commission in an interview with DealBook.",neutral,-0.19545328617095947
+2011-08-19,Trader in Insider Case Speaks Out Again,neutral,-0.0032847076654434204
+2011-08-21,"Over 40,000 people attended the D23 Expo, a biannual gathering that the media and entertainment conglomerate billed as “the ultimate Disney fan event.”",neutral,0.06050950288772583
+2011-08-21,Fans Flock to Disney Expo in California,neutral,0.02574615180492401
+2011-09-06,"The departure of Andrew Mooney, who reimagined the company’s Princess line to remarkable success, is a big blow to Disney in licensing and retail.",negative,-0.9453622102737427
+2011-09-06,Disney Abruptly Loses Its Licensing Chief,negative,-0.92225182056427
+2011-09-09,The company is revising its approach to mass-market retailers by creating one point-of-contact for its various divisions.,neutral,0.08387356996536255
+2011-09-09,Disney Names Consumer Products Chief,neutral,0.0052608586847782135
+2011-09-10,The Walt Disney Company said that it would reorganize its approach to mass-market retailers and named a movie distribution executive to lead the effort.,neutral,0.4848899841308594
+2011-09-10,Disney Reorganizes Its Retail Sales System,neutral,0.06379272788763046
+2011-07-15,Add to Rupert Murdoch’s list of potential headaches a blast from the past: the Bancroft family.,negative,-0.5479172468185425
+2011-07-15,Murdoch’s Woes Could Include Bancrofts,negative,-0.5752042531967163
+2011-07-15,Les Hinton resigned on Friday as the chief executive of Dow Jones and publisher of The Wall Street Journal.,neutral,-0.333950400352478
+2011-07-15,Les Hinton’s Resignation Letters,negative,-0.3761710226535797
+2011-07-27,The Dow was down nearly 200 points and the S.&P.,negative,-0.9420822858810425
+2011-07-27,500 more than 2 percent.,negative,-0.5760536789894104
+2011-07-27,Debt Impasse Fuels Sharp Fall in Stocks,negative,-0.9210118055343628
+2011-07-27,"The fund will seek companies that have already proven themselves, generating revenue of at least $20 million a year and profit of $3 million to $5 million.",positive,0.6908261179924011
+2011-07-27,S.B.A.,neutral,0.043912068009376526
+2011-07-27,Unveils New Venture Capital Fund,neutral,0.4098550081253052
+2011-07-28,Some positive economic reports were not enough to lift stocks in the face of the debt-ceiling stalemate.,positive,0.3501024544239044
+2011-07-28,Dow Retreats for Fifth Straight Day,negative,-0.9198060035705566
+2011-07-29,The Dow continued its weeklong descent when second-quarter growth data came in lower than forecast.,negative,-0.9603351354598999
+2011-07-29,Stocks Fall After G.D.P.,negative,-0.8600163459777832
+2011-07-29,Data,neutral,-0.021797940135002136
+2011-08-02,"The Standard & Poor’s index erased all of the gains of this year, while the Dow recorded its eighth consecutive day of declines.",negative,-0.9201945662498474
+2011-08-02,World Markets Staggered by Weak Consumer Data,negative,-0.8581275939941406
+2011-08-04,American indexes fell around 5 percent as new data heightened fears that the United States may be headed toward a double-dip recession and that Europe’s debt crisis could widen.,negative,-0.9270451664924622
+2011-08-04,Stocks Plunge on Fears of Global Turmoil,negative,-0.8394986391067505
+2011-08-04,"The Dow Jones industrial average took a pummeling on Thursday, but another Dow Jones, a resident of Alma, Ark., about 1,400 miles away from New York City, performed better than expected.",positive,0.12308153510093689
+2011-08-04,"This Dow Jones Is Doing Just Fine, Thanks",positive,0.8377803564071655
+2011-08-05,"Aug. 5, 2011 - Concerns about Europe's sovereign debt crisis and fears of a double-dip recession in the U.S. are weighing heavily on markets.",negative,-0.923223078250885
+2011-08-05,Multiple Fears Weigh on Markets,negative,-0.6059781908988953
+2011-08-06,Thursday was the worst day for the stock market in more than two years.,negative,-0.9418452978134155
+2011-08-06,"Despite gains on Friday, the Dow Jones Industrial average ended the week down 5.75 percent, worse than 98 percent of the weeks in its history.",negative,-0.9685315489768982
+2011-08-06,Bad Days and Weeks,negative,-0.5480396747589111
+2011-08-08,When down 200 looks positive.,positive,0.6674141883850098
+2011-08-08,Better Than Expected?,positive,0.5461377501487732
+2011-08-08,Fears about the potential economic impact of the sovereign debt crisis roiled markets worldwide.,negative,-0.8684066534042358
+2011-08-08,The Times's Graham Bowley assesses the impact.,neutral,-0.1096227839589119
+2011-08-08,Assessing a Downgrade,neutral,-0.3350490629673004
+2011-08-08,"If the president had nothing new to say, why did he say it?",neutral,-0.06638984382152557
+2011-08-08,Nothing New in Obama Remarks,neutral,-0.0667332112789154
+2011-08-08,The Dow Industrial Average fell more than 600 points in the first day of trading after Standard & Poor's downgraded the U.S. sovereign debt rating.,negative,-0.9513063430786133
+2011-08-08,The Times's Graham Bowley examines the volatile day.,neutral,-0.2589186429977417
+2011-08-08,A Dramatic Sell-Off in the Markets,negative,-0.7081813812255859
+2011-08-09,"All across Wall Street, investors digested the downgrade of the United States credit rating.",negative,-0.6153424382209778
+2011-08-09,"On Volatile Day, Traders Weigh Their Scant Options",negative,-0.5818511247634888
+2011-08-09,"Stocks fluctuated wildly after an announcement by the Fed, first shedding the day’s gains, then rising sharply as the market headed toward its close.",negative,-0.34393465518951416
+2011-08-09,"After Day of Tumult, Dow Closes Up 430 Points",positive,0.02396082878112793
+2011-08-12,"Even on a week when the Dow industrials took a wild roller-coaster ride, there were other stories that piqued Wall Street’s interest.",neutral,0.13421039283275604
+2011-08-12,We recount them in poetic form.,neutral,0.03196462616324425
+2011-08-12,"The Week That Was, in Verse",neutral,-0.043425559997558594
+2011-08-30,"The gains lifted the Dow Jones industrial average briefly into positive territory for the year, but it slipped near the end of trading.",negative,-0.7120413780212402
+2011-08-30,Shares Edge Higher on a Mixed Bag of Economic Reports,positive,0.626797080039978
+2011-09-02,The Dow Jones industrial average closed down 2.2 percent after the government reported no job growth in August.,negative,-0.9481550455093384
+2011-09-02,Wall St. Tumbles After Bleak Jobs Report,negative,-0.9458025097846985
+2011-09-10,"As companies move production overseas and as other industries grow faster, manufacturing is accounting for a smaller share of the economy.",neutral,-0.37394821643829346
+2011-09-10,And the nation has no distinct plan for the sector’s future.,neutral,-0.007760236039757729
+2011-09-10,Is Manufacturing Falling Off the Radar?,negative,-0.7003767490386963
+2011-07-22,The second-quarter results from General Electric were seen as evidence of an improving outlook over all for major industrial companies.,positive,0.9242518544197083
+2011-07-22,"As Recovery Moves Ahead, G.E.",neutral,0.06804344803094864
+2011-07-22,Tops Expectations,neutral,0.17399483919143677
+2011-07-22,"General Electric reported that its financial arm, which lost billions of dollars and became an albatross for the conglomerate during the financial crisis, posted a profit of $1.7 billion in the second quarter.",neutral,0.18425145745277405
+2011-07-22,Profit at GE Capital Jumps 123%,positive,0.5586909055709839
+2011-08-04,Comcast said its 51 percent rise in profit helps to justify the purchase of NBCUniversal from General Electric.,positive,0.8405236601829529
+2011-08-04,NBCUniversal Helps Lift Comcast’s Quarterly Results,negative,-0.2689703702926636
+2011-08-12,"A look at the latest Weekend Business podcast, and a listen.",neutral,0.031578242778778076
+2011-08-12,"Podcast: Bonds, Markets, the Economy and History",neutral,0.00467170774936676
+2011-08-13,More companies are pursuing the idea that profit-making should be a priority of their social responsibility programs.,neutral,0.12669816613197327
+2011-08-13,"First, Make Money.",neutral,0.12076571583747864
+2011-08-13,"Also, Do Good.",neutral,0.2976342737674713
+2011-08-25,"On Thursday, Berkshire Hathaway, run by Warren E. Buffett, announced plans to invest $5 billion in Bank of America, a vote of confidence for the beleaguered financial firm.",neutral,0.35135766863822937
+2011-08-25,Buffett Invests $5 Billion in Bank of America,neutral,0.04467787221074104
+2011-08-25,"While he is investing $5 billion into Bank of America, Warren E. Buffett is no stranger to taking up positions in the nation’s biggest lenders.",neutral,0.05510406941175461
+2011-08-25,Buffett Adds Another Bank to His Portfolio,neutral,0.04964904114603996
+2011-08-25,Bank of America’s price for getting Warren E. Buffett’s seal of approval may not be as steep as what Goldman Sachs and General Electric have paid.,neutral,0.0917862057685852
+2011-08-25,But it will cost the firm $9.51 a second.,negative,-0.6885998249053955
+2011-08-25,What Buffett Is Getting From His Bank of America Deal,neutral,0.037286218255758286
+2011-08-26,Highlights from the DealBook newsletter.,neutral,0.030878622084856033
+2011-08-26,Morning Take-Out,neutral,0.07331109046936035
+2011-08-28,"General Electric will team up with Cinelan to make 30 three-minute films by well-known directors, including Morgan Spurlock.",positive,0.642562210559845
+2011-08-28,G.E.,neutral,0.0415060818195343
+2011-08-28,to Produce Short Films About Innovation,neutral,0.02472684159874916
+2011-08-30,Nevada’s attorney general wants to end a broad mortgage agreement it struck with Bank of America in 2008.,negative,-0.7899410128593445
+2011-08-30,Nevada Says Bank Broke Mortgage Settlement,negative,-0.8478600978851318
+2011-07-20,"The company’s chief, Paul S. Otellini, attributed the results to strong corporate demand for Intel’s most advanced technology and the surge of mobile devices.",positive,0.9056255221366882
+2011-07-20,Intel Posts Profit That Beats Forecasts,positive,0.3785824477672577
+2011-07-07,Basic economics dictates that fiscal responsibility does not require banning deficits.,neutral,0.03322158008813858
+2011-07-07,The Trouble With Balanced Budgets,negative,-0.4124661386013031
+2011-08-03,"Hanging over the debt ceiling talks has been the threat of the United States losing its AAA credit rating, but in corporate America, the top status long ago became an anachronism.",negative,-0.864363431930542
+2011-08-03,AAA Rating Is a Rarity in Business,neutral,0.08597816526889801
+2011-08-09,An agreement in principle was reached on a misdemeanor criminal charge related to the marketing of the antipsychotic drug Risperdal.,positive,0.7785545587539673
+2011-08-09,Johnson & Johnson to Settle Charge Over Drug’s Marketing,neutral,-0.3106876015663147
+2011-09-02,"A look at the latest Weekend Business podcast, and a listen.",neutral,0.031578242778778076
+2011-09-02,"Podcast: Job Creation, Cantor Fitzgerald and Keynes",neutral,0.004490528255701065
+2011-07-01,"Thomas J. Curry will be nominated to lead the Office of the Comptroller of the Currency, a banking regulator whose acting chief has been criticized by Democrats as obstructing reforms.",neutral,-0.36719146370887756
+2011-07-01,Official From F.D.I.C.,neutral,-0.18477122485637665
+2011-07-01,Picked To Lead Banking Regulator,neutral,0.0719500482082367
+2011-07-03,Two of the nation’s biggest lenders are quietly modifying loans for tens of thousands of borrowers who have not asked for help but whom the banks deem to be at special risk.,negative,-0.36979085206985474
+2011-07-03,Big Banks Easing Terms on Loans Deemed as Risks,negative,-0.21760927140712738
+2011-07-08,The bank settled accusations that it had improperly entered secret agreements with bidding agents that gave it a “last look” at bids submitted by its competitors.,negative,-0.9014926552772522
+2011-07-08,JPMorgan Settles Bond Bid-Rigging Case for $211 Million,neutral,0.10791145265102386
+2011-07-08,LivingSocial gave the much-coveted lead underwriter positions for its forthcoming I.P.O.,neutral,0.4647594690322876
+2011-07-08,"to Deutsche Bank, JPMorgan Chase and Bank of America Merrill Lynch.",neutral,-0.0021431539207696915
+2011-07-08,LivingSocial Taps 3 Banks to Lead Its I.P.O.,neutral,0.41262567043304443
+2011-07-10,"After a sizzling first quarter, the weakening economy and an array of worrisome global events have Wall Street planning for big revenue drops and new rounds of layoffs.",negative,-0.9611956477165222
+2011-07-10,Wall St. Banks Expected to Post Weak 2nd-Quarter Results,negative,-0.9679384827613831
+2011-07-14,Robust gains in almost all of JPMorgan Chase’s main businesses offered hope that the banking industry’s prospects were not as bad as feared.,positive,0.8814787268638611
+2011-07-14,"JPMorgan Posts $5.4 Billion Profit, Beating Estimates",positive,0.426668643951416
+2011-07-14,"Moelis & Company, the boutique merger advisory firm, continued its hiring spree on Thursday when it announced that a former JPMorgan Chase banker, Yorick Van Slingelandt, would join the operation in Dubai.",positive,0.34754738211631775
+2011-07-14,Moelis Hires Former JPMorgan Banker,neutral,-0.25677332282066345
+2011-07-14,"JPMorgan Chase named Larry Slaughter, a senior European banker, as a new co-head of investment banking for North America.",neutral,0.17525671422481537
+2011-07-14,JPMorgan Names Co-Head of North America Investment Banking,neutral,-0.0033356938511133194
+2011-07-14,Highlights from the DealBook newsletter.,neutral,0.030878622084856033
+2011-07-14,Morning Take-Out,neutral,0.07331109046936035
+2011-07-14,"JPMorgan Chase’s strong earnings led bank stocks higher early on, but only JPMorgan managed to hold on to its gains.",positive,0.7376642227172852
+2011-07-14,Bank Earnings Season Starts on a High Note,neutral,0.25025999546051025
+2011-07-16,Banks have so far written down only a small portion of their second-lien mortgage loans.,negative,-0.8067730665206909
+2011-07-16,"As home values in some areas continue to sink, more losses may be in store.",negative,-0.944284200668335
+2011-07-16,"2nd Loans, 2nd Wave of Losses",negative,-0.4489644467830658
+2011-07-18,"Analysts at JPMorgan Chase, one of LinkedIn’s underwriters, downgraded their rating on the social network on Monday, sending its shares plummeting.",negative,-0.9505854845046997
+2011-07-18,LinkedIn Shares Fall on JPMorgan Downgrade,negative,-0.919834554195404
+2011-07-19,The weak showing reflected the investment bank’s costly move to reduce risk and cut back trading activities.,negative,-0.8860992193222046
+2011-07-19,The second-quarter performance points to the new reality on Wall Street.,positive,0.557884931564331
+2011-07-19,Goldman Sachs Disappoints With Earnings of $1.05 Billion,negative,-0.9128162264823914
+2011-07-21,The union of Express Scripts and Medco Health Solutions will bring in sizable fees and coveted league table credit to the deal makers who put the transaction together.,positive,0.7313866019248962
+2011-07-21,"In Express Scripts-Medco Deal, a Bonanza for Advisers",neutral,0.2776631712913513
+2011-07-22,"Investment banks once coddled their summer interns, but now the college-age analysts take on full-time workloads with fewer after-hours benefits.",negative,-0.8054144978523254
+2011-07-22,Fewer Perks and More Work for Wall St.’s Summer Interns,neutral,0.028734177350997925
+2011-07-25,"Perella Weinberg Partners has hired Christopher O’Connor, a health care banker at JPMorgan Chase, to help the boutique investment bank build out its medical devices advisory practice.",neutral,0.39282792806625366
+2011-07-25,Perella Weinberg Hires JPMorgan Health Care Banker,neutral,-0.0269441157579422
+2011-07-25,"Now that the quiet period for banks involved in the public offering has lifted, the company’s top underwriters, Morgan Stanley, JPMorgan Chase and Citigroup, all initiated coverage on Pandora.",neutral,0.1929786503314972
+2011-07-25,A Mixed Reception for Pandora,negative,-0.6205926537513733
+2011-07-26,"California lined up the loan as an emergency cushion in case it could not sell bonds because of turmoil from Washington’s failure to raise the debt ceiling, the state’s treasurer said.",neutral,0.35621434450149536
+2011-07-26,California Secures $5.4 Billion Loan From 8 Banks,positive,0.6690459847450256
+2011-07-27,"Bank stocks have been persistently weak, and the logical solution is that they shed business lines in a bid to improve their prospects in the eyes of Wall Street.",positive,0.5009074211120605
+2011-07-27,"Once Unthinkable, Breakup of Big Banks Now Seems Feasible",negative,-0.5013266801834106
+2011-07-28,Standard & Poor’s said it was re-examining its criteria for evaluating certain types of “conduit” securities.,neutral,0.025026146322488785
+2011-07-28,Goldman and Citigroup’s Bond Sale Thwarted by S.&P.,negative,-0.6804521083831787
+2011-07-29,"Dunkin’s underwriters, led by JPMorgan Chase, made $27,478,753 million in fees in its offering — or enough to buy 137.4 million Munchkins.",neutral,0.08126432448625565
+2011-07-29,How Sweet It Is: $27 Million in Fees for Dunkin’s Underwriters,neutral,0.09524911642074585
+2011-08-01,The Windstream Corporation has agreed to buy the broadband services provider Paetec Holding in a bid to build out its fiber network and cloud computing services.,positive,0.6976789236068726
+2011-08-01,Windstream to Buy Paetec for $891 Million,neutral,0.031129788607358932
+2011-08-05,"Many banks lack the trading systems needed for the new Dodd-Frank restrictions, including a ban on proprietary trading, the consulting firm Deloitte says.",neutral,-0.11460818350315094
+2011-08-05,"Banks Face Obstacles With Volcker Rule, Report Finds",neutral,-0.022434115409851074
+2011-08-08,"JPMorgan Chase has hired Paul Brown, a senior insurance deal-maker, from Bank of America Merrill Lynch, the firm announced in an internal memo.",neutral,0.1503073126077652
+2011-08-08,JPMorgan Hires Senior Insurance Banker From Bank of America,neutral,-0.017936214804649353
+2011-08-09,"Bank of America, Citigroup and JPMorgan Chase are among the leading gainers a day after a market bloodbath.",positive,0.1273914873600006
+2011-08-09,Financial Stocks Hold On,negative,-0.6083757877349854
+2011-08-11,Wall Street executives and some market insiders feel the sell-off in bank stocks has been overdone.,negative,-0.9346761703491211
+2011-08-11,But some big institutions have been selling for months.,neutral,-0.24625013768672943
+2011-08-11,The Trouble With Financial Stocks,neutral,-0.33076855540275574
+2011-08-16,JPMorgan Chase estimated that 519 American multinational corporations had $1.37 trillion outside the United States.,neutral,-0.0008188076317310333
+2011-08-16,The Deal Professor offers a way to repatriate some of that money.,positive,0.4864789545536041
+2011-08-16,Tax Policy Change Would Bring Cash Piles Abroad Back Home,positive,0.636969804763794
+2011-08-18,"DealBook presents the full list of advisers on Hewlett-Packard’s $11.7 billion takeover of Autonomy, which represents a small army of bankers and lawyers.",neutral,0.004388144239783287
+2011-08-18,The Advisers Behind H.P.’s Autonomy Deal,neutral,0.03538310527801514
+2011-08-19,"Caller ID spoofing, the way hackers gain access to phone voice mail accounts, can also be used to get someone else’s credit card information.",neutral,-0.3924667537212372
+2011-08-19,Your Voice Mail May Be Even Less Secure Than You Thought,negative,-0.8313924670219421
+2011-08-24,Brokers have been hired to aggressively market the retail space at the hexagonal building known as the Corner that once housed J. P. Morgan headquarters.,neutral,0.18500319123268127
+2011-08-24,"J.P. Morgan’s Fortress, Long Vacant, Looks For Upscale Tenants",neutral,-0.025584260001778603
+2011-08-25,"JPMorgan Chase has agreed to pay an $88.3 million as part of a settlement with the Treasury Department over a series of transactions involving Cuba, Iran and Sudan.",positive,0.8108253479003906
+2011-08-25,JPMorgan to Pay $88.3 Million for Sanctions Violations,neutral,-0.36053529381752014
+2011-08-26,"As Hurricane Irene travels up the East Coast, New York is steeling itself for disaster, with several big financial firms located in designated flood zones.",negative,-0.6786974668502808
+2011-08-26,"As Irene Approaches, Banks Prepare for the Worst",neutral,-0.12521280348300934
+2011-08-28,"The telenovela “Mi Corazón Insiste” has a related Web series called “Y Vuelvo a Ti,” in which a Chase debit card has a cameo.",neutral,0.021915793418884277
+2011-08-28,Product Placement Rises in Networks’ Telenovelas,positive,0.1873009204864502
+2011-08-29,JPMorgan Chase says it will waive A.T.M.,neutral,-0.09202160686254501
+2011-08-29,"fees for those in hurricane-affected areas through Sept. 4, while Bank of America deploys mobile A.T.M.’s.",neutral,0.025195516645908356
+2011-08-29,"In Irene’s Wake, Banks Make Adjustments",neutral,-0.06473483890295029
+2011-09-02,"The federal agency that oversees Fannie Mae and Freddie Mac is expected to sue Bank of America, Goldman Sachs and others, accusing them of failures in vetting mortgages during the housing bubble.",negative,-0.9063224196434021
+2011-09-02,U.S. Is Set to Sue a Dozen Big Banks Over Mortgages,negative,-0.854518711566925
+2011-09-02,The action is part of a growing attempt to force banks to pay billions of dollars for helping stoke the housing bubble.,negative,-0.5686880350112915
+2011-09-02,Federal Regulators Sue Big Banks Over Mortgages,negative,-0.8541246652603149
+2011-09-02,"Federal regulators filed suits on Friday against several of the nation’s leading banks, seeking billions in compensation for huge losses by Fannie Mae and Freddie Mac on mortgage-backed securities the banks assembled during the housing boom.",negative,-0.8430586457252502
+2011-09-02,Bank Suits Over Mortgages Are Filed,negative,-0.6077651977539062
+2011-09-07,Women — always a rare breed in the upper echelons of Wall Street — are looking like an endangered species in the executive suites of big banks.,negative,-0.5036247372627258
+2011-09-07,Bank of America’s Sallie Krawcheck is the latest to go.,neutral,-0.0895283967256546
+2011-09-07,The Last Women Standing on Wall Street,neutral,-0.3512527346611023
+2011-09-08,"Dennis Block, who advised on Pfizer’s $68 billion acquisition of Wyeth and JPMorgan Chase’s purchase of Bear Stearns, is leaving Cadwalader, Wickersham & Taft.",neutral,-0.05062764137983322
+2011-09-08,Leading M.&A.,neutral,0.05338376387953758
+2011-09-08,Lawyer to Join Greenberg Traurig,neutral,0.026972971856594086
+2011-08-19,"Amalgamated, which works for marketers like Ben & Jerry’s, CarMax, Coca-Cola, MSG Networks and Qdoba Mexican Grill, is hiring Brian Martin as chief executive, succeeding Charles Rosen.",neutral,0.06875155866146088
+2011-08-19,Amalgamated Hires a New Chief Executive,neutral,-0.14141088724136353
+2011-08-31,Honest Tea wants the new labels to stand out on the shelf but not alienate consumers as Tropicana did in 2009.,positive,0.49272897839546204
+2011-08-31,A Redesigned Brand Hopes to Avoid Tropicana Storm,neutral,-0.12760785222053528
+2011-07-07,MasterCard Worldwide is expanding its efforts to bring its long-running “Priceless” advertising campaign to life.,positive,0.8868605494499207
+2011-07-07,MasterCard Brings ‘Priceless’ to a Pricey Place,neutral,0.05408447980880737
+2011-07-29,"If Alipay, a Chinese payments processing company, does go public, Alibaba will be paid proceeds of at least $2 billion.",neutral,0.051287807524204254
+2011-07-29,Yahoo and Alibaba Resolve Dispute Over Alipay,negative,-0.8134377002716064
+2011-08-28,Time Warner owns the rights to a Guy Fawkes mask and is paid a licensing fee with the sale of each mask worn by members of the hacker group Anonymous.,neutral,0.027500789612531662
+2011-08-28,Masked Protesters Aid Time Warner’s Bottom Line,negative,-0.7633306384086609
+2011-07-22,"A suit over a test to be marketed by 3M has escalated into a legal morass ensnaring 3M’s chief executive, Britain’s secretary of defense and a Washington lawyer.",negative,-0.9365909695625305
+2011-07-22,Lawsuits and Intrigue Over 3M Diagnostic Test,negative,-0.8532841801643372
+2011-07-26,Industrial stocks lost more than most after uneven reports from 3M and U.S. Steel.,negative,-0.93093341588974
+2011-07-26,Shares Decline as Wall Street Waits for Washington,negative,-0.8506787419319153
+2011-08-02,"After the success of Manhattan’s High Line park, other cities are turning abandoned rail lines into public spaces.",neutral,0.10356313735246658
+2011-08-02,Cities See the Other Side of the Tracks,neutral,-0.01455109566450119
+2011-08-22,"Bolstered by revenue increases and improvements in news gathering, local television news is expanding in major markets.",positive,0.8905215263366699
+2011-08-22,Local TV Newscasts Expanding,neutral,0.05121377855539322
+2011-08-30,Do you have a disaster plan in place for your business?,neutral,-0.33908092975616455
+2011-08-30,Preparing for the Next Disaster,neutral,-0.010477319359779358
+2011-09-10,The F.D.A.,neutral,-0.0011012032628059387
+2011-09-10,"is expected to issue a revised label in November for bone-building drugs like Fosamax, Actonel and Boniva.",neutral,0.10177969187498093
+2011-09-10,Stronger Cautions Backed on Bone Drugs for Women,neutral,0.05592450499534607
+2011-07-01,"Critics argue Google is using its dominance in one area to muscle unfairly into others, as Microsoft did.",negative,-0.870762288570404
+2011-07-01,The Google Inquiry Evokes Microsoft Memories,neutral,-0.013527315109968185
+2011-07-01,"The defunct Canadian telecommunications equipment maker sold more than 6,000 patent assets to a consortium of technology and telecom giants for $4.5 billion in cash.",neutral,0.012454494833946228
+2011-07-01,Apple and Microsoft Beat Google for Nortel Patents,negative,-0.10241618752479553
+2011-07-04,"A year and a half after Google pulled its popular search engine out of China, partly over concerns about censorship, Baidu.com will offer English Web searches through Microsoft’s Bing.",neutral,-0.10593058168888092
+2011-07-04,Microsoft to Partner With China’s Leading Search Engine,positive,0.8941991925239563
+2011-07-05,"Although venture capital and private equity are often regarded as the same, they have different operational methods, which became apparent in Silver Lake’s sale of Skype to Microsoft.",neutral,0.026251493021845818
+2011-07-05,"In Silicon Valley, a Culture Clash Sullies a Romance",negative,-0.7630234956741333
+2011-07-14,"How to transfer the contact list from an old Palm device to Gmail or Outlook, and different ways to share GarageBand compositions made on an iPad.",neutral,-0.0004819408059120178
+2011-07-14,Keeping Contacts From an Old Palm,neutral,0.01841052621603012
+2011-07-20,"Because the Microsoft Kinect is inexpensive and easy to work with, experimentation has grown in creative ways, and people are sharing their exploits online.",neutral,0.3424496352672577
+2011-07-20,"With a Wave of the Hand, Improvising on Kinect",neutral,0.007226649671792984
+2011-07-20,"Windows phones don’t have nearly as many apps as Apple and Android devices, but there are still some winners.",neutral,0.2997218668460846
+2011-07-20,"The Best Apps, Although a Thinner Selection, for Windows 7",neutral,0.17586299777030945
+2011-07-21,"Sales of the company’s main operating system suffered because of the increasing demand for tablets, which do not run on Microsoft software.",negative,-0.9633384943008423
+2011-07-21,"Microsoft Posts a 30% Increase in Profit, but Sales of Windows Are Weak",positive,0.22727352380752563
+2011-07-22,"The billionaire investor Carl C. Icahn had some advice for the cellphone unit, which was spun off earlier this year as an independent company: sell your patents.",neutral,0.025091908872127533
+2011-07-22,"The Icahn Effect, Motorola Edition",neutral,-0.0073252394795417786
+2011-07-25,"There is little evidence that Bing has done much for Microsoft, and it might prove more valuable to the company’s shareholders if it were sold.",neutral,0.05428500846028328
+2011-07-25,Bing Becomes a Distraction for Microsoft,negative,-0.5212202668190002
+2011-07-29,"A look at the latest Weekend Business podcast, and a listen.",neutral,0.031578242778778076
+2011-07-29,"Podcast: G.D.P., European Stocks, Bernanke and Bing",neutral,-0.045332182198762894
+2011-08-03,"Hanging over the debt ceiling talks has been the threat of the United States losing its AAA credit rating, but in corporate America, the top status long ago became an anachronism.",negative,-0.864363431930542
+2011-08-03,AAA Rating Is a Rarity in Business,neutral,0.08597816526889801
+2011-08-04,"Steven VanRoekel, who has been a leader at Microsoft and the F.C.C., will take over as chief information officer for the federal government.",neutral,0.041090939193964005
+2011-08-04,White House Names a New Chief of Information Technology,neutral,0.00536433607339859
+2011-08-15,Shares of Research in Motion and Nokia rose on Monday as investors hoped that someone might swoop in and buy either handset maker for its intellectual property.,positive,0.837456464767456
+2011-08-15,The Ripple Effects of Google’s Motorola Deal,negative,-0.3839765191078186
+2011-08-17,One analyst thinks that Microsoft may be motivated to top Google’s $12.5 billion deal for Motorola.,positive,0.4755088984966278
+2011-08-17,But there are many concerns that have to be considered.,neutral,-0.013023115694522858
+2011-08-17,Musing on the Prospects of a Microsoft Counterbid for Motorola,neutral,-0.002992376685142517
+2011-08-19,"While few expect a rival bid for the British software maker Autonomy, smaller companies with different slices of the enterprise market may become targets.",neutral,0.06364314258098602
+2011-08-19,"After H.P.’s Rich Offer, Deal-Making Spotlight Swings to Data Analysis",neutral,0.10233451426029205
+2011-08-22,The reality-show contest to pick a new cast member for the popular show didn’t attract the audiences that Oxygen expected.,negative,-0.9162346124649048
+2011-08-22,Bing Considers Low-Rated ‘Glee Project’ a Success,neutral,0.13223683834075928
+2011-08-23,"A return of Libyan oil production to levels before the unrest would take until 2015, according to one estimate.",neutral,0.3194715082645416
+2011-08-23,The forecast may now be too pessimistic.,negative,-0.7754231095314026
+2011-08-23,Rethinking Libya and Oil Prices,neutral,0.034985557198524475
+2011-08-24,"These days, large technology companies — particularly those in the hypercompetitive smartphone and tablet industries — are cutting their losses with increasing speed.",neutral,0.12205418944358826
+2011-08-24,Sell Big or Die Fast,neutral,-0.06375979632139206
+2011-09-10,"By studying the electrical fields all around us, researchers are exploring how human gestures could someday control various kinds of electronic devices.",neutral,0.08049536496400833
+2011-09-10,"Remote Control, With a Wave of a Hand",neutral,0.0023732800036668777
+2011-08-19,"While few expect a rival bid for the British software maker Autonomy, smaller companies with different slices of the enterprise market may become targets.",neutral,0.06364314258098602
+2011-08-19,"After H.P.’s Rich Offer, Deal-Making Spotlight Swings to Data Analysis",neutral,0.10233451426029205
+2011-08-25,Silicon Valley’s largest venture capital firms are raising their stakes in so-called enterprise companies.,positive,0.6487671136856079
+2011-08-25,"Behind the Glittery Web Start-Ups, Investors See Other Gold",neutral,0.050020527094602585
+2011-08-05,"Through Pepsi’s ads on “The X Factor” and next year’s Super Bowl commercial, the company will return to its tradition of big, splashy pop music commercials.",positive,0.7320972681045532
+2011-08-05,Pepsi Takes Active Role in ‘X Factor’,neutral,0.05926184356212616
+2011-07-04,Chantix was linked to an increased risk of a heart attack or other serious cardiovascular event for smokers without a history of heart disease.,negative,-0.4235941171646118
+2011-07-04,Study Links Smoking Drug to Cardiovascular Problems,neutral,-0.2326565682888031
+2011-07-07,The drug maker steps up a streamlining effort to focus on its core business.,positive,0.7161502242088318
+2011-07-07,Pfizer Puts Nutrition and Animal Health Units on the Block,neutral,0.010599867440760136
+2011-08-02,Sales of the company’s Lyrica pain pill and its Enbrel arthritis medicine topped analysts’ predictions.,positive,0.8811731934547424
+2011-08-02,Sales of Pain Drugs Help Pfizer’s Profit Beat Forecasts,positive,0.8083574771881104
+2011-08-04,Pfizer hopes to have an over-the-counter version of the world’s best-selling drug after it loses patent protection.,neutral,-0.12980729341506958
+2011-08-04,Pfizer Is Said to Pursue Nonprescription Lipitor,neutral,0.015263537876307964
+2011-07-19,The company said enrollment rose and members were moderating their use of health care services.,positive,0.7992908954620361
+2011-07-19,"Profit Up 13%, UnitedHealth Raises Outlook",positive,0.838472306728363
+2011-08-25,"Company boards are attracted to share buybacks when markets are down, but the purchase often ends up damaging the value of a stock.",negative,-0.8942068219184875
+2011-08-25,The Negative Side of Share Buybacks,negative,-0.62360680103302
+2011-07-05,"Seeding funds, deluged with hedge fund suitors, can afford to be picky when investing.",neutral,0.00782608613371849
+2011-07-05,"Starting Up, Funds Turn to ‘Seeders’",neutral,0.058240748941898346
+2011-07-12,The former deputy mayor of New York takes over day-to-day duties of his old boss’s sprawling media company.,neutral,-0.012241233140230179
+2011-07-12,Doctoroff Named Chief Executive of Bloomberg L.P.,neutral,0.040408287197351456
+2011-07-12,"Three new financial thrillers are all worth a read, but some are more realistic than others.",neutral,0.02847284823656082
+2011-07-12,Here is DealBook’s take.,neutral,-0.011493656784296036
+2011-07-12,How Realistic Are Wall Street Thrillers?,neutral,0.01892342045903206
+2011-07-13,"Peter King is the first Republican to call for an inquiry into the company’s practices, including anonymous allegations that journalists tried to get phone information on 9/11 victims.",neutral,-0.3380456566810608
+2011-07-13,Calls for Congress to Investigate the Conduct of the News Corporation,neutral,-0.13465723395347595
+2011-07-19,Three writers with backgrounds on Wall Street blur the line between reality and fiction with several new thrillers.,neutral,-0.2414505034685135
+2011-07-19,DealBook’s Kevin Roose brings the writers together for a roundtable discussion about whether a novel can hold a candle to the real drama of the Street.,neutral,0.07983975857496262
+2011-07-19,Writing on Wall Street (Car Chase Optional),neutral,-0.0011938586831092834
+2011-07-20,"After 18 months as Bank of America’s chief, Brian Moynihan hasn’t convinced investors that he is turning the bank around.",negative,-0.5149142742156982
+2011-07-20,Time Running Out for a Bank Chief,negative,-0.3524285554885864
+2011-07-23,Can Apple retain its dominance after ending the iPhone’s exclusivity to AT&T?,neutral,0.4530739188194275
+2011-07-23,A Verizon subscriber compares the packaging and content of rival devices.,neutral,0.0030117612332105637
+2011-07-23,Worthy Rivals for the Crown in Smartphones,positive,0.5187622904777527
+2011-07-25,"LG intends to begin a big marketing campaign on Monday in New York for the Thrill 4G, a 3-D smartphone to be sold in partnership with AT&T.",positive,0.5110655426979065
+2011-07-25,LG Promotes the ‘Thrill’ of It All,neutral,0.06218516081571579
+2011-07-25,A viewer is “mesmerized” by the animated globe that evolves into the AT&T logo at commercial’s end.,neutral,0.049231044948101044
+2011-07-25,Q. and A.,neutral,0.0380171574652195
+2011-07-25,With Stuart Elliott,neutral,0.02111242711544037
+2011-08-01,"America Móvil is hoping to buy full control of its former parent, Telmex, in a bid to consolidate Carlos Slim Helú’s vast telecommunications holdings.",neutral,0.47932443022727966
+2011-08-01,Carlos Slim Offers to Buy Full Control of Telmex,neutral,0.1321333795785904
+2011-08-08,"Shares in the banking giant tumbled by 20.3 percent to $6.51 a share on Monday, renewing fears over its financial health.",negative,-0.9641062021255493
+2011-08-08,Bank of America Shares Fall to Lowest Point in 2 Years,negative,-0.9450592994689941
+2011-08-09,The bank shed over $16 billion of market value on Monday as its shares fell 20 percent after the downgrade of the United States credit rating.,negative,-0.9668897986412048
+2011-08-09,Bank of America Is Back in an Abyss,neutral,-0.0568062961101532
+2011-08-09,"With a stock slide still fresh, there are many things to ask the Bank of America chief in a conference call on Wednesday, including: Why are you doing this?",neutral,-0.1339915543794632
+2011-08-09,Six Questions for Brian Moynihan,neutral,-0.002878628671169281
+2011-08-10,"Bank of America’s chief executive, Brian T. Moynihan, is fielding questions from investors today.",neutral,-0.02918083965778351
+2011-08-10,Live Blog: Q.&A.,neutral,0.018121590837836266
+2011-08-10,With Bank of America’s Chief,neutral,0.008802488446235657
+2011-08-14,Cellphone plans that let people gobble up unlimited data are disappearing as new data-heavy services catch on.,negative,-0.8550172448158264
+2011-08-14,"As Networks Speed Up, Data Hits a Wall",neutral,-0.36605292558670044
+2011-08-15,The bank is shifting its focus to credit cards in the United States while still struggling with the hefty losses in its troubled mortgage division.,positive,0.20666076242923737
+2011-08-15,Bank of America Sells Canadian Credit Card Business,neutral,0.0005834028124809265
+2011-08-15,"The American International Group named Brian T. Schreiber, its executive vice president for Treasury and capital markets, to the additional role of the insurer’s treasurer.",neutral,0.07209499925374985
+2011-08-15,A.I.G.,neutral,0.045108746737241745
+2011-08-15,Names New Treasurer,neutral,0.019191432744264603
+2011-08-19,"In an internal memo obtained by DealBook, the financial firm’s chief executive, Brian T. Moynihan, noted that it would be difficult to “manage through reductions,” but emphasized that the bank “will get through these challenges.”",positive,0.434030145406723
+2011-08-19,Bank of America Layoffs Continue,negative,-0.8614950180053711
+2011-08-22,Attorney General Eric T. Schneiderman of New York is under pressure from the Obama administration to drop opposition to a state settlement with banks over foreclosure practices.,negative,-0.8853169083595276
+2011-08-22,Attorney General of N.Y. Is Said to Face Pressure on Bank Foreclosure Deal,negative,-0.7627621293067932
+2011-08-23,"The chief executive, Brian T. Moynihan, is insisting the bank does not need to raise capital but the market clearly disagrees.",negative,-0.8463134169578552
+2011-08-23,Bank of America’s Capital Quandary,neutral,-0.13323378562927246
+2011-08-25,"On Thursday, Berkshire Hathaway, run by Warren E. Buffett, announced plans to invest $5 billion in Bank of America, a vote of confidence for the beleaguered financial firm.",neutral,0.35135766863822937
+2011-08-25,Buffett Invests $5 Billion in Bank of America,neutral,0.04467787221074104
+2011-08-26,An investor seen as having the golden touch rejuvenates Bank of America’s stock with his $5 billion vote of confidence.,positive,0.5562185645103455
+2011-08-26,Buffett’s Bank of America Stake Is Viewed as a Seal of Approval,neutral,0.0709027498960495
+2011-08-26,The Federal Communications Commission said it would resume its review of AT&T’s $39 billion bid for T-Mobile USA after AT&T provided more information about new economic models used to justify the deal.,neutral,0.06765663623809814
+2011-08-26,F.C.C.,neutral,0.030943963676691055
+2011-08-26,Restarts Clock on Review of AT&T’s T-Mobile Deal,neutral,0.00815301388502121
+2011-08-29,"The bank said it would sell about half of its China Construction Bank holdings to a group of investors for $8.3 billion, the latest asset sale for the beleaguered financial firm.",neutral,0.0423930287361145
+2011-08-29,Bank of America Sells Stake in China Construction Bank,neutral,0.07501164823770523
+2011-08-31,"Seeking good will for its $39 billion deal to buy T-Mobile USA, the company plans to announce that it will restore 5,000 outsourced call-center jobs.",negative,-0.02880159020423889
+2011-08-31,AT&T Plans to Bring Back Jobs Sent Abroad,positive,0.32040297985076904
+2011-08-31,The Justice Department filed a complaint on Wednesday to stop AT&T’s acquisition of T-Mobile.,negative,-0.9243512749671936
+2011-08-31,U.S. Moves to Block AT&T Merger with T-Mobile,negative,-0.870263397693634
+2011-08-31,"Shares of Sprint Nextel, the nation’s third-largest cellular carrier, were up nearly 8 percent in early afternoon trading on Wednesday after the Justice Department moved to block AT&T’s proposed merger with T-Mobile USA.",positive,0.8632087111473083
+2011-08-31,Sprint Shares Surge on AT&T Setback,negative,-0.1421550214290619
+2011-08-31,"Scores of companies, lawmakers and other parties have weighed in on AT&T’s proposed deal for T-Mobile.",neutral,0.06517715752124786
+2011-08-31,Here’s what some had to say about the Justice Department’s effort to block the deal.,neutral,-0.3096720278263092
+2011-08-31,Reacting to Justice’s Suit Against AT&T,neutral,-0.22182048857212067
+2011-08-31,"The Justice Department filed a complaint to stop AT&T’s proposed $39 billion acquisition of T-Mobile, saying it could lessen competition.",negative,-0.9247955083847046
+2011-08-31,U.S. Moves to Block Merger Between AT&T and T-Mobile,negative,-0.8648273348808289
+2011-08-31,Warren E. Buffett’s investment in Bank of America reveals something both infuriating and scary: the bank has not been talking straight about its need for capital.,negative,-0.8963824510574341
+2011-08-31,Buffett Investment Could Erode Confidence in Big Banks,negative,-0.9149132966995239
+2011-08-31,Some $150 million in investment bank advisory fees is at risk if the government blocks the $39 billion acquisition of T-Mobile.,negative,-0.9225184917449951
+2011-08-31,"If Deal Is Killed, Wall Street Will Lose Out",negative,-0.8622763752937317
+2011-08-31,The U.S. Justice Department filed a lawsuit Wednesday to stop AT&T’s proposed $39 billion acquisition of T-Mobile.,negative,-0.9148211479187012
+2011-08-31,TimesCast | U.S.,neutral,-0.019297439604997635
+2011-08-31,Challenges Telecom Deal,neutral,0.08317284286022186
+2011-08-31,The company didn’t appear to get the hint that the Justice Department wasn’t satisfied with either the speed or the scope of potential remedies.,negative,-0.7918828725814819
+2011-08-31,How AT&T Got to a Standoff With the Government,negative,-0.6883259415626526
+2011-09-01,"Although the Justice Department is suing to block AT&T’s deal with T-Mobile, it has been criticized on how it handled other proposed mergers.",negative,-0.9306517243385315
+2011-09-01,The Antitrust Battle Ahead,neutral,-0.22447077929973602
+2011-09-01,"The Justice Department challenged a merger of AT&T and T-Mobile to spur competition and innovation, but analysts question whether T-Mobile’s independence will serve that goal.",neutral,0.11480925977230072
+2011-09-01,"In T-Mobile Suit, Consumers Are Central",neutral,-0.03996317461133003
+2011-09-01,"Judge Ellen Segal Huvelle, who is overseeing the Justice Department’s lawsuit against AT&T, has plenty of antitrust experience, including a case a decade ago in which the government was dealt a big loss.",neutral,0.030695710331201553
+2011-09-01,Taking on a Veteran Antitrust Judge in the AT&T Fight,neutral,-0.2870846092700958
+2011-09-02,"Should the Justice Department’s lawsuit kill the proposed merger of AT&T and T-Mobile USA, some analysts say it could harm T-Mobile, its competitiveness sapped by months of limbo.",negative,-0.95244300365448
+2011-09-02,T-Mobile May Suffer if AT&T Deal Fails,negative,-0.9593240022659302
+2011-09-02,Christine A. Varney and James M. Cole presided over the government’s decision to block the planned merger of AT&T and T-Mobile.,neutral,-0.2840351462364197
+2011-09-02,Justice Dept.’s Top Officials in Pursuing the AT&T Lawsuit,neutral,-0.0202312208712101
+2011-09-02,Highlights from the DealBook newsletter.,neutral,0.030878622084856033
+2011-09-02,Morning Take-Out,neutral,0.07331109046936035
+2011-09-02,AT&T has vowed to do battle with the Justice Department in court while it tries to cozy up to antitrust regulators by agreeing to shed assets and submit to monitoring.,negative,-0.5002717971801758
+2011-09-02,AT&T Plans to Woo U.S. And Fight It,neutral,0.03305555135011673
+2011-09-04,"Sprint has acknowledged the difficulties it faces when rivals can secure better deals on hardware, but it has room for optimism, especially with the iPhone expected to arrive.",positive,0.876642107963562
+2011-09-04,"With or Without an AT&T Deal for T-Mobile, Sprint Faces Daunting Challenges",neutral,0.08747927844524384
+2011-09-06,"Deutsche Telekom, which owns T-Mobile USA, could work with the Justice Department on a region-by-region basis to build support for the deal, one analyst says.",positive,0.7496731281280518
+2011-09-06,T-Mobile USA Owner to Study Deal Options,neutral,0.043459203094244
+2011-09-06,The company’s complaint echoed the Justice Department’s argument that the deal would diminish the American cellphone service landscape.,negative,-0.7613189816474915
+2011-09-06,Sprint Sues to Block AT&T’s Deal for T-Mobile,negative,-0.9184287786483765
+2011-09-06,The company is likely to fight the matter vigorously in court while redoubling its political efforts to negotiate a settlement with the government.,neutral,-0.022124886512756348
+2011-09-06,AT&T’s Battle for T-Mobile Is Political as Well as Legal,neutral,-0.07685316354036331
+2011-09-07,"The bank announced the departure of two finance veterans, Sallie Krawcheck and Joseph Price, and named David Darnell and Tom Montag as co-chief operating officers.",neutral,-0.1395479440689087
+2011-09-07,Struggling Bank of America Shakes Up Its Top Management,negative,-0.8854320645332336
+2011-09-07,Judge Ellen S. Huvelle has ordered both sides to discuss the prospects for a settlement at a hearing on Sept. 21.,neutral,-0.12541601061820984
+2011-09-07,Judge Sets Hearing on AT&T Deal,neutral,-0.028132475912570953
+2011-09-07,Women — always a rare breed in the upper echelons of Wall Street — are looking like an endangered species in the executive suites of big banks.,negative,-0.5036247372627258
+2011-09-07,Bank of America’s Sallie Krawcheck is the latest to go.,neutral,-0.0895283967256546
+2011-09-07,The Last Women Standing on Wall Street,neutral,-0.3512527346611023
+2011-09-08,Top executives of the country’s largest bank will gather to review recommendations of a 44-member internal team that has been preparing restructuring plans since March.,neutral,0.05668826401233673
+2011-09-08,Waiting for a New Blueprint From Bank of America,neutral,0.13787841796875
+2011-09-09,AT&T argued in a court filing that blocking its proposed takeover of T-Mobile USA would hurt efforts to expand the nation’s wireless broadband network.,negative,-0.9520645141601562
+2011-09-09,AT&T Counters U.S.,neutral,-0.0011378638446331024
+2011-09-09,Objections Over T-Mobile Deal,negative,-0.8246349692344666
+2011-09-10,"If there was ever a merger likely to be blocked on antitrust grounds, the AT&T and T-Mobile deal is the one.",neutral,-0.4172912836074829
+2011-09-10,Antitrust Suit Is Simple Calculus,neutral,0.02705933153629303
+2011-07-11,"Judge Rakoff ruled that Rajat K. Gupta, the former Goldman Sachs and Procter & Gamble director, can proceed with a lawsuit that accuses the Securities and Exchange Commission of violating his constitutional rights.",negative,-0.8061862587928772
+2011-07-11,Rakoff Allows Gupta’s Lawsuit Against S.E.C.,negative,-0.5677957534790039
+2011-07-11,to Proceed,neutral,0.02798246592283249
+2011-08-04,"Instead of an administrative proceeding, the S.E.C.",neutral,-0.02689434215426445
+2011-08-04,can still sue the former director of Goldman Sachs and Procter & Gamble in federal court.,negative,-0.6960713863372803
+2011-08-04,S.E.C.,neutral,0.030168529599905014
+2011-08-04,Drops Proceeding Against Rajat Gupta,negative,-0.447851300239563
+2011-08-06,"The Procter & Gamble Company said Friday that its quarterly profit rose 15 percent as sales gained in emerging markets, and forecast annual revenue that topped some analysts’ estimates.",positive,0.9291195273399353
+2011-08-06,Emerging Markets Lift Results at Procter & Gamble,neutral,-0.0926431268453598
+2011-07-15,"Managed futures funds, which have found success in the financial crisis by betting on the ups and downs of everyone else, have finally hit their own slump.",neutral,0.009267009794712067
+2011-07-15,Sluggish Market Stalls Funds That Thrive on Direction,negative,-0.5288716554641724
+2011-08-25,"Company boards are attracted to share buybacks when markets are down, but the purchase often ends up damaging the value of a stock.",negative,-0.8942068219184875
+2011-08-25,The Negative Side of Share Buybacks,negative,-0.62360680103302
+2011-07-22,"Net income and revenue surpassed analysts’ expectations in the second quarter, helped by new iPhone 4 subscriptions.",positive,0.9196261167526245
+2011-07-22,Verizon’s Bet on iPhones Brings a Slow Return,negative,-0.6465477347373962
+2011-07-23,Can Apple retain its dominance after ending the iPhone’s exclusivity to AT&T?,neutral,0.4530739188194275
+2011-07-23,A Verizon subscriber compares the packaging and content of rival devices.,neutral,0.0030117612332105637
+2011-07-23,Worthy Rivals for the Crown in Smartphones,positive,0.5187622904777527
+2011-07-28,"With a contract set to expire Aug. 7, Verizon is seeking concessions, while the union says the company is making plenty of money.",positive,0.4253634512424469
+2011-07-28,"Facing Call for Concessions, Verizon Workers Vote to Authorize Strike",positive,0.42082834243774414
+2011-07-29,There has been a question hanging over Verizon Wireless for some time as its two owners Verizon and Vodafone battled it out to decide the fate of the unit.,negative,-0.7608855962753296
+2011-07-29,"The answer, it turns out, was worth $10 billion.",neutral,0.09637120366096497
+2011-07-29,"With Verizon Dividend, Any Deal Is Deferred",neutral,4.70280647277832e-05
+2011-08-01,The Windstream Corporation has agreed to buy the broadband services provider Paetec Holding in a bid to build out its fiber network and cloud computing services.,positive,0.6976789236068726
+2011-08-01,Windstream to Buy Paetec for $891 Million,neutral,0.031129788607358932
+2011-08-08,"The striking workers are mostly in Verizon’s declining wireline businesses, but also in its popular FiOS service.",negative,-0.9344745874404907
+2011-08-08,The company remains highly profitable.,neutral,0.1683550924062729
+2011-08-08,Sharp Rift in a Strike at Verizon,negative,-0.9026692509651184
+2011-07-28,"Exxon’s earnings were a bit lower than analysts had expected despite strong revenue growth, reflecting a record $10.3 billion in capital and exploration expenditures.",negative,-0.9668039083480835
+2011-07-28,Higher Prices Buoy Profits as Oil Companies Scramble for New Fields,positive,0.639596700668335
+2011-07-29,The smaller shops have been able to prosper despite the slowdown.,positive,0.8875848650932312
+2011-07-29,Boutique Firms Are Bearing Up,neutral,-0.027808591723442078
+2011-08-03,"Hanging over the debt ceiling talks has been the threat of the United States losing its AAA credit rating, but in corporate America, the top status long ago became an anachronism.",negative,-0.864363431930542
+2011-08-03,AAA Rating Is a Rarity in Business,neutral,0.08597816526889801
+2011-08-10,A close look at earnings ratios and growth suggests the company may actually be worth $1 trillion.,neutral,0.15471409261226654
+2011-08-10,Apple May Be Underpriced,negative,-0.7992417216300964
+2011-08-10,"Apple surpassed Exxon Mobil as the stock markets’ most valuable company, although Exxon finished the day in the lead.",positive,0.7140769958496094
+2011-08-10,"Briefly, Apple Reigns as the Most Valuable Company",neutral,0.16999319195747375
+2011-08-30,Exxon Mobil struck an agreement to explore for oil in a Russian sector of the Arctic Ocean that is opening for drilling in a deal that could grow to $500 billion over time.,positive,0.8997529745101929
+2011-08-30,Exxon Reaches Arctic Oil Deal With Russians,positive,0.7422869205474854
+2011-08-31,"Splitting up conglomerates, such as with the recent breakups of Marathon Oil and Motorola, seems to be benefiting investors.",positive,0.8166393637657166
+2011-08-31,The Advantages of Breaking Up,neutral,0.116767019033432
+2011-08-31,A raid of BP office’s in Moscow underscored the uncertain nature of dealing with state-run companies.,negative,-0.8149401545524597
+2011-08-31,Memo to Exxon: Business With Russia Might Involve Guns and Balaclavas,neutral,-0.3370058238506317
+2011-09-10,An analysis shows that the Pipeline and Hazardous Materials Safety Administration is struggling to safeguard a transport network laced with risks.,negative,-0.9497718214988708
+2011-09-10,Pipeline Spills Put Safeguards Under Scrutiny,negative,-0.6248072981834412
+2011-08-04,"So far, TerraCycle has made three attempts at opening retail stores, and has failed three times.",negative,-0.6647538542747498
+2011-08-04,The (Pipe) Dream of Opening Our Own Retail Stores,neutral,0.10625208914279938
+2011-08-09,"The discount giant tried to take on iTunes with lower prices, but the plan fizzled.",negative,-0.629002034664154
+2011-08-09,"After 7 Years, Wal-Mart Closes Its MP3 Store",negative,-0.8654875755310059
+2011-08-15,"Data will include the Producer Price Index, home sales and leading economic indicators, and companies including Wal-Mart, Dell and Gap will report earnings.",neutral,0.04764910042285919
+2011-08-15,Looking Ahead to Economic Reports This Week,neutral,0.009946927428245544
+2011-08-16,"Analysts said that chains were keeping inventories lean, using marketing dollars strategically and quickly marking down slow-moving items.",neutral,0.31384143233299255
+2011-08-16,Retailers Glean Profit in Slow Sales,negative,-0.7460505962371826
+2011-08-17,"Jamestown Properties expects to spend $180 million to convert a 2.1-million-square-foot building into a mixed-use cluster of restaurants, apartments and office space.",neutral,0.11229352653026581
+2011-08-17,Ambitious Plans for a Building Where Sears Served Atlanta,neutral,0.03789776936173439
+2011-09-03,"In a new book, Marc Levinson tells of A.& P.’s swift expansion in the early 20th century, and the powerful backlash it engendered.",neutral,0.45677050948143005
+2011-09-03,The tale offers parallels to retail battles of today.,neutral,0.218715101480484
+2011-09-03,"Before Wal-Mart, There Was A.& P.",neutral,0.0019716713577508926
+2011-09-08,"Following some rivals, Wal-Mart will set aside products for delayed purchase, a sign of the financial pressures on shoppers.",neutral,-0.3107796609401703
+2011-09-08,Wal-Mart to Bring Back Layaway for Holidays,positive,0.38603854179382324
+2011-09-10,The Walt Disney Company said that it would reorganize its approach to mass-market retailers and named a movie distribution executive to lead the effort.,neutral,0.4848899841308594
+2011-09-10,Disney Reorganizes Its Retail Sales System,neutral,0.06379272788763046
+2011-07-01,"Fixed-rate student loans from banks are a welcome innovation, but they should serve as a reminder of the hazards of this kind of debt.",neutral,0.2765226364135742
+2011-07-01,"A New Type of Student Loan, but Still a Risk",neutral,0.13456560671329498
+2011-07-01,"Thomas J. Curry will be nominated to lead the Office of the Comptroller of the Currency, a banking regulator whose acting chief has been criticized by Democrats as obstructing reforms.",neutral,-0.36719146370887756
+2011-07-01,Official From F.D.I.C.,neutral,-0.18477122485637665
+2011-07-01,Picked To Lead Banking Regulator,neutral,0.0719500482082367
+2011-07-14,Robust gains in almost all of JPMorgan Chase’s main businesses offered hope that the banking industry’s prospects were not as bad as feared.,positive,0.8814787268638611
+2011-07-14,"JPMorgan Posts $5.4 Billion Profit, Beating Estimates",positive,0.426668643951416
+2011-07-16,Banks have so far written down only a small portion of their second-lien mortgage loans.,negative,-0.8067730665206909
+2011-07-16,"As home values in some areas continue to sink, more losses may be in store.",negative,-0.944284200668335
+2011-07-16,"2nd Loans, 2nd Wave of Losses",negative,-0.4489644467830658
+2011-07-19,Earnings benefited from the reversal of about $1 billion that the nation’s biggest consumer bank had previously set aside to cover loan losses.,positive,0.9039633870124817
+2011-07-19,"Wells Fargo Exceeds Expectations With $3.9 Billion Profit, Up 29%",positive,0.7468324899673462
+2011-07-20,"The sluggish economy is causing consumers to cut back on mortgages, credit card and other types of consumer loans.",negative,-0.9394283890724182
+2011-07-20,Weak Recovery Weighs on Bank of America and Wells Fargo,negative,-0.9386409521102905
+2011-07-26,"California lined up the loan as an emergency cushion in case it could not sell bonds because of turmoil from Washington’s failure to raise the debt ceiling, the state’s treasurer said.",neutral,0.35621434450149536
+2011-07-26,California Secures $5.4 Billion Loan From 8 Banks,positive,0.6690459847450256
+2011-07-27,"Bank stocks have been persistently weak, and the logical solution is that they shed business lines in a bid to improve their prospects in the eyes of Wall Street.",positive,0.5009074211120605
+2011-07-27,"Once Unthinkable, Breakup of Big Banks Now Seems Feasible",negative,-0.5013266801834106
+2011-08-15,Wells Fargo is moving to bolster the investment banking practice it inherited in its acquisition of Wachovia.,positive,0.850153923034668
+2011-08-15,Wells Fargo Brings Citadel’s Investment Banking Unit Aboard,neutral,0.02586330473423004
+2011-08-25,"While he is investing $5 billion into Bank of America, Warren E. Buffett is no stranger to taking up positions in the nation’s biggest lenders.",neutral,0.05510406941175461
+2011-08-25,Buffett Adds Another Bank to His Portfolio,neutral,0.04964904114603996
+2011-09-06,"Shares of the Dunkin’ Brands Group slid 5 percent Tuesday morning, as equity analysts issued a mixed bag of reports, including a sell rating from Goldman Sachs, one of its top underwriters.",negative,-0.9638140797615051
+2011-09-06,Dunkin’ Donuts Parent Gets Mixed Reviews,negative,-0.48955994844436646

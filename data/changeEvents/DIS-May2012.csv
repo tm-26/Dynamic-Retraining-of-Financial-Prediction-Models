@@ -1,0 +1,53 @@
+Date,Sentence,Prediction,sentimentScore
+2012-04-08,"The Topps Company, the leading baseball card manufacturer, is trying to breathe digital life into a once-cherished hobby with apps aimed at a techcentric youth market.",neutral,0.32408803701400757
+2012-04-08,Apps Take Positions in the Topps Baseball Lineup,neutral,0.006045788526535034
+2012-04-10,"Despite its star founders, Steven Spielberg and Stacey Snider, the company has been struggling as a smaller player in Hollywood.",negative,-0.9563922882080078
+2012-04-10,A Slimmer DreamWorks Gets a New Financing Deal,positive,0.45917677879333496
+2012-04-10,"The agreement, a Disney executive said, was part of a “long-term commitment to nurture the local animation industry” in China.",positive,0.8219177722930908
+2012-04-10,Disney Enters Into Chinese Partnership on Animation,positive,0.6313028335571289
+2012-04-16,"Disney-owned Marvel Studios will become partners with DMG Entertainment on the film, which is set to be released next year.",positive,0.6178305149078369
+2012-04-16,Bringing in a partner on such a successful franchise is considered unusual.,neutral,0.036807581782341
+2012-04-16,Disney to Team With Chinese Company to Make ‘Iron Man 3’,positive,0.7067953944206238
+2012-04-17,"April 17, 2012 — Online television site Hulu comes of age.",neutral,0.025482118129730225
+2012-04-17,Business Day Live | Hulu's Programming,neutral,-0.006766794249415398
+2012-04-20,The move ends a two-and-a-half-year tenure that was more notable for continued misses than hits.,neutral,0.16294319927692413
+2012-04-20,"Rich Ross, Disney Studio Chairman, Is Forced Out",negative,-0.7803293466567993
+2012-04-21,"Desperate for new ways to connect with consumers, an increasing array of industries and organizations are hiring the Disney Institute, the low-profile consulting division of the Walt Disney Company.",neutral,0.11401285231113434
+2012-04-21,"In Customer Service Consulting, Disney’s Small World Is Growing",neutral,0.03577324002981186
+2012-04-25,The inquiry by the Securities and Exchange Commission is focused on at least three studios and creates a potential roadblock for the industry’s plans to expand in one of the world’s largest markets.,negative,-0.48134779930114746
+2012-04-25,S.E.C.,neutral,0.030168529599905014
+2012-04-25,Asks if Hollywood Paid Bribes in China,neutral,-0.2838425934314728
+2012-04-26,"A difficult question has emerged as Walt Disney Studios searches for a new chairman, with no obvious candidates: Does the job require a brand manager or a strong movie hand?",neutral,-0.14344750344753265
+2012-04-26,"At Disney, It’s Tough to Find a Chief",negative,-0.5721185207366943
+2012-04-30,"The China Film Group functions as the Chinese government’s guardian of its film market, but now the group is also supervising a trade route suddenly under scrutiny from regulators in Washington.",neutral,-0.23575666546821594
+2012-04-30,"In China, Foreign Films Meet a Powerful Gatekeeper",neutral,0.09684448689222336
+2012-04-30,The merger last week of WRKS and WBLS reflected a trend of consolidations and format changes for black and other minority stations after a ratings measurement change five years ago.,positive,0.5528708696365356
+2012-04-30,A Radio Merger in New York Reflects a Shifting Industry,neutral,-0.05906715244054794
+2012-05-07,"Economic reports will include consumer credit and the trade deficit for March, and companies reporting results will include Walt Disney, Macy’s and News Corporation.",neutral,-0.007531944662332535
+2012-05-07,Economic Reports for the Week Ahead,neutral,0.0058092400431632996
+2012-05-07,"The channel — as yet unnamed — would start sometime in the first half of 2013 and include lifestyle, entertainment and health-related programming in addition to traditional news shows.",neutral,0.037881284952163696
+2012-05-07,"From ABC News and Univision, an English-Language Channel for Hispanics",neutral,0.035419028252363205
+2012-05-07,"Also, “60 Minutes” is not looking its age, and a look at TuneCore, which has become one of the world’s major suppliers of online music.",neutral,0.0626501590013504
+2012-05-07,"The Breakfast Meeting: ‘Avengers’ Ascendant, and Rupert’s Twitter Tear",neutral,-0.0597885325551033
+2012-05-07,Disney and Univision to create news channel aimed at Hispanics; what the election of François Hollande means for markets; and graduates flock to unpaid internships.,neutral,0.1433454155921936
+2012-05-07,"Business Day Live | May 7, 2012",neutral,0.02680348977446556
+2012-05-07,Disney and Univision to create news channel aimed at Hispanics; what the election of François Hollande means for markets; and graduates flock to unpaid internships.,neutral,0.1433454155921936
+2012-05-07,Business Day Live: Markets Digest French Election,neutral,0.008782144635915756
+2012-05-08,"The giant entertainment company continued to see growth in ESPN and other cable channels, as well as its theme parks, but had to take a $200 million write down for its failed science fiction epic “John Carter.”",positive,0.0764153003692627
+2012-05-08,ESPN and Theme Parks Drive Disney Profits,neutral,0.028599407523870468
+2012-05-09,"Also, a court victory for songwriters looking to reclaim publishing rights and corporate earnings fall on “John Carter” and the Oprah Winfrey Network.",negative,-0.8018264770507812
+2012-05-09,The Breakfast Meeting: Gay Characters Draw Little Outrage; Obama’s Mad Man,negative,-0.4749544858932495
+2012-05-21,"Universal Studios, the theme park chain now controlled by Comcast, is rolling out new weapons in its battle against Walt Disney Parks and Resorts — and Disney is fortifying its defenses.",neutral,0.01572844386100769
+2012-05-21,Clash of the Theme Parks,neutral,0.01765504479408264
+2012-05-21,"Disney is capitalizing on Swampy, the alligator from the popular Where’s My Water?",positive,0.6854113936424255
+2012-05-21,"game, introducing merchandise at Toys ‘R’ Us and featuring the character in a Web series.",neutral,0.04810553416609764
+2012-05-21,Will Disney’s Swampy Gator Be the Next Angry Birds?,neutral,-0.04135402292013168
+2012-05-31,"Mr. Horn reluctantly left Warner Brothers last year, indelicately squeezed out after he successfully guided the “Harry Potter” franchise.",neutral,-0.02180546522140503
+2012-05-31,"He replaces Rich Ross, who was fired in March.",neutral,0.006757743656635284
+2012-05-31,Alan Horn Is Named Chairman of Disney Studios,neutral,0.040423136204481125
+2012-06-05,Some current advertisers would not meet the new standards announced by the entertainment giant on Tuesday.,negative,-0.9321033358573914
+2012-06-05,"Promoting Nutrition, Disney to Restrict Junk-Food Ads",neutral,0.03432869911193848
+2012-06-05,"Apple will go in a different direction from Google Maps, and a D.J.’s comment makes for unhappy Nicki Minaj fans.",negative,-0.9336522221565247
+2012-06-05,"The Breakfast Meeting: Disney’s Health Push, and Eerie Numbers in China",negative,-0.7540428042411804
+2012-06-09,"“Mary Poppins” will open at Auckland’s Civic Theater on Oct. 18, Disney said, and run for a hoped-for 10 weeks.",neutral,0.11744251847267151
+2012-06-09,‘Mary Poppins’ to Flit to New Zealand,negative,-0.538111686706543

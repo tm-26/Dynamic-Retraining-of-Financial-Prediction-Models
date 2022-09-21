@@ -1,0 +1,135 @@
+Date,Sentence,Prediction,sentimentScore
+2007-05-05,The New York Mets were warming up to play and I was warming up to sell a food item as famously American as baseball and apple pie.,neutral,0.07114739716053009
+2007-05-05,Hawking Hot Dogs: Some Are All-Stars and Then There’s ...,neutral,0.023938599973917007
+2007-05-10,"Even as its stock is riding high off the success of the iPod and anticipation of the iPhone, Apple will face some restive shareholders at its annual meeting Thursday, TheStreet.com reported.",neutral,-0.3869990110397339
+2007-05-10,"Labor unions who own Apple shares through pension funds, have put up proposals that require options to be priced on the day they are granted to eliminate the practice known as backdating; that give investors a nonbinding vote on executive compensation, known as “say on pay”; and that tie executive bonuses to the company’s stock performance.",neutral,0.06860202550888062
+2007-05-10,Apple Shareholders to Vote on Compensation Proposals,neutral,-0.010802380740642548
+2007-05-11,"Apple chief Steven P. Jobs faced a barrage of questions from shareholders about the company’s handling of stock option grants and its policy of executive compensation, during a an annual meeting Thursday.",negative,-0.8166344165802002
+2007-05-11,"But Mr. Jobs, with his typical flair for showmanship, elicited laughs and applause during the meeting despite rankling questions.",positive,0.5080469846725464
+2007-05-11,Apple Shareholders Question Jobs on Options,neutral,-0.2675146162509918
+2007-05-14,"The International Data Group removed the chief executive of its largest-circulation computer magazine, PC World, and reinstated its top editor.",negative,-0.9003967046737671
+2007-05-14,A Nod to Journalistic Integrity Is Seen in an Editor’s Return,neutral,0.18283848464488983
+2007-05-14,"Guessing who’s behind The Secret Diary of Steve Jobs, a satirical blog by an anonymous writer calling himself the Fake Steve Jobs, has become a parlor game in Silicon Valley, with several journalists, former Apple employees and even Steve Jobs himself topping the list of suspects.",negative,-0.6044331789016724
+2007-05-14,A Deal (and Perhaps an Unveiling) for a Fake Steve Jobs,neutral,0.0001010354608297348
+2007-05-17,"I know there are advantages with Outlook and other programs, but is it really worth the hassle of managing mail on the local machine?",neutral,0.03302500396966934
+2007-05-17,Pros and Cons of Web-Based Mail,neutral,0.022983282804489136
+2007-05-17,"The online store, to be introduced later this year, will allow people to play music on almost any personal device.",neutral,0.11339354515075684
+2007-05-17,Amazon to Sell Music Without Copy Protection,neutral,-0.02430051565170288
+2007-05-21,"Apple has been silent on how the iPhone will be distributed in Europe, prompting speculation about operator alliances and retail partnerships.",neutral,-0.04390491172671318
+2007-05-21,Much Ado About Apple’s iPhone,neutral,-0.13947966694831848
+2007-05-21,The people behind Firefox have a dilemma: What happens when an open-source project starts to become successful?,neutral,-0.05111713707447052
+2007-05-21,Firefox and the Anxiety of Growing Pains,neutral,-0.10490015149116516
+2007-05-23,"The proliferation of cheap software is allowing entrepreneurs to take bigger risks when starting a company with an unproven, or non-existent business model.",neutral,0.07780864834785461
+2007-05-23,"In the latest such example, Garage Technology Ventures investor Guy Kawasaki, best known for his early Apple evangelism, recently launched Truerumors.com, a forum to post rumors and comments via phone call, text message, or email.",neutral,-0.01543477550148964
+2007-05-23,It’s True: Guy Kawasaki Starts Rumor Site,neutral,-0.10058844834566116
+2007-05-23,An ad for the launch of Apple's iPhone.,neutral,0.040139880031347275
+2007-05-23,Apple iPhone Commercial,neutral,0.024180464446544647
+2007-05-27,Apple has made retail seem ridiculously easy.,neutral,-0.16176624596118927
+2007-05-27,But why hasn’t the Windows side of the personal computer business figured it out?,neutral,-0.01488880068063736
+2007-05-27,Apple’s Lesson for Sony’s Stores: Just Connect,neutral,-0.017157256603240967
+2007-05-31,Bill Gates and Steven P. Jobs appeared in public to relive old battles and speculate about the future of digital culture and technology.,neutral,0.053977120667696
+2007-05-31,"For Jobs and Gates, a Night to Reminisce",neutral,0.08831901103258133
+2007-05-31,"As storage gets cheaper and download speeds faster, digital music files are moving closer to CD quality.",positive,0.7015511989593506
+2007-05-31,Where’s the Other Half of Your Music File?,neutral,-0.07155987620353699
+2007-06-04,Steven P. Jobs has succeeded in building expectations for what some have called “the God machine.”,positive,0.7654004693031311
+2007-06-04,Fever Builds for iPhone (Anxiety Too),negative,-0.2685795724391937
+2007-06-05,"In the battle between Apple and Microsoft, two men are in charge of competing efforts to ensure that the PC’s basic software stays relevant in a Web-centered world.",neutral,0.10471010208129883
+2007-06-05,Competing as Software Goes to Web,neutral,-0.004449561238288879
+2007-06-11,"Last week viewers pored over four iPhone commercials with Talmudic intensity, trying to determine precisely how the phone will operate.",neutral,-0.02783646062016487
+2007-06-11,A Few Details of the iPhone Galvanize the Apple Cadre,neutral,0.07877203822135925
+2007-06-12,A Windows-based Safari Web browser opens a new front in Apple's rivalry with Microsoft.,positive,0.746030330657959
+2007-06-12,Apple Releasing a Windows Browser,neutral,-0.1988065242767334
+2007-06-13,"If there is a billion-dollar gamble underlying Apple’s iPhone, it lies in what this smart cellphone does not have: a mechanical keyboard.",neutral,-0.044336605817079544
+2007-06-13,"That iPhone Has a Keyboard, but It’s Not Mechanical",neutral,-0.057276297360658646
+2007-06-14,"Apple rarely makes sweeping changes to its product line, which is why its new MacBook Pro laptops look identical to older models.",neutral,0.05158694088459015
+2007-06-14,"MacBook Pros Look Like Older Models, but the Innards Are Different",neutral,-0.03695710003376007
+2007-06-21,Taking a page — albeit a tinier one — from the iPhone’s design is a new test version of the Opera Mini browser for cellphones.,neutral,0.06623151153326035
+2007-06-21,"If You Like the Safari Browser for the iPhone, You’ll Love Opera Mini for Cellphones",neutral,0.03060203045606613
+2007-06-23,Analysts agree that the sleek iPhone will change what consumers expect from the mobile phones offered by wireless companies.,positive,0.6069375276565552
+2007-06-23,AT&T Hoping the iPhone Has Coattails,neutral,-0.22558236122131348
+2007-06-25,"In Hollywood, media executives are eagerly preparing for a new era as they hope to position more content where consumers want it: in their hands.",neutral,0.4066832661628723
+2007-06-25,Hollywood Seeks Ways to Fit Its Content Into the Realm of the iPhone,neutral,0.17988432943820953
+2007-06-26,The words used to describe the iPhone reflect the miraculous qualities conferred unto this electronic device by the fervent Apple acolytes.,neutral,0.19273781776428223
+2007-06-26,Ecumenicalism and the iPhone,neutral,0.030928775668144226
+2007-06-26,Apple does make computers too.,neutral,0.020890038460493088
+2007-06-26,And its new Leopard operating system has a nifty new backup feature it got from Sun Microsystems.,positive,0.5586782693862915
+2007-06-26,Remember Macintosh?,neutral,0.008596457540988922
+2007-06-26,A look at Apple’s pricing strategy,neutral,0.04451892524957657
+2007-06-26,Will the iPhone Get Cheaper?,neutral,0.33969151973724365
+2007-06-27,"Apple’s new phone does so many things so well, and so pleasurably, that you tend to forgive its foibles.",neutral,0.24627286195755005
+2007-06-27,The iPhone Matches Most of Its Hype,neutral,0.192308709025383
+2007-06-27,"Apple, known for its marketing wizardry, has apparently convinced thousands of people that the iPhone is no ordinary phone.",neutral,0.05316208302974701
+2007-06-27,Waiting for the Latest in Wizardry,neutral,0.006144188344478607
+2007-06-27,"As Silicon Valley undergoes a resurgence, companies like Google, Yahoo and Apple are again looking for space to grow.",positive,0.6807492971420288
+2007-06-27,"In Silicon Valley, Steady but Cautious Growth Returns",positive,0.7781801819801331
+2007-06-27,The iPhone reviews from major media.,neutral,0.22692036628723145
+2007-06-27,The Reviews Are In,neutral,-0.015820154920220375
+2007-06-28,"If an iPod costs $299, who gets that money?",neutral,-0.020326361060142517
+2007-06-28,You might be surprised.,neutral,0.02911090850830078
+2007-06-28,An iPod Has Global Value.,positive,0.5660002827644348
+2007-06-28,Ask the (Many) Countries That Make It.,neutral,0.035972218960523605
+2007-06-28,"Just how much of a phone, an iPod and an Internet machine is this thing?",neutral,-0.02559570223093033
+2007-06-28,Often-Asked iPhone Questions,neutral,-0.04885971546173096
+2007-06-28,David Pogue answers reader questions on the Apple iPhone.,neutral,0.037290509790182114
+2007-06-28,Often-Asked iPhone Questions,neutral,-0.04885971546173096
+2007-06-28,"The authors of a study that tries to figure out the source, and cost, of the parts that go into an iPod will be answering questions here.",neutral,-0.018155517056584358
+2007-06-28,Q&A: Ask About iPod Pricing,neutral,-0.028563285246491432
+2007-06-28,Apple is trying to be helpful with a Web page that will tell you what Apple stores have iPhones.,neutral,0.048686329275369644
+2007-06-28,"It’s binary, yes or no, not how many are left at the store.",negative,-0.5297322273254395
+2007-06-28,Tip: Finding That iPhone,neutral,0.0767207145690918
+2007-06-28,How many iPhones can one person buy?,neutral,0.018801696598529816
+2007-06-28,"Get Two, They Last Longer",neutral,0.03235822543501854
+2007-06-28,Steve Jobs promises to give all Apple employees a free iPhone.,neutral,0.425936758518219
+2007-06-28,"Dude, You’re Getting an iPhone",neutral,0.06444411724805832
+2007-06-29,Apple and AT&T defended a decision not to use a faster but more limited network for the phone’s wireless Internet connection.,neutral,0.1504233479499817
+2007-06-29,Chiefs Defend Slow Network for the iPhone,negative,-0.3911614716053009
+2007-06-29,Apple and AT&T defended a decision not to use a faster but more limited network for the phone’s wireless Internet connection.,neutral,0.1504233479499817
+2007-06-29,A Trade-Off on iPhone Data Speed,negative,-0.7726627588272095
+2007-06-29,"EMI Music and Snocap will announce that Snocap will sell the label’s music in its MyStores, online shops that can be added to various sites on the Internet.",neutral,0.05445856600999832
+2007-06-29,"On the Web, EMI to Offer More Choices",neutral,0.05119658261537552
+2007-06-29,Customers eager to buy the cellphone had waited in long lines in front of Apple stores in New York and other cities.,neutral,-0.05326192080974579
+2007-06-29,Long-Awaited iPhone Goes on Sale,neutral,0.08549932390451431
+2007-06-29,Customers eager to buy the cellphone had waited in long lines in front of Apple stores in New York and other cities.,neutral,-0.05326192080974579
+2007-06-29,iPhone Mania,neutral,0.04126117378473282
+2007-06-29,Wowed by the iPhone?,positive,0.42505770921707153
+2007-06-29,"Then buy Google, not Apple, argues a Wall Street analyst.",neutral,0.0042944252490997314
+2007-06-29,"Love the iPhone, buy Google?",neutral,0.051251113414764404
+2007-06-29,"By noon today outside the Apple Store at a pleasant outdoor mall in Corte Madera, 20 minutes north of San Francisco, a touch of line rage had already set in.",negative,-0.29634714126586914
+2007-06-29,When five big young guys sauntered up to the line where 90 of us had already been standing — some since 6 a.m. yesterday morning — they settled down into camping chairs directly in front of me that had been set up for them earlier by a friend who happened to be an Apple employee.,neutral,0.013554081320762634
+2007-06-29,So What’s a Little Line Rage Between iPhone Maniacs?,neutral,-0.26703110337257385
+2007-06-30,"8:15 p.m. (5:15 local time) John Markoff, Times reporter, reports seeing about 200 in line at the Palo Alto store and about the same number in Emeryville.",neutral,-0.36444973945617676
+2007-06-30,He is trying to figure out how many iPhones will be sold opening weekend.,neutral,0.004253171384334564
+2007-06-30,"Before he finishes, he wanders down to the San Francisco Apple store.",neutral,-0.045960769057273865
+2007-06-30,IPhone: It’s Time — West Coast Edition,neutral,0.04054386168718338
+2007-06-30,Customers eager to buy the cellphone had waited in long lines in front of Apple stores in New York and other cities.,neutral,-0.05326192080974579
+2007-06-30,"Gave Up Sleep and Maybe a First-Born, but at Least I Have an iPhone",neutral,0.05663707107305527
+2007-06-30,A question about battery replacement is usually easy to clear up.,neutral,-0.1989346295595169
+2007-06-30,"But at Apple, there is no such thing as a straightforward answer.",neutral,-0.021882470697164536
+2007-06-30,There is only spin.,neutral,0.02069242298603058
+2007-06-30,iPhone Spin Goes Round and Round,neutral,0.08513087034225464
+2007-06-30,The private equity business hit bumps.,negative,-0.6669715642929077
+2007-06-30,"A deal was struck for a possible Dow Jones sale, and the Supreme Court struck down a longstanding rule on product pricing.",neutral,0.04448966681957245
+2007-06-30,Backers of the Buyout Boom Seem to Be Backing Out,negative,-0.4357210099697113
+2007-06-30,"Apple has lots of iPhones in stock, but AT&T takes hours to activate them.",neutral,0.009860003367066383
+2007-06-30,IPhone: Waiting for Ma Bell,neutral,0.030966628342866898
+2007-06-30,"In contrast to the party atmosphere at Apple stores, a Bay Area AT&T store was funereal last night.",neutral,0.04522304981946945
+2007-06-30,Sad Scenes at an AT&T Wireless Store,negative,-0.5918686389923096
+2007-06-30,"Joe Nocera, the Saturday columnist for the Times, took Apple to task for designing a cell phone with a battery that cannot be replaced by the consumer.",neutral,0.024158988147974014
+2007-06-30,A Battery of Questions,neutral,-0.1338021457195282
+2007-07-02,Asian manufacturers fear Apple may repeat in wireless communications what it accomplished in portable music with the iPod: changing the industry.,neutral,-0.1723133623600006
+2007-07-02,Rival Manufacturers Chasing the iPhone,negative,-0.40494194626808167
+2007-07-02,Both Apple and AT&T acknowledged that some customers have had problems activating their phones to connect to the AT&T cellular network.,negative,-0.9223414063453674
+2007-07-02,"For iPhone, Some Shortages and Activation Problems",neutral,-0.2363635152578354
+2007-07-02,The Universal Music Group notified Apple that it will not renew its annual contract to sell music through iTunes.,negative,-0.7730010151863098
+2007-07-02,Universal in Dispute With Apple Over iTunes,negative,-0.7941464185714722
+2007-07-02,AT&T said this afternoon that in partnership with Apple the nation’s largest cellular operator had sold more iPhones over the weekend than any of previous phone models have sold in a month.,positive,0.8738803863525391
+2007-07-02,It also said this morning that they are making progress in smoothing out the glitches that had bedeviled some users who attempted to used the system used to activate the phones using the Internet.,positive,0.8463808298110962
+2007-07-02,AT&T Says the iPhone Is Its Best Seller Ever,positive,0.7343934178352356
+2007-07-03,Hackers figure out how to use an iPhone for music and WiFi browsing without buying cell service.,neutral,-0.17188839614391327
+2007-07-03,How to Make a $600 iPod,neutral,0.02211591601371765
+2007-07-05,What makes Nokia’s N76 smartphone has a powerful processor and an operating system that lets it run a number of programs including one that reads Microsoft Office files.,neutral,0.04520526900887489
+2007-07-05,"Nokia, Without Fanfare, Introduces a Superphone Without Contract Obstacles",neutral,0.18170301616191864
+2007-07-07,"The Universal Music Group of Vivendi told Apple that it would not renew its annual contract to sell music through iTunes, executives briefed on the matter said.",negative,-0.777181088924408
+2007-07-07,Standing Ground in a Dispute With Apple Over Music,negative,-0.6185120940208435
+2007-07-08,News that the Universal Music Group would no longer guarantee Apple access to its coming releases could shake up the digital music business.,negative,-0.9412833452224731
+2007-07-08,"All Shook Up, Right Down to the Musical Core",neutral,0.03474654257297516

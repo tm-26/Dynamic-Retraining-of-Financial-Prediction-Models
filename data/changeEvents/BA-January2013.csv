@@ -1,0 +1,75 @@
+Date,Sentence,Prediction,sentimentScore
+2012-12-05,A new Boeing 787 Dreamliner flown by United Airlines was diverted in midflight to New Orleans after it lost speed and altitude over Mississippi with 184 people aboard.,negative,-0.9461363554000854
+2012-12-05,United 787 Loses Speed and Lands Early,negative,-0.8767278790473938
+2012-12-11,"Two embarrassing snags last week revived concerns about the reliability of the Boeing 787, as officials sought to cast them as normal growing pains for an advanced aircraft.",negative,-0.8940774202346802
+2012-12-11,New Problems With Boeing 787 Revive Concerns,negative,-0.9014432430267334
+2012-12-15,"John McAfee returns to the United States, Boeing addresses problems with its 787 aircraft and European Union leaders hold their last summit of the year.",neutral,0.014093860983848572
+2012-12-15,"The Week in Business Pictures, Dec. 14",neutral,-0.04906585440039635
+2013-01-08,"An incident in Boston a day after a fire on another 787 Dreamliner, Boeing’s newest and most sophisticated jet, added to pressure on the aircraft maker’s stock.",negative,-0.9517928957939148
+2013-01-08,Fuel Leak Is Latest Setback for Boeing’s Dreamliner,negative,-0.9473190307617188
+2013-01-09,"After three incidents in three days, the aircraft’s maker says its record is comparable to that of other new planes.",positive,0.7294315099716187
+2013-01-09,Boeing Says 787 Is Safe Despite Recent Problems,positive,0.13748115301132202
+2013-01-11,"Federal authorities said they would order an examination of electrical systems in Boeing’s new 787 Dreamliner after a spate of incidents, including a battery fire this week in Boston.",negative,-0.8137630224227905
+2013-01-11,Regulators Will Review Boeing 787s for Safety,neutral,-0.11930735409259796
+2013-01-12,"President Obama nominated Jacob J. Lew to be the Treasury secretary, the Consumer Electronics Show took over Las Vegas and Boeing ran into more problems with its 787 Dreamliner.",negative,-0.9375762343406677
+2013-01-12,"Pictures From the Week in Business, Jan. 11",neutral,0.007424052804708481
+2013-01-16,Japan’s two largest airlines said they would ground their fleets of Boeing’s new 787 aircraft after one operated by All Nippon Airways made an emergency landing in western Japan.,negative,-0.7853572964668274
+2013-01-16,Top Airlines in Japan Grounding Boeing 787s,negative,-0.7468342781066895
+2013-01-16,"The directive applies to United Airlines, the only American carrier using the new plane, after several safety incidents in recent weeks.",neutral,-0.09602700918912888
+2013-01-16,F.A.A.,neutral,0.04458102211356163
+2013-01-16,Grounds U.S.-Operated Boeing 787s,neutral,-0.08859825879335403
+2013-01-16,The Federal Aviation Administration ordered the temporary grounding of Boeing 787s operated by carriers in the United States.,negative,-0.5816503167152405
+2013-01-16,Here is the agency’s statement.,neutral,0.011825412511825562
+2013-01-16,F.A.A.,neutral,0.04458102211356163
+2013-01-16,Statement Grounding Boeing 787s,neutral,0.0066954270005226135
+2013-01-17,the two largest Japanese airlines have grounded their new 787 Dreamliner planes.,negative,-0.9371178150177002
+2013-01-17,Tough Start for the Dreamliner,negative,-0.47815313935279846
+2013-01-18,"Lithium-ion batteries can store more energy than other types of batteries, but they can also pose a fire risk if not properly cooled.",neutral,0.03167033940553665
+2013-01-18,"Powerful Chemical Cocktail, With a Drawback",neutral,0.0916953757405281
+2013-01-18,"Lithium-ion batteries are popular because they are powerful and charge quickly, but Boeing has had serious problems with the technology on its new Dreamliner.",negative,-0.9371377825737
+2013-01-18,"Praised but Fire-Prone, Battery Fails Test in 787",neutral,0.12301217019557953
+2013-01-19,"It is possible that the Dreamliner’s batteries were overcharged, but to lift a grounding order, Boeing must demonstrate that it can prevent similar episodes from happening.",positive,0.6210367679595947
+2013-01-19,"Boeing Closer to an Answer, but Not to Getting 787s Back in the Air",neutral,0.04390738904476166
+2013-01-19,"Facebook unveiled a new way to search, Boeing’s problems with its 787 Dreamliner deepened and transcripts from the Federal Reserve offered a new look at its response to the financial crisis in 2007.",neutral,0.33554282784461975
+2013-01-19,"Pictures From the Week in Business, Jan. 18",neutral,0.005031634122133255
+2013-01-20,The National Transportation Safety Board said excess voltage did not cause a battery fire on a Boeing 787 Dreamliner.,negative,-0.8473364114761353
+2013-01-20,Safety Board Rules Out a Cause for 787 Battery Fire,neutral,-0.2888231873512268
+2013-01-21,"If the issue with smoldering batteries proves more complicated, it could threaten plans to expand production of the planes, and the jobs that go with them.",negative,-0.9169382452964783
+2013-01-21,Dreamliner Troubles Put Boeing on Edge,negative,-0.7750711441040039
+2013-01-23,"A United States safety agency said a charging problem with the battery in the Boston case could not be ruled out, even though excessive voltage was not found.",negative,-0.8875610828399658
+2013-01-23,More Questions Are Raised in Boeing 787 Battery Fires,neutral,0.006583113223314285
+2013-01-23,The 787’s difficulties have raised questions about how regulators certify new technology and how they balance advances in design and engineering with safety.,neutral,-0.4353240430355072
+2013-01-23,Boeing’s Battery Problems Cast Doubt on Appraisal of New Technologies,negative,-0.8290308713912964
+2013-01-24,"Data retrieved from an All Nippon Airways jet that was forced to make an emergency landing last week suggested the battery had not been charged beyond its maximum design voltage, the authorities said.",negative,-0.8379663228988647
+2013-01-24,"Boeing 787 Battery Wasn’t Overcharged, Japanese Investigators Say",negative,-0.5732470750808716
+2013-01-24,The National Transportation Safety Board indicated that an investigation into the failure of lithium-ion batteries aboard two Boeing 787 planes is still far from determining a cause.,negative,-0.8420732021331787
+2013-01-24,Protracted Fire Inquiry Keeping 787 on Ground,negative,-0.6803706884384155
+2013-01-25,"Was GS Yuasa, the Japanese company that made the Dreamliner’s lithium-ion battery, chosen based on merit or a quid pro quo arrangement?",neutral,0.3380122780799866
+2013-01-25,Japan’s Role in Making Batteries for Boeing,neutral,-9.857118129730225e-06
+2013-01-26,"The grounding of Boeing’s new 787 jet is posing a logistical and financial challenge for several airlines, which have already canceled more than 1,000 flights in 10 days.",negative,-0.9467438459396362
+2013-01-26,787’s Grounding Leaves Airlines With Uncertainties,negative,-0.8611035346984863
+2013-01-27,The National Transportation Safety Board said an examination of an undamaged battery with the same design as one that caught fire in a parked plane in Boston found nothing out of the ordinary.,negative,-0.8179506063461304
+2013-01-27,No Defect Is Found in Another 787 Battery,negative,-0.4892359673976898
+2013-01-28,"Investigators say that they have spotted no overt quality-control problems, but that the cause of the recent malfunctions that have grounded Boeing’s 787 fleet is still unknown.",negative,-0.9378648996353149
+2013-01-28,No Quality Problems Found at Battery Maker for 787,negative,-0.915264904499054
+2013-01-30,"Even before battery failures led to the grounding of all Boeing 787 jets, there were problems that raised questions about their reliability.",negative,-0.8650686740875244
+2013-01-30,Boeing 787 Battery Was a Concern Before Failure,neutral,-0.37529128789901733
+2013-01-30,"The Boeing 787 Dreamliner, the first new commercial plane from Boeing in more than a decade, has been troubled by a long series of production and safety problems.",negative,-0.9557709693908691
+2013-01-30,A Rocky Path for the 787 Dreamliner,neutral,-0.25714731216430664
+2013-01-30,"W. James McNerney Jr. defended the use of lithium-ion batteries in the Dreamliner planes, as the company reported higher quarterly earnings.",positive,0.19800454378128052
+2013-01-30,Boeing Says No Change in Batteries Is Planned,neutral,0.0306690726429224
+2013-01-31,"The airline has been forced to cancel about 450 domestic and international flights, affecting almost 60,000 customers.",negative,-0.9599799513816833
+2013-01-31,All Nippon Says Grounding of 787s Has Cost $15 Million,neutral,-0.08582665771245956
+2013-02-02,Regulators in Washington and Tokyo said they had no answers to explain why two batteries on Boeing’s troubled Dreamliner emitted fire or smoke.,negative,-0.8548291921615601
+2013-02-02,Investigators Begin to Test Other Electrical Parts on the 787,neutral,-0.052774831652641296
+2013-02-04,"In announcing the forecast loss, the Japanese carrier joins other Dreamliner operators, like All Nippon Airways and United Airlines, in raising possible compensation demands.",positive,0.5437716245651245
+2013-02-04,Japan Airlines Says 787 Grounding Will Cost It $7.5 Million,negative,-0.9270089268684387
+2013-02-07,"Federal regulators approved one flight of a Boeing 787, with a crew but no passengers, as engineers study ways to reduce the risks of another battery fire.",positive,0.5579305291175842
+2013-02-07,Crew-Only 787 Flight Is Approved by F.A.A.,neutral,0.13758940994739532
+2013-02-07,"As a transportation official said tests in 2007 failed to anticipate potential incidents, the Federal Aviation Administration approved flights of the Boeing jet to collect data.",neutral,-0.045059263706207275
+2013-02-07,U.S. Official Faults F.A.A.,neutral,-0.07203853875398636
+2013-02-07,for Missing 787 Battery Risk,negative,-0.8990168571472168
+2013-02-08,Investigators aren’t sure if a battery that failed on a 787 in Japan had the same problem as one that started a fire on a jet in Boston.,negative,-0.9399038553237915
+2013-02-08,Japanese Still Seeking Cause of 787 Smoke,negative,-0.48658716678619385
+2013-02-10,The flight was the first since the Federal Aviation Administration gave Boeing permission on Thursday to conduct in-flight tests.,positive,0.48326414823532104
+2013-02-10,Boeing 787 Completes Test Flight,neutral,0.011607401072978973

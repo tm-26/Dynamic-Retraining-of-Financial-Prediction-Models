@@ -12,10 +12,104 @@ from finbertUtils import *
 import numpy as np
 import logging
 
+import json
+
 from transformers.optimization import AdamW, get_linear_schedule_with_warmup
 from transformers import AutoTokenizer
 
+from statistics import mean
+from transformers import AutoModelForSequenceClassification
+from tqdm import tqdm
+
+
 logger = logging.getLogger(__name__)
+
+
+def testFinBERT(dataset, returnSentences=False):
+    finBert = AutoModelForSequenceClassification.from_pretrained("../models/FinBert", cache_dir=None, num_labels=3)
+    groundTruths = []
+    predicted = []
+    sentences = []
+
+    if dataset == "economynews":
+        with open("../data/economyNews/economyNews.json", encoding="utf-8") as file:
+            data = json.load(file)
+            for point in tqdm(data):
+
+                scores = []
+
+                answer = predict2(point["headlineText"], finBert)
+                for j, score in enumerate(answer["sentiment_score"]):
+                    scores.append(score)
+
+                answer = predict2(point["headlineTitle"], finBert)
+                for j, score in enumerate(answer["sentiment_score"]):
+                    scores.append(score)
+
+                groundTruths.append(point["classification"])
+
+                if mean(scores) > 0:
+                    predicted.append(1)
+                else:
+                    predicted.append(-1)
+
+                sentences.append(point["headlineTitle"] + '.' + point["headlineText"])
+
+    elif dataset == "phrasebank":
+        with open("../data/FinancialPhraseBank-v1.0/Sentences_50Agree.txt", encoding="ISO-8859-1") as file:
+            lines = file.readlines()
+            for line in tqdm(lines):
+                sentence, groundTruth = line.rsplit(' ', 1)
+                groundTruths.append(groundTruth.replace('\n', '').replace(".@", ''))
+                predicted.append(predict2(sentence, finBert)["prediction"][0])
+                sentences.append(sentence)
+
+    elif dataset.startswith("sls"):
+
+        if dataset == "slsamazon":
+            file = open("../data/SLS/amazon_cells_labelled.txt")
+        elif dataset == "slsimbd":
+            file = open("../data/SLS/imdb_labelled.txt")
+        elif dataset == "slsyelp":
+            file = open("../data/SLS/yelp_labelled.txt")
+        else:
+            print("Parameter error: dataset=" + str(dataset) + " is not an accepted input")
+            exit(-2)
+
+        lines = file.readlines()
+        for line in tqdm(lines):
+
+            groundTruths.append(line[-2])
+
+            if predict2(line[:-3], finBert)["sentiment_score"][0] > 0:
+                predicted.append('1')
+            else:
+                predicted.append('0')
+
+            sentences.append(line[:-3])
+
+        file.close()
+    elif dataset == "stsgold":
+        with open("../data/STS-Gold/sts_gold_tweet.csv") as file:
+            reader = csv.reader(file)
+            next(reader, None)  # Skip headers
+
+            for row in tqdm(reader):
+                groundTruths.append(row[1])
+
+                if predict2(row[2], finBert)["sentiment_score"][0] > 0:
+                    predicted.append('4')
+                else:
+                    predicted.append('0')
+
+                sentences.append(row[2])
+    else:
+        print("Parameter error: dataset=\"" + str(dataset) + "\" is not an accepted input")
+        exit(-2)
+
+    if returnSentences:
+        return [sentences, predicted, groundTruths]
+    return groundTruths, predicted
 
 
 class Config(object):
